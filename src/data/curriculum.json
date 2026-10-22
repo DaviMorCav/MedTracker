@@ -1,0 +1,4147 @@
+{
+ "version": 1,
+ "source": "Lista_MEDCURSO_organizada.md",
+ "subjects": [
+  {
+   "id": "cardiologia",
+   "name": "Cardiologia",
+   "volumes": [
+    {
+     "id": "cardiologia-v1",
+     "name": "Cardiologia vol. 1 - Arritmias Cardíacas",
+     "pdf": "Cardiologia vol. 1 - Arritmias Cardíacas.pdf",
+     "lessons": [
+      {
+       "id": "cardiologia-v1-a01",
+       "title": "Eletrocardiograma das Taquiarritimias",
+       "kind": "aula"
+      },
+      {
+       "id": "cardiologia-v1-a02",
+       "title": "Eletrocardiograma Normal",
+       "kind": "aula"
+      },
+      {
+       "id": "cardiologia-v1-a03",
+       "title": "Fibrilação e Flutter Atrial",
+       "kind": "aula"
+      },
+      {
+       "id": "cardiologia-v1-a04",
+       "title": "Taquicardia Supraventricular Paroxística",
+       "kind": "aula"
+      },
+      {
+       "id": "cardiologia-v1-a05",
+       "title": "Taquicardia Ventricular",
+       "kind": "aula"
+      },
+      {
+       "id": "cardiologia-v1-a06",
+       "title": "Bradiarritmias - PCR 1",
+       "kind": "aula"
+      },
+      {
+       "id": "cardiologia-v1-a07",
+       "title": "Bradiarritmias - PCR 2",
+       "kind": "aula"
+      },
+      {
+       "id": "cardiologia-v1-b01",
+       "title": "Bloqueios de Ramo",
+       "kind": "bonus"
+      },
+      {
+       "id": "cardiologia-v1-b02",
+       "title": "Anatomia Cardíaca",
+       "kind": "bonus"
+      },
+      {
+       "id": "cardiologia-v1-b03",
+       "title": "Marca-Passo - Conceitos Básicos",
+       "kind": "bonus"
+      },
+      {
+       "id": "cardiologia-v1-b04",
+       "title": "Marca-Passo - Funcionamento do Marca-Passo Definitivo",
+       "kind": "bonus"
+      }
+     ],
+     "apostila": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+     ]
+    },
+    {
+     "id": "cardiologia-v2",
+     "name": "Cardiologia vol. 2 - Insuficiência Cardíaca",
+     "pdf": "Cardiologia vol. 2 - Insuficiência Cardíaca.pdf",
+     "lessons": [
+      {
+       "id": "cardiologia-v2-a01",
+       "title": "Insuficiência Cardíaca Aguda",
+       "kind": "aula"
+      },
+      {
+       "id": "cardiologia-v2-a02",
+       "title": "Insuficiência Cardíaca 1",
+       "kind": "aula"
+      },
+      {
+       "id": "cardiologia-v2-a03",
+       "title": "Insuficiência Cardíaca 2",
+       "kind": "aula"
+      },
+      {
+       "id": "cardiologia-v2-a04",
+       "title": "Conceitos Iniciais",
+       "kind": "aula"
+      },
+      {
+       "id": "cardiologia-v2-a05",
+       "title": "Crise Hipertensiva",
+       "kind": "aula"
+      },
+      {
+       "id": "cardiologia-v2-a06",
+       "title": "Estenose Aórtica",
+       "kind": "aula"
+      },
+      {
+       "id": "cardiologia-v2-a07",
+       "title": "Estenose Mitral",
+       "kind": "aula"
+      },
+      {
+       "id": "cardiologia-v2-a08",
+       "title": "Hipertensão - Abordagem Principal",
+       "kind": "aula"
+      },
+      {
+       "id": "cardiologia-v2-a09",
+       "title": "Hipertensão Secundária",
+       "kind": "aula"
+      },
+      {
+       "id": "cardiologia-v2-a10",
+       "title": "Insuficiência Aórtica",
+       "kind": "aula"
+      },
+      {
+       "id": "cardiologia-v2-a11",
+       "title": "Insuficiência Mitral",
+       "kind": "aula"
+      },
+      {
+       "id": "cardiologia-v2-b01",
+       "title": "Insuficiencia Cardiaca Aguda",
+       "kind": "bonus"
+      },
+      {
+       "id": "cardiologia-v2-b02",
+       "title": "Cardiomiopatia Hipertrófica",
+       "kind": "bonus"
+      },
+      {
+       "id": "cardiologia-v2-b03",
+       "title": "Cardiomiopatia de Estresse",
+       "kind": "bonus"
+      },
+      {
+       "id": "cardiologia-v2-b04",
+       "title": "Cardiomiopatia Dilatada",
+       "kind": "bonus"
+      },
+      {
+       "id": "cardiologia-v2-b05",
+       "title": "Cardiomiopatia Restritiva",
+       "kind": "bonus"
+      },
+      {
+       "id": "cardiologia-v2-b06",
+       "title": "Pericardiopatias",
+       "kind": "bonus"
+      },
+      {
+       "id": "cardiologia-v2-b07",
+       "title": "Hipertensão Pulmonar",
+       "kind": "bonus"
+      }
+     ],
+     "apostila": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+     ]
+    },
+    {
+     "id": "cardiologia-v3",
+     "name": "Cardiologia vol. 3 - Doença Coronariana",
+     "pdf": "Cardiologia vol. 3 - Doença Coronariana.pdf",
+     "lessons": [
+      {
+       "id": "cardiologia-v3-a01",
+       "title": "Síndromes Coronarianas 1",
+       "kind": "aula"
+      },
+      {
+       "id": "cardiologia-v3-a02",
+       "title": "Síndromes Coronarianas 2",
+       "kind": "aula"
+      },
+      {
+       "id": "cardiologia-v3-b01",
+       "title": "Complicações Pós-IAM",
+       "kind": "bonus"
+      }
+     ],
+     "apostila": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cirurgia",
+   "name": "Cirurgia",
+   "volumes": [
+    {
+     "id": "cirurgia-v1",
+     "name": "Cirurgia vol. 1 - Trauma",
+     "pdf": "Cirurgia vol. 1 - Trauma.pdf",
+     "lessons": [
+      {
+       "id": "cirurgia-v1-a01",
+       "title": "Trauma I – Primeiro Atendimento, Cabeça e Tórax - Bloco 1 - Avaliação Inicial",
+       "kind": "aula"
+      },
+      {
+       "id": "cirurgia-v1-a02",
+       "title": "Trauma I – Primeiro Atendimento, Cabeça e Tórax - Bloco 2 - Trauma de Tórax",
+       "kind": "aula"
+      },
+      {
+       "id": "cirurgia-v1-a03",
+       "title": "Trauma II - Bloco 1 - Trauma de Abdome e Pelve",
+       "kind": "aula"
+      },
+      {
+       "id": "cirurgia-v1-a04",
+       "title": "Trauma II - Bloco 2 - Traumatismo Cranioencefálico",
+       "kind": "aula"
+      },
+      {
+       "id": "cirurgia-v1-b01",
+       "title": "Embolia Gordurosa",
+       "kind": "bonus"
+      },
+      {
+       "id": "cirurgia-v1-b02",
+       "title": "Trauma Cervical e Fraturas de Face",
+       "kind": "bonus"
+      },
+      {
+       "id": "cirurgia-v1-b03",
+       "title": "Trauma Diafragmático",
+       "kind": "bonus"
+      },
+      {
+       "id": "cirurgia-v1-b04",
+       "title": "Trauma Preparação e Triagem",
+       "kind": "bonus"
+      },
+      {
+       "id": "cirurgia-v1-b05",
+       "title": "Trauma Vascular Abdominal",
+       "kind": "bonus"
+      },
+      {
+       "id": "cirurgia-v1-b06",
+       "title": "Morte Encefalica",
+       "kind": "bonus"
+      },
+      {
+       "id": "cirurgia-v1-b07",
+       "title": "Trauma Cranioencefálico e Colar Cervical",
+       "kind": "bonus"
+      },
+      {
+       "id": "cirurgia-v1-b08",
+       "title": "Trauma da Coluna Vertebral e Trauma Raquimedular",
+       "kind": "bonus"
+      },
+      {
+       "id": "cirurgia-v1-b09",
+       "title": "Trauma de Abdômen e Lesões Específicas",
+       "kind": "bonus"
+      },
+      {
+       "id": "cirurgia-v1-b10",
+       "title": "Trauma Lesões Específicas - Uretra e Bexiga",
+       "kind": "bonus"
+      },
+      {
+       "id": "cirurgia-v1-b11",
+       "title": "Trauma Renal",
+       "kind": "bonus"
+      }
+     ],
+     "apostila": []
+    },
+    {
+     "id": "cirurgia-v2",
+     "name": "Cirurgia vol. 2 - Urologia, Resposta ao Trauma, Queimadura, Cirurgia Plástica",
+     "pdf": "Cirurgia vol. 2 - Urologia, Resposta ao Trauma, Queimadura, Cirurgia Plástica.pdf",
+     "lessons": [
+      {
+       "id": "cirurgia-v2-a01",
+       "title": "Urologia - Câncer de Bexiga",
+       "kind": "aula"
+      },
+      {
+       "id": "cirurgia-v2-a02",
+       "title": "Urologia -Câncer de Rim",
+       "kind": "aula"
+      },
+      {
+       "id": "cirurgia-v2-a03",
+       "title": "Câncer de Próstata",
+       "kind": "aula"
+      },
+      {
+       "id": "cirurgia-v2-a04",
+       "title": "Hiperplasia Prostatica Benigna",
+       "kind": "aula"
+      },
+      {
+       "id": "cirurgia-v2-a05",
+       "title": "Nefrolitíase",
+       "kind": "aula"
+      },
+      {
+       "id": "cirurgia-v2-a06",
+       "title": "Queimaduras",
+       "kind": "aula"
+      },
+      {
+       "id": "cirurgia-v2-a07",
+       "title": "Remit - Resposta Endócrina Metabólica Imunológica ao Trauma",
+       "kind": "aula"
+      },
+      {
+       "id": "cirurgia-v2-b01",
+       "title": "Suporte Nutricional",
+       "kind": "bonus"
+      },
+      {
+       "id": "cirurgia-v2-b02",
+       "title": "Cirurgia Plastica",
+       "kind": "bonus"
+      },
+      {
+       "id": "cirurgia-v2-b03",
+       "title": "Ulceras de Pressão",
+       "kind": "bonus"
+      },
+      {
+       "id": "cirurgia-v2-b04",
+       "title": "Cicatrização de Feridas",
+       "kind": "bonus"
+      },
+      {
+       "id": "cirurgia-v2-b05",
+       "title": "Choque - Monitorização Hemodinamica e Perfusional",
+       "kind": "bonus"
+      },
+      {
+       "id": "cirurgia-v2-b06",
+       "title": "Choque - Tratamento",
+       "kind": "bonus"
+      },
+      {
+       "id": "cirurgia-v2-b07",
+       "title": "Urologia - Câncer de Bexiga",
+       "kind": "bonus"
+      },
+      {
+       "id": "cirurgia-v2-b08",
+       "title": "Urologia -Câncer de Rim",
+       "kind": "bonus"
+      },
+      {
+       "id": "cirurgia-v2-b09",
+       "title": "Anestesiologia",
+       "kind": "bonus"
+      }
+     ],
+     "apostila": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+     ]
+    },
+    {
+     "id": "cirurgia-v3",
+     "name": "Cirurgia vol. 3 - Pré-Op, Complicações em Cirurgia, Hérnias, Anestesio",
+     "pdf": "Cirurgia vol. 3 - Pré-Op, Complicações em Cirurgia, Hérnias, Anestesio.pdf",
+     "lessons": [
+      {
+       "id": "cirurgia-v3-a01",
+       "title": "Protocolo de Cirurgia Segura",
+       "kind": "aula"
+      },
+      {
+       "id": "cirurgia-v3-a02",
+       "title": "Hérnias da Virilha - Inguinal e Femoral - Tratamento",
+       "kind": "aula"
+      },
+      {
+       "id": "cirurgia-v3-a03",
+       "title": "Hérnias da Virilha - Inguinal e Femoral",
+       "kind": "aula"
+      },
+      {
+       "id": "cirurgia-v3-a04",
+       "title": "Hérnias de Parede Abdominal - Anatomia da Região da Virilha",
+       "kind": "aula"
+      },
+      {
+       "id": "cirurgia-v3-a05",
+       "title": "Outros Tipos de Hérnia",
+       "kind": "aula"
+      },
+      {
+       "id": "cirurgia-v3-a06",
+       "title": "Pós-Operatório",
+       "kind": "aula"
+      },
+      {
+       "id": "cirurgia-v3-a07",
+       "title": "Pré-Operatório",
+       "kind": "aula"
+      },
+      {
+       "id": "cirurgia-v3-b01",
+       "title": "Hérnias - Abordagem Videolaparoscópica",
+       "kind": "bonus"
+      },
+      {
+       "id": "cirurgia-v3-b02",
+       "title": "Hérnias na Infância",
+       "kind": "bonus"
+      },
+      {
+       "id": "cirurgia-v3-b03",
+       "title": "Outras Hérnias",
+       "kind": "bonus"
+      },
+      {
+       "id": "cirurgia-v3-b04",
+       "title": "Anestesiologia",
+       "kind": "bonus"
+      },
+      {
+       "id": "cirurgia-v3-b05",
+       "title": "Profilaxia do TEP e TVP",
+       "kind": "bonus"
+      },
+      {
+       "id": "cirurgia-v3-b06",
+       "title": "Cicatrizaçao de Feridas",
+       "kind": "bonus"
+      },
+      {
+       "id": "cirurgia-v3-b07",
+       "title": "Tipos de Tela",
+       "kind": "bonus"
+      },
+      {
+       "id": "cirurgia-v3-b08",
+       "title": "Fios de Sutura",
+       "kind": "bonus"
+      },
+      {
+       "id": "cirurgia-v3-b09",
+       "title": "Fístulas Digestivas e Deiscência",
+       "kind": "bonus"
+      },
+      {
+       "id": "cirurgia-v3-b10",
+       "title": "Projeto ERAS e ACERTO",
+       "kind": "bonus"
+      }
+     ],
+     "apostila": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+     ]
+    },
+    {
+     "id": "cirurgia-v4",
+     "name": "Cirurgia vol. 4 - Cirurgia Vascular, Proctologia, Cirurgia de Obesidade",
+     "pdf": "Cirurgia vol. 4 - Cirurgia Vascular, Proctologia, Cirurgia de Obesidade.pdf",
+     "lessons": [
+      {
+       "id": "cirurgia-v4-a01",
+       "title": "Cirurgia Bariátrica",
+       "kind": "aula"
+      },
+      {
+       "id": "cirurgia-v4-a02",
+       "title": "Cirurgia Vascular Dissecção da Aorta Toracica",
+       "kind": "aula"
+      },
+      {
+       "id": "cirurgia-v4-a03",
+       "title": "Cirurgia Vascular Doença Venosa Crônica",
+       "kind": "aula"
+      },
+      {
+       "id": "cirurgia-v4-a04",
+       "title": "Cirurgia Vascular Doenças Arterial Periférica",
+       "kind": "aula"
+      },
+      {
+       "id": "cirurgia-v4-a05",
+       "title": "Cirurgia Vascular Oclusão Arterial Aguda dos MMII",
+       "kind": "aula"
+      },
+      {
+       "id": "cirurgia-v4-a06",
+       "title": "Cirurgia Vascular Ruptura do AAA",
+       "kind": "aula"
+      },
+      {
+       "id": "cirurgia-v4-a07",
+       "title": "Cirurgia Vascular-AAA",
+       "kind": "aula"
+      },
+      {
+       "id": "cirurgia-v4-a08",
+       "title": "Proctologia",
+       "kind": "aula"
+      },
+      {
+       "id": "cirurgia-v4-b01",
+       "title": "Cirurgia Plastica",
+       "kind": "bonus"
+      },
+      {
+       "id": "cirurgia-v4-b02",
+       "title": "Colangite Esclerosante Primaria",
+       "kind": "bonus"
+      },
+      {
+       "id": "cirurgia-v4-b03",
+       "title": "Anatomia do Reto e Canal Anal",
+       "kind": "bonus"
+      },
+      {
+       "id": "cirurgia-v4-b04",
+       "title": "Cirurgia Pediátrica - Afecções Cervicais",
+       "kind": "bonus"
+      },
+      {
+       "id": "cirurgia-v4-b05",
+       "title": "Cirurgia Pediátrica - Gastrointestinal 1",
+       "kind": "bonus"
+      },
+      {
+       "id": "cirurgia-v4-b06",
+       "title": "Cirurgia Pediátrica - Gastrointestinal 2",
+       "kind": "bonus"
+      },
+      {
+       "id": "cirurgia-v4-b07",
+       "title": "Cirurgia Pediátrica - Gastrointestinal 3",
+       "kind": "bonus"
+      },
+      {
+       "id": "cirurgia-v4-b08",
+       "title": "Cirurgia Pediátrica - Geniturinário e Tumores",
+       "kind": "bonus"
+      },
+      {
+       "id": "cirurgia-v4-b09",
+       "title": "Cabeça e Pescoço",
+       "kind": "bonus"
+      }
+     ],
+     "apostila": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dermatologia",
+   "name": "Dermatologia",
+   "volumes": [
+    {
+     "id": "dermatologia-v1",
+     "name": "Dermatologia - Doenças Infectoparasitárias, Dermatoses Inflamatória e Oncologia",
+     "pdf": "Dermatologia - Doenças Infectoparasitárias, Dermatoses Inflamatória e Oncologia.pdf",
+     "lessons": [
+      {
+       "id": "dermatologia-v1-a01",
+       "title": "Mpox",
+       "kind": "aula"
+      },
+      {
+       "id": "dermatologia-v1-a02",
+       "title": "Acne",
+       "kind": "aula"
+      },
+      {
+       "id": "dermatologia-v1-a03",
+       "title": "Dermatologia II - Parte 1",
+       "kind": "aula"
+      },
+      {
+       "id": "dermatologia-v1-a04",
+       "title": "Dermatologia II - Parte 2",
+       "kind": "aula"
+      },
+      {
+       "id": "dermatologia-v1-a05",
+       "title": "Hanseniase",
+       "kind": "aula"
+      },
+      {
+       "id": "dermatologia-v1-a06",
+       "title": "Outras Infecções",
+       "kind": "aula"
+      }
+     ],
+     "apostila": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+     ]
+    }
+   ]
+  },
+  {
+   "id": "endocrinologia",
+   "name": "Endocrinologia",
+   "volumes": [
+    {
+     "id": "endocrinologia-v1",
+     "name": "Endocrinologia vol. 1 - Principais Doenças Endócrinas",
+     "pdf": "Endocrinologia vol. 1 - Principais Doenças Endócrinas.pdf",
+     "lessons": [
+      {
+       "id": "endocrinologia-v1-a01",
+       "title": "Tireoide I",
+       "kind": "aula"
+      },
+      {
+       "id": "endocrinologia-v1-a02",
+       "title": "Doenças da Tireoide II Cancer de Tireoide",
+       "kind": "aula"
+      },
+      {
+       "id": "endocrinologia-v1-a03",
+       "title": "Doenças da Tireoide II Hashimoto e Hipotireoidismo",
+       "kind": "aula"
+      },
+      {
+       "id": "endocrinologia-v1-a04",
+       "title": "Doenças da Tireoide II Introdução",
+       "kind": "aula"
+      },
+      {
+       "id": "endocrinologia-v1-a05",
+       "title": "Doenças da Tireoide II Nodulo de Tireoide",
+       "kind": "aula"
+      },
+      {
+       "id": "endocrinologia-v1-a06",
+       "title": "Doenças - Da - Tireoide - II - Tireoidite - E - Hipotireoidismo",
+       "kind": "aula"
+      },
+      {
+       "id": "endocrinologia-v1-a07",
+       "title": "Doenças da Adrenal",
+       "kind": "aula"
+      },
+      {
+       "id": "endocrinologia-v1-b01",
+       "title": "Hipófise Hipotalamo",
+       "kind": "bonus"
+      },
+      {
+       "id": "endocrinologia-v1-b02",
+       "title": "Anatomia da Tireoide",
+       "kind": "bonus"
+      },
+      {
+       "id": "endocrinologia-v1-b03",
+       "title": "Hiperparatireoidismo Primário",
+       "kind": "bonus"
+      },
+      {
+       "id": "endocrinologia-v1-b04",
+       "title": "Hipofise e Hipotalamo",
+       "kind": "bonus"
+      },
+      {
+       "id": "endocrinologia-v1-b05",
+       "title": "Hiperparatireoidismo Secundario e Terciario",
+       "kind": "bonus"
+      },
+      {
+       "id": "endocrinologia-v1-b06",
+       "title": "Incidentaloma Adrenal",
+       "kind": "bonus"
+      },
+      {
+       "id": "endocrinologia-v1-b07",
+       "title": "Hiperplasia Adrenal Congenita",
+       "kind": "bonus"
+      },
+      {
+       "id": "endocrinologia-v1-b08",
+       "title": "Neoplasia Endocrina Multipla",
+       "kind": "bonus"
+      },
+      {
+       "id": "endocrinologia-v1-b09",
+       "title": "Hipoparatireoidismo",
+       "kind": "bonus"
+      },
+      {
+       "id": "endocrinologia-v1-b10",
+       "title": "Anatomia da Hipofise e do Hipotalamo",
+       "kind": "bonus"
+      },
+      {
+       "id": "endocrinologia-v1-b11",
+       "title": "Anatomia da Adrenal",
+       "kind": "bonus"
+      },
+      {
+       "id": "endocrinologia-v1-b12",
+       "title": "Raquitismo e Osteomalacia",
+       "kind": "bonus"
+      },
+      {
+       "id": "endocrinologia-v1-b13",
+       "title": "Eutireoideo Doente",
+       "kind": "bonus"
+      },
+      {
+       "id": "endocrinologia-v1-b14",
+       "title": "Hipotireoidismo Congênito",
+       "kind": "bonus"
+      }
+     ],
+     "apostila": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43
+     ]
+    },
+    {
+     "id": "endocrinologia-v2",
+     "name": "Endocrinologia vol. 2 - DM e Dislipidemia",
+     "pdf": "Endocrinologia vol. 2 - DM e Dislipidemia.pdf",
+     "lessons": [
+      {
+       "id": "endocrinologia-v2-a01",
+       "title": "Complicações Agudas",
+       "kind": "aula"
+      },
+      {
+       "id": "endocrinologia-v2-a02",
+       "title": "Diabetes Introdução e Diagnostico",
+       "kind": "aula"
+      },
+      {
+       "id": "endocrinologia-v2-a03",
+       "title": "Tratamento",
+       "kind": "aula"
+      },
+      {
+       "id": "endocrinologia-v2-b01",
+       "title": "Obesidade - Introdução",
+       "kind": "bonus"
+      },
+      {
+       "id": "endocrinologia-v2-b02",
+       "title": "Obesidade - Fisiopatologia e Tratamento Clinico",
+       "kind": "bonus"
+      },
+      {
+       "id": "endocrinologia-v2-b03",
+       "title": "Obesidade - Cirurgia Bariatrica",
+       "kind": "bonus"
+      },
+      {
+       "id": "endocrinologia-v2-b04",
+       "title": "Obesidade - Alterações Funcionais Pós-Bariatrica",
+       "kind": "bonus"
+      },
+      {
+       "id": "endocrinologia-v2-b05",
+       "title": "Hipoglicemia",
+       "kind": "bonus"
+      },
+      {
+       "id": "endocrinologia-v2-b06",
+       "title": "Pé Diabético",
+       "kind": "bonus"
+      },
+      {
+       "id": "endocrinologia-v2-b07",
+       "title": "Hiperparatireoidismo Primário",
+       "kind": "bonus"
+      },
+      {
+       "id": "endocrinologia-v2-b08",
+       "title": "Dislipidemia",
+       "kind": "bonus"
+      },
+      {
+       "id": "endocrinologia-v2-b09",
+       "title": "Hipofise e Hipotalamo",
+       "kind": "bonus"
+      }
+     ],
+     "apostila": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gastrologia",
+   "name": "Gastrologia",
+   "volumes": [
+    {
+     "id": "gastrologia-v1",
+     "name": "Gastrologia vol. 1 - Esôfago, Estômago e Duodeno",
+     "pdf": "Gastrologia vol. 1 - Esôfago, Estômago e Duodeno.pdf",
+     "lessons": [
+      {
+       "id": "gastrologia-v1-a01",
+       "title": "Hemorragia Digestiva Alta",
+       "kind": "aula"
+      },
+      {
+       "id": "gastrologia-v1-a02",
+       "title": "Acalasia",
+       "kind": "aula"
+      },
+      {
+       "id": "gastrologia-v1-a03",
+       "title": "Câncer de Esôfago",
+       "kind": "aula"
+      },
+      {
+       "id": "gastrologia-v1-a04",
+       "title": "Divertículo de Zenker",
+       "kind": "aula"
+      },
+      {
+       "id": "gastrologia-v1-a05",
+       "title": "DRGE",
+       "kind": "aula"
+      },
+      {
+       "id": "gastrologia-v1-a06",
+       "title": "Câncer Gástrico",
+       "kind": "aula"
+      },
+      {
+       "id": "gastrologia-v1-a07",
+       "title": "Doença Ulcerosa Péptica - As Cirurgias",
+       "kind": "aula"
+      },
+      {
+       "id": "gastrologia-v1-a08",
+       "title": "Doença Ulcerosa Péptica - Clínica, Diagnóstico e Tratamento",
+       "kind": "aula"
+      },
+      {
+       "id": "gastrologia-v1-a09",
+       "title": "Doença Ulcerosa Péptica - Noções Gerais",
+       "kind": "aula"
+      },
+      {
+       "id": "gastrologia-v1-a10",
+       "title": "Síndromes Pós-Gastrectomias",
+       "kind": "aula"
+      },
+      {
+       "id": "gastrologia-v1-b01",
+       "title": "Anatomia do Estômago",
+       "kind": "bonus"
+      },
+      {
+       "id": "gastrologia-v1-b02",
+       "title": "Anatomia do Esôfago",
+       "kind": "bonus"
+      },
+      {
+       "id": "gastrologia-v1-b03",
+       "title": "Hérnia de Hiato",
+       "kind": "bonus"
+      },
+      {
+       "id": "gastrologia-v1-b04",
+       "title": "Perfuração de Esôfago",
+       "kind": "bonus"
+      },
+      {
+       "id": "gastrologia-v1-b05",
+       "title": "GIST",
+       "kind": "bonus"
+      },
+      {
+       "id": "gastrologia-v1-b06",
+       "title": "Diverticulos Esofagicos",
+       "kind": "bonus"
+      },
+      {
+       "id": "gastrologia-v1-b07",
+       "title": "Linfoma Gástrico",
+       "kind": "bonus"
+      }
+     ],
+     "apostila": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+     ]
+    },
+    {
+     "id": "gastrologia-v2",
+     "name": "Gastrologia vol. 2 - Doenças Intestinais",
+     "pdf": "Gastrologia vol. 2 - Doenças Intestinais.pdf",
+     "lessons": [
+      {
+       "id": "gastrologia-v2-a01",
+       "title": "Hemorragia Digestiva Baixa",
+       "kind": "aula"
+      },
+      {
+       "id": "gastrologia-v2-a02",
+       "title": "Sindromes Disabsortivas e DII - Bloco 01",
+       "kind": "aula"
+      },
+      {
+       "id": "gastrologia-v2-a03",
+       "title": "Sindromes Disabsortivas e DII - Bloco 02",
+       "kind": "aula"
+      },
+      {
+       "id": "gastrologia-v2-a04",
+       "title": "Isquemia Intestinal",
+       "kind": "aula"
+      },
+      {
+       "id": "gastrologia-v2-a05",
+       "title": "Obstrução Intestinal - Abordagem Sindrômica",
+       "kind": "aula"
+      },
+      {
+       "id": "gastrologia-v2-a06",
+       "title": "Obstrução Intestinal - Causas",
+       "kind": "aula"
+      },
+      {
+       "id": "gastrologia-v2-a07",
+       "title": "Apendicite Aguda",
+       "kind": "aula"
+      },
+      {
+       "id": "gastrologia-v2-a08",
+       "title": "Câncer Colorretal",
+       "kind": "aula"
+      },
+      {
+       "id": "gastrologia-v2-a09",
+       "title": "Diverticulite Aguda",
+       "kind": "aula"
+      },
+      {
+       "id": "gastrologia-v2-a10",
+       "title": "Doença Diverticular dos Cólons",
+       "kind": "aula"
+      },
+      {
+       "id": "gastrologia-v2-a11",
+       "title": "Polipos Intestinais e Síndromes de Polipose",
+       "kind": "aula"
+      },
+      {
+       "id": "gastrologia-v2-b01",
+       "title": "Colite Pseudomembranosa",
+       "kind": "bonus"
+      },
+      {
+       "id": "gastrologia-v2-b02",
+       "title": "Síndrome do Intestino Irritável",
+       "kind": "bonus"
+      },
+      {
+       "id": "gastrologia-v2-b03",
+       "title": "Tumores Carcinoides",
+       "kind": "bonus"
+      }
+     ],
+     "apostila": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49
+     ]
+    },
+    {
+     "id": "gastrologia-v3",
+     "name": "Gastrologia vol. 3 - Tumores Hepáticos e Doenças do Pâncreas",
+     "pdf": "Gastrologia vol. 3 - Tumores Hepáticos e Doenças do Pâncreas.pdf",
+     "lessons": [
+      {
+       "id": "gastrologia-v3-a01",
+       "title": "Doenças das Vias Biliares - Colangite Aguda",
+       "kind": "aula"
+      },
+      {
+       "id": "gastrologia-v3-a02",
+       "title": "Doenças das Vias Biliares - Colecistite Aguda",
+       "kind": "aula"
+      },
+      {
+       "id": "gastrologia-v3-a03",
+       "title": "Doenças das Vias Biliares - Coledocolitíase",
+       "kind": "aula"
+      },
+      {
+       "id": "gastrologia-v3-a04",
+       "title": "Doenças das Vias Biliares - Colelitíase",
+       "kind": "aula"
+      },
+      {
+       "id": "gastrologia-v3-a05",
+       "title": "Doenças das Vias Biliares - Noções Gerais - 1",
+       "kind": "aula"
+      },
+      {
+       "id": "gastrologia-v3-a06",
+       "title": "Doenças das Vias Biliares - Outras Colecistites - 1",
+       "kind": "aula"
+      },
+      {
+       "id": "gastrologia-v3-a07",
+       "title": "Pancreatie - Cronica e Cancer de Pancreas",
+       "kind": "aula"
+      },
+      {
+       "id": "gastrologia-v3-a08",
+       "title": "Pancreatite Aguda",
+       "kind": "aula"
+      },
+      {
+       "id": "gastrologia-v3-b01",
+       "title": "Anatomia do Cólon",
+       "kind": "bonus"
+      },
+      {
+       "id": "gastrologia-v3-b02",
+       "title": "Abscesso Hepático",
+       "kind": "bonus"
+      },
+      {
+       "id": "gastrologia-v3-b03",
+       "title": "Anatomia das Vias Biliares",
+       "kind": "bonus"
+      },
+      {
+       "id": "gastrologia-v3-b04",
+       "title": "Anatomia do Pâncreas",
+       "kind": "bonus"
+      },
+      {
+       "id": "gastrologia-v3-b05",
+       "title": "Cirurgias Pancreáticas",
+       "kind": "bonus"
+      },
+      {
+       "id": "gastrologia-v3-b06",
+       "title": "Cistos de Via Biliar",
+       "kind": "bonus"
+      },
+      {
+       "id": "gastrologia-v3-b07",
+       "title": "Lesão Iatrogênica das Vias Biliares",
+       "kind": "bonus"
+      },
+      {
+       "id": "gastrologia-v3-b08",
+       "title": "Neoplasias Císticas do Pâncreas",
+       "kind": "bonus"
+      },
+      {
+       "id": "gastrologia-v3-b09",
+       "title": "Neoplasias das Vias Biliares",
+       "kind": "bonus"
+      },
+      {
+       "id": "gastrologia-v3-b10",
+       "title": "Tumores Hepáticos Benignos",
+       "kind": "bonus"
+      },
+      {
+       "id": "gastrologia-v3-b11",
+       "title": "Tumores Hepáticos Malignos",
+       "kind": "bonus"
+      },
+      {
+       "id": "gastrologia-v3-b12",
+       "title": "Tumores Neuroendócrinos do Pâncreas",
+       "kind": "bonus"
+      }
+     ],
+     "apostila": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ginecologia",
+   "name": "Ginecologia",
+   "volumes": [
+    {
+     "id": "ginecologia-v1",
+     "name": "Ginecologia vol. 1 - Fisiologia Menstrual, Anticoncepção, Amenorreia, SOP",
+     "pdf": "Ginecologia vol. 1 - Fisiologia Menstrual, Anticoncepção, Amenorreia, SOP.pdf",
+     "lessons": [
+      {
+       "id": "ginecologia-v1-a01",
+       "title": "Anticoncepção",
+       "kind": "aula"
+      },
+      {
+       "id": "ginecologia-v1-a02",
+       "title": "Ciclo Menstrual e Anticoncepção - Introdução",
+       "kind": "aula"
+      },
+      {
+       "id": "ginecologia-v1-a03",
+       "title": "Ciclo Menstrual",
+       "kind": "aula"
+      },
+      {
+       "id": "ginecologia-v1-a04",
+       "title": "Amenorreia e Ovário Policístico - Bloco 1 - Introdução",
+       "kind": "aula"
+      },
+      {
+       "id": "ginecologia-v1-a05",
+       "title": "Amenorreia e Ovário Policístico - Bloco 2 - Amenorreia",
+       "kind": "aula"
+      },
+      {
+       "id": "ginecologia-v1-a06",
+       "title": "Amenorreia e Ovário Policístico - Bloco 3 - SOP",
+       "kind": "aula"
+      },
+      {
+       "id": "ginecologia-v1-b01",
+       "title": "Síndrome Pré-Menstrual e Transtorno Disfórico Pré-Menstrual",
+       "kind": "bonus"
+      },
+      {
+       "id": "ginecologia-v1-b02",
+       "title": "Sindrome Pré-Menstrual (SPM) e Sindrome Disforica Pre-Menstrual (SDPM)",
+       "kind": "bonus"
+      }
+     ],
+     "apostila": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+     ]
+    },
+    {
+     "id": "ginecologia-v2",
+     "name": "Ginecologia vol. 2 - Sangramento Uterino Anormal",
+     "pdf": "Ginecologia vol. 2 - Sangramento Uterino Anormal.pdf",
+     "lessons": [
+      {
+       "id": "ginecologia-v2-a01",
+       "title": "Adenomiose",
+       "kind": "aula"
+      },
+      {
+       "id": "ginecologia-v2-a02",
+       "title": "Endometriose",
+       "kind": "aula"
+      },
+      {
+       "id": "ginecologia-v2-a03",
+       "title": "Introdução",
+       "kind": "aula"
+      },
+      {
+       "id": "ginecologia-v2-a04",
+       "title": "Mioma",
+       "kind": "aula"
+      },
+      {
+       "id": "ginecologia-v2-a05",
+       "title": "Pólipos",
+       "kind": "aula"
+      },
+      {
+       "id": "ginecologia-v2-a06",
+       "title": "Sangramento Uterino Anormal",
+       "kind": "aula"
+      },
+      {
+       "id": "ginecologia-v2-b01",
+       "title": "Infertilidade",
+       "kind": "bonus"
+      },
+      {
+       "id": "ginecologia-v2-b02",
+       "title": "Pólipos Endometrais e Dismenorreia",
+       "kind": "bonus"
+      }
+     ],
+     "apostila": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+     ]
+    },
+    {
+     "id": "ginecologia-v3",
+     "name": "Ginecologia vol. 3 - Climatério, Osteoporose, Distopia, Incontinência",
+     "pdf": "Ginecologia vol. 3 - Climatério, Osteoporose, Distopia, Incontinência.pdf",
+     "lessons": [
+      {
+       "id": "ginecologia-v3-a01",
+       "title": "Climatério",
+       "kind": "aula"
+      },
+      {
+       "id": "ginecologia-v3-a02",
+       "title": "Distopia Genital",
+       "kind": "aula"
+      },
+      {
+       "id": "ginecologia-v3-a03",
+       "title": "Incontinência Urinária",
+       "kind": "aula"
+      },
+      {
+       "id": "ginecologia-v3-a04",
+       "title": "Introdução",
+       "kind": "aula"
+      },
+      {
+       "id": "ginecologia-v3-b01",
+       "title": "Osteoporose",
+       "kind": "bonus"
+      },
+      {
+       "id": "ginecologia-v3-b02",
+       "title": "Fístulas Genitais e Síndrome da Bexiga Dolorosa",
+       "kind": "bonus"
+      }
+     ],
+     "apostila": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+     ]
+    },
+    {
+     "id": "ginecologia-v4",
+     "name": "Ginecologia vol. 4 - Doenças das Mamas e Ovários",
+     "pdf": "Ginecologia vol. 4 - Doenças das Mamas e Ovários.pdf",
+     "lessons": [
+      {
+       "id": "ginecologia-v4-a01",
+       "title": "Doenças das Mamas",
+       "kind": "aula"
+      },
+      {
+       "id": "ginecologia-v4-a02",
+       "title": "Doenças dos Ovários",
+       "kind": "aula"
+      },
+      {
+       "id": "ginecologia-v4-a03",
+       "title": "Introdução",
+       "kind": "aula"
+      },
+      {
+       "id": "ginecologia-v4-b01",
+       "title": "Doença das Mamas e dos Ovários",
+       "kind": "bonus"
+      }
+     ],
+     "apostila": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+     ]
+    },
+    {
+     "id": "ginecologia-v5",
+     "name": "Ginecologia vol. 5 - Hiperplasia, Câncer de Endométrio, Colo, Vulva e Vagina",
+     "pdf": "Ginecologia vol. 5 - Hiperplasia, Câncer de Endométrio, Colo, Vulva e Vagina.pdf",
+     "lessons": [
+      {
+       "id": "ginecologia-v5-a01",
+       "title": "Câncer de Colo e Lesões Precursoras",
+       "kind": "aula"
+      },
+      {
+       "id": "ginecologia-v5-a02",
+       "title": "Câncer de Endométrio",
+       "kind": "aula"
+      },
+      {
+       "id": "ginecologia-v5-a03",
+       "title": "Introdução",
+       "kind": "aula"
+      },
+      {
+       "id": "ginecologia-v5-a04",
+       "title": "Vacina e Condiloma",
+       "kind": "aula"
+      },
+      {
+       "id": "ginecologia-v5-b01",
+       "title": "Neoplasia Intraepitelial Vulvar",
+       "kind": "bonus"
+      },
+      {
+       "id": "ginecologia-v5-b02",
+       "title": "Cancer de Vulva",
+       "kind": "bonus"
+      },
+      {
+       "id": "ginecologia-v5-b03",
+       "title": "Distúrbios do Humor e Tromboembolismo",
+       "kind": "bonus"
+      }
+     ],
+     "apostila": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+     ]
+    },
+    {
+     "id": "ginecologia-v6",
+     "name": "Ginecologia vol. 6 - IST",
+     "pdf": "Ginecologia vol. 6 - IST.pdf",
+     "lessons": [
+      {
+       "id": "ginecologia-v6-a01",
+       "title": "Cervicite e Doença Inflamatória Pélvica",
+       "kind": "aula"
+      },
+      {
+       "id": "ginecologia-v6-a02",
+       "title": "Intro",
+       "kind": "aula"
+      },
+      {
+       "id": "ginecologia-v6-a03",
+       "title": "Úlceras",
+       "kind": "aula"
+      },
+      {
+       "id": "ginecologia-v6-a04",
+       "title": "Violência Sexual",
+       "kind": "aula"
+      },
+      {
+       "id": "ginecologia-v6-a05",
+       "title": "Vulvovaginites",
+       "kind": "aula"
+      },
+      {
+       "id": "ginecologia-v6-b01",
+       "title": "HIV e Gestação",
+       "kind": "bonus"
+      }
+     ],
+     "apostila": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hematologia",
+   "name": "Hematologia",
+   "volumes": [
+    {
+     "id": "hematologia-v1",
+     "name": "Hematologia vol. 1 - Anemias",
+     "pdf": "Hematologia vol. 1 - Anemias.pdf",
+     "lessons": [
+      {
+       "id": "hematologia-v1-a01",
+       "title": "Abordagem Incial da Anemia",
+       "kind": "aula"
+      },
+      {
+       "id": "hematologia-v1-a02",
+       "title": "Anemia de Doença Crônica",
+       "kind": "aula"
+      },
+      {
+       "id": "hematologia-v1-a03",
+       "title": "Anemias Ferropriva",
+       "kind": "aula"
+      },
+      {
+       "id": "hematologia-v1-a04",
+       "title": "Anemias Megaloblastica",
+       "kind": "aula"
+      },
+      {
+       "id": "hematologia-v1-a05",
+       "title": "Anemias Hemolíticas 1",
+       "kind": "aula"
+      },
+      {
+       "id": "hematologia-v1-a06",
+       "title": "Anemias Hemolíticas 2",
+       "kind": "aula"
+      },
+      {
+       "id": "hematologia-v1-b01",
+       "title": "Anemia Aplasica",
+       "kind": "bonus"
+      },
+      {
+       "id": "hematologia-v1-b02",
+       "title": "Anemia Sideroblastica",
+       "kind": "bonus"
+      },
+      {
+       "id": "hematologia-v1-b03",
+       "title": "Hemoglobinuria Paroxística Noturna",
+       "kind": "bonus"
+      },
+      {
+       "id": "hematologia-v1-b04",
+       "title": "Mielodisplasias",
+       "kind": "bonus"
+      },
+      {
+       "id": "hematologia-v1-b05",
+       "title": "Alfa Talassemia",
+       "kind": "bonus"
+      }
+     ],
+     "apostila": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+     ]
+    },
+    {
+     "id": "hematologia-v2",
+     "name": "Hematologia vol. 2 - Neoplasias",
+     "pdf": "Hematologia vol. 2 - Neoplasias.pdf",
+     "lessons": [
+      {
+       "id": "hematologia-v2-a01",
+       "title": "Introdução Às Leucemias",
+       "kind": "aula"
+      },
+      {
+       "id": "hematologia-v2-a02",
+       "title": "Leucemia Linfoide Aguda",
+       "kind": "aula"
+      },
+      {
+       "id": "hematologia-v2-a03",
+       "title": "Leucemia Linfoide Crônica",
+       "kind": "aula"
+      },
+      {
+       "id": "hematologia-v2-a04",
+       "title": "Leucemia Mieloide Aguda",
+       "kind": "aula"
+      },
+      {
+       "id": "hematologia-v2-a05",
+       "title": "Leucemia Mieloide Crônica",
+       "kind": "aula"
+      },
+      {
+       "id": "hematologia-v2-a06",
+       "title": "Leucemias Agudas",
+       "kind": "aula"
+      },
+      {
+       "id": "hematologia-v2-a07",
+       "title": "Leucemias Crônicas",
+       "kind": "aula"
+      },
+      {
+       "id": "hematologia-v2-a08",
+       "title": "Linfomas",
+       "kind": "aula"
+      },
+      {
+       "id": "hematologia-v2-a09",
+       "title": "Mieloma",
+       "kind": "aula"
+      },
+      {
+       "id": "hematologia-v2-a10",
+       "title": "Hemostasia - Bloco 1",
+       "kind": "aula"
+      },
+      {
+       "id": "hematologia-v2-a11",
+       "title": "Hemostasia - Bloco 2",
+       "kind": "aula"
+      },
+      {
+       "id": "hematologia-v2-b01",
+       "title": "Doenças Meioproliferativas",
+       "kind": "bonus"
+      },
+      {
+       "id": "hematologia-v2-b02",
+       "title": "Hemofilias",
+       "kind": "bonus"
+      },
+      {
+       "id": "hematologia-v2-b03",
+       "title": "Esplenomegalia",
+       "kind": "bonus"
+      },
+      {
+       "id": "hematologia-v2-b04",
+       "title": "Tromboelastrograma",
+       "kind": "bonus"
+      }
+     ],
+     "apostila": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hepatologia",
+   "name": "Hepatologia",
+   "volumes": [
+    {
+     "id": "hepatologia-v1",
+     "name": "Hepatologia vol. 1 - Introdução à Hepatologia",
+     "pdf": "Hepatologia vol. 1 - Introdução à Hepatologia.pdf",
+     "lessons": [
+      {
+       "id": "hepatologia-v1-a01",
+       "title": "Hepatite A e E",
+       "kind": "aula"
+      },
+      {
+       "id": "hepatologia-v1-a02",
+       "title": "Hepatite B Aguda",
+       "kind": "aula"
+      },
+      {
+       "id": "hepatologia-v1-a03",
+       "title": "Hepatite B Cronica",
+       "kind": "aula"
+      },
+      {
+       "id": "hepatologia-v1-a04",
+       "title": "Hepatite C Cronica",
+       "kind": "aula"
+      },
+      {
+       "id": "hepatologia-v1-a05",
+       "title": "Introdução Hepatologia",
+       "kind": "aula"
+      },
+      {
+       "id": "hepatologia-v1-b01",
+       "title": "Insuficiência Hepática Aguda",
+       "kind": "bonus"
+      }
+     ],
+     "apostila": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+     ]
+    },
+    {
+     "id": "hepatologia-v2",
+     "name": "Hepatologia vol. 2 - Cirrose Hepática",
+     "pdf": "Hepatologia vol. 2 - Cirrose Hepática.pdf",
+     "lessons": [
+      {
+       "id": "hepatologia-v2-a01",
+       "title": "Cirrose Hepática",
+       "kind": "aula"
+      },
+      {
+       "id": "hepatologia-v2-a02",
+       "title": "Doença Hepática Alcoolica",
+       "kind": "aula"
+      },
+      {
+       "id": "hepatologia-v2-a03",
+       "title": "Esteatose Hepática Metabolica",
+       "kind": "aula"
+      },
+      {
+       "id": "hepatologia-v2-a04",
+       "title": "Hepatopatias Hereditarias",
+       "kind": "aula"
+      },
+      {
+       "id": "hepatologia-v2-a05",
+       "title": "Hepatopatias Autoimunes",
+       "kind": "aula"
+      },
+      {
+       "id": "hepatologia-v2-a06",
+       "title": "Cirrose e Complicações 1",
+       "kind": "aula"
+      },
+      {
+       "id": "hepatologia-v2-a07",
+       "title": "Cirrose e Complicações 2",
+       "kind": "aula"
+      },
+      {
+       "id": "hepatologia-v2-b01",
+       "title": "Anatomia do Fígado",
+       "kind": "bonus"
+      },
+      {
+       "id": "hepatologia-v2-b02",
+       "title": "Cirurgias de Hipertensão Porta",
+       "kind": "bonus"
+      },
+      {
+       "id": "hepatologia-v2-b03",
+       "title": "Transplante Hepático",
+       "kind": "bonus"
+      }
+     ],
+     "apostila": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+     ]
+    }
+   ]
+  },
+  {
+   "id": "infectologia",
+   "name": "Infectologia",
+   "volumes": [
+    {
+     "id": "infectologia-v1",
+     "name": "Infectologia vol. 1 - Síndrome da Imunodeficiência (AIDS)",
+     "pdf": "Infectologia vol. 1 - Síndrome da Imunodeficiência (AIDS).pdf",
+     "lessons": [
+      {
+       "id": "infectologia-v1-a01",
+       "title": "Patogenese - Historia Natural - Diagnóstico",
+       "kind": "aula"
+      },
+      {
+       "id": "infectologia-v1-a02",
+       "title": "Respiratoria Neurologicas",
+       "kind": "aula"
+      },
+      {
+       "id": "infectologia-v1-a03",
+       "title": "Tratamento e Profilaxia",
+       "kind": "aula"
+      },
+      {
+       "id": "infectologia-v1-b01",
+       "title": "HTLV",
+       "kind": "bonus"
+      },
+      {
+       "id": "infectologia-v1-b02",
+       "title": "Profilaxia da Transmissão Vertical do HIV",
+       "kind": "bonus"
+      },
+      {
+       "id": "infectologia-v1-b03",
+       "title": "Abscesso Pulmonar",
+       "kind": "bonus"
+      },
+      {
+       "id": "infectologia-v1-b04",
+       "title": "Derrame Pleural Parapneumônico",
+       "kind": "bonus"
+      },
+      {
+       "id": "infectologia-v1-b05",
+       "title": "Sepse e Choque Séptico",
+       "kind": "bonus"
+      }
+     ],
+     "apostila": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ]
+    },
+    {
+     "id": "infectologia-v2",
+     "name": "Infectologia vol. 2 - Infecções Bacterianas e Parasitárias",
+     "pdf": "Infectologia vol. 2 - Infecções Bacterianas e Parasitárias.pdf",
+     "lessons": [
+      {
+       "id": "infectologia-v2-a01",
+       "title": "Endocardite Infecciosa",
+       "kind": "aula"
+      },
+      {
+       "id": "infectologia-v2-a02",
+       "title": "Meningite",
+       "kind": "aula"
+      },
+      {
+       "id": "infectologia-v2-a03",
+       "title": "Parasitose Intestinal - Helmintos",
+       "kind": "aula"
+      },
+      {
+       "id": "infectologia-v2-a04",
+       "title": "Parasitose Intestinal - Protozoários",
+       "kind": "aula"
+      },
+      {
+       "id": "infectologia-v2-b01",
+       "title": "Protozoarios",
+       "kind": "bonus"
+      },
+      {
+       "id": "infectologia-v2-b02",
+       "title": "Nematelmintos",
+       "kind": "bonus"
+      },
+      {
+       "id": "infectologia-v2-b03",
+       "title": "Platelmintos",
+       "kind": "bonus"
+      },
+      {
+       "id": "infectologia-v2-b04",
+       "title": "Acidente por Animais Peçonhentos",
+       "kind": "bonus"
+      },
+      {
+       "id": "infectologia-v2-b05",
+       "title": "Infecção Relacionada a Cateter",
+       "kind": "bonus"
+      },
+      {
+       "id": "infectologia-v2-b06",
+       "title": "Monkeypox",
+       "kind": "bonus"
+      },
+      {
+       "id": "infectologia-v2-b07",
+       "title": "Leishmaniose Visceral",
+       "kind": "bonus"
+      }
+     ],
+     "apostila": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+     ]
+    },
+    {
+     "id": "infectologia-v3",
+     "name": "Infectologia vol. 3 - Síndromes Febris",
+     "pdf": "Infectologia vol. 3 - Síndromes Febris.pdf",
+     "lessons": [
+      {
+       "id": "infectologia-v3-a01",
+       "title": "Síndromes Febris - Dengue, Chikungunya, Zika",
+       "kind": "aula"
+      },
+      {
+       "id": "infectologia-v3-a02",
+       "title": "Sindromes Febris - Febre do Oropouche - Febre Amarela - Leptospirose",
+       "kind": "aula"
+      },
+      {
+       "id": "infectologia-v3-b01",
+       "title": "Monkeypox",
+       "kind": "bonus"
+      },
+      {
+       "id": "infectologia-v3-b02",
+       "title": "Leishmaniose Visceral",
+       "kind": "bonus"
+      },
+      {
+       "id": "infectologia-v3-b03",
+       "title": "Malaria",
+       "kind": "bonus"
+      },
+      {
+       "id": "infectologia-v3-b04",
+       "title": "Febre Maculosa Brasileira",
+       "kind": "bonus"
+      },
+      {
+       "id": "infectologia-v3-b05",
+       "title": "ITU",
+       "kind": "bonus"
+      },
+      {
+       "id": "infectologia-v3-b06",
+       "title": "Covid-19",
+       "kind": "bonus"
+      },
+      {
+       "id": "infectologia-v3-b07",
+       "title": "COVID-19",
+       "kind": "bonus"
+      }
+     ],
+     "apostila": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    }
+   ]
+  },
+  {
+   "id": "nefrologia",
+   "name": "Nefrologia",
+   "volumes": [
+    {
+     "id": "nefrologia-v1",
+     "name": "Nefrologia vol. 1 - Introdução à Nefrologia",
+     "pdf": "Nefrologia vol. 1 - Introdução à Nefrologia.pdf",
+     "lessons": [
+      {
+       "id": "nefrologia-v1-a01",
+       "title": "Alteração Urinária Assintomática",
+       "kind": "aula"
+      },
+      {
+       "id": "nefrologia-v1-a02",
+       "title": "Conceitos Básicos",
+       "kind": "aula"
+      },
+      {
+       "id": "nefrologia-v1-a03",
+       "title": "GNRP",
+       "kind": "aula"
+      },
+      {
+       "id": "nefrologia-v1-a04",
+       "title": "Introdução",
+       "kind": "aula"
+      },
+      {
+       "id": "nefrologia-v1-a05",
+       "title": "Síndrome Nefrítica",
+       "kind": "aula"
+      },
+      {
+       "id": "nefrologia-v1-a06",
+       "title": "Sindrome Hemolítico-Urêmica",
+       "kind": "aula"
+      },
+      {
+       "id": "nefrologia-v1-a07",
+       "title": "Sindrome Nefrótica - Conceito de Manifestação Clinica",
+       "kind": "aula"
+      },
+      {
+       "id": "nefrologia-v1-a08",
+       "title": "Sindrome Nefrótica - Etiologias - 1",
+       "kind": "aula"
+      },
+      {
+       "id": "nefrologia-v1-b01",
+       "title": "Lesao Renal na Hipertensao e nas Deonças Hematologicas",
+       "kind": "bonus"
+      },
+      {
+       "id": "nefrologia-v1-b02",
+       "title": "O Rim e o Diabetes",
+       "kind": "bonus"
+      },
+      {
+       "id": "nefrologia-v1-b03",
+       "title": "O Rim e as Colagenoses",
+       "kind": "bonus"
+      },
+      {
+       "id": "nefrologia-v1-b04",
+       "title": "O Rim e as Vasculites",
+       "kind": "bonus"
+      },
+      {
+       "id": "nefrologia-v1-b05",
+       "title": "O Rim e as Doenças Infecciosas Sistemicas",
+       "kind": "bonus"
+      },
+      {
+       "id": "nefrologia-v1-b06",
+       "title": "O Rim e Situações Diversas",
+       "kind": "bonus"
+      }
+     ],
+     "apostila": []
+    },
+    {
+     "id": "nefrologia-v2",
+     "name": "Nefrologia vol. 2 - Doenças Tubulointersticiais e Vasculares",
+     "pdf": "Nefrologia vol. 2 - Doenças Tubulointersticiais e Vasculares.pdf",
+     "lessons": [
+      {
+       "id": "nefrologia-v2-a01",
+       "title": "Ateroembolismo",
+       "kind": "aula"
+      },
+      {
+       "id": "nefrologia-v2-a02",
+       "title": "Disturbios Tubulares Específicos",
+       "kind": "aula"
+      },
+      {
+       "id": "nefrologia-v2-a03",
+       "title": "Estenose de Artéria Renal",
+       "kind": "aula"
+      },
+      {
+       "id": "nefrologia-v2-a04",
+       "title": "Necrose de Papila",
+       "kind": "aula"
+      },
+      {
+       "id": "nefrologia-v2-a05",
+       "title": "Necrose Tubular Aguda",
+       "kind": "aula"
+      },
+      {
+       "id": "nefrologia-v2-a06",
+       "title": "Nefrite Intersticial Aguda",
+       "kind": "aula"
+      },
+      {
+       "id": "nefrologia-v2-b01",
+       "title": "Nefrotoxicidade por Antimicrobianos",
+       "kind": "bonus"
+      },
+      {
+       "id": "nefrologia-v2-b02",
+       "title": "Nefrotoxicidade por Analgésicos",
+       "kind": "bonus"
+      },
+      {
+       "id": "nefrologia-v2-b03",
+       "title": "Nefrotoxicidade por Metais Pesados",
+       "kind": "bonus"
+      },
+      {
+       "id": "nefrologia-v2-b04",
+       "title": "Nefrotoxicidade por Contraste",
+       "kind": "bonus"
+      },
+      {
+       "id": "nefrologia-v2-b05",
+       "title": "Acidose Tubular Renal",
+       "kind": "bonus"
+      },
+      {
+       "id": "nefrologia-v2-b06",
+       "title": "Rabdomiólise",
+       "kind": "bonus"
+      }
+     ],
+     "apostila": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+     ]
+    },
+    {
+     "id": "nefrologia-v3",
+     "name": "Nefrologia vol. 3 - Insuficiência Renal, Distúrbios Hidroeletrolíticos e Acidobásicos",
+     "pdf": "Nefrologia vol. 3 - Insuficiência Renal, Distúrbios Hidroeletrolíticos e Acidobásicos.pdf",
+     "lessons": [
+      {
+       "id": "nefrologia-v3-a01",
+       "title": "As Funções Renais",
+       "kind": "aula"
+      },
+      {
+       "id": "nefrologia-v3-a02",
+       "title": "Lesão Renal Aguda",
+       "kind": "aula"
+      },
+      {
+       "id": "nefrologia-v3-a03",
+       "title": "Distúrbios do Potássio - Bloco 04",
+       "kind": "aula"
+      },
+      {
+       "id": "nefrologia-v3-a04",
+       "title": "Distúrbios do Potássio - Hipercalemia - Bloco 06",
+       "kind": "aula"
+      },
+      {
+       "id": "nefrologia-v3-a05",
+       "title": "Distúrbios do Potássio - Hipocalemia - Bloco 05",
+       "kind": "aula"
+      },
+      {
+       "id": "nefrologia-v3-a06",
+       "title": "Disturbios do Sódio - Bloco 02",
+       "kind": "aula"
+      },
+      {
+       "id": "nefrologia-v3-a07",
+       "title": "Hiponatremia - Bloco 03",
+       "kind": "aula"
+      },
+      {
+       "id": "nefrologia-v3-a08",
+       "title": "Introdução - Bloco 01",
+       "kind": "aula"
+      },
+      {
+       "id": "nefrologia-v3-a09",
+       "title": "Distúrbio Ácido-Básico - Acidose e Alcalose Metabólica",
+       "kind": "aula"
+      },
+      {
+       "id": "nefrologia-v3-a10",
+       "title": "Distúrbio Ácido-Básico - Introdução e Definições",
+       "kind": "aula"
+      },
+      {
+       "id": "nefrologia-v3-a11",
+       "title": "Doença Renal Crônica",
+       "kind": "aula"
+      },
+      {
+       "id": "nefrologia-v3-b01",
+       "title": "Relaçao Delta-Delta",
+       "kind": "bonus"
+      },
+      {
+       "id": "nefrologia-v3-b02",
+       "title": "Aspectos Práticos no Tratamento da Hiponatremia",
+       "kind": "bonus"
+      },
+      {
+       "id": "nefrologia-v3-b03",
+       "title": "Terapia de Substitutição Renal - HD e DP",
+       "kind": "bonus"
+      },
+      {
+       "id": "nefrologia-v3-b04",
+       "title": "Terapia de Substitutição Renal - Transplante",
+       "kind": "bonus"
+      }
+     ],
+     "apostila": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
+     ]
+    }
+   ]
+  },
+  {
+   "id": "neurologia",
+   "name": "Neurologia",
+   "volumes": [
+    {
+     "id": "neurologia-v1",
+     "name": "Neurologia",
+     "pdf": "Neurologia.pdf",
+     "lessons": [
+      {
+       "id": "neurologia-v1-a01",
+       "title": "Causas de Fraqueza Muscular",
+       "kind": "aula"
+      },
+      {
+       "id": "neurologia-v1-a02",
+       "title": "Demência",
+       "kind": "aula"
+      },
+      {
+       "id": "neurologia-v1-a03",
+       "title": "Doença de Parkinson",
+       "kind": "aula"
+      },
+      {
+       "id": "neurologia-v1-a04",
+       "title": "Síndromes Neurológicas",
+       "kind": "aula"
+      },
+      {
+       "id": "neurologia-v1-a05",
+       "title": "Neuroanatomia",
+       "kind": "aula"
+      },
+      {
+       "id": "neurologia-v1-a06",
+       "title": "AVE Isquêmico",
+       "kind": "aula"
+      },
+      {
+       "id": "neurologia-v1-a07",
+       "title": "AVE Hemorrágico",
+       "kind": "aula"
+      },
+      {
+       "id": "neurologia-v1-a08",
+       "title": "Cefaleia - Bloco 1",
+       "kind": "aula"
+      },
+      {
+       "id": "neurologia-v1-a09",
+       "title": "Epilepsia e Crises Febris - Bloco 2",
+       "kind": "aula"
+      },
+      {
+       "id": "neurologia-v1-b01",
+       "title": "Hipertensão Intracraniana",
+       "kind": "bonus"
+      },
+      {
+       "id": "neurologia-v1-b02",
+       "title": "Doenças da Placa Motora",
+       "kind": "bonus"
+      },
+      {
+       "id": "neurologia-v1-b03",
+       "title": "Intoxicações Exógenas",
+       "kind": "bonus"
+      }
+     ],
+     "apostila": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+     ]
+    }
+   ]
+  },
+  {
+   "id": "obstetricia",
+   "name": "Obstetrícia",
+   "volumes": [
+    {
+     "id": "obstetricia-v1",
+     "name": "Obstetrícia vol. 1 - Diagnóstico, DDP e Alterações da Gestação",
+     "pdf": "Obstetrícia vol. 1 - Diagnóstico, DDP e Alterações da Gestação.pdf",
+     "lessons": [
+      {
+       "id": "obstetricia-v1-a01",
+       "title": "Aconselhamento Genético Pré-Natal",
+       "kind": "aula"
+      },
+      {
+       "id": "obstetricia-v1-a02",
+       "title": "Assistencia Pre Natal",
+       "kind": "aula"
+      },
+      {
+       "id": "obstetricia-v1-a03",
+       "title": "Diagnostico de Gravidez",
+       "kind": "aula"
+      },
+      {
+       "id": "obstetricia-v1-a04",
+       "title": "Hiperemese Gravidica",
+       "kind": "aula"
+      },
+      {
+       "id": "obstetricia-v1-a05",
+       "title": "Introducao",
+       "kind": "aula"
+      },
+      {
+       "id": "obstetricia-v1-a06",
+       "title": "Modificacoes do Organismo Materno",
+       "kind": "aula"
+      }
+     ],
+     "apostila": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+     ]
+    },
+    {
+     "id": "obstetricia-v2",
+     "name": "Obstetrícia vol. 2 - O Parto",
+     "pdf": "Obstetrícia vol. 2 - O Parto.pdf",
+     "lessons": [
+      {
+       "id": "obstetricia-v2-a01",
+       "title": "Amniorrexe Prematura",
+       "kind": "aula"
+      },
+      {
+       "id": "obstetricia-v2-a02",
+       "title": "Introdução",
+       "kind": "aula"
+      },
+      {
+       "id": "obstetricia-v2-a03",
+       "title": "Parto - Assistência",
+       "kind": "aula"
+      },
+      {
+       "id": "obstetricia-v2-a04",
+       "title": "Parto - Trajeto e Estática",
+       "kind": "aula"
+      },
+      {
+       "id": "obstetricia-v2-a05",
+       "title": "Prematuridade",
+       "kind": "aula"
+      }
+     ],
+     "apostila": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+     ]
+    },
+    {
+     "id": "obstetricia-v3",
+     "name": "Obstetrícia vol. 3 - Sangramento na Gravidez",
+     "pdf": "Obstetrícia vol. 3 - Sangramento na Gravidez.pdf",
+     "lessons": [
+      {
+       "id": "obstetricia-v3-a01",
+       "title": "Abortamento",
+       "kind": "aula"
+      },
+      {
+       "id": "obstetricia-v3-a02",
+       "title": "Doença Trofoblástica Gestacional",
+       "kind": "aula"
+      },
+      {
+       "id": "obstetricia-v3-a03",
+       "title": "Gravidez Ectópica",
+       "kind": "aula"
+      },
+      {
+       "id": "obstetricia-v3-a04",
+       "title": "Introdução",
+       "kind": "aula"
+      },
+      {
+       "id": "obstetricia-v3-a05",
+       "title": "Deslocamento Prematuro de Placenta",
+       "kind": "aula"
+      },
+      {
+       "id": "obstetricia-v3-a06",
+       "title": "Doença Hemolítica Perinatal",
+       "kind": "aula"
+      },
+      {
+       "id": "obstetricia-v3-a07",
+       "title": "Placenta Prévia",
+       "kind": "aula"
+      },
+      {
+       "id": "obstetricia-v3-a08",
+       "title": "Roturas Diagnósticos Diferenciais",
+       "kind": "aula"
+      }
+     ],
+     "apostila": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+     ]
+    },
+    {
+     "id": "obstetricia-v4",
+     "name": "Obstetrícia vol. 4 - Distúrbios Hipertensivos, DM e Gemelaridade",
+     "pdf": "Obstetrícia vol. 4 - Distúrbios Hipertensivos, DM e Gemelaridade.pdf",
+     "lessons": [
+      {
+       "id": "obstetricia-v4-a01",
+       "title": "Diabetes Gestacional",
+       "kind": "aula"
+      },
+      {
+       "id": "obstetricia-v4-a02",
+       "title": "Gestação Gemelar",
+       "kind": "aula"
+      },
+      {
+       "id": "obstetricia-v4-a03",
+       "title": "Hipertensão Arterial",
+       "kind": "aula"
+      },
+      {
+       "id": "obstetricia-v4-a04",
+       "title": "Introdução",
+       "kind": "aula"
+      }
+     ],
+     "apostila": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+     ]
+    },
+    {
+     "id": "obstetricia-v5",
+     "name": "Obstetrícia vol. 5 - Fórcipe, Sofrimento Fetal, Puerpério",
+     "pdf": "Obstetrícia vol. 5 - Fórcipe, Sofrimento Fetal, Puerpério.pdf",
+     "lessons": [
+      {
+       "id": "obstetricia-v5-a01",
+       "title": "Fórcipe",
+       "kind": "aula"
+      },
+      {
+       "id": "obstetricia-v5-a02",
+       "title": "Introdução",
+       "kind": "aula"
+      },
+      {
+       "id": "obstetricia-v5-a03",
+       "title": "Puerpério",
+       "kind": "aula"
+      },
+      {
+       "id": "obstetricia-v5-a04",
+       "title": "Sofrimento Fetal",
+       "kind": "aula"
+      }
+     ],
+     "apostila": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+     ]
+    }
+   ]
+  },
+  {
+   "id": "oftalmologia",
+   "name": "Oftalmologia",
+   "volumes": [
+    {
+     "id": "oftalmologia-v1",
+     "name": "Oftalmologia",
+     "pdf": "Oftalmologia.pdf",
+     "lessons": [
+      {
+       "id": "oftalmologia-v1-a01",
+       "title": "Anatomia",
+       "kind": "aula"
+      }
+     ],
+     "apostila": []
+    }
+   ]
+  },
+  {
+   "id": "ortopedia",
+   "name": "Ortopedia",
+   "volumes": [
+    {
+     "id": "ortopedia-v1",
+     "name": "Ortopedia",
+     "pdf": "Ortopedia.pdf",
+     "lessons": [
+      {
+       "id": "ortopedia-v1-a01",
+       "title": "Ortopedia Pediátrica - Membros Superiores",
+       "kind": "aula"
+      },
+      {
+       "id": "ortopedia-v1-a02",
+       "title": "Ortopedia Pediátrica - Quadril",
+       "kind": "aula"
+      },
+      {
+       "id": "ortopedia-v1-a03",
+       "title": "Ortopedia Pediátrica - Membros Inferiores",
+       "kind": "aula"
+      },
+      {
+       "id": "ortopedia-v1-a04",
+       "title": "Ortopedia Clínica",
+       "kind": "aula"
+      },
+      {
+       "id": "ortopedia-v1-a05",
+       "title": "Traumato-Ortopedia 1",
+       "kind": "aula"
+      },
+      {
+       "id": "ortopedia-v1-b01",
+       "title": "Osteomielite",
+       "kind": "bonus"
+      },
+      {
+       "id": "ortopedia-v1-b02",
+       "title": "Ortopedia - Doenças Periarticulares",
+       "kind": "bonus"
+      }
+     ],
+     "apostila": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pediatria",
+   "name": "Pediatria",
+   "volumes": [
+    {
+     "id": "pediatria-v1",
+     "name": "Pediatria vol. 1 - Neonatologia",
+     "pdf": "Pediatria vol. 1 - Neonatologia.pdf",
+     "lessons": [
+      {
+       "id": "pediatria-v1-a01",
+       "title": "Icterícia Neonatal",
+       "kind": "aula"
+      },
+      {
+       "id": "pediatria-v1-a02",
+       "title": "Introdução Neonatal",
+       "kind": "aula"
+      },
+      {
+       "id": "pediatria-v1-a03",
+       "title": "Reanimação Neonatal",
+       "kind": "aula"
+      },
+      {
+       "id": "pediatria-v1-a04",
+       "title": "Distúrbio Respiratório 1",
+       "kind": "aula"
+      },
+      {
+       "id": "pediatria-v1-a05",
+       "title": "Distúrbio Respiratório 2",
+       "kind": "aula"
+      },
+      {
+       "id": "pediatria-v1-a06",
+       "title": "Infecções Congênitas - Exposição Perionatal ao HIV",
+       "kind": "aula"
+      },
+      {
+       "id": "pediatria-v1-a07",
+       "title": "Infecções Congênitas - Outras Infecções",
+       "kind": "aula"
+      },
+      {
+       "id": "pediatria-v1-a08",
+       "title": "Infecções Congênitas - Sífilis Congênita",
+       "kind": "aula"
+      },
+      {
+       "id": "pediatria-v1-b01",
+       "title": "Triagem Neonatal",
+       "kind": "bonus"
+      },
+      {
+       "id": "pediatria-v1-b02",
+       "title": "O Exame Fisico Neonatal",
+       "kind": "bonus"
+      },
+      {
+       "id": "pediatria-v1-b03",
+       "title": "Doenças do Trato Gastrointestinal",
+       "kind": "bonus"
+      },
+      {
+       "id": "pediatria-v1-b04",
+       "title": "Miscelanea",
+       "kind": "bonus"
+      },
+      {
+       "id": "pediatria-v1-b05",
+       "title": "Miscelania",
+       "kind": "bonus"
+      }
+     ],
+     "apostila": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+     ]
+    },
+    {
+     "id": "pediatria-v2",
+     "name": "Pediatria vol. 2 - Aleitamento Materno e Crescimento",
+     "pdf": "Pediatria vol. 2 - Aleitamento Materno e Crescimento.pdf",
+     "lessons": [
+      {
+       "id": "pediatria-v2-a01",
+       "title": "Aleitamento Materno - Aspectos Práticos",
+       "kind": "aula"
+      },
+      {
+       "id": "pediatria-v2-a02",
+       "title": "Aleitamento Materno - Definições e Composição do Leite",
+       "kind": "aula"
+      },
+      {
+       "id": "pediatria-v2-a03",
+       "title": "Aleitamento Materno - Queixas Comuns e Contraindicações",
+       "kind": "aula"
+      },
+      {
+       "id": "pediatria-v2-a04",
+       "title": "Suplementação de Micronutriente",
+       "kind": "aula"
+      },
+      {
+       "id": "pediatria-v2-a05",
+       "title": "Crescimento",
+       "kind": "aula"
+      },
+      {
+       "id": "pediatria-v2-a06",
+       "title": "Desenvolvimento",
+       "kind": "aula"
+      },
+      {
+       "id": "pediatria-v2-a07",
+       "title": "Puberdade",
+       "kind": "aula"
+      }
+     ],
+     "apostila": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+     ]
+    },
+    {
+     "id": "pediatria-v3",
+     "name": "Pediatria vol. 3 - Distúrbios Nutricionais da Infância e Imunizações",
+     "pdf": "Pediatria vol. 3 - Distúrbios Nutricionais da Infância e Imunizações.pdf",
+     "lessons": [
+      {
+       "id": "pediatria-v3-a01",
+       "title": "Avaliação Nutricional",
+       "kind": "aula"
+      },
+      {
+       "id": "pediatria-v3-a02",
+       "title": "Desnutrição Grave",
+       "kind": "aula"
+      },
+      {
+       "id": "pediatria-v3-a03",
+       "title": "Obesidade e Baixa Estatura",
+       "kind": "aula"
+      },
+      {
+       "id": "pediatria-v3-a04",
+       "title": "As Vacinas 1",
+       "kind": "aula"
+      },
+      {
+       "id": "pediatria-v3-a05",
+       "title": "As Vacinas 2",
+       "kind": "aula"
+      },
+      {
+       "id": "pediatria-v3-a06",
+       "title": "Calendários Vacinais",
+       "kind": "aula"
+      },
+      {
+       "id": "pediatria-v3-a07",
+       "title": "Imunizações - Aspectos Iniciais",
+       "kind": "aula"
+      }
+     ],
+     "apostila": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41
+     ]
+    },
+    {
+     "id": "pediatria-v4",
+     "name": "Pediatria vol. 4 - Doenças Infecciosas Prevalentes",
+     "pdf": "Pediatria vol. 4 - Doenças Infecciosas Prevalentes.pdf",
+     "lessons": [
+      {
+       "id": "pediatria-v4-a01",
+       "title": "Diarreia Aguda 1",
+       "kind": "aula"
+      },
+      {
+       "id": "pediatria-v4-a02",
+       "title": "Diarreia Aguda 2",
+       "kind": "aula"
+      },
+      {
+       "id": "pediatria-v4-a03",
+       "title": "Epiglotite Aguda e Laringotraqueite Viral Aguda",
+       "kind": "aula"
+      },
+      {
+       "id": "pediatria-v4-a04",
+       "title": "Resfriado e Otite Media Aguda",
+       "kind": "aula"
+      },
+      {
+       "id": "pediatria-v4-a05",
+       "title": "Sinusite Bacteriana e Faringite Aguda",
+       "kind": "aula"
+      },
+      {
+       "id": "pediatria-v4-a06",
+       "title": "Bronquiolite Viral Aguda",
+       "kind": "aula"
+      },
+      {
+       "id": "pediatria-v4-a07",
+       "title": "Pneumonia Bacteriana",
+       "kind": "aula"
+      },
+      {
+       "id": "pediatria-v4-a08",
+       "title": "Pneumonia Afebril do Lactente e Coqueluche",
+       "kind": "aula"
+      }
+     ],
+     "apostila": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+     ]
+    },
+    {
+     "id": "pediatria-v5",
+     "name": "Pediatria vol. 5 - Especialidades Pediátricas",
+     "pdf": "Pediatria vol. 5 - Especialidades Pediátricas.pdf",
+     "lessons": [
+      {
+       "id": "pediatria-v5-a01",
+       "title": "Infecção do Trato Urinário",
+       "kind": "aula"
+      },
+      {
+       "id": "pediatria-v5-a02",
+       "title": "Outros Distúrbios Urológicos",
+       "kind": "aula"
+      },
+      {
+       "id": "pediatria-v5-a03",
+       "title": "Sarampo e Rubéola",
+       "kind": "aula"
+      },
+      {
+       "id": "pediatria-v5-a04",
+       "title": "Exantema Súbito e Eritema Infeccioso",
+       "kind": "aula"
+      },
+      {
+       "id": "pediatria-v5-a05",
+       "title": "Varicela e Doença Mão-Pé-Boca",
+       "kind": "aula"
+      },
+      {
+       "id": "pediatria-v5-a06",
+       "title": "Escarlatina e Mononucleose",
+       "kind": "aula"
+      }
+     ],
+     "apostila": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pneumologia",
+   "name": "Pneumologia",
+   "volumes": [
+    {
+     "id": "pneumologia-v1",
+     "name": "Pneumologia vol. 1 - Principais Doenças Pulmonares",
+     "pdf": "Pneumologia vol. 1 - Principais Doenças Pulmonares.pdf",
+     "lessons": [
+      {
+       "id": "pneumologia-v1-a01",
+       "title": "DPOC",
+       "kind": "aula"
+      },
+      {
+       "id": "pneumologia-v1-a02",
+       "title": "Noções de Espirometria e Asma",
+       "kind": "aula"
+      },
+      {
+       "id": "pneumologia-v1-a03",
+       "title": "Cancer de Pulmao",
+       "kind": "aula"
+      },
+      {
+       "id": "pneumologia-v1-a04",
+       "title": "Tromboembolismo Pulmonar",
+       "kind": "aula"
+      },
+      {
+       "id": "pneumologia-v1-b01",
+       "title": "Sindrome do Desconforto Respiratorio Agudo",
+       "kind": "bonus"
+      },
+      {
+       "id": "pneumologia-v1-b02",
+       "title": "Nódulo Pulmonar Solitário",
+       "kind": "bonus"
+      },
+      {
+       "id": "pneumologia-v1-b03",
+       "title": "Pneumopatias Intersticiais Difusas",
+       "kind": "bonus"
+      },
+      {
+       "id": "pneumologia-v1-b04",
+       "title": "Sarcoidose",
+       "kind": "bonus"
+      },
+      {
+       "id": "pneumologia-v1-b05",
+       "title": "Síndrome do Desconforto Respiratório Agudo",
+       "kind": "bonus"
+      },
+      {
+       "id": "pneumologia-v1-b06",
+       "title": "Ventilação Mecânica",
+       "kind": "bonus"
+      }
+     ],
+     "apostila": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27
+     ]
+    },
+    {
+     "id": "pneumologia-v2",
+     "name": "Pneumologia vol. 2 - Infecções Pulmonares, Tuberculose, Micose e Pneumonia",
+     "pdf": "Pneumologia vol. 2 - Infecções Pulmonares, Tuberculose, Micose e Pneumonia.pdf",
+     "lessons": [
+      {
+       "id": "pneumologia-v2-a01",
+       "title": "Controle da Tuberculose",
+       "kind": "aula"
+      },
+      {
+       "id": "pneumologia-v2-a02",
+       "title": "Historia Natural da Tuberculose",
+       "kind": "aula"
+      },
+      {
+       "id": "pneumologia-v2-a03",
+       "title": "Pneumonia 1",
+       "kind": "aula"
+      },
+      {
+       "id": "pneumologia-v2-a04",
+       "title": "Pneumonia 2",
+       "kind": "aula"
+      },
+      {
+       "id": "pneumologia-v2-a05",
+       "title": "Tratamento",
+       "kind": "aula"
+      },
+      {
+       "id": "pneumologia-v2-a06",
+       "title": "Tuberculose Pulmonar - Clinica e Diagnostico",
+       "kind": "aula"
+      },
+      {
+       "id": "pneumologia-v2-a07",
+       "title": "Tuberculose Extrapulmonar Pleural e Meningea",
+       "kind": "aula"
+      },
+      {
+       "id": "pneumologia-v2-b01",
+       "title": "Derrame Pleural",
+       "kind": "bonus"
+      }
+     ],
+     "apostila": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+     ]
+    }
+   ]
+  },
+  {
+   "id": "preventiva",
+   "name": "Preventiva",
+   "volumes": [
+    {
+     "id": "preventiva-v1",
+     "name": "Preventiva vol. 1 - Medidas de Saúde Coletiva",
+     "pdf": "Preventiva vol. 1 - Medidas de Saúde Coletiva.pdf",
+     "lessons": [
+      {
+       "id": "preventiva-v1-a01",
+       "title": "Medidas de Saúde Coletiva - Bloco 1",
+       "kind": "aula"
+      },
+      {
+       "id": "preventiva-v1-a02",
+       "title": "Medidas de Saúde Coletiva - Bloco 2",
+       "kind": "aula"
+      },
+      {
+       "id": "preventiva-v1-a03",
+       "title": "Medidas de Saúde Coletiva - Bloco 3",
+       "kind": "aula"
+      },
+      {
+       "id": "preventiva-v1-a04",
+       "title": "Medidas de Saúde Coletiva - Bloco 4",
+       "kind": "aula"
+      },
+      {
+       "id": "preventiva-v1-b01",
+       "title": "Outros Indicadores e Atualizações Censo 2022",
+       "kind": "bonus"
+      },
+      {
+       "id": "preventiva-v1-b02",
+       "title": "Sistemas de Informação",
+       "kind": "bonus"
+      }
+     ],
+     "apostila": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+     ]
+    },
+    {
+     "id": "preventiva-v2",
+     "name": "Preventiva vol. 2 - Epidemiologia Analítica",
+     "pdf": "Preventiva vol. 2 - Epidemiologia Analítica.pdf",
+     "lessons": [
+      {
+       "id": "preventiva-v2-a01",
+       "title": "Estudos Epidemiológicos - Análise",
+       "kind": "aula"
+      },
+      {
+       "id": "preventiva-v2-a02",
+       "title": "Estudos Epidemiológicos - Classificação",
+       "kind": "aula"
+      },
+      {
+       "id": "preventiva-v2-a03",
+       "title": "Epidemiologia Clínica",
+       "kind": "aula"
+      },
+      {
+       "id": "preventiva-v2-b01",
+       "title": "Estudos Descritivos e Metanálise",
+       "kind": "bonus"
+      },
+      {
+       "id": "preventiva-v2-b02",
+       "title": "Fases do Ensaio Clinico",
+       "kind": "bonus"
+      },
+      {
+       "id": "preventiva-v2-b03",
+       "title": "Testes Estatísticos",
+       "kind": "bonus"
+      },
+      {
+       "id": "preventiva-v2-b04",
+       "title": "Variáveis",
+       "kind": "bonus"
+      },
+      {
+       "id": "preventiva-v2-b05",
+       "title": "Curva ROC e Variações o Ponto de Corte",
+       "kind": "bonus"
+      },
+      {
+       "id": "preventiva-v2-b06",
+       "title": "Medidas de Tendencia Central e de Dispersão",
+       "kind": "bonus"
+      },
+      {
+       "id": "preventiva-v2-b07",
+       "title": "Verossimilhança e Testes Múltiplos",
+       "kind": "bonus"
+      }
+     ],
+     "apostila": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+     ]
+    },
+    {
+     "id": "preventiva-v3",
+     "name": "Preventiva vol. 3 - Vigilância de Saúde",
+     "pdf": "Preventiva vol. 3 - Vigilância de Saúde.pdf",
+     "lessons": [
+      {
+       "id": "preventiva-v3-a01",
+       "title": "Níveis de Prevenção",
+       "kind": "aula"
+      },
+      {
+       "id": "preventiva-v3-a02",
+       "title": "Processo Epidêmico",
+       "kind": "aula"
+      },
+      {
+       "id": "preventiva-v3-a03",
+       "title": "Vigilância da Saúde",
+       "kind": "aula"
+      },
+      {
+       "id": "preventiva-v3-b01",
+       "title": "Raiva",
+       "kind": "bonus"
+      },
+      {
+       "id": "preventiva-v3-b02",
+       "title": "Ética Médica - Artigos Principais, Erros e Atualizações",
+       "kind": "bonus"
+      },
+      {
+       "id": "preventiva-v3-b03",
+       "title": "Glossário de Doenças Infecciosas",
+       "kind": "bonus"
+      },
+      {
+       "id": "preventiva-v3-b04",
+       "title": "Saúde do Trabalhador - Agrotóxicos",
+       "kind": "bonus"
+      },
+      {
+       "id": "preventiva-v3-b05",
+       "title": "Saúde do Trabalhador - CAT e Tipos de Acidentes",
+       "kind": "bonus"
+      },
+      {
+       "id": "preventiva-v3-b06",
+       "title": "Saúde do Trabalhador - Pneumoconioses, Pair e Burnout",
+       "kind": "bonus"
+      },
+      {
+       "id": "preventiva-v3-b07",
+       "title": "Saúde do Trabalhador - Saturnismo, Hidrargirismo, Benzenismo e Cromo",
+       "kind": "bonus"
+      }
+     ],
+     "apostila": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+     ]
+    },
+    {
+     "id": "preventiva-v4",
+     "name": "Preventiva vol. 4 - SUS",
+     "pdf": "Preventiva vol. 4 - SUS.pdf",
+     "lessons": [
+      {
+       "id": "preventiva-v4-a01",
+       "title": "Atenção Básica",
+       "kind": "aula"
+      },
+      {
+       "id": "preventiva-v4-a02",
+       "title": "Financiamento do SUS e da Atenção Básica",
+       "kind": "aula"
+      },
+      {
+       "id": "preventiva-v4-a03",
+       "title": "SUS - História e Leis",
+       "kind": "aula"
+      }
+     ],
+     "apostila": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+     ]
+    }
+   ]
+  },
+  {
+   "id": "psiquiatria",
+   "name": "Psiquiatria",
+   "volumes": [
+    {
+     "id": "psiquiatria-v1",
+     "name": "Psiquiatria",
+     "pdf": "Psiquiatria.pdf",
+     "lessons": [
+      {
+       "id": "psiquiatria-v1-a01",
+       "title": "Delirium",
+       "kind": "aula"
+      },
+      {
+       "id": "psiquiatria-v1-a02",
+       "title": "Transtornos do Humor",
+       "kind": "aula"
+      },
+      {
+       "id": "psiquiatria-v1-a03",
+       "title": "Transtornos Psicóticos",
+       "kind": "aula"
+      },
+      {
+       "id": "psiquiatria-v1-a04",
+       "title": "Transtornos Relacionados ao Uso de Substâncias",
+       "kind": "aula"
+      },
+      {
+       "id": "psiquiatria-v1-a05",
+       "title": "Transtornos - De - Ansiedade - TOC - TEPT - E - Transtornos - Alimentares",
+       "kind": "aula"
+      },
+      {
+       "id": "psiquiatria-v1-b01",
+       "title": "Suicídio",
+       "kind": "bonus"
+      },
+      {
+       "id": "psiquiatria-v1-b02",
+       "title": "Transtornos do Neurodesenvolvimento",
+       "kind": "bonus"
+      }
+     ],
+     "apostila": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+     ]
+    }
+   ]
+  },
+  {
+   "id": "reumatologia",
+   "name": "Reumatologia",
+   "volumes": [
+    {
+     "id": "reumatologia-v1",
+     "name": "Reumatologia vol. 1 - Gota e Febre Reumática",
+     "pdf": "Reumatologia vol. 1 - Gota e Febre Reumática.pdf",
+     "lessons": [
+      {
+       "id": "reumatologia-v1-a01",
+       "title": "Artrite Reumatoide",
+       "kind": "aula"
+      },
+      {
+       "id": "reumatologia-v1-a02",
+       "title": "Espondiloartropatias Soronegativas",
+       "kind": "aula"
+      },
+      {
+       "id": "reumatologia-v1-a03",
+       "title": "Febre Reumática",
+       "kind": "aula"
+      },
+      {
+       "id": "reumatologia-v1-a04",
+       "title": "Gota",
+       "kind": "aula"
+      },
+      {
+       "id": "reumatologia-v1-a05",
+       "title": "Osteoartrite",
+       "kind": "aula"
+      },
+      {
+       "id": "reumatologia-v1-b01",
+       "title": "Anti-Inflamatórios e Glicocorticoides",
+       "kind": "bonus"
+      },
+      {
+       "id": "reumatologia-v1-b02",
+       "title": "Febre Familiar do Mediterrâneo",
+       "kind": "bonus"
+      },
+      {
+       "id": "reumatologia-v1-b03",
+       "title": "Fibromialgia",
+       "kind": "bonus"
+      }
+     ],
+     "apostila": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+     ]
+    },
+    {
+     "id": "reumatologia-v2",
+     "name": "Reumatologia vol. 2 - Colagenoses e Vasculites",
+     "pdf": "Reumatologia vol. 2 - Colagenoses e Vasculites.pdf",
+     "lessons": [
+      {
+       "id": "reumatologia-v2-a01",
+       "title": "Esclerose Sistêmica",
+       "kind": "aula"
+      },
+      {
+       "id": "reumatologia-v2-a02",
+       "title": "Introdução",
+       "kind": "aula"
+      },
+      {
+       "id": "reumatologia-v2-a03",
+       "title": "Miosites e Doença Mista",
+       "kind": "aula"
+      },
+      {
+       "id": "reumatologia-v2-a04",
+       "title": "Lupus",
+       "kind": "aula"
+      },
+      {
+       "id": "reumatologia-v2-a05",
+       "title": "Síndrome de Sjögren",
+       "kind": "aula"
+      },
+      {
+       "id": "reumatologia-v2-a06",
+       "title": "Síndrome do Ac Antifosfolipídio",
+       "kind": "aula"
+      },
+      {
+       "id": "reumatologia-v2-a07",
+       "title": "Vasculites 1",
+       "kind": "aula"
+      },
+      {
+       "id": "reumatologia-v2-a08",
+       "title": "Vasculites 2",
+       "kind": "aula"
+      },
+      {
+       "id": "reumatologia-v2-b01",
+       "title": "Amiloidoses",
+       "kind": "bonus"
+      },
+      {
+       "id": "reumatologia-v2-b02",
+       "title": "Artrite Septica",
+       "kind": "bonus"
+      },
+      {
+       "id": "reumatologia-v2-b03",
+       "title": "Policondrite Recidivante",
+       "kind": "bonus"
+      }
+     ],
+     "apostila": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31
+     ]
+    }
+   ]
+  }
+ ]
+}

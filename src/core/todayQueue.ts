@@ -4,6 +4,7 @@ import type {
   LessonReview,
   QuestionLog,
 } from '../db/schema';
+import { addDays } from './dates';
 
 export interface TodayReviewsResult {
   queue: LessonReview[];
@@ -88,7 +89,9 @@ export function getPendingQuestions(params: {
 
 export type SuggestedLesson = Lesson & {
   subjectId: string;
+  subjectName: string;
   volumeId: string;
+  volumeName: string;
 };
 
 export interface SuggestNewLessonsParams {
@@ -127,7 +130,9 @@ function getNextLessonForSubject(
         return {
           ...aula,
           subjectId: subject.id,
+          subjectName: subject.name,
           volumeId: volume.id,
+          volumeName: volume.name,
         };
       }
     }
@@ -140,7 +145,9 @@ function getNextLessonForSubject(
           return {
             ...b,
             subjectId: subject.id,
+            subjectName: subject.name,
             volumeId: volume.id,
+            volumeName: volume.name,
           };
         }
       }
@@ -217,3 +224,71 @@ export function suggestNewLessons(params: SuggestNewLessonsParams): SuggestedLes
 
   return picked;
 }
+
+/**
+ * Calcula a sequência de dias consecutivos com atividade (streak).
+ * Conforme PRD seção 10: a sequência é derivada das datas de conclusão, avaliações e registros.
+ */
+export function calculateStreak(
+  activeDates: Set<string> | string[],
+  today: string
+): number {
+  const datesSet = activeDates instanceof Set ? activeDates : new Set(activeDates);
+  if (datesSet.size === 0) return 0;
+
+  // Se hoje teve atividade, a sequência conta a partir de hoje.
+  // Se hoje ainda não teve atividade, a sequência conta a partir de ontem (para não zerar antes de estudar).
+  let current = today;
+  if (!datesSet.has(today)) {
+    const yesterday = addDays(today, -1);
+    if (!datesSet.has(yesterday)) {
+      return 0;
+    }
+    current = yesterday;
+  }
+
+  let streak = 0;
+  while (datesSet.has(current)) {
+    streak++;
+    current = addDays(current, -1);
+  }
+
+  return streak;
+}
+
+export interface DayForecast {
+  date: string;
+  dayLabel: string;
+  count: number;
+}
+
+/**
+ * Calcula a carga de revisões para os próximos 7 dias (today + 1 até today + 7).
+ * Conforme PRD seção 3 item 5.
+ */
+export function calculateNext7DaysForecast(
+  reviews: LessonReview[],
+  today: string
+): DayForecast[] {
+  const activeReviews = reviews.filter((r) => !r.mastered);
+  const result: DayForecast[] = [];
+  const dayOfWeekNames = ['Dom', 'Seg', 'Ter', 'Qua', 'Qui', 'Sex', 'Sáb'];
+
+  for (let i = 1; i <= 7; i++) {
+    const dStr = addDays(today, i);
+    const count = activeReviews.filter((r) => r.dueDate === dStr).length;
+
+    const [year, month, day] = dStr.split('-').map(Number);
+    const dateObj = new Date(year, month - 1, day);
+    const dayLabel = i === 1 ? 'Amanhã' : dayOfWeekNames[dateObj.getDay()];
+
+    result.push({
+      date: dStr,
+      dayLabel,
+      count,
+    });
+  }
+
+  return result;
+}
+

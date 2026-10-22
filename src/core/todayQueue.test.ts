@@ -3,6 +3,8 @@ import {
   calculateTodayReviewsQueue,
   getPendingQuestions,
   suggestNewLessons,
+  calculateStreak,
+  calculateNext7DaysForecast,
 } from './todayQueue';
 import type { LessonReview, LessonProgress, QuestionLog } from '../db/schema';
 import type { Subject } from '../types/curriculum';
@@ -300,4 +302,47 @@ describe('Today Queue Logic (src/core/todayQueue.ts)', () => {
       expect(suggested).toEqual([]);
     });
   });
+
+  describe('calculateStreak', () => {
+    it('calcula a sequência correta se hoje foi ativo', () => {
+      const activeDates = new Set(['2026-10-22', '2026-10-21', '2026-10-20']);
+      expect(calculateStreak(activeDates, TODAY)).toBe(3);
+    });
+
+    it('mantém a sequência com base em ontem caso hoje ainda não tenha atividade', () => {
+      const activeDates = new Set(['2026-10-21', '2026-10-20', '2026-10-19']);
+      // Hoje (2026-10-22) ainda não foi feito, mas ontem (2026-10-21) sim -> streak = 3
+      expect(calculateStreak(activeDates, TODAY)).toBe(3);
+    });
+
+    it('retorna 0 se nem hoje nem ontem tiveram atividade', () => {
+      const activeDates = new Set(['2026-10-19', '2026-10-18']);
+      expect(calculateStreak(activeDates, TODAY)).toBe(0);
+    });
+
+    it('retorna 0 para conjunto vazio', () => {
+      expect(calculateStreak(new Set(), TODAY)).toBe(0);
+    });
+  });
+
+  describe('calculateNext7DaysForecast', () => {
+    it('retorna 7 dias com datas sequenciais e contagem de revisões devidas', () => {
+      const reviews: LessonReview[] = [
+        { lessonId: 'r1', step: 1, dueDate: '2026-10-23', mastered: false, history: [] }, // amanhã
+        { lessonId: 'r2', step: 1, dueDate: '2026-10-23', mastered: false, history: [] }, // amanhã
+        { lessonId: 'r3', step: 2, dueDate: '2026-10-25', mastered: false, history: [] }, // +3 dias
+        { lessonId: 'r4', step: 4, dueDate: '2026-10-23', mastered: true, history: [] }, // dominada: não conta
+      ];
+
+      const forecast = calculateNext7DaysForecast(reviews, TODAY);
+      expect(forecast.length).toBe(7);
+      expect(forecast[0].date).toBe('2026-10-23');
+      expect(forecast[0].dayLabel).toBe('Amanhã');
+      expect(forecast[0].count).toBe(2);
+
+      expect(forecast[2].date).toBe('2026-10-25');
+      expect(forecast[2].count).toBe(1);
+    });
+  });
 });
+

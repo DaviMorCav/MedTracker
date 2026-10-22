@@ -5,6 +5,8 @@ import {
   calculateAccuracy,
   calculateSubjectProgress,
   isReviewOverdue,
+  calculateSubjectAccuracyRankings,
+  calculateOverallQuestionsStats,
 } from './content';
 import type { Lesson } from '../types/curriculum';
 import type { LessonProgress } from '../db/schema';
@@ -131,4 +133,58 @@ describe('content logic', () => {
       expect(isReviewOverdue('2026-10-23', '2026-10-22')).toBe(false);
     });
   });
+
+  describe('calculateSubjectAccuracyRankings', () => {
+    it('ordena as matérias da menor porcentagem para a maior porcentagem', () => {
+      const subjects = [
+        { id: 'cardio', name: 'Cardiologia' },
+        { id: 'cirurgia', name: 'Cirurgia' },
+        { id: 'pediatria', name: 'Pediatria' },
+      ];
+
+      const lessonSubjectMap = new Map([
+        ['c1', 'cardio'],
+        ['s1', 'cirurgia'],
+        ['p1', 'pediatria'],
+      ]);
+
+      const logs = [
+        { lessonId: 'c1', date: '2026-10-22', total: 10, correct: 9 }, // 90%
+        { lessonId: 's1', date: '2026-10-22', total: 10, correct: 5 }, // 50% (fraca)
+        { lessonId: 'p1', date: '2026-10-22', total: 10, correct: 7 }, // 70%
+      ];
+
+      const ranked = calculateSubjectAccuracyRankings(subjects, logs, lessonSubjectMap);
+      expect(ranked.map((r) => r.subjectId)).toEqual(['cirurgia', 'pediatria', 'cardio']);
+      expect(ranked[0].percentage).toBe(50);
+      expect(ranked[0].isWeak).toBe(true);
+      expect(ranked[1].percentage).toBe(70);
+      expect(ranked[1].isWeak).toBe(false);
+      expect(ranked[2].percentage).toBe(90);
+    });
+  });
+
+  describe('calculateOverallQuestionsStats', () => {
+    it('calcula o resumo total de questões feitas, acertos e porcentagem', () => {
+      const logs = [
+        { lessonId: 'l1', date: '2026-10-20', total: 10, correct: 8 },
+        { lessonId: 'l2', date: '2026-10-21', total: 20, correct: 16 },
+      ];
+
+      const stats = calculateOverallQuestionsStats(logs);
+      expect(stats.totalQuestions).toBe(30);
+      expect(stats.totalCorrect).toBe(24);
+      expect(stats.percentage).toBe(80);
+      expect(stats.totalSessions).toBe(2);
+    });
+
+    it('retorna zeros caso não existam logs', () => {
+      const stats = calculateOverallQuestionsStats([]);
+      expect(stats.totalQuestions).toBe(0);
+      expect(stats.totalCorrect).toBe(0);
+      expect(stats.percentage).toBe(0);
+      expect(stats.totalSessions).toBe(0);
+    });
+  });
 });
+

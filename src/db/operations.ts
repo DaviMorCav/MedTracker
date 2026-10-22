@@ -4,7 +4,10 @@ import type {
   LessonStatus,
   UserSettings,
   ApostilaProgress,
+  QuestionLog,
+  LessonReview,
 } from './schema';
+import { createInitialReview } from '../core/srs';
 
 export const DEFAULT_SETTINGS: UserSettings = {
   id: 'default',
@@ -179,3 +182,76 @@ export async function setLessonMastered(
     });
   }
 }
+
+/**
+ * Conclui uma aula conforme PRD seção 5:
+ * 1. Grava status = 'concluida' e completedOn = hoje.
+ * 2. Cria a revisão da aula (se ainda não existir) com vencimento em hoje + 1 dia.
+ */
+export async function completeLesson(
+  lessonId: string,
+  today: string
+): Promise<{ reviewCreated: boolean; review: LessonReview }> {
+  const current = (await db.progress.get(lessonId)) || {
+    lessonId,
+    status: 'nao_vista',
+  };
+
+  const updatedProgress: LessonProgress = {
+    ...current,
+    status: 'concluida',
+    completedOn: current.completedOn || today,
+  };
+  await db.progress.put(updatedProgress);
+
+  let review = await db.reviews.get(lessonId);
+  let reviewCreated = false;
+
+  if (!review) {
+    review = createInitialReview(lessonId, today);
+    await db.reviews.put(review);
+    reviewCreated = true;
+  }
+
+  return { reviewCreated, review };
+}
+
+/**
+ * Desmarca uma aula concluída conforme PRD seção 5 item 4:
+ * 1. Atualiza status para o novo status (padrão 'nao_vista') e limpa completedOn.
+ * 2. Remove a revisão criada.
+ */
+export async function uncompleteLesson(
+  lessonId: string,
+  newStatus: LessonStatus = 'nao_vista'
+): Promise<void> {
+  const current = (await db.progress.get(lessonId)) || {
+    lessonId,
+    status: 'nao_vista',
+  };
+
+  await db.progress.put({
+    ...current,
+    status: newStatus,
+    completedOn: undefined,
+  });
+
+  await db.reviews.delete(lessonId);
+}
+
+/**
+ * Registra o resultado de questões de uma aula.
+ */
+export async function addQuestionLog(
+  log: Omit<QuestionLog, 'id'>
+): Promise<number> {
+  return (await db.questionLogs.add(log as QuestionLog)) as number;
+}
+
+/**
+ * Remove um registro de questões pelo id.
+ */
+export async function deleteQuestionLog(id: number): Promise<void> {
+  await db.questionLogs.delete(id);
+}
+

@@ -27,6 +27,7 @@ interface SubjectDetailProps {
   kindFilter: 'todos' | LessonKind;
   searchQuery: string;
   onSelectLesson: (lessonId: string) => void;
+  onOpenQuestionsModal?: (lessonId: string) => void;
   onToggleApostilaPage: (volumeId: string, page: number) => void;
   onSetAllApostila: (volumeId: string, pages: number[], completed: boolean) => void;
 }
@@ -45,6 +46,7 @@ export const SubjectDetail: React.FC<SubjectDetailProps> = ({
   kindFilter,
   searchQuery,
   onSelectLesson,
+  onOpenQuestionsModal,
   onToggleApostilaPage,
   onSetAllApostila,
 }) => {
@@ -211,6 +213,7 @@ export const SubjectDetail: React.FC<SubjectDetailProps> = ({
               today={today}
               volumeLink={volLink}
               onSelectLesson={onSelectLesson}
+              onOpenQuestionsModal={onOpenQuestionsModal}
               onToggleApostilaPage={onToggleApostilaPage}
               onSetAllApostila={onSetAllApostila}
             />

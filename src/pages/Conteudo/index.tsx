@@ -7,7 +7,9 @@ import {
   DEFAULT_SETTINGS,
   toggleApostilaPage,
   setAllApostilaPages,
+  addQuestionLog,
 } from '../../db/operations';
+import { PostLessonQuestionsModal } from '../../components/PostLessonQuestionsModal';
 import type {
   LessonProgress,
   LessonReview,
@@ -37,6 +39,7 @@ export const ConteudoPage: React.FC = () => {
   const [searchQuery, setSearchQuery] = useState('');
   const [statusFilter, setStatusFilter] = useState<'todos' | LessonStatus>('todos');
   const [kindFilter, setKindFilter] = useState<'todos' | LessonKind>('todos');
+  const [activeQuestionsLessonId, setActiveQuestionsLessonId] = useState<string | null>(null);
 
   const today = useMemo(() => getLocalDateString(), []);
 
@@ -207,6 +210,22 @@ export const ConteudoPage: React.FC = () => {
     completed: boolean
   ) => {
     await setAllApostilaPages(volumeId, pages, completed, today);
+  };
+
+  const handleSaveQuestions = async (data: {
+    total: number;
+    correct: number;
+    note?: string;
+  }) => {
+    if (!activeQuestionsLessonId) return;
+    await addQuestionLog({
+      lessonId: activeQuestionsLessonId,
+      date: today,
+      total: data.total,
+      correct: data.correct,
+      note: data.note,
+    });
+    setActiveQuestionsLessonId(null);
   };
 
   const selectedSubject = selectedSubjectId
@@ -439,6 +458,7 @@ export const ConteudoPage: React.FC = () => {
           kindFilter={kindFilter}
           searchQuery={searchQuery}
           onSelectLesson={handleSelectLesson}
+          onOpenQuestionsModal={(id) => setActiveQuestionsLessonId(id)}
           onToggleApostilaPage={handleToggleApostilaPage}
           onSetAllApostila={handleSetAllApostila}
         />
@@ -585,8 +605,29 @@ export const ConteudoPage: React.FC = () => {
           questionLogsMap={questionLogsMap}
           volumeLinksMap={volumeLinksMap}
           settings={settings}
+          onOpenQuestionsModal={(id) => setActiveQuestionsLessonId(id)}
         />
       )}
+
+      {/* Modal Tela Cheia de Questões Desta Aula (PRD seção 5) */}
+      {activeQuestionsLessonId && (() => {
+        const lesson = allLessons.find((l) => l.id === activeQuestionsLessonId);
+        if (!lesson) return null;
+
+        return (
+          <PostLessonQuestionsModal
+            isOpen={true}
+            lesson={{
+              ...lesson,
+              lessonUrl: progressMap.get(lesson.id)?.questionsUrl,
+              volumeUrl: volumeLinksMap.get(lesson.volumeId)?.questionsUrl,
+            }}
+            globalQuestionsTemplate={settings?.questionsUrlTemplate}
+            onClose={() => setActiveQuestionsLessonId(null)}
+            onSave={handleSaveQuestions}
+          />
+        );
+      })()}
     </div>
   );
 };

@@ -5,7 +5,10 @@ import {
   saveLessonNotes,
   saveLessonQuestionsUrl,
   setLessonMastered,
+  completeLesson,
+  uncompleteLesson,
 } from '../../db/operations';
+import { ConfirmModal } from '../../components/ConfirmModal';
 import type {
   LessonProgress,
   LessonReview,
@@ -30,6 +33,7 @@ interface LessonDetailSheetProps {
   questionLogsMap: Map<string, QuestionLog[]>;
   volumeLinksMap: Map<string, VolumeLink>;
   settings?: UserSettings;
+  onOpenQuestionsModal?: (lessonId: string) => void;
 }
 
 export const LessonDetailSheet: React.FC<LessonDetailSheetProps> = ({
@@ -41,6 +45,7 @@ export const LessonDetailSheet: React.FC<LessonDetailSheetProps> = ({
   questionLogsMap,
   volumeLinksMap,
   settings,
+  onOpenQuestionsModal,
 }) => {
   const lesson = lessonId ? lessonById.get(lessonId) : null;
   const progress = lessonId ? progressMap.get(lessonId) : undefined;
@@ -53,6 +58,8 @@ export const LessonDetailSheet: React.FC<LessonDetailSheetProps> = ({
   // Local state for notes and questionsUrl to allow smooth typing before saving
   const [notes, setNotes] = useState('');
   const [customQuestionsUrl, setCustomQuestionsUrl] = useState('');
+  const [showUncompleteConfirm, setShowUncompleteConfirm] = useState(false);
+  const [pendingStatusChange, setPendingStatusChange] = useState<LessonStatus | null>(null);
 
   // Sync state when lessonId or progress changes
   useEffect(() => {
@@ -89,7 +96,34 @@ export const LessonDetailSheet: React.FC<LessonDetailSheetProps> = ({
   });
 
   const handleStatusChange = async (newStatus: LessonStatus) => {
-    await setLessonStatus(lesson.id, newStatus, today);
+    if (!lesson) return;
+
+    if (newStatus === 'concluida' && currentStatus !== 'concluida') {
+      // 1. Grava concluída e cria a revisão
+      await completeLesson(lesson.id, today);
+      // 2. Abre imediatamente a tela cheia de questões
+      if (onOpenQuestionsModal) {
+        onOpenQuestionsModal(lesson.id);
+      }
+    } else if (currentStatus === 'concluida' && newStatus !== 'concluida') {
+      // Desmarcar aula concluída pede confirmação
+      setPendingStatusChange(newStatus);
+      setShowUncompleteConfirm(true);
+    } else {
+      await setLessonStatus(lesson.id, newStatus, today);
+    }
+  };
+
+  const handleConfirmUncomplete = async () => {
+    if (!lesson || !pendingStatusChange) return;
+    await uncompleteLesson(lesson.id, pendingStatusChange);
+    setShowUncompleteConfirm(false);
+    setPendingStatusChange(null);
+  };
+
+  const handleCancelUncomplete = () => {
+    setShowUncompleteConfirm(false);
+    setPendingStatusChange(null);
   };
 
   const handleNotesBlur = async () => {
@@ -394,6 +428,18 @@ export const LessonDetailSheet: React.FC<LessonDetailSheetProps> = ({
           </div>
         </div>
       </div>
+
+      {/* Modal de Confirmação para Desmarcar Aula Concluída (PRD seção 5 item 4) */}
+      <ConfirmModal
+        isOpen={showUncompleteConfirm}
+        title="Desmarcar aula concluída?"
+        message="Ao desmarcar esta aula como concluída, a revisão ativa associada será removida. Deseja continuar?"
+        confirmText="Desmarcar e remover revisão"
+        cancelText="Voltar"
+        variant="warning"
+        onConfirm={handleConfirmUncomplete}
+        onCancel={handleCancelUncomplete}
+      />
     </div>
   );
 };

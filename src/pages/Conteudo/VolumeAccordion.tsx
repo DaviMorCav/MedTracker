@@ -9,7 +9,8 @@ import type {
 import { ApostilaGrid } from './ApostilaGrid';
 import { calculateAccuracy, isReviewOverdue } from '../../core/content';
 import { formatDateBr } from '../../core/dates';
-import { saveVolumeQuestionsUrl } from '../../db/operations';
+import { saveVolumeQuestionsUrl, completeLesson, uncompleteLesson } from '../../db/operations';
+import { ConfirmModal } from '../../components/ConfirmModal';
 
 interface VolumeAccordionProps {
   volume: VolumeWithSubject;
@@ -25,6 +26,7 @@ interface VolumeAccordionProps {
   today: string;
   volumeLink?: string;
   onSelectLesson: (lessonId: string) => void;
+  onOpenQuestionsModal?: (lessonId: string) => void;
   onToggleApostilaPage: (volumeId: string, page: number) => void;
   onSetAllApostila: (volumeId: string, pages: number[], completed: boolean) => void;
 }
@@ -43,11 +45,13 @@ export const VolumeAccordion: React.FC<VolumeAccordionProps> = ({
   today,
   volumeLink = '',
   onSelectLesson,
+  onOpenQuestionsModal,
   onToggleApostilaPage,
   onSetAllApostila,
 }) => {
   const [showVolumeLinkModal, setShowVolumeLinkModal] = useState(false);
   const [editingVolumeLink, setEditingVolumeLink] = useState(volumeLink);
+  const [confirmUncompleteLessonId, setConfirmUncompleteLessonId] = useState<string | null>(null);
 
   const aulas = volume.lessons.filter((l) => l.kind === 'aula');
   const bonus = volume.lessons.filter((l) => l.kind === 'bonus');
@@ -86,6 +90,27 @@ export const VolumeAccordion: React.FC<VolumeAccordionProps> = ({
   const handleSaveVolumeLink = async () => {
     await saveVolumeQuestionsUrl(volume.id, editingVolumeLink);
     setShowVolumeLinkModal(false);
+  };
+
+  const handleToggleLessonCompletion = async (
+    lessonId: string,
+    currentStatus: LessonStatus
+  ) => {
+    if (currentStatus === 'concluida') {
+      setConfirmUncompleteLessonId(lessonId);
+    } else {
+      await completeLesson(lessonId, today);
+      if (onOpenQuestionsModal) {
+        onOpenQuestionsModal(lessonId);
+      }
+    }
+  };
+
+  const handleConfirmUncomplete = async () => {
+    if (confirmUncompleteLessonId) {
+      await uncompleteLesson(confirmUncompleteLessonId, 'nao_vista');
+      setConfirmUncompleteLessonId(null);
+    }
   };
 
   return (
@@ -239,24 +264,36 @@ export const VolumeAccordion: React.FC<VolumeAccordionProps> = ({
                         className="p-3 flex items-center justify-between gap-3 hover:bg-slate-800/60 cursor-pointer transition-colors group select-none"
                       >
                         <div className="flex items-center gap-3 min-w-0">
-                          {/* Ícone de status */}
-                          <div className="shrink-0">
+                          {/* Botão interativo de status */}
+                          <button
+                            type="button"
+                            onClick={(e) => {
+                              e.stopPropagation();
+                              handleToggleLessonCompletion(aula.id, status);
+                            }}
+                            className="shrink-0 focus:outline-none"
+                            title={
+                              status === 'concluida'
+                                ? 'Aula concluída. Clique para desmarcar.'
+                                : 'Marcar como concluída e abrir questões.'
+                            }
+                          >
                             {status === 'concluida' ? (
-                              <div className="w-6 h-6 rounded-full bg-emerald-950 border border-emerald-600 flex items-center justify-center text-emerald-400">
+                              <div className="w-6 h-6 rounded-full bg-emerald-950 border border-emerald-600 flex items-center justify-center text-emerald-400 hover:scale-105 transition-transform">
                                 <svg className="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M5 13l4 4L19 7" />
                                 </svg>
                               </div>
                             ) : status === 'assistindo' ? (
-                              <div className="w-6 h-6 rounded-full bg-blue-950 border border-blue-500 flex items-center justify-center text-blue-400">
+                              <div className="w-6 h-6 rounded-full bg-blue-950 border border-blue-500 flex items-center justify-center text-blue-400 hover:scale-105 transition-transform">
                                 <svg className="w-3 h-3" fill="currentColor" viewBox="0 0 24 24">
                                   <path d="M8 5v14l11-7z" />
                                 </svg>
                               </div>
                             ) : (
-                              <div className="w-6 h-6 rounded-full border border-slate-700 bg-slate-800/60 group-hover:border-slate-500" />
+                              <div className="w-6 h-6 rounded-full border border-slate-700 bg-slate-800/60 hover:border-emerald-500 hover:scale-105 transition-all" />
                             )}
-                          </div>
+                          </button>
 
                           {/* Título e etiquetas */}
                           <div className="min-w-0">
@@ -334,24 +371,36 @@ export const VolumeAccordion: React.FC<VolumeAccordionProps> = ({
                         className="p-3 flex items-center justify-between gap-3 hover:bg-slate-800/60 cursor-pointer transition-colors group select-none"
                       >
                         <div className="flex items-center gap-3 min-w-0">
-                          {/* Ícone de status */}
-                          <div className="shrink-0">
+                          {/* Botão interativo de status */}
+                          <button
+                            type="button"
+                            onClick={(e) => {
+                              e.stopPropagation();
+                              handleToggleLessonCompletion(b.id, status);
+                            }}
+                            className="shrink-0 focus:outline-none"
+                            title={
+                              status === 'concluida'
+                                ? 'Bônus concluído. Clique para desmarcar.'
+                                : 'Marcar como concluído e abrir questões.'
+                            }
+                          >
                             {status === 'concluida' ? (
-                              <div className="w-6 h-6 rounded-full bg-emerald-950 border border-emerald-600 flex items-center justify-center text-emerald-400">
+                              <div className="w-6 h-6 rounded-full bg-emerald-950 border border-emerald-600 flex items-center justify-center text-emerald-400 hover:scale-105 transition-transform">
                                 <svg className="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M5 13l4 4L19 7" />
                                 </svg>
                               </div>
                             ) : status === 'assistindo' ? (
-                              <div className="w-6 h-6 rounded-full bg-blue-950 border border-blue-500 flex items-center justify-center text-blue-400">
+                              <div className="w-6 h-6 rounded-full bg-blue-950 border border-blue-500 flex items-center justify-center text-blue-400 hover:scale-105 transition-transform">
                                 <svg className="w-3 h-3" fill="currentColor" viewBox="0 0 24 24">
                                   <path d="M8 5v14l11-7z" />
                                 </svg>
                               </div>
                             ) : (
-                              <div className="w-6 h-6 rounded-full border border-purple-900/70 bg-slate-800/60 group-hover:border-purple-600" />
+                              <div className="w-6 h-6 rounded-full border border-purple-900/70 bg-slate-800/60 hover:border-emerald-500 hover:scale-105 transition-all" />
                             )}
-                          </div>
+                          </button>
 
                           {/* Título e etiquetas */}
                           <div className="min-w-0">
@@ -420,6 +469,18 @@ export const VolumeAccordion: React.FC<VolumeAccordionProps> = ({
           )}
         </div>
       )}
+
+      {/* Confirmação para desmarcar aula concluída (PRD seção 5 item 4) */}
+      <ConfirmModal
+        isOpen={Boolean(confirmUncompleteLessonId)}
+        title="Desmarcar aula concluída?"
+        message="Ao desmarcar esta aula como concluída, a revisão ativa associada será removida. Deseja continuar?"
+        confirmText="Desmarcar e remover revisão"
+        cancelText="Voltar"
+        variant="warning"
+        onConfirm={handleConfirmUncomplete}
+        onCancel={() => setConfirmUncompleteLessonId(null)}
+      />
     </div>
   );
 };

@@ -107,3 +107,81 @@ export function calculateSubjectProgress(
 export function isReviewOverdue(dueDate: string, today: string): boolean {
   return dueDate < today;
 }
+
+export interface SubjectAccuracyStat {
+  subjectId: string;
+  subjectName: string;
+  total: number;
+  correct: number;
+  percentage: number;
+  isWeak: boolean;
+}
+
+/**
+ * Calcula o percentual de acerto por matéria a partir dos registros de questões,
+ * ordenado do menor para o maior percentual conforme PRD seção 8.
+ */
+export function calculateSubjectAccuracyRankings(
+  subjects: { id: string; name: string }[],
+  questionLogs: QuestionLog[],
+  lessonSubjectMap: Map<string, string>
+): SubjectAccuracyStat[] {
+  const statsMap = new Map<string, { total: number; correct: number }>();
+
+  for (const log of questionLogs) {
+    const subjectId = lessonSubjectMap.get(log.lessonId);
+    if (!subjectId) continue;
+
+    const current = statsMap.get(subjectId) || { total: 0, correct: 0 };
+    current.total += log.total || 0;
+    current.correct += log.correct || 0;
+    statsMap.set(subjectId, current);
+  }
+
+  const subjectNameMap = new Map(subjects.map((s) => [s.id, s.name]));
+  const result: SubjectAccuracyStat[] = [];
+
+  for (const [subjectId, stat] of statsMap.entries()) {
+    if (stat.total > 0) {
+      const percentage = Math.round((stat.correct / stat.total) * 100);
+      result.push({
+        subjectId,
+        subjectName: subjectNameMap.get(subjectId) || subjectId,
+        total: stat.total,
+        correct: stat.correct,
+        percentage,
+        isWeak: percentage < 60,
+      });
+    }
+  }
+
+  // Ordenado do menor para o maior (PRD seção 8)
+  return result.sort((a, b) => a.percentage - b.percentage || b.total - a.total);
+}
+
+export interface OverallQuestionsStats {
+  totalQuestions: number;
+  totalCorrect: number;
+  percentage: number;
+  totalSessions: number;
+}
+
+/**
+ * Calcula resumo geral de questões feitas e acertos.
+ */
+export function calculateOverallQuestionsStats(
+  logs: QuestionLog[]
+): OverallQuestionsStats {
+  const totalQuestions = logs.reduce((sum, l) => sum + (l.total || 0), 0);
+  const totalCorrect = logs.reduce((sum, l) => sum + (l.correct || 0), 0);
+  const percentage =
+    totalQuestions > 0 ? Math.round((totalCorrect / totalQuestions) * 100) : 0;
+
+  return {
+    totalQuestions,
+    totalCorrect,
+    percentage,
+    totalSessions: logs.length,
+  };
+}
+

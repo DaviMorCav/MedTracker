@@ -9,6 +9,8 @@ import type {
 } from './schema';
 
 export * from './schema';
+export * from './operations';
+export * from './useLiveQuery';
 
 export class MedTrackerDB extends Dexie {
   settings!: Table<UserSettings, string>;

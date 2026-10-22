@@ -23,13 +23,31 @@ export const ReviewModal: React.FC<ReviewModalProps> = ({
 }) => {
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
-      if (e.key === 'Escape' && isOpen) {
+      if (!isOpen) return;
+      if (e.key === 'Escape') {
         onClose();
+        return;
+      }
+      // Atalhos de teclado (computador): 1 Errei, 2 Difícil, 3 Bom, 4 Fácil
+      const target = e.target as HTMLElement | null;
+      if (target && ['INPUT', 'TEXTAREA', 'SELECT'].includes(target.tagName)) return;
+      const keyToRating: Record<string, ReviewRating> = {
+        '1': 'errei',
+        '2': 'dificil',
+        '3': 'bom',
+        '4': 'facil',
+      };
+      const rating = keyToRating[e.key];
+      if (rating && review) {
+        void (async () => {
+          await onEvaluate(evaluateReview(review, rating, today));
+          onClose();
+        })();
       }
     };
     window.addEventListener('keydown', handleKeyDown);
     return () => window.removeEventListener('keydown', handleKeyDown);
-  }, [isOpen, onClose]);
+  }, [isOpen, onClose, review, today, onEvaluate]);
 
   if (!isOpen || !review) return null;
 
@@ -69,14 +87,14 @@ export const ReviewModal: React.FC<ReviewModalProps> = ({
   };
 
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-950/80 backdrop-blur-sm animate-in fade-in duration-200">
+    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/40 dark:bg-black/60 backdrop-blur-sm animate-in fade-in duration-200">
       <div
         className="fixed inset-0"
         onClick={onClose}
         aria-hidden="true"
       />
 
-      <div className="relative w-full max-w-md bg-slate-900 border border-slate-800 rounded-3xl p-5 shadow-2xl z-10 space-y-5">
+      <div className="relative w-full max-w-md bg-slate-900 border border-slate-800 rounded-2xl p-5 shadow-2xl z-10 space-y-5">
         {/* Cabeçalho */}
         <div className="flex items-start justify-between gap-3">
           <div>
@@ -117,6 +135,9 @@ export const ReviewModal: React.FC<ReviewModalProps> = ({
           <p className="text-xs text-slate-400 mt-0.5">
             Selecione uma nota para agendar a próxima revisão
           </p>
+          <p className="hidden md:block text-[11px] text-slate-500 mt-1.5">
+            Atalhos: 1 Errei · 2 Difícil · 3 Bom · 4 Fácil
+          </p>
         </div>
 
         {/* Os 4 Botões: Errei, Difícil, Bom, Fácil com data prevista embaixo */}
@@ -125,7 +146,7 @@ export const ReviewModal: React.FC<ReviewModalProps> = ({
           <button
             type="button"
             onClick={() => handleSelectRating('errei')}
-            className="p-3 rounded-2xl bg-slate-950/80 border border-rose-900/40 hover:border-rose-600 hover:bg-rose-950/30 transition-all text-center group active:scale-[0.98]"
+            className="p-3 rounded-xl bg-slate-950/80 border border-rose-900/40 hover:border-rose-600 hover:bg-rose-950/30 transition-all text-center group active:scale-[0.98]"
           >
             <span className="block text-sm font-bold text-rose-400 group-hover:text-rose-300">
               Errei
@@ -142,7 +163,7 @@ export const ReviewModal: React.FC<ReviewModalProps> = ({
           <button
             type="button"
             onClick={() => handleSelectRating('dificil')}
-            className="p-3 rounded-2xl bg-slate-950/80 border border-amber-900/40 hover:border-amber-600 hover:bg-amber-950/30 transition-all text-center group active:scale-[0.98]"
+            className="p-3 rounded-xl bg-slate-950/80 border border-amber-900/40 hover:border-amber-600 hover:bg-amber-950/30 transition-all text-center group active:scale-[0.98]"
           >
             <span className="block text-sm font-bold text-amber-400 group-hover:text-amber-300">
               Difícil
@@ -159,7 +180,7 @@ export const ReviewModal: React.FC<ReviewModalProps> = ({
           <button
             type="button"
             onClick={() => handleSelectRating('bom')}
-            className="p-3 rounded-2xl bg-slate-950/80 border border-blue-900/40 hover:border-blue-600 hover:bg-blue-950/30 transition-all text-center group active:scale-[0.98]"
+            className="p-3 rounded-xl bg-slate-950/80 border border-blue-900/40 hover:border-blue-600 hover:bg-blue-950/30 transition-all text-center group active:scale-[0.98]"
           >
             <span className="block text-sm font-bold text-blue-400 group-hover:text-blue-300">
               Bom
@@ -176,7 +197,7 @@ export const ReviewModal: React.FC<ReviewModalProps> = ({
           <button
             type="button"
             onClick={() => handleSelectRating('facil')}
-            className="p-3 rounded-2xl bg-slate-950/80 border border-emerald-900/40 hover:border-emerald-600 hover:bg-emerald-950/30 transition-all text-center group active:scale-[0.98]"
+            className="p-3 rounded-xl bg-slate-950/80 border border-emerald-900/40 hover:border-emerald-600 hover:bg-emerald-950/30 transition-all text-center group active:scale-[0.98]"
           >
             <span className="block text-sm font-bold text-emerald-400 group-hover:text-emerald-300">
               Fácil

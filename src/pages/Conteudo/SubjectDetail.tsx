@@ -16,6 +16,7 @@ import { volumeById } from '../../data/curriculum';
 interface SubjectDetailProps {
   subject: Subject;
   onBack: () => void;
+  hideBack?: boolean;
   today: string;
   progressMap: Map<string, LessonProgress>;
   reviewsMap: Map<string, LessonReview>;
@@ -35,6 +36,7 @@ interface SubjectDetailProps {
 export const SubjectDetail: React.FC<SubjectDetailProps> = ({
   subject,
   onBack,
+  hideBack = false,
   today,
   progressMap,
   reviewsMap,
@@ -92,7 +94,8 @@ export const SubjectDetail: React.FC<SubjectDetailProps> = ({
 
   return (
     <div className="space-y-4">
-      {/* Botão Voltar */}
+      {/* Botão Voltar (só no celular; no computador a lista fica ao lado) */}
+      {!hideBack && (
       <div>
         <button
           type="button"
@@ -105,9 +108,10 @@ export const SubjectDetail: React.FC<SubjectDetailProps> = ({
           <span>Todas as Matérias</span>
         </button>
       </div>
+      )}
 
       {/* Cartão de Cabeçalho da Matéria */}
-      <div className="bg-slate-900 border border-slate-800 rounded-2xl p-4 shadow-sm space-y-3">
+      <div className="bg-slate-900 border border-slate-800 rounded-xl p-4 shadow-sm space-y-3">
         <div className="flex items-start justify-between gap-3">
           <div>
             <div className="flex items-center gap-2 mb-1">

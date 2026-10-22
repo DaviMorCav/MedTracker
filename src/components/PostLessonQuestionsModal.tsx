@@ -94,8 +94,8 @@ export const PostLessonQuestionsModal: React.FC<PostLessonQuestionsModalProps> =
   };
 
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center p-3 sm:p-4 bg-slate-950/85 backdrop-blur-md animate-in fade-in duration-200">
-      <div className="relative w-full max-w-lg bg-slate-900 border border-slate-800 rounded-3xl shadow-2xl overflow-hidden flex flex-col max-h-[95vh]">
+    <div className="fixed inset-0 z-50 flex items-center justify-center p-3 sm:p-4 bg-black/40 dark:bg-black/60 backdrop-blur-md animate-in fade-in duration-200">
+      <div className="relative w-full max-w-lg bg-slate-900 border border-slate-800 rounded-2xl shadow-2xl overflow-hidden flex flex-col max-h-[95vh]">
         {/* Cabeçalho */}
         <div className="bg-slate-900/95 px-5 py-4 border-b border-slate-800 flex items-start justify-between gap-3">
           <div>
@@ -128,7 +128,7 @@ export const PostLessonQuestionsModal: React.FC<PostLessonQuestionsModalProps> =
         {/* Conteúdo com rolagem */}
         <div className="p-5 space-y-5 overflow-y-auto flex-1">
           {/* Botão Abrir Questões (PRD seção 5) */}
-          <div className="bg-slate-950/60 p-4 rounded-2xl border border-slate-800 space-y-2">
+          <div className="bg-slate-950/60 p-4 rounded-xl border border-slate-800 space-y-2">
             <span className="text-[11px] font-semibold uppercase tracking-wider text-slate-400 block">
               1. Acessar questões na plataforma
             </span>
@@ -138,7 +138,7 @@ export const PostLessonQuestionsModal: React.FC<PostLessonQuestionsModalProps> =
                 href={effectiveQuestionsUrl}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="w-full py-3 px-4 bg-indigo-600 hover:bg-indigo-500 active:scale-[0.99] text-white rounded-xl text-xs sm:text-sm font-semibold flex items-center justify-center gap-2 transition-all shadow-md shadow-indigo-950"
+                className="w-full py-3 px-4 bg-indigo-600 hover:bg-indigo-500 active:scale-[0.99] text-white rounded-lg text-xs sm:text-sm font-semibold flex items-center justify-center gap-2 transition-all shadow-md shadow-indigo-950"
               >
                 <span>Abrir questões</span>
                 <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -146,7 +146,7 @@ export const PostLessonQuestionsModal: React.FC<PostLessonQuestionsModalProps> =
                 </svg>
               </a>
             ) : (
-              <div className="bg-amber-950/40 border border-amber-800/60 p-3 rounded-xl text-xs space-y-2">
+              <div className="bg-amber-950/40 border border-amber-800/60 p-3 rounded-lg text-xs space-y-2">
                 <p className="text-amber-200 leading-relaxed">
                   ⚠️ Nenhum link de questões configurado para esta aula, volume ou modelo global.
                 </p>
@@ -163,7 +163,7 @@ export const PostLessonQuestionsModal: React.FC<PostLessonQuestionsModalProps> =
           </div>
 
           {/* Registro rápido: Contadores Fiz e Acertei (PRD seção 5) */}
-          <div className="bg-slate-950/60 p-4 rounded-2xl border border-slate-800 space-y-3.5">
+          <div className="bg-slate-950/60 p-4 rounded-xl border border-slate-800 space-y-3.5">
             <div className="flex items-center justify-between">
               <span className="text-[11px] font-semibold uppercase tracking-wider text-slate-400">
                 2. Registro rápido de desempenho
@@ -189,7 +189,7 @@ export const PostLessonQuestionsModal: React.FC<PostLessonQuestionsModalProps> =
             {/* Grid dos dois contadores */}
             <div className="grid grid-cols-2 gap-3">
               {/* Contador FIZ */}
-              <div className="bg-slate-900 p-3 rounded-xl border border-slate-800 flex flex-col items-center">
+              <div className="bg-slate-900 p-3 rounded-lg border border-slate-800 flex flex-col items-center">
                 <span className="text-xs text-slate-400 font-semibold mb-1">
                   Questões Feitas
                 </span>
@@ -227,7 +227,7 @@ export const PostLessonQuestionsModal: React.FC<PostLessonQuestionsModalProps> =
                       className={`text-[10px] px-1.5 py-0.5 rounded border transition-colors ${
                         fiz === n
                           ? 'bg-indigo-600 text-white border-indigo-500'
-                          : 'bg-slate-800/80 text-slate-400 border-slate-700 hover:text-white'
+                          : 'bg-slate-800/80 text-slate-400 border-slate-700 hover:text-slate-50'
                       }`}
                     >
                       {n}
@@ -237,7 +237,7 @@ export const PostLessonQuestionsModal: React.FC<PostLessonQuestionsModalProps> =
               </div>
 
               {/* Contador ACERTEI */}
-              <div className="bg-slate-900 p-3 rounded-xl border border-slate-800 flex flex-col items-center">
+              <div className="bg-slate-900 p-3 rounded-lg border border-slate-800 flex flex-col items-center">
                 <span className="text-xs text-slate-400 font-semibold mb-1">
                   Acertos
                 </span>
@@ -298,7 +298,7 @@ export const PostLessonQuestionsModal: React.FC<PostLessonQuestionsModalProps> =
               value={note}
               onChange={(e) => setNote(e.target.value)}
               placeholder="Ex.: errei duas questões de conduta em flutter atrial..."
-              className="w-full bg-slate-950 border border-slate-800 rounded-xl p-3 text-xs text-slate-100 placeholder-slate-500 focus:outline-none focus:ring-1 focus:ring-indigo-500 resize-none"
+              className="w-full bg-slate-950 border border-slate-800 rounded-lg p-3 text-xs text-slate-100 placeholder-slate-500 focus:outline-none focus:ring-1 focus:ring-indigo-500 resize-none"
             />
           </div>
         </div>
@@ -308,7 +308,7 @@ export const PostLessonQuestionsModal: React.FC<PostLessonQuestionsModalProps> =
           <button
             type="button"
             onClick={onClose}
-            className="py-2.5 px-4 rounded-xl text-xs font-semibold text-slate-400 hover:text-slate-200 hover:bg-slate-800 transition-colors"
+            className="py-2.5 px-4 rounded-lg text-xs font-semibold text-slate-400 hover:text-slate-200 hover:bg-slate-800 transition-colors"
           >
             Fazer depois
           </button>
@@ -317,7 +317,7 @@ export const PostLessonQuestionsModal: React.FC<PostLessonQuestionsModalProps> =
             type="button"
             disabled={fiz <= 0 || saving}
             onClick={handleSave}
-            className="py-2.5 px-6 rounded-xl text-xs sm:text-sm font-semibold text-white bg-indigo-600 hover:bg-indigo-500 disabled:opacity-40 transition-all shadow-md shadow-indigo-950"
+            className="py-2.5 px-6 rounded-lg text-xs sm:text-sm font-semibold text-white bg-indigo-600 hover:bg-indigo-500 disabled:opacity-40 transition-all shadow-md shadow-indigo-950"
           >
             {saving ? 'Gravando...' : 'Salvar registro'}
           </button>

@@ -146,9 +146,9 @@ export const QuestoesPage: React.FC = () => {
   };
 
   return (
-    <div className="py-2 space-y-5">
+    <div className="py-2 space-y-5 lg:space-y-0 lg:grid lg:grid-cols-2 lg:gap-5 lg:items-start">
       {/* 1. Resumo Geral (PRD seção 8) */}
-      <div className="bg-gradient-to-br from-indigo-950/70 via-slate-900 to-slate-900 border border-indigo-900/40 rounded-2xl p-4 shadow-sm space-y-3">
+      <div className="bg-gradient-to-br from-indigo-950/70 via-slate-900 to-slate-900 border border-indigo-900/40 rounded-xl p-4 shadow-sm space-y-3 lg:col-span-2">
         <div className="flex items-center justify-between">
           <div>
             <span className="text-xs font-semibold uppercase tracking-wider text-indigo-400">
@@ -187,7 +187,7 @@ export const QuestoesPage: React.FC = () => {
       </div>
 
       {/* 2. Atalho para Questões Pendentes (PRD seção 8) */}
-      <div className="bg-slate-900 border border-slate-800 rounded-2xl p-4 shadow-sm space-y-3">
+      <div className="bg-slate-900 border border-slate-800 rounded-xl p-4 shadow-sm space-y-3">
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-2">
             <span className="text-base">📋</span>
@@ -220,7 +220,7 @@ export const QuestoesPage: React.FC = () => {
               <p className="text-xs text-slate-400">
                 Aulas concluídas que ainda não possuem registro de questões:
               </p>
-              <div className="divide-y divide-slate-800/80 rounded-xl overflow-hidden border border-slate-800 bg-slate-950/40">
+              <div className="divide-y divide-slate-800/80 rounded-lg overflow-hidden border border-slate-800 bg-slate-950/40">
                 {pendingLessons.map((p) => {
                   const lesson = lessonById.get(p.lessonId);
                   if (!lesson) return null;
@@ -261,7 +261,7 @@ export const QuestoesPage: React.FC = () => {
       </div>
 
       {/* 3. Acerto por matéria, em barras, ordenado do menor para o maior (PRD seção 8) */}
-      <div className="bg-slate-900 border border-slate-800 rounded-2xl p-4 shadow-sm space-y-3">
+      <div className="bg-slate-900 border border-slate-800 rounded-xl p-4 shadow-sm space-y-3">
         <div className="flex items-center justify-between">
           <h2 className="text-sm font-bold text-slate-100 flex items-center gap-1.5">
             <span>📊</span>
@@ -331,7 +331,7 @@ export const QuestoesPage: React.FC = () => {
       </div>
 
       {/* 4. Lista de registros por data (PRD seção 8) */}
-      <div className="bg-slate-900 border border-slate-800 rounded-2xl p-4 shadow-sm space-y-3">
+      <div className="bg-slate-900 border border-slate-800 rounded-xl p-4 shadow-sm space-y-3 lg:col-span-2">
         <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-2">
           <h2 className="text-sm font-bold text-slate-100 flex items-center gap-1.5">
             <span>📝</span>
@@ -354,7 +354,7 @@ export const QuestoesPage: React.FC = () => {
         </div>
 
         {filteredLogs.length > 0 ? (
-          <div className="divide-y divide-slate-800/80 rounded-xl overflow-hidden border border-slate-800 bg-slate-950/40">
+          <div className="divide-y divide-slate-800/80 rounded-lg overflow-hidden border border-slate-800 bg-slate-950/40">
             {filteredLogs.map((log) => {
               const lesson = lessonById.get(log.lessonId);
               const percentage =

@@ -229,9 +229,9 @@ export const HojePage: React.FC = () => {
     circumference - (dailyProgress.percentage / 100) * circumference;
 
   return (
-    <div className="py-2 space-y-6">
+    <div className="py-2 space-y-6 lg:space-y-0 lg:grid lg:grid-cols-[minmax(0,1fr)_320px] lg:grid-rows-[auto_1fr] lg:gap-x-6 lg:gap-y-6 lg:items-start">
       {/* 1. CABEÇALHO: data de hoje, sequência de dias, anel de progresso (PRD seção 3) */}
-      <div className="bg-slate-900 border border-slate-800 rounded-3xl p-4 sm:p-5 shadow-sm">
+      <div className="bg-slate-900 border border-slate-800 rounded-2xl p-4 sm:p-5 shadow-sm lg:col-start-2 lg:row-start-1">
         <div className="flex items-center justify-between gap-3">
           <div className="min-w-0">
             <p className="text-xs font-semibold text-indigo-400 capitalize">
@@ -287,9 +287,10 @@ export const HojePage: React.FC = () => {
         </div>
       </div>
 
+      <div className="space-y-6 min-w-0 lg:col-start-1 lg:row-start-1 lg:row-span-2">
       {/* ESTADO VAZIO: Dia Livre (PRD seção 3) */}
       {isDayEmpty && (
-        <div className="bg-gradient-to-br from-indigo-950/60 to-slate-900 border border-indigo-900/40 rounded-3xl p-6 text-center space-y-3">
+        <div className="bg-gradient-to-br from-indigo-950/60 to-slate-900 border border-indigo-900/40 rounded-2xl p-6 text-center space-y-3">
           <span className="text-4xl block">🎉</span>
           <h2 className="text-base font-bold text-slate-100">Dia livre!</h2>
           <p className="text-xs text-slate-400 max-w-xs mx-auto">
@@ -298,7 +299,7 @@ export const HojePage: React.FC = () => {
           <button
             type="button"
             onClick={() => navigate('/conteudo')}
-            className="py-2.5 px-5 bg-indigo-600 hover:bg-indigo-500 text-white rounded-xl text-xs font-semibold shadow-md transition-all"
+            className="py-2.5 px-5 bg-indigo-600 hover:bg-indigo-500 text-white rounded-lg text-xs font-semibold shadow-md transition-all"
           >
             Adiantar uma aula ➔
           </button>
@@ -322,7 +323,7 @@ export const HojePage: React.FC = () => {
             )}
           </div>
 
-          <div className="divide-y divide-slate-800/80 rounded-2xl overflow-hidden border border-slate-800 bg-slate-900 shadow-sm">
+          <div className="divide-y divide-slate-800/80 rounded-xl overflow-hidden border border-slate-800 bg-slate-900 shadow-sm">
             {todayReviewsData.queue.map((review) => {
               const lesson = lessonById.get(review.lessonId);
               const isOverdue = review.dueDate < today;
@@ -353,14 +354,14 @@ export const HojePage: React.FC = () => {
                         </span>
                       )}
                     </div>
-                    <p className="text-xs font-bold text-slate-200 group-hover:text-white truncate">
+                    <p className="text-xs font-bold text-slate-200 group-hover:text-slate-50 truncate">
                       {lesson?.title || review.lessonId}
                     </p>
                   </div>
 
                   <button
                     type="button"
-                    className="py-1.5 px-3 rounded-xl bg-indigo-600 group-hover:bg-indigo-500 text-white text-xs font-semibold shrink-0 transition-colors shadow-sm"
+                    className="py-1.5 px-3 rounded-lg bg-indigo-600 group-hover:bg-indigo-500 text-white text-xs font-semibold shrink-0 transition-colors shadow-sm"
                   >
                     Revisar
                   </button>
@@ -390,7 +391,7 @@ export const HojePage: React.FC = () => {
             </div>
           </div>
 
-          <div className="divide-y divide-slate-800/80 rounded-2xl overflow-hidden border border-slate-800 bg-slate-900 shadow-sm">
+          <div className="divide-y divide-slate-800/80 rounded-xl overflow-hidden border border-slate-800 bg-slate-900 shadow-sm">
             {pendingQuestions.map((p) => {
               const lesson = lessonById.get(p.lessonId);
               if (!lesson) return null;
@@ -402,7 +403,7 @@ export const HojePage: React.FC = () => {
                   className="p-3.5 flex items-center justify-between gap-3 hover:bg-slate-800/60 cursor-pointer transition-colors group select-none"
                 >
                   <div className="min-w-0">
-                    <p className="text-xs font-semibold text-slate-200 group-hover:text-white truncate">
+                    <p className="text-xs font-semibold text-slate-200 group-hover:text-slate-50 truncate">
                       {lesson.title}
                     </p>
                     <p className="text-[11px] text-slate-400 truncate mt-0.5">
@@ -413,7 +414,7 @@ export const HojePage: React.FC = () => {
 
                   <button
                     type="button"
-                    className="py-1.5 px-3 bg-amber-600/90 group-hover:bg-amber-500 text-white rounded-xl text-xs font-semibold shrink-0 transition-colors shadow-sm"
+                    className="py-1.5 px-3 bg-amber-600/90 group-hover:bg-amber-500 text-white rounded-lg text-xs font-semibold shrink-0 transition-colors shadow-sm"
                   >
                     Fazer questões
                   </button>
@@ -439,7 +440,7 @@ export const HojePage: React.FC = () => {
             </span>
           </div>
 
-          <div className="divide-y divide-slate-800/80 rounded-2xl overflow-hidden border border-slate-800 bg-slate-900 shadow-sm">
+          <div className="divide-y divide-slate-800/80 rounded-xl overflow-hidden border border-slate-800 bg-slate-900 shadow-sm">
             {suggestedLessons.map((lesson) => {
               return (
                 <div
@@ -473,14 +474,14 @@ export const HojePage: React.FC = () => {
                     <button
                       type="button"
                       onClick={() => navigate(`/conteudo?materia=${lesson.subjectId}&aula=${lesson.id}`)}
-                      className="flex-1 sm:flex-initial py-1.5 px-3 rounded-xl bg-slate-800 hover:bg-slate-700 text-slate-200 text-xs font-semibold transition-colors"
+                      className="flex-1 sm:flex-initial py-1.5 px-3 rounded-lg bg-slate-800 hover:bg-slate-700 text-slate-200 text-xs font-semibold transition-colors"
                     >
                       Começar
                     </button>
                     <button
                       type="button"
                       onClick={() => handleConcludeLesson(lesson.id)}
-                      className="flex-1 sm:flex-initial py-1.5 px-3.5 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white text-xs font-semibold transition-colors shadow-sm"
+                      className="flex-1 sm:flex-initial py-1.5 px-3.5 rounded-lg bg-emerald-600 hover:bg-emerald-500 text-white text-xs font-semibold transition-colors shadow-sm"
                     >
                       Concluir
                     </button>
@@ -492,8 +493,10 @@ export const HojePage: React.FC = () => {
         </div>
       )}
 
+      </div>
+
       {/* 5. PRÓXIMOS 7 DIAS (mini gráfico de barras) (PRD seção 3) */}
-      <div className="bg-slate-900 border border-slate-800 rounded-3xl p-4 sm:p-5 shadow-sm space-y-3">
+      <div className="bg-slate-900 border border-slate-800 rounded-2xl p-4 sm:p-5 shadow-sm space-y-3 lg:col-start-2 lg:row-start-2">
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-2">
             <span className="text-sm">📈</span>

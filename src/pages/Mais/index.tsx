@@ -166,14 +166,14 @@ export const MaisPage: React.FC = () => {
   };
 
   return (
-    <div className="py-2 space-y-6">
+    <div className="py-2 space-y-6 md:max-w-3xl md:mx-auto">
       <div>
         <h1 className="text-xl font-bold text-slate-100">Ajustes</h1>
         <p className="text-xs text-slate-400 mt-0.5">Configurações do MedTracker</p>
       </div>
 
       {/* ── 1. Metas Diárias ────────────────────────────────────────────────── */}
-      <section className="bg-slate-900 border border-slate-800 rounded-2xl p-4 space-y-4">
+      <section className="bg-slate-900 border border-slate-800 rounded-xl p-4 space-y-4">
         <h2 className="text-xs font-bold uppercase tracking-wider text-indigo-400">
           Metas Diárias
         </h2>
@@ -259,7 +259,7 @@ export const MaisPage: React.FC = () => {
       </section>
 
       {/* ── 2. Matérias Ativas e Ordem ──────────────────────────────────────── */}
-      <section className="bg-slate-900 border border-slate-800 rounded-2xl p-4 space-y-3">
+      <section className="bg-slate-900 border border-slate-800 rounded-xl p-4 space-y-3">
         <div className="flex items-center justify-between">
           <h2 className="text-xs font-bold uppercase tracking-wider text-indigo-400">
             Matérias Ativas e Ordem
@@ -280,7 +280,7 @@ export const MaisPage: React.FC = () => {
             return (
               <div
                 key={subjectId}
-                className="flex items-center gap-3 bg-slate-800/60 border border-slate-700/60 rounded-xl px-3 py-2.5"
+                className="flex items-center gap-3 bg-slate-800/60 border border-slate-700/60 rounded-lg px-3 py-2.5"
               >
                 <div className="flex flex-col gap-0.5 shrink-0">
                   <button
@@ -337,7 +337,7 @@ export const MaisPage: React.FC = () => {
             .map((subject) => (
               <div
                 key={subject.id}
-                className="flex items-center gap-3 bg-slate-950/40 border border-slate-800/40 rounded-xl px-3 py-2.5"
+                className="flex items-center gap-3 bg-slate-950/40 border border-slate-800/40 rounded-lg px-3 py-2.5"
               >
                 <span className="w-4 shrink-0" />
                 <span className="flex-1 text-sm font-medium text-slate-400 truncate">
@@ -356,7 +356,7 @@ export const MaisPage: React.FC = () => {
       </section>
 
       {/* ── 3. Modelo Global de Link de Questões ────────────────────────────── */}
-      <section className="bg-slate-900 border border-slate-800 rounded-2xl p-4 space-y-3">
+      <section className="bg-slate-900 border border-slate-800 rounded-xl p-4 space-y-3">
         <h2 className="text-xs font-bold uppercase tracking-wider text-indigo-400">
           Link Global de Questões
         </h2>
@@ -372,7 +372,7 @@ export const MaisPage: React.FC = () => {
           value={questionsUrlTemplate}
           onChange={(e) => { setQuestionsUrlTemplate(e.target.value); setTemplateEditing(true); }}
           placeholder="https://minhaplatforma.com/questoes?materia={materia}&aula={aula}"
-          className="w-full bg-slate-950 border border-slate-700 rounded-xl p-3 text-xs text-slate-100 placeholder-slate-500 focus:outline-none focus:ring-1 focus:ring-indigo-500 resize-none font-mono"
+          className="w-full bg-slate-950 border border-slate-700 rounded-lg p-3 text-xs text-slate-100 placeholder-slate-500 focus:outline-none focus:ring-1 focus:ring-indigo-500 resize-none font-mono"
         />
 
         {templateEditing && (
@@ -380,14 +380,14 @@ export const MaisPage: React.FC = () => {
             <button
               type="button"
               onClick={handleTemplateSave}
-              className="py-1.5 px-4 bg-indigo-600 hover:bg-indigo-500 text-white rounded-xl text-xs font-semibold transition-colors"
+              className="py-1.5 px-4 bg-indigo-600 hover:bg-indigo-500 text-white rounded-lg text-xs font-semibold transition-colors"
             >
               Salvar
             </button>
             <button
               type="button"
               onClick={() => { setQuestionsUrlTemplate(settings?.questionsUrlTemplate || ''); setTemplateEditing(false); }}
-              className="py-1.5 px-3 bg-slate-800 hover:bg-slate-700 text-slate-300 rounded-xl text-xs font-semibold transition-colors"
+              className="py-1.5 px-3 bg-slate-800 hover:bg-slate-700 text-slate-300 rounded-lg text-xs font-semibold transition-colors"
             >
               Cancelar
             </button>
@@ -396,7 +396,7 @@ export const MaisPage: React.FC = () => {
       </section>
 
       {/* ── 4. Backup: Exportar e Importar ──────────────────────────────────── */}
-      <section className="bg-slate-900 border border-slate-800 rounded-2xl p-4 space-y-4">
+      <section className="bg-slate-900 border border-slate-800 rounded-xl p-4 space-y-4">
         <div>
           <h2 className="text-xs font-bold uppercase tracking-wider text-indigo-400">
             Backup dos Dados
@@ -407,7 +407,7 @@ export const MaisPage: React.FC = () => {
         </div>
 
         {/* Exportar */}
-        <div className="flex items-center justify-between gap-3 p-3.5 bg-slate-950/60 rounded-xl border border-slate-800">
+        <div className="flex items-center justify-between gap-3 p-3.5 bg-slate-950/60 rounded-lg border border-slate-800">
           <div>
             <p className="text-sm font-semibold text-slate-200">Exportar Backup</p>
             <p className="text-xs text-slate-400 mt-0.5">
@@ -417,7 +417,7 @@ export const MaisPage: React.FC = () => {
           <button
             type="button"
             onClick={handleExportBackup}
-            className="py-2 px-4 bg-indigo-600 hover:bg-indigo-500 text-white rounded-xl text-xs font-semibold shrink-0 transition-colors shadow-sm flex items-center gap-1.5"
+            className="py-2 px-4 bg-indigo-600 hover:bg-indigo-500 text-white rounded-lg text-xs font-semibold shrink-0 transition-colors shadow-sm flex items-center gap-1.5"
           >
             <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
@@ -427,7 +427,7 @@ export const MaisPage: React.FC = () => {
         </div>
 
         {/* Importar */}
-        <div className="flex items-center justify-between gap-3 p-3.5 bg-slate-950/60 rounded-xl border border-slate-800">
+        <div className="flex items-center justify-between gap-3 p-3.5 bg-slate-950/60 rounded-lg border border-slate-800">
           <div>
             <p className="text-sm font-semibold text-slate-200">Importar Backup</p>
             <p className="text-xs text-slate-400 mt-0.5">
@@ -437,7 +437,7 @@ export const MaisPage: React.FC = () => {
           <button
             type="button"
             onClick={() => fileInputRef.current?.click()}
-            className="py-2 px-4 bg-slate-700 hover:bg-slate-600 text-slate-100 rounded-xl text-xs font-semibold shrink-0 transition-colors shadow-sm flex items-center gap-1.5"
+            className="py-2 px-4 bg-slate-700 hover:bg-slate-600 text-slate-100 rounded-lg text-xs font-semibold shrink-0 transition-colors shadow-sm flex items-center gap-1.5"
           >
             <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-8l4-4m0 0l4 4m-4-4v12" />
@@ -455,13 +455,13 @@ export const MaisPage: React.FC = () => {
 
         {/* Mensagens de erro/sucesso */}
         {importError && (
-          <div className="bg-rose-950/60 border border-rose-800 p-3 rounded-xl text-xs text-rose-200 flex items-start gap-2">
+          <div className="bg-rose-950/60 border border-rose-800 p-3 rounded-lg text-xs text-rose-200 flex items-start gap-2">
             <span>⚠️</span>
             <span>{importError}</span>
           </div>
         )}
         {importSuccess && (
-          <div className="bg-emerald-950/60 border border-emerald-800 p-3 rounded-xl text-xs text-emerald-200 flex items-start gap-2">
+          <div className="bg-emerald-950/60 border border-emerald-800 p-3 rounded-lg text-xs text-emerald-200 flex items-start gap-2">
             <span>✓</span>
             <span>{importSuccess}</span>
           </div>
@@ -469,7 +469,7 @@ export const MaisPage: React.FC = () => {
       </section>
 
       {/* ── 5. Info PWA ─────────────────────────────────────────────────────── */}
-      <section className="bg-slate-900/60 border border-slate-800/60 rounded-2xl p-4 space-y-2">
+      <section className="bg-slate-900/60 border border-slate-800/60 rounded-xl p-4 space-y-2">
         <h2 className="text-xs font-bold uppercase tracking-wider text-slate-500">
           Sobre o App
         </h2>

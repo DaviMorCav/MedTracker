@@ -145,7 +145,7 @@ export const LessonDetailSheet: React.FC<LessonDetailSheetProps> = ({
   const overdue = review?.dueDate ? isReviewOverdue(review.dueDate, today) : false;
 
   return (
-    <div className="fixed inset-0 z-50 flex justify-end bg-slate-950/70 backdrop-blur-sm transition-opacity">
+    <div className="fixed inset-0 z-50 flex justify-end bg-black/40 dark:bg-black/60 backdrop-blur-sm transition-opacity">
       {/* Click outside backdrop */}
       <div className="fixed inset-0" onClick={onClose} aria-hidden="true" />
 
@@ -202,7 +202,7 @@ export const LessonDetailSheet: React.FC<LessonDetailSheetProps> = ({
         {/* Body content */}
         <div className="p-5 space-y-6 flex-1">
           {/* Status selector (3 estados) */}
-          <div className="bg-slate-800/50 p-3.5 rounded-xl border border-slate-700/50">
+          <div className="bg-slate-800/50 p-3.5 rounded-lg border border-slate-700/50">
             <label className="block text-xs font-semibold uppercase tracking-wider text-slate-400 mb-2">
               Status da aula
             </label>
@@ -212,7 +212,7 @@ export const LessonDetailSheet: React.FC<LessonDetailSheetProps> = ({
                 onClick={() => handleStatusChange('nao_vista')}
                 className={`py-2 px-3 rounded-lg text-xs font-medium transition-all ${
                   currentStatus === 'nao_vista'
-                    ? 'bg-slate-700 text-white shadow-sm ring-1 ring-slate-500'
+                    ? 'bg-slate-700 text-slate-50 shadow-sm ring-1 ring-slate-500'
                     : 'bg-slate-900/60 text-slate-400 hover:text-slate-200 hover:bg-slate-800'
                 }`}
               >
@@ -249,7 +249,7 @@ export const LessonDetailSheet: React.FC<LessonDetailSheetProps> = ({
           </div>
 
           {/* Revisão Espaçada e Dominado */}
-          <div className="bg-slate-800/50 p-3.5 rounded-xl border border-slate-700/50 space-y-3">
+          <div className="bg-slate-800/50 p-3.5 rounded-lg border border-slate-700/50 space-y-3">
             <div className="flex items-center justify-between">
               <span className="text-xs font-semibold uppercase tracking-wider text-slate-400">
                 Revisão Espaçada
@@ -318,7 +318,7 @@ export const LessonDetailSheet: React.FC<LessonDetailSheetProps> = ({
           </div>
 
           {/* Link das questões */}
-          <div className="bg-slate-800/50 p-3.5 rounded-xl border border-slate-700/50 space-y-2.5">
+          <div className="bg-slate-800/50 p-3.5 rounded-lg border border-slate-700/50 space-y-2.5">
             <div className="flex items-center justify-between">
               <label className="text-xs font-semibold uppercase tracking-wider text-slate-400">
                 Link das questões
@@ -363,7 +363,7 @@ export const LessonDetailSheet: React.FC<LessonDetailSheetProps> = ({
           </div>
 
           {/* Anotações em texto livre */}
-          <div className="bg-slate-800/50 p-3.5 rounded-xl border border-slate-700/50 space-y-2">
+          <div className="bg-slate-800/50 p-3.5 rounded-lg border border-slate-700/50 space-y-2">
             <label className="block text-xs font-semibold uppercase tracking-wider text-slate-400">
               Anotações da aula
             </label>
@@ -378,7 +378,7 @@ export const LessonDetailSheet: React.FC<LessonDetailSheetProps> = ({
           </div>
 
           {/* Histórico de questões da aula */}
-          <div className="bg-slate-800/50 p-3.5 rounded-xl border border-slate-700/50 space-y-3">
+          <div className="bg-slate-800/50 p-3.5 rounded-lg border border-slate-700/50 space-y-3">
             <div className="flex items-center justify-between">
               <span className="text-xs font-semibold uppercase tracking-wider text-slate-400">
                 Histórico de questões

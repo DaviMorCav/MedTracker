@@ -111,7 +111,7 @@ export const RevisoesPage: React.FC = () => {
   };
 
   return (
-    <div className="py-2 space-y-4">
+    <div className="py-2 space-y-4 md:max-w-3xl md:mx-auto">
       {/* Cabeçalho */}
       <div className="flex items-center justify-between">
         <div>
@@ -124,7 +124,7 @@ export const RevisoesPage: React.FC = () => {
 
       {/* Notificação de sucesso ao espalhar */}
       {spreadSuccessMessage && (
-        <div className="bg-emerald-950/80 border border-emerald-700 p-3 rounded-2xl text-xs text-emerald-200 flex items-center justify-between animate-in fade-in">
+        <div className="bg-emerald-950/80 border border-emerald-700 p-3 rounded-xl text-xs text-emerald-200 flex items-center justify-between animate-in fade-in">
           <div className="flex items-center gap-2">
             <span>✓</span>
             <span>{spreadSuccessMessage}</span>
@@ -132,7 +132,7 @@ export const RevisoesPage: React.FC = () => {
           <button
             type="button"
             onClick={() => setSpreadSuccessMessage(null)}
-            className="text-emerald-400 hover:text-white"
+            className="text-emerald-400 hover:text-slate-50"
           >
             ✕
           </button>
@@ -140,11 +140,11 @@ export const RevisoesPage: React.FC = () => {
       )}
 
       {/* As 4 Visões: Hoje, Atrasadas, Próximos 7 dias, Próximos 30 dias (PRD seção 6) */}
-      <div className="grid grid-cols-2 sm:grid-cols-4 gap-1.5 p-1 bg-slate-900 border border-slate-800 rounded-2xl">
+      <div className="grid grid-cols-2 sm:grid-cols-4 gap-1.5 p-1 bg-slate-900 border border-slate-800 rounded-xl">
         <button
           type="button"
           onClick={() => setActiveView('hoje')}
-          className={`py-2 px-3 rounded-xl text-xs font-semibold flex items-center justify-center gap-1.5 transition-all ${
+          className={`py-2 px-3 rounded-lg text-xs font-semibold flex items-center justify-center gap-1.5 transition-all ${
             activeView === 'hoje'
               ? 'bg-indigo-600 text-white shadow-sm'
               : 'text-slate-400 hover:text-slate-200 hover:bg-slate-800'
@@ -157,7 +157,7 @@ export const RevisoesPage: React.FC = () => {
         <button
           type="button"
           onClick={() => setActiveView('atrasadas')}
-          className={`py-2 px-3 rounded-xl text-xs font-semibold flex items-center justify-center gap-1.5 transition-all ${
+          className={`py-2 px-3 rounded-lg text-xs font-semibold flex items-center justify-center gap-1.5 transition-all ${
             activeView === 'atrasadas'
               ? 'bg-rose-600 text-white shadow-sm'
               : 'text-slate-400 hover:text-slate-200 hover:bg-slate-800'
@@ -180,7 +180,7 @@ export const RevisoesPage: React.FC = () => {
         <button
           type="button"
           onClick={() => setActiveView('proximos_7')}
-          className={`py-2 px-3 rounded-xl text-xs font-semibold flex items-center justify-center gap-1.5 transition-all ${
+          className={`py-2 px-3 rounded-lg text-xs font-semibold flex items-center justify-center gap-1.5 transition-all ${
             activeView === 'proximos_7'
               ? 'bg-indigo-600 text-white shadow-sm'
               : 'text-slate-400 hover:text-slate-200 hover:bg-slate-800'
@@ -193,7 +193,7 @@ export const RevisoesPage: React.FC = () => {
         <button
           type="button"
           onClick={() => setActiveView('proximos_30')}
-          className={`py-2 px-3 rounded-xl text-xs font-semibold flex items-center justify-center gap-1.5 transition-all ${
+          className={`py-2 px-3 rounded-lg text-xs font-semibold flex items-center justify-center gap-1.5 transition-all ${
             activeView === 'proximos_30'
               ? 'bg-indigo-600 text-white shadow-sm'
               : 'text-slate-400 hover:text-slate-200 hover:bg-slate-800'
@@ -206,7 +206,7 @@ export const RevisoesPage: React.FC = () => {
 
       {/* Botão Espalhar Atrasadas (visível na aba Atrasadas ou quando há atrasadas) */}
       {activeView === 'atrasadas' && atrasadasReviews.length > 0 && (
-        <div className="bg-gradient-to-r from-rose-950/40 via-slate-900 to-slate-900 p-4 rounded-2xl border border-rose-900/50 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3 shadow-sm">
+        <div className="bg-gradient-to-r from-rose-950/40 via-slate-900 to-slate-900 p-4 rounded-xl border border-rose-900/50 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3 shadow-sm">
           <div>
             <h3 className="text-xs font-bold text-rose-300 flex items-center gap-1.5">
               <span>⚠️</span>
@@ -220,7 +220,7 @@ export const RevisoesPage: React.FC = () => {
           <button
             type="button"
             onClick={() => setShowSpreadConfirm(true)}
-            className="py-2 px-4 rounded-xl text-xs font-semibold bg-rose-600 hover:bg-rose-500 text-white shadow-md shadow-rose-950 transition-all shrink-0 active:scale-95"
+            className="py-2 px-4 rounded-lg text-xs font-semibold bg-rose-600 hover:bg-rose-500 text-white shadow-md shadow-rose-950 transition-all shrink-0 active:scale-95"
           >
             Espalhar atrasadas
           </button>
@@ -243,7 +243,7 @@ export const RevisoesPage: React.FC = () => {
         </div>
 
         {currentViewList.length > 0 ? (
-          <div className="divide-y divide-slate-800/80 rounded-2xl overflow-hidden border border-slate-800 bg-slate-900 shadow-sm">
+          <div className="divide-y divide-slate-800/80 rounded-xl overflow-hidden border border-slate-800 bg-slate-900 shadow-sm">
             {currentViewList.map((review) => {
               const lesson = lessonById.get(review.lessonId);
               const isOverdue = review.dueDate < today;
@@ -277,7 +277,7 @@ export const RevisoesPage: React.FC = () => {
                       )}
                     </div>
 
-                    <h3 className="text-xs font-bold text-slate-200 group-hover:text-white truncate">
+                    <h3 className="text-xs font-bold text-slate-200 group-hover:text-slate-50 truncate">
                       {lesson?.title || review.lessonId}
                     </h3>
                     {lesson?.volumeName && (
@@ -299,7 +299,7 @@ export const RevisoesPage: React.FC = () => {
 
                     <button
                       type="button"
-                      className="py-1.5 px-3 bg-indigo-600 group-hover:bg-indigo-500 text-white rounded-xl text-xs font-semibold transition-colors shadow-sm"
+                      className="py-1.5 px-3 bg-indigo-600 group-hover:bg-indigo-500 text-white rounded-lg text-xs font-semibold transition-colors shadow-sm"
                     >
                       Avaliar
                     </button>
@@ -309,7 +309,7 @@ export const RevisoesPage: React.FC = () => {
             })}
           </div>
         ) : (
-          <div className="bg-slate-900 border border-slate-800 rounded-2xl p-8 text-center text-slate-400 space-y-2">
+          <div className="bg-slate-900 border border-slate-800 rounded-xl p-8 text-center text-slate-400 space-y-2">
             <span className="text-3xl block">✓</span>
             <p className="text-sm font-semibold text-slate-200">
               {activeView === 'hoje'

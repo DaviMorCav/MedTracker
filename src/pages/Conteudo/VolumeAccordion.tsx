@@ -114,7 +114,7 @@ export const VolumeAccordion: React.FC<VolumeAccordionProps> = ({
   };
 
   return (
-    <div className="bg-slate-900 border border-slate-800 rounded-xl overflow-hidden transition-all shadow-sm">
+    <div className="bg-slate-900 border border-slate-800 rounded-lg overflow-hidden transition-all shadow-sm">
       {/* Header do Acordeão */}
       <button
         type="button"
@@ -248,7 +248,7 @@ export const VolumeAccordion: React.FC<VolumeAccordionProps> = ({
               </div>
 
               {filteredAulas.length > 0 ? (
-                <div className="divide-y divide-slate-800/60 rounded-xl overflow-hidden border border-slate-800/80 bg-slate-900/70">
+                <div className="divide-y divide-slate-800/60 rounded-lg overflow-hidden border border-slate-800/80 bg-slate-900/70">
                   {filteredAulas.map((aula) => {
                     const prog = progressMap.get(aula.id);
                     const rev = reviewsMap.get(aula.id);
@@ -297,7 +297,7 @@ export const VolumeAccordion: React.FC<VolumeAccordionProps> = ({
 
                           {/* Título e etiquetas */}
                           <div className="min-w-0">
-                            <p className="text-xs font-medium text-slate-200 group-hover:text-white truncate">
+                            <p className="text-xs font-medium text-slate-200 group-hover:text-slate-50 truncate">
                               {aula.title}
                             </p>
                             <div className="flex items-center gap-1.5 mt-0.5 flex-wrap">
@@ -355,7 +355,7 @@ export const VolumeAccordion: React.FC<VolumeAccordionProps> = ({
               </div>
 
               {filteredBonus.length > 0 ? (
-                <div className="divide-y divide-slate-800/60 rounded-xl overflow-hidden border border-slate-800/80 bg-slate-900/70">
+                <div className="divide-y divide-slate-800/60 rounded-lg overflow-hidden border border-slate-800/80 bg-slate-900/70">
                   {filteredBonus.map((b) => {
                     const prog = progressMap.get(b.id);
                     const rev = reviewsMap.get(b.id);
@@ -404,7 +404,7 @@ export const VolumeAccordion: React.FC<VolumeAccordionProps> = ({
 
                           {/* Título e etiquetas */}
                           <div className="min-w-0">
-                            <p className="text-xs font-medium text-slate-200 group-hover:text-white truncate">
+                            <p className="text-xs font-medium text-slate-200 group-hover:text-slate-50 truncate">
                               {b.title}
                             </p>
                             <div className="flex items-center gap-1.5 mt-0.5 flex-wrap">

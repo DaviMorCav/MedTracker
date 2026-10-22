@@ -29,7 +29,7 @@ export const ApostilaGrid: React.FC<ApostilaGridProps> = ({
   const allCompleted = completedCount === totalCount;
 
   return (
-    <div className="bg-slate-900/60 rounded-xl p-3 border border-slate-800/80 my-2">
+    <div className="bg-slate-900/60 rounded-lg p-3 border border-slate-800/80 my-2">
       <div className="flex items-center justify-between mb-2.5">
         <div className="flex items-center gap-2">
           <span className="text-xs font-semibold uppercase tracking-wider text-slate-400">
@@ -69,7 +69,7 @@ export const ApostilaGrid: React.FC<ApostilaGridProps> = ({
               className={`h-9 rounded-lg font-medium text-xs flex items-center justify-center transition-all select-none active:scale-95 ${
                 isDone
                   ? 'bg-emerald-600 text-white shadow-sm shadow-emerald-900/50 font-semibold'
-                  : 'bg-slate-800/90 text-slate-300 border border-slate-700/60 hover:bg-slate-750 hover:text-white'
+                  : 'bg-slate-800/90 text-slate-300 border border-slate-700/60 hover:bg-slate-750 hover:text-slate-50'
               }`}
               title={`Item ${page}: ${isDone ? 'Concluído' : 'Não lido'}`}
             >

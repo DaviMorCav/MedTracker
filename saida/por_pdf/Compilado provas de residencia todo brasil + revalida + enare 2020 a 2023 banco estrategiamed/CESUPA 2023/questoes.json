@@ -1,0 +1,1660 @@
+{
+ "questoes": [
+  {
+   "id": "4000186602",
+   "codigo": "4000186602",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "CESUPA 2023",
+   "numero": 1,
+   "temas": [
+    "Sistema de Inf ormação de Agravos de Notif icação SINAN"
+   ],
+   "enunciado": "A Vigilância Epidemiológica das Paralisias Flácidas Agudas é de fundamental importância para a detecção da circulação de pólio vírus na população brasileira. Recentemente, no Pará, houve uma noti cação de caso de PFA associada à vacinação pela VOP, 48 horas antes. Em relação às medidas de prevenção da poliomielite na população brasileira, pode-se afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Notificação imediata de casos de Paralisia Flácida Aguda em menores de 15 anos e investigação em até 48 horas, além da notificação negativa semanal."
+    },
+    {
+     "letra": "B",
+     "texto": "Vacinação com a VIP (Vacina inativada) ao nascimento e duas doses de reforço com a VOP (Vacina oral atenuada), para prevenção da pólio vacinal."
+    },
+    {
+     "letra": "C",
+     "texto": "Vacinação com a VIP (Vacina Inativada) aos 2, 4 e 6 meses, sem necessidade da VOP (Vacina oral atenuada), para prevenção de pólio vacinal."
+    },
+    {
+     "letra": "D",
+     "texto": "Notificação imediata de casos de Paralisia Flácida aguda de qualquer faixa etária com história de viagem a países com circulação de poliovírus nos últimos 30 dias e coleta oportuna de duas amostras de fezes (até 60 dias após o início dos sintomas), para identificação viral."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186600",
+   "codigo": "4000186600",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "CESUPA 2023",
+   "numero": 2,
+   "temas": [
+    "Risco Atribuível",
+    "COVID 19"
+   ],
+   "enunciado": "A OMS define Covid-19 longa como uma síndrome “caracterizada como tal três meses após o início da Covid-19, com sintomas que duram, a partir daí, pelo menos dois meses e não podem ser explicados por um diagnóstico alternativo”. Miranda, DAP, et al. (Transactions of The Royal Society of Tropical Medicine and Hygiene, 2022) publicaram um estudo de corte recente em que acompanharam 646 pacientes durante 14 meses com covid-19, confirmada por RT-PCR. A tabela abaixo mostra a associação entre o sexo o risco de Covid longa. A medida que melhor expressa o excesso de casos de Covid longa atribuível ao sexo Feminino (F) é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Risco Relativo de 2,15."
+    },
+    {
+     "letra": "B",
+     "texto": "Risco atribuível de 18,98%."
+    },
+    {
+     "letra": "C",
+     "texto": "Odds-Ratio (Razão de chances) de 1,47."
+    },
+    {
+     "letra": "D",
+     "texto": "Risco atribuível de 20,38%."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186598",
+   "codigo": "4000186598",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "CESUPA 2023",
+   "numero": 3,
+   "temas": [
+    "Estudos de Coorte"
+   ],
+   "enunciado": "No estado do Amazonas em 2018, houve um processo epidêmico de sarampo, conforme Boletim Epidemiológico do MS, 2018. Abaixo, é mostrado um gráfico com a distribuição por faixa etária dos casos de sarampo no estado do AM em 2018: A partir desses dados, o MS instituiu a vacinação contra o sarampo a partir dos 6 meses de idade (dose 0), em situação de epidemia, e, depois a vacinação recomendada aos 12 e 15 meses. Que explicação epidemiológica você daria para os casos de sarampo abaixo de 1 ano?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O surgimento de uma cepa importada que afetaria crianças lactentes (abaixo de 1 ano)."
+    },
+    {
+     "letra": "B",
+     "texto": "Um efeito coorte, pois a faixa etária mais afetada, entre 20 e 29 anos, seria composta por mães não vacinadas na infância."
+    },
+    {
+     "letra": "C",
+     "texto": "Maior suscetibilidade de crianças menores de 1 ano devido a baixas condições socioeconômicas."
+    },
+    {
+     "letra": "D",
+     "texto": "Seria somente um efeito de maior notificação de casos mais sintomáticos em crianças menores de 1 ano."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q003-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000186596",
+   "codigo": "4000186596",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "CESUPA 2023",
+   "numero": 4,
+   "temas": [
+    "Prevalência pontual"
+   ],
+   "enunciado": "Um teste rápido para Doença de Chagas está sendo testado em dois municípios do estado do PA. É utilizado da mesma forma e pela mesma equipe nos dois municípios, mas a quantidade de resultados falso-positivos entre aqueles que testam positivo no município A é maior do que entre aqueles que testam positivo na população B, considerando-se o teste de Elisa pelo IEC como padrão ouro. Que explicação você considera a mais provável para este achado?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A especificidade do teste é menor na população A."
+    },
+    {
+     "letra": "B",
+     "texto": "A prevalência da doença é menor na população A."
+    },
+    {
+     "letra": "C",
+     "texto": "A prevalência da doença é maior na população A."
+    },
+    {
+     "letra": "D",
+     "texto": "A especificidade do teste é maior na população A."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186594",
+   "codigo": "4000186594",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "CESUPA 2023",
+   "numero": 5,
+   "temas": [
+    "Risco Atribuível Proporcional Populacional ou Fração Etiológica na População"
+   ],
+   "enunciado": "Em um estudo de coorte de diarreia em menores de 1 ano, encontrou-se a taxa de incidência na população de estudo (n=- 100) igual a 25%. Considerando-se que, entre as 50 crianças que tiveram desmame precoce, 15 apresentaram diarreia e 5, entre os não expostos. Qual é a fração de casos com a doença nessa população atribuível à exposição?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "30%."
+    },
+    {
+     "letra": "B",
+     "texto": "10%."
+    },
+    {
+     "letra": "C",
+     "texto": "20%."
+    },
+    {
+     "letra": "D",
+     "texto": "50%."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186593",
+   "codigo": "4000186593",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "CESUPA 2023",
+   "numero": 6,
+   "temas": [
+    "Método Clínico Centrado na Pessoa"
+   ],
+   "enunciado": "“...Muitas doenças são complexas e multifatoriais, exigindo uma abordagem diferente da lógica linear e da tecnologia que podem funcionar tão bem em doenças com uma etiologia especí ca. Experiências de doença como dor crônica, transtornos alimentares, depressão e adição têm uma dimensão existencial que precisa ser levada em conta para que sejam entendidas. Devemos prestar atenção ao sofrimento das pessoas, às suas emoções, crenças e relacionamentos, não apenas por razões humanitárias, mas também porque têm um importante papel na origem das doenças (Foss, 2002).” Sobre o Método Clínico Centrado na Pessoa, pode-se afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Em seu Componente 1, entendendo a pessoa como um todo, é mais importante explorar as informações objetivas e tecnicamente relevantes ao diagnóstico diferencial, para, depois, no componente 3, elaborar um projeto comum de manejo de problemas, entender as ideias, sentimentos e expectativas dessa pessoa com relação a sua doença."
+    },
+    {
+     "letra": "B",
+     "texto": "No Componente 3, elaborando um projeto comum de manejo de problemas, o médico deve estabelecer sozinho, quais são as metas e as prioridades a serem alcançadas com o manejo de cada problema que foi priorizado no momento da consulta."
+    },
+    {
+     "letra": "C",
+     "texto": "No componente 04, intensificando o relacionamento entre a pessoa e o profissional de saúde, o médico deve estar atento à transferência: processo pelo qual a pessoa, de forma consciente, projeta, nas outras pessoas que atualmente fazem parte da sua vida – incluindo o médico - pensamentos, comportamentos e reações emocionais originados em outros relacionamentos significativos que ocorreram desde a sua infância."
+    },
+    {
+     "letra": "D",
+     "texto": "Para explorar as 4 dimensões da experiência com a doença, do componente 01, pode-se utilizar o Acróstico SIFE, com as seguintes perguntas durante a entrevista clínica: como você se sente com essa doença, o que você acha que significa essa doença? Como essa doença pode interferir em seu dia a dia? Como você acha que eu poderia ajudá-lo?"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000186591",
+   "codigo": "4000186591",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "CESUPA 2023",
+   "numero": 7,
+   "temas": [
+    "Sistema de Inf ormação de Agravos de Notif icação SINAN"
+   ],
+   "enunciado": "Jovem de 22 anos, chega à UBS com quadro de diagnóstico de depressão há 4 anos, apresentando quadro atual mais intenso sem sintomas psicóticos. Esse ao ser indagado, relata desesperança com sua vida e que pensa em “acabar com tudo isso, mas ainda não teve coragem”. Com relação à ideação suicida, qual a conduta a ser tomada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O sexo do paciente não deve ser levado em consideração, visto que as estatísticas mostram que o sexo feminino é o mais afetado em casos de suicídio."
+    },
+    {
+     "letra": "B",
+     "texto": "O profissional da saúde deve evitar falar sobre suicídio, para não estimular que essa ideação seja concretizada."
+    },
+    {
+     "letra": "C",
+     "texto": "São objeto de notificação no SINAN apenas AUTOAGRESSÃO e TENTATIVA DE SUICÍDIO, não se notifica IDEAÇÃO."
+    },
+    {
+     "letra": "D",
+     "texto": "Neste caso, o paciente deve ser acompanhado somente pela equipe da UBS, não havendo necessidade de referenciar a outros pontos da Rede de Atenção Psicossocial."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186588",
+   "codigo": "4000186588",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "CESUPA 2023",
+   "numero": 8,
+   "temas": [
+    "Rastreamento"
+   ],
+   "enunciado": "Mulher, 47 anos, hipertensa, tabagista e sedentária, vem à consulta na UBS com desejo de iniciar atividade física, pois seu irmão, de 52 anos, infartou e está com receio de infartar também. Relatou leve dor no peito de forma ocasional, nos últimos 6 meses, mas acredita que seja de origem muscular. Pai morreu de IAM, aos 43 anos de idade. Relata que se matriculou na aula de dança, porém precisa de atestado. A última consulta dela foi há 13 meses, quando realizou todos os rastreamentos oportunos para idade e condições de saúde, estando todos normais. Que procedimentos o médico deve realizar para liberar a paciente para a atividade física?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Realizar rastreamento oportunístico com citologia vaginal, mamografia, exame de sangue do protocolo de hipertensão arterial e eletrocardiograma simples."
+    },
+    {
+     "letra": "B",
+     "texto": "Realizar atestado entendendo que os exames anteriores, realizados há menos de 13 meses, estavam todos normais."
+    },
+    {
+     "letra": "C",
+     "texto": "Contraindicar de forma definitiva a atividade proposta, uma vez que agora a paciente é considerada de alto risco e não deve fazer atividade física."
+    },
+    {
+     "letra": "D",
+     "texto": "Realizar rastreamento oportunístico com exames de sangue do protocolo de hipertensão arterial e teste ergométrico."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186586",
+   "codigo": "4000186586",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "CESUPA 2023",
+   "numero": 9,
+   "temas": [
+    "Quimioprof ilaxia primária",
+    "Prova tuberculínica PPD Mantoux",
+    "Tratamento"
+   ],
+   "enunciado": "Sobre o tratamento da Infecção Latente pelo Mycobacterium tuberculosis (ILTB), podemos afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Em adultos (> 14 anos ≥ 30kg), a dose do esquema Isoniazida + Rifapentina é: Isoniazida 900mg/semana + Rifapentina 900mg/semana."
+    },
+    {
+     "letra": "B",
+     "texto": "Deve ser realizado, preferencialmente Isoniazida, de forma isolada, por 3 meses (3H) ou 6 meses (6H), sendo preconizado no máximo 6 meses pela maior eficácia."
+    },
+    {
+     "letra": "C",
+     "texto": "A rifampicina está contraindicada para pacientes hepatopatas (cirrose ou doença hepática em atividade, como hepatite viral ou alcoólica)."
+    },
+    {
+     "letra": "D",
+     "texto": "O esquema Isoniazida + Rifapentina pode ser utilizado com segurança em grávidas."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186585",
+   "codigo": "4000186585",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "CESUPA 2023",
+   "numero": 10,
+   "temas": [
+    "Avaliação da Qualidade em Atenção Primária à Saúde"
+   ],
+   "enunciado": "Os atributos da APS são fortalecidos pelo Pagamento por Desempenho do Programa Previne Brasil, o que induz o aprimoramento dos processos de trabalho e à quali cação dos resultados em saúde, além de otimizar aspectos como periodicidade e método da avaliação. Exemplo disso é que, por meio do monitoramento desses indicadores, podem ser avaliados os acessos à qualidade e à resolutividade dos serviços prestados pelas eSF/eAP, fornecendo subsídios para medidas de aprimoramento das ações e dando mais transparência aos investimentos na área da saúde para a sociedade. FONTE: Ministério da Saúde/SAPS. Para 2022, temos como indicador avaliado para essas equipes:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Proporção de gestantes com pelo menos 6 (seis) consultas pré-natal realizadas, sendo a 1ª (primeira) até a 20ª (vigésima) semana de gestação."
+    },
+    {
+     "letra": "B",
+     "texto": "Proporção de crianças de 1 (um) ano de idade vacinadas na APS contra Difteria, Tétano, Coqueluche, Hepatite B, infecções causadas por haemophilus influenzae tipo b e Poliomielite inativada."
+    },
+    {
+     "letra": "C",
+     "texto": "Proporção de pessoas com hipertensão arterial, com consulta e pressão arterial aferida a cada bimestre, seja com o médico ou enfermeiro."
+    },
+    {
+     "letra": "D",
+     "texto": "Proporção de pessoas com diabetes, com consulta e hemoglobina glicada solicitada e realizada a cada ano."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186584",
+   "codigo": "4000186584",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "CESUPA 2023",
+   "numero": 11,
+   "temas": [
+    "Tinea capitis"
+   ],
+   "enunciado": "Menino, 4 anos, procedente da zona rural, apresenta há 5 semanas, lesões no couro cabeludo que iniciaram com prurido, descamação e área de alopecia. Uma das lesões apresentou crescimento rápido evoluindo com característica inflamatória exuberante com formação de pústulas, micro abscessos e adenomegalia retroauricular direita. O tratamento adequado para o caso é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "cetoconazol oral."
+    },
+    {
+     "letra": "B",
+     "texto": "griseofulvina oral."
+    },
+    {
+     "letra": "C",
+     "texto": "cetoconazol xampu."
+    },
+    {
+     "letra": "D",
+     "texto": "cefalexina oral."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186582",
+   "codigo": "4000186582",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "CESUPA 2023",
+   "numero": 12,
+   "temas": [
+    "Quadro clínico"
+   ],
+   "enunciado": "Menino, 2 anos, procedente da zona rural, é trazido à UBS por apresentar “tumoração” na região anal há duas semanas, além de dor abdominal recorrente, diminuição do apetite e vômitos ocasionais. Ao exame físico, o médico constata tratar- se de prolapso retal, com a presença de pequenos vermes aderidos à mucosa. Assinale a parasitose intestinal nesse caso:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "enterobíase."
+    },
+    {
+     "letra": "B",
+     "texto": "ascaridíase."
+    },
+    {
+     "letra": "C",
+     "texto": "trichiuríase."
+    },
+    {
+     "letra": "D",
+     "texto": "oxiuríase."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186580",
+   "codigo": "4000186580",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "CESUPA 2023",
+   "numero": 13,
+   "temas": [
+    "Calendário inf antil",
+    "Vacinas contra poliomielite"
+   ],
+   "enunciado": "A poliomielite é uma doença altamente contagiosa, causada pelo poliovírus selvagem e que afeta principalmente as crianças menores de 5 anos de idade. O principal fator de risco, para que as crianças menores de 5 anos adquiram a doença, é a baixa cobertura vacinal. As vacinas utilizadas no momento são a VOP (vacina oral contra a poliomielite) e VIP (vacina inativada contra a poliomielite). No Brasil, o Ministério da Saúde estabelece o seguinte esquema vacinal contra a doença:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "três doses de VIP e dois reforços de VOP."
+    },
+    {
+     "letra": "B",
+     "texto": "três doses de VIP e dois reforços de VIP."
+    },
+    {
+     "letra": "C",
+     "texto": "duas doses de VIP, uma dose de VOP e dois reforços de VOP."
+    },
+    {
+     "letra": "D",
+     "texto": "três doses de VOP e dois reforços de VOP."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186579",
+   "codigo": "4000186579",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "CESUPA 2023",
+   "numero": 14,
+   "temas": [
+    "Apresentação Clínica",
+    "Diagnóstico"
+   ],
+   "enunciado": "Menina, 1 ano e 4 meses, apresenta febre elevada, mal-estar, prostração e coriza há 4 dias. Mãe refere surgimento de exantema maculopapular na região retroauricular que se estendeu de forma craniocaudal, com manutenção da febre e acentuação dos sintomas gerais com rinorreia purulenta, olhos avermelhados e com secreção. Criança profundamente toxemiada. Calendário vacinal incompleto (menor não realizou as vacinas de 1 ano e nem as de 15 meses). A complicação bacteriana mais frequente nessa patologia é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "otite."
+    },
+    {
+     "letra": "B",
+     "texto": "sinusite."
+    },
+    {
+     "letra": "C",
+     "texto": "piodermite."
+    },
+    {
+     "letra": "D",
+     "texto": "pneumonia."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186577",
+   "codigo": "4000186577",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "CESUPA 2023",
+   "numero": 15,
+   "temas": [
+    "Prof ilaxias Ferro Vitaminas D e A",
+    "Importância do aleitamento materno"
+   ],
+   "enunciado": "Um recém-nascido de 37 semanas e 2 dias, peso de 2.480 gramas e comprimento de 47 centímetros ao nascimento, vem à primeira consulta de rotina, agora com 9 dias de vida. Está sendo alimentado com leite materno exclusivo e a mãe refere boa pega e mamadas e cientes. Até o momento ainda não iniciou nenhuma suplementação vitamínica. Ao exame físico, o peso atual é de 2.310 gramas e a estatura de 48 centímetros. Nenhuma outra alteração ao exame físico. Qual seria a sua conduta neste caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Complementação das mamadas com fórmula infantil, além de iniciar imediatamente vitamina D na dose de 400 UI diárias e ferro na dose de 2mg/kg/dia após 3 meses de vida."
+    },
+    {
+     "letra": "B",
+     "texto": "Manter em aleitamento exclusivo, iniciar imediatamente a suplementação de vitamina D na dose de 400 UI diárias e ferro na dose de 2mg/kg/dia após 30 dias de vida."
+    },
+    {
+     "letra": "C",
+     "texto": "Complementação com fórmula infantil, além de iniciar imediatamente vitamina D na dose de 600 UI diárias e ferro na dose de 1mg/kg/dia após 30 dias de vida."
+    },
+    {
+     "letra": "D",
+     "texto": "Manter em aleitamento exclusivo, iniciar imediatamente a suplementação de vitamina D na dose de 400 UI diárias e ferro na dose de 1mg/kg/dia após 6 meses de vida."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000186576",
+   "codigo": "4000186576",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "CESUPA 2023",
+   "numero": 16,
+   "temas": [
+    "Leite Materno X Outros leites"
+   ],
+   "enunciado": "Lactente de 5 meses de vida vem à consulta de rotina acompanhado de sua mãe, que pede que você a oriente sobre a alimentação de seu lho a partir desse momento, pois ela irá retornar ao trabalho e passará o dia todo fora de casa. A criança nasceu de 39 semanas, parto vaginal, pesando 3.450 gramas e medindo 50cm, sem intercorrências. Até o presente momento, foi alimentado exclusivamente de leite materno em livre demanda. De acordo com as informações acima e baseado no guia alimentar para menores de 2 anos do Ministério da Saúde, assinale as afirmativas corretas: I. – A introdução alimentar deverá ser iniciada nesse momento com papa de frutas 2 vezes ao dia, além de manter leite materno ordenhado em livre demanda. A papa principal deve ser iniciado após os 6 meses. II. – Leite materno ordenhado exclusivamente é a melhor opção para alimentação desse lactente. Na impossibilidade da ordenha, fórmula infantil de partida é o mais indicado até os 6 meses. III. – Fórmula infantil deve ser a primeira opção nesse caso, pois o volume de leite materno ordenhado não será su ciente para alimentar a criança no período em que a mãe não estiver presente. IV. – A introdução alimentar deverá iniciar aos 6 meses de vida, com papas de frutas 2 vezes ao dia, seguido de papa principal no almoço e jantar. V. – A papa principal deve ser composta por 50% de verduras e legumes, 25% de proteína animal, 12,5% de leguminosas e 12,5% de carboidrato.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I, II e III estão corretas."
+    },
+    {
+     "letra": "B",
+     "texto": "II, IV e V estão corretas."
+    },
+    {
+     "letra": "C",
+     "texto": "II e IV estão corretas."
+    },
+    {
+     "letra": "D",
+     "texto": "II e V estão corretas."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000186574",
+   "codigo": "4000186574",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "CESUPA 2023",
+   "numero": 17,
+   "temas": [
+    "Massagem cardíaca",
+    "Ventilação com pressão positiva"
+   ],
+   "enunciado": "Recém-nascida do sexo feminino, 36 semanas e 6 dias, parto cesárea, apresenta no primeiro minuto de vida APGAR de 4. De acordo com as Diretrizes de 2022 da Sociedade Brasileira de Pediatria sobre reanimação do recém- nascido ≥34 semanas em sala de parto, é correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Quando a FC permanece < 100 bpm, mesmo com ventilação efetiva por cânula traqueal com O2 a 100% e acompanhada de massagem cardíaca adequada e sincronizada à ventilação por no mínimo 60 segundos, o uso de adrenalina está indicado."
+    },
+    {
+     "letra": "B",
+     "texto": "No RN ≥34 semanas, a VPP deve ser iniciada com O2 a 100%. Uma vez iniciada a VPP, a oximetria de pulso é necessária para monitorar a SatO2 pré-ductal e decidir quanto à manutenção ou suspensão do O2 suplementar."
+    },
+    {
+     "letra": "C",
+     "texto": "A VPP está indicada na presença de FC < 60 bpm e/ou apneia ou respiração irregular, após os passos iniciais de estabilização do recém-nascido."
+    },
+    {
+     "letra": "D",
+     "texto": "Como a massagem cardíaca diminui a eficácia da VPP e a ventilação é a ação mais efetiva da reanimação neonatal, as compressões só devem ser iniciadas quando a expansão e a ventilação pulmonares estiverem bem estabelecidas, com a via aérea assegurada."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186562",
+   "codigo": "4000186562",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "CESUPA 2023",
+   "numero": 18,
+   "temas": [
+    "Tratamento Geral"
+   ],
+   "enunciado": "Menino, de 3 anos e 7 meses, há 3 dias com quadro de febre alta não aferida, tosse produtiva, congestão nasal intensa com rinorreia abundante amarelo-esverdeada, diminuição do apetite, mas aceita bem água e sucos. A genitora nega vômitos, diarreia ou convulsões. Ao exame físico: consciente, hipoativo, hidratado, taquipneico, perfusão capilar 2 segundos. FR 40 irpm, ausência de tiragem subcostal. Ausculta pulmonar: estertores crepitantes em bases bilateralmente. Ausculta cardíaca: Bulhas normofonéticas, ausência de sopros. Abdome: ácido, sem visceromegalias. Vacinação atualizada. De acordo com o quadro clínico acima, assinale a alternativa correta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Pneumonia, tratamento ambulatorial, Amoxicilina, reavaliar em 48 horas."
+    },
+    {
+     "letra": "B",
+     "texto": "Pneumonia complicada, internação, USG de tórax, RX de tórax e antibiótico."
+    },
+    {
+     "letra": "C",
+     "texto": "Pneumonia atípica, tratamento ambulatorial, Azitromicina por 5 dias."
+    },
+    {
+     "letra": "D",
+     "texto": "Pneumonia grave, internação hospitalar, Raio X de tórax e antibiótico IV."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186561",
+   "codigo": "4000186561",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "CESUPA 2023",
+   "numero": 19,
+   "temas": [
+    "Conduta",
+    "Mães inadequadamente tratadas"
+   ],
+   "enunciado": "Mulher, 19 anos, G1P0A0, sem pré-natal, procedente da zona rural em trabalho de parto é referenciada à maternidade. Após anamnese, a gestante foi submetida à coleta de exames: Teste rápido (TR) para HIV: NÃO REAGENTE, TR para sí lis: REAGENTE, TR para hepatite B e C: NÃO REAGENTES, VDRL 1/16. Mãe nega tratamento anterior para sífilis. RN nasceu de parto normal, Apgar 9/9, peso 2600, Capurro 39 semanas. Foi colocado junto à mãe para sugar o seio materno. Efetuado os demais cuidados de rotina sendo encaminhado para o alojamento conjunto acompanhando sua mãe. Exame físico sem alterações. Exames do RN: VDRL 1/2, punção liquórica sem alterações com VDRL NÃO REAGENTE, escore hematológico de RODWELL:2, Raio X de ossos longos normal. De acordo com o quadro clínico e laboratorial, assinale a alternativa CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "De acordo com os resultados dos exames do binômio, tratar o RN com Penicilina Cristalina ou procaína por 10 dias."
+    },
+    {
+     "letra": "B",
+     "texto": "Pelo protocolo do Ministério da Saúde, o médico deve tratar o RN com Penicilina Benzatina dose única."
+    },
+    {
+     "letra": "C",
+     "texto": "Encaminhar o RN para a UBS, solicitar o VDRL com um mês de vida, se houver elevação dos títulos a criança deverá ser tratada."
+    },
+    {
+     "letra": "D",
+     "texto": "O recém-nascido, neste caso, é considerado exposto à sífilis sem necessidade de tratamento."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186559",
+   "codigo": "4000186559",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "CESUPA 2023",
+   "numero": 20,
+   "temas": [
+    "Tratamento",
+    "Apresentação Clínica",
+    "Diagnóstico"
+   ],
+   "enunciado": "Menina, 3 anos, frequenta creche. há 3 dias com congestão nasal, rinorreia hialina, espirros frequentes, odinofagia, tosse seca e otalgia intensa. Hoje iniciou quadro de febre alta não aferida e os olhos amanheceram com muita secreção purulenta. Mãe nega vômitos, diarreia, alergias e uso de antibióticos nos últimos 3 meses. Vacinação atualizada. Pai é asmático. Mãe tem diabetes. Ao exame físico: consciente, fácies de dor, eupneica. Olhos com abundante secreção amarela de consistência espessa. Frequência respiratória 25 irpm. Ausculta pulmonar: murmúrio vesicular siológico, ausência de estertores. Orofaringe: hipertro a de tonsilas grau 2/3 com hiperemia. Otoscopia: abaulamento da membrana timpânica bilateralmente. Ausculta cardíaca: bulhas normofonéticas, ausência de sopros. Abdome ácido, sem visceromegalias. De acordo com o quadro clínico acima, assinale a alternativa correta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Conjuntivite bacteriana e Otite Média Aguda. Iniciar antibioticoterapia oral imediatamente com Amoxicilina associada ao inibidor de betalactamase e reavaliar em 48 horas."
+    },
+    {
+     "letra": "B",
+     "texto": "Conjuntivite bacteriana e Otite Média Aguda com sinais de gravidade, deve ser iniciado Amoxicilina oral imediatamente e reavaliar após 48 horas de tratamento."
+    },
+    {
+     "letra": "C",
+     "texto": "Conjuntivite bacteriana e Otite Média Aguda de causa viral, utilizar colírio com antibiótico e analgésico. Se não houver melhora da otalgia em 48 horas, iniciar Amoxicilina."
+    },
+    {
+     "letra": "D",
+     "texto": "Conjuntivite bacteriana e Otite Média Aguda com efusão, necessita timpanocentese de alívio e cultura das secreções oculares e das orelhas médias."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186558",
+   "codigo": "4000186558",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "CESUPA 2023",
+   "numero": 21,
+   "temas": [
+    "Introdução ao Abdome Agudo"
+   ],
+   "enunciado": "A condição clínica, conhecida por “Abdome agudo”, pode se apresentar de diversas maneiras dependendo de sua etiologia. A abordagem inicial adequada é imprescindível para o melhore desfecho. Portanto, analise as alternativas abaixo e marque a que contenha afirmativas verdadeiras sobre o tema em questão:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Atualmente, recomenda-se a realização da tomografia com contraste em 95% dos casos para diagnóstico e definição de conduta."
+    },
+    {
+     "letra": "B",
+     "texto": "O diagnóstico sindrômico precoce está diretamente relacionado às melhores conduções e respostas ao tratamento."
+    },
+    {
+     "letra": "C",
+     "texto": "Raras são as indicações de Laparotomias diagnósticas, exceto nas etiologias inflamatórias."
+    },
+    {
+     "letra": "D",
+     "texto": "Na suspeita de abdome agudo obstrutivo, a realização do exame radiológico deve ser considerada prioridade máxima, superior até mesmo às medidas clínicas iniciais de estabilização clínica."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186557",
+   "codigo": "4000186557",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "CESUPA 2023",
+   "numero": 22,
+   "temas": [
+    "Escore de Alvarado"
+   ],
+   "enunciado": "Criança de 10 anos, masculino, subfebril, anorético há 24h com dor epigástrica inicialmente que migrou para FID onde persiste mantendo dor no local. No exame laboratorial (Hmg) identi ca-se leucocitose discreta com desvio à esquerda, assim como, descompressão brusca positiva em FID. Levando em consideração os critérios clínicos de ALVARADO para diagnóstico de apendicite aguda, qual alternativa estaria mais adequada ao interpretarmos os dados clínicos acima?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "4 pontos, com estimativa de 50% de chance de apendicite aguda independente do sexo."
+    },
+    {
+     "letra": "B",
+     "texto": "3 pontos, com estimativa de 75% de chance para homens e 25% para as mulheres."
+    },
+    {
+     "letra": "C",
+     "texto": "9 pontos, com estimativa de 93% de chance para homens e 78% das mulheres."
+    },
+    {
+     "letra": "D",
+     "texto": "15 Pontos, com estimativa de 98% de chance para homens e 75% das mulheres."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000186556",
+   "codigo": "4000186556",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "CESUPA 2023",
+   "numero": 23,
+   "temas": [
+    "Apresentação clínica",
+    "Tratamento da cólica renal"
+   ],
+   "enunciado": "Paciente mulher 26 anos, chega ao PS com dor lombar D, tipo cólica, de forte intensidade e início súbito. Náuseas e vômitos presentes, irradiação para grandes lábios e parede vaginal ipsilateral. BEG, algo taquicárdica, pouco sudoreica, sem febre, com abdome plano pouco doloroso, sem sinais de peritonismo e com sinal de Giordano positivo à direita. Marque a alternativa correta em relação à principal hipótese diagnóstica e condutas iniciais recomendadas.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Trata-se de caso clássico de pielonefrite aguda, o tratamento recomendado é analgesia, internação e antibioticoterapia."
+    },
+    {
+     "letra": "B",
+     "texto": "Lombociatalgia com comprometimento radicular, deve ser administrado analgesia + Corticoides e realização de RNM de coluna lombo-sacral."
+    },
+    {
+     "letra": "C",
+     "texto": "ITU baixa causada por provável infecção ginecológica, recomenda-se analgesia e coleta de material ginecológico (PCCU)."
+    },
+    {
+     "letra": "D",
+     "texto": "Cólica nefrética, realização de analgesia, coleta laboratorial e investigação por imagem."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186555",
+   "codigo": "4000186555",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "CESUPA 2023",
+   "numero": 24,
+   "temas": [
+    "Complicações",
+    "Exames de Imagem"
+   ],
+   "enunciado": "Na condução da doença diverticular aguda pela classificação de Hinchey, qual a alternativa que melhor identi ca o tratamento mais correto:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hinchey III ou IV o tratamento cirúrgico apresenta melhores resultados."
+    },
+    {
+     "letra": "B",
+     "texto": "Abscesso de 5cm, controle tomográfico com intervalo de 48h."
+    },
+    {
+     "letra": "C",
+     "texto": "Hinchey I e II, ressecção seguida de anastomose primária."
+    },
+    {
+     "letra": "D",
+     "texto": "Laparoscopia com lavagem e drenagem no Hinchey IV tem obtido melhores resultados."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000186553",
+   "codigo": "4000186553",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "CESUPA 2023",
+   "numero": 25,
+   "temas": [
+    "Manif estações Clínicas e Exame Físico",
+    "Drenagem Biliar",
+    "Antibioticoterapia"
+   ],
+   "enunciado": "Paciente de 45 anos, submetida à colecistectomia VLP há 8 meses, procura atendimento médico por dor abdominal em andar superior do abdome com início há 1 semana, náuseas e vômitos pós-prandiais, astenia e picos febris intermitentes presentes. Ao exame físico, prostrada, icterícia cutaneomucosa ++/++++, subfebril, levemente taquicárdica e taquipneica, com abdome plano, porém doloroso em HD e epigástrio. Em posse dessas informações clínicas, em qual alternativa podemos encontrar a melhor interpretação clínica e sequência para investigação diagnóstica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O quadro clínico citado condiciona o raciocínio para provável complicação pós-operatória tardia das vias biliares (Fístula bilio-pancreática), a coleta de exames laboratoriais como Hemograma, PCR, função renal e hepática deverá ser suficiente para elucidação diagnóstica definitiva."
+    },
+    {
+     "letra": "B",
+     "texto": "Provavelmente estamos diante de quadro agudo de obstrução das vias biliares com infecção em curso. Além da coleta laboratorial, será necessário realizar métodos de imagens para estudo diagnóstico e ou terapêutico, pois a desobstrução da via biliar é prioridade total."
+    },
+    {
+     "letra": "C",
+     "texto": "A possibilidade de neoplasia de via biliar principal, assim como compressão extrínseca dessa via, está completamente descartada."
+    },
+    {
+     "letra": "D",
+     "texto": "A principal hipótese a ser levantada é a pancreatite aguda em sua forma moderada e o tratamento deverá ser feito com suporte clínico e antibióticos de amplo espectro."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186552",
+   "codigo": "4000186552",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "CESUPA 2023",
+   "numero": 26,
+   "temas": [
+    "Reparo Aberto Livre de Tensão",
+    "Reparo Aberto sem Tela"
+   ],
+   "enunciado": "O tratamento definitivo de todas as hérnias independente de origem ou tipo, é o reparo cirúrgico. Em torno de 20 milhões de hérnias inguinais ou femorais são tratadas cirurgicamente por ano em todo o mundo. Em se tratando das técnicas de reparo, em qual alternativas identificamos a descrição correta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Técnica de Lichtenstein, consiste em reparo livre de tensão com colocação da prótese (tela), em formato de cone ou Plug ocluindo parcialmente o anel inguinal interno, assim como reforçando o assoalho inguinal (parede posterior)."
+    },
+    {
+     "letra": "B",
+     "texto": "Podemos citar como exemplo de técnicas para reparos cirúrgicos primários abertos com colocação de prótese: Bassini, Shouldice e Mc Vay."
+    },
+    {
+     "letra": "C",
+     "texto": "Em relação às modalidades de reparo cirúrgico das hérnias inguinais ou crurais por técnicas minimamente invasivas, independente do acesso pré-peritoneal transabdominal ou pela via extraperitoneal total, a prótese (tela) é sempre colocada no plano pré-peritoneal."
+    },
+    {
+     "letra": "D",
+     "texto": "Na hérnia oblíqua interna, a protusão ocorre medialmente aos vasos epigástricos por comprometimento do triângulo de Hesselbach."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186550",
+   "codigo": "4000186550",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "CESUPA 2023",
+   "numero": 27,
+   "temas": [
+    "Formas de reposição de potássio",
+    "Gravidade"
+   ],
+   "enunciado": "Paciente de 60 anos, operado em caráter de emergência por quadro suboclusivo intestinal (Tumor de ceco), tendo sido realizada colectomia D com ileostomia terminal. No quinto dia de pós-operatório encontrava-se estável, já em programação de alta hospitalar quando houve piora clínica, apresentando náuseas, vômitos, distensão abdominal e câimbras. O paciente estava em REG, afebril, hipocorado +/3 e desidratado ++/4. Abdome moderadamente distendido, timpânico, sem sinais de peritonismo, estoma bem perfundido, funcional, porém com volume diminuído em relação às últimas 48h, chamando atenção para os RHA (ruídos hidroaéreos) hipoativos. Considerando o quadro decorrente de íleo paralítico como hipótese, e que o principal eletrólito alterado no controle laboratorial foi o potássio, com níveis séricos de 2,3 mEq/L, podemos considerar das alternativas abaixo, qual a correta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Por tratar-se de hipopotassemia leve, a correção do distúrbio em questão deve ser realizada por via oral, considerando a necessidade diária basal de 5-a 10 mEq/Kg/dia com reposição oral média recomendada de 100 mEq/dia."
+    },
+    {
+     "letra": "B",
+     "texto": "A concentração máxima de K+ administrada não deve ultrapassar 40mEq/L em veias periféricas e 60mEq/L em acesso central."
+    },
+    {
+     "letra": "C",
+     "texto": "A velocidade de infusão durante a reposição, independente de via periférica ou central, não deve ultrapassar 60mEq/h, como também ser mantido para não interferir nas metas calculadas para o nível plasmático."
+    },
+    {
+     "letra": "D",
+     "texto": "Em situações de hipopotassemia ref - deve ser verificado, pois ele interfere como cofator da Na+-k+-ATPase."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186545",
+   "codigo": "4000186545",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "CESUPA 2023",
+   "numero": 28,
+   "temas": [
+    "Classif icação de Atlanta"
+   ],
+   "enunciado": "A Pancreatite aguda, de acordo com a classificação de ATLANTA, encontra-se dividida em dois grandes grupos: pancreatite aguda edematosa intersticial e pancreatite aguda necrotizante. Em relação aos aspectos de gravidade, qual alternativa se encontra correta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Na pancreatite aguda moderada, disfunção orgânica pode estar presente assim como complicações locais, desde que não persistam por mais de 72h."
+    },
+    {
+     "letra": "B",
+     "texto": "Somente em 10% dos casos podemos encontrar o sinal de Cullen nas formas leves das pancreatites agudas."
+    },
+    {
+     "letra": "C",
+     "texto": "A persistência de falência orgânica única ou de múltiplos órgãos acima de 48h, costumam traduzir formas graves da doença."
+    },
+    {
+     "letra": "D",
+     "texto": "Falência orgânica transitória (inferior à 72h), caracterizam as formas moderadas de gravidade."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186540",
+   "codigo": "4000186540",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "CESUPA 2023",
+   "numero": 29,
+   "temas": [
+    "Terlipressina"
+   ],
+   "enunciado": "Paciente de 48 anos sabidamente portador de hipertensão portal em investigação etiológica, contudo já apresentando varizes esofágicas de médio e grosso calibres, ao ser atendido no PS por ter apresentado sangramento importante (3 episódios de hematêmese nas últimas 4h). Dentre as medidas gerais de tratamento para estabilização clínica listadas abaixo, podemos considerar adequada:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "2 L de ringer lactato por acesso venoso calibrosso, para manter PAM em torno de 80mmhg."
+    },
+    {
+     "letra": "B",
+     "texto": "Terlipressina 2mg em bolus e 1mg 4/4h por 3 a 5 dias."
+    },
+    {
+     "letra": "C",
+     "texto": "Evitar uso de IBP nas primeiras 24h."
+    },
+    {
+     "letra": "D",
+     "texto": "Evitar IOT por risco de vômitos com aumento do sangramento."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186539",
+   "codigo": "4000186539",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "CESUPA 2023",
+   "numero": 30,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Thomson, em 1975, descreveu as hemorroidas como sendo coxins vasculares compostos por arteríolas, sinusoides e vênulas sustentados por tecido bromuscular. Em torno de 5% da população geral apresenta sintomas relacionados à doença hemorroidária, sendo que na maioria das vezes, o tratamento conservador com medidas locais e dietéticas é preferível. Contudo as indicações de tratamento cirúrgico na doença hemorroidária encontram-se mais adequadamente representada na alternativa:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Nas tromboses hemorroidárias agudas."
+    },
+    {
+     "letra": "B",
+     "texto": "Nas protusões hemorroidários Grau II."
+    },
+    {
+     "letra": "C",
+     "texto": "Na classificação Graus III e IV de doença interna, assim como na doença externa severa sintomática."
+    },
+    {
+     "letra": "D",
+     "texto": "Após o primeiro episódio de sangramento, independentemente de ser interna ou externa."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186537",
+   "codigo": "4000186537",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "CESUPA 2023",
+   "numero": 31,
+   "temas": [
+    "Rastreamento"
+   ],
+   "enunciado": "S.C.V, 18 anos de idade, G1 P0 A1, soropositiva para o vírus da imunode ciência humana e em tratamento antirretroviral, vem à consulta médica com resultado de contagem de linfócitos CD4+ abaixo no valor de 180 células/mm3. A paciente refere preocupação quanto ao risco de câncer de colo do útero. Diante do caso clínico, a conduta correta de acordo com as Diretrizes Brasileiras para o Rastreamento do Câncer do Colo do Útero é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Realizar imediatamente o exame citopatológico para rastreamento do câncer do colo do útero com intervalos semestrais no primeiro ano de seguimento."
+    },
+    {
+     "letra": "B",
+     "texto": "Não realizar o exame citopatológico para rastreamento do câncer do colo do útero. Indicar o início à coleta apenas aos 25 anos de idade."
+    },
+    {
+     "letra": "C",
+     "texto": "Realizar o exame citopatológico para rastreamento do câncer do colo do útero com intervalo de 12 meses. Se dois exames consecutivos forem normais, a mulher deverá retornar à rotina de rastreamento citológico trienal."
+    },
+    {
+     "letra": "D",
+     "texto": "Indicar o início da coleta do exame citopatológico para rastreamento do câncer do colo do útero quando a paciente completar 20 anos de idade, com intervalos anuais."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186536",
+   "codigo": "4000186536",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "CESUPA 2023",
+   "numero": 32,
+   "temas": [
+    "Terapia hormonal"
+   ],
+   "enunciado": "Paciente de 49 anos de idade, refere fogachos diários que iniciaram há 1 ano. Nega outras queixas. A data da última menstruação foi há 9 meses. Apresenta de antecedentes mórbidos pessoais por ria e hipertensão arterial sistêmica controlados. Mamogra a recente com laudo BIRADS 1, colpocitologia oncótica negativa para malignidade e ultrassonogra a transvaginal sem alterações patológicas. Quanto a terapia de reposição hormonal para esta paciente a conduta mais adequada é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A terapia de reposição hormonal sistêmica está indicada para alívio dos sintomas vasomotores, independente das comorbidades apresentadas."
+    },
+    {
+     "letra": "B",
+     "texto": "A terapia de reposição hormonal tem contraindicação absoluta para a paciente, pois associada à hipertensão arterial sistêmica aumenta de forma grave o risco tromboembólico."
+    },
+    {
+     "letra": "C",
+     "texto": "Deve ser indicada a terapia de reposição hormonal transdérmica, pois aumenta a globulina carreadora dos hormônios sexuais (SHBG)."
+    },
+    {
+     "letra": "D",
+     "texto": "A terapia de reposição hormonal tem contraindicação absoluta para a paciente, pois pode desencadear as manifestações da porfiria."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186535",
+   "codigo": "4000186535",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "CESUPA 2023",
+   "numero": 33,
+   "temas": [
+    "Parada secundária da descida"
+   ],
+   "enunciado": "Uma mulher de 24 anos de idade, G2P0A1, no decorrer de 41 semanas de gestação, encontrase em fase ativa do trabalho de parto, está fazendo força, mas sem progresso. O desenvolvimento do trabalho de parto está caracterizado no partograma abaixo. A análise adequada do caso clínico é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O partograma demonstra período pélvico prolongado, pois a descida da apresentação é progressiva, mas excessivamente lenta."
+    },
+    {
+     "letra": "B",
+     "texto": "A evolução do trabalho de parto é normal, pois a paciente foi submetida à analgesia peridural."
+    },
+    {
+     "letra": "C",
+     "texto": "O partograma evidencia evolução anormal do trabalho de parto. A causa mais frequente desse tipo de distocia é a desproporção céfalopélvica."
+    },
+    {
+     "letra": "D",
+     "texto": "Houve uma parada secundária da dilatação e deverá ser aplicado um fórcipe de Simpson para ultimação do parto."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q033-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000186534",
+   "codigo": "4000186534",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "CESUPA 2023",
+   "numero": 34,
+   "temas": [
+    "Tratamento específ ico",
+    "Hiperprolactinemia"
+   ],
+   "enunciado": "L.A.N, 22 anos de idade, apresenta ciclos menstruais irregulares há cerca de 14 meses, com períodos de amenorreia. Quando indagada, negou uso de medicações de uso contínuo e está sem vida sexual ativa há 2 anos. Exame físico geral e ginecológico sem alterações. A dosagem de prolactina está elevada (180 ng/dl) com TSH e T4 livre normais. A ressonância magnética de sela túrcica revelou um adenoma hipofisário de 17mm de diâmetro. A melhor conduta para o caso é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Indicar cirurgia transesfenoidal imediatamente."
+    },
+    {
+     "letra": "B",
+     "texto": "Indicar o uso de agonistas da dopamina."
+    },
+    {
+     "letra": "C",
+     "texto": "Indicar o uso de radioterapia adjuvante."
+    },
+    {
+     "letra": "D",
+     "texto": "Indicar o uso de anticoncepcional oral combinado."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186533",
+   "codigo": "4000186533",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "CESUPA 2023",
+   "numero": 35,
+   "temas": [
+    "Tratamento",
+    "Classif icação"
+   ],
+   "enunciado": "Paciente de 26 anos de idade, estudante, vem à consulta com queixa de mastalgia há 02 semanas. Refere ciclos menstruais a cada 29 dias e que a sua queixa piora próximo a menstruação e melhora durante a primeira fase do ciclo. Faz uso de anel vaginal segundo informações. Nega traumas ou afecções mamárias prévias, relata histórico de câncer de mama em prima de 20 grau. Ao exame físico: mamas em número de 02, simétricas, sem lesões palpáveis, dor a palpação em quadrante superior lateral bilateralmente, ausência de descarga papilar bilateralmente, axilas livres. A conduta para o caso é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Solicitar ressonância magnética de mamas."
+    },
+    {
+     "letra": "B",
+     "texto": "Solicitar mamografia digital bilateral."
+    },
+    {
+     "letra": "C",
+     "texto": "Orientar suspensão imediata de anticoncepcional."
+    },
+    {
+     "letra": "D",
+     "texto": "Não há necessidade de exames complementares."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186532",
+   "codigo": "4000186532",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "CESUPA 2023",
+   "numero": 36,
+   "temas": [
+    "Tratamento",
+    "Diagnóstico da síf ilis"
+   ],
+   "enunciado": "Gestante com Sí lis Primária, 17 semanas de gravidez, com resultado de laboratório, VDRL 1:16. Sabemos que a transmissão vertical é possível, qual a medida terapêutica de escolha para este caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Penicilina G Cristalina 3.000.000 UI EV por 10 dias."
+    },
+    {
+     "letra": "B",
+     "texto": "Penicilina G Benzatina 2.400.000 UI IM uma vez por semana por 3 semanas."
+    },
+    {
+     "letra": "C",
+     "texto": "Penicilina G Benzatina 2.400.000 UI IM em dose única."
+    },
+    {
+     "letra": "D",
+     "texto": "Penicilina G Cristalina 4.000.000 UI EV em dose única."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186531",
+   "codigo": "4000186531",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "CESUPA 2023",
+   "numero": 37,
+   "temas": [
+    "Modif icações locais",
+    "Modif icações sistêmicas"
+   ],
+   "enunciado": "As modificações hormonais no período gravídico – puerperal são determinadas por que fatores?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Glândulas endócrinas fetais e placentárias."
+    },
+    {
+     "letra": "B",
+     "texto": "Glândulas endócrinas maternas, fetais e placentárias."
+    },
+    {
+     "letra": "C",
+     "texto": "Glândulas endócrinas maternas e placentárias."
+    },
+    {
+     "letra": "D",
+     "texto": "Glândulas endócrinas maternas e fetais."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186530",
+   "codigo": "4000186530",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "CESUPA 2023",
+   "numero": 38,
+   "temas": [
+    "Préeclâmpsia com sinais de gravidade"
+   ],
+   "enunciado": "Grávida de 34 semanas, chega à Triagem da Santa Casa, referindo cefaleia frontal, epigastralgias, escotomas visuais, edema acentuado de membros inferiores, face e oliguria. AO Exame: PA 190 X 120 mmHg AU: 30 cm BCF: 152 bpm DU: ausente. Toque vaginal não realizado. Diante do quadro apresentado acima, qual a hipótese diagnóstica e qual a conduta de imediato?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Eclampsia, administrar MgSO4 e Hidralazina via oral."
+    },
+    {
+     "letra": "B",
+     "texto": "Pré-eclâmpsia grave, controle ambulatorial."
+    },
+    {
+     "letra": "C",
+     "texto": "Iminência de Eclampsia, administrar MgSO4 e Hidralazina EV."
+    },
+    {
+     "letra": "D",
+     "texto": "Pré-eclâmpsia leve, Metildopa 2.000 mg dia."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186529",
+   "codigo": "4000186529",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "CESUPA 2023",
+   "numero": 39,
+   "temas": [
+    "Ameaça de abortamento"
+   ],
+   "enunciado": "Paciente GII PI N AI, obesa, deu entrada na UPA do Guamá, referindo dor no baixo ventre, semelhante à cólica menstrual e sangramento vaginal aumentado, após 4 meses de amenorreia. Refere que engordou 30 kg na sua gravidez e não conseguiu emagrecer desde então, atualmente com IMC de 40. Ao exame: Abdome globoso, com massa palpável em região hipogástrica. Toque bimanual: Colo congesto, impérvio, útero aumentado de volume, no limite da sín se púbica, sangramento moderado vermelho vivo. O que fazer neste caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Solicitar um BHCG para afastar a possibilidade de uma ameaça de abortamento."
+    },
+    {
+     "letra": "B",
+     "texto": "Realizar conduta ativa para SUA -O."
+    },
+    {
+     "letra": "C",
+     "texto": "Encaminhar para o centro obstétrico para fazer Curetagem uterina."
+    },
+    {
+     "letra": "D",
+     "texto": "Solicitar uma ultrassonografia abdominal."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186524",
+   "codigo": "4000186524",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "CESUPA 2023",
+   "numero": 40,
+   "temas": [
+    "Distócia de ombro"
+   ],
+   "enunciado": "Paciente primigesta admitida em trabalho de parto, período expulsivo, foi submetida à Manobra de Gunn – Zavanelli- O’Leary para finalmente nascer o seu bebê. Em que consiste essa manobra?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "É o nome dado à manobra de 4 apoios na distocia de ombros."
+    },
+    {
+     "letra": "B",
+     "texto": "É o nome dado à flexão das coxas sobre o abdome."
+    },
+    {
+     "letra": "C",
+     "texto": "É o nome da manobra do desprendimento do braço posterior. É"
+    },
+    {
+     "letra": "D",
+     "texto": "É a recolocação da cabeça fetal na pelve materna, dentro do útero após a exteriorização na vulva e realizar a cesárea."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186523",
+   "codigo": "4000186523",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "CESUPA 2023",
+   "numero": 41,
+   "temas": [
+    "Tratamento Sintomático",
+    "Tratamento Prof ilático"
+   ],
+   "enunciado": "Mulher, 24 anos, vai ao consultório referindo que há 4 meses apresenta cefaleia unilateral, latejante, com fotofobia e náuseas. Melhora com uso de dipirona e piora ao subir escadas. Tem tido 2 episódios/semana, que chegam a durar cerca de 6 horas e já atrapalham suas atividades de trabalho. Tem histórico de alguns episódios de broncoespasmo em vigência de quadros gripais e já fez cirurgia de apendicectomia. Menstruação regular. Ao exame: IMC (índice de massa corpórea): 27kg / m²; PA: 130x80; nuca livre, sem sinais neurológicos focais. Analise as assertivas a seguir e marque a alternativa com hipótese diagnostica e tratamento mais adequados ao caso:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Migrânea, sendo indicado propranolol como profilaxia e triptano quando dor intensa."
+    },
+    {
+     "letra": "B",
+     "texto": "Cefaleia tensional, sendo indicado amitriptilina como profilaxia e ciclobenzaprina nas crises álgicas."
+    },
+    {
+     "letra": "C",
+     "texto": "Migrânea, com uso de Topiramato como profilaxia e naproxeno em crises esporádicas."
+    },
+    {
+     "letra": "D",
+     "texto": "Cefaleia tensional, podendo ser utilizada fluoxetina para profilaxia e dipirona nas crises de dor."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186521",
+   "codigo": "4000186521",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "CESUPA 2023",
+   "numero": 42,
+   "temas": [
+    "Diagnóstico",
+    "Tratamento",
+    "Apresentação Clínica"
+   ],
+   "enunciado": "Paciente idoso, apresentando episódios de vertigem subjetiva, de menos de 1 minuto, quando muda a cabeça em certas posições, associados a náuseas e nistagmo. Algumas vezes teve desequilíbrio e já caiu uma vez. Nega zumbido e hipoacusia. Já fez Ressonância de crânio que foi normal para a idade. Sobre este caso, marque a alternativa CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A manobra de Dix-Hallpike, realizada no consultório, poderá desencadear nistagmo e aparecimento dos sintomas."
+    },
+    {
+     "letra": "B",
+     "texto": "Tratamento medicamentoso com antagonistas de canal de cálcio seletivos é a primeira escolha."
+    },
+    {
+     "letra": "C",
+     "texto": "Terapia com manobras de reposicionamento dos canais semicirculares costuma ser pouco eficaz nesses casos."
+    },
+    {
+     "letra": "D",
+     "texto": "Se não tratada, essa doença costuma progredir com perda auditiva, sobretudo para as faixas mais agudas de som."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186519",
+   "codigo": "4000186519",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "CESUPA 2023",
+   "numero": 43,
+   "temas": [
+    "Farmacológico"
+   ],
+   "enunciado": "Mulher com 57 anos e trabalha como faxineira. Procura atendimento devido queixa de dor articular em mãos e joelhos. Relata rigidez matinal que melhora em menos de 20 minutos com as atividades da manhã. Ao exame das mãos observa-se deformidade nas articulações interfalangianas, sem sinais de sinovite. Joelho direito com leve edema e calor, com crepitação à movimentação. Joelho esquerdo sem alterações. A condução mais adequada para o caso é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Solicitar VHS, PCR e iniciar prednisona."
+    },
+    {
+     "letra": "B",
+     "texto": "Fazer um AINE por no máximo 7 dias, analgesia simples e fisioterapia."
+    },
+    {
+     "letra": "C",
+     "texto": "Solicitar RX de mãos, joelhos, provas inflamatórias e Fator reumatóide."
+    },
+    {
+     "letra": "D",
+     "texto": "Fazer uma dose de corticoide intramuscular e solicitar RX das articulações."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186518",
+   "codigo": "4000186518",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "CESUPA 2023",
+   "numero": 44,
+   "temas": [
+    "Inibidores da SGLT2 ISGLT2"
+   ],
+   "enunciado": "Inibidores da enzima conversora de angiotensina e bloqueadores dos receptores AT1 da angiotensina II Paciente com 62 anos, hipertensa em uso de losartana e hidroclorotiazida em dose plena e diabética em uso do Glifage XR® 2g/dia. Nos últimos meses, vinha se sentindo cansada aos esforços. Seu médico assistente resolveu solicitar um ecocardiograma que mostrou uma fração de ejeção de 42%. Ao exame físico apresentava PA de 140x90mmHg, FC:88bpm, FR:16irpm, ausculta cardiopulmonar normal, sem edema de membros inferiores. HBA1C: 7,6%, Cr:1,0mg/dL, K:4,5mg/dL, ClCr:60ml//min/1.73m² microalbuminuria de 100mg/g. Assinale a alternativa que contêm a melhor conduta para a paciente seria acrescentar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "dapaglifozina, carvedilol e epironolactona."
+    },
+    {
+     "letra": "B",
+     "texto": "carvedilol, espironolactona e glibenclamida."
+    },
+    {
+     "letra": "C",
+     "texto": "carvedilol, espironolactona e suspender hidroclorotiazida."
+    },
+    {
+     "letra": "D",
+     "texto": "dapaglifozina e carvedilol e trocar hidroclorotiazida por furosemida."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186516",
+   "codigo": "4000186516",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "CESUPA 2023",
+   "numero": 45,
+   "temas": [
+    "Tratamento",
+    "Investigação Complementar"
+   ],
+   "enunciado": "Mulher, 62 anos, comparece à consulta queixando de plenitude pós-prandial e saciedade precoce há 3 meses. Nega perda de peso, vômitos, dor epigástrica ou alteração na cor ou consistência das fezes. Exame físico sem alterações. A conduta mais adequada para este paciente é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Iniciar inibidor da bomba de prótons para tratar síndrome dispéptica."
+    },
+    {
+     "letra": "B",
+     "texto": "Prescrever procinético para tratar síndrome dispéptica."
+    },
+    {
+     "letra": "C",
+     "texto": "Iniciar IBP e procinético e solicitar endoscopia digestiva alta."
+    },
+    {
+     "letra": "D",
+     "texto": "Solicitar endoscopia digestiva alta e prescrever procinético."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186514",
+   "codigo": "4000186514",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "CESUPA 2023",
+   "numero": 46,
+   "temas": [
+    "Critérios para escolha da estratégia terapêutica"
+   ],
+   "enunciado": "Mulher, 65 anos, hipertensa em uso de anlodipino 10mg/dia e losartana 50mg 12/12hs, refere episódios de palpitações com início há quatro meses, por vezes acompanhados de leve dispneia. Não relata relação com esforços ou outros fatores desencadeantes. Nega angina, síncope, ortopneia ou dispneia aos esforços. Nega etilismo ou tabagismo. Exame físico: bom estado geral, consciente, eupneica, bulhas cardíacas com ritmo irregular, FC: 52 bpm e PA: 140x80 mmHg, com restante do exame sem alterações. Eletrocardiograma vide figura abaixo. A melhor estratégia terapêutica para este paciente é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ajustar dose dos anti-hipertensivos em uso e iniciar o AAS."
+    },
+    {
+     "letra": "B",
+     "texto": "Avaliar o CHA2DS2-VASc e o HAS-BLED para anticoagulação."
+    },
+    {
+     "letra": "C",
+     "texto": "Encaminhar para instalar marcapasso."
+    },
+    {
+     "letra": "D",
+     "texto": "Manter o esquema medicamentoso atual."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q046-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000186513",
+   "codigo": "4000186513",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "CESUPA 2023",
+   "numero": 47,
+   "temas": [
+    "Rinossinusite Bacteriana Aguda"
+   ],
+   "enunciado": "Homem, 46 anos de idade evolui há 4 dias com febre (38,9ºC), tosse produtiva com expectoração purulenta, o quadro iniciou há 6 dias com rinorreia e mal-estar geral. Estava em uso apenas de dipirona para febre. Não procurou auxílio médico até a data de hoje. Nega doenças prévias, uso de antibióticos ou internações recentes. Ao exame físico: Consciente e orientado, hidratado, acianótico, anictérico. AC: ritmo cardíaco regular em 2 tempos sem sopros FC: 98 bpm PA: 110 x 70mmHg Ausculta pulmonar limpa FR: 18 ipm sem outras alterações no exame físico. O aparelho de RX está quebrado. Sobre o caso é correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Trata-se de IVAS, pode ser tratado utilizando Amoxacilina+Clavulanato VO 12/12h associado a lavagem nasal com soro fisiológico."
+    },
+    {
+     "letra": "B",
+     "texto": "Está indicado uso de ceftriaxone com azitromicina EV em ambiente hospitalar e coleta de hemograma, ureia, creatinina, Na e K."
+    },
+    {
+     "letra": "C",
+     "texto": "Deverá aguardar o RX de tórax para definir o esquema antimicrobiano, além de realizar hemograma e hemocultura."
+    },
+    {
+     "letra": "D",
+     "texto": "O diagnóstico é de PAC e por apresentar CRB-65 (Escore simplificado de gravidade da PAC da British Thoracic Society) de 1, não necessita internação."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186511",
+   "codigo": "4000186511",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "CESUPA 2023",
+   "numero": 48,
+   "temas": [
+    "Rastreamento"
+   ],
+   "enunciado": "Homem 48 anos, assintomático, mas com sobrepeso, Circunferência abdominal de 105cm e história familiar de diabetes. Tem tentado mudanças de estilo de vida (MEV) desde a última consulta há 6 meses: caminhando 5x na semana 50 minutos e acompanhando com nutricionista. Trouxe exames: A conduta mais indicada para a paciente é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Repetir os exames em 6 meses, mas manter exercício."
+    },
+    {
+     "letra": "B",
+     "texto": "Iniciar tratamento para diabetes e manter caminhadas."
+    },
+    {
+     "letra": "C",
+     "texto": "Orientar que se encontra pré-diabético e intensificar MEV."
+    },
+    {
+     "letra": "D",
+     "texto": "Tranquilizar o paciente, pois não tem diabetes."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186509",
+   "codigo": "4000186509",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "CESUPA 2023",
+   "numero": 49,
+   "temas": [
+    "Tratamento das taquicardias de QRS estreito"
+   ],
+   "enunciado": "Mulher, 28 anos, chega ao pronto-socorro referindo que o coração está acelerado, gerando uma leve dispneia. Conta que iniciou enquanto varria a casa. Relata que não é a primeira vez que acontece, mas é a primeira vez que o quadro permanece por mais de 10 minutos. Ao Exame físico: Glasgow15, FR:22irpm, FC:180bpm, PA:120x70mmHg, SatO2:94%, glicemia capilar:95. Ausculta pulmonar normal. Sem outras alterações no exame físico. ECG realizado durante o atendimento a seguir: A conduta inicial indicada pela American Heart Asssociation para esta paciente é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Proceder manobra vagal modificada, soprando a seringa e elevando MMII."
+    },
+    {
+     "letra": "B",
+     "texto": "Iniciar anticoagulação com heparina e iniciar amiodarona endovenosa."
+    },
+    {
+     "letra": "C",
+     "texto": "Sedar a paciente e proceder cardioversão sincronizada imediatamente."
+    },
+    {
+     "letra": "D",
+     "texto": "Tranquilizar a paciente e prescrever beta-bloquador via oral."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q049-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000186506",
+   "codigo": "4000186506",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "CESUPA 2023",
+   "numero": 50,
+   "temas": [
+    "Tratamento",
+    "Complicações"
+   ],
+   "enunciado": "Mulher, 58 anos, diabética, foi ao PS devido quadro de cefaleia, mal-estar geral e febre há 2 dias. A hipótese diagnóstica feita pelo médico foi de dengue. A paciente realizou sintomáticos no PS e foi liberada. Após 5 dias, a paciente evoluiu com persistência da febre, tosse seca, sonolência e desorientação. Retornou ao PS e, ao exame físico, apresentava regular estado geral, febril ao toque, ausculta cardíaca normal, PA 80/40mmHg, FC 130bpm, ausculta pulmonar com murmúrio vesicular diminuído em base esquerda, FR 32irpm, abdome inocente e extremidades frias. Sobre este caso é correto afirmar: Respostas: 1 12 23 34 45",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Para fechar diagnóstico de sepse, é necessário a presença de leucocitose ou leucopenia."
+    },
+    {
+     "letra": "B",
+     "texto": "Faz parte da conduta imediata a infusão de solução salina 30ml/Kg na primeira hora."
+    },
+    {
+     "letra": "C",
+     "texto": "O antibiótico deve iniciar na primeira hora após chegada dos exames laboratoriais."
+    },
+    {
+     "letra": "D",
+     "texto": "O volume de hidratação da paciente deve ser guiado pelo clearence de lactato."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": []
+}

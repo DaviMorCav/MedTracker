@@ -1,0 +1,1988 @@
+{
+ "questoes": [
+  {
+   "id": "4000127725",
+   "codigo": "4000127725",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 1,
+   "temas": [
+    "Diagnóstico",
+    "Manif estações clínicas"
+   ],
+   "enunciado": "Paciente de 45 anos, gênero feminino, admitida em enfermaria de clínica médica do Hospital de Base para investigar significativa perda ponderal nos últimos 6 meses. Reporta repetidas internações em outros serviços, neste período, por episódios de dor abdominal associado a náuseas e vômitos. Segundo a mesma, sempre lhe era relatado que se encontrava desidratada e recebia alta após reposição volêmica com solução siológica a 0,9%. Há 30 dias, em uma destas internações, foram colhidos exames com o achado de TSH=9,0 mU/L (VR: 0,3 a 4,0). Foi-lhe prescrito levotiroxina 50mcg/dia e desde então episódios de dor abdominal tornaram-se mais frequentes associado à intensi cação da perda ponderal e astenia. Ao exame físico em sua admissão no Hospital de Base apresentava-se em regular estado geral, desidratada 3+/4+, FC=105bpm, FR=22ipm, PA=100x50mmHg, afebril, peso=50kg, altura=170cm. Ausculta pulmonar e precordial sem alterações. Exames admissionais: Ht=45%, leucometria=9.500 (eosinó los=10%) plaquetas=350mil, sódio=130mEq/L, potássio=4,8mEq/l, creatinina=0,8mg/dl, glicemia=92mg/dL e urina I sem alterações. Diante deste quadro clínico, assinale e alternativa que mostra o exame que provavelmente confirmaria o diagnóstico da paciente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Endoscopia digestiva com biópsia de segunda porção do duodeno"
+    },
+    {
+     "letra": "B",
+     "texto": "Cortisol basal"
+    },
+    {
+     "letra": "C",
+     "texto": "Anticorpo anti-receptor de TSH (TRAB)"
+    },
+    {
+     "letra": "D",
+     "texto": "Vitamina B12"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000083510",
+   "codigo": "4000083510",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 2,
+   "temas": [
+    "Insuf iciência adrenal secundária"
+   ],
+   "enunciado": "Na diferenciação da insuficiência adrenal primária da secundária, é correto afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A hiperpigmentação da pele e das mucosas é sugestiva de insuficiência adrenalsecundária."
+    },
+    {
+     "letra": "B",
+     "texto": "Os níveis de hormônios mineralocorticoides são geralmente normais na insuficiênciaadrenal secundária."
+    },
+    {
+     "letra": "C",
+     "texto": "Hipercalemia é usualmente severa na insuficiência adrenal secundária e leve naprimária."
+    },
+    {
+     "letra": "D",
+     "texto": "Um valor de ACTH entre 10 a 20 pg/ml e de cortisol sérico < 2 µg/dl sugerefortemente insuficiência adrenal primária."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000067748",
+   "codigo": "4000067748",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 3,
+   "temas": [
+    "Etiologia",
+    "Crise adrenal",
+    "Manif estações clínicas"
+   ],
+   "enunciado": "Com relação à Insuficiência Adrenal, podemos afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a suspensão abrupta de prednisona após uso prolongado e doses elevadas é causa de insuficiência adrenal devido ao aumento na produção de ACTH pela glândula hipófise."
+    },
+    {
+     "letra": "B",
+     "texto": "pacientes com insuficiência adrenal crônica não apresentam risco aumentado de crise adrenal aguda quando expostos a infecções graves."
+    },
+    {
+     "letra": "C",
+     "texto": "podem ser considerados sinais e sintomas causados pela deficiência de glicocorticóides: hiperglicemia, hipertensão arterial e hipernatremia."
+    },
+    {
+     "letra": "D",
+     "texto": "a insuficiência adrenal aguda é uma emergência clínica cujo tratamento consiste na correção dos distúrbios hidroeletrolíticos, expansão volêmica e reposição endovenosa de glicocorticóide."
+    },
+    {
+     "letra": "E",
+     "texto": "a hiperpigmentação da pele e mucosas ocorre na insuficiência adrenal primária e secundária."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000050072",
+   "codigo": "4000050072",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 4,
+   "temas": [
+    "Insuf iciência adrenal primária",
+    "Manif estações clínicas"
+   ],
+   "enunciado": "São manifestações clínico-laboratoriais da doença de Addison, EXCETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "hipotensão."
+    },
+    {
+     "letra": "B",
+     "texto": "hipocalemia."
+    },
+    {
+     "letra": "C",
+     "texto": "hipoglicemia."
+    },
+    {
+     "letra": "D",
+     "texto": "hiponatremia."
+    },
+    {
+     "letra": "E",
+     "texto": "hipocortisolismo."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046915",
+   "codigo": "4000046915",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 5,
+   "temas": [
+    "Insuf iciência adrenal secundária",
+    "Manif estações clínicas"
+   ],
+   "enunciado": "Mulher, 39 anos, portadora de artrite reumatoide e usuária crônica de 20mg de prednisona. Evolui com úlcera perfurada duodenal e peritonite. Na tentativa de evitar uma insu ciência adrenal aguda, o anestesista faz hidrocortisona endovenosa na indução. Quais sinais clínicos levantariam a suspeita dessa complicação?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipercalemia e bradicardia"
+    },
+    {
+     "letra": "B",
+     "texto": "Hipotensão e hiponatremia"
+    },
+    {
+     "letra": "C",
+     "texto": "Insuficiência hepática e coma"
+    },
+    {
+     "letra": "D",
+     "texto": "Hipocalcemia e sonolência"
+    },
+    {
+     "letra": "E",
+     "texto": "Convulsão e hiperreflexia"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000064673",
+   "codigo": "4000064673",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 6,
+   "temas": [
+    "Manejo do Paciente em uso de Corticoides",
+    "Crise adrenal"
+   ],
+   "enunciado": "Mulher, 30 anos, asmática, em uso de corticoide com beta-agonista inalatórios e prednisona 20 mg/d há 3 meses. Interna para a realização de mamoplastia eletiva. No pós-operatório imediato evolui com dor abdominal intensa, náuseas, vômitos e febre baixa. Ao exame: PA = 90 x 60 mmHg; FC = 120 bpm; desidratada; glicemia capilar - Dx 48 mg/dL; abdome doloroso difusamente à palpação, descompressão brusca negativa. Assinale a alternativa correta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O tratamento inicial deve ser hidrocortisona 100 mg IV, reposição volêmica vigorosa e correção da glicemia."
+    },
+    {
+     "letra": "B",
+     "texto": "Trata-se de uma sepse, sendo necessário iniciar antibioticoterapia na primeira hora e hidratação vigorosa, além da correção da glicemia."
+    },
+    {
+     "letra": "C",
+     "texto": "Trata-se de uma complicação cirúrgica, devendo o médico responsável ser acionado imediatamente."
+    },
+    {
+     "letra": "D",
+     "texto": "Achados laboratoriais dessa complicação incluem leucocitose e hipernatremia."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000054466",
+   "codigo": "4000054466",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 7,
+   "temas": [
+    "Crise adrenal"
+   ],
+   "enunciado": "Em relação ao manejo terapêutico de crise adrenal, além de ressuscitação volêmica com solução salina 0,9%, deve ser administrada:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hidrocortisona em dose alta."
+    },
+    {
+     "letra": "B",
+     "texto": "Fludrocortisona em dose alta."
+    },
+    {
+     "letra": "C",
+     "texto": "Dexametasona em dose baixa."
+    },
+    {
+     "letra": "D",
+     "texto": "Metilprednisolona em dose intermediária."
+    },
+    {
+     "letra": "E",
+     "texto": "Prednisolona em dose alta."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000019056",
+   "codigo": "4000019056",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 8,
+   "temas": [
+    "Hipocortisolismo",
+    "Insuf iciência adrenal secundária",
+    "Crise adrenal"
+   ],
+   "enunciado": "Em relação à insuficiência adrenal, assinale a assertiva correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A doença de Addison é causada por autoanticorpos contra as células produtoras de ACTH."
+    },
+    {
+     "letra": "B",
+     "texto": "Suspensão abrupta de um corticóide após longo tempo de administração exógena é a principal causa de insuficiência adrenal."
+    },
+    {
+     "letra": "C",
+     "texto": "Hiperpigmentação é achado típico da insuficiência adrenal secundária."
+    },
+    {
+     "letra": "D",
+     "texto": "O tratamento da insuficiência adrenal secundária requer a reposição de prednisona e fludrocortisona."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000010591",
+   "codigo": "4000010591",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 9,
+   "temas": [
+    "Hipocortisolismo",
+    "Câncer de Pulmão"
+   ],
+   "enunciado": "Um paciente de 50 anos de idade vai ao médico queixando-se de fadiga e perda de peso de 5 kg nos últimos 30 dias. Foi tabagista por 30 anos, é sedentário e tem obesidade centrípeta. Os respectivos níveis pressóricos evidenciam 80 mmHg x 50 mmHg; além disso, o paciente apresenta FC = 80 bpm, ECG normal, hiperpigmentação cutânea e mucosas coradas e hidratadas. Há presença de baqueteamento digital em mãos e pés. Sem edema de membros inferiores ou palpebrais. Resultado dos exames laboratoriais: NA = 110 mEq\\L (VR = 135 mEq\\L a 145 mEq\\L), K = 6,7 mEq\\L (VR = 3,5 mEq\\L a 4,5 mEq\\L), ureia e creatinina normais e gasometria arterial com nível de bicarbonato reduzido (acidose metabólica). Os raios X de tórax apresentam nódulo pulmonar espiculado de 3 cm e US de abdome: múltiplos nódulos hepáticos com lesão vegetante em suprarrenais bilaterais. Com relação a esse caso clínico, assinale a alternativa que indica o provável diagnóstico dessa paciente.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Síndrome de secreção inapropriada de hormônio antidiurético."
+    },
+    {
+     "letra": "B",
+     "texto": "Hipotireoidismo - tireoidite de Hashimoto."
+    },
+    {
+     "letra": "C",
+     "texto": "Insuficiência de suprarrenal secundária a câncer de pulmão metastático."
+    },
+    {
+     "letra": "D",
+     "texto": "Insuficiência renal secundária a síndrome nefrítica."
+    },
+    {
+     "letra": "E",
+     "texto": "Macroadenoma hipofisário."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000121722",
+   "codigo": "4000121722",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 10,
+   "temas": [
+    "Insuf iciência adrenal secundária",
+    "Etiologia",
+    "Insuf iciência adrenal primária"
+   ],
+   "enunciado": "Assinale a alternativa CORRETA a respeito da insuficiência suprarrenal.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipercalcemia é achado encontrado em 80% dos pacientes com insuficiência suprarrenal primária."
+    },
+    {
+     "letra": "B",
+     "texto": "A insuficiência adrenal primária é marcada por níveis de ACTH plasmático baixos e, na forma secundária, encontra-se ACTH > 1.000 pg/mL."
+    },
+    {
+     "letra": "C",
+     "texto": "Em países desenvolvidos, a principal causa de insuficiência adrenal é infecciosa, associada à AIDS."
+    },
+    {
+     "letra": "D",
+     "texto": "A crise adrenal não ocorre na forma secundária de insuficiência suprarrenal."
+    },
+    {
+     "letra": "E",
+     "texto": "A hiperpigmentação é o achado mais característico da forma primária de insuficiência suprarrenal."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000067286",
+   "codigo": "4000067286",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 11,
+   "temas": [
+    "Quadro Clínico"
+   ],
+   "enunciado": "No caso de recém-nascido, 14 dias de vida, admitido na Emergência Pediátrica com quadro clínico de perda progressiva de peso, desidratação grave, vômitos e hipotensão, a principal hipótese diagnóstica é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "refluxo gastroesofágico."
+    },
+    {
+     "letra": "B",
+     "texto": "hipertrofia de piloro."
+    },
+    {
+     "letra": "C",
+     "texto": "alergia alimentar."
+    },
+    {
+     "letra": "D",
+     "texto": "intolerância à lactose."
+    },
+    {
+     "letra": "E",
+     "texto": "hiperplasia congênita de suprarrenal."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000060790",
+   "codigo": "4000060790",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 12,
+   "temas": [
+    "Insuf iciência adrenal secundária",
+    "Diagnóstico",
+    "Insuf iciência adrenal primária"
+   ],
+   "enunciado": "Sobre os distúrbios do córtex adrenal, assinale o item INCORRETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A determinação dos níveis basais de ACTH e cortisol e o teste de estimulação rápida pelo ACTH são recomendados se for suspeitada insuficiência adrenal primária a partir da avaliação clínica."
+    },
+    {
+     "letra": "B",
+     "texto": "Níveis basais plasmáticos de ACTH acima de 250 pg por mL com níveis séricos de cortisol abaixo de 10 microgramas por dL são diagnósticos de insuficiência adrenal primária."
+    },
+    {
+     "letra": "C",
+     "texto": "Na insuficiência adrenal secundária e terciária a produção inadequada de cortisol pode ser devida a um processo destrutivo do eixo hipotálamo-hipófise, resultando numa incapacidade de secretar ACTH ou CRH. Contudo na prática, a causa mais comum de deficiência terciária é a administração farmacológica de glicocorticóides, que suprime a síntese de ACTH."
+    },
+    {
+     "letra": "D",
+     "texto": "As características clínicas da insuficiência adrenal secundária e terciária são semelhantes às da insuficiência primária, EXCETO que a hipertensão não está presente e a hipotensão é menos grave."
+    },
+    {
+     "letra": "E",
+     "texto": "A deficiência de mineralocorticóides e o excesso de A CTH não são vistos na insuficiência adrenal secundária ou terciária."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000051986",
+   "codigo": "4000051986",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 13,
+   "temas": [
+    "Hipotireoidismo",
+    "Insuf iciência adrenal primária",
+    "Diabetes Mellitus tipo 1 DM 1"
+   ],
+   "enunciado": "Paciente feminina, 45 anos, com diagnóstico de Diabetes Mellitus tipo 1 aos 5 anos de idade e Hipotireoidismo 1° aos 19 anos em tratamento adequado (sic), da entrada na emergência do nosso hospital com relato de perda de peso, adinamia, prostração e náuseas. Chamava atenção as doses baixíssimas de insulina que a paciente usava. Relatava que as doses foram sendo reduzidas gradativamente devido a hipoglicemias constantes. Ao exame físico apresentava PA: 90x50 mmHg, FC: 75 bpm, Eupneica em ar ambiente, ausculta pulmonar e cardíaca normais, abdome levemente doloroso a palpação difusamente. Exames laboratoriais com Creatinina: 0,8 mg/dl, ureia 35 mg/dl, Na 134 mEq/L, K: 4,9 mEq/L, Hemoglobina 11,2g/dl, sem outras alterações. A condição que tem que ser prontamente afastada diante deste quadro é? Qual exame seria adequado para isso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "hipotireoidismo mal controlado por omissão de dose de levotiroxina. Dosar T SH."
+    },
+    {
+     "letra": "B",
+     "texto": "anemia ferropriva, Cinética de ferro."
+    },
+    {
+     "letra": "C",
+     "texto": "síndrome de Addison, Cortisol sérico as 8 horas."
+    },
+    {
+     "letra": "D",
+     "texto": "insuficiência renal, Clearance de creatinina."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000048822",
+   "codigo": "4000048822",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 14,
+   "temas": [
+    "Crise adrenal"
+   ],
+   "enunciado": "Homem de 33 anos apresentando vômitos há 24 horas. Está incapaz de se alimentar e está sentindo fraco e muito letárgico. Faz uso de hidrocortisona 20mg 1x ao dia para tratamento de doença de Addison. T:38.1C FC:100bpm PA:105/70mmHg. Qual a conduta mais adequada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Dobrar a dose de hidrocortisona para 40mg."
+    },
+    {
+     "letra": "B",
+     "texto": "Aplicar hidrocortisona 100mg IV."
+    },
+    {
+     "letra": "C",
+     "texto": "Diminuir hidrocortisona para 10mg."
+    },
+    {
+     "letra": "D",
+     "texto": "Interromper esteroides imediatamente."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000041441",
+   "codigo": "4000041441",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 15,
+   "temas": [
+    "Crise adrenal"
+   ],
+   "enunciado": "No choque persistente com instabilidade hemodinâmica onde se suspeita de insuficiência adrenal, usa-se empiricamente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Dexametasona"
+    },
+    {
+     "letra": "B",
+     "texto": "Betametasona"
+    },
+    {
+     "letra": "C",
+     "texto": "Metilprecenesolona"
+    },
+    {
+     "letra": "D",
+     "texto": "Prednisona"
+    },
+    {
+     "letra": "E",
+     "texto": "Hidrocortisona"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000041088",
+   "codigo": "4000041088",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 16,
+   "temas": [
+    "Manif estações clínicas"
+   ],
+   "enunciado": "A cliente de 31 anos refere perda acentuada do apetite acompanhada da incapacidade de digerir os alimentos e perda de peso. Relata náuseas, vômitos, dor abdominal e diarreia. Ao exame físico há presença de distensão abdominal e distúrbio hidroeletrolítico. O diagnóstico mais provável neste caso, é respectivamente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Insuficiência adrenal de origem hipotalâmica."
+    },
+    {
+     "letra": "B",
+     "texto": "Insuficiência cardíaca congestiva."
+    },
+    {
+     "letra": "C",
+     "texto": "Consumo crônico de álcool e tabaco."
+    },
+    {
+     "letra": "D",
+     "texto": "Anorexia nervosa."
+    },
+    {
+     "letra": "E",
+     "texto": "Doença pulmonar obstrutiva crônica."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000058693",
+   "codigo": "4000058693",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 17,
+   "temas": [
+    "Insuf iciência adrenal primária"
+   ],
+   "enunciado": "Paciente com diagnóstico de Doença de Addison há 2 anos, em uso de prednisona 5 mg 1 cp de manhã e 1 cp de tarde, refere episódios frequentes de tonturas e mal-estar e ganho de peso de 6 Kg nos últimos meses. No exame físico apresenta adiposidade central com circunferência abdominal de 104 cm, mas apresenta hipotensão postural com queda de 20 mm Hg na Pressão arterial sistólica ao car de pé. Exames laboratoriais:Cortisol: 1,6mg/dl (VR 5-26), Sódio: 136 mEq/L (135 a 145), Potássio: 5,2 mEq/L (3,5 a 5). Qual seria a proposta de tratamento?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Aumentar a dose de prednisona"
+    },
+    {
+     "letra": "B",
+     "texto": "Reduzir a dose de prednisona"
+    },
+    {
+     "letra": "C",
+     "texto": "Acrescentar fludrocortisona"
+    },
+    {
+     "letra": "D",
+     "texto": "Trocar prednisona para dexametasona"
+    },
+    {
+     "letra": "E",
+     "texto": "Acrescentar alidosterona."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047655",
+   "codigo": "4000047655",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 18,
+   "temas": [
+    "Manif estações clínicas"
+   ],
+   "enunciado": "São características clínicas que podem ser encontradas na insuficiência da suprarrenal:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Aumento do peso, fraqueza e pigmentação da pele."
+    },
+    {
+     "letra": "B",
+     "texto": "Hipotensão, intolerância ao sal e hipomania."
+    },
+    {
+     "letra": "C",
+     "texto": "Diarreia, intolerância ao sal e aumento do peso."
+    },
+    {
+     "letra": "D",
+     "texto": "Pigmentação da pele, hipertensão e fraqueza."
+    },
+    {
+     "letra": "E",
+     "texto": "Perda de peso, prisão de ventre e pigmentação das membranas mucosas."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000027210",
+   "codigo": "4000027210",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 19,
+   "temas": [
+    "Insuf iciência adrenal primária"
+   ],
+   "enunciado": "Mulher, 27 anos, refere anorexia, prostração e emagrecimento de 8kg em 1 ano. Há 8 meses apresenta náuseas, vômitos, tonturas posturais e dor abdominal. Amenorreica há 6 meses. Ao exame, está emagrecida e com nítida hipotensão postural. Há hiperpigmentação generalizada e redução de pelos axilares e pubianos. Que conjunto de manifestações laboratoriais espera-se encontrar nesta paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hiponatremia – hipocalemia – hiperglicemia"
+    },
+    {
+     "letra": "B",
+     "texto": "Hiponatremia – hipercalemia – hiperglicemia"
+    },
+    {
+     "letra": "C",
+     "texto": "Hiponatremia – hipercalemia – hipoglicemia"
+    },
+    {
+     "letra": "D",
+     "texto": "Hipernatermia – hipocalcemia – anemia normo-normo"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000011170",
+   "codigo": "4000011170",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 20,
+   "temas": [
+    "Hipocortisolismo"
+   ],
+   "enunciado": "As glândulas adrenais foram primeiramente descritas pelo anatomista italiano Bartolomeo Eustachi em 1563. Thomas Addison descreveu as características clínicas da insu ciência adrenal primária em 1855, somente quase um século mais tarde os hormônios adrenais foram totalmente isolados e caracterizados. Sobre a Insu ciência Adrenal, marque a opção CORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A Insuficiência Adrenal Primária se apresenta com fraqueza, fadiga, anorexia, náuseas ou vômitos, perda de peso, hiperpigmentação, hipotensão, hipernatremia e hipocalemia."
+    },
+    {
+     "letra": "B",
+     "texto": "A Insuficiência Adrenal Secundária é um distúrbio relativamente comum, resultante da deficiência do ACTH e muitas vezes causada pela retirada de esteroides farmacológicos. Outras causas menos comuns incluem o pan- hipopituitarismo secundário à lesão neoplásica, doenças granulomatosas e hemorragia ou infarto hipofisário."
+    },
+    {
+     "letra": "C",
+     "texto": "A Insuficiência Adrenal Aguda, ou crise adrenal, é uma condição potencialmente fatal, os achados clínicos incluem dor abdominal, choque, febre, náuseas, hipoglicemia. A Síndrome de Waterhouse-Friederichsen é caracterizada pelo infarto adrenal em casos de hemorragia puerperal grave."
+    },
+    {
+     "letra": "D",
+     "texto": "O diagnóstico se baseia na concentração de cortisol sérico matinal maior que 15 µg/dL ou concentração salivar de cortisol maior que 5,8 µg/dL."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000126532",
+   "codigo": "4000126532",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 21,
+   "temas": [
+    "Complicações",
+    "Meningites bacterianas",
+    "Crise adrenal"
+   ],
+   "enunciado": "A falência aguda das suprarrenais, classicamente conhecida como síndrome de Waterhouse-Friderichsen, é observada na",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Meningococcemia."
+    },
+    {
+     "letra": "B",
+     "texto": "Tuberculose miliar."
+    },
+    {
+     "letra": "C",
+     "texto": "Paracoccidioidomicose disseminada."
+    },
+    {
+     "letra": "D",
+     "texto": "Endocardite bacteriana subaguda."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000113098",
+   "codigo": "4000113098",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 22,
+   "temas": [
+    "Crise adrenal"
+   ],
+   "enunciado": "Adolescente, 16 anos, sexo feminino, com diagnóstico de Lúpus Eritematoso Sistêmico (LES), em uso crônico de prednisona de 40 mg/dia, hidroxicloroquina de 400 mg/dia e ciclofosfamida mensal devido a acometimento de sistema nervoso central (vasculite). Há três dias, após brigar com o namorado, parou de alimentar-se e de usar medicações. Vem trazida ao pronto-socorro por familiares, pois está sonolenta e confusa há 3 horas. Mãe não sabe referir sobre febre, tosse ou alterações urinárias. Ao exame físico, regular estado geral, descorada, hidratada, PA = 60 x 40 mmHg, murmúrio vesicular presente, sem ruídos adventícios, ritmo cardíaco regular, frequência cardíaca de 110 bpm, abdome sem alterações, sonolenta, confusa. A provável causa do rebaixamento de nível de consciência da paciente e a conduta são, respectivamente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "sepse causada por infecção oportunista; culturas e antibioticoterapia de largo espectro."
+    },
+    {
+     "letra": "B",
+     "texto": "hipoglicemia; glicose endovenosa e reintrodução de corticoesteroide."
+    },
+    {
+     "letra": "C",
+     "texto": "eativação de vasculite de SNC devido a tratamento irregular; pulsoterapia com metilprednisolona."
+    },
+    {
+     "letra": "D",
+     "texto": "síndrome conversiva; benzodiazepínico e avaliação do psiquiatra."
+    },
+    {
+     "letra": "E",
+     "texto": "acidente vascular encefálico devido à frequente associação de LES e síndrome antifosfolípide; trombólise."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000074494",
+   "codigo": "4000074494",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 23,
+   "temas": [
+    "Crise adrenal",
+    "Manif estações clínicas"
+   ],
+   "enunciado": "Mulher de 64 anos procura o consultório médico por queixa de perda de peso recente, de 8 kg em 30 dias, prostração, náuseas e vômitos. Apresenta PA de 80x60 mmHg, frequência cardíaca de 120 bpm. Nos exames admissionais, Na = 125 mg/dL, K = 6,3 mg/dL, creatinina = 0,7 mg/dL. Qual é o tratamento para a paciente em questão?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Reposição volêmica e hidrocortisona."
+    },
+    {
+     "letra": "B",
+     "texto": "Instalação de marca-passo."
+    },
+    {
+     "letra": "C",
+     "texto": "Ringer com lactato e furosemida."
+    },
+    {
+     "letra": "D",
+     "texto": "Betabloqueador endovenoso."
+    },
+    {
+     "letra": "E",
+     "texto": "Soro fisiológico hipertônico em bolus."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000057743",
+   "codigo": "4000057743",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 24,
+   "temas": [
+    "Hipocortisolismo",
+    "Etiologia",
+    "Crise adrenal"
+   ],
+   "enunciado": "Sobre Insuficiência Adrenal (IA) é correto afirmar que: I. a IA aguda é uma emergência clínica cujo tratamento consiste em corrigir distúrbios hidroeletrolíticos, realizar expansão volêmica e fazer a reposição endovenosa de glicocorticoide. II. a suspensão abrupta de prednisona após uso prolongado e doses elevadas é causa de IA devido ao aumento na produção de ACTH pela hipófise. III. indivíduos com IA crônica têm risco aumentado para Crise Adrenal Aguda quando expostos a infecções graves e cirurgias de grande porte. IV. Hiponatremia e Hipocalemia associadas a Cortisol basal abaixo de 3 ug/dL são sugestivos de IA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I e II são verdadeiras."
+    },
+    {
+     "letra": "B",
+     "texto": "II e III são verdadeiras."
+    },
+    {
+     "letra": "C",
+     "texto": "I e III são verdadeiras."
+    },
+    {
+     "letra": "D",
+     "texto": "III e IV são verdadeiras."
+    },
+    {
+     "letra": "E",
+     "texto": "I e IV são verdadeiras."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000055395",
+   "codigo": "4000055395",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 25,
+   "temas": [
+    "Insuf iciência adrenal primária",
+    "Manif estações clínicas"
+   ],
+   "enunciado": "Mulher, 32 anos, relata história de oito meses de fraqueza progressiva e astenia além de uma semana de febre, náuseas e vômitos. Deu entrada no PS com queda do estado geral, febril, emagrecida e com hiperpigmentação de pele e mucosas. PA: 100/60 mmHg, P: 98 bpm (supina), PA: 80/40 mmHg, PA: 110 bpm (ortostática), IMC: 17 Kg/m2, Laboratório: Hemograma com leucocitose, Glicemia: 55 mg/dl, Na: 117 mEq/l, K: 7,2 mEq/l, Uréia: 106 mg/dl, Creatinina: 2,9 mg/dl, Cálcio iônico: 5,5 mmol/l, pH: 7,2, base excesso (BE): - 6,3. Com relação a este caso, pode-se afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A desidratação e os distúrbios hidroeletrolíticos são decorrentes dos vômitos."
+    },
+    {
+     "letra": "B",
+     "texto": "A presença de febre com neutrofilia exclui o diagnóstico de insuficiência adrenal aguda."
+    },
+    {
+     "letra": "C",
+     "texto": "A presença de hipercalemia e de creatinina elevada sugerem o diagnóstico de insuficiência renal aguda."
+    },
+    {
+     "letra": "D",
+     "texto": "A administração endovenosa de soro fisiológico e de hidrocortisona está indicada."
+    },
+    {
+     "letra": "E",
+     "texto": "A presença de cortisol sérico diminuído, independentemente do nível de A CTH confirma o diagnóstico de insuficiência adrenal primária."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000116156",
+   "codigo": "4000116156",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 26,
+   "temas": [
+    "Insuf iciência adrenal primária"
+   ],
+   "enunciado": "Que dado semiótico pode auxiliar na diferenciação de insuficiência adrenal primária da secundária?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Pressão arterial."
+    },
+    {
+     "letra": "B",
+     "texto": "Coloração da urina."
+    },
+    {
+     "letra": "C",
+     "texto": "Coloração da pele."
+    },
+    {
+     "letra": "D",
+     "texto": "Presença ou não de dor abdominal."
+    },
+    {
+     "letra": "E",
+     "texto": "Caracteres sexuais secundários."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000097658",
+   "codigo": "4000097658",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 27,
+   "temas": [
+    "Manif estações clínicas"
+   ],
+   "enunciado": "Homem, 57 anos, negro, há 7 meses refere mal-estar, cansaço fácil, fadiga, náuseas, diminuição do apetite e emagrecimento de 5 kg no período. Está em tratamento regular para hipertensão arterial sistêmica com betabloqueador e inibidor de enzima conversora de angiotensina. É diabético em uso de insulina há 6 anos. Procurou o pronto-socorro por duas vezes, pois sua pressão estava muito baixa e desmaiou, sendo orientado a suspender o inibidor de enzima conversora de angiotensina. Exame físico: PA sentado = 90 x 62 mmHg; PA em pé = 70 x 58 mmHg; FC = 74 bpm; oximetria de pulso = 96% (em ar ambiente); corado; hidratado. Pulmões: murmúrio vesicular presente sem ruídos adventícios. Coração: bulhas rítmicas normofonéticas sem sopros. Membros inferiores: ausência de edema. Exames laboratoriais: Na sérico = 121 mEq/L; K sérico = 5,4 mEq/L; glicemia = 67 mg/dl; creatinina sérica = 1,2 mg/dl e ureia sérica = 42 mg/dl. O diagnóstico é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Insuficiência renal crônica."
+    },
+    {
+     "letra": "B",
+     "texto": "Insuficiência suprarrenal primária crônica."
+    },
+    {
+     "letra": "C",
+     "texto": "Hiperaldosteronismo primário."
+    },
+    {
+     "letra": "D",
+     "texto": "Hipercortisolismo primário."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000066400",
+   "codigo": "4000066400",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 28,
+   "temas": [
+    "Crise adrenal"
+   ],
+   "enunciado": "Um menino de seis anos de idade tem diagnóstico de abscesso periamigdaliano rmado há cinco dias, quando iniciou o uso de clavulanato de amoxicilina, sendo submetido à drenagem cirúrgica do abscesso periamigdaliano há 72 horas. Desde esse dia, houve regressão da febre e melhora da aceitação da alimentação até 24 horas atrás, quando surgiram astenia intensa e hipotensão postural. O exame físico mostra: PA = 80 x 50 mmHg; FC = 128 bpm; FR = 28 irpm; sem tiragem; SatO2 = 98% e acentuada adinamia. Na anamnese são relatados episódios recorrentes de taquidispneia e sibilância, tendo sido diagnosticada asma desde os três anos de idade, e o último episódio de crise ocorreu há 45 dias, exigindo hospitalização por cinco dias, durante os quais foi medicado com metilprednisolona IV e salbutamol inalatório. Recebeu alta hospitalar com prescrição de prednisolona oral e salbutamol inalatório por mais cinco dias. A mãe do paciente refere que, por conta própria, manteve o uso de prednisolona por via oral até o início do quadro atual. O nível plasmático de cortisol, após a administração intravenosa de 0,5 mcg de ACTH, foi de 8 mcg/dl. Nesse caso, o tratamento medicamentoso imediato deve ser:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Fludrocortisona oral."
+    },
+    {
+     "letra": "B",
+     "texto": "Vancomicina intravenosa."
+    },
+    {
+     "letra": "C",
+     "texto": "Hidrocortisona intravenosa."
+    },
+    {
+     "letra": "D",
+     "texto": "Hidrocortisona intravenosa e fludrocortisona oral."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000058407",
+   "codigo": "4000058407",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 29,
+   "temas": [
+    "Insuf iciência adrenal primária",
+    "Manif estações clínicas"
+   ],
+   "enunciado": "Paciente masculino de 56 anos chega ao pronto atendimento com queixa de fadiga, astenia, tontura ao levantar e perda ponderal não aferida com duração de algumas semanas. No exame físico, encontra-se corado, desidratado, eupneico, frequência cardíaca: 108 bpm, pressão arterial deitado: 110 x 70 mmHg e sentado: 90 x 60 mmHg, auscultas cardíaca e pulmonar dentro da normalidade. Exames laboratoriais mostram; sódio sérico: 132 mEq/L, potássio sérico: 5,9 mEq/L, creatinina: 1,8 mg/dl, ureia 96 mg/dl, hemograma dentro da normalidade. Quanto ao caso, assinale a alternativa CORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Paciente com quadro de insuficiência adrenal. Iniciar reposição volêmica e hidrocortisona."
+    },
+    {
+     "letra": "B",
+     "texto": "Paciente com quadro de hiponatremia hipovolêmica sintomática. Deve-se iniciar correção com solução salina hipertônica a 3%."
+    },
+    {
+     "letra": "C",
+     "texto": "Paciente com quadro de choque hipovolêmico. Iniciar reposição volêmica vigorosa e antibiótico de amplo espectro na primeira hora."
+    },
+    {
+     "letra": "D",
+     "texto": "Paciente com quadro de insuficiência adrenal. Iniciar reposição volêmica, hidrocortisona e fludrocortisona."
+    },
+    {
+     "letra": "E",
+     "texto": "Paciente com quadro de insuficiência adrenal. Solicitar coleta de cortisol imediata antes de iniciar as medidas clínicas para compensação."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000043035",
+   "codigo": "4000043035",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 30,
+   "temas": [
+    "Insuf iciência adrenal primária",
+    "Crise adrenal"
+   ],
+   "enunciado": "Sobre a insuficiência adrenal assinale e afirmativa errada:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "As principais causas de insuficiência adrenal primária (doença de Addison) são adrenalite autoimune, e a tuberculose."
+    },
+    {
+     "letra": "B",
+     "texto": "Hipernatremia e hipocalemia são os achados laboratoriais clássicos da insuficiência adrenal."
+    },
+    {
+     "letra": "C",
+     "texto": "Além da tuberculose, outras doenças infecciosas como infecções fúngicas, infecções por citomegalovírus e infecção pelo HIV."
+    },
+    {
+     "letra": "D",
+     "texto": "Os principais fatores que podem precipitar uma insuficiência Adrenal aguda são anestesia, hemorragias, traumas, ingesta excessiva de etanol, infecções, grandes queimaduras, cirurgias, desidratações hipoglicemia ,febre etc."
+    },
+    {
+     "letra": "E",
+     "texto": "A insuficiência adrenal pode estar associada a outras doenças endócrinas imunológicas como síndrome poliglandular tipo I ( insuficiência adrenal, hipoparatireoidismo), síndrome poliglandular tipo II (insuficiência adrenal, hipotireoidismo auto imune), e síndrome poliglandular tipo3 (insuficiência adrenal e diabetes tipo I)."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000030695",
+   "codigo": "4000030695",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 31,
+   "temas": [
+    "Insuf iciência adrenal primária"
+   ],
+   "enunciado": "Mulher de 40 anos comparece para avaliação de perda de peso há 1 ano. Ela refere também astenia importante, anorexia, náuseas e vômitos. Ela fez tratamento para tuberculose há 03 anos. Durante o exame físico, você observa hiperpigmentação de joelhos, cotovelos, mamilos e pregas palmares. Há também rarefação de pelos axilares e pubianos. A pressão arterial é 90 x 60 mmHg. Exames laboratoriais mostram eosino lia, sódio sérico de 128 mEq/L e potássio 6,0 mEq/L. A dosagem de qual hormônio é mais importante nesse caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cortisol."
+    },
+    {
+     "letra": "B",
+     "texto": "Glucagon."
+    },
+    {
+     "letra": "C",
+     "texto": "Tireoestimulante (TSH)."
+    },
+    {
+     "letra": "D",
+     "texto": "Foliculoestimulante (FSH)."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000001849",
+   "codigo": "4000001849",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 32,
+   "temas": [
+    "Hipocortisolismo"
+   ],
+   "enunciado": "Paciente de 21 anos, sexo feminino, foi admitida em serviço de clínica médica com astenia, anorexia, emagrecimento de cerca de 5 kg, hipotensão, dores abdominais e hiperpigmentação, com 2 meses de evolução. Nos antecedentes pessoais não havia história de tuberculose, trauma ou cirurgia. Negava hábitos alcoólicos, drogas ou qualquer outra medicação. Os antecedentes familiares eram irrelevantes. Na admissão, a doente apresentava-se deprimida e emagrecida com hiperpigmentação na face, linhas interdigitais da palma das mãos e nos lábios. A pressão arterial era de 80 x 44 mmHg, o pulso era de 110 bpm e não tinha febre. A ausculta cardíaca e pulmonar eram normais. A palpação abdominal era normal, o baço e o fígado não eram palpáveis. Os exames laboratoriais revelaram: hemoglobina = 12,8 g/dl; leucócitos = 7,4 x 10/L com 42% de linfócitos e 49% de neutró los; 5% de eosinó los; 4% de monócitos e 0% de basó los; plaquetas = 264 x 10/L. Velocidade de sedimentação na 1º hora: 11 mm (Westergreen). Proteína C-reativa: negativa; sódio = 135 mmol/L; potássio 6,8 mmol/L; cálcio = 10.1 mg/dl; magnésio = 1,81 mg/dl; fósforo = 6,66 mg/dl; glicose = 80 mg/dl, ureia = 22.1 mg/dl; creatinina = 0.68 mg/dl; AST = 60 U/L; ALT = 47 U/L; bilirrubina total = 0.7 mg/dl. O estudo da coagulação do sangue era normal. ACTH = 2302.0 pg/ml (normal = 7.0-51); cortisol (manhã e tarde) < 0.2 mg/dl (normal = 4.3-22.4); aldosterona: indetectável (normal = 10-160 pg/ml); renina = 969.0 pg/ml (normal = 3.6-20.1 pg/ml). Baseado na história clínica acima, qual o diagnóstico MAIS PROVÁVEL da paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Síndrome de Cushing."
+    },
+    {
+     "letra": "B",
+     "texto": "Feocromocitoma."
+    },
+    {
+     "letra": "C",
+     "texto": "Doença de Addison."
+    },
+    {
+     "letra": "D",
+     "texto": "Tireoidite de Hashimoto."
+    },
+    {
+     "letra": "E",
+     "texto": "Síndrome de Sheehan."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120413",
+   "codigo": "4000120413",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 33,
+   "temas": [
+    "Diagnóstico e investigação adicional",
+    "Insuf iciência adrenal primária",
+    "Apresentação clínica"
+   ],
+   "enunciado": "Analise as afirmativas abaixo. I. O hipotireoidismo primário é caracterizado por uma supressão dos níveis séricos de TSH. II. A hiperpigmentação da pele é um achado típico da insuficiência adrenal secundária. III. No acompanhamento clínico de um paciente com hipotireoidismo secundário, o nível sérico de TSH não tem valor para guiar a dose de hormônio tireoideo. IV. A hipersecreção do hormônio do crescimento pode elevar a glicemia até níveis compatíveis com diabetes mellitus. Assinale a alternativa CORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Todas as afirmativas são corretas."
+    },
+    {
+     "letra": "B",
+     "texto": "Somente as afirmativas I e II são corretas."
+    },
+    {
+     "letra": "C",
+     "texto": "Somente a afirmativa III é correta."
+    },
+    {
+     "letra": "D",
+     "texto": "Somente a afirmativa II é correta."
+    },
+    {
+     "letra": "E",
+     "texto": "Somente as afirmativas III e IV são corretas."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000099840",
+   "codigo": "4000099840",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 34,
+   "temas": [
+    "Hipotireoidismo",
+    "Insuf iciência adrenal primária"
+   ],
+   "enunciado": "Uma mulher de 37 anos procura atendimento médico referindo perda progressiva de peso (± 8 kg) nos últimos 6 meses, astenia, fadiga, tosse seca e escurecimento progressivo da pele, associada a manchas hipocrômicas em tórax e membros. Exame físico: PA 90/60 mmHg, FC 90 bpm, FR 12 ipm, IMC 20,2 kg/m². Bócio difuso com cerca de 40 gramas. Vitiligo em braços e região superior do tórax e dorso. Hiperpigmentação das linhas das palmas das mãos e interdigitais, e de mucosas. Dosagens laboratoriais: TSH: 7,5 mU/L (0,4–4,5), T4 livre: 0,7 ng/dl (0,8–1,9), Anticorpos antimicrossomal positivo 1:6400. Cortisol: 2 mcg/dl. Em relação a esse quadro, assinale a alternativa INCORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A causa da doença dessa paciente não é infecciosa."
+    },
+    {
+     "letra": "B",
+     "texto": "Hiponatremia, hipercalcemia e hipercalemia podem estar presentes nessa paciente."
+    },
+    {
+     "letra": "C",
+     "texto": "Essa paciente tem hipotireoidismo por Tireoidite de Hashimoto."
+    },
+    {
+     "letra": "D",
+     "texto": "Os níveis séricos de ACTH são bastante diminuídos nesses pacientes."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000092985",
+   "codigo": "4000092985",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 35,
+   "temas": [
+    "Insuf iciência adrenal primária"
+   ],
+   "enunciado": "Uma mulher com 28 anos tem insu ciência adrenal e bronzeado muito distinto, embora raramente saia de casa. Qual das seguintes é a etiologia mais provável?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Destruição autoimune da adrenal."
+    },
+    {
+     "letra": "B",
+     "texto": "Tumor cerebral."
+    },
+    {
+     "letra": "C",
+     "texto": "Uso de esteroides em longo prazo."
+    },
+    {
+     "letra": "D",
+     "texto": "Síndrome de Sheehan (insuficiência hipofisária)."
+    },
+    {
+     "letra": "E",
+     "texto": "Abscesso cerebral."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000062061",
+   "codigo": "4000062061",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 36,
+   "temas": [
+    "Insuf iciência adrenal primária",
+    "Manif estações clínicas"
+   ],
+   "enunciado": "Mulher, 32 anos, relata história de 05 meses de fraqueza progressiva e astenia, além de 01 semana de febre, náuseas e vômitos. Deu entrada no PS com queda do estado geral, febril, emagrecida e com hiperpigmentação da pele e mucosas. PA: 100/60 mmHg (supina), P: 98 bpm (supina), PA: 80/40 mmHg (ortostática), P: 110 bpm (ortostática), Índice de massa corpórea (IMC): 17 kg/m². Laboratorial: Hemograma com leucocitose, glicemia: 55 mg/dl, Na+: 117 mEq/L, K+: 7.2 mEq/L, ureia: 106 mg/dl, creatinina: 2,9 mg/dl, Cálcio iônico: 5.5 mg/dl, pH: 7,2, Base Excess (BE) - 6,3. Com relação a esse caso pode-se afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a desidratação e os distúrbios hidroeletrolíticos são decorrentes dos vômitos."
+    },
+    {
+     "letra": "B",
+     "texto": "a presença de febre com neutrofilia exclui o diagnóstico de insufiênca adrenal aguda."
+    },
+    {
+     "letra": "C",
+     "texto": "a presença de hipercalemia e de creatinina elevada sugerem diagnóstico de insuficiência renal aguda."
+    },
+    {
+     "letra": "D",
+     "texto": "a administração endovenosa de soro fisiológico e de hidrocortisona está indicada."
+    },
+    {
+     "letra": "E",
+     "texto": "a presença de cortisol sérico diminuído, independente do nível de A CTH confirma o diagnóstico de insuficiência adrenal primária."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000060499",
+   "codigo": "4000060499",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 37,
+   "temas": [
+    "Insuf iciência adrenal primária",
+    "Manif estações clínicas"
+   ],
+   "enunciado": "A insuficiência adrenal costuma ser negligenciada e por isso é uma doença subdiagnosticada. Com relação a este assunto pode-se afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A Insuficiência Adrenal associada à tireoidite crônica linfocítica, falência ovariana precoce, DM 1 ou hiperparatireoidismo primário caracteriza a Síndrome Poliglandular Autoimune tipo II."
+    },
+    {
+     "letra": "B",
+     "texto": "Nas fases iniciais de destruição da adrenal pelo processo autoimune pode não haver manifestações laboratoriais, mas em estágios mais avançados de hipernatremia e hipocalemia são comuns de ocorrerem."
+    },
+    {
+     "letra": "C",
+     "texto": "Quando a Insuficiência Adrenal é causada por processo autoimune que determina destruição gradual da glândula, ela se caracteriza por sintomas insidiosos de fadiga, fraqueza, anorexia, náuseas e vômitos."
+    },
+    {
+     "letra": "D",
+     "texto": "Nos casos de Insuficiência Adrenal secundária à deficiência de A CTH (Hormônio Adrenocorticotrófico), além da reposição de glicocorticoides é imprescindível a reposição de mineralocorticoides."
+    },
+    {
+     "letra": "E",
+     "texto": "No manejo da insuficiência adrenal, a reposição crônica com glicocorticoides e minerolocorticoides determina, respectivamente, complicações frequentes e crises de hipercalemia e hipertensão."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000012702",
+   "codigo": "4000012702",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 38,
+   "temas": [
+    "Hipocortisolismo"
+   ],
+   "enunciado": "Assinale a alternativa que apresenta uma manifestação da insuficiência adrenal aguda.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Taquicardia."
+    },
+    {
+     "letra": "B",
+     "texto": "Hipotermia."
+    },
+    {
+     "letra": "C",
+     "texto": "Hipertensão."
+    },
+    {
+     "letra": "D",
+     "texto": "Hipopotassemia."
+    },
+    {
+     "letra": "E",
+     "texto": "Hipernatremia."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000100501",
+   "codigo": "4000100501",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 39,
+   "temas": [
+    "Insuf iciência adrenal secundária",
+    "Glicocorticoides"
+   ],
+   "enunciado": "Medicamentos utilizados no tratamento da doenças reumáticas Paciente submetida à colecistectomia videolaparoscópica por colecistite, sem intercorrências, com uso por 24h no pré- operatório de antibióticos e sintomáticos, evoluiu após 24h com astenia, dor abdominal, hiporexia e síncope. Portadora de artrite reumatoide fazia uso de longa data de metotrexate 1 mg/semanal, prednisona 7,5 mg/dia, cálcio, vitamina D e ácido fólico. Sobre o quadro apresentado no pós-operatório é incorreto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "No hemograma deve ser observado anemia macrocítica, linfopenia e eosinofilia."
+    },
+    {
+     "letra": "B",
+     "texto": "Estresse cirúrgico pode precipitar a crise."
+    },
+    {
+     "letra": "C",
+     "texto": "Queixas gastrintestinais são frequentes."
+    },
+    {
+     "letra": "D",
+     "texto": "Hipotensão arterial com acentuação postural e astenia são frequentes, agravadas pelo estresse."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000050431",
+   "codigo": "4000050431",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 40,
+   "temas": [
+    "Insuf iciência adrenal secundária",
+    "Crise adrenal"
+   ],
+   "enunciado": "A inibição do eixo hipotálamo-hipófise suprarrenal secundária ao uso de corticosteroides:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "é aumentada pelo estresse cirúrgico;"
+    },
+    {
+     "letra": "B",
+     "texto": "não ocorre quando o corticoide é usado por via peridural;"
+    },
+    {
+     "letra": "C",
+     "texto": "é mais provável quando o corticoide é usado pela manhã;"
+    },
+    {
+     "letra": "D",
+     "texto": "pode provocar colapso vascular durante o ato cirúrgico;"
+    },
+    {
+     "letra": "E",
+     "texto": "pode ser controlada com o uso de desmopressina."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000032364",
+   "codigo": "4000032364",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 41,
+   "temas": [
+    "Insuf iciência adrenal primária"
+   ],
+   "enunciado": "Paciente, 24 anos, sexo feminino, admitida na enfermaria de clínica médica com queixas de astenia, anorexia, emagrecimento de 6 kg, hipotensão, dores abdominais e hiperpigmentação cutânea, com 2 meses de evolução. Não apresentava antecedentes de etilismo e tuberculose. Na admissão, apresentava hiperpigmentação na face, linhas interdigitais da palma das mãos e lábios. PA = 80 x 44 mmHg; FC = 110 bpm; afebril. Exames laboratoriais: Hb = 12 g/dl; leucócitos = 7.400 mm³; plaquetas = 26.800 mm³; VHS = 11; PCR = negativo; Na = 128 mmol/L; K = 6,8 mmol/L; ureia = 34 mg/dl; creatina = 1,9 mg/dl. Com relação ao caso clínico é correto afirmar, EXCETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "As características clínicas e laboratoriais são compatíveis com insuficiência adrenal primária."
+    },
+    {
+     "letra": "B",
+     "texto": "Os níveis séricos de ACTH estarão elevados."
+    },
+    {
+     "letra": "C",
+     "texto": "A hiperpigmentação cutânea e em mucosas não apresenta relação com o A CTH."
+    },
+    {
+     "letra": "D",
+     "texto": "Quando associado a outras doenças autoimunes caracteriza síndrome poliglandular e a principal causa é adrenalite autoimune."
+    },
+    {
+     "letra": "E",
+     "texto": "O teste de estimulação adrenal com A CTH semissintético é usado como método diagnóstico."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119760",
+   "codigo": "4000119760",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 42,
+   "temas": [
+    "Insuf iciência adrenal primária",
+    "Crise adrenal",
+    "Paracoccidioidomicose"
+   ],
+   "enunciado": "Homem, 45 anos de idade, lavrador, dá entrada em unidade de emergência com quadro de náuseas, vômitos, dor abdominal e diarreia há 6 horas. Há 2 meses, tem perda de peso e astenia, odinofagia, tosse com expectoração, cansaço aos esforços, lesões orais e cutâneas. Ao exame físico, encontra-se em regular estado geral, desidratado +/4, descorado +/4, dispneico, febril, acianótico, anictérico. Orofaringe: hiperemia intensa. Pele: hiperpigmentação de dobras e úlcera que atingia amplamente a região supralabial e se estendia à mucosa nasal, destruindo parcialmente a columela. Adenomegalia em cadeias cervicais. Pulso = 96 bpm; PA decúbito = 90 x 60 mmHg; PA ortostase = 60 x 40 mmHg. Ausculta pulmonar: estertores nos em ambos os pulmões, abdome escavado, difusamente doloroso à palpação, sem dor à descompressão brusca. Exames subsidiários: glicemia: 75 mg/dl; creatinina: 1,1 mg/dl; ureia: 34 mg/dl; sódio: 130 mEq/L; potássio: 6,4 mEq/L; Hb: 10 g/dl; Ht: 28%; GB: 13.000; neutró los: 65%; linfócitos: 24%; eosinó los: 8%. Detalhes da região supralabial e aberturas das fossas nasais e radiografia de tórax: Para o quadro agudo, a conduta inicial que deve ser associada à hidratação endovenosa é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Itraconazol."
+    },
+    {
+     "letra": "B",
+     "texto": "Ceftriaxona."
+    },
+    {
+     "letra": "C",
+     "texto": "Hidrocortisona."
+    },
+    {
+     "letra": "D",
+     "texto": "Pericardiocentese."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q042-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000063346",
+   "codigo": "4000063346",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 43,
+   "temas": [
+    "Insuf iciência adrenal secundária",
+    "Manif estações clínicas"
+   ],
+   "enunciado": "A insuficiência adrenal secundária pode resultar nas seguintes alterações clínicas, exceto:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Eosinofilia."
+    },
+    {
+     "letra": "B",
+     "texto": "Hipotensão."
+    },
+    {
+     "letra": "C",
+     "texto": "Diminuição do libido."
+    },
+    {
+     "letra": "D",
+     "texto": "Hipoglicemia."
+    },
+    {
+     "letra": "E",
+     "texto": "Hipercalemia."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000014353",
+   "codigo": "4000014353",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 44,
+   "temas": [
+    "Hipocortisolismo",
+    "Diagnóstico",
+    "Apresentação clínica"
+   ],
+   "enunciado": "Mulher de 38 anos comparece para consulta com quadro de redução da libido, atro a mamária, ganho de peso, fala arrastada e astenia intensa. Exame físico: mamas atró cas, anasarca (+/4+) e redução da pili cação genital. Uma avaliação laboratorial mostra T4 livre baixo; TSH no limite inferior; cortisol basal = 05 mcg/dl após estimulação com ACTH (valor de referência > 18 mcg/dl); testosterona baixa e FSH e LH nos limites inferiores. Qual o exame mais provavelmente revelará a causa da sua doença?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tomografia de abdome."
+    },
+    {
+     "letra": "B",
+     "texto": "Cintilografia de tireoide."
+    },
+    {
+     "letra": "C",
+     "texto": "Teste combinado da pituitária anterior."
+    },
+    {
+     "letra": "D",
+     "texto": "Ressonância nuclear magnética de encéfalo."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000082932",
+   "codigo": "4000082932",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 45,
+   "temas": [
+    "Crise adrenal"
+   ],
+   "enunciado": "Sobre a insuficiência adrenal aguda, podemos afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O uso crônico de corticoide é a causa mais comum."
+    },
+    {
+     "letra": "B",
+     "texto": "Pode ocorrer em até 40% dos pacientes com choque séptico."
+    },
+    {
+     "letra": "C",
+     "texto": "Pode ser causada por medicamentos como o Cetoconazol e o Fenobarbital."
+    },
+    {
+     "letra": "D",
+     "texto": "Perda de peso, letargia, astenia e dor abdominal podem estar presentes."
+    },
+    {
+     "letra": "E",
+     "texto": "Todas as alternativas estão corretas."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000059842",
+   "codigo": "4000059842",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 46,
+   "temas": [
+    "Insuf iciência adrenal primária",
+    "Manif estações clínicas"
+   ],
+   "enunciado": "Mulher, 30 anos, apresentando fraqueza , anorexia, náuseas, vômitos, perda ponderal, pigmentação da pele e hipotensão; com história de tratamento recente para tuberculose e infecção por citomegalovírus. Os achados laboratoriais mostram: anemia, ACTH normal, aldosterona baixa, hiponatremia e hiperpotassemia. A hipótese diagnóstica provável é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Doença de Addison."
+    },
+    {
+     "letra": "B",
+     "texto": "Insuficiência adrenocortical secundária."
+    },
+    {
+     "letra": "C",
+     "texto": "Hipoaldosteronismo primário."
+    },
+    {
+     "letra": "D",
+     "texto": "Síndrome inapropriada de ADH."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000059799",
+   "codigo": "4000059799",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 47,
+   "temas": [
+    "Crise adrenal",
+    "Manif estações clínicas"
+   ],
+   "enunciado": "Homem de 45 anos, apresentando dor epigástrica há 48h, acompanhada de náuseas e vômitos, astenia severa e fadiga, petéquias, hipotensão e hipotermia, chega à emergência chocado. Como não há tempo su ciente para confirmar a suspeita clínica, o tratamento do choque deverá ser iniciado de imediato. Os exames mais importantes para o diagnóstico foram eosinofilia importante, cortisol normal, hiponatremia, hipoglicemia e hipercalemia. O diagnóstico mais provável é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "insuficiência suprarrenal aguda."
+    },
+    {
+     "letra": "B",
+     "texto": "coma hipoglicêmico."
+    },
+    {
+     "letra": "C",
+     "texto": "insuficiência renal aguda."
+    },
+    {
+     "letra": "D",
+     "texto": "pancreatite aguda."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000019081",
+   "codigo": "4000019081",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 48,
+   "temas": [
+    "Hipotireoidismo",
+    "Insuf iciência adrenal primária",
+    "Diabetes Mellitus tipo 1 DM 1"
+   ],
+   "enunciado": "Na síndrome poliglandular autoimune (APS),",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a APSI é a mais frequente e ocorre principalmente na idade adulta."
+    },
+    {
+     "letra": "B",
+     "texto": "o diabetes mellitus tipo 1 e a doença tireoidiana autoimune são comuns na APSII."
+    },
+    {
+     "letra": "C",
+     "texto": "o hipoparatireoidismo é raro na APSI."
+    },
+    {
+     "letra": "D",
+     "texto": "o hipoparatireoidismo é raro na APSI."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000075369",
+   "codigo": "4000075369",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 49,
+   "temas": [
+    "Crise adrenal"
+   ],
+   "enunciado": "Mulher de 38 anos, portadora de artrite reumatoide, vinha em uso crônico de prednisona, que foi suspensa há 3 semanas, quando começou a se queixar de cansaço. Há 2 dias, apresentou piora acentuada do estado geral, procurando o pronto- socorro. Considerando o manejo da sua corticoterapia, NÃO é esperado o seguinte achado no hemograma:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "anemia."
+    },
+    {
+     "letra": "B",
+     "texto": "neutrofilia."
+    },
+    {
+     "letra": "C",
+     "texto": "eosinofilia."
+    },
+    {
+     "letra": "D",
+     "texto": "linfocitose."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000055596",
+   "codigo": "4000055596",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 50,
+   "temas": [
+    "Insuf iciência adrenal primária"
+   ],
+   "enunciado": "Uma mulher de 42 anos é trazida à sala de emergências médicas devido a um quadro clínico caracterizado por Hipotensão Arterial, pele fria e esturpor. Os exames acusam Glicemia: 60 mg/dl; Sódio sérico: 112 mEq/l e Potássio sérico: 6,0 mEq/l. Dado esse quadro, qual das causas abaixo NÃO é compatível com uma das causas da patologia que acomete essa paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Insulinoma."
+    },
+    {
+     "letra": "B",
+     "texto": "Tuberculose."
+    },
+    {
+     "letra": "C",
+     "texto": "Autoimunidade."
+    },
+    {
+     "letra": "D",
+     "texto": "Blastomicose."
+    },
+    {
+     "letra": "E",
+     "texto": "HIV."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000048523",
+   "codigo": "4000048523",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 51,
+   "temas": [
+    "Crise adrenal",
+    "Manif estações clínicas"
+   ],
+   "enunciado": "Num paciente chocado em que há suspeita de insu ciência aguda de suprarrenais, quais as alterações eletrolíticas frequentes que dão força à suspeição diagnóstica e orientam para o tratamento imediato com hidrocortisona?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Sódio alto e Potássio baixo"
+    },
+    {
+     "letra": "B",
+     "texto": "Sódio e Potássio altos"
+    },
+    {
+     "letra": "C",
+     "texto": "Sódio e Potássio baixos"
+    },
+    {
+     "letra": "D",
+     "texto": "Sódio baixo e Potássio alto"
+    },
+    {
+     "letra": "E",
+     "texto": "Sódio e Potássio normais"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000037715",
+   "codigo": "4000037715",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 52,
+   "temas": [
+    "Insuf iciência adrenal primária"
+   ],
+   "enunciado": "As seguintes alterações laboratoriais são frequentes na insuficiência adrenal primária, EXCETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hiponatremia."
+    },
+    {
+     "letra": "B",
+     "texto": "Hipoglicemia."
+    },
+    {
+     "letra": "C",
+     "texto": "Eosinofilia."
+    },
+    {
+     "letra": "D",
+     "texto": "Hipocalcemia."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000015569",
+   "codigo": "4000015569",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 53,
+   "temas": [
+    "Hipocortisolismo",
+    "Hipotireoidismo",
+    "Diabetes Mellitus tipo 1 DM 1"
+   ],
+   "enunciado": "A Síndrome poliglandular auto-imune tipo 2 caracteriza-se por:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Diabetes mellitus insulino dependente, disfunção da tireoide e doença de Addison."
+    },
+    {
+     "letra": "B",
+     "texto": "Candidíase mucocutânea, hipoparatiroidismo e doença de Addison."
+    },
+    {
+     "letra": "C",
+     "texto": "Carcinoma medular da tireoide, feocromocitoma e hiperparatiroidismo."
+    },
+    {
+     "letra": "D",
+     "texto": "Hiperparatiroidismo, tumor de pâncreas e da hipófise."
+    },
+    {
+     "letra": "E",
+     "texto": "Hiperparatiroidismo, tumor de pâncreas e feocromocitoma."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000034981",
+   "codigo": "4000034981",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 54,
+   "temas": [
+    "Manif estações clínicas"
+   ],
+   "enunciado": "Entre as manifestações abaixo relacionadas, assinale a que é comum, tanto na insu ciência adrenal primária, quanto na secundária.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hiponatremia e hiperpotassemia."
+    },
+    {
+     "letra": "B",
+     "texto": "Fraqueza e emagrecimento."
+    },
+    {
+     "letra": "C",
+     "texto": "Hiperpigmentação de dobras cutâneas e mucosas."
+    },
+    {
+     "letra": "D",
+     "texto": "Hipoglicemia em adultos e vitiligo associado."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000085372",
+   "codigo": "4000085372",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 55,
+   "temas": [
+    "Diagnóstico",
+    "Manif estações clínicas"
+   ],
+   "enunciado": "Assinale a alternativa que preenche correta e respectivamente as lacunas do caso clínico descrito a seguir. A imagem abaixo é de paciente de 16 anos, que iniciou com anorexia e dor abdominal nos últimos 3 meses, tendo perdido 10 kg nesse período. Ele veio à emergência com quadro atual de vômitos, dor abdominal e diarreia. A pressão arterial era de 80X50 mmHg deitado e de 50X30 mmHg na posição ortostática. Na avaliação diagnóstica, foram encontrados valores plasmáticos de cortisol ..........., ACTH ............, atividade da renina plasmática .......... e aldosterona reduzida.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "elevados - reduzido - reduzida."
+    },
+    {
+     "letra": "B",
+     "texto": "elevados - elevado - elevada."
+    },
+    {
+     "letra": "C",
+     "texto": "reduzidos - elevado - reduzida."
+    },
+    {
+     "letra": "D",
+     "texto": "reduzidos - reduzido - elevada."
+    },
+    {
+     "letra": "E",
+     "texto": "reduzidos - elevado - elevada."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [
+    {
+     "arquivo": "imagens/q055-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000023175",
+   "codigo": "4000023175",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipocortisolismo",
+   "numero": 56,
+   "temas": [
+    "Hipotireoidismo",
+    "Insuf iciência adrenal primária",
+    "Diabetes Mellitus tipo 1 DM 1"
+   ],
+   "enunciado": "A síndrome poliglandular autoimune tipo II (SPGA II): Respostas: 1 12 23 34 45 56",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "apresenta candidíase mucocutânea crônica em 1/3 dos casos."
+    },
+    {
+     "letra": "B",
+     "texto": "ocorre principalmente em crianças."
+    },
+    {
+     "letra": "C",
+     "texto": "tem na doença de Addison o seu distúrbio endócrino mais assíduo."
+    },
+    {
+     "letra": "D",
+     "texto": "tem a Diabetes Mellitus 2 como um dos seus componentes."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": []
+}

@@ -1,0 +1,2266 @@
+{
+ "questoes": [
+  {
+   "id": "4000129358",
+   "codigo": "4000129358",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 1,
+   "temas": [
+    "Apresentação clínica"
+   ],
+   "enunciado": "Em relação ao hipotireoidismo primário, é INCORRETO afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A média de idade ao diagnóstico de Hipotireoidismo é de 40 anos."
+    },
+    {
+     "letra": "B",
+     "texto": "Em mulheres, a menorragia é mais frequente que a oligomenorreia."
+    },
+    {
+     "letra": "C",
+     "texto": "O aumento de peso é discreto e é consequência do acúmulo de líquidos no tecido mixedematoso."
+    },
+    {
+     "letra": "D",
+     "texto": "Cansaço, dificuldade de concentração e de memória são fatores de confusão entre Hipotireoidismo e Depressão."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000127749",
+   "codigo": "4000127749",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 2,
+   "temas": [
+    "Diagnóstico e investigação adicional",
+    "Tratamento"
+   ],
+   "enunciado": "Em uma consulta ambulatorial de pós-internação você atende uma paciente de 76 anos, 65 kg, que recebeu alta há sete dias do Hospital após período prolongado para tratamento de uma pneumonia nosocomial. Ela tem como antecedentes: hipertensão arterial, dislipidemia, miocardiopatia isquêmica e hipotireoidismo. Está em uso de atorvastatina 80 mg a noite, acido acetilsalicílico 100 mg após almoço, enalapril 10 mg 12/12 horas, carvedilol 6,25 mg 12/12 horas e levotiroxina sódica 50 mcg em jejum. Traz exames laboratoriais colhidos no dia anterior à consulta: TSH 10,56 mU/L (VR 0,5 – 4,5 um/L) e T4 livre 0,96 ng/dL (VR 0,7 – 1,8 ng/dL). Sua conduta correta neste momento será:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Aumentar a dose de levotiroxina em 12,5 mcg."
+    },
+    {
+     "letra": "B",
+     "texto": "Reduzir a dose de levotiroxina em 12,5 mcg."
+    },
+    {
+     "letra": "C",
+     "texto": "Aumentar a dose de levotiroxina em 25 mcg."
+    },
+    {
+     "letra": "D",
+     "texto": "Manter a dose de levotiroxina."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000125746",
+   "codigo": "4000125746",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 3,
+   "temas": [
+    "Hipotireoidismo na gestação"
+   ],
+   "enunciado": "Paciente hipotireoidea em uso de levotiroxina o procura por ter sido diagnosticada gestação de quatro semanas. Qual é a sua conduta imediata?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Solicitar TSH e T4Livre."
+    },
+    {
+     "letra": "B",
+     "texto": "Aumentar a dose de levotiroxina em 30%."
+    },
+    {
+     "letra": "C",
+     "texto": "Reduzir a dose de levotiroxina em 30%."
+    },
+    {
+     "letra": "D",
+     "texto": "Suspender o tratamento até o parto."
+    },
+    {
+     "letra": "E",
+     "texto": "Solicitar TSH, T4L, antiTPO e antitireoglobulina."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000124093",
+   "codigo": "4000124093",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 4,
+   "temas": [
+    "Tratamento do hipotireoidismo subclínico"
+   ],
+   "enunciado": "Assinale a alternativa que apresenta paciente com indicação de tratamento com levotiroxina, cujos exames laboratoriais foram todos confirmados num intervalo de três meses e se mantiveram com o mesmo padrão, tendo em vista as seguintes observações: ATPO = anticorpo antitireoperoxidase; valor de referência do TSH = 0,4-4,0mUI/mL e do T4 livre = 0,8- 1,8ng/dL.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Idade = 34 anos com queixa de amenorreia, TSH = 1,4; T4 livre = 1,2 e ATPO positivo"
+    },
+    {
+     "letra": "B",
+     "texto": "Idade = 51 anos, com queixa de pele seca, TSH = 5,5; T4 livre = 1,0 e ATPO negativo"
+    },
+    {
+     "letra": "C",
+     "texto": "Idade = 87 anos, com queixa de cansaço, TSH = 6,5; T4 livre = 1,2"
+    },
+    {
+     "letra": "D",
+     "texto": "Idade = 53 anos, com queixa de queda de cabelos e bócio, TSH = 2,3; T4 livre = 1,0 e ATPO positivo"
+    },
+    {
+     "letra": "E",
+     "texto": "Idade = 27 anos, em tratamento de infertilidade, TSH= 5,3; T4 livre= 1,1 e ATPO positivo"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000117729",
+   "codigo": "4000117729",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 5,
+   "temas": [
+    "Diagnóstico e investigação adicional",
+    "Hipotireoidismo na gestação",
+    "Hipotireoidismo"
+   ],
+   "enunciado": "Sobre o hipotireoidismo, assinale a opção correta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Pode estar relacionado aos seguintes anticorpos: anti-TPO, anti-GAD e antitireoglobulina."
+    },
+    {
+     "letra": "B",
+     "texto": "Ganho de peso importante é o principal achado no exame físico."
+    },
+    {
+     "letra": "C",
+     "texto": "Para melhor condução do caso, ultrassonografias de tireoide semestrais são usualmente indicadas."
+    },
+    {
+     "letra": "D",
+     "texto": "TSH, T4 e T3 totais, além de T3 reverso, devem ser solicitados de rotina para avaliar a eficácia do tratamento."
+    },
+    {
+     "letra": "E",
+     "texto": "Valores de TSH para alvo do tratamento farmacológico variam com idade e gestação."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000117501",
+   "codigo": "4000117501",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 6,
+   "temas": [
+    "Tratamento do hipotireoidismo clínico"
+   ],
+   "enunciado": "Mulher de 45 anos, comparece ao ambulatório para mostrar exames de rotina. Encontra-se assintomática, praticando atividade física regularmente e seguindo rigorosamente as orientações dietéticas prescritas pela nutricionista. Apresenta os seguintes exames: Colesterol Total=286 mg/dl; HDL=48 mg/dl; LDL=190 mg/dl, Tg=240 mg/dl; TSH=23 um/L (VR=0,4- 4,5); T4 Livre=0,6 pg/ml (VR=0,7-1,8). O tratamento neste momento é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Levotiroxina e fibrato."
+    },
+    {
+     "letra": "B",
+     "texto": "Levotiroxina."
+    },
+    {
+     "letra": "C",
+     "texto": "Levotiroxina e estatina."
+    },
+    {
+     "letra": "D",
+     "texto": "Levotiroxina, estatina e fibrato."
+    },
+    {
+     "letra": "E",
+     "texto": "Estatina."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000114019",
+   "codigo": "4000114019",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 7,
+   "temas": [
+    "Tratamento do hipotireoidismo subclínico"
+   ],
+   "enunciado": "Paciente do sexo feminino, 36 anos, fora de gestação, queixa-se de constipação, intolerância ao frio, secura na pele e fadiga, diminuição da memória e alteração do raciocínio. Trouxe exames séricos mostrando T4 livre = 1,3 (VR: 0,93 -1,7); TSH = 5,8 (VR: 0,27 – 4,2) e Ac Anti TPO e Ac Anti Tireoglobulina positivos. Não havia uso de medicamentos ou vitaminas. Sem quadro de dor na parte anterior do pescoço, precedendo a coleta dos exames. Mãe apresenta hipotireidismo por Tireodite de Hashimoto. Os exames foram repetidos sem medicação 6 meses depois: T4livre = 1,4 (VR: 0,93 -1,7); TSH = 8,8 (VR: 0,27 – 4,2) e Ac Anti TPO e Anti Tireoglobulina positivos. É CORRETO afirmar que: VR = Valor de Referência",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Deve ser considerada a reposição de hormônio tireoidiano, pois a paciente apresenta níveis progressivamente elevados de TSH, na presença de anticorpos anti-tireoidianos."
+    },
+    {
+     "letra": "B",
+     "texto": "Apenas com o US de tireoide, mostrando alterações compatíveis com Tireoidite deHashimoto, é que podemos iniciar terapia de reposição com hormônio tireoidiano."
+    },
+    {
+     "letra": "C",
+     "texto": "Deveríamos iniciar a terapia apenas se a paciente mostrasse TSH ≥ 10mUI/L persistentemente e desejo de gestação."
+    },
+    {
+     "letra": "D",
+     "texto": "Com certeza, os sintomas apresentados nada têm a ver com o fato de apresentar alterações nos níveis de TSH, que nunca são sintomáticos com a normalidade dos hormônios tireodianos."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000083459",
+   "codigo": "4000083459",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 8,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Sobre o tratamento do hipotireoidismo, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O uso de levotiroxina em pacientes acima de 65 anos provou ser capaz de diminuireventos cardiovasculares."
+    },
+    {
+     "letra": "B",
+     "texto": "A biodisponibilidade da levotiroxina não é afetada pela ingestão concomitante dealimentos."
+    },
+    {
+     "letra": "C",
+     "texto": "Pacientes com hipotireoidismo e doença coronariana devem receber inicialmentedoses menores de levotiroxina."
+    },
+    {
+     "letra": "D",
+     "texto": "O diagnóstico de hipotireoidismo central é definido por valores altos de tsh e baixosde t4 livre."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000067951",
+   "codigo": "4000067951",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 9,
+   "temas": [
+    "Apresentação clínica",
+    "Etiologia"
+   ],
+   "enunciado": "Sobre o Hipotireoidismo, é correto afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o Hipotireoidismo autoimune nunca está associado ao bócio."
+    },
+    {
+     "letra": "B",
+     "texto": "a deficiência de iodo continua sendo uma causa comum de Hipotireoidismo no mundo inteiro. Nas áreas com suficiência de iodo, a doença autoimune (Tireoidite de Hashimoto) e as causas iatrogênicas (tratamento do Hipertireoidismo) são mais comuns."
+    },
+    {
+     "letra": "C",
+     "texto": "distúrbios infiltrativos: amiloidose, sarcoidose, hemocromatose, esclerodermia e cistinose não podem ser considerados causas de Hipotireoidismo."
+    },
+    {
+     "letra": "D",
+     "texto": "são considerados sintomas: palpitações, perda de peso com apetite aumentado, intolerância ao calor e transpiração."
+    },
+    {
+     "letra": "E",
+     "texto": "a síndrome do túnel do carpo e outras síndromes de encarceramento são comuns no Hipertireoidismo, mas não no Hipotireoidismo."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000066314",
+   "codigo": "4000066314",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 10,
+   "temas": [
+    "Etiologia"
+   ],
+   "enunciado": "Mulher com 37 anos, apresentando irregularidade menstrual, alopécia com e úvio anágeno e transtorno do humor. Exames laboratoriais evidenciam TSH = 12 mU/L e T4 livre = 0,2 ng/dL. Qual o diagnóstico mais provável?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tireoidite de Hashimoto"
+    },
+    {
+     "letra": "B",
+     "texto": "Carcinoma papilífero da tireoide"
+    },
+    {
+     "letra": "C",
+     "texto": "Doença de Graves"
+    },
+    {
+     "letra": "D",
+     "texto": "Esclerodermia"
+    },
+    {
+     "letra": "E",
+     "texto": "Prolactinoma"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000066175",
+   "codigo": "4000066175",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 11,
+   "temas": [
+    "Apresentação clínica"
+   ],
+   "enunciado": "Assinale algumas características clássicas de hipotireoidismo:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cãibras, fasciculações musculares, confusão mental, prolongamento de QT"
+    },
+    {
+     "letra": "B",
+     "texto": "Hipertensão com encefalopatia, hemorragia digestiva alta, hipoalbuminemia, hepatite fulminante"
+    },
+    {
+     "letra": "C",
+     "texto": "Náuseas, vômitos, hipotensão, hiponatremia, hipoglicemia"
+    },
+    {
+     "letra": "D",
+     "texto": "Perda de peso, taquicardia, tremores de extremidades, exoftalmia, bócio"
+    },
+    {
+     "letra": "E",
+     "texto": "Discreto ganho de peso, sonolência, queda de cabelo, aumento da pressão diastólica, bradicardia"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000009686",
+   "codigo": "4000009686",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 12,
+   "temas": [
+    "Diagnóstico e investigação adicional",
+    "Hipotireoidismo",
+    "Síndrome de Down"
+   ],
+   "enunciado": "Durante o atendimento de um paciente com Síndrome de Down e obesidade, observa-se um resultado de TSH de 6,5. Ele já apresentou, em outros momentos da vida, elevação do TSH, com normalização dos resultados em exames subsequentes e sempre com dosagem de T4 livre normal. Qual é a MELHOR conduta em relação à avaliação tireoidiana desse paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Encaminhar ao endocrinologista."
+    },
+    {
+     "letra": "B",
+     "texto": "Nova dosagem de TSH, T4 livre e pesquisa do anticorpo Antitireoperoxidase (ATPO)."
+    },
+    {
+     "letra": "C",
+     "texto": "Iniciar levotiroxina."
+    },
+    {
+     "letra": "D",
+     "texto": "Parar de dosar o TSH desse paciente, já que se encontra repetidamente elevado sem impacto clínico e com dosagem do T4 normal."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000002443",
+   "codigo": "4000002443",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 13,
+   "temas": [
+    "Diagnóstico e investigação adicional",
+    "Apresentação clínica"
+   ],
+   "enunciado": "Paciente feminina com 65 anos apresenta fadiga, intolerância ao frio, ganho de peso, depressão, menorragia, rouquidão, pele seca e áspera, bradicardia e reflexos tendinosos profundos lentos. Assinale as mais prováveis alterações laboratoriais encontradas:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "TSH diminuído e T4 elevado"
+    },
+    {
+     "letra": "B",
+     "texto": "TSH aumentado e T4 diminuído"
+    },
+    {
+     "letra": "C",
+     "texto": "TSH normal e T4 aumentado"
+    },
+    {
+     "letra": "D",
+     "texto": "TSH diminuído e T4 diminuído"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000117694",
+   "codigo": "4000117694",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 14,
+   "temas": [
+    "Apresentação clínica"
+   ],
+   "enunciado": "Tipicamente nos quadros de coma mixedematoso, encontramos",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipernatremia"
+    },
+    {
+     "letra": "B",
+     "texto": "Hipertemia"
+    },
+    {
+     "letra": "C",
+     "texto": "Taquicardia"
+    },
+    {
+     "letra": "D",
+     "texto": "Hipocapnia"
+    },
+    {
+     "letra": "E",
+     "texto": "Hipocortisolismo"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000115590",
+   "codigo": "4000115590",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 15,
+   "temas": [
+    "Diagnóstico e investigação adicional"
+   ],
+   "enunciado": "Mulher, 25 anos, faz por conta própria vários exames laboratoriais e procura atendimento médico por apresentar TSH =0,01 μ UI/ml (VR: 0.4 – 4,8). Os demais exames são normais, usa apenas ACO. O exame físico é normal, tireoide palpável, tamanho e consistência normais. O que seria mais adequado para iniciar a investigação diagnóstica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "T₄ livre, anticorpos antitireoide."
+    },
+    {
+     "letra": "B",
+     "texto": "T₄ livre, ultrassonografia de tireoide e TRab."
+    },
+    {
+     "letra": "C",
+     "texto": "T₄ livre, RNM de sela túrcica."
+    },
+    {
+     "letra": "D",
+     "texto": "T₃ T₄ livre, TSH, captação de ¹³¹I."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000108942",
+   "codigo": "4000108942",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 16,
+   "temas": [
+    "Tratamento do hipotireoidismo subclínico"
+   ],
+   "enunciado": "Uma professora de 52 anos comparece a um retorno para checar exames solicitados pela médica da Unidade Básica de Saúde de seu bairro. Tanto na consulta, quando foram solicitados os exames, quanto no retorno para sua verificação, não apresentava qualquer queixa. É portadora de hipertensão arterial sistêmica tratada com dieta e 75 mg/dia de captopril. Na consulta de retorno, a senhora encontrava-se pesando 75 kg, com índice de massa corporal de 26 kg/m². Sua pressão arterial estava 144 x 92 mmHg. Resultados dos exames solicitados: TSH de 9,0 mU/L (valor normal 0,4 a 4,5 mU/L), T4 livre de 1,2 ng/dL (valor normal 0,7-1,8 ng/dL); demais exames solicitados sem alterações. Além de intensi car medidas não farmacológicas para controle de hipertensão arterial sistêmica, qual seria a alternativa mais adequada para o manejo desse quadro?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Introduzir 25 mcg/dia de levotiroxina."
+    },
+    {
+     "letra": "B",
+     "texto": "Introduzir 75 mcg/dia de levotiroxina."
+    },
+    {
+     "letra": "C",
+     "texto": "Introduzir 50 mcg/dia de levotiroxina."
+    },
+    {
+     "letra": "D",
+     "texto": "Não introduzir levotiroxina."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000100908",
+   "codigo": "4000100908",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 17,
+   "temas": [
+    "Apresentação clínica",
+    "Etiologia",
+    "Síndrome de Down"
+   ],
+   "enunciado": "Uma menina de seis anos de idade, portadora de trissomia do cromossomo 21, sem cardiopatia congênita, apresenta astenia com desaceleração de velocidade de crescimento e ganho de peso normal para a idade, observado após 4 meses da última consulta de rotina, em curva especi ca para a síndrome. Neste caso, a principal hipótese diagnóstica a ser afastada, das relacionadas abaixo, será:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Síndrome de Turner"
+    },
+    {
+     "letra": "B",
+     "texto": "Tireoidite linfocitica"
+    },
+    {
+     "letra": "C",
+     "texto": "Deficiência de 25-OH vitamina D"
+    },
+    {
+     "letra": "D",
+     "texto": "Diabetes melitos tipo 1"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000069300",
+   "codigo": "4000069300",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 18,
+   "temas": [
+    "Etiologia"
+   ],
+   "enunciado": "São causas de hipotireoidismo primário:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Amiloidose, Doença de Graves, Tireoidite actinica."
+    },
+    {
+     "letra": "B",
+     "texto": "Tireoidite de Riedel, adenoma toxico, hipopituitarismo."
+    },
+    {
+     "letra": "C",
+     "texto": "Tireoidite de Hashimoto; deficiência de iodo; hemocromatose."
+    },
+    {
+     "letra": "D",
+     "texto": "Síndrome de Sheehan, sarcoidose, adenoma hipofisário."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000067757",
+   "codigo": "4000067757",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 19,
+   "temas": [
+    "Tratamento do hipotireoidismo subclínico",
+    "Hipotireoidismo na gestação"
+   ],
+   "enunciado": "Paciente, 30 anos, assintomática e previamente hígida, apresenta TSH 7,8 mUI/L e T4 livre normal. Dentre as alternativas a seguir, aquela que indica o início de reposição de levotiroxina é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "gestação."
+    },
+    {
+     "letra": "B",
+     "texto": "IMC 30 kg/m²."
+    },
+    {
+     "letra": "C",
+     "texto": "hemoglobina 12 g/dl."
+    },
+    {
+     "letra": "D",
+     "texto": "perfil lipídico com LDL = 130 mg/dl, HDL = 30 mg/dl e triglicerídeos = 100 mg/dl."
+    },
+    {
+     "letra": "E",
+     "texto": "sódio = 133 mEq/L."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000054533",
+   "codigo": "4000054533",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 20,
+   "temas": [
+    "Apresentação clínica"
+   ],
+   "enunciado": "Marque a alternativa correta sobre o coma mixedematoso:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A bradicardia é incomum"
+    },
+    {
+     "letra": "B",
+     "texto": "Geralmente não se encontra distensão abdominal e constipação."
+    },
+    {
+     "letra": "C",
+     "texto": "Depressão não faz parte dos sintomas."
+    },
+    {
+     "letra": "D",
+     "texto": "Um fator precipitante é quase sempre identificado e é mais comum que seja um evento infeccioso."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000048164",
+   "codigo": "4000048164",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 21,
+   "temas": [
+    "Etiologia"
+   ],
+   "enunciado": "É causa de HIPOTIREOIDISMO SECUNDÁRIO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Síndrome de Sheehan."
+    },
+    {
+     "letra": "B",
+     "texto": "Utilização de lítio."
+    },
+    {
+     "letra": "C",
+     "texto": "Pós tireoidectomia para doença de Graves."
+    },
+    {
+     "letra": "D",
+     "texto": "Deficiência de iodo."
+    },
+    {
+     "letra": "E",
+     "texto": "Sarcoidose."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000032962",
+   "codigo": "4000032962",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 22,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Após o início do tratamento farmacológico para o hipotireoidismo, o controle clínico deve ser realizado a cada:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "2-3 semanas."
+    },
+    {
+     "letra": "B",
+     "texto": "4-6 semanas."
+    },
+    {
+     "letra": "C",
+     "texto": "8-10 semanas."
+    },
+    {
+     "letra": "D",
+     "texto": "12-15 semanas."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000027060",
+   "codigo": "4000027060",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 23,
+   "temas": [
+    "Diagnóstico e investigação adicional",
+    "Tratamento",
+    "Etiologia"
+   ],
+   "enunciado": "Marque a alternativa correta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "No hipotireoidismo primário, o laboratório mostra redução dos níveis de TSH (hormônio tireoestimulante) e redução dos níveis de T4 livre."
+    },
+    {
+     "letra": "B",
+     "texto": "A doença autoimune da tireoide é a principal causa de hipotireoidismo primário."
+    },
+    {
+     "letra": "C",
+     "texto": "O tratamento do hipotireoidismo primário é feito sempre com o uso combinado de levotiroxina e T3."
+    },
+    {
+     "letra": "D",
+     "texto": "O hipotireoidismo subclínico é encontrado quando se tem aumento dos níveis de TSH (hormônio tireoestimulante) e redução dos níveis séricos de T4 livre."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000023011",
+   "codigo": "4000023011",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 24,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Sobre as substâncias que interferem na absorção da levotiroxina no tratamento do hipotireoidismo, julgue os itens a seguir. I. Carbonato de cálcio. II. Hidróxido de alumínio. III. Omeprazol. IV. Sulfato ferroso. Pode-se afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "apenas I e II estão certos."
+    },
+    {
+     "letra": "B",
+     "texto": "apenas I e III estão certos."
+    },
+    {
+     "letra": "C",
+     "texto": "apenas II, III e IV estão certos."
+    },
+    {
+     "letra": "D",
+     "texto": "apenas I, III e IV estão certos."
+    },
+    {
+     "letra": "E",
+     "texto": "todos estão certos."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000015862",
+   "codigo": "4000015862",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 25,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Em relação ao tratamento do hipotireoidismo, assinale a alternativa CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A reposição da levotiroxina melhora a maioria das manifestações clínicas, exceto a disfunção cognitiva e os transtornos do humor."
+    },
+    {
+     "letra": "B",
+     "texto": "Na tireoidite de Hashimoto, está indicado o uso de corticoide para impedir a progressão da destruição autoimune da glândula."
+    },
+    {
+     "letra": "C",
+     "texto": "A dose de levotiroxina deve ser ajustada de acordo com o valor do TSH após 2 semanas do início."
+    },
+    {
+     "letra": "D",
+     "texto": "Nos pacientes idosos e cardiopatas, é recomendado iniciar doses baixas de levotiroxina e progredir lentamente"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000005019",
+   "codigo": "4000005019",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 26,
+   "temas": [
+    "Tratamento do hipotireoidismo clínico"
+   ],
+   "enunciado": "Paciente de 28 anos de idade em acompanhamento por hipotiroidismo por tiroidite de Hashimoto, vem em consulta para reavaliação clínica. Refere sonolência diurna e piora do hábito intestinal, com tendência a constipação. Faz uso diário de levotiroxina 125 mcg, omeprazol 20 mg e carbonato de cálcio 500 mg pela manhã. Exame físico: peso 55 kg, PA = 120 x 80 mmHg, FC = 62 bpm, tiroide com volume diminuído, sem outras alterações. Os exames laboratoriais mostram: TSH = 18,0 mUI/L (referência: 0,45-4,5) e T4 livre = 0,5 ng/dl (referência: 0,6-1,5). É correto afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A paciente está em hipotiroidismo subclínico, o que não justifica os sintomas. Outras causas devem ser investigadas."
+    },
+    {
+     "letra": "B",
+     "texto": "É necessário verificar se a administração da levotiroxina está sendo feita da forma preconizada."
+    },
+    {
+     "letra": "C",
+     "texto": "Os sintomas podem ser pelo hipotiroidismo, pois a paciente recebe dose insuficiente de levotiroxina para o seu peso, devendo-se aumentar a dose."
+    },
+    {
+     "letra": "D",
+     "texto": "Os sintomas podem ser pelo hipotiroidismo, devendo ser associada reposição de T3, pois é possível que a paciente apresente defeito na desiodase responsável pela conversão de T4 em T3."
+    },
+    {
+     "letra": "E",
+     "texto": "Suspeita-se de resistência ao hormônio tiroidiano e, se confirmada, deve ser feita a investigação dos familiares também."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000003536",
+   "codigo": "4000003536",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 27,
+   "temas": [
+    "Diagnóstico e investigação adicional",
+    "Apresentação clínica"
+   ],
+   "enunciado": "Mulher, 42 anos, apresenta-se à consulta ambulatorial para avaliação anual. Ao exame, você observa bócio difuso (++/4) e tireóide com consistência elástica, sem sinais ogísticos. A paciente nega queixas. O exame laboratorial revela T4 livre normal e TSH discretamente elevado. Qual a hipótese diagnóstica mais provável?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Deficiência de iodo"
+    },
+    {
+     "letra": "B",
+     "texto": "Câncer de tireóide"
+    },
+    {
+     "letra": "C",
+     "texto": "Tireoidite de Hashimoto"
+    },
+    {
+     "letra": "D",
+     "texto": "Doença de Graves"
+    },
+    {
+     "letra": "E",
+     "texto": "Bócio Multinodular"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000126027",
+   "codigo": "4000126027",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 28,
+   "temas": [
+    "Tratamento do hipotireoidismo subclínico"
+   ],
+   "enunciado": "Uma paciente de 29 anos de idade, assintomática, apresenta os seguintes resultados relativos a exames complementares: TSH = 8,2 mUl/ml (VR = 0,3-5,0); T4L = 1,2 ng/dl (VR = 0,7-1,8); anticorpos antitireoidianos positivos; ultrassonogra a de tireoide com discreto bócio difuso, com textura heterogênea do parênquima. Com base nessas informações relativas ao caso clínico descrito, assinale a alternativa ERRADA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A indicação de terapêutica de reposição com hormônios tireoidianos para essa paciente é controversa."
+    },
+    {
+     "letra": "B",
+     "texto": "Trata-se de tireoidite de Hashimoto."
+    },
+    {
+     "letra": "C",
+     "texto": "Esta paciente não apresenta disfunção tireoidiana, já que as concentrações séricas de T4L estão normais."
+    },
+    {
+     "letra": "D",
+     "texto": "Confirmada gestação nessa paciente, deve-se iniciar reposição com hormônio tireoidiano."
+    },
+    {
+     "letra": "E",
+     "texto": "A dosagem dos anticorpos antitireoperoxidase e antitireoglobulina foi importante para o esclarecimento etiológico."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000122948",
+   "codigo": "4000122948",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 29,
+   "temas": [
+    "Hipotireoidismo na gestação"
+   ],
+   "enunciado": "Paciente de 28 anos, primigesta de 6 semanas, hipotireoidea em uso de levotiroxina 37,5 mcg/dia, apresenta os seguintes exames: TSH = 9 mU/L (VR = 0,4 - 4,0) e T4 livre = 1,0 ng/dL (VR = 0,8-1,4). Qual é a conduta para esse caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Aguardaria e repetiria novo TSH em 3 a 6 meses."
+    },
+    {
+     "letra": "B",
+     "texto": "Iniciaria betabloqueador."
+    },
+    {
+     "letra": "C",
+     "texto": "Manteria a dose de levotiroxina e orientaria uso correto da medicação."
+    },
+    {
+     "letra": "D",
+     "texto": "Aumentaria a dose de levotiroxina em 20%."
+    },
+    {
+     "letra": "E",
+     "texto": "Aumentaria a dose de levotiroxina para 30-50%."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000110303",
+   "codigo": "4000110303",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 30,
+   "temas": [
+    "Etiologia"
+   ],
+   "enunciado": "No uso medicamentoso do lítio (p.ex, no transtorno afetivo bipolar) pode ocorrer",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "doença de Addison."
+    },
+    {
+     "letra": "B",
+     "texto": "hipotireoidismo."
+    },
+    {
+     "letra": "C",
+     "texto": "vitiligo."
+    },
+    {
+     "letra": "D",
+     "texto": "doença de Cushing."
+    },
+    {
+     "letra": "E",
+     "texto": "furunculose."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000100980",
+   "codigo": "4000100980",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 31,
+   "temas": [
+    "Etiologia"
+   ],
+   "enunciado": "O hipotireoidismo central (HC) pode resultar de processo que comprometa a capacidade secretória da hipó se anterior e/ou do hipotálamo. Assinale a alternativa CORRETA em relação às causas de HC.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Por definição, o HC se origina apenas da destruição de causa traumática da hipófise anterior e/ou do hipotálamo."
+    },
+    {
+     "letra": "B",
+     "texto": "Em adultos, a maioria dos casos é devida a mutações no gene do receptor do hormônio liberador de tireotrofina (TRH)."
+    },
+    {
+     "letra": "C",
+     "texto": "Na presença de deficiência do hormônio estimulador da tireoide (TSH), não são observadas deficiências de outras trofinas hipofisárias, tais como de hormônio do crescimento (GH), por exemplo."
+    },
+    {
+     "letra": "D",
+     "texto": "Dopamina e dobutamina podem suprimir a secreção de hormônio estimulador da tireoide (TSH)."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000099633",
+   "codigo": "4000099633",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 32,
+   "temas": [
+    "Diagnóstico e investigação adicional",
+    "Tratamento",
+    "Apresentação clínica"
+   ],
+   "enunciado": "Paciente de 56 anos, gênero feminino, encontra-se em acompanhamento de hipotireoidismo no ambulatório de clínica médica. Queixa-se de astenia, pele seca, constipação intestinal e queda de cabelos. Menciona necessidade de doses crescentes de levotiroxina (atualmente 225mcg/dia), sem nunca ter apresentado normalização das taxas hormonais. Reporta fazer uso de omeprazol 40mg/dia por dispepsia crônica, alendronato de sódio 70mg/semana e carbonato de cálcio 1g/dia devido osteoporose, metformina 1,5g/dia por diabetes mellitus e carbamazepina 200mg/dia por neuropatia diabética. Traz exames recentes que mostram TSH=78,0mcUI/ml (VR=0,4 a 4,0mcUI/ml) e T4 livre=0,7ng/dl (VR=0,7 a 1,8ng/dl). Levando-se em conta que a paciente faz uso regular da levotiroxina, assinale a alternativa que corretamente associa uma medicação e seu provável mecanismo farmacológico que possa estar contribuindo para di culdade de controle da doença.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Carbamazepina por aumentar o clearence hepático da levotiroxina"
+    },
+    {
+     "letra": "B",
+     "texto": "Alendronato de sódio por diminuir a produção de tireoglobulina"
+    },
+    {
+     "letra": "C",
+     "texto": "Omeprazol por aumentar a ligação do hormônio livre à molécula da TBG"
+    },
+    {
+     "letra": "D",
+     "texto": "Metformina por inibir a absorção da levotiroxina"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000094457",
+   "codigo": "4000094457",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 33,
+   "temas": [
+    "Diagnóstico e investigação adicional"
+   ],
+   "enunciado": "Mulher, 25 anos, refere achando normal em exames laboratoriais para admissão em concurso público. Nega sintomas, faz uso de anticoncepcional oral diário, sem outros medicamentos atuais, histórico de apendicectomia aos 9 anos, fratura de antebraço durante prática de esporte há 1 ano. O exame físico é inexpressivo. Exames laboratoriais com TSH = 7,0 mcU/ml (valores refêrencia: 0,3 – 6,0 mcU/ml). Sem outros exames para função tireoidiana. Sobre o próximo passo na avaliação laboratorial da paciente, assinale a alternativa correta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "De acordo com os guidelines, repetir a medida do TSH, associado a dosagem de níveis de T4 livre, é a única medida no passo seguinte."
+    },
+    {
+     "letra": "B",
+     "texto": "Deve-se solicitar T4 total e T3 total, para elucidar se o quadro é clínico ou subclínico."
+    },
+    {
+     "letra": "C",
+     "texto": "Solicita-se obrigatoriamente, cumprindo os guidelines atuais, nova dosagem de T SH, níveis de T4 total e livre, T3 total e livre, pesquisa de anticorpo contra tireoperoxidase e ultrassonografia de tireoide."
+    },
+    {
+     "letra": "D",
+     "texto": "É essencial descartar síndrome de eutireoideu doente, com dosagem laboratorial de T3 e T3 livre, além de repetir-se a dosagem do TSH"
+    },
+    {
+     "letra": "E",
+     "texto": "Deve-se fazer a medida novamente do TSH, associado a dosagem de T4 total e livre, e da tireoglobulina sérica."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000094429",
+   "codigo": "4000094429",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 34,
+   "temas": [
+    "Diagnóstico e investigação adicional",
+    "Interpretação dos exames laboratoriais"
+   ],
+   "enunciado": "Mulher, 25 anos, refere achando normal em exames laboratoriais para admissão em concurso público. Nega sintomas, faz uso de anticoncepcional oral diário, sem outros medicamentos atuais, histórico de apendicectomia aos 9 anos, fratura de antebraço durante prática de esporte há 1 ano. O exame físico é inexpressivo. Exames laboratoriais com TSH = 7,0 mcU/ml (valores refêrencia: 0,3 – 6,0 mcU/ml). Sem outros exames para função tireoidiana. Níveis elevados de TSH em exames laboratoriais podem ocorrer em todas as situações abaixo, exceto",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tireoidite de Hashimoto."
+    },
+    {
+     "letra": "B",
+     "texto": "Resistência ao Hormônio Tireoidiano."
+    },
+    {
+     "letra": "C",
+     "texto": "Após radioterapia para linfoma cervical."
+    },
+    {
+     "letra": "D",
+     "texto": "Primeiro trimestre de gestação."
+    },
+    {
+     "letra": "E",
+     "texto": "Tumor hipofisário."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000088192",
+   "codigo": "4000088192",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 35,
+   "temas": [
+    "Hipotireoidismo",
+    "Doença tireoidiana"
+   ],
+   "enunciado": "Mulher de 30 anos de idade, nuligesta, desejando engravidar há mais de 01 ano, apresenta menstruações a cada 45 dias e vem ao consultório do ginecologista trazendo os seguintes resultados de exames: prolactina discretamente elevada, TSH aumentado e T4 livre abaixo dos níveis normais. A conduta mais indicada a ser adotada para essa paciente é tratar",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o hipotireoidismo com hormônio tireoidiano e, após a normalização, reavaliar a prolactina."
+    },
+    {
+     "letra": "B",
+     "texto": "a hiperprolactinemia e o hipotireoidismo prescrevendo cabergolina e hormônio tireoidiano."
+    },
+    {
+     "letra": "C",
+     "texto": "com cabergolina após excluir tumor de hipófise."
+    },
+    {
+     "letra": "D",
+     "texto": "com citrato de clomifeno para indução de ovulação."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000083285",
+   "codigo": "4000083285",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 36,
+   "temas": [
+    "Etiologia"
+   ],
+   "enunciado": "Mulher, 42 anos, em acompanhamento na ESF. Prescrita levotiroxina na última consulta por elevação persistente de TSH- US e T4 livre abaixo do limite inferior. Paciente retorna para revisão com exames que mostram T4 livre e TSH-US dentro dos limites da normalidade; e anticorpos antitireoperoxidase (anti-TPO) = 842 UI/ml. Qual o significado desse resultado?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Confirma que a autoimunidade é a causa do hipotireoidismo."
+    },
+    {
+     "letra": "B",
+     "texto": "Orienta para o aumento da dose de levotiroxina para alcance de estado eutireoideo."
+    },
+    {
+     "letra": "C",
+     "texto": "Orienta para a substituição de levotiroxina por se tratar de um caso de hipertireoidismo."
+    },
+    {
+     "letra": "D",
+     "texto": "Infere que o hipotireoidismo é de causa hipofisária."
+    },
+    {
+     "letra": "E",
+     "texto": "Indica que a paciente necessita de punção aspirativa com agulha fina de glândula tireoide."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000081543",
+   "codigo": "4000081543",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 37,
+   "temas": [
+    "Diagnóstico e investigação adicional",
+    "Apresentação clínica"
+   ],
+   "enunciado": "Paciente feminina com 65 anos apresenta fadiga, intolerância ao frio, ganho de peso, depressão, menorragia, rouquidão, pele seca e áspera, bradicardia e reflexos tendinosos profundos lentos. Assinale as mais prováveis alterações laboratoriais encontradas:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "TSH diminuído e T4 elevado."
+    },
+    {
+     "letra": "B",
+     "texto": "TSH aumentado e T4 diminuído."
+    },
+    {
+     "letra": "C",
+     "texto": "TSH normal e T4 aumentado."
+    },
+    {
+     "letra": "D",
+     "texto": "TSH diminuído e T4 diminuído."
+    },
+    {
+     "letra": "E",
+     "texto": "TSH diminuído e T4 normal."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047477",
+   "codigo": "4000047477",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 38,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Com relação ao hipotireoidismo, assinale a resposta CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Em pacientes cardiopatas com isquemia miocárdica manifesta clinicamente, recomenda-se a reposição de hormônio tireoidiano com altas doses desde o início do tratamento."
+    },
+    {
+     "letra": "B",
+     "texto": "Homens portadores de hipotireoidismo subclínico, ou seja, assintomáticos, devem receber terapia de reposição de hormônio tiroidiano se os níveis de TSH estiverem acima do valor de referência do laboratório."
+    },
+    {
+     "letra": "C",
+     "texto": "A resposta clínica à terapia de reposição do hormônio tireoidiano pode ocorrer até 3 a 6 meses após estabilização dos níveis ideais de TSH."
+    },
+    {
+     "letra": "D",
+     "texto": "Como a meia-vida da levotiroxina sódica é curta, em casos de falha terapêutica, não existe necessidade de correção da dose em dias subsequentes."
+    },
+    {
+     "letra": "E",
+     "texto": "A levotiroxina sódica deve ser administrada junto com as refeições por otimizar a sua a absorção intestinal."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000023757",
+   "codigo": "4000023757",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 39,
+   "temas": [
+    "Tireotoxicose induzida pela amiodarona",
+    "Etiologia"
+   ],
+   "enunciado": "A respeito dos efeitos da amiodarona sobre a tireoide, sabe-se que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a ação da amiodarona sobre a tireoide se dá tanto pelo excesso de iodo quanto pela inflamação (tireoidite)."
+    },
+    {
+     "letra": "B",
+     "texto": "a maioria dos pacientes desenvolve hipotireoidismo ao longo do tratamento."
+    },
+    {
+     "letra": "C",
+     "texto": "mesmo em doses mais baixas de amiodarona, a incidência de distúrbios da tireoide é alta."
+    },
+    {
+     "letra": "D",
+     "texto": "o hipertireoidismo é a manifestação clínica mais comum e normalmente requer suspensão da medicação."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000010611",
+   "codigo": "4000010611",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 40,
+   "temas": [
+    "Miopatias",
+    "Hipotireoidismo",
+    "Estatinas"
+   ],
+   "enunciado": "Assinale a alternativa que apresenta a patologia que acomete indivíduos acima de cinquenta anos de idade, principalmente mulheres, devido ao uso de hipolipemiantes nesses casos associar-se ao risco elevado de miopatia.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "diabetes"
+    },
+    {
+     "letra": "B",
+     "texto": "hipertensão arterial"
+    },
+    {
+     "letra": "C",
+     "texto": "angina instável"
+    },
+    {
+     "letra": "D",
+     "texto": "hipotireoidismo"
+    },
+    {
+     "letra": "E",
+     "texto": "obesidade mórbida"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000127961",
+   "codigo": "4000127961",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 41,
+   "temas": [
+    "Ações biológicas dos hormônios tireoidianos"
+   ],
+   "enunciado": "A hipertensão arterial secundária à disfunção endócrina pode ser observada tanto no hiper quanto no hipofuncionamento da glândula:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Paratireoide."
+    },
+    {
+     "letra": "B",
+     "texto": "Suprarrenal."
+    },
+    {
+     "letra": "C",
+     "texto": "Tireoide."
+    },
+    {
+     "letra": "D",
+     "texto": "Hipófise."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000127727",
+   "codigo": "4000127727",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 42,
+   "temas": [
+    "Hipotireoidismo na gestação"
+   ],
+   "enunciado": "Paciente de 36 anos de idade vinha tentando engravidar há mais de um ano. Com antecedente de um aborto prévio no primeiro trimestre de gestação, encontra-se grávida de 7 semanas. Exames laboratoriais: TSH = 2,7 UI/L, T4 Livre = 1,3 ng/dl, Anti TPO = 535 U/mL (referência: < 35 U/mL). A melhor interpretação seria a de que a paciente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tem hipotireoidismo subclínico, pois o TSH está alterado para a idade gestacional."
+    },
+    {
+     "letra": "B",
+     "texto": "Tem hipertireoidismo subclínico, pois o TSH está normal."
+    },
+    {
+     "letra": "C",
+     "texto": "Tem hipotireoidismo clínico, pois o T4 está alterado."
+    },
+    {
+     "letra": "D",
+     "texto": "Tem hipertireoidismo clínico, pois o TSH está alterado."
+    },
+    {
+     "letra": "E",
+     "texto": "Não tem disfunção tireoidiana, pois o T4 está normal."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000116738",
+   "codigo": "4000116738",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 43,
+   "temas": [
+    "Tratamento do hipotireoidismo clínico"
+   ],
+   "enunciado": "Mulher de 30 anos, com queixa de fadiga e ganho de peso de 4,5 kg em 5 meses, refere estar fazendo dieta hipocalórica, comendo menos fast-food e mais vegetais. Iniciou academia recentemente, 1 hora, 3 vezes por semana. Porém, mesmo assim, continuou ganhando peso. Nunca fumou. Seu pai faleceu por infarto agudo do miocárdio aos 43 anos. Ao exame: FC = 62 bpm; PA = 130 x 90 mmHg; SatO2: 98% em ar ambiente; ritmo cardíaco regular, sem alteração em palpação de região cervical; TSH = 22; T4L = 0,6; glicose = 85; colesterol total = 290; LDL = 181; HDL = 55; triglicérides = 270. Assinale a alternativa que apresenta a intervenção mais apropriada para o caso:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Encaminhar à nutricionista."
+    },
+    {
+     "letra": "B",
+     "texto": "Iniciar fluoxetina."
+    },
+    {
+     "letra": "C",
+     "texto": "Iniciar sinvastatina."
+    },
+    {
+     "letra": "D",
+     "texto": "Iniciar levotiroxina."
+    },
+    {
+     "letra": "E",
+     "texto": "Iniciar fenofibrato."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000102980",
+   "codigo": "4000102980",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 44,
+   "temas": [
+    "Diagnóstico e investigação adicional",
+    "Diagnóstico",
+    "Síndrome de Sheehan"
+   ],
+   "enunciado": "Mulher, 35 anos, refere tonturas, náuseas, vômitos e dor abdominal há 1 mês, que pioraram há 1 semana. Há 8 anos apresenta apatia, fraqueza, sonolência diurna e depressão. Nega outras queixas. Antecedentes: G3P2A1, em amenorreia desde o último parto há 8 anos quando apresentou hemorragia vaginal com necessidade de transfusão sanguínea. Não amamentou lho. Exame físico: fala lenta e rouca, pele ressecada, edema de face e MMII, ausência de pelos pubianos e axilares, tireoide normopalpável, FC = 56 bpm; PA = 80 X 55 mmHg. Sem outras alterações. Exames laboratoriais: Hb = 9,6 g/dL; GB=7.400/mm³; Plaquetas =150.000/mm³; glicemia: 63 mg/dL; creatinina: 0,9 mg/dL; sódio: 134 mEq/L; potássio: 5,6 mEq/L. Quais alterações hormonais são compatíveis com a hipótese diagnóstica mais provável?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "TSH = 1,3 mUI/L (VR: 0,4 - 4,5) e T4 livre = 0,5 ng/dL (VR: 0,9 - 1,8)."
+    },
+    {
+     "letra": "B",
+     "texto": "FSH = 0,1 UI/L (VR: 15 - 30) e Prolactina = 87 ng/ml (VR: <25)."
+    },
+    {
+     "letra": "C",
+     "texto": "ACTH = 56 pg/ml (VR = 10 - 40) e cortisol = 4,2 µg/dl (VR: 5 - 20)."
+    },
+    {
+     "letra": "D",
+     "texto": "LH = 37 UI/L (VR: 1,3 - 13) e estradiol <20 pg/ml (VR: <160)."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000099247",
+   "codigo": "4000099247",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 45,
+   "temas": [
+    "Doença de Graves",
+    "Etiologia"
+   ],
+   "enunciado": "Paciente do sexo feminino, 30 anos, portadora de doença de Basedow-Graves foi submetida a iodoterapia. Após o tratamento pode apresentar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Leucemia."
+    },
+    {
+     "letra": "B",
+     "texto": "Carcinoma papilífero da tireoide."
+    },
+    {
+     "letra": "C",
+     "texto": "Hipotireoidismo."
+    },
+    {
+     "letra": "D",
+     "texto": "Carcinoma folicular da tireoide."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000087099",
+   "codigo": "4000087099",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 46,
+   "temas": [
+    "Diagnóstico e investigação adicional"
+   ],
+   "enunciado": "Adolescente, 13 anos, feminina, apresenta há mais de um ano bócio assintomático e exames laboratoriais (dosagens seriadas) com aumento do TSH, T4 normal, anticorpos antitireoglobulina e antiperoxidase tireroidiana positivos. Pode-se afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Nos adolescentes, é mais comum o aumento isolado do anticorpo antiperoxidase do que de ambos."
+    },
+    {
+     "letra": "B",
+     "texto": "O hipertireoidismo é a forma clínica mais comum, sendo frequente a doença de Graves."
+    },
+    {
+     "letra": "C",
+     "texto": "A causa do bócio parece estar ligada à presença de imunoglobulina estimuladora do crescimento da tireoide."
+    },
+    {
+     "letra": "D",
+     "texto": "Tem seu pico de incidência na criança entre um e três anos, sendo incomum no adolescente."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000073179",
+   "codigo": "4000073179",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 47,
+   "temas": [
+    "Tratamento do hipotireoidismo subclínico"
+   ],
+   "enunciado": "Durante consulta com médico de família, idosa de 78 anos refere cansaço e ganho de peso. O exame físico apresenta resultado normal, com exceção de IMC = 27. Os exames revelam: hemograma normal; TSH= 8,5 mU/L; T4 livre= 1,2 ng/dl. Nesse caso, a melhor conduta consiste em:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Realizar ultrassonografia de tireoide."
+    },
+    {
+     "letra": "B",
+     "texto": "Iniciar tratamento com levotiroxina."
+    },
+    {
+     "letra": "C",
+     "texto": "Repetir oTSH e avaliar o anti-TPO."
+    },
+    {
+     "letra": "D",
+     "texto": "Solicitar cintilografia de tireoide."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000069668",
+   "codigo": "4000069668",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 48,
+   "temas": [
+    "Diagnóstico e investigação adicional",
+    "Apresentação clínica"
+   ],
+   "enunciado": "Paciente masculino, 76 anos de idade, há 02 dias com fezes enegrecidas, evoluindo com quadro de torpor e crise convulsiva. Na história patológica pregressa registra-se transtorno de ansiedade, hipotireoidismo em uso de 75 mcg de levotiroxina. Sem acompanhamento médico regular há 2 anos. Ao exame físico: anictérico, acianótico, bradipneico, bradicárdico, pele fria, ressecada e amarelada. Exames realizados na emergência: Tomogra a computadorizada de crânio normal, glicemia 67 mg/dl, potássio 3,8 mEq/L, sódio 120 mEq/L. Qual o diagnóstico inicial mais provável, o exame complementar adicional e fator desencadeante mais provável?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Acidente vascular cerebral isquêmico / Ressonância nuclear magnética de crânio / Hiponatremia"
+    },
+    {
+     "letra": "B",
+     "texto": "Secreção inapropriada de hormônio anti-diurético (SIHAD) / Dosagem sanguínea de hormônio anti-diurético / Traumatismo craniano"
+    },
+    {
+     "letra": "C",
+     "texto": "Intoxicação exógena por benzodiazepínico / Dosagem urinária de benzodiazepínico / Depressão"
+    },
+    {
+     "letra": "D",
+     "texto": "Coma mixedematoso / Dosagem sanguínea de TSH e T4 livre / Hemorragia digestiva"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000067498",
+   "codigo": "4000067498",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 49,
+   "temas": [
+    "Diagnóstico e investigação adicional",
+    "Tratamento",
+    "Apresentação clínica"
+   ],
+   "enunciado": "Com relação ao hipotireoidismo, assinale a opção correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Diarreia é um sintoma comum."
+    },
+    {
+     "letra": "B",
+     "texto": "Anticorpo contra TPO raramente está presente nos pacientes com hipotireoidismo autoimune."
+    },
+    {
+     "letra": "C",
+     "texto": "O hipotireoidismo subclínico sempre deve ser tratado."
+    },
+    {
+     "letra": "D",
+     "texto": "Um nível normal de TSH exclui o hipotireoidismo primário."
+    },
+    {
+     "letra": "E",
+     "texto": "No hipotireoidismo secundário , os níveis de TSH podem ser usados para monitorar a terapia."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000052747",
+   "codigo": "4000052747",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 50,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "O tratamento do hipotireoidismo pode, eventualmente, trazer algumas peculiaridades. Assinale abaixo a alternativa que contém uma medicação cujo uso concomitante pode interferir na eficácia da levotiroxina:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Dapagliflozina."
+    },
+    {
+     "letra": "B",
+     "texto": "Fluoxetina."
+    },
+    {
+     "letra": "C",
+     "texto": "Ácido acetilsalicílico."
+    },
+    {
+     "letra": "D",
+     "texto": "Omeprazol."
+    },
+    {
+     "letra": "E",
+     "texto": "Fenoterol."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000048040",
+   "codigo": "4000048040",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 51,
+   "temas": [
+    "Diagnóstico e investigação adicional",
+    "Epidemiologia",
+    "Apresentação clínica"
+   ],
+   "enunciado": "Sobre o hipotireoidismo, podemos afirmar que: I. A deficiência de iodo continua sendo a causa mais comum de hipotireoidismo no mundo; II. O hipotireoidismo autoimune pode estar associado ao bócio; III. Na tireoidite de HASHIMOTO existe acentuada infiltração neutrofílica da tireoide; IV. Os anticorpos contra a tireoglobulina (TG) e a tireoperoxidase (TPO) são marcadores clinicamente úteis da autoimunidade tireoidiana; V. A síndrome do túnel do carpo e outros tipos de encarceramento são comuns no hipotireoidismo. Assinale a alternativa com a sequência CORRETA de falsas e verdadeiras.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "V, F, V, V, V."
+    },
+    {
+     "letra": "B",
+     "texto": "V, F, F, V, V."
+    },
+    {
+     "letra": "C",
+     "texto": "F, F, F, V, V."
+    },
+    {
+     "letra": "D",
+     "texto": "V, V, V, V, F."
+    },
+    {
+     "letra": "E",
+     "texto": "V, V, F, V, V."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000039385",
+   "codigo": "4000039385",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 52,
+   "temas": [
+    "Diagnóstico e investigação adicional",
+    "Epidemiologia"
+   ],
+   "enunciado": "A inf luência das medicações na homeostase tireoidiana Em relação ao hipotireoidismo podemos dizer que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Acomete mais mulheres na época da menopausa."
+    },
+    {
+     "letra": "B",
+     "texto": "O tratamento com levotiroxina ainda é controverso."
+    },
+    {
+     "letra": "C",
+     "texto": "Em pacientes cardiopatas o uso da amiodarona pode levar à tireotoxicose, mas não ao hipotireoidismo."
+    },
+    {
+     "letra": "D",
+     "texto": "O valor de corte da dosagem de TSH para definição diagnóstica não leva em conta a idade do indivíduo."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000008479",
+   "codigo": "4000008479",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 53,
+   "temas": [
+    "Tratamento do hipotireoidismo subclínico"
+   ],
+   "enunciado": "Paciente feminina, 70 anos, compareceu ao ambulatório de geriatria trazendo exames solicitados em consulta anterior. Mostrou-se preocupada por conta do resultado dos exames TSH: 9,0 mU/L (valor de referência: 0,4-4,5 mU/L) e T4 livre: 1,2 ng/dL (valor de referência: 0,8 - 1,5 ng/dL). Demais exames solicitados não revelavam alterações. É acompanhada por osteoporose e relata ser ansiosa, desde jovem, não apresentando outras queixas. A conduta adequada frente aos resultados dos exames apresentados é solicitar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "ultrassonografia da tireoide."
+    },
+    {
+     "letra": "B",
+     "texto": "dosagem de triiodotironina (T3)."
+    },
+    {
+     "letra": "C",
+     "texto": "nova dosagem de TSH, em três meses."
+    },
+    {
+     "letra": "D",
+     "texto": "dosagem de anticorpo antitireoperoxidase (anti-TPO)."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000002500",
+   "codigo": "4000002500",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 54,
+   "temas": [
+    "Apresentação clínica"
+   ],
+   "enunciado": "Paciente de 57 anos foi internada para investigação de ascite referida há mais de seis meses. Após avaliação clínica e depois de vários exames complementares, foram evidenciadas alterações nos exames de tireoide, com elevação de TSH e redução nos níveis de T4 e T3, caracterizando ascite mixedematosa, manifestação incomum de apresentação clínica. Das manifestações clínicas descritas abaixo, assinale a que não está ligada ao hipotireoidismo:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Bradicardia, derrame pericárdico e redução no débito cardíaco."
+    },
+    {
+     "letra": "B",
+     "texto": "Anorexia, absorção intestinal aumentada devido à constipação intestinal."
+    },
+    {
+     "letra": "C",
+     "texto": "Hiporreflexia profunda, parestesias e alopecia."
+    },
+    {
+     "letra": "D",
+     "texto": "Ataxia cerebelar, depressão e apneia do sono."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000090188",
+   "codigo": "4000090188",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 55,
+   "temas": [
+    "Apresentação clínica",
+    "Tratamento do hipotireoidismo clínico"
+   ],
+   "enunciado": "Em um paciente em coma mixedematoso, verifica-se redução de algumas funções e componentes siológicos, EXCETO de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Reserva adrenal."
+    },
+    {
+     "letra": "B",
+     "texto": "Absorção intestinal."
+    },
+    {
+     "letra": "C",
+     "texto": "Sódio corporal total."
+    },
+    {
+     "letra": "D",
+     "texto": "Temperatura corporal."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000071848",
+   "codigo": "4000071848",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 56,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Mulher de 55 anos com quadro de fadiga, fala arrastada, constipação, ganho de peso e rosto in ltrado é diagnosticada como portadora de hipotireoidismo autoimune. Seu médico inicia reposição com levotiroxina diária por via oral. Aponte o parâmetro a ser utilizado no ajuste da dose terapêutica para se alcançar estado eutireóideo.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Dosagens sanguíneas de T3 e T4."
+    },
+    {
+     "letra": "B",
+     "texto": "Níveis sanguíneos de TSH."
+    },
+    {
+     "letra": "C",
+     "texto": "Regularização do trânsito intestinal."
+    },
+    {
+     "letra": "D",
+     "texto": "Melhora na resposta do reflexo aquileu."
+    },
+    {
+     "letra": "E",
+     "texto": "Normalização dos níveis séricos de antiperoxidase tireoidiana."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000057099",
+   "codigo": "4000057099",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 57,
+   "temas": [
+    "Tratamento do hipotireoidismo subclínico"
+   ],
+   "enunciado": "Mulher, 83 anos, assintomática, sem antecedente de tiroidopatia, é encaminhada devido à TSH persistentemente elevado entre 6,5 e 8,0 mUI/L (v.r. 0,4-4,5), mas T4 livre normal e anticorpos antitireoglobulina e antitireoperoxidase negativos. Demais exames laboratoriais normais. Ao exame clínico, a palpação da tireoide e os reflexos profundos são normais. A melhor recomendação seria:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Iniciar reposição hormonal com levotiroxina na dose inicial de 1,6 mcg/kg de peso/dia, embora o ideal seja associar T3 ao tratamento."
+    },
+    {
+     "letra": "B",
+     "texto": "Iniciar o tratamento com levotiroxina com dose baixa (25 mcg/dia)."
+    },
+    {
+     "letra": "C",
+     "texto": "Observação clínica e repetição do TSH sérico em seis meses."
+    },
+    {
+     "letra": "D",
+     "texto": "Solicitar o ratamento ou cintilografia miocárdica antes de iniciar o tratamento com levotiroxina."
+    },
+    {
+     "letra": "E",
+     "texto": "Iniciar tratamento com 12,5 mcg/dia concomitante a realização de ecografia tireoideana."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000030460",
+   "codigo": "4000030460",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 58,
+   "temas": [
+    "Tratamento do hipotireoidismo clínico"
+   ],
+   "enunciado": "Sobre o tratamento do hipotiroidismo com a levotiroxina, é correto afirmar, EXCETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Em pacientes gestantes geralmente há necessidade de aumento da dose."
+    },
+    {
+     "letra": "B",
+     "texto": "É recomendável utilizar sempre a mesma marca do medicamento, pois existem diferenças farmacológicas clinicamente relevantes entre diferentes preparações."
+    },
+    {
+     "letra": "C",
+     "texto": "A monitorização laboratorial mais importante é feita com a dosagem do T SH."
+    },
+    {
+     "letra": "D",
+     "texto": "Arritmia e osteoporose são possíveis efeitos colaterais do tratamento."
+    },
+    {
+     "letra": "E",
+     "texto": "Deve ser tomada em jejum e a administração simultânea de IBP não interfere na absorção."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000121664",
+   "codigo": "4000121664",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 59,
+   "temas": [
+    "Apresentação clínica"
+   ],
+   "enunciado": "Considere a paciente aqui retratada: trata-se de mulher cronicamente doente, com tratamento irregular. Dos dados abaixo, os mais prováveis de serem encontrados em sua evolução clínica são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hemoglobina de 7,8 g/L e VCM de 75 fl."
+    },
+    {
+     "letra": "B",
+     "texto": "Pulso de 120 bpm e aldolase elevada."
+    },
+    {
+     "letra": "C",
+     "texto": "Galactorreia e menorragia."
+    },
+    {
+     "letra": "D",
+     "texto": "Hb glicada de 8,7% e obstipação."
+    },
+    {
+     "letra": "E",
+     "texto": "Reflexos profundos exaltados e depressão."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q059-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000068744",
+   "codigo": "4000068744",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 60,
+   "temas": [
+    "A inf luência das medicações na homeostase tireoidiana",
+    "Etiologia"
+   ],
+   "enunciado": "Paciente de 52 anos, sexo feminino, portadora de transtorno bipolar tipo 1, é encaminhada ao serviço de endocrinologia para avaliação de hipotireoidismo primário. Qual dos medicamentos abaixo pode estar relacionado ao quadro dessa paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Carbamazepina."
+    },
+    {
+     "letra": "B",
+     "texto": "Divalproato de sódio."
+    },
+    {
+     "letra": "C",
+     "texto": "Fumarato de quetiapina."
+    },
+    {
+     "letra": "D",
+     "texto": "Paroxetina."
+    },
+    {
+     "letra": "E",
+     "texto": "Carbonato de lítio."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000051123",
+   "codigo": "4000051123",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 61,
+   "temas": [
+    "Hipotireoidismo na gestação"
+   ],
+   "enunciado": "Uma gestante de 34 anos com 8 semanas de gestação realizou exames de rotina e a dosagem sérica do TSH era 3,8 uU/ml (referência 0,4-4,4 uU/ml). O médico repetiu o exame 1 semana depois e estava em 4,6 uU/ml e a dosagem do anticorpo antiperoxidase estava positivo. Qual é a conduta terapêutica mais adequada para essa paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Solicitar uma cintilografia de tiroide para definir tratamento."
+    },
+    {
+     "letra": "B",
+     "texto": "Iniciar a reposição com levotiroxina, pois, nessa fase da gestação, o T SH deve-se manter abaixo de 2,5 uU/ml."
+    },
+    {
+     "letra": "C",
+     "texto": "Iniciar o tapazol 5 mg dia e manter o TSH na faixa superior da normalidade."
+    },
+    {
+     "letra": "D",
+     "texto": "Solicitar o anticorpo anti TSH (TRAB) pelo risco de hipertireoidismo transitório da gestação."
+    },
+    {
+     "letra": "E",
+     "texto": "Manter observação apenas, pois essas alterações são fisiológicas da gravidez."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000049530",
+   "codigo": "4000049530",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 62,
+   "temas": [
+    "Endocrinologia"
+   ],
+   "enunciado": "Paciente com história de tireoidectomia total realizada no Hospital de Câncer é trazida pelo SAMU para o pronto atendimento com quadro de coma mixedematoso, PA: 120 x 80 mmHg; FC: 80 bpm; SpO2: 81%. Marque a melhor conduta imediata:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Dexametasona 100 mg, tiroxina 1 mg e furosemida 20 mg."
+    },
+    {
+     "letra": "B",
+     "texto": "Ceftriaxona 2 g, manitol 50 g e tri-iodotironina 50 mcg."
+    },
+    {
+     "letra": "C",
+     "texto": "Tri-iodotironina 10 mcg, líquidos aquecidos e metilprednisolona 1.000 mg."
+    },
+    {
+     "letra": "D",
+     "texto": "Levotiroxina 200 mcg, hidrocortisona 100 mg, manta térmica e intubação orotraqueal."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000011149",
+   "codigo": "4000011149",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 63,
+   "temas": [
+    "Marcadores de autoimunidade tireoidiana",
+    "Diagnóstico e investigação adicional",
+    "Epidemiologia"
+   ],
+   "enunciado": "Você recebe em seu consultório, acompanhado pelos pais, recém-nascido com sete dias de vida, encaminhado para sua primeira consulta de puericultura. Mãe refere que paciente foi diagnosticado durante o pré-natal portador da Síndrome de Down (SD) por translocação. Os pais foram avaliados e a mesma translocação foi encontrada no cariótipo materno. Os pais trazem diversas dúvidas sobre os resultados dos cariótipos. O paciente manteve seguimento em seu consultório. Ele retorna com 5 anos de idade, sem queixas, em avaliação de puericultura, trazendo exames de rotina. Nos exames apresentados você encontra: hormônio tiroestimulante (TSH): 7,5 mUI/L (0,45 a 4,5 mUI/L); tiroxina (t4) livre: 1,0 ng/dL (0,9 a 1,7 ng/dL); anticorpos anti-peroxidase tiroidiana: 64 U/mL (Inferior a 34 U/mL); ultrassonogra a de tireóide com in ltrado heterogênio. Pode-se afirmar que este paciente com Síndrome de Down apresenta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Secreção inapropriada de TSH."
+    },
+    {
+     "letra": "B",
+     "texto": "Tireoidite."
+    },
+    {
+     "letra": "C",
+     "texto": "Hipotireoidismo central."
+    },
+    {
+     "letra": "D",
+     "texto": "Neoplasia de tireóide."
+    },
+    {
+     "letra": "E",
+     "texto": "Hipotireoidismo congênito"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000082909",
+   "codigo": "4000082909",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 64,
+   "temas": [
+    "Apresentação clínica"
+   ],
+   "enunciado": "São manifestações clínicas do coma mixedematoso, exceto:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Obstipação intestinal."
+    },
+    {
+     "letra": "B",
+     "texto": "Hiperglicemia."
+    },
+    {
+     "letra": "C",
+     "texto": "Hiponatremia."
+    },
+    {
+     "letra": "D",
+     "texto": "Hipotermia."
+    },
+    {
+     "letra": "E",
+     "texto": "Todas as anteriores."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000058646",
+   "codigo": "4000058646",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipotireoidismo",
+   "numero": 65,
+   "temas": [
+    "Apresentação clínica"
+   ],
+   "enunciado": "Sobre o coma mixedematoso, é correto afirmar que: Respostas: 1 12 23 34 45 56",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a hipernatremia é secundária à desidratação."
+    },
+    {
+     "letra": "B",
+     "texto": "a fração de ejeção do sódio urinário encontra-se muito reduzida."
+    },
+    {
+     "letra": "C",
+     "texto": "os níveis de TSH são muito elevados e correspondem diretamente à gravidade do estado clínico."
+    },
+    {
+     "letra": "D",
+     "texto": "os níveis de fosfoquinase (CK) e de lactato encontram-se elevados."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": []
+}

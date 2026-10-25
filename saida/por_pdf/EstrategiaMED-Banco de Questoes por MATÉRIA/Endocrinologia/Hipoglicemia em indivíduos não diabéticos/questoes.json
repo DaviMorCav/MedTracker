@@ -1,0 +1,686 @@
+{
+ "questoes": [
+  {
+   "id": "4000141644",
+   "codigo": "4000141644",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipoglicemia em indivíduos não diabéticos",
+   "numero": 1,
+   "temas": [
+    "Hipoglicemia em indivíduos não diabéticos",
+    "Endocrinologia"
+   ],
+   "enunciado": "Mulher de 28 anos em investigação de hipoglicemia. Nega medicação de uso crônico. AF: mãe portadora de DM em uso de medicação oral e insulina. Considere os exames laboratoriais: Diante desses resultados, a hipótese diagnóstica é hipoglicemia",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "reacional reativa."
+    },
+    {
+     "letra": "B",
+     "texto": "por insulinoma."
+    },
+    {
+     "letra": "C",
+     "texto": "pelo uso de insulina."
+    },
+    {
+     "letra": "D",
+     "texto": "pelo uso de sulfonilureias."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q001-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000118223",
+   "codigo": "4000118223",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipoglicemia em indivíduos não diabéticos",
+   "numero": 2,
+   "temas": [
+    "Hipoglicemia em indivíduos não diabéticos",
+    "Insulinoma"
+   ],
+   "enunciado": "Você recebe um paciente com suspeita de crises de hipoglicemia. Qual a rmação NÃO está correta com relação ao diagnóstico diferencial destes casos?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Os insulinomas são tumores neuroendócrinos pequenos, que tem origem nas células beta pancreáticas."
+    },
+    {
+     "letra": "B",
+     "texto": "A tríade de Whipple é crítica para confirmar hipoglicemia de jejum e pós-prandial, idealmente com os sintomas observados pelo médico e a glicemia medida em laboratório."
+    },
+    {
+     "letra": "C",
+     "texto": "Hiperinsulinemia com níveis altos de peptídeo C e pró-insulina ocorre nos casos de insulinoma."
+    },
+    {
+     "letra": "D",
+     "texto": "A tríade de Whipple consiste em taquicardia, baixa glicemia plasmática e hipotensão arterial."
+    },
+    {
+     "letra": "E",
+     "texto": "Ausência de hipoglicemia após 48 horas de jejum é suficiente para excluir o diagnóstico de insulinoma."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000038053",
+   "codigo": "4000038053",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipoglicemia em indivíduos não diabéticos",
+   "numero": 3,
+   "temas": [
+    "VIPoma",
+    "Insulinoma",
+    "Glucagonoma"
+   ],
+   "enunciado": "Qual é a neoplasia endócrina pancreática associada à tríade de Whipple?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Gastrinoma"
+    },
+    {
+     "letra": "B",
+     "texto": "Glucagonoma"
+    },
+    {
+     "letra": "C",
+     "texto": "Insulinoma"
+    },
+    {
+     "letra": "D",
+     "texto": "Vipoma"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000103580",
+   "codigo": "4000103580",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipoglicemia em indivíduos não diabéticos",
+   "numero": 4,
+   "temas": [
+    "Insulinoma"
+   ],
+   "enunciado": "Em relação aos insulinomas, pode-se afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "São produzidos nas células alfa do pâncreas."
+    },
+    {
+     "letra": "B",
+     "texto": "São os tumores neuroendócrinos mais comuns do pâncreas."
+    },
+    {
+     "letra": "C",
+     "texto": "Raramente produzem hipoglicemia importante."
+    },
+    {
+     "letra": "D",
+     "texto": "Mais de 80% são malignos."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000098105",
+   "codigo": "4000098105",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipoglicemia em indivíduos não diabéticos",
+   "numero": 5,
+   "temas": [
+    "Insulinoma",
+    "Glucagonoma",
+    "Gastrinoma"
+   ],
+   "enunciado": "Qual o tumor funcionante mais comum do pâncreas:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Gastrinoma."
+    },
+    {
+     "letra": "B",
+     "texto": "Glucagonoma."
+    },
+    {
+     "letra": "C",
+     "texto": "Insulinoma."
+    },
+    {
+     "letra": "D",
+     "texto": "Somatostinoma."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000103388",
+   "codigo": "4000103388",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipoglicemia em indivíduos não diabéticos",
+   "numero": 6,
+   "temas": [
+    "Hipoglicemia em indivíduos não diabéticos",
+    "Insulinoma",
+    "Insulinoma"
+   ],
+   "enunciado": "O insulinoma é o tumor funcionante mais comum do pâncreas endócrino. Sobre esse tumor, assinale a alternativa CORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "97% dos insulinomas são localizados no duodeno, hilo esplênico ou ligamento gastrocólico, e os outros 3% no pâncreas."
+    },
+    {
+     "letra": "B",
+     "texto": "São hipoatenuantes quando comparados ao tecido pancreático circundante em tomografia computadorizada com contraste."
+    },
+    {
+     "letra": "C",
+     "texto": "Um nível inapropriadamente alto de insulina sérica (> 5µU/mL), na presença de hipoglicemia, é patognomônico de insulinoma."
+    },
+    {
+     "letra": "D",
+     "texto": "Após a localização, a ressecção cirúrgica do insulinoma é geralmente curativa porque a maior parte dos tumores tende a ser pequena, benigna e solitária."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000074173",
+   "codigo": "4000074173",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipoglicemia em indivíduos não diabéticos",
+   "numero": 7,
+   "temas": [
+    "Hipoglicemia em indivíduos não diabéticos",
+    "Insulinoma",
+    "Hipoglicemia"
+   ],
+   "enunciado": "A glicose é um combustível metabólico obrigatório para o cérebro em condições siológicas. Entretanto o cérebro é incapaz de sintetizar glicose ou armazenar glicogênio por mais de alguns minutos. Por conseguinte, necessita de um suprimento contínuo de glicose a partir do sangue arterial. São sintomas neuroglicopênicos da hipoglicemia, EXCETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tremor."
+    },
+    {
+     "letra": "B",
+     "texto": "Fadiga."
+    },
+    {
+     "letra": "C",
+     "texto": "Crise convulsiva."
+    },
+    {
+     "letra": "D",
+     "texto": "Confusão mental."
+    },
+    {
+     "letra": "E",
+     "texto": "Alterações do comportamento."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000064233",
+   "codigo": "4000064233",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipoglicemia em indivíduos não diabéticos",
+   "numero": 8,
+   "temas": [
+    "Hipoglicemia em indivíduos não diabéticos",
+    "Insulinoma"
+   ],
+   "enunciado": "A dosagem sérica do peptídeo C pode ser útil no diagnóstico de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "vipoma"
+    },
+    {
+     "letra": "B",
+     "texto": "insulinoma"
+    },
+    {
+     "letra": "C",
+     "texto": "feocromocitoma"
+    },
+    {
+     "letra": "D",
+     "texto": "hipernefroma"
+    },
+    {
+     "letra": "E",
+     "texto": "somatostinoma"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000057721",
+   "codigo": "4000057721",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipoglicemia em indivíduos não diabéticos",
+   "numero": 9,
+   "temas": [
+    "Hipoglicemia em indivíduos não diabéticos",
+    "Insulinoma",
+    "Insulinoma"
+   ],
+   "enunciado": "Mulher de 48 anos é trazida inconsciente ao Pronto-Socorro. Marido relata que paciente estava fazendo atividades domésticas de rotina, quando se queixou de mal estar geral inespecí co e visão turva, seguida de perda súbita da consciência. Familiar relata que paciente sempre teve boa saúde, porém nos últimos meses queixava-se de fraqueza e fadiga excessivas que relacionava com excesso de trabalho. Realizada monitorização cardíaca, veiasalinizada e oxigenioterapia, paciente encontra-se torporosa, Glasgow = 9 (AO = 2; RV = 3; RM = 4), pupilas mióticas e isofotorreagentes, sem sinais localizatórios, estável hemodinamicamente e com glicemia capilar de 40 mg/dl. Exames laboratoriais gerais e toxicológicos foram coletados. Após correção com glicose hipertônica, nova glicemia capilar é igual a 70 mg/dl, com melhora do nível de consciência (Glasgow =12; AO = 3; RV = 4; RM = 5). Familiar nega histórico de Diabetes Mellitus e/ou uso de medicamentos. Após checagem dos exames e da plena recuperação da paciente, a melhor conduta é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Liberar paciente para casa com orientações para evitar tempo prolongado de jejum, visto que paciente não faz uso de medicações hipoglicemiantes."
+    },
+    {
+     "letra": "B",
+     "texto": "Solicitar internação hospitalar para investigação de hipoglicemia e iniciar o Teste de Jejum Prolongado, considerando a hipótese de insulinoma, cujo diagnóstico é essencialmente tomográfico."
+    },
+    {
+     "letra": "C",
+     "texto": "Liberar paciente para casa com orientações dietéticas e investigação ambulatorial da causa da fadiga crônica, visto que não faz uso de medicações hipoglicemiantes."
+    },
+    {
+     "letra": "D",
+     "texto": "Solicitar internação hospitalar para investigação de hipoglicemia e iniciar o Teste de Jejum Prolongado, considerando a hipótese de insulinoma, cujo diagnóstico são níveis séricos elevados de insulina, pró-insulina e de Peptídeo C associados a glicemia baixa (< 45 mg/dl)."
+    },
+    {
+     "letra": "E",
+     "texto": "Solicitar internação hospitalar para investigação de hipoglicemia e iniciar o Teste de Jejum Prolongado, considerando a hipótese de insulinoma, cujo diagnóstico são níveis séricos elevados de insulina e pró-insulina, porém baixos níveis de Peptídeo C associados a glicemia baixa (<45 mg/dl)."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000011849",
+   "codigo": "4000011849",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipoglicemia em indivíduos não diabéticos",
+   "numero": 10,
+   "temas": [
+    "Hipoglicemia em indivíduos não diabéticos",
+    "Endocrinologia"
+   ],
+   "enunciado": "Mulher de 25 anos, IMC 30 kg/m2, chega ao seu consultório referindo episódios de sudorese, agitação com obnubilação e desmaios quando foram constatados baixos níveis glicêmicos. Refere esses sintomas há bastante tempo, mas eram atribuídos à \"crise nervosa\". Nos episódios de desmaios, houve necessidade da administração de glicose EV que reverteu a sintomatologia. Ao exame: obesidade grau 1, certo grau de dé cit cognitivo. Nega uso de medicações. Quais os resultados prováveis dos exames dessa paciente em jejum prolongado?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Glicose sérica inferior a 60 mg/dL e níveis elevados de sulfonilureia na urina."
+    },
+    {
+     "letra": "B",
+     "texto": "Glicose sérica inferior a 50 mg/dL, com baixo nível de proinsulina sérica e alta dosagem de peptídeo C."
+    },
+    {
+     "letra": "C",
+     "texto": "Glicose sérica superior a 120 mg/dL, com alto nível de insulina sérica e baixa dosagem de peptídeo C."
+    },
+    {
+     "letra": "D",
+     "texto": "Glicose sérica inferior a 50 mg/dL, com alto nível de insulina sérica e relação insulina/ glicose maior que 0,4."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000093489",
+   "codigo": "4000093489",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipoglicemia em indivíduos não diabéticos",
+   "numero": 11,
+   "temas": [
+    "Hipoglicemia em indivíduos não diabéticos",
+    "Insulinoma",
+    "Insulinoma"
+   ],
+   "enunciado": "Paciente do sexo feminino, 25 anos, é internada por episódios de Hipoglicemia. Não é diabética e não faz uso de hipoglicemiantes orais ou insulina. Apresenta índice de massa corporal de 25 kg/m². Nega regimes dietéticos ou uso de outras medicações. Qual é o diagnóstico MAIS provável para o caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tumor pancreático produtor de insulina (insulinoma)."
+    },
+    {
+     "letra": "B",
+     "texto": "Jejum prolongado por não fracionamento da dieta (paciente somente toma café da manhã e janta, em decorrência do trabalho)."
+    },
+    {
+     "letra": "C",
+     "texto": "Gliconeogênese insuficiente por substituição do parênquima hepático por metástases."
+    },
+    {
+     "letra": "D",
+     "texto": "Síndrome de Cushing."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000056026",
+   "codigo": "4000056026",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipoglicemia em indivíduos não diabéticos",
+   "numero": 12,
+   "temas": [
+    "Hipoglicemia em indivíduos não diabéticos",
+    "Endocrinologia"
+   ],
+   "enunciado": "Mulher, 26 anos, queixa-se de sintomas compatíveis com hipoglicemia e diz não fazer uso de qualquer medicação. Na avaliação laboratorial constataram-se: glicemias de jejum = 40 e 42 mg/dl (v.r. 75-99 mg/dl); insulinas basais dosadas juntamente com as glicemias = 24 e 26 mU/ml (v.r. 2-19); peptídeo C = 0,2 ng/ml (v.r. 0,36-3,59). Assim, qual a hipótese diagnóstica mais plausível?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Insulinoma."
+    },
+    {
+     "letra": "B",
+     "texto": "Hipoglicemia autoinduzida por insulina."
+    },
+    {
+     "letra": "C",
+     "texto": "Nesidioblastose."
+    },
+    {
+     "letra": "D",
+     "texto": "Hipoglicemia autoinduzida por sulfoniluréias."
+    },
+    {
+     "letra": "E",
+     "texto": "Hepatopatia crônica."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000041464",
+   "codigo": "4000041464",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipoglicemia em indivíduos não diabéticos",
+   "numero": 13,
+   "temas": [
+    "Hipoglicemia em indivíduos não diabéticos",
+    "Endocrinologia"
+   ],
+   "enunciado": "Paciente 30 anos, sexo feminino, com tendência ao isolamento social, já foi levada várias vezes ao Pronto Socorro com quadro de hipoglicemia no último mês. Mora só com a sua avó que é diabética e usa insulina. Na última vez, cou internada para investigação. Realizou o teste do jejum de 72 horas: Glicemia = < 40 mg/dl; Insulinemia = > 6µU/ml (elevado); Peptídeo C = > 0,6 ng/ml (elevado); Dosagem de sulfonilureias = negativa. O diagnóstico mais provável é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipoglicemia factícia induzida por insulina."
+    },
+    {
+     "letra": "B",
+     "texto": "Insulinoma."
+    },
+    {
+     "letra": "C",
+     "texto": "Síndrome de Cushing."
+    },
+    {
+     "letra": "D",
+     "texto": "Hipoglicemia factícia induzida por Glibenclamida."
+    },
+    {
+     "letra": "E",
+     "texto": "Síndrome da Hipoglicemia Pancreatogênica não-insulinoma."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119263",
+   "codigo": "4000119263",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipoglicemia em indivíduos não diabéticos",
+   "numero": 14,
+   "temas": [
+    "Insulinoma",
+    "Cirurgia"
+   ],
+   "enunciado": "Assinale a alternativa que responde CORRETAMENTE à pergunta abaixo. A tríade de Whipple está associada a qual dos seguintes tumores?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Insulinoma."
+    },
+    {
+     "letra": "B",
+     "texto": "Somatostatinoma."
+    },
+    {
+     "letra": "C",
+     "texto": "Adenocarcinoma de pâncreas."
+    },
+    {
+     "letra": "D",
+     "texto": "Feocromocitoma."
+    },
+    {
+     "letra": "E",
+     "texto": "Glucagoma."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000060470",
+   "codigo": "4000060470",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipoglicemia em indivíduos não diabéticos",
+   "numero": 15,
+   "temas": [
+    "Hipoglicemia em indivíduos não diabéticos",
+    "Insulinoma",
+    "Gastroenterologia"
+   ],
+   "enunciado": "Os insulinomas são os mais frequentes tumores de ilhotas do pâncreas sendo responsáveis por cerca de 60% destes casos, caracterizadas como lesões hipervascularizadas geralmente solitárias e de pequenas dimensões. Referente aos insulinomas pode-se afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Aproximadamente 10% são de natureza maligna e 10% estão associados à síndrome de NEM 2."
+    },
+    {
+     "letra": "B",
+     "texto": "O diagnóstico pode apresentar a tríade de Whipple (hipoglicemia, glicemia < 90 mg/dl e alívio dos sintomas com administração de açúcar)."
+    },
+    {
+     "letra": "C",
+     "texto": "Os sintomas neurológicos são os mais comuns, podendo ocorrer paralisias, convulsões e coma."
+    },
+    {
+     "letra": "D",
+     "texto": "A localização pré-operatória é obtida facilmente com uso de métodos diagnósticos por imagem, auxiliando na ressecção cirúrgica."
+    },
+    {
+     "letra": "E",
+     "texto": "Os tumores benignos, pequenos e superficialmente palpáveis são tratados preferencialmente através da pancreatectomia parcial."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000088497",
+   "codigo": "4000088497",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipoglicemia em indivíduos não diabéticos",
+   "numero": 16,
+   "temas": [
+    "Hipoglicemia em indivíduos não diabéticos",
+    "Endocrinologia"
+   ],
+   "enunciado": "Uma paciente de 91 anos, moradora de instituição de longa permanência, acamada por doença de Alzheimer em fase avançada e portadora de marca-passo, de doença renal crônica dialítica e de hipertensão arterial sistêmica, é internada por apresentar hipoglicemia refratária. É realizada uma investigação da causa da hipoglicemia, e os exames apresentam os seguintes resultados: glicemia em jejum = 22 mg/dl; glicemia pós- prandial = 34 mg/dl; dosagem de insulina após jejum de 24h = 25 mcgU/ml (referência < 6 mcgU/ml em jejum) e dosagem de peptídeo C elevada. O diagnóstico e a terapêutica proposta para essa paciente são, respectivamente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Uma provável neoplasia maligna com baixa nutrição crônica; deve-se proceder à investigação de tumores do trato digestivo e tratar com dexametasona, enquanto são realizados outros exames."
+    },
+    {
+     "letra": "B",
+     "texto": "Um provável insulinoma; deve-se proceder ao tratamento cirúrgico definitivo (pancreatectomia parcial) tendo em vista a real chance de cura da paciente, mesmo em lesões não encontradas nos exames de imagem."
+    },
+    {
+     "letra": "C",
+     "texto": "Uma provável hipoglicemia por uso iatrogênico de hipoglicemiantes pelos cuidadores; deve-se aguardar um período não inferior a sete dias para a realização de novos exames."
+    },
+    {
+     "letra": "D",
+     "texto": "Um provável insulinoma; deve-se tentar terapias menos agressivas, como o uso do octreotide subcutâneo, tendo em vista a falta de condições da paciente para o tratamento cirúrgico."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000073998",
+   "codigo": "4000073998",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipoglicemia em indivíduos não diabéticos",
+   "numero": 17,
+   "temas": [
+    "Hipoglicemia em indivíduos não diabéticos",
+    "Insulinoma",
+    "Endocrinologia"
+   ],
+   "enunciado": "Homem de 32 anos vem apresentando sintomas compatíveis com hipoglicemia há cerca de 30 dias. Nega uso de qualquer medicação. Os exames realizados revelaram os seguintes resultados: glicemia de jejum = 28, 33 e 36 mg/dl; insulinas basais = 24, 45 e 43 U/ml (VR: 2-19); peptídeo C = 8,2 mg/dl (VR: 0,36-3,59). A hipótese diagnóstica mais plausível é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "insulinoma."
+    },
+    {
+     "letra": "B",
+     "texto": "hipoglicemia autoinduzida por insulina."
+    },
+    {
+     "letra": "C",
+     "texto": "hipoglicemia autoinduzida por sulfonilureia."
+    },
+    {
+     "letra": "D",
+     "texto": "nesidioblastose."
+    },
+    {
+     "letra": "E",
+     "texto": "hipoglicemia autoimune."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000061667",
+   "codigo": "4000061667",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipoglicemia em indivíduos não diabéticos",
+   "numero": 18,
+   "temas": [
+    "Hipoglicemia em indivíduos não diabéticos",
+    "Endocrinologia"
+   ],
+   "enunciado": "A hipoglicemia em indivíduos com doença coexistente pode estar relacionada à:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Insuficiência renal e uso de sulfametoxazol-trimetoprima; doença de Addison;"
+    },
+    {
+     "letra": "B",
+     "texto": "Pneumonia por Pneumocystis e uso de pentamidina; pancreatite;"
+    },
+    {
+     "letra": "C",
+     "texto": "Malária cerebral e uso de quinina; feocromocitoma;"
+    },
+    {
+     "letra": "D",
+     "texto": "Subnutrição e uso de tiazídicos; hemocromatose."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000010496",
+   "codigo": "4000010496",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hipoglicemia em indivíduos não diabéticos",
+   "numero": 19,
+   "temas": [
+    "Hipoglicemia em indivíduos não diabéticos",
+    "Endocrinologia"
+   ],
+   "enunciado": "Um paciente de 40 anos de idade vem apresentando confusão mental ocasional, sudorese profusa e palpitações nas últimas oito semanas. Avaliado pelo seu médico que solicitou glicose plasmática de jejum (resultado 45 mg/dL - VN 70 a 99 mg/dL) e peptídeo C (elevado). Em relação a essa situação hipotética, assinale a alternativa que contém o diagnóstico mais provável. Respostas: 1 12",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Insuficiência hepática."
+    },
+    {
+     "letra": "B",
+     "texto": "Baixa ingestão alimentar."
+    },
+    {
+     "letra": "C",
+     "texto": "Etilismo crônico."
+    },
+    {
+     "letra": "D",
+     "texto": "Insulinoma."
+    },
+    {
+     "letra": "E",
+     "texto": "Sintomas autônomos sem hipoglicemia verdadeira."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": []
+}

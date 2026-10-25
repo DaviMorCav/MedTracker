@@ -1,0 +1,2866 @@
+{
+ "questoes": [
+  {
+   "id": "4000189235",
+   "codigo": "4000189235",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 1,
+   "temas": [
+    "Complexo QRS"
+   ],
+   "enunciado": "O eletrocardiograma, também chamado de ECG, é o registro gráfico dos fenômenos elétricos do músculo cardíaco ou do coração. Com base no tema, é CORRETO afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O complexo QRS representa a despolarização e a condução do impulso nos ventrículos."
+    },
+    {
+     "letra": "B",
+     "texto": "O ECG é registrado em papel gráfico, na velocidade (linha vertical) de 20 mm/s, ou 1mm a cada 0,04 segundos."
+    },
+    {
+     "letra": "C",
+     "texto": "As derivações periféricas são obtidas no plano horizontal, pela colocação de eletrodos no tórax do paciente."
+    },
+    {
+     "letra": "D",
+     "texto": "O posicionamento do eletrodo para derivação precordial V4 deve ser de 4° espaço intercostal à direita, próximo ao esterno."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000188746",
+   "codigo": "4000188746",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 2,
+   "temas": [
+    "Hipercalemia",
+    "Distúrbios eletrolíticos"
+   ],
+   "enunciado": "Maria, 66 anos de idade, diabética e hipertensa, em uso de enalapril e metformina, comparece a consulta ambulatorial com queixa de astenia e turvação visual há 2 dias. E encaminhada ao Departamento de Emergência após realizar o seguinte eletrocardiograma. Qual deve ser a conduta imediata?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Atropina."
+    },
+    {
+     "letra": "B",
+     "texto": "Encaminhar para marcapasso definitivo."
+    },
+    {
+     "letra": "C",
+     "texto": "Trombólise."
+    },
+    {
+     "letra": "D",
+     "texto": "Gluconato de cálcio."
+    },
+    {
+     "letra": "E",
+     "texto": "Marcapasso transcutâneo."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q002-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000187276",
+   "codigo": "4000187276",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 3,
+   "temas": [
+    "Aumentos cavitários"
+   ],
+   "enunciado": "HMN, masculino de 57 anos, grande tabagista e obeso, analisando se ECG foi encontrado Sobrecarga Atrial Esquerda (SAE) com onda P com componente negativo aumentado ( nal lento e profundo) na derivação V1. Podemos indicar como correto que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A área da fase negativa de pelo menos 0,09 mm/s, ou igual ou superior a 1 mm², constitui o Índice de Morris, que apresenta melhor sensibilidade que o critério isolado de duração aumentada."
+    },
+    {
+     "letra": "B",
+     "texto": "A área da fase negativa de pelo menos 0,04 mm/s, ou igual ou superior a 11 mm², constitui o Índice de Morris, que apresenta melhor sensibilidade que o critério isolado de duração aumentada."
+    },
+    {
+     "letra": "C",
+     "texto": "A área da fase negativa de pelo menos 0,04 mm/s, ou igual ou superior a 1 mm², constitui o Índice de Morris, que apresenta pior sensibilidade que o critério isolado de duração aumentada."
+    },
+    {
+     "letra": "D",
+     "texto": "A área da fase negativa de pelo menos 0,04 mm/s, ou igual ou superior a 1 mm², constitui o Índice de Morris, que apresenta melhor sensibilidade que o critério isolado de duração aumentada."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000187271",
+   "codigo": "4000187271",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 4,
+   "temas": [
+    "Aumentos cavitários"
+   ],
+   "enunciado": "Sobrecarga Atrial Direita (SAD), está de acordo com o seguinte item correto:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A onda P apresenta-se não apiculada com amplitude acima de 0,25 mV ou 2,5 mm."
+    },
+    {
+     "letra": "B",
+     "texto": "A onda P apresenta-se apiculada com amplitude acima de 0,25 mV ou 2,5 mm."
+    },
+    {
+     "letra": "C",
+     "texto": "A onda P apresenta-se apiculada com amplitude abaixo de 0,25 mV ou 2,5 mm."
+    },
+    {
+     "letra": "D",
+     "texto": "A onda P apresenta-se apiculada com amplitude acima de 0,25 mV ou 3,5 mm."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186478",
+   "codigo": "4000186478",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 5,
+   "temas": [
+    "Diagnóstico dif erencial de supra"
+   ],
+   "enunciado": "Assinale a alternativa correta: Quais as condições que podem mimetizar no eletrocardiograma o infarto com supradesnivelamento do segmento ST?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Repolarização precoce"
+    },
+    {
+     "letra": "B",
+     "texto": "Miocardite"
+    },
+    {
+     "letra": "C",
+     "texto": "Síndrome de Takotsubo (cardiomiopatia por stress)"
+    },
+    {
+     "letra": "D",
+     "texto": "Todas acima"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186373",
+   "codigo": "4000186373",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 6,
+   "temas": [
+    "Eletrocardiograma",
+    "Alterações eletrocardiográf icas mais comuns"
+   ],
+   "enunciado": "São causas de QRS com baixa voltagem no eletrocardiograma.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Anasarca e Síndrome de Wolf Parkinson White."
+    },
+    {
+     "letra": "B",
+     "texto": "Derrame pericárdico e DPOC."
+    },
+    {
+     "letra": "C",
+     "texto": "Miocardite e Tetralogia de Fallot."
+    },
+    {
+     "letra": "D",
+     "texto": "Intoxicação por lítio e DPOC."
+    },
+    {
+     "letra": "E",
+     "texto": "Febre Reumática e aneurisma de aorta."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000184852",
+   "codigo": "4000184852",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 7,
+   "temas": [
+    "Ritmo cardíaco",
+    "Eletrocardiograma",
+    "Rotina de avaliação do eletrocardiograma"
+   ],
+   "enunciado": "Pode-se afirmar que um eletrocardiograma em ritmo sinusal, necessariamente, apresenta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "onda P positiva em todas as derivações periféricas."
+    },
+    {
+     "letra": "B",
+     "texto": "complexo QRS com duração inferior a 130ms."
+    },
+    {
+     "letra": "C",
+     "texto": "eixo elétrico entre - 30º e + 90º."
+    },
+    {
+     "letra": "D",
+     "texto": "onda P positiva em DI e negativa em aVr."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000184114",
+   "codigo": "4000184114",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 8,
+   "temas": [
+    "Bradiarritmias",
+    "Bloqueios"
+   ],
+   "enunciado": "Homem, 50 anos, hipertenso, em uso de propranolol 120 mg/dia, procura a unidade de pronto atendimento por palpitação há uma semana. O exame clínico é normal, com frequência cardíaca de 56 bpm. O ECG realizado na unidade de saúde está mostrado a seguir. Qual o ritmo cardíaco mostrado no eletrocardiograma?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "BAV de segundo grau Mobitz I."
+    },
+    {
+     "letra": "B",
+     "texto": "Bradicardia sinusal."
+    },
+    {
+     "letra": "C",
+     "texto": "BAV de primeiro grau."
+    },
+    {
+     "letra": "D",
+     "texto": "BAV de segundo grau Mobitz II."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q008-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000183290",
+   "codigo": "4000183290",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 9,
+   "temas": [
+    "Alterações eletrocardiográf icas mais comuns"
+   ],
+   "enunciado": "Uma paciente de 71 anos de idade, sem antecedentes patológicos conhecidos, apresentou, subitamente, vômitos, hipertensão arterial, polaciúria e confusão mental. Durante a consulta, foi realizado eletrocardiograma, que, a primeira vista, não evidenciou anormalidades. O ritmo era sinusal e a frequência cardíaca, assim como as ondas P, QRS e T, estavam normais. Uma análise mais minuciosa identi cou alterações que sugerem encurtamento do intervalo QT. A imagem a seguir representa o eletrocardiograma dessa paciente. Assinale a alternativa que apresenta a alteração hidroeletrolítica mais provável no caso clínico acima.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "hipocalemia"
+    },
+    {
+     "letra": "B",
+     "texto": "hipercalemia"
+    },
+    {
+     "letra": "C",
+     "texto": "hipomagnesemia"
+    },
+    {
+     "letra": "D",
+     "texto": "hipocalcemia"
+    },
+    {
+     "letra": "E",
+     "texto": "hipercalcemia"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [
+    {
+     "arquivo": "imagens/q009-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000191054",
+   "codigo": "4000191054",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 10,
+   "temas": [
+    "Distúrbios de ritmo cardíaco",
+    "Bloqueios"
+   ],
+   "enunciado": "Mulher, 55 anos, natural do interior de Minas Gerais, apresenta queixa de palpitações há algum tempo, com piora nos últimos dois meses. Apresentou dois episódios de síncope nesse período e deu entrada no serviço de emergência com queixa de astenia, tontura, turvação visual, falta de ar, edema nas pernas e desconforto torácico. Foi realizado um eletrocardiograma que está ilustrado a seguir. Assinale a alternativa que apresenta a causa mais provável da sintomatologia apresentada",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Taquicardia atrial com condução atrioventricular variável gerando baixo débito."
+    },
+    {
+     "letra": "B",
+     "texto": "Síndrome coronariana aguda."
+    },
+    {
+     "letra": "C",
+     "texto": "Insuficiência cardíaca perfil C."
+    },
+    {
+     "letra": "D",
+     "texto": "Dissociação atrioventricular."
+    },
+    {
+     "letra": "E",
+     "texto": "Hipotensão postural por disautonomia."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q010-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000169673",
+   "codigo": "4000169673",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 11,
+   "temas": [
+    "Distúrbios eletrolíticos"
+   ],
+   "enunciado": "Observe os eletrocardiogramas abaixo e assinale a alternativa CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O ECG 1 é de um paciente hipertenso estágio 3."
+    },
+    {
+     "letra": "B",
+     "texto": "O ECG 2 é de um paciente renal crônico com hipercalemia."
+    },
+    {
+     "letra": "C",
+     "texto": "O ECG 3 é de um paciente com bloqueio de ramo esquerdo."
+    },
+    {
+     "letra": "D",
+     "texto": "O ECG 4 é de uma pessoa normal."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q011-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000166917",
+   "codigo": "4000166917",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 12,
+   "temas": [
+    "Eletrocardiograma",
+    "Cardiologia"
+   ],
+   "enunciado": "O eletrocardiograma realiza a reprodução grá ca da atividade elétrica do coração durante o seu funcionamento, registrada a partir da superfície do corpo. Quanto às principais alterações eletrocardiográ cas, onda P com orientação normal e frequência cardíaca < 50 bpm denotam:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Parada sinusal."
+    },
+    {
+     "letra": "B",
+     "texto": "Bloqueio sinoatrial (BSA)."
+    },
+    {
+     "letra": "C",
+     "texto": "Bradicardia sinusal."
+    },
+    {
+     "letra": "D",
+     "texto": "Bloqueio de ramo esquerdo (BRE)."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000166198",
+   "codigo": "4000166198",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 13,
+   "temas": [
+    "Eletrocardiograma",
+    "Cardiologia"
+   ],
+   "enunciado": "O posicionamento correto do eletrodo para a derivação torácica V4 do eletrocardiograma é no",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "quinto espaço intercostal, na linha hemiclavicular esquerda."
+    },
+    {
+     "letra": "B",
+     "texto": "quinto espaço intercostal, entre a região paraesternal esquerda e a linha hemiclavicular esquerda."
+    },
+    {
+     "letra": "C",
+     "texto": "quinto espaço intercostal, na linha axilar média esquerda."
+    },
+    {
+     "letra": "D",
+     "texto": "quarto espaço intercostal, na região paraesternal direita."
+    },
+    {
+     "letra": "E",
+     "texto": "quarto espaço intercostal, na região paraesternal esquerda."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000165562",
+   "codigo": "4000165562",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 14,
+   "temas": [
+    "Distúrbios eletrolíticos"
+   ],
+   "enunciado": "Mulher de 66 anos de idade, diabética e hipertensa, em uso de enalapril e metformina, comparece a consulta ambulatorial com queixa de astenia e turvação visual há 2 dias. É encaminhada ao Departamento de Emergência após realizar o seguinte eletrocardiograma. Qual deve ser a conduta imediata?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Atropina."
+    },
+    {
+     "letra": "B",
+     "texto": "Marcapasso transcutâneo."
+    },
+    {
+     "letra": "C",
+     "texto": "Gluconato de cálcio."
+    },
+    {
+     "letra": "D",
+     "texto": "Trombólise."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q014-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000146894",
+   "codigo": "4000146894",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 15,
+   "temas": [
+    "Eletrocardiograma"
+   ],
+   "enunciado": "Paciente do sexo masculino, 89 anos de idade, proveniente do interior do Piauí de área endêmica de Doença de Chagas foi admitido no pronto atendimento com quadro de síncope recorrente. É portador de cardiopatia chagásica e marca-passo cardíaco definitivo há 10 anos. Diante do traçado eletrocardiográfico obtido na admissão, qual o diagnóstico e a melhor conduta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ritmo ectópico atrial; tratamento conservador."
+    },
+    {
+     "letra": "B",
+     "texto": "Taquicardia ventricular; cardioversão elétrica imediata."
+    },
+    {
+     "letra": "C",
+     "texto": "Fibrilação atrial aguda; iniciar anticoagulante oral e programar ecocardiogramatransesofágico para reversão da arritmia."
+    },
+    {
+     "letra": "D",
+     "texto": "Disfunção do marca-passo cardíaco; procedimento cirúrgico para troca de cabo-eletrodo."
+    },
+    {
+     "letra": "E",
+     "texto": "Marca-passo cardíaco com captura atrial e ventricular adequada; investigação da síncope com teste da mesa inclinada."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q015-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000146459",
+   "codigo": "4000146459",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 16,
+   "temas": [
+    "Fisiologia Cardíaca e Eletrocardiograma"
+   ],
+   "enunciado": "Homem, 22 anos, vítima de queimadura em tórax, abdome e parte dos membros superiores, com superfície corpórea queimada de 52%, internado na UTI há 3 dias. Apesar da reposição volêmica, vem evoluindo com baixa diurese e valores crescentes de creatinina. Realizado ECG que é mostrado a seguir. Qual o diagnóstico?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipocalcemia."
+    },
+    {
+     "letra": "B",
+     "texto": "Hipopotassemia."
+    },
+    {
+     "letra": "C",
+     "texto": "Hiperpotassemia."
+    },
+    {
+     "letra": "D",
+     "texto": "Hiponatremia."
+    },
+    {
+     "letra": "E",
+     "texto": "Hipernatremia."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q016-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000145991",
+   "codigo": "4000145991",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 17,
+   "temas": [
+    "Bradiarritmias",
+    "Eletrocardiograma"
+   ],
+   "enunciado": "Mulher, 63 anos de idade, admitida na sala de emergência com quadro de confusão mental e letargia há duas horas. Relatou também episódio de tontura ao se levantar da cama. Previamente independente para atividades básicas e instrumentais da vida diária. Com diagnóstico de hipertensão arterial sistêmica há 10 anos, infarto agudo do miocárdio há 3 anos. Faz uso de amlodipina 10mg por dia, AAS 100mg por dia e atorvastatina 40mg por dia. Ao exame clínico: abertura ocular ao chamado, resposta verbal confusa e obediência aos comandos. Frequência cardíaca: 38 batimentos/minuto; pressão arterial: 92 x 66 mmHg; frequência respiratória: 20 incursões/minuto; Saturação de O₂: 96% em ar ambiente. Sem outras alterações. Foi obtido um eletrocardiograma de 12 derivações, reproduzido a seguir: Quais são os diagnósticos eletrocardiográficos?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Bloqueio atrioventricular de 2° grau Mobitz tipo II, bloqueio de ramo direito e bloqueio da divisão ântero-superior."
+    },
+    {
+     "letra": "B",
+     "texto": "Bloqueio atrioventricular de 2° grau Mobitz tipo I, bloqueio de ramo esquerdo e área elétrica inativa de parede inferior."
+    },
+    {
+     "letra": "C",
+     "texto": "Bloqueio atrioventricular de 2° grau Mobitz tipo I, bloqueio de ramo direito e bloqueio da divisão ântero-superior."
+    },
+    {
+     "letra": "D",
+     "texto": "Bloqueio atrioventricular de 2° grau Mobitz tipo II, bloqueio de ramo esquerdo e área elétrica inativa de parede inferior."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q017-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000142492",
+   "codigo": "4000142492",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 18,
+   "temas": [
+    "Eletrocardiograma"
+   ],
+   "enunciado": "Observe a imagem e responda à questão O traçado apresentado é característico do padrão de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "normalidade."
+    },
+    {
+     "letra": "B",
+     "texto": "bloqueio AV."
+    },
+    {
+     "letra": "C",
+     "texto": "Hipertrofia atrial."
+    },
+    {
+     "letra": "D",
+     "texto": "intervalo QT longo."
+    },
+    {
+     "letra": "E",
+     "texto": "troca de eletrodos."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q018-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000142491",
+   "codigo": "4000142491",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 19,
+   "temas": [
+    "Eletrocardiograma"
+   ],
+   "enunciado": "Observe a imagem e responda à questão O traçado apresentado é característico do padrão de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "normalidade."
+    },
+    {
+     "letra": "B",
+     "texto": "pré-excitação ventricular."
+    },
+    {
+     "letra": "C",
+     "texto": "QT longo."
+    },
+    {
+     "letra": "D",
+     "texto": "repolarização precoce."
+    },
+    {
+     "letra": "E",
+     "texto": "hipertrofia ventricular."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q019-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000141126",
+   "codigo": "4000141126",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 20,
+   "temas": [
+    "Exames complementares",
+    "Cardiologia",
+    "Quadro clínico"
+   ],
+   "enunciado": "Homem, 42a, procurou o pronto atendimento com queixa de dor precordial há duas horas, ventilatório-dependente, piora quando se deita e melhora quando ca em pé. Refere também febre e mal-estar há quatro dias, com melhora após uso de paracetamol. Exame físico: = 38o C, PA= 112x86 mmHg; FC= 112 bpm, FR= 21 irpm; Coração: rangido de alta frequência, mais audível no final da expiração. Troponina= 123 ng/mL; ECG: O DIAGNÓSTICO É:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tromboembolismo pulmonar."
+    },
+    {
+     "letra": "B",
+     "texto": "Endocardite bacteriana aguda."
+    },
+    {
+     "letra": "C",
+     "texto": "Pericardite aguda."
+    },
+    {
+     "letra": "D",
+     "texto": "Infarto agudo miocárdio."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q020-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000140605",
+   "codigo": "4000140605",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 21,
+   "temas": [
+    "Exames complementares",
+    "Cardiologia"
+   ],
+   "enunciado": "Qual das valvopatias indicadas a seguir é compatível, quando ocorrida isoladamente, com as alterações presentes neste eletrocardiograma?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Insuficiência aórtica."
+    },
+    {
+     "letra": "B",
+     "texto": "Estenose mitral."
+    },
+    {
+     "letra": "C",
+     "texto": "Insuficiência tricúspide."
+    },
+    {
+     "letra": "D",
+     "texto": "Estenose pulmonar."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q021-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000140592",
+   "codigo": "4000140592",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 22,
+   "temas": [
+    "Bloqueios"
+   ],
+   "enunciado": "Homem de 68 anos de idade tem insu ciência cardíaca com fração de ejeção de 36%. Está em uso de enalapril 20 mg/dia, furosemida 40 mg/dia, carvedilol 50 mg/dia e espironolactona 25 mg/dia. Durante os últimos meses, persistia com dispneia apenas aos grandes esforços. Procura o pronto-atendimento porque há 7 dias apresenta piora da dispneia (atualmente no repouso), tosse seca e febre baixa (37,9ºC). No exame clínico, está em regular estado geral, consciente e orientado. FC 88 bpm, PA 90x60 mmHg, saturação de oxigênio em ar ambiente: 89%. Ausculta pulmonar com estertores nos em ambas as bases. O último eletrocardiograma presente em prontuário (realizado há um mês) está apresentado a seguir. Qual é a conclusão do laudo do eletrocardiograma?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Bloqueio atrioventricular total."
+    },
+    {
+     "letra": "B",
+     "texto": "Aneurisma ventricular."
+    },
+    {
+     "letra": "C",
+     "texto": "Ritmo juncional."
+    },
+    {
+     "letra": "D",
+     "texto": "Bloqueio de ramo esquerdo."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q022-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000132805",
+   "codigo": "4000132805",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 23,
+   "temas": [
+    "Eletrocardiograma"
+   ],
+   "enunciado": "As alterações hidroeletrolíticas podem levar a distúrbios cardíacos, colocando o paciente em risco de intercorrência clínica fatal. São alterações eletrocardiográficas causadas pela hipercalemia, exceto:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ondas T apiculadas."
+    },
+    {
+     "letra": "B",
+     "texto": "Achatamento da onda P."
+    },
+    {
+     "letra": "C",
+     "texto": "Alargamento do complexo QRS."
+    },
+    {
+     "letra": "D",
+     "texto": "Encurtamento do intervalo PR."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000131051",
+   "codigo": "4000131051",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 24,
+   "temas": [
+    "Eletrocardiograma"
+   ],
+   "enunciado": "Um paciente portador de doença renal crônica dialítica, sem diurese residual, faltou as ultimas sessões de diálise e agora apresenta-se na emergência com quadro de hipercalemia (Potássio de 8,9) e com a gasometria apontando Bicarbonato de 8 meq/L, PH de 7,1, PCO2 de 20mmHg, Sódio de 132, Cloreto de 86. Qual dos achados abaixo",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Achatamento de onda “p”"
+    },
+    {
+     "letra": "B",
+     "texto": "Alargamento do “qrs”"
+    },
+    {
+     "letra": "C",
+     "texto": "Onda “T” Apiculada"
+    },
+    {
+     "letra": "D",
+     "texto": "Aparecimento da onda “U”"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000102263",
+   "codigo": "4000102263",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 25,
+   "temas": [
+    "Eletrocardiograma"
+   ],
+   "enunciado": "Paciente de 71 anos de idade é atendido em consulta de retorno e traz o eletrocardiograma (ECG) mostrado a seguir. O diagnóstico correto é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "doença do nó sinusal."
+    },
+    {
+     "letra": "B",
+     "texto": "flutter atrial."
+    },
+    {
+     "letra": "C",
+     "texto": "pré-excitação (Wolf-Parkinson-White)."
+    },
+    {
+     "letra": "D",
+     "texto": "ritmo atrial ectópico."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q025-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000074825",
+   "codigo": "4000074825",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 27,
+   "temas": [
+    "Potencial de ação"
+   ],
+   "enunciado": "Em relação à eletro siologia cardíaca, observando a curva contendo um potencial de ação de uma célula ventricular, pode- se afirmar que na fase:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1(um) a repolarização parcial se da pelo influxo de Ca++"
+    },
+    {
+     "letra": "B",
+     "texto": "0 (zero) do potencial de ação de uma célula ventricular, ocorre uma despolarização maciça da célula pelo influxo de Na+"
+    },
+    {
+     "letra": "C",
+     "texto": "4 (quatro) ocorre predomínio da corrente de Na+"
+    },
+    {
+     "letra": "D",
+     "texto": "2 (dois), de platô, corre equilíbrio entre o influxo de potássio e o fluxo de cálcio"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q027-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000042660",
+   "codigo": "4000042660",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 28,
+   "temas": [
+    "Bloqueios"
+   ],
+   "enunciado": "Paciente feminina, 06 anos, será submetida à cirurgia eletiva e ao ser examinada notou-se ritmo cardíaco irregular, sem outros sinais ou sintomas. Feito ECG que demonstrou: Baseado na história e ECG, o diagnóstico provável é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Arritmia sinusal."
+    },
+    {
+     "letra": "B",
+     "texto": "Bloqueio AV de segundo grau."
+    },
+    {
+     "letra": "C",
+     "texto": "Bloqueio AV de primeiro grau."
+    },
+    {
+     "letra": "D",
+     "texto": "Escape juncional por provável distúrbio eletrolítico."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q028-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000014510",
+   "codigo": "4000014510",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 29,
+   "temas": [
+    "Distúrbios da condução atrioventricular",
+    "Bloqueios"
+   ],
+   "enunciado": "Paciente de 84 anos, evoluindo com quadros de síndromes convulsivas tônicoclônicas de repetição, que se iniciam ao repouso, não acompanhadas de liberação es ncteriana. Procurou consultório do cardiologista, onde chegou deambulando normalmente e, no meio da consulta, apresentou uma síncope, seguida de crise convulsiva. Nesse momento, foi realizado eletrocardiograma abaixo, que confirmou o diagnóstico:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Bloqueio átrio-ventricular avançado alternante."
+    },
+    {
+     "letra": "B",
+     "texto": "Bloqueio átrio-ventricular do segundo grau."
+    },
+    {
+     "letra": "C",
+     "texto": "Bloqueio átrio-ventricular do tipo 2:1."
+    },
+    {
+     "letra": "D",
+     "texto": "Bloqueio átrio-ventricular do primeiro grau."
+    },
+    {
+     "letra": "E",
+     "texto": "Bloqueio átrio-ventricular total."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [
+    {
+     "arquivo": "imagens/q029-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000114925",
+   "codigo": "4000114925",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 30,
+   "temas": [
+    "Gluconato de cálcio",
+    "Distúrbios eletrolíticos"
+   ],
+   "enunciado": "Paciente do sexo masculino, 42 anos de idade, procurou atendimento médico no pronto-socorro de um hospital de nível terciário e relatou que, há 6 dias, tem apresentado episódios de vômitos, anorexia e tremores diários. Informou ser acompanhado nos ambulatórios de cardiologia e de nefrologia. Seu exame físico mostrou pressão arterial de 110 mmHg × 50 mmHg, frequência cardíaca de 41 bpm, temperatura axilar de 37 °C, hipocorado, ritmo cardíaco regular; a ausculta cardíaca da segunda bulha cardíaca permitiu verificar seu desdobramento apenas na fase da expiração; havia sopro sistólico ejetivo, grau 3 de Levine, mais bem audível em foco aórtico, irradiado para as artérias carótidas, e sopro diastólico aspirativo, grau 3 de Levine, mais bem audível em foco aórtico acessório, irradiado para região paraesternal esquerda baixa. Os pulmões estavam limpos. O abdome estava livre e não apresentava visceromegalias. Nas palmas das mãos, foram observadas máculas eritematosas, indolores. Nas polpas digitais das mãos, foram vistos pequenos nódulos dolorosos e violáceos. O paciente apresentou o seguinte eletrocardiograma: Em relação a esse caso, qual o distúrbio eletrolítico mais comum e qual a primeira medicação a ser realizada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipocalemia/cloreto de potássio"
+    },
+    {
+     "letra": "B",
+     "texto": "Hipercalcemia/metoprolol endovenoso"
+    },
+    {
+     "letra": "C",
+     "texto": "Hipocalcemia/gluconato de cálcio"
+    },
+    {
+     "letra": "D",
+     "texto": "Hipercalemia/atropina"
+    },
+    {
+     "letra": "E",
+     "texto": "Hipercalemia/gluconato de cálcio"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [
+    {
+     "arquivo": "imagens/q030-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000106146",
+   "codigo": "4000106146",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 31,
+   "temas": [
+    "Identif icando o local do inf arto",
+    "Eletrocardiograma"
+   ],
+   "enunciado": "Homem, 49 anos de idade, chega ao pronto-socorro com dor precordial em aperto há 1 hora. É fumante e hipertenso. Foi realizado o eletrocardiograma a seguir na sala de emergência. Qual é o diagnóstico eletrocardiográfico?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Infarto agudo atual em parede inferior e, possivelmente, anterior."
+    },
+    {
+     "letra": "B",
+     "texto": "Infarto agudo atual em parede inferior e, possivelmente, dorsal."
+    },
+    {
+     "letra": "C",
+     "texto": "Área inativa de parede inferior e, possivelmente, dorsal."
+    },
+    {
+     "letra": "D",
+     "texto": "Área inativa inferior e, possivelmente, anterior."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q031-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000082185",
+   "codigo": "4000082185",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 32,
+   "temas": [
+    "Alterações eletrocardiográf icas mais comuns"
+   ],
+   "enunciado": "O cor pulmonale pode ser definido como a alteração da estrutura e/ou função do ventrículo direito em quadro de doença pulmonar crônica com o surgimento de hipertensão pulmonar. Logo, o eletrocardiograma de um paciente com cor pulmonale crônico apresentará as seguintes alterações:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Onda P pulmonale e desvio do eixo para a esquerda."
+    },
+    {
+     "letra": "B",
+     "texto": "Onda P pulmonale, onda R em derivação V1 e onda S em derivações V5 e V6."
+    },
+    {
+     "letra": "C",
+     "texto": "Extrassístoles ventriculares."
+    },
+    {
+     "letra": "D",
+     "texto": "Aumento da duração da onda P, associado a entalhe."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000077603",
+   "codigo": "4000077603",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 33,
+   "temas": [
+    "Tromboembolismo Pulmonar TEP",
+    "Eletrocardiograma",
+    "Eixo cardíaco"
+   ],
+   "enunciado": "NÃO é uma alteração eletrocardiográfica comum na embolia pulmonar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "inversão da onda T nas derivações V1 - V4"
+    },
+    {
+     "letra": "B",
+     "texto": "taquicardia sinual"
+    },
+    {
+     "letra": "C",
+     "texto": "desvio do eixo elétrico QRS para a esquerda"
+    },
+    {
+     "letra": "D",
+     "texto": "onda S em D1, onda Q em D3 e inversão da onda T em D3"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000068760",
+   "codigo": "4000068760",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 34,
+   "temas": [
+    "Distúrbios da condução atrioventricular",
+    "Alterações eletrocardiográf icas mais comuns"
+   ],
+   "enunciado": "Um senhor de 52 anos de idade procura emergência com quadro de mal estar geral, fraqueza muscular e dispneia com início há 7 dias . Ele relata hipertensão arterial e uso regular de bisoprolol 100mg 2x/dia, enalapril 20mg 2x/dia e espironolactona 25mg/dia. Há 14 dias apresentou quadro de febre e dor de garganta e vem em uso de diclofecano de potássio 50mg 6/6h e sulfametoxazol + trimetoprina 800/160 mg 2x/dia. Ao exame: paciente taquipneico (FR= 36 IRPM), acianótico e anictérico. FC = 55 BPM, PA: 106 x 78 mmHG, Tax: 36,5°C. Ritmo cardiáco regular. Pulmões limpos. Abdômen com peristalse reduzida. Realizado o eletrocardiograma abaixo: Assinale a alternativa que contém o diagnóstico do paciente e a primeira medida terapêutica a ser realizada",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipercalemia; gluconato de cálcio."
+    },
+    {
+     "letra": "B",
+     "texto": "Bloqueio Atriovetricular de 3° grau; suspensão do bisoprolol."
+    },
+    {
+     "letra": "C",
+     "texto": "Hipercalemia; glicoinsulinoterapia."
+    },
+    {
+     "letra": "D",
+     "texto": "Bloqueio Atrioventricular de 3° grau ; marcapasso cardíaco."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q034-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000067368",
+   "codigo": "4000067368",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 35,
+   "temas": [
+    "Alterações eletrocardiográf icas mais comuns"
+   ],
+   "enunciado": "A utilidade clínica do ECG advém de sua disponibilidade imediata como um exame não invasivo, de baixo custo e muito versátil. Qual o diagnóstico diante da seguinte tríade no exame de ECG: taquicardia sinusal, baixa voltagem de QRS e alternância elétrica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Fibrilação atrial."
+    },
+    {
+     "letra": "B",
+     "texto": "Hipercalemia."
+    },
+    {
+     "letra": "C",
+     "texto": "Embolia pulmonar aguda."
+    },
+    {
+     "letra": "D",
+     "texto": "Derrame pericárdico com tamponamento cardíaco."
+    },
+    {
+     "letra": "E",
+     "texto": "Pericardite aguda."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000067269",
+   "codigo": "4000067269",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 36,
+   "temas": [
+    "Alterações eletrocardiográf icas mais comuns"
+   ],
+   "enunciado": "Homem, 68 anos de idade, com antecedente pessoal de Diabetes Mellitus, do tipo 2 e tabagismo 40 maços-ano. Trazido ao pronto-socorro devido a quadro de sonolência. Esposa refere ter notado aumento de volume urinário e constipação nos últimos dias, bem como perda de peso não intencional. Ao exame clínico: pressão arterial = 120 x 82 mmHg; frequência cardíaca = 88 batimentos/minuto; frequência respiratória = 10 incursões/minuto. Mau estado geral, descorado, desidratado. Aparelho cardíaco sem alterações. Aparelho respiratório: murmúrios vesiculares abolidos até terço médio de hemitórax esquerdo, sem egofonia. Abdome: indolor à palpação profunda, ausência de massas palpáveis. Realizado eletrocardiograma, reproduzido a seguir. Qual é o distúrbio apresentado pelo paciente em questão?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipercalcemia"
+    },
+    {
+     "letra": "B",
+     "texto": "Hipocalcemia"
+    },
+    {
+     "letra": "C",
+     "texto": "Hipomagnesemia"
+    },
+    {
+     "letra": "D",
+     "texto": "Hipopotassemia"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q036-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000031430",
+   "codigo": "4000031430",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 37,
+   "temas": [
+    "Distúrbios eletrolíticos"
+   ],
+   "enunciado": "Na hipocalemia profunda, definida com o potássio sérico inferior a 2,5mEq/L, pode- se encontrar as seguintes manifestações eletrocardiográficas, EXCETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Torsades de pointes."
+    },
+    {
+     "letra": "B",
+     "texto": "Achatamento da onda T."
+    },
+    {
+     "letra": "C",
+     "texto": "Desaparecimento da onda P."
+    },
+    {
+     "letra": "D",
+     "texto": "Surgimento ou proeminência da onda U."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000017876",
+   "codigo": "4000017876",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 38,
+   "temas": [
+    "Exames complementares",
+    "Aumentos cavitários"
+   ],
+   "enunciado": "Procurou assistência médica uma paciente de 25 anos de idade, que apresentava dispneia aos médios esforços e edema nos membros inferiores, o qual cava mais acentuado no nal da tarde. Ela tinha histórico de amigdalites de repetição. No exame físico, constatou-se pressão arterial de 110 mmHg x 70 mmHg, frequência cardíaca de 92 bpm, saturação de oxigênio = 93% (ar ambiente) e presença de estertores inspiratórios em terço inferior de ambos os hemotórax, à ausculta pulmonar. O exame cardiovascular evidenciou pré-cordio calmo, ictus cordis visível e palpável no 5° espaço intercostal esquerdo, na linha hemiclavicular esquerda, e discreta impulsão no terço inferior da região esternal (no sentido craniocaudal). A ausculta cardíaca mostrou ritmo cardíaco regular em 2 tempos, hiperfonese da primeira bulha em área mitral, na qual, também, foi constatada a presença de sopro diastólico (tipo ru ar) - grau 3 de Levine - seguido de esforço pré-sistólico e de ruído de abertura da mitral, e discreta hiperfonese da segunda bulha em área pulmonar. O abdome apresentava-se livre e sem visceromegalias. O edema era mole, frio, indolor, com sinal de Godet presente, e observado nos dois terços inferiores de ambas as pernas. Foi realizado eletrocardiograma (ECG) de 12 derivações. Considerando esse caso clínico, julgue o item subsecutivo. Com base nas manifestações clínicas observadas, ao pedir o ECG, o médico já deverá inferir que devem estar presentes as seguintes alterações eletrocardiográ cas: eixo elétrico do complexo QRS desviado para a esquerda (acima de -30°); onda P na derivação D2, com duração normal apiculada, com aumento de sua amplitude que indique sobrecarga atrial esquerda; complexo QRS com aumento de tempo de ativação (de exão intrinsecoide); e aumento de amplitude (>30 mm) nas derivações do plano horizontal, o que indica sobrecarga ventricular esquerda.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000017805",
+   "codigo": "4000017805",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 39,
+   "temas": [
+    "Fibrilação Atrial",
+    "Distúrbios de ritmo cardíaco"
+   ],
+   "enunciado": "Caso clínico- paciente sem doenças prévias; Idade: 19 anos: sexo: feminino; Sinais e sintomas: tremores nas extremidades, nervosismo e palpitações tarquicárdicas (FC = 150 bpm, PA 135 mmHg x 65 mmHg, pulsos radiais palpáveis e arrítimicos); Avaliação cardiovascular evidenciou ictus cordis in situ, ritmo cardíaco irregular em 2 tempos, taquicárdico, bulhas normofonéticas, sem sopros ou ruídos adventícios. Na palpação, percebeu-se glândula tireoide indolor, levemente aumentada e não nodular. Resultado de dosagem séricas: TSH (tirotro na) = 0,05 mU/L (valores de referência = 0,4 - 4,2 mU/L); T4 livre ( tiroxina livre) = 4,0 nanogramas/dL (valores de referência = 0,8 - 2,7 nanograma/dL); anticorpos antirreceptor de TSH (ou Trab) = 2 U/L (valor de referência < 10 U/L); anticorpos antitireoglobulinas = positivo 1/6.400 ( valores de referência não reagente < 1/100); determinação de anticorpos antiperoxidase tireoidiana (anti-TPO) = 70 U/mL ( valores de referência < 35 U/mL). Ecodopplercardiograma = normal. Tira de ritmo eletrocardiográfico (ECG) mostrada na figura a seguir (derivação D2, velocidade do papel: 25 mm/s, calibração: 1 cm= 1 mV). A respeito das informações do caso clínico descrito anteriomente, julgue o item subsequente. A arritimia cardíaca mostrada na tira de ECG é a fibrilação atrial.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q039-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000013423",
+   "codigo": "4000013423",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 40,
+   "temas": [
+    "Alterações eletrocardiográf icas mais comuns"
+   ],
+   "enunciado": "Certa paciente de 62 anos de idade, com histórico de hipertensão arterial sistêmica e diabetes mellitus tipo 2, assintomática no momento, traz eletrocardiograma (ECG) de 12 derivações, solicitado por médico em consulta anterior. Com base nesse caso clínico, e considerando-se a reprodução do ECG apresentado, mediante a utilização da Diretriz de Interpretação de Eletrocardiograma de Repouso, da Sociedade Brasileira de Cardiologia, julgue o item a seguir. Considere: FC = 51 spm; intervalo PR = 195 ms; intervalo QRS = 130 ms; intervalo QT = 440 ms. Observa-se uma bradicardia sinusal.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q040-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000013389",
+   "codigo": "4000013389",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 41,
+   "temas": [
+    "Alterações eletrocardiográf icas mais comuns"
+   ],
+   "enunciado": "Certa paciente de 62 anos de idade, com histórico de hipertensão arterial sistêmica e diabetes mellitus tipo 2, assintomática no momento, traz eletrocardiograma (ECG) de 12 derivações, solicitado por médico em consulta anterior. Com base nesse caso clínico, e considerando-se a reprodução do ECG apresentado, mediante a utilização da Diretriz de Interpretação de Eletrocardiograma de Repouso, da Sociedade Brasileira de Cardiologia, julgue o item a seguir. Considere: FC = 51 spm; intervalo PR = 195 ms; intervalo QRS = 130 ms; intervalo QT = 440 ms. As alterações de onda T em V5-V6 podem ser justificadas pela presença de bloqueio de ramo esquerdo.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q041-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000013363",
+   "codigo": "4000013363",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 42,
+   "temas": [
+    "Alterações eletrocardiográf icas mais comuns"
+   ],
+   "enunciado": "Certa paciente de 62 anos de idade, com histórico de hipertensão arterial sistêmica e diabetes mellitus tipo 2, assintomática no momento, traz eletrocardiograma (ECG) de 12 derivações, solicitado por médico em consulta anterior. Com base nesse caso clínico, e considerando-se a reprodução do ECG apresentado, mediante a utilização da Diretriz de Interpretação de Eletrocardiograma de Repouso, da Sociedade Brasileira de Cardiologia, julgue o item a seguir. Considere: FC = 51 spm; intervalo PR = 195 ms; intervalo QRS = 130 ms; intervalo QT = 440 ms. Veri ca-se um bloqueio atrioventricular de primeiro grau.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q042-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000013339",
+   "codigo": "4000013339",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 43,
+   "temas": [
+    "Alterações eletrocardiográf icas mais comuns"
+   ],
+   "enunciado": "Certa paciente de 62 anos de idade, com histórico de hipertensão arterial sistêmica e diabetes mellitus tipo 2, assintomática no momento, traz eletrocardiograma (ECG) de 12 derivações, solicitado por médico em consulta anterior. Com base nesse caso clínico, e considerando-se a reprodução do ECG apresentado, mediante a utilização da Diretriz de Interpretação de Eletrocardiograma de Repouso, da Sociedade Brasileira de Cardiologia, julgue o item a seguir. Considere: FC = 51 spm; intervalo PR = 195 ms; intervalo QRS = 130 ms; intervalo QT = 440 ms. Observa-se um bloqueio divisional posteroinferior esquerdo.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q043-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000127509",
+   "codigo": "4000127509",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 45,
+   "temas": [
+    "Distúrbios eletrolíticos"
+   ],
+   "enunciado": "Mulher de 65 anos é trazida por sua lha à unidade de emergência confusa e desorientada, queixando-se de cãimbras e formigamento nas mãos. Foi submetida à tireoidectomia por nódulos há 2 dias. No exame físico, observam-se sinais de Chvostek e Trousseau. O achado eletrocardiográfico esperado neste caso é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "pré-excitação com onda Delta."
+    },
+    {
+     "letra": "B",
+     "texto": "presença de onda U."
+    },
+    {
+     "letra": "C",
+     "texto": "alargamento de intervalo QT."
+    },
+    {
+     "letra": "D",
+     "texto": "encurtamento do QRS."
+    },
+    {
+     "letra": "E",
+     "texto": "inversão de onda T."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000113782",
+   "codigo": "4000113782",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 46,
+   "temas": [
+    "Eletrocardiograma",
+    "Aumentos cavitários"
+   ],
+   "enunciado": "Classicamente o S1Q3T3 é um achado eletrocardiográfico de que doença?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tromboembolismo pulmonar."
+    },
+    {
+     "letra": "B",
+     "texto": "IAM de ventrículo direito."
+    },
+    {
+     "letra": "C",
+     "texto": "Tamponamento pericárdico."
+    },
+    {
+     "letra": "D",
+     "texto": "Pericardite."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000113778",
+   "codigo": "4000113778",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 47,
+   "temas": [
+    "Aumentos cavitários",
+    "Complexo QRS",
+    "Quadro clínico"
+   ],
+   "enunciado": "Qual das emergências cardiológicas ocorre alternância elétrica no ECG?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "IAM após trombólise."
+    },
+    {
+     "letra": "B",
+     "texto": "Intoxicação digitálica."
+    },
+    {
+     "letra": "C",
+     "texto": "Tamponamento pericárdico."
+    },
+    {
+     "letra": "D",
+     "texto": "Hipotermia."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000098768",
+   "codigo": "4000098768",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 48,
+   "temas": [
+    "Alterações eletrocardiográf icas mais comuns"
+   ],
+   "enunciado": "Mulher, 43a, em investigação por fraturas recorrentes por pequenos traumas. Antecedentes pessoais: hipertensão arterial, nefrolitíase e constipação intestinal há dois anos. Inventário ósseo: fratura de rádio e ulna esquerdos e de calcâneos consolidadas, osteopenia intensa em ossos da mão e crânio com aspecto em sal e pimenta. O achado eletrocardiográfico mais provável é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ondas T apiculadas."
+    },
+    {
+     "letra": "B",
+     "texto": "Elevação do segmento ST."
+    },
+    {
+     "letra": "C",
+     "texto": "Encurtamento do intervalo QT."
+    },
+    {
+     "letra": "D",
+     "texto": "Bloqueio AV do segundo grau Mobitz II."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000071614",
+   "codigo": "4000071614",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 49,
+   "temas": [
+    "Eletrocardiograma"
+   ],
+   "enunciado": "Um paciente idoso sofreu fratura espontânea de fêmur em sua residência e permaneceu no chão, sem conseguir pedir ajuda, por dois dias, até que fosse socorrido. Ele foi trazido para a sala de emergência torporoso, sendo impossível colher anamnese. Qual a alteração encontrada no eletrocardiograma abaixo?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipercalcemia."
+    },
+    {
+     "letra": "B",
+     "texto": "Hipercalemia."
+    },
+    {
+     "letra": "C",
+     "texto": "Hipocalemia."
+    },
+    {
+     "letra": "D",
+     "texto": "Hipocalcemia."
+    },
+    {
+     "letra": "E",
+     "texto": "Hipomagnesemia."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q049-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000027923",
+   "codigo": "4000027923",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 50,
+   "temas": [
+    "Eletrocardiograma",
+    "Alterações eletrocardiográf icas mais comuns",
+    "Distúrbios eletrolíticos"
+   ],
+   "enunciado": "São alterações eletrocardiográficas em pacientes com hipercalemia, EXCETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Apiculamento de onda T."
+    },
+    {
+     "letra": "B",
+     "texto": "Prolongamento do intervalo P-R."
+    },
+    {
+     "letra": "C",
+     "texto": "Aumento da amplitude da onda P."
+    },
+    {
+     "letra": "D",
+     "texto": "Alargamento do complexo QRS."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000013996",
+   "codigo": "4000013996",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 51,
+   "temas": [
+    "Alterações eletrocardiográf icas mais comuns"
+   ],
+   "enunciado": "Considerando o ritmo eletrocardiográfico apresentado na figura precedente - derivação: D2; velocidade do papel 25 mm/seg; calibração: 1cm = 1 mV - , julgue o seguinte item. A arritmia observada nessa tira de ritmo é a extrassístole supraventricular com pausa compensatória.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q051-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000013988",
+   "codigo": "4000013988",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 52,
+   "temas": [
+    "Distúrbios da condução atrioventricular",
+    "Bloqueios"
+   ],
+   "enunciado": "Considerando o ritmo eletrocardiográfico apresentado na figura precedente - derivação: D2; velocidade do papel 25 mm/seg; calibração: 1cm = 1 mV - , julgue o seguinte item. A arritmia apresentada decorre diretamente de um distúrbio na propriedade cronotrópica do nó sinusal.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q052-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000103275",
+   "codigo": "4000103275",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 53,
+   "temas": [
+    "Cardiopatia hipertróf ica",
+    "Eletrocardiograma",
+    "Cardiomiopatia hipertróf ica"
+   ],
+   "enunciado": "Homem, 33 anos, assintomático, procura atendimento médico para realização de atividade física em academia. Nega hipertensão, diabetes mellitus, dislipidemia e tabagismo. Pai faleceu aos 39 anos de idade por morte súbita. Exame físico: FC = 72 bpm; PA = 130 x 80 mmHg; ritmo cardíaco regular; bulhas normofonéticas; sopro mesossistólico 3+/6+ em borda esternal esquerda média, cuja intensidade diminui com o agachamento e aumenta com a posição ortostática. Vide eletrocardiograma: Qual é a hipótese diagnóstica mais provável?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Coarctação da aorta."
+    },
+    {
+     "letra": "B",
+     "texto": "Cardiomiopatia hipertrófica."
+    },
+    {
+     "letra": "C",
+     "texto": "Displasia arritmogênica do ventrículo direito."
+    },
+    {
+     "letra": "D",
+     "texto": "Estenose aórtica."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q053-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000090839",
+   "codigo": "4000090839",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 54,
+   "temas": [
+    "Síndrome de Wolf f ParkinsonWhite",
+    "Eletrocardiograma"
+   ],
+   "enunciado": "Menino de 14 anos, com palpitações seguidas de tonturas ao realizar exercícios na escola, foi encaminhado para avaliação. A liberação para a realização das atividades físicas estaria condicionada aos resultados dos exames. O eletrocardiograma de repouso está reproduzido abaixo: O quadro clínico e o traçado eletrocardiográfico de repouso estabelecem o diagnóstico de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Bloqueio de ramo esquerdo."
+    },
+    {
+     "letra": "B",
+     "texto": "Taquicardia atrial paroxística."
+    },
+    {
+     "letra": "C",
+     "texto": "Síndrome de Wolff-Parkinson-White."
+    },
+    {
+     "letra": "D",
+     "texto": "Fibrilação atrial paroxística."
+    },
+    {
+     "letra": "E",
+     "texto": "Arritmia sinusal."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q054-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000088107",
+   "codigo": "4000088107",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 55,
+   "temas": [
+    "Alterações eletrocardiográf icas mais comuns"
+   ],
+   "enunciado": "Alguns distúrbios eletrolíticos causam arritmias cardíacas. A hiperpotassemia é considerada um dos de manifestações mais graves, recomendando para maior segurança, monitoração eletrocardiográ ca. Das alterações abaixo, a primeira manifestação eletrocardiográfica da hiperpotassemia é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Achatamento da onda P."
+    },
+    {
+     "letra": "B",
+     "texto": "Onda P pontiaguda."
+    },
+    {
+     "letra": "C",
+     "texto": "Prolongamento de intervalo PR."
+    },
+    {
+     "letra": "D",
+     "texto": "Alargamento do complexo QRS."
+    },
+    {
+     "letra": "E",
+     "texto": "Onda T pontiaguda e encurtamento do intervalo QT."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000054531",
+   "codigo": "4000054531",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 56,
+   "temas": [
+    "Aumentos cavitários"
+   ],
+   "enunciado": "Você avalia um paciente novo na clínica. Na ausculta, você percebe sopro diastólico em decrescendo, de alta frequência, mais bem audível no 3° espaço intercostal ao longo da borda esternal esquerda. Um 2° sopro é audível no ápice cardiaco, o qual constitui um sopro mesodiastólico, de baixa frequência em ru ar. Hand-grip sustentado aumenta a intensidade dos sopros. Os sopros são audiveis com nitidez ao nal da expiração. Também há presença de sopro de ejeção sistólica e B₃. O impulso ventricular esquerdo está deslocado para a esquerda e inferiormente. Os pulsos radiais são fortes, com um componente sistólico proeminente. A pressão arterial é de 170/70 mmHg, a frequência cardíaca de 98 bpm e a resporatória é de 18 irpm. Feito um eletrocardiograma (ECG) na clínica. Qual dos seguintes achados você espera encontrar no traçado do ECG deste paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Depressão do segmento PR e elevação do segmento ST difusa."
+    },
+    {
+     "letra": "B",
+     "texto": "Ondas Q inferiores."
+    },
+    {
+     "letra": "C",
+     "texto": "Hipertrofia ventricular esquerda."
+    },
+    {
+     "letra": "D",
+     "texto": "Baixa voltagem."
+    },
+    {
+     "letra": "E",
+     "texto": "Aumento do átrio direito."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000052050",
+   "codigo": "4000052050",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 57,
+   "temas": [
+    "Onda T"
+   ],
+   "enunciado": "Em relação ao eletrocardiograma, assinale a alternativa CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O intervalo PR corresponde à despolarização atrial e à despolarização do nó atrioventricular, e sua duração normal é de 0,10 a 0,20 segundos."
+    },
+    {
+     "letra": "B",
+     "texto": "O QRS corresponde à despolarização e à repolarização ventricular e sua duração máxima é de 0,12 segundos."
+    },
+    {
+     "letra": "C",
+     "texto": "A onda T normal é assimétrica e corresponde à repolarização ventricular."
+    },
+    {
+     "letra": "D",
+     "texto": "A onda U normal é negativa e corresponde à repolarização das fibras de Purkinje."
+    },
+    {
+     "letra": "E",
+     "texto": "A onda P corresponde à despolarização atrial; sua duração normal máxima é de 0,04 segundos e a amplitude máxima é de 2,5 mm."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000033146",
+   "codigo": "4000033146",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 58,
+   "temas": [
+    "Distúrbios eletrolíticos"
+   ],
+   "enunciado": "Mariana 62 anos está em pós-operatório, 9° DPO, de uma gastrectomia total que evoluiu com fístula digestiva. Relata quadro de fraqueza e hipore exia. Realizado um ECG que mostrou com ondas T largas e achatadas, depressão do segmento ST e prolongamento do intervalo QT. Considerando o caso descrito, o distúrbio eletrolítico MAIS provável seria:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipercalcemia"
+    },
+    {
+     "letra": "B",
+     "texto": "Hipermagnesemia"
+    },
+    {
+     "letra": "C",
+     "texto": "Hipocalemia"
+    },
+    {
+     "letra": "D",
+     "texto": "Hiponatremia"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000128308",
+   "codigo": "4000128308",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 59,
+   "temas": [
+    "Eletrocardiograma",
+    "Estratif icação de risco cardiovascular"
+   ],
+   "enunciado": "Mulher assintomática e previamente sadia, não fumante, de 29 anos, fez uma avaliação cardiológica para frequentar academia de ginástica e o Eletrocardiograma (ECG) da figura. (VER IMAGEM) O ecodopplercardiograma não mostrou cardiopatia estrutural e o teste ergométrico foi não isquêmico. Sobre o caso apresentado, a conduta a ser tomada será:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Prescrição de amiodarona e liberar para a academia."
+    },
+    {
+     "letra": "B",
+     "texto": "Fazer ressonância magnética antes de liberá-la."
+    },
+    {
+     "letra": "C",
+     "texto": "Liberar para a academia sem restrições."
+    },
+    {
+     "letra": "D",
+     "texto": "Orientá-la a evitar realizar exercícios físicos."
+    },
+    {
+     "letra": "E",
+     "texto": "Solicitar angiotomografia das coronárias."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q059-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000126371",
+   "codigo": "4000126371",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 60,
+   "temas": [
+    "Diagnóstico",
+    "Alterações eletrocardiográf icas mais comuns"
+   ],
+   "enunciado": "Os achados que podem ser comumente encontrados no eletrocardiograma de um portador de Hipertensão Arterial Pulmonar (HAP) são os seguintes, EXCETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Sobrecarga atrial direita."
+    },
+    {
+     "letra": "B",
+     "texto": "Bloqueio de ramo direito."
+    },
+    {
+     "letra": "C",
+     "texto": "s1q3t3."
+    },
+    {
+     "letra": "D",
+     "texto": "Alteração de repolarização ventricular."
+    },
+    {
+     "letra": "E",
+     "texto": "Bloqueio divisional anterossuperior."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000121961",
+   "codigo": "4000121961",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 61,
+   "temas": [
+    "Bloqueios"
+   ],
+   "enunciado": "Uma mulher de 58 anos portadora de miocardiopatia chagásica procura o prontosocorro com queixa de cansaço e episódios de síncope ao se levantar. Apresenta: P = 42 bpm; PA = 96 x 58 mmHg; FR = 18 irpm; saturação de O2 = 94% em ar ambiente. Recebe atropina em dose máxima, sem resposta. O monitor mostra: O diagnóstico é de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ritmo juncional."
+    },
+    {
+     "letra": "B",
+     "texto": "Bradicardia sinusal."
+    },
+    {
+     "letra": "C",
+     "texto": "Bloqueio atrioventricular de 2º grau, Mobitz I."
+    },
+    {
+     "letra": "D",
+     "texto": "Bloqueio atrioventricular de 3º grau."
+    },
+    {
+     "letra": "E",
+     "texto": "Bloqueio atrioventricular de 2º grau, Mobitz II."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q061-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000085821",
+   "codigo": "4000085821",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 62,
+   "temas": [
+    "Distúrbios eletrolíticos"
+   ],
+   "enunciado": "Paciente de 58 anos com história de hipertensão arterial sistêmica em uso de enalapril 20 mg a cada 12 horas e anlodipino 10 mg ao dia, nefropatia hipertensiva em hemodiálise. Abandonou o tratamento por um mês e procurou a emergência por dispneia e astenia. Ao exame, apresenta: FC = 112 bpm; FR = 34 irpm; T = 36,9°C; PA = 110 x 62 mmHg; bulhas cardíacas rítmicas, hipofonéticas, murmúrio vesicular abolido em bases pulmonares e anasarca. Considerando o caso, assinale a assertiva que contém a alteração eletrocardiográfica mais provável neste paciente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Presença de onda Q patológica em parede inferior."
+    },
+    {
+     "letra": "B",
+     "texto": "Achatamento de onda T e presença de onda U."
+    },
+    {
+     "letra": "C",
+     "texto": "Intervalo PR menor que 0,04 segundos."
+    },
+    {
+     "letra": "D",
+     "texto": "Aumento da amplitude da onda P."
+    },
+    {
+     "letra": "E",
+     "texto": "Ondas T apiculadas."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000078015",
+   "codigo": "4000078015",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 63,
+   "temas": [
+    "Exames complementares",
+    "Aumentos cavitários"
+   ],
+   "enunciado": "Considere o eletrocardiograma a seguir. (VER IMAGEM) Esse eletrocardiograma será provavelmente encontrado no caso de um paciente cujas características são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Mulher de 51 anos com hiperfonese de B1, sopro diastólico 3+/6 e sopro sistólico 2+/6+ em foco aórtico."
+    },
+    {
+     "letra": "B",
+     "texto": "Homem de 67 anos com hipofonese de bulhas e sopro ejetivo, em crescendo e decrescendo em foco aórtico 3+/6+."
+    },
+    {
+     "letra": "C",
+     "texto": "Mulher de 42 anos com hipofonese de B1 e sopro holossistólico 4+/6 em foco mitral com irradiação para a axila."
+    },
+    {
+     "letra": "D",
+     "texto": "Homem de 37 anos, apresentando hiperfonese de B1 e sopro diastólico em ruflar 2+/6+ em foco mitral."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q063-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000066983",
+   "codigo": "4000066983",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 64,
+   "temas": [
+    "Bloqueios"
+   ],
+   "enunciado": "Paciente de 52 anos, hipertenso e tabagista de longa data, se encontra internado em unidade coronariana em reabilitação no terceiro dia após um infarto agudo do miocárdio de parede inferior. O paciente se queixa de mal-estar e tonteiras. Ao exame físico, além da presença de uma quarta bulha e de hipotensão arterial, é observada uma irregularidade do ritmo cardíaco, caracterizada por pausas ventriculares precedidas ritmicamente por uma redução progressiva da intensidade da primeira bulha. No eletrocardiograma, é observada a presença de onda Q e inversão de onda T nas derivações D2, D3 e aVF, além de eventuais ondas P não seguidas por complexos QRS. O diagnóstico apropriado para o caso é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Pausas sinusais."
+    },
+    {
+     "letra": "B",
+     "texto": "Bloqueio atrioventricular de 2º grau Mobitz I."
+    },
+    {
+     "letra": "C",
+     "texto": "Bloqueio atrioventricular de 2º grau Mobitz II."
+    },
+    {
+     "letra": "D",
+     "texto": "Taquicardia paroxística supraventricular com bloqueio 2:1."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000056912",
+   "codigo": "4000056912",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 65,
+   "temas": [
+    "Distúrbios eletrolíticos"
+   ],
+   "enunciado": "Qual das seguintes alterações eletrocardiográficas está associada à hipercalemia aguda?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Alargamento do QRS."
+    },
+    {
+     "letra": "B",
+     "texto": "Prolongamento do segmento ST."
+    },
+    {
+     "letra": "C",
+     "texto": "Redução no intervalo PR."
+    },
+    {
+     "letra": "D",
+     "texto": "Proeminência das ondas U."
+    },
+    {
+     "letra": "E",
+     "texto": "Achatamento da onda T."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000048365",
+   "codigo": "4000048365",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 66,
+   "temas": [
+    "Bloqueios"
+   ],
+   "enunciado": "Considere o eletrocardiograma a seguir. (VER IMAGEM) Em relação a esse traçado eletrocardiográfico, assinale a alternativa CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Trata-se de bloqueio completo do ramo direito."
+    },
+    {
+     "letra": "B",
+     "texto": "Trata-se de bloqueio completo do ramo esquerdo."
+    },
+    {
+     "letra": "C",
+     "texto": "Trata-se de infarto agudo do miocárdio com supradesnivelamento do segmento ST de parede anterior."
+    },
+    {
+     "letra": "D",
+     "texto": "Trata-se de síndrome isquêmica aguda sem supradesnivelamento do segmento ST."
+    },
+    {
+     "letra": "E",
+     "texto": "Trata-se de taquicardia ventricular."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q066-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000038051",
+   "codigo": "4000038051",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 67,
+   "temas": [
+    "Distúrbios eletrolíticos"
+   ],
+   "enunciado": "Analise o eletrocardiograma a seguir e assinale a alternativa que apresenta a condição clínica que leva a suas alterações:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipercalemia"
+    },
+    {
+     "letra": "B",
+     "texto": "Acidemia"
+    },
+    {
+     "letra": "C",
+     "texto": "Hipocalemia"
+    },
+    {
+     "letra": "D",
+     "texto": "Hipotermia"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q067-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000125278",
+   "codigo": "4000125278",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 68,
+   "temas": [
+    "Identif icando o local do inf arto",
+    "Segmento ST"
+   ],
+   "enunciado": "Paciente homem, 66 anos, hipertenso, diabético tipo 2, dislipidêmico, admitido com quadro de dor torácica retroesternal opressiva, sem irradiação, iniciada há cerca de dez minutos antes do atendimento. Seu primeiro eletrocardiograma revelou- se normal. Foi indicado novo eletrocardiograma após quinze minutos da realização do primeiro. Qual dos parâmetros abaixo NÃO se observa na evolução eletrocardiográfica do caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Simetria da onda T."
+    },
+    {
+     "letra": "B",
+     "texto": "Aumento da amplitude da onda S."
+    },
+    {
+     "letra": "C",
+     "texto": "Surgimento de onda Q."
+    },
+    {
+     "letra": "D",
+     "texto": "Infradesnivelamento do segmento ST."
+    },
+    {
+     "letra": "E",
+     "texto": "Supradesnivelamento do segmento ST."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000010462",
+   "codigo": "4000010462",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 69,
+   "temas": [
+    "Alterações eletrocardiográf icas mais comuns"
+   ],
+   "enunciado": "Homem, 58 anos, etilista, morador de rua, encontrado desacordado em via pública e trazido pelo SAMU ao serviço de emergência. Realizado eletrocardiograma abaixo, qual o provável diagnóstico? (VER IMAGEM)",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Infarto agudo do miocárdio com supra desnivelamento do segmento ST anterolateral."
+    },
+    {
+     "letra": "B",
+     "texto": "Hipercalemia."
+    },
+    {
+     "letra": "C",
+     "texto": "Pericardite."
+    },
+    {
+     "letra": "D",
+     "texto": "Hipotermia."
+    },
+    {
+     "letra": "E",
+     "texto": "Infarto agudo do miocárdio com supra desnivelamento do segmento ST inferior."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q069-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000116871",
+   "codigo": "4000116871",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 70,
+   "temas": [
+    "Aumentos cavitários"
+   ],
+   "enunciado": "Observe o eletrocardiograma abaixo. Este eletrocardiograma mostra a presença de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Pericardite crônica."
+    },
+    {
+     "letra": "B",
+     "texto": "Insuficiência mitral."
+    },
+    {
+     "letra": "C",
+     "texto": "Infarto do miocárdio prévio."
+    },
+    {
+     "letra": "D",
+     "texto": "Hipertrofia ventricular direita."
+    },
+    {
+     "letra": "E",
+     "texto": "Cardiomiopatia hipertrófica."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q070-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000084874",
+   "codigo": "4000084874",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 71,
+   "temas": [
+    "Alterações eletrocardiográf icas mais comuns"
+   ],
+   "enunciado": "O traçado eletrocardiográfico a seguir é de um jovem de 17 anos com acometimento valvar decorrente de febre reumática. O diagnóstico MAIS PROVÁVEL é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Estenose mitral com hipertensão pulmonar."
+    },
+    {
+     "letra": "B",
+     "texto": "Estenose tricúspide com hipertensão pulmonar."
+    },
+    {
+     "letra": "C",
+     "texto": "Regurgitação aórtica sem hipertensão pulmonar."
+    },
+    {
+     "letra": "D",
+     "texto": "Regurgitação mitral sem hipertensão pulmonar."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q071-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000082847",
+   "codigo": "4000082847",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 72,
+   "temas": [
+    "Rotina de avaliação do eletrocardiograma"
+   ],
+   "enunciado": "O eletrocardiograma abaixo é de um homem de 60 anos que procurou a emergência devido à tontura. (VER IMAGEM) A frequência cardíaca do paciente no momento do exame devia ser de, aproximadamente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "60."
+    },
+    {
+     "letra": "B",
+     "texto": "65."
+    },
+    {
+     "letra": "C",
+     "texto": "70."
+    },
+    {
+     "letra": "D",
+     "texto": "75."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q072-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000080339",
+   "codigo": "4000080339",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 73,
+   "temas": [
+    "Hipercalcemia",
+    "Eletrocardiograma",
+    "Alterações eletrocardiográf icas mais comuns"
+   ],
+   "enunciado": "Mulher de 48 anos, com diagnóstico prévio de câncer de mama é admitida devido a quadro de letargia, anorexia, fraqueza e episódios de confusão mental. O exame neurológico não evidencia dé cit focal algum, nem rigidez de nuca. No eletrocardiograma existe encurtamento do intervalo QT. O diagnóstico mais provável é de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipercalcemia."
+    },
+    {
+     "letra": "B",
+     "texto": "Hiperpotassemia."
+    },
+    {
+     "letra": "C",
+     "texto": "Hipomagnessemia."
+    },
+    {
+     "letra": "D",
+     "texto": "Metástase cerebral."
+    },
+    {
+     "letra": "E",
+     "texto": "Carcinomatose meníngea."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000000896",
+   "codigo": "4000000896",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 74,
+   "temas": [
+    "Distúrbios eletrolíticos"
+   ],
+   "enunciado": "Paciente de 65 anos admitido com história de ser portador de hipertensão arterial fazendo uso de hidroclorotiazida e losartana, é admitido no pronto-socorro apresentando depressão do segmento ST, achatamento das ondas T e ondas U proeminentes. Qual o distúrbio hidroeletrolítico mais provável:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipocalcemia."
+    },
+    {
+     "letra": "B",
+     "texto": "Hiponatremia"
+    },
+    {
+     "letra": "C",
+     "texto": "Hipocalemia."
+    },
+    {
+     "letra": "D",
+     "texto": "Hipomagnesemia."
+    },
+    {
+     "letra": "E",
+     "texto": "Hipercalemia."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000101883",
+   "codigo": "4000101883",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 75,
+   "temas": [
+    "Rotina de avaliação do eletrocardiograma"
+   ],
+   "enunciado": "Assinale, dentre as alternativas a seguir, qual é a angulação no plano frontal do vetor da derivação aVL, no eletrocardiograma.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "+30°."
+    },
+    {
+     "letra": "B",
+     "texto": "-30°."
+    },
+    {
+     "letra": "C",
+     "texto": "+60°."
+    },
+    {
+     "letra": "D",
+     "texto": "-60°"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000074622",
+   "codigo": "4000074622",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 76,
+   "temas": [
+    "Eletrocardiograma",
+    "Intervalo PR"
+   ],
+   "enunciado": "O infradesnivelamento do segmento PR é sinal eletrocardiográfico de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tamponamento pericárdico."
+    },
+    {
+     "letra": "B",
+     "texto": "Pericardite aguda."
+    },
+    {
+     "letra": "C",
+     "texto": "Síndrome de pré-excitação."
+    },
+    {
+     "letra": "D",
+     "texto": "Cor pulmonale."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000073473",
+   "codigo": "4000073473",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 77,
+   "temas": [
+    "Eletrocardiograma"
+   ],
+   "enunciado": "A duração da onda P pode estar relacionada à condução intra ou interatrial. A duração da onda P, considerada normal no traçado eletrocardiográfico, é de até:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "200ms."
+    },
+    {
+     "letra": "B",
+     "texto": "90ms."
+    },
+    {
+     "letra": "C",
+     "texto": "440ms."
+    },
+    {
+     "letra": "D",
+     "texto": "70ms."
+    },
+    {
+     "letra": "E",
+     "texto": "120ms."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000100158",
+   "codigo": "4000100158",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 78,
+   "temas": [
+    "Alterações eletrocardiográf icas mais comuns"
+   ],
+   "enunciado": "Analisando o ECG abaixo, qual o diagnóstico? (VER IMAGEM)",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Normal"
+    },
+    {
+     "letra": "B",
+     "texto": "Extrassístole atrial"
+    },
+    {
+     "letra": "C",
+     "texto": "Extrassístole ventricular"
+    },
+    {
+     "letra": "D",
+     "texto": "Taquicardia ventricular"
+    },
+    {
+     "letra": "E",
+     "texto": "Bloqueio de Ramo D"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q078-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000071847",
+   "codigo": "4000071847",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 79,
+   "temas": [
+    "Eletrocardiograma"
+   ],
+   "enunciado": "O laudo de radiogra a simples de tórax PA, de um adolescente com passado de febre reumática, citava duplo contorno atrial, protrusão da auriculeta no bordo cardíaco esquerdo, ângulo da carina alargado e deslocamento cranial do brônquio- fonte esquerdo. Os ramos da artéria pulmonar tinham diâmetro normal. No eletrocardiograma desse rapaz, é mais provável que a onda P tenha o seguinte padrão:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Bífida, com duração = 0,14s, em D1 e D2."
+    },
+    {
+     "letra": "B",
+     "texto": "Monofásica, com duração = 0,09s, em aVF e V1."
+    },
+    {
+     "letra": "C",
+     "texto": "Arredondada, com amplitude = 2,2 mm, em D1 e aVL."
+    },
+    {
+     "letra": "D",
+     "texto": "Pontiaguda, com amplitude = 2,8 mm, em D2, D3 e aVF."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000031253",
+   "codigo": "4000031253",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 80,
+   "temas": [
+    "Eletrocardiograma",
+    "Alterações eletrocardiográf icas mais comuns"
+   ],
+   "enunciado": "Comorbidades e outras causas de dor torácica Um homem de 60 anos procura serviço de urgência com dispneia e dor torácica de aparecimento súbito. Com base no quadro clínico e no eletrocardiograma reproduzido (VER IMAGEM), o diagnóstico mais provável é: Respostas: 1 12 23 34 45 56 67 78",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Dissecção aórtica tipo B."
+    },
+    {
+     "letra": "B",
+     "texto": "Infarto do miocárdio da parede lateral do ventrículo esquerdo."
+    },
+    {
+     "letra": "C",
+     "texto": "Pericardite aguda."
+    },
+    {
+     "letra": "D",
+     "texto": "Tromboembolismo pulmonar agudo."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q080-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": [
+  {
+   "id": "4000100191",
+   "codigo": "4000100191",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 26,
+   "temas": [
+    "Eletrocardiograma"
+   ],
+   "enunciado": "Mulher de 67 anos de idade está em acompanhamento ambulatorial por hipertensão (diagnosticada há 20 anos) e insu ciência cardíaca (diagnosticada há 5 anos). Faz dieta hipossódica e está em uso regular de captopril 150 mg/dia e carvedilol 25 mg/dia (ou seja, ambos em dose máxima) há mais de dois anos. Na última consulta realizada há três meses, estava assintomática. O exame clínico era normal (com PA controlada), e havia trazido resultado de ecocardiograma no qual se evidenciavam: fração de ejeção de 37%; aumento moderado de ventrículo e átrio esquerdos; ausência de valvopatias; ausência de alterações segmentares da motricidade ventricular. Procura o Pronto-Socorro com queixa de piora da dispneia há 10 dias, atualmente ocorrendo aos médios esforços. Nega chiado, tosse ou dor torácica. Ao ser ativamente questionada, refere palpitação eventual nos últimos 15 dias, com último episódio há três dias. No exame clínico apresenta-se com P=118 bpm, arrítmico, PA=126x72 mmHg, FR=18 ipm, T=36,5ºC. Ausculta cardíaca com bulhas arrítmicas em dois tempos sem sopros. Semiologia pulmonar com murmúrios vesiculares presentes bilateralmente, com estertores nos na metade inferior de ambos os hemitóraxes. Membros inferiores com edema depressível 2+/4+ bilateralmente. O restante do exame clínico é normal. São realizados os exames complementares a seguir Ecocardiograma transesofágico com presença de trombo em parede atrial esquerda. Qual é a conclusão do laudo do eletrocardiograma?",
+   "alternativas": [],
+   "gabarito": null,
+   "imagens": [
+    {
+     "arquivo": "imagens/q026-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": [],
+   "motivo_exclusao": "sem alternativas"
+  },
+  {
+   "id": "4000127657",
+   "codigo": "4000127657",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Eletrocardiograma",
+   "numero": 44,
+   "temas": [
+    "Eletrocardiograma"
+   ],
+   "enunciado": "Paciente feminina, 34 anos, moradora em zona rural, procura atendimento médico por estar \"sentindo cansaço severo\" que a impede de trabalhar \"como antes\", sentindo \"palpitações\" nos últimos seis meses. Tonsilites estreptocócicas de repetição. Exame físico: pressão arterial de 110 x 60 mmHg; frequência cardíaca de 118 batimentos por minuto; sopro diastólico em foco mitral, rude (++/4+); estertores crepitantes em ambas as bases pulmonares, discreta dor à palpação profunda em hipocôndrio direito; edema perimaleolar bilateralmente (+/4+). Submetida a eletrocardiograma em seis derivações. Considerando a história clínica e o eletrocardiograma, cite 2 (dois) aspectos eletrocardiográficos patológicos evidentes no exame acima.",
+   "alternativas": [],
+   "gabarito": null,
+   "imagens": [
+    {
+     "arquivo": "imagens/q044-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": [],
+   "motivo_exclusao": "sem alternativas"
+  }
+ ]
+}

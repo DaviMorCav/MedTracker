@@ -1,0 +1,597 @@
+{
+ "questoes": [
+  {
+   "id": "4000101819",
+   "codigo": "4000101819",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças Neuromusculares",
+   "numero": 1,
+   "temas": [
+    "Instabilidade Atlantoaxial"
+   ],
+   "enunciado": "Sobre a instabilidade atlantoaxial no paciente com síndrome de Down, assinale a alternativa correta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Dor cervical, torcicolo persistente, alteração da marcha e incontinência urinária não são sintomas típicos da compressão medular"
+    },
+    {
+     "letra": "B",
+     "texto": "Indica cuidado especial com a postura dos pacientes quando da realização de procedimentos cirúrgicos, anestésicos ou radiográficos, pelo risco de compressão provocada pela hiperextensão ou hiperflexão."
+    },
+    {
+     "letra": "C",
+     "texto": "Contraindica a realização de qualquer atividade desportiva."
+    },
+    {
+     "letra": "D",
+     "texto": "Só pode ser rastreada por meio da realização de tomografia cervical."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000121185",
+   "codigo": "4000121185",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças Neuromusculares",
+   "numero": 2,
+   "temas": [
+    "Instabilidade Atlantoaxial"
+   ],
+   "enunciado": "Um menino de sete anos de idade, com síndrome de Down, sem cardiopatia, deseja praticar ginástica artística. Com base nesse caso hipotético, assinale a alternativa que apresenta a orientação correta para os pais do paciente.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "autorizar a prática, já que não há necessidade de avaliação pré-atividade física"
+    },
+    {
+     "letra": "B",
+     "texto": "solicitar uma radiografia de coluna cervical, pelo risco de instabilidade atlanto-axial"
+    },
+    {
+     "letra": "C",
+     "texto": "solicitar uma avaliação oftalmológica, pelo risco de trauma ocular"
+    },
+    {
+     "letra": "D",
+     "texto": "contraindicar a prática, pelo risco cardiológico"
+    },
+    {
+     "letra": "E",
+     "texto": "contraindicar a prática, pelo risco de discriminação pelos colegas"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000071988",
+   "codigo": "4000071988",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças Neuromusculares",
+   "numero": 3,
+   "temas": [
+    "Síndrome de Down Aspectos Ortopédicos"
+   ],
+   "enunciado": "Todas as alternativas abaixo são alterações musculo esqueléticas associadas à síndrome de Down, EXCETO?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Luxação atlantoaxial."
+    },
+    {
+     "letra": "B",
+     "texto": "Displasia de quadril."
+    },
+    {
+     "letra": "C",
+     "texto": "Deslocamento recorrente das articulações."
+    },
+    {
+     "letra": "D",
+     "texto": "Fraturas de ossos longos."
+    },
+    {
+     "letra": "E",
+     "texto": "Necrose asséptica do quadril."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000027282",
+   "codigo": "4000027282",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças Neuromusculares",
+   "numero": 4,
+   "temas": [
+    "Mielomeningocele e def eitos de f echamento posterior do tubo neural"
+   ],
+   "enunciado": "Leia o caso clínico a seguir. Durante avaliação de rotina de puericultura, um lactente com dois meses de vida, com desenvolvimento ponderoestatural normal e sem alterações neurológicas, é observada a presença de hemangioma plano e hipertricose na região lombar, como demostrado na foto abaixo. A anomalia do sistema nervoso central mais comumente associada a tais achados é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Meningocele."
+    },
+    {
+     "letra": "B",
+     "texto": "Espinha bífida."
+    },
+    {
+     "letra": "C",
+     "texto": "Cisto epidermoide."
+    },
+    {
+     "letra": "D",
+     "texto": "Mielomeningocele."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q004-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000025472",
+   "codigo": "4000025472",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças Neuromusculares",
+   "numero": 5,
+   "temas": [
+    "Apresentação Clínica"
+   ],
+   "enunciado": "A paralisia cerebral, ou encefalopatia crônica não progressiva, manifesta-se antes dos 3 anos de idade e apresenta comprometimento de tônus, motricidade, postura e, por vezes, do desenvolvimento cognitivo da criança portadora. Assinale a alternativa incorreta em relação à paralisia cerebral.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A principal causa de paralisia cerebral em nosso meio é asfixia neonatal secundária ao trabalho de parto prolongado."
+    },
+    {
+     "letra": "B",
+     "texto": "A forma mais frequente de paralisia cerebral é a discinética."
+    },
+    {
+     "letra": "C",
+     "texto": "A prematuridade é fator de risco para encefalopatia crônica não progressiva."
+    },
+    {
+     "letra": "D",
+     "texto": "A paralisia cerebral espástica divide-se nas formas hemiplégica, diplégica e quadriplégica, de acordo com os achados do exame físico."
+    },
+    {
+     "letra": "E",
+     "texto": "A paralisia cerebral atáxica é pouco frequente, correspondendo a 4% dos casos, Nessa forma, o comprometimento intelectual é comum, porém leve."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000034204",
+   "codigo": "4000034204",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças Neuromusculares",
+   "numero": 6,
+   "temas": [
+    "Apresentação Clínica"
+   ],
+   "enunciado": "Qual das alterações abaixo não é frequente em crianças com paralisia cerebral?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Anormalidades oftalmológicas."
+    },
+    {
+     "letra": "B",
+     "texto": "Diarreia crônica."
+    },
+    {
+     "letra": "C",
+     "texto": "Distúrbio de deglutição."
+    },
+    {
+     "letra": "D",
+     "texto": "Refluxo gastroesofágico."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000118771",
+   "codigo": "4000118771",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças Neuromusculares",
+   "numero": 7,
+   "temas": [
+    "Diagnóstico e Classif icação",
+    "Comorbidades associadas"
+   ],
+   "enunciado": "RN de termo, pesando 2900 g, medindo 47 cm, nascido de parto cesárea, é avaliado na sala de parto apresentando a seguinte malformação: (Conforme imagem do caderno de questões).Na evolução dessa criança, é esperado quadro de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Luxação congênita de quadril."
+    },
+    {
+     "letra": "B",
+     "texto": "Hidrocefalia."
+    },
+    {
+     "letra": "C",
+     "texto": "Arnold-Chiari tipo I."
+    },
+    {
+     "letra": "D",
+     "texto": "Craniossinostose."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q007-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000034071",
+   "codigo": "4000034071",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças Neuromusculares",
+   "numero": 8,
+   "temas": [
+    "Apresentação Clínica"
+   ],
+   "enunciado": "Bêbe do sexo feminino de 8 meses de idade, apresenta ao exame físico uso assimétrico dos braços. O braço direito é mantido em uma posição etida com a mão cerrada. O exame neurológico também revela o aumento do tônus do tornozelo direito e hiper-reflexia do mesmo lado. Tem como história pregressa, parto prematuro de 28 semanas de gestação. O diagnóstico mais provável nessa criança é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Paralisia de Erb-Duchenne"
+    },
+    {
+     "letra": "B",
+     "texto": "Distrofia muscular de Duchenne e Becker"
+    },
+    {
+     "letra": "C",
+     "texto": "Paralisia cerebral"
+    },
+    {
+     "letra": "D",
+     "texto": "Atrofia muscular espinhal"
+    },
+    {
+     "letra": "E",
+     "texto": "Paralisia braquial"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000012679",
+   "codigo": "4000012679",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças Neuromusculares",
+   "numero": 9,
+   "temas": [
+    "Paralisia Cerebral"
+   ],
+   "enunciado": "Em uma unidade básica de saúde, chega pela primeira vez, um paciente de 2 anos de idade com história de crises convulsivas e de alterações no desenvolvimento visual, auditivo e, principalmente, motor. Ao interrogar a mãe do paciente, constata-se que essas alterações tiveram início logo após o nascimento dele, de modo que a hipótese principal levantada é a de paralisia cerebral infantil. A respeito do diagnóstico apresentado, a etiologia mais frequente desse quadro é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hemorragia cerebral"
+    },
+    {
+     "letra": "B",
+     "texto": "Malformações congênitas"
+    },
+    {
+     "letra": "C",
+     "texto": "Anoxia cerebral"
+    },
+    {
+     "letra": "D",
+     "texto": "Placenta prévia"
+    },
+    {
+     "letra": "E",
+     "texto": "Kernicterus"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000066485",
+   "codigo": "4000066485",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças Neuromusculares",
+   "numero": 10,
+   "temas": [
+    "Def inição e Características Clínicas",
+    "Diagnóstico e Classif icação"
+   ],
+   "enunciado": "Lactente de três meses, sexo feminino, é levada à consulta ambulatorial e sua mãe informa que a bebê nasceu com mielomeningocele corrigida cirurgicamente com seis horas de vida e que tem Derivação Ventrículo-Peritoneal (DVP) por hidrocefalia. Ao exame físico, apresenta paralisia ácida de membros inferiores, ausência de reflexos tendinosos, perda da sensibilidade e pés tortos. O quadro clínico descrito sugere acometimento da seguinte porção da medula:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Torácica superior."
+    },
+    {
+     "letra": "B",
+     "texto": "Lombar média."
+    },
+    {
+     "letra": "C",
+     "texto": "Sacra inferior."
+    },
+    {
+     "letra": "D",
+     "texto": "Cervical."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000021482",
+   "codigo": "4000021482",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças Neuromusculares",
+   "numero": 11,
+   "temas": [
+    "Fisiopatologia e Fatores de RIsco"
+   ],
+   "enunciado": "Quanto aos fatores de risco para paralisia cerebral, é CORRETO afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Como fatores pré-concepcionais, a idade materna e o baixo nível socioeconômico não são relevantes."
+    },
+    {
+     "letra": "B",
+     "texto": "O hipotireoidismo materno e a insuficiência de progesterona não devem ser considerados fatores de risco, pois podem ser controlados com medicação."
+    },
+    {
+     "letra": "C",
+     "texto": "Infecções por CMV, rubéola, toxoplasmose, HIV, sífilis são fatores de risco relacionados, principalmente ao segundo trimestre de gestação."
+    },
+    {
+     "letra": "D",
+     "texto": "Hemorragia uterina materna só é considerada fator de risco se for associada à infecção materna grave."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000084765",
+   "codigo": "4000084765",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças Neuromusculares",
+   "numero": 12,
+   "temas": [
+    "Instabilidade Atlantoaxial"
+   ],
+   "enunciado": "Em pacientes com síndrome de Down, a radiografia de articulação atlantoaxial deve ser realizada em posição de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Extensão, flexão e neutra."
+    },
+    {
+     "letra": "B",
+     "texto": "Extensão e neutra."
+    },
+    {
+     "letra": "C",
+     "texto": "Flexão e extensão."
+    },
+    {
+     "letra": "D",
+     "texto": "PA e perfil."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000071735",
+   "codigo": "4000071735",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças Neuromusculares",
+   "numero": 13,
+   "temas": [
+    "Instabilidade Atlantoaxial"
+   ],
+   "enunciado": "Durante o acompanhamento da criança portadora de Síndrome de Down, deve-se observar a presença de malformações cardíacas, como por exemplo, CIA e CIV, assim como outras patologias que podem estar associadas a esta síndrome. Entre estas, assinale a alteração ortopédica mais frequente nestes pacientes:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Instabilidade atlantoaxial"
+    },
+    {
+     "letra": "B",
+     "texto": "Deslocamento da patela"
+    },
+    {
+     "letra": "C",
+     "texto": "Necrose da cabeça do fêmur"
+    },
+    {
+     "letra": "D",
+     "texto": "Luxação do ombro"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000058278",
+   "codigo": "4000058278",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças Neuromusculares",
+   "numero": 14,
+   "temas": [
+    "Paralisia Cerebral"
+   ],
+   "enunciado": "Recém-nascido prematuro de 27 semanas de idade gestacional apresentou durante a sua evolução na UTI neonatal alterações na ultrassonogra a cerebral compatíveis com leucomalácia periventricular cística. A sequela neurológica mais provável neste paciente é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Deficiência auditiva;"
+    },
+    {
+     "letra": "B",
+     "texto": "Diplegia espástica;"
+    },
+    {
+     "letra": "C",
+     "texto": "Paralisia facial;"
+    },
+    {
+     "letra": "D",
+     "texto": "Hemiplegia;"
+    },
+    {
+     "letra": "E",
+     "texto": "Cegueira."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000029894",
+   "codigo": "4000029894",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças Neuromusculares",
+   "numero": 15,
+   "temas": [
+    "Apresentação Clínica"
+   ],
+   "enunciado": "Recém-nascidos prematuros com leucomalácia periventricular apresentam frequentemente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Deficit de sensibilidade profunda;"
+    },
+    {
+     "letra": "B",
+     "texto": "Surdez neurossensorial;"
+    },
+    {
+     "letra": "C",
+     "texto": "Deficit motor;"
+    },
+    {
+     "letra": "D",
+     "texto": "Retinopatia da prematuridade;"
+    },
+    {
+     "letra": "E",
+     "texto": "Síndrome de aspiração meconial."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000013453",
+   "codigo": "4000013453",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças Neuromusculares",
+   "numero": 16,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Em um paciente portador de paralisia cerebral tetraparética e escoliose de alto valor angular, se faz importante seu tratamento cirúrgico para:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Frear a progressão do déficit neurológico."
+    },
+    {
+     "letra": "B",
+     "texto": "Promover a estabilidade para treino de marcha."
+    },
+    {
+     "letra": "C",
+     "texto": "Evitar a deterioração da condição cardiopulmonar."
+    },
+    {
+     "letra": "D",
+     "texto": "Permitir a reabilitação precoce."
+    },
+    {
+     "letra": "E",
+     "texto": "Nesta situação não é recomendado o tratamento cirúrgico."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000083175",
+   "codigo": "4000083175",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças Neuromusculares",
+   "numero": 17,
+   "temas": [
+    "Fisiopatologia e Fatores de RIsco"
+   ],
+   "enunciado": "Que condição, dentre as abaixo, menos se associa com paralisia cerebral? Respostas: 1 12",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Evidência de doença genética."
+    },
+    {
+     "letra": "B",
+     "texto": "Peso ao nascimento < 2.000 g."
+    },
+    {
+     "letra": "C",
+     "texto": "Parto distócico."
+    },
+    {
+     "letra": "D",
+     "texto": "Idade gestacional < 32 semanas."
+    },
+    {
+     "letra": "E",
+     "texto": "Infecção perinatal."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": []
+}

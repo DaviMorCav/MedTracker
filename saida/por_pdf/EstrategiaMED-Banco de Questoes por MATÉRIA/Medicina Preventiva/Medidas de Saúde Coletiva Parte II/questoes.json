@@ -1,0 +1,3768 @@
+{
+ "questoes": [
+  {
+   "id": "4000194518",
+   "codigo": "4000194518",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 1,
+   "temas": [
+    "Medicina Preventiva"
+   ],
+   "enunciado": "Gestante de 36 anos, portadora de sequela valvar mitral de etiologia reumática, entra em trabalho de parto com 38 semanas e 4 dias de idade gestacional. Durante os primeiros procedimentos para condução do caso, a parturiente desenvolve um edema agudo de pulmão, evoluindo com insuficiência respiratória e óbito ainda no centro obstétrico. De acordo com os conceitos relacionados à mortalidade materna, como podemos classificar esse óbito?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Óbito materno por causa externa."
+    },
+    {
+     "letra": "B",
+     "texto": "Óbito materno por causa obstétrica direta."
+    },
+    {
+     "letra": "C",
+     "texto": "Óbito materno acidental."
+    },
+    {
+     "letra": "D",
+     "texto": "Óbito materno por causa obstétrica indireta."
+    },
+    {
+     "letra": "E",
+     "texto": "Óbito por causa materna."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000193913",
+   "codigo": "4000193913",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 2,
+   "temas": [
+    "Medicina de Família e Comunidade"
+   ],
+   "enunciado": "Um estudo sobre a mortalidade infantil foi desenvolvido em Paracatu-MG, obtendo os seguintes resultados: Analisando o gráfico, marque a resposta correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O período infantil tardio é o mais afetado por causas genéticas e não ambientais, apesar de não apresentar um coeficiente crescente de óbito."
+    },
+    {
+     "letra": "B",
+     "texto": "A regularidade nos óbitos do período infantil tardio mostra a necessidade de intervenções políticas na atenção a esse grupo."
+    },
+    {
+     "letra": "C",
+     "texto": "O período neonatal é o mais afetado por causas genéticas e não ambientais e apresenta um coeficiente crescente de óbito."
+    },
+    {
+     "letra": "D",
+     "texto": "O desenvolvimento de atividades de aconselhamento genético para evitar óbitos no período infantil tardio é a medida mais eficaz de prevenção."
+    },
+    {
+     "letra": "E",
+     "texto": "Pelo número de óbitos observado no gráfico, não é necessário intervenções preventivas para o controle dos mesmos."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q002-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000190557",
+   "codigo": "4000190557",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 3,
+   "temas": [
+    "Coef iciente ou Taxa de Mortalidade Inf antil"
+   ],
+   "enunciado": "A seguir são apresentados dois gráficos da taxa de mortalidade neonatal precoce (0 a 6 dias) e taxa de mortalidade neonatal tardia (7 a 27 dias) do Brasil e Grandes Regiões no período de 2000 a 2016. Fonte: Sim/SINASC e busca ativa. Analise a série histórica do período apresentado (2000 a 2016) da taxa de mortalidade neonatal precoce e tardia. Assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A mortalidade neonatal precoce é maior do que a tardia, e os gráficos exprimem maiores diferenças entre as regiões. Enquanto, em 2016, a mortalidade neonatal precoce variou de 5,1 (Sul) a 9,5 (Norte); a tardia se manteve entre 1,9 (Sul) e 2,6 (Nordeste)."
+    },
+    {
+     "letra": "B",
+     "texto": "A mortalidade neonatal precoce é maior do que a tardia, não havendo diferenças entre as regiões. Em 2016, se manteve em todas as regiões em torno de 6,5 a mortalidade neonatal precoce; a tardia se manteve entre 4 e 5."
+    },
+    {
+     "letra": "C",
+     "texto": "A mortalidade neonatal precoce é menor do que a tardia, sendo bastante distinta entre as regiões. Enquanto, em 2016, a mortalidade neonatal precoce variou de 1,9 (Sul) a 2,6 (Nordeste); a tardia variou de 5,1 (Sul) a 9,5 (Norte)."
+    },
+    {
+     "letra": "D",
+     "texto": "Tanto a taxa de mortalidade neonatal precoce quanto a tardia, tem-se mantido abaixo de 8 desde 2010, para o Brasil e em todas as regiões: Sudeste, Sul, Norte, Nordeste e Centro-oeste."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q003-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000190121",
+   "codigo": "4000190121",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 4,
+   "temas": [
+    "Razão de Mortalidade Proporcional RMP ou Índice de SwaroopUemura"
+   ],
+   "enunciado": "Uma localidade com bons indicadores de saúde apresenta índice de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "primeiro nível e curva de Nelson Moraes tipo I."
+    },
+    {
+     "letra": "B",
+     "texto": "primeiro nível e curva de Nelson Moraes tipo IV."
+    },
+    {
+     "letra": "C",
+     "texto": "quarto nível e curva de Nelson Moraes tipo I."
+    },
+    {
+     "letra": "D",
+     "texto": "quarto nível e curva de Nelson Moraes tipo IV."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000190082",
+   "codigo": "4000190082",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 5,
+   "temas": [
+    "Curvas de Nelson de Moraes"
+   ],
+   "enunciado": "As curvas de Nelson-Moraes podem ser utilizadas como instrumento de avaliação do nível de saúde de uma determinada população. De acordo com o gráfico acima, assinale a alternativa que apresenta, respectivamente, o nível de saúde representado e o indicador necessário para a elaboração do gráfico.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "regular / coeficiente de letalidade."
+    },
+    {
+     "letra": "B",
+     "texto": "baixo / coeficiente de natalidade."
+    },
+    {
+     "letra": "C",
+     "texto": "elevado / coeficiente de mortalidade proporcional por idade."
+    },
+    {
+     "letra": "D",
+     "texto": "regular / coeficiente de mortalidade proporcional por idade."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q005-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000189107",
+   "codigo": "4000189107",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 6,
+   "temas": [
+    "Mortalidade Específ ica",
+    "Indicadores especiais de mortalidade"
+   ],
+   "enunciado": "O Coe ciente de Mortalidade Geral (CMG) estima a probabilidade de morrer de um indivíduo da população geral e é obtido pela relação entre o número de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Óbitos e o número de nascimento anual em um município."
+    },
+    {
+     "letra": "B",
+     "texto": "Óbitos e o número de habitantes em um determinado período e local."
+    },
+    {
+     "letra": "C",
+     "texto": "Nascimentos e o número de habitantes anual em um hospital."
+    },
+    {
+     "letra": "D",
+     "texto": "Óbitos, o número de nascimentos e o número de habitantes em um determinado período e local."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000189106",
+   "codigo": "4000189106",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 7,
+   "temas": [
+    "Morbimortalidade por grupo de causas",
+    "Indicadores especiais de mortalidade"
+   ],
+   "enunciado": "Indicam a probabilidade de ocorrência do evento, relacionando o número de indivíduos com determinada doença e a população sujeita ao risco de adquiri-la:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Mortalidade proporcional."
+    },
+    {
+     "letra": "B",
+     "texto": "Neonatal precoce."
+    },
+    {
+     "letra": "C",
+     "texto": "Mortalidade absoluta."
+    },
+    {
+     "letra": "D",
+     "texto": "Coeficientes de morbidade."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000188648",
+   "codigo": "4000188648",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 8,
+   "temas": [
+    "Mortalidade Geral"
+   ],
+   "enunciado": "Os indicadores de saúde são essenciais para analisar a situação de uma coletividade, fazer comparações e avaliar mudanças ao longo do tempo. Observe o Quadro 1 e responda às questões 52 a 55. Quadro 1 – Dados ctícios sobre óbitos e população residente. Cidade X, 2022. 1 – Dados ctícios sobre óbitos e população residente. Cidade X, 2022. Dados sobre: Total de óbitos por todas as causas (a); Óbitos de menores de 1 ano de idade (b); Óbitos de mulheres em todas as idades (c); Óbitos de homens em todas as idades (d); Óbitos por câncer de próstata (e); Óbitos de mulheres na gravidez, parto e puerpério (f); População total (g); Nascidos vivos (h). Assinale a alternativa que contém a fórmula CORRETA para o cálculo do indicador Coe ciente Geral de Mortalidade na cidade X, em 2022.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a / g x 100;"
+    },
+    {
+     "letra": "B",
+     "texto": "a / g x 1.000;"
+    },
+    {
+     "letra": "C",
+     "texto": "a / f x 10.000;"
+    },
+    {
+     "letra": "D",
+     "texto": "a / h x 1.000;"
+    },
+    {
+     "letra": "E",
+     "texto": "a / h x 100."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000188646",
+   "codigo": "4000188646",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 9,
+   "temas": [
+    "Coef iciente ou Taxa de Mortalidade Inf antil"
+   ],
+   "enunciado": "Os indicadores de saúde são essenciais para analisar a situação de uma coletividade, fazer comparações e avaliar mudanças ao longo do tempo. Observe o Quadro 1 e responda às questões 52 a 55. Quadro 1 – Dados ctícios sobre óbitos e população residente. Cidade X, 2022. 1 – Dados ctícios sobre óbitos e população residente. Cidade X, 2022. Dados sobre: Total de óbitos por todas as causas (a); Óbitos de menores de 1 ano de idade (b); Óbitos de mulheres em todas as idades (c); Óbitos de homens em todas as idades (d); Óbitos por câncer de próstata (e); Óbitos de mulheres na gravidez, parto e puerpério (f); População total (g); Nascidos vivos (h). Assinale a alternativa que contém a fórmula CORRETA para o cálculo do indicador Coe ciente de Mortalidade Infantil na cidade X, em 2022.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "b / g x 100."
+    },
+    {
+     "letra": "B",
+     "texto": "b / h x 100."
+    },
+    {
+     "letra": "C",
+     "texto": "f / g x 1.000."
+    },
+    {
+     "letra": "D",
+     "texto": "b / h x 1.000."
+    },
+    {
+     "letra": "E",
+     "texto": "b / a x 100."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000188645",
+   "codigo": "4000188645",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 10,
+   "temas": [
+    "Mortalidade Materna"
+   ],
+   "enunciado": "Os indicadores de saúde são essenciais para analisar a situação de uma coletividade, fazer comparações e avaliar mudanças ao longo do tempo. Observe o Quadro 1 e responda às questões 52 a 55. Quadro 1 – Dados ctícios sobre óbitos e população residente. Cidade X, 2022. 1 – Dados ctícios sobre óbitos e população residente. Cidade X, 2022. Dados sobre: Total de óbitos por todas as causas (a); Óbitos de menores de 1 ano de idade (b); Óbitos de mulheres em todas as idades (c); Óbitos de homens em todas as idades (d); Óbitos por câncer de próstata (e); Óbitos de mulheres na gravidez, parto e puerpério (f); População total (g); Nascidos vivos (h). Assinale a alternativa que contém a fórmula CORRETA para o cálculo do indicador Coe ciente de Mortalidade Materna na cidade X, em 2022.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "f / h x 100.000."
+    },
+    {
+     "letra": "B",
+     "texto": "b / h x 100.000."
+    },
+    {
+     "letra": "C",
+     "texto": "f / g x 100.000."
+    },
+    {
+     "letra": "D",
+     "texto": "b / h x 1.000."
+    },
+    {
+     "letra": "E",
+     "texto": "b / a x 1.000."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000188615",
+   "codigo": "4000188615",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 11,
+   "temas": [
+    "DALY"
+   ],
+   "enunciado": "Um secretario municipal de saúde precisa identi car grupos de pessoas que se bene ciariam de uma intervenção voltada a reduzir incapacidades prematuras. O secretário solicita que um funcionário desenvolva uma proposta que utilize um indicador para auxiliá-lo a tomar essa decisão. O indicador que serviria melhor para esse propósito é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Taxa de letalidade."
+    },
+    {
+     "letra": "B",
+     "texto": "Taxa de mortalidade padronizada."
+    },
+    {
+     "letra": "C",
+     "texto": "Taxa bruta de mortalidade."
+    },
+    {
+     "letra": "D",
+     "texto": "Anos de vida perdidos ajustados por incapacidade."
+    },
+    {
+     "letra": "E",
+     "texto": "Excesso de incapacidade."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000188559",
+   "codigo": "4000188559",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 12,
+   "temas": [
+    "Letalidade"
+   ],
+   "enunciado": "Uma doença aguda com alta taxa de letalidade:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tem baixo coeficiente de prevalência."
+    },
+    {
+     "letra": "B",
+     "texto": "Tem baixo coeficiente de incidência."
+    },
+    {
+     "letra": "C",
+     "texto": "Influencia fortemente a taxa de mortalidade geral de uma população."
+    },
+    {
+     "letra": "D",
+     "texto": "É sempre infecciosa."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000188231",
+   "codigo": "4000188231",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 13,
+   "temas": [
+    "Mortalidade Inf antil e Perinatal"
+   ],
+   "enunciado": "Sabe-se que as taxas de mortalidade infantil re etem condições de saúde e de vida precárias, sendo considerado um dos indicadores mais sensíveis à situação de saúde e condição social. A mortalidade infantil pode ser subdividida em neonatal (precoce e tardia) e pós-neonatal. Sobre estas taxas podemos afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A cobertura e qualidade de assistência pré-natal e perinatal têm importância, principalmente, na taxa de mortalidade pós-neonatal."
+    },
+    {
+     "letra": "B",
+     "texto": "Os agentes infecciosos e fatores nutricionais têm grande impacto na taxa de mortalidade neonatal tardia."
+    },
+    {
+     "letra": "C",
+     "texto": "Em regiões mais desenvolvidas, entre as causas de mortalidade neonatal destacam-se anomalias congênitas enquanto naquelas menos desenvolvidas, condições preveníveis pela assistência adequada à gestação e parto ganham destaque."
+    },
+    {
+     "letra": "D",
+     "texto": "De modo geral, em cenários com condições mais precárias, conforme a taxa de mortalidade infantil diminui, os óbitos neonatais tendem a diminuir mais rapidamente que os óbitos pós-neonatais."
+    },
+    {
+     "letra": "E",
+     "texto": "O denominador da taxa de mortalidade infantil é o número de partos realizados no respectivo período."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000188036",
+   "codigo": "4000188036",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 14,
+   "temas": [
+    "Letalidade"
+   ],
+   "enunciado": "Em uma determinada comunidade, a letalidade da dengue foi de 10% no ano de 2020. Durante esse ano ocorreram 50 óbitos pela doença. Qual o número de casos de dengue nesta comunidade?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "5.000 casos"
+    },
+    {
+     "letra": "B",
+     "texto": "500 casos"
+    },
+    {
+     "letra": "C",
+     "texto": "250 casos"
+    },
+    {
+     "letra": "D",
+     "texto": "2.500 casos"
+    },
+    {
+     "letra": "E",
+     "texto": "1.000 casos"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000188030",
+   "codigo": "4000188030",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 15,
+   "temas": [
+    "Letalidade"
+   ],
+   "enunciado": "Um indicador que relaciona o número de óbitos por determinada doença e o número de pessoas que foram acometidas por tal doença diz respeito à:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "incidência."
+    },
+    {
+     "letra": "B",
+     "texto": "mortalidade."
+    },
+    {
+     "letra": "C",
+     "texto": "prevalência."
+    },
+    {
+     "letra": "D",
+     "texto": "letalidade."
+    },
+    {
+     "letra": "E",
+     "texto": "morbidade"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000188028",
+   "codigo": "4000188028",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 16,
+   "temas": [
+    "Mortalidade Inf antil e Perinatal"
+   ],
+   "enunciado": "Para denominador do indicador de mortalidade infantil utilizamos:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Número de óbitos de menores de 30 dias."
+    },
+    {
+     "letra": "B",
+     "texto": "Número de óbitos de menores de 1 ano."
+    },
+    {
+     "letra": "C",
+     "texto": "Número de mulheres em idade fértil."
+    },
+    {
+     "letra": "D",
+     "texto": "Nascidos vivos de mães residentes."
+    },
+    {
+     "letra": "E",
+     "texto": "Número de abortos."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186378",
+   "codigo": "4000186378",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 17,
+   "temas": [
+    "Mortalidade"
+   ],
+   "enunciado": "É correto definir a taxa de mortalidade como:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "um indicador sem importância para análises epidemiológicas."
+    },
+    {
+     "letra": "B",
+     "texto": "um parâmetro específico para doenças neoplásicas."
+    },
+    {
+     "letra": "C",
+     "texto": "a relação da gravidade de uma enfermidade com sua população."
+    },
+    {
+     "letra": "D",
+     "texto": "um indicador utilizado exclusivamente na pediatria."
+    },
+    {
+     "letra": "E",
+     "texto": "a proporção entre a frequência absoluta de óbitos e a população exposta no mesmo período de referência e no mesmo local."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186375",
+   "codigo": "4000186375",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 18,
+   "temas": [
+    "Coef iciente ou Taxa de mortalidade neonatal"
+   ],
+   "enunciado": "Para realizar o cálculo da taxa de mortalidade infantil neonatal, são utilizados apenas os óbitos:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "ocorridos no primeiro ano de vida."
+    },
+    {
+     "letra": "B",
+     "texto": "ocorridos na população de menores de 28 dias de idade."
+    },
+    {
+     "letra": "C",
+     "texto": "relacionados com doenças infecto-contagiosas."
+    },
+    {
+     "letra": "D",
+     "texto": "ocorridos a partir dos 60 dias de vida."
+    },
+    {
+     "letra": "E",
+     "texto": "que ocorrem até os 12 anos de idade."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186112",
+   "codigo": "4000186112",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 19,
+   "temas": [
+    "Rede Cegonha"
+   ],
+   "enunciado": "Durante a avaliação da consolidação da Rede de Atenção Materno Infantil em um estado brasileiro pela equipe certi cadora do Ministério da Saúde observou-se diferentes taxas de mortalidade neonatal precoce em duas maternidades: uma delas situada em hospital universitário (13 por 1000 nascidos vivos) e outra em uma pequena cidade do interior (7 por 1000 nascidos vivos). Em relação às conclusões quanto à qualidade dos serviços sabe-se que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a maternidade do hospital universitário apresenta maior risco de morte entre os nascidos vivos na referida região de saúde."
+    },
+    {
+     "letra": "B",
+     "texto": "deve-se comparar as referidas taxas somente após a sua padronização segundo complexidade do atendimento e papel da maternidade da rede de atenção à saúde."
+    },
+    {
+     "letra": "C",
+     "texto": "a taxa de mortalidade neonatal precoce não se relaciona diretamente com a qualidade do serviços hospitalares e sim a mortalidade infantil pós-neonatal."
+    },
+    {
+     "letra": "D",
+     "texto": "a taxa de mortalidade neonatal precoce é a razão entre as mortes nos primeiros 28 dias a cada 1000 nascidos vivos."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000185764",
+   "codigo": "4000185764",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 20,
+   "temas": [
+    "Coef iciente ou Taxa de mortalidade pósneonatal ou mortalidade tardia"
+   ],
+   "enunciado": "Define-se a Taxa de Mortalidade Pós-neonatal em determinado espaço geográfico e ano, como o:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Número de óbitos até 27 dias de vida completos, por mil nascidos vivos."
+    },
+    {
+     "letra": "B",
+     "texto": "Número de óbitos entre 0 e 6 dias de vida completos, por mil nascidos vivos."
+    },
+    {
+     "letra": "C",
+     "texto": "Número de óbitos entre 7 e 27 dias de vida completos, por mil nascidos vivos."
+    },
+    {
+     "letra": "D",
+     "texto": "Número de óbitos entre 28 e 364 dias de vida completos, por mil nascidos vivos."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000185201",
+   "codigo": "4000185201",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 21,
+   "temas": [
+    "Medicina Preventiva"
+   ],
+   "enunciado": "Os coe cientes de mortalidade auxiliam as vigilâncias epidemiológicas, juntamente com municípios, estados e Ministério da Saúde, a adotarem medidas para melhorar a qualidade de serviços e para articular uma ação nacional. Considerando-se os coeficientes de mortalidade, é correto afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "as curvas de Nelson de Moraes são curvas de mortalidade proporcional por idade."
+    },
+    {
+     "letra": "B",
+     "texto": "o indicador de Swaroop-Uemura informa a proporção de óbitos de indivíduos com menos de 50 anos de idade residentes em uma determinada localidade."
+    },
+    {
+     "letra": "C",
+     "texto": "estão incluídos, no coeficiente de mortalidade neonatal, óbitos de crianças que faleceram até o 42.o dia completo de vida."
+    },
+    {
+     "letra": "D",
+     "texto": "o coeficiente de mortalidade materna informa o risco de óbito materno em uma determinada localidade ao longo de um determinado período e deve ser calculado dividindo-se óbitos de gestantes até 27.o dia após o término da gestação pelo número de nascidos vivos."
+    },
+    {
+     "letra": "E",
+     "texto": "O coeficiente de mortalidade por causas externas não pode incluir óbitos por complicações de assistência médica, uma vez que esse tipo de causa deve ser calculado por coeficiente específico."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000184770",
+   "codigo": "4000184770",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 22,
+   "temas": [
+    "A mortalidade materna no Brasil",
+    "Razão de Mortalidade Materna"
+   ],
+   "enunciado": "A razão de mortalidade materna é considerada um importante marcador de saúde e expressa situações de iniquidades entre diferentes regiões. No contexto de emergência da COVID-19, um estudo com dados do Sistema de Informações de Vigilância Epidemiológica da Gripe (SIVEPGripe) apontou que de 978 gestantes e puérperas diagnosticadas com Síndrome Respiratória Aguda Grave por COVID-19, 124 foram a óbito, sendo as falhas na assistência um dos principais fatores relacionados ao desfecho morte (Fonte: Souza A.S.R., Amorim M.M.R. Mortalidade materna pela COVID-19 no Brasil. Bras. Saúde Matern. Infan Pode-se afirmar, em relação à razão de mortalidade materna, que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "pode sofrer influência da baixa sensibilidade da declaração de óbito quanto à capacidade de apresentar um registro de morte materna entre as verdadeiras mortes."
+    },
+    {
+     "letra": "B",
+     "texto": "a comparação dessa razão entre as mais diversas regiões do Brasil não sofre influência da cobertura do Sistema de Informação sobre Mortalidade."
+    },
+    {
+     "letra": "C",
+     "texto": "ela expressa a razão entre o número de óbitos maternos em uma determinada área e período e o número de mulheres em idade fértil na mesma área e período."
+    },
+    {
+     "letra": "D",
+     "texto": "a análise de tendência temporal dessa razão para uma determinada região não é influenciada por problemas nas estimativas de nascidos vivos."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000184755",
+   "codigo": "4000184755",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 23,
+   "temas": [
+    "Outros",
+    "Mortalidade"
+   ],
+   "enunciado": "No dia 26 de fevereiro de 2020 foi noti cado o primeiro caso de COVID-19 no Brasil, um idoso com histórico de viagem pela Itália. Decorridos alguns meses após a introdução do vírus SARS-CoV-2, a análise dos óbitos segundo faixa etária apontou que as maiores taxas de mortalidade estavam relacionadas às pessoas maiores de 60 anos, sendo a presença de comorbidades neste grupo etário um dos principais fatores associados à evolução grave e ao óbito. A tabela a seguir apresenta informações sobre mortalidade por COVID-19 em três unidades federadas. Tabela. População total, número de óbitos e taxa de mortalidade por COVID-19 em três unidades federadas. Pode-se afirmar, com base no enunciado e nas informações da tabela, que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "os valores das taxas de mortalidade geral apresentados na tabela permitem a comparação entre diferentes populações quanto ao risco de morte por COVID-19."
+    },
+    {
+     "letra": "B",
+     "texto": "a comparação de taxas de mortalidade por COVID-19 entre as diferentes unidades federadas demanda um processo de padronização visando controlar o efeito da estrutura etária."
+    },
+    {
+     "letra": "C",
+     "texto": "para afirmarmos qual unidade federada possui maior risco de morte deveríamos saber qual é a proporção de óbitos por COVID-19 em relação ao total de óbitos por todas as causas."
+    },
+    {
+     "letra": "D",
+     "texto": "o risco de morte por COVID-19 é maior na unidade federada A, em função do maior número de óbitos registrados."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q023-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000184560",
+   "codigo": "4000184560",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 24,
+   "temas": [
+    "Incidência"
+   ],
+   "enunciado": "A Secretaria de Saúde está preocupada com o impacto da epidemia de dengue. Para verificar o risco de contrair dengue no ano de 2022, qual indicador deve ser acompanhado?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Prevalência mensal de dengue em 2022."
+    },
+    {
+     "letra": "B",
+     "texto": "Incidência mensal de dengue em 2022."
+    },
+    {
+     "letra": "C",
+     "texto": "Letalidade da dengue em 2021."
+    },
+    {
+     "letra": "D",
+     "texto": "Mortalidade por dengue acumulada em 2022."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000184452",
+   "codigo": "4000184452",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 25,
+   "temas": [
+    "Medicina Preventiva"
+   ],
+   "enunciado": "Considerando-se as alternativas a seguir, é correto a rmar que os fatores socioeconômicos têm maior influência no indicador de mortalidade",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "neonatal."
+    },
+    {
+     "letra": "B",
+     "texto": "neonatal tardia."
+    },
+    {
+     "letra": "C",
+     "texto": "perinatal."
+    },
+    {
+     "letra": "D",
+     "texto": "pós-neonatal."
+    },
+    {
+     "letra": "E",
+     "texto": "geral."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000184028",
+   "codigo": "4000184028",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 26,
+   "temas": [
+    "Coef iciente ou Taxa de mortalidade pósneonatal ou mortalidade tardia"
+   ],
+   "enunciado": "Um município observa um aumento do coeficiente de mortalidade infantil tardia em determinado ano. Assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Esse indicador refere-se a óbitos de crianças menores de um ano de idade."
+    },
+    {
+     "letra": "B",
+     "texto": "O aumento do coeficiente referido é devido em geral a mortes por malformações congênitas."
+    },
+    {
+     "letra": "C",
+     "texto": "Esse indicador refere-se a óbitos de crianças maiores de 28 dias a 11 meses de idade."
+    },
+    {
+     "letra": "D",
+     "texto": "O aumento do coeficiente referido é devido à falta de acesso a leitos de terapia intensiva."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000183558",
+   "codigo": "4000183558",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 27,
+   "temas": [
+    "COVID 19",
+    "Mortalidade"
+   ],
+   "enunciado": "Em 2021, em Sorocaba, ocorreram 52 mil casos noti cados de Covid-19, 10 mil casos hospitalizados por Covid-19 e 3 mil óbitos por Covid-19. A população de Sorocaba em 2021 era estimada em 700 mil habitantes. Pode-se afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a incidência de casos de COVID-19 foi de 1,4 por cem habitantes;"
+    },
+    {
+     "letra": "B",
+     "texto": "a mortalidade específica porCOVID-19 foi de 4,3 óbitos por mil habitantes;"
+    },
+    {
+     "letra": "C",
+     "texto": "a letalidade por COVID-19 foi de 4,3 óbitos por mil habitantes;"
+    },
+    {
+     "letra": "D",
+     "texto": "a taxa de hospitalização dos casos de COVID-19 foi de 1,4%."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000182877",
+   "codigo": "4000182877",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 28,
+   "temas": [
+    "Medicina Preventiva"
+   ],
+   "enunciado": "Entre 01 de janeiro e 31 de dezembro de 2020 ocorreram 180 acidentes fatais no trânsito em um determinado município. A medida de frequência de acidentes utilizada foi",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "letalidade."
+    },
+    {
+     "letra": "B",
+     "texto": "prevalência pontual."
+    },
+    {
+     "letra": "C",
+     "texto": "prevalência no período."
+    },
+    {
+     "letra": "D",
+     "texto": "incidência."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000182619",
+   "codigo": "4000182619",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 29,
+   "temas": [
+    "Medicina Preventiva"
+   ],
+   "enunciado": "Segundo as informações contidas no Sistema de Informação sobre Nascidos Vivos, 25% dos óbitos no primeiro ano de vida ocorrem na primeira semana de vida. O fator de risco isolado mais importante para a ocorrência da mortalidade infantil é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "malformações congênitas."
+    },
+    {
+     "letra": "B",
+     "texto": "infecções congênitas."
+    },
+    {
+     "letra": "C",
+     "texto": "mãe adolescente."
+    },
+    {
+     "letra": "D",
+     "texto": "baixo peso ao nascer."
+    },
+    {
+     "letra": "E",
+     "texto": "idade materna avançada."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000181832",
+   "codigo": "4000181832",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 33,
+   "temas": [],
+   "enunciado": "Razão de Near Miss Materno RNMM ou Razão de quase perda e Condições Potencialmente Ameaçadoras à Vida CPAV O near miss materno (NMM) é um indicador de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "mortalidade."
+    },
+    {
+     "letra": "B",
+     "texto": "morbidade."
+    },
+    {
+     "letra": "C",
+     "texto": "letalidade."
+    },
+    {
+     "letra": "D",
+     "texto": "contaminação."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000181831",
+   "codigo": "4000181831",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 34,
+   "temas": [],
+   "enunciado": "Conceitos f undamentais óbito materno óbito por causa materna causas obstétricas diretas e causas obstétricas indiretas Leia o caso clínico. Adolescente de 17 anos provoca um aborto e chega à urgência com restos ovulares infectados. Mesmo com os procedimentos corretos, ela vai a óbito por septicemia, 35 dias depois. A morte, nesse caso, é considerada",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "não materna."
+    },
+    {
+     "letra": "B",
+     "texto": "não obstétrica."
+    },
+    {
+     "letra": "C",
+     "texto": "obstétrica direta."
+    },
+    {
+     "letra": "D",
+     "texto": "obstétrica indireta."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000181678",
+   "codigo": "4000181678",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 35,
+   "temas": [
+    "Razão de Mortalidade Materna tardia"
+   ],
+   "enunciado": "Gestante, 27 anos, com parto prematuro de 34 semanas gestacionais. Após alta para casa, evolui com infecção uterina, sepse e tem óbito confirmado 60 dias após o parto. Diante do exposto, qual é o tipo de morte?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Morte materna direta."
+    },
+    {
+     "letra": "B",
+     "texto": "Morte obstétrica direta."
+    },
+    {
+     "letra": "C",
+     "texto": "Morte não materna, pois ocorreu 60 dias após o parto."
+    },
+    {
+     "letra": "D",
+     "texto": "Morte materna tardia."
+    },
+    {
+     "letra": "E",
+     "texto": "Morte pós-materna."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000181304",
+   "codigo": "4000181304",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 36,
+   "temas": [
+    "Medicina Preventiva"
+   ],
+   "enunciado": "Uma epidemia atinge uma região do estado de São Paulo. Trata-se de uma doença altamente transmissível, de rápida evolução e a maioria dos casos evolui para a cura, embora alguns evoluam para óbito. Considerando um período de 30 dias, assinale a alternativa que apresenta a afirmação correta sobre essa doença.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Trata-se de uma doença com alto coeficiente de prevalência e de letalidade."
+    },
+    {
+     "letra": "B",
+     "texto": "Seu coeficiente de incidência é alto e o de letalidade baixo."
+    },
+    {
+     "letra": "C",
+     "texto": "A doença tem alto impacto nos recursos de serviços de alta complexidade."
+    },
+    {
+     "letra": "D",
+     "texto": "O impacto sobre a saúde da população é baixo."
+    },
+    {
+     "letra": "E",
+     "texto": "O caminho mais curto para seu controle é a vacinação em massa."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000181204",
+   "codigo": "4000181204",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 37,
+   "temas": [
+    "Mortalidade Geral"
+   ],
+   "enunciado": "O Coe ciente de Mortalidade Geral (CMG) representa o risco de óbito em uma população. É calculado por meio da relação entre o total de óbitos e o número de habitantes em determinado período de tempo. Apesar de ser um indicador muito conhecido apresenta limites. Assinale a alternativa que descreve, corretamente, o limite desse indicador.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Apresenta distorções quando calculado em populações muito pequenas."
+    },
+    {
+     "letra": "B",
+     "texto": "Desconsidera a estrutura etária das populações."
+    },
+    {
+     "letra": "C",
+     "texto": "Não permite comparações em diferentes localidades."
+    },
+    {
+     "letra": "D",
+     "texto": "Não pode ser usado em conjunto com outros indicadores."
+    },
+    {
+     "letra": "E",
+     "texto": "Não pode ser utilizado em populações predominantemente idosas."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000181203",
+   "codigo": "4000181203",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 38,
+   "temas": [
+    "Coef iciente ou Taxa de Mortalidade Inf antil"
+   ],
+   "enunciado": "O Coe ciente de Mortalidade Infantil (CMI) representa um dos principais indicadores para medir a vulnerabilidade social de uma determinada região. Sobre esse indicador, é correto afirmar que ele é calculado considerando o número de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "nascidos vivos no numerador."
+    },
+    {
+     "letra": "B",
+     "texto": "óbitos de menores de 28 dias de vida no numerador."
+    },
+    {
+     "letra": "C",
+     "texto": "óbitos de menores de 1 ano de idade no numerador."
+    },
+    {
+     "letra": "D",
+     "texto": "óbitos de menores de 1 ano de idade no denominador."
+    },
+    {
+     "letra": "E",
+     "texto": "óbitos totais no denominador."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000193718",
+   "codigo": "4000193718",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 39,
+   "temas": [
+    "Mortalidade"
+   ],
+   "enunciado": "Em uma cidade de 1 milhão de habitantes, o total de óbitos foi 8 mil e, destes, 2.000 foram causados por doenças infecciosos, sendo que 400 tiveram como causa básica tuberculose. A mortalidade por tuberculose nesta população é de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "5%"
+    },
+    {
+     "letra": "B",
+     "texto": "2:1000"
+    },
+    {
+     "letra": "C",
+     "texto": "20%"
+    },
+    {
+     "letra": "D",
+     "texto": "4:1000"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000193717",
+   "codigo": "4000193717",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 40,
+   "temas": [
+    "Curvas de Nelson de Moraes"
+   ],
+   "enunciado": "Entre os indicadores de saúde relacionados, identi que o mais indicado para estudar na população a distribuição dos óbitos segundo a faixa etária:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Prevalência."
+    },
+    {
+     "letra": "B",
+     "texto": "Letalidade."
+    },
+    {
+     "letra": "C",
+     "texto": "Curva de Nelson de Moraes."
+    },
+    {
+     "letra": "D",
+     "texto": "Índice da"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000193716",
+   "codigo": "4000193716",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 41,
+   "temas": [
+    "Razão de Mortalidade Proporcional RMP ou Índice de SwaroopUemura"
+   ],
+   "enunciado": "Nos países desenvolvidos, o índice de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "é próximo 100%."
+    },
+    {
+     "letra": "B",
+     "texto": "apresenta valores entre 80 e 90%."
+    },
+    {
+     "letra": "C",
+     "texto": "apresenta valores em total de 30%."
+    },
+    {
+     "letra": "D",
+     "texto": "tende a nulidade."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000193715",
+   "codigo": "4000193715",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 42,
+   "temas": [
+    "Coef iciente ou Taxa de mortalidade neonatal"
+   ],
+   "enunciado": "Ao se dividir o número de óbitos em menores de 28 dias pelo total de nascidos vivos obtém-se o valor de coeficiente de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Mortalidade perinatal."
+    },
+    {
+     "letra": "B",
+     "texto": "Mortalidade infantil."
+    },
+    {
+     "letra": "C",
+     "texto": "Mortalidade infantil tardia."
+    },
+    {
+     "letra": "D",
+     "texto": "Mortalidade neonatal."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000185014",
+   "codigo": "4000185014",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 43,
+   "temas": [],
+   "enunciado": "Razão de Near Miss Materno RNMM ou Razão de quase perda e Condições Potencialmente Ameaçadoras à Vida CPAV Obstetrícia Considerando os critérios da Organização Mundial da Saúde (OMS) de morbidade materna grave, 2004, assinale a alternativa que apresenta uma ocorrência que deva ser notificada como near miss materno.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Perda de consciência por duas horas."
+    },
+    {
+     "letra": "B",
+     "texto": "Histerectomia após infecção puerperal."
+    },
+    {
+     "letra": "C",
+     "texto": "Trombocitopenia com 65.000 plaquetas/mm³."
+    },
+    {
+     "letra": "D",
+     "texto": "Transfusão de duas unidades de concentrado de hemácias."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000176109",
+   "codigo": "4000176109",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 44,
+   "temas": [
+    "Indicadores especiais de mortalidade",
+    "Mortalidade"
+   ],
+   "enunciado": "Em relação à mortalidade, analise as afirmações abaixo e, em seguida, assinale o item correto. I) O Ministério da Saúde adotou uma Declaração de óbito padronizada para todo o Brasil. II) A causa básica do óbito deve ser escrita em primeiro lugar, na parte I da Declaração de Óbito. III) A informação recolhida por Censos e Pesquisas Nacionais pode ser utilizada para estimar indicadores de mortalidade. IV) Quanto mais elevado o índice de Swaroop & Uemura tanto piores serão as condições de saúde e de vida de uma população. Assinale a alternativa correta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "II."
+    },
+    {
+     "letra": "B",
+     "texto": "I e II."
+    },
+    {
+     "letra": "C",
+     "texto": "I e III ."
+    },
+    {
+     "letra": "D",
+     "texto": "II e IV."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000176024",
+   "codigo": "4000176024",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 45,
+   "temas": [],
+   "enunciado": "Conceitos f undamentais óbito materno óbito por causa materna causas obstétricas diretas e causas obstétricas indiretas Puérpera, 8º dia pós-parto, apresenta quadro séptico de foco endometrial, evoluindo para óbito. Trata-se de morte materna:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Obstétrica direta"
+    },
+    {
+     "letra": "B",
+     "texto": "Obstétrica indireta"
+    },
+    {
+     "letra": "C",
+     "texto": "Não obstétrica"
+    },
+    {
+     "letra": "D",
+     "texto": "Acidental"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000176022",
+   "codigo": "4000176022",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 46,
+   "temas": [
+    "Letalidade"
+   ],
+   "enunciado": "A taxa de letalidade da doença meningocócica estima o risco de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Morrer pela doença em relação ao total de casos da doença"
+    },
+    {
+     "letra": "B",
+     "texto": "Morrer pela doença em relação à população exposta"
+    },
+    {
+     "letra": "C",
+     "texto": "Apresentar sequelas permanentes da doença"
+    },
+    {
+     "letra": "D",
+     "texto": "Ocorrer a doença na população exposta"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000175652",
+   "codigo": "4000175652",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 47,
+   "temas": [
+    "Mortalidade Materna"
+   ],
+   "enunciado": "Leia o Texto abaixo para responder à questão. “... Razão, Taxa ou Coe ciente de mortalidade materna é o indicador utilizado para conhecer o nível de morte materna (...) calculado pela relação do n.º de mortes ´maternas´ ou de ´mulheres durante a gestação ou até 42 dias após o término da gestação´, independentemente da duração ou da localização da gravidez. É causada por qualquer fator relacionado ou agravado pela gravidez ou por medidas tomadas em relação a ela” (Laurenti, 2000). A equação que representa o indicador no Texto acima é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "“Número de óbitos femininos, por 10 mil nascidos, na população residente em determinado espaço geográfico, no ano considerado” (OPAS, 2002)."
+    },
+    {
+     "letra": "B",
+     "texto": "“Número de óbitos de gestantes, por 100 mil nascidos, vivos ou mortos, na população residente em determinado espaço geográfico, no ano considerado” (OPAS, 2002)."
+    },
+    {
+     "letra": "C",
+     "texto": "“Número de óbitos de gestantes por diversas causas, por 100 mil nascidos, na população residente em determinado espaço geográfico, no ano considerado” (OPAS, 2002)."
+    },
+    {
+     "letra": "D",
+     "texto": "“Número de óbitos femininos por causas maternas, por 10 mil nascidos vivos, na população residente em determinado espaço geográfico, no ano considerado” (OPAS, 2002)."
+    },
+    {
+     "letra": "E",
+     "texto": "“Número de óbitos femininos por causas maternas, por 100 mil nascidos vivos, na população residente em determinado espaço geográfico, no ano considerado” (OPAS, 2002)."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000175574",
+   "codigo": "4000175574",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 48,
+   "temas": [
+    "Coef iciente ou Taxa de mortalidade neonatal precoce"
+   ],
+   "enunciado": "Para o cálculo do coe ciente de mortalidade neonatal precoce, deve-se utilizar, no numerador o seguinte número de óbitos:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "0 a 6 dias de vida completos."
+    },
+    {
+     "letra": "B",
+     "texto": "7 a 27 dias de vida completos."
+    },
+    {
+     "letra": "C",
+     "texto": "0 a 27 dias de vida completos."
+    },
+    {
+     "letra": "D",
+     "texto": "28 a 364 dias de vida completos."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000170491",
+   "codigo": "4000170491",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 49,
+   "temas": [
+    "Razão de Mortalidade Proporcional RMP ou Índice de SwaroopUemura"
+   ],
+   "enunciado": "Observe, na tabela a seguir, alguns dados hipotéticos a respeito de mortalidade proporcional por faixa etária em duas cidades. Considerando os dados apresentados, é correto a rmar que o índice de Swaroop & Uemura (ou razão de mortalidade proporcional) é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "de 4% para a cidade X e 6,4% para a cidade Y."
+    },
+    {
+     "letra": "B",
+     "texto": "de 56% para a cidade Y."
+    },
+    {
+     "letra": "C",
+     "texto": "de 20% para a cidade Y."
+    },
+    {
+     "letra": "D",
+     "texto": "maior na cidade X que na cidade Y."
+    },
+    {
+     "letra": "E",
+     "texto": "igual em ambas as cidades."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q049-1.jpg",
+     "antes_das_alternativas": true
+    },
+    {
+     "arquivo": "imagens/q049-2.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000170490",
+   "codigo": "4000170490",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 50,
+   "temas": [
+    "Coef iciente ou Taxa de mortalidade neonatal tardio"
+   ],
+   "enunciado": "Coef iciente ou Taxa de mortalidade neonatal precoce Para melhor compreensão da situação de saúde de determinada população, é recomendado que sejam analisadas algumas medidas de saúde coletiva, como, por exemplo, os coe cientes de mortalidade neonatal precoce (I), neonatal tardia (II) e pós-neonatal (III). Para cálculo desses coe cientes, é preciso considerar os óbitos nos seguintes dias de vida, respectivamente,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I – 0 a 6 dias completos; II – entre 7 dias e 27 dias completos; e III – entre 28 dias e 364 dias completos."
+    },
+    {
+     "letra": "B",
+     "texto": "I – 0 a 7 dias completos; II – entre 8 dias e 30 dias completos; e III – entre 31 dias e 365 dias completos."
+    },
+    {
+     "letra": "C",
+     "texto": "I – 0 a 14 dias completos; II – entre 15 dias e 27 dias completos; e III – entre 28 dias e 364 dias completos."
+    },
+    {
+     "letra": "D",
+     "texto": "I – 0 a 1 dia completo; II – entre 2 dias e 6 dias completos; e III – entre 7 dias e 27 dias completos."
+    },
+    {
+     "letra": "E",
+     "texto": "I – 0 a 1 dia completo; II – entre 2 dias e 30 dias completos; e III – entre 28 dias e 365 dias completos."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000170087",
+   "codigo": "4000170087",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 51,
+   "temas": [
+    "Medicina Preventiva",
+    "Coef iciente de Natalidade Taxa bruta de natalidade"
+   ],
+   "enunciado": "O conceito de nascido vivo refere-se à expulsão ou extração completa do corpo da mãe de um produto de concepção",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "com sinal de vida e peso igual ou superior a 500 gramas, ou estatura igual ou superior a 25 centímetros."
+    },
+    {
+     "letra": "B",
+     "texto": "que, depois da separação, respire e apresente dois outros sinais de vida."
+    },
+    {
+     "letra": "C",
+     "texto": "com sinal de vida, desde que o cordão umbilical esteja cortado ou desprendida a placenta."
+    },
+    {
+     "letra": "D",
+     "texto": "com sinal de vida, independentemente da duração da gravidez."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000170083",
+   "codigo": "4000170083",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 52,
+   "temas": [
+    "Medicina Preventiva",
+    "Letalidade"
+   ],
+   "enunciado": "De acordo com o Centro de Vigilância Epidemiológica do Estado de São Paulo, a situação da covid-19, no município de Botucatu e no estado de São Paulo, era a seguinte, nas datas a seguir indicadas. Obs: para ns de cálculos, se necessário, deve-se usar a população IBGE, estimada para 2021: Botucatu = 149.718 habitantes; estado de São Paulo = 46.649.432 habitantes. O coeficiente de letalidade por covid-19, no município de Botucatu, no ano de 2021 (até 31.08), foi de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "2,64%."
+    },
+    {
+     "letra": "B",
+     "texto": "203,7 por 100000 habitantes."
+    },
+    {
+     "letra": "C",
+     "texto": "195,0 por 100000 habitantes."
+    },
+    {
+     "letra": "D",
+     "texto": "1,71%."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000170002",
+   "codigo": "4000170002",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 53,
+   "temas": [
+    "Letalidade"
+   ],
+   "enunciado": "Num município hipotético, com população de 100000 pessoas, foram diagnosticados, ao longo de um ano, 10 casos de câncer de colo de útero, sendo que 2 desses evoluíram para óbito. Para esse período, calcule os coe cientes para câncer de colo de útero solicitados nas questões seguintes. O coeficiente de letalidade é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "igual a 0,2%."
+    },
+    {
+     "letra": "B",
+     "texto": "igual a 2%."
+    },
+    {
+     "letra": "C",
+     "texto": "igual a 10%."
+    },
+    {
+     "letra": "D",
+     "texto": "igual a 20%."
+    },
+    {
+     "letra": "E",
+     "texto": "impossível de ser calculado com os dados fornecidos."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000170001",
+   "codigo": "4000170001",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 54,
+   "temas": [
+    "Mortalidade Específ ica"
+   ],
+   "enunciado": "Num município hipotético, com população de 100000 pessoas, foram diagnosticados, ao longo de um ano, 10 casos de câncer de colo de útero, sendo que 2 desses evoluíram para óbito. Para esse período, calcule os coe cientes para câncer de colo de útero solicitados nas questões seguintes. O coeficiente de mortalidade é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "igual a 10."
+    },
+    {
+     "letra": "B",
+     "texto": "igual a 10%."
+    },
+    {
+     "letra": "C",
+     "texto": "igual a 10 por 100000."
+    },
+    {
+     "letra": "D",
+     "texto": "igual a 20 por 100000."
+    },
+    {
+     "letra": "E",
+     "texto": "impossível de ser calculado com os dados fornecidos."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000169994",
+   "codigo": "4000169994",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 55,
+   "temas": [
+    "Curvas de Nelson de Moraes",
+    "Razão de Mortalidade Proporcional RMP ou Índice de SwaroopUemura"
+   ],
+   "enunciado": "Indicadores de Mortalidade Proporcional por Idade O Índice de Swaroop & Uemura e as Curvas de Moraes calculam o número de mortes por",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "grupo etário."
+    },
+    {
+     "letra": "B",
+     "texto": "condição socioeconômica."
+    },
+    {
+     "letra": "C",
+     "texto": "doenças crônico degenerativas."
+    },
+    {
+     "letra": "D",
+     "texto": "doenças infectocontagiosas."
+    },
+    {
+     "letra": "E",
+     "texto": "sexo."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169723",
+   "codigo": "4000169723",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 56,
+   "temas": [
+    "Indicadores especiais de mortalidade"
+   ],
+   "enunciado": "O coe ciente de mortalidade geral da Dinamarca foi tão elevado quanto o do Zimbábue em 2018, iguais a 9 óbitos por mil habitantes. Isso se explica pelas diferenças existentes entre os dois países na",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "qualidade da assistência à saúde."
+    },
+    {
+     "letra": "B",
+     "texto": "distribuição etária da população."
+    },
+    {
+     "letra": "C",
+     "texto": "condição climática."
+    },
+    {
+     "letra": "D",
+     "texto": "prevalência de dependência química."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000169136",
+   "codigo": "4000169136",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 57,
+   "temas": [
+    "Indicadores de Mortalidade Proporcional por Idade"
+   ],
+   "enunciado": "Em uma cidade do interior do Maranhão com cem mil habitantes foi registrado um aumento de mortes por infarto agudo do miocárdio (IAM) no período da pandemia. Em 2020, ocorreram 12 mortes por IAM e 15 mortes em 2021. Podemos a rmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A mortalidade por IAM aumentou menos que 25% em 2021 com relação a 2020."
+    },
+    {
+     "letra": "B",
+     "texto": "A mortalidade por IAM aumentou 25% em 2021 com relação a 2020."
+    },
+    {
+     "letra": "C",
+     "texto": "A morbidade por IAM aumentou 25% em 2021 com relação a 2020."
+    },
+    {
+     "letra": "D",
+     "texto": "A letalidade por IAM aumentou 2,5 vezes em 2021 com relação a 2020."
+    },
+    {
+     "letra": "E",
+     "texto": "A letalidade por IAM aumentou 1,25 vezes em 2021 com relação a 2020."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000168925",
+   "codigo": "4000168925",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 58,
+   "temas": [
+    "Principais medidas de f requência de doenças",
+    "Medicina Preventiva",
+    "Medidas de saúde coletiva"
+   ],
+   "enunciado": "No dia 01/09/2021, o Brasil apresentava aproximadamente 20.800.000 de casos confirmados e 580.000 óbitos por COVID-19. Considerando uma população total de 210 milhões de pessoas, qual era a taxa de letalidade aproximada pela doença à época?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "0,2%"
+    },
+    {
+     "letra": "B",
+     "texto": "2,8%"
+    },
+    {
+     "letra": "C",
+     "texto": "9,9%"
+    },
+    {
+     "letra": "D",
+     "texto": "35,8%"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000168367",
+   "codigo": "4000168367",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 59,
+   "temas": [
+    "Medicina Preventiva",
+    "Indicadores especiais de mortalidade"
+   ],
+   "enunciado": "Em 2020, foram registradas no Brasil 194.976 mortes causadas por covid-19. A população estimada para o cálculo dos indicadores era de 213.320.748 habitantes. A que medida, dentre as abaixo, corresponde o índice calculado de 914 óbitos por covid-19 por milhão de habitantes em 2020?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "À taxa de letalidade."
+    },
+    {
+     "letra": "B",
+     "texto": "À taxa de mortalidade."
+    },
+    {
+     "letra": "C",
+     "texto": "À letalidade proporcional."
+    },
+    {
+     "letra": "D",
+     "texto": "À mortalidade proporcional."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000168245",
+   "codigo": "4000168245",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 60,
+   "temas": [
+    "Curvas de Nelson de Moraes"
+   ],
+   "enunciado": "Ao se pretender realizar um estudo para comparar a situação de saúde das populações de um dado município em épocas diferentes, utilizando-se algum indicador de saúde, verifica-se que os únicos dados disponíveis são referentes ao número de mortes, às datas dos falecimentos e à idade dos falecidos. Nessa situação, é possível realizar o estudo:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Utilizando-se os índices de Moraes."
+    },
+    {
+     "letra": "B",
+     "texto": "Utilizando-se o Índice de Prevalência Lápsica."
+    },
+    {
+     "letra": "C",
+     "texto": "Utilizando-se o coeficiente de mortalidade geral."
+    },
+    {
+     "letra": "D",
+     "texto": "Utilizando-se o coeficiente de mortalidade infantil."
+    },
+    {
+     "letra": "E",
+     "texto": "Somente se forem obtidos mais dados sobre a população."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000168243",
+   "codigo": "4000168243",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 61,
+   "temas": [
+    "Coef iciente ou Taxa de Mortalidade Inf antil"
+   ],
+   "enunciado": "Com informações advindas do Sistema de Informação sobre Nascidos Vivos e do Sistema de Informações sobre Mortalidade, é possível calcular o seguinte indicador:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Coeficiente de Mortalidade Geral."
+    },
+    {
+     "letra": "B",
+     "texto": "Taxa Bruta de Natalidade."
+    },
+    {
+     "letra": "C",
+     "texto": "Coeficiente de Mortalidade Infantil."
+    },
+    {
+     "letra": "D",
+     "texto": "Coeficiente de Letalidade."
+    },
+    {
+     "letra": "E",
+     "texto": "Coeficiente de Mortalidade por Sexo."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000167400",
+   "codigo": "4000167400",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 62,
+   "temas": [
+    "Medicina Preventiva",
+    "A mortalidade inf antil no Brasil",
+    "Coef iciente ou Taxa de Mortalidade Inf antil"
+   ],
+   "enunciado": "COM OS DADOS DA TABELA RESPONDA A ALTERNATIVA CORRETA: Fonte: dados hipotéticos.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O coeficiente de mortalidade infantil é maior na cidade A em relação à cidade B."
+    },
+    {
+     "letra": "B",
+     "texto": "A taxa de mortalidade neonatal é maior na cidade A em relação à cidade B."
+    },
+    {
+     "letra": "C",
+     "texto": "A razão de mortalidade materna é maior na cidade A em relação à cidade B."
+    },
+    {
+     "letra": "D",
+     "texto": "A mortalidade infantil proporcional é maior na cidade A em relação à cidade B."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q062-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000167399",
+   "codigo": "4000167399",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 63,
+   "temas": [
+    "Medicina Preventiva",
+    "Conceitos f undamentais óbito f etal óbito inf antil e óbito na inf ância"
+   ],
+   "enunciado": "Foi realizado um estudo epidemiológico para conhecer o perfil de mortalidade infantil indígena e observaram-se 254 óbitos em crianças menores de um ano, noti cadas ao Sistema de Informação da Atenção à Saúde Indígena, no estado do Pará, no período de 2013 a 2018. Dos óbitos, 89 ocorreram entre o nascimento e seis dias, 29 foram entre sete e 27 dias, e 136 aconteceram no período de 28 a 364 dias de vida. Cento e trinta e sete óbitos (n=137) ocorreram em hospitais e as três principais causas foram: afecções perinatais (n=69), doenças do aparelho respiratório (n=48) e doenças infecciosas e parasitárias (n=40). O estudo também encontrou diferenciais na distribuição dos óbitos de acordo com as etnias. ASSINALE A ALTERNATIVA EM RELAÇÃO À PROPORÇÃO DE ÓBITOS NO PERÍODO NEONATAL TARDIO, A PROPORÇÃO DE MORTES POR INFECÇÕES PERINATAIS, E A PROPORÇÃO DE ÓBITOS FORA DO AMBIENTE HOSPITALAR:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "11,42%; 18,90% e 53,93%."
+    },
+    {
+     "letra": "B",
+     "texto": "53,54%; 27,16% e 46,06%."
+    },
+    {
+     "letra": "C",
+     "texto": "11,42%; 27,16% e 46,06%."
+    },
+    {
+     "letra": "D",
+     "texto": "53,54%; 27,16% e 53,93%."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000166855",
+   "codigo": "4000166855",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 64,
+   "temas": [
+    "Mortalidade Inf antil e Perinatal"
+   ],
+   "enunciado": "O coeficiente de mortalidade perinatal é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o risco de se nascer morto, considerando as perdas fetais que ocorrem a partir da 28ª semana de gestação ou em que o concepto tem peso ao redor de 1000 gramas e cerca de 35 cm de comprimento."
+    },
+    {
+     "letra": "B",
+     "texto": "calculado de acordo com a expressão: óbitos ocorridos no período perinatal/perdas fetais. Esse resultado deve ser multiplicado por uma constante."
+    },
+    {
+     "letra": "C",
+     "texto": "calculado pela razão entre a soma das perdas fetais precoces e dos óbitos neonatais tardios, e todos os nascimentos, incluindo os natimortos e os nascidos vivos."
+    },
+    {
+     "letra": "D",
+     "texto": "a expressão do risco de morte ao longo do período perinatal."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000166264",
+   "codigo": "4000166264",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 65,
+   "temas": [
+    "Mortalidade"
+   ],
+   "enunciado": "Em epidemiologia, taxas de mortalidade ajustadas por idade podem ser utilizadas para",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "determinar o número de mortes em um dado grupo etário das populações comparadas."
+    },
+    {
+     "letra": "B",
+     "texto": "eliminar o efeito das diferenças etárias das populações na comparação de suas mortalidades."
+    },
+    {
+     "letra": "C",
+     "texto": "estimar as idades de óbito quando faltam tais informações nas taxas brutas de mortalidade."
+    },
+    {
+     "letra": "D",
+     "texto": "corrigir as taxas brutas de mortalidade, estimando os erros de registro das idades."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000165406",
+   "codigo": "4000165406",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 66,
+   "temas": [
+    "Coef iciente ou Taxa de Mortalidade Inf antil"
+   ],
+   "enunciado": "Com relação a mortalidade infantil, esta pode ser melhor definida como:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "óbitos ocorridos após o primeiro ano de vida"
+    },
+    {
+     "letra": "B",
+     "texto": "engloba óbitos fetais e óbitos neonatais precoces"
+    },
+    {
+     "letra": "C",
+     "texto": "óbitos ocorridos ao longo do primeiro ano de vida, antes de se completar a idade de um ano"
+    },
+    {
+     "letra": "D",
+     "texto": "a taxa de mortalidade em menores de 12 anos de idade"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000165217",
+   "codigo": "4000165217",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 67,
+   "temas": [
+    "Outros Indicadores de Relevância em Saúde Pública",
+    "Indicadores especiais de mortalidade"
+   ],
+   "enunciado": "Assinale a alternativa correta no tocante a indicadores de nível de saúde.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O coeficiente de mortalidade materna se refere a mortes decorrentes a parto."
+    },
+    {
+     "letra": "B",
+     "texto": "O coeficiente de mortalidade neonatal tem relação com óbitos de menores de 28 dias em certa área durante o ano."
+    },
+    {
+     "letra": "C",
+     "texto": "O coeficiente de mortalidade perinatal se refere a nascidos mortos ocorridos em certa área durante o ano."
+    },
+    {
+     "letra": "D",
+     "texto": "O coeficiente de natalidade geral se refere a nascidos numa certa área durante o ano."
+    },
+    {
+     "letra": "E",
+     "texto": "O coeficiente geral de fecundidade tem relação com o número de gestações numa certa área durante o ano."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000165204",
+   "codigo": "4000165204",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 68,
+   "temas": [
+    "Indicadores Socioeconômicos",
+    "Avaliação da Qualidade em Atenção Primária à Saúde"
+   ],
+   "enunciado": "Nos anos 1970, a redução anual da taxa de mortalidade infantil (TMI) foi de 3,2% alcançando 83/1000 nascidos vivos em 1980. A redução anual da TMI foi de 5,5% nas décadas de 1980 e 1990. No período entre 1990 e 2012, o país obteve mais uma diminuição expressiva na mortalidade infantil, passando de 47,1 óbitos por mil nascidos vivos em 1990 para 14,6 em 2012, diminuição de aproximadamente 70%. Essa queda se deu em todas as regiões brasileiras, com destaque para o Nordeste, cuja taxa, em 1990, situava-se muito acima das demais, alcançando 75,8 óbitos por mil nascidos vivos, e em 2012 sofreu queda para 17,1, menor que da Região Norte, estimada em 19,5. Segundo o enunciado,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "afirma-se que entre 1990 e 2012 houve uma sensível queda de mortalidade na infância."
+    },
+    {
+     "letra": "B",
+     "texto": "a diminuição da taxa de mortalidade infantil é um indicador estável, de difícil regressão."
+    },
+    {
+     "letra": "C",
+     "texto": "deduz-se que entre 1990 e 2012 houve uma melhora da atenção hospitalar às crianças."
+    },
+    {
+     "letra": "D",
+     "texto": "o conteúdo do texto dá indícios de melhora dos níveis de saúde, de desenvolvimento socioeconômico e de condições de vida entre 1990 e 2012."
+    },
+    {
+     "letra": "E",
+     "texto": "os programas materno-infantis foram os responsáveis principais pela queda da TMI entre 1990 e 2012."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000165013",
+   "codigo": "4000165013",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 69,
+   "temas": [
+    "Conceitos f undamentais óbito f etal óbito inf antil e óbito na inf ância",
+    "Razão de Mortalidade Materna"
+   ],
+   "enunciado": "Declaração de óbito DO Atestado de óbito Mulher, 38 anos, com gravidez múltipla de 23 semanas, é admitida com eclampsia. Horas depois, ocorre o parto natural de dois conceptos. Ela evolui com edema agudo de pulmão, seguido de óbito. Não foi realizada necropsia. Na tabela abaixo, as características dos conceptos. Pode-se afirmar, no que diz respeito aos registros vitais e aos indicadores de saúde, que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a causa básica da morte da mulher é edema agudo de pulmão"
+    },
+    {
+     "letra": "B",
+     "texto": "a causa básica da morte do concepto masculino é eclampsia materna"
+    },
+    {
+     "letra": "C",
+     "texto": "os dois conceptos serão contabilizados nos denominadores do coeficiente de mortalidade fetal e da razão de mortalidade materna"
+    },
+    {
+     "letra": "D",
+     "texto": "o concepto masculino e o feminino serão classificados, respectivamente, como óbito fetal precoce e óbito fetal tardio"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000165009",
+   "codigo": "4000165009",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 70,
+   "temas": [
+    "Mortalidade Geral",
+    "DALY",
+    "Curvas de Nelson de Moraes"
+   ],
+   "enunciado": "Um determinado país possui elevada cobertura vacinal para as doenças imunopreveníveis, percentagem de cobertura para água tratada e tratamento de esgoto acima de 95%, índice de desenvolvimento urbano elevado, atendimento médico público e gratuito de qualidade. Nestas condições deve-se esperar que esse país apresente também:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o indicador de DALY ("
+    },
+    {
+     "letra": "B",
+     "texto": "a curva de"
+    },
+    {
+     "letra": "C",
+     "texto": "a curva de"
+    },
+    {
+     "letra": "D",
+     "texto": "o indicador de"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000164757",
+   "codigo": "4000164757",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 72,
+   "temas": [],
+   "enunciado": "Conceitos f undamentais óbito materno óbito por causa materna causas obstétricas diretas e causas obstétricas indiretas Mortalidade Materna Em uma cidade, em 2020, houve 10.000 nascidos vivos. Nesse mesmo ano houve 1 morte materna obstétrica direta, 1 morte obstétrica indireta, 1 morte materna não obstétrica e 1 caso de materna desse ano nessa cidade foi de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "2."
+    },
+    {
+     "letra": "B",
+     "texto": "30."
+    },
+    {
+     "letra": "C",
+     "texto": "4."
+    },
+    {
+     "letra": "D",
+     "texto": "20."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000164725",
+   "codigo": "4000164725",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 73,
+   "temas": [
+    "Medicina Preventiva",
+    "Letalidade"
+   ],
+   "enunciado": "Considerando-se o quadro abaixo: É correto afirmar que a letalidade de COVID-19 no Brasil é de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1,84%."
+    },
+    {
+     "letra": "B",
+     "texto": "2,16%."
+    },
+    {
+     "letra": "C",
+     "texto": "2,78%."
+    },
+    {
+     "letra": "D",
+     "texto": "3,16%."
+    },
+    {
+     "letra": "E",
+     "texto": "3,85%."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163588",
+   "codigo": "4000163588",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 74,
+   "temas": [
+    "Coef iciente ou Taxa de Mortalidade Inf antil"
+   ],
+   "enunciado": "Em um município a população de menores de um ano é de 1.932 crianças para o ano de 2020. Foram registrados 815 nascidos vivos. Nesse período ocorreram 7 óbitos fetais, 2 óbitos em lactentes com idade entre 3 meses e 11 meses de vida, 10 óbitos em recém-nascidos com menos de sete dias de vida, e 1 óbito em recém-nascido com idade variando entre 7 e 27 dias de vida. Calcule o Coeficiente de Mortalidade Infantil para esse ano:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "15,95/1000 nascidos vivos."
+    },
+    {
+     "letra": "B",
+     "texto": "24,53/1000 crianças menores de um ano."
+    },
+    {
+     "letra": "C",
+     "texto": "14,72/1000 nascidos vivos."
+    },
+    {
+     "letra": "D",
+     "texto": "2,45/1000 crianças menores de um ano."
+    },
+    {
+     "letra": "E",
+     "texto": "12,26/1000 nascidos vivos."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163587",
+   "codigo": "4000163587",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 75,
+   "temas": [
+    "Coef iciente ou Taxa de mortalidade pósneonatal ou mortalidade tardia"
+   ],
+   "enunciado": "Para o cálculo do coe ciente de mortalidade infantil pós-neonatal, em um determinado ano e localidade é necessário saber o número de óbitos em...",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "maiores de 7 dias até os menores de 28 dias; total de crianças menores de um ano."
+    },
+    {
+     "letra": "B",
+     "texto": "maiores de 7 dias até os menores de 28 dias; total de nascidos vivos."
+    },
+    {
+     "letra": "C",
+     "texto": "menores de 8 dias; total de nascidos vivos."
+    },
+    {
+     "letra": "D",
+     "texto": "maiores de 28 dias até os menores de um ano; total de crianças menores de um ano."
+    },
+    {
+     "letra": "E",
+     "texto": "maiores de 28 dias até os menores de um ano; total de nascidos vivos."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000163264",
+   "codigo": "4000163264",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 76,
+   "temas": [
+    "Mortalidade Geral",
+    "Medicina Preventiva",
+    "Mortalidade Inf antil e Perinatal"
+   ],
+   "enunciado": "Os indicadores de saúde são medidas sintéticas que contêm informações relevantes sobre determinados atributos e dimensões do estado de saúde, bem como o desempenho do sistema de saúde. Dessa forma, relacione os indicadores de saúde, na coluna da esquerda, com a sua descrição, na coluna da direita. (I) Mortalidade Materna. (II) Mortalidade Geral. (III) Mortalidade Proporcional. (IV) Mortalidade Infantil. (V) Indicador de Swaroop e Uemura. (A) Valores altos desse indicador se relacionam às regiões mais desenvolvidas e requerem, para seu cálculo, apenas a informação sobre os óbitos registrados, classificados em uma de duas gran​des faixas etárias. (B) Permite avaliar iniquidades entre áreas ou regiões com diferentes níveis de desenvolvimento, considerada um excelente indicador de saúde. (C) É considerada um dos indicadores mais sensíveis a sua situação de saúde e condição social, pois se refere a um grupo populacio​nal bastante vulnerável às condições de vida. (D) Capacidade de relacionar o nível de saúde de diferentes áreas no tempo, através de dados mais dedignos do que compõem os coeficientes mais específicos, mais difíceis de serem obtidos. (E) Indica a importância de uma causa ou grupo de causas de morte em uma determinada população, e pode ser utilizada no delineamento de prioridades na área da saúde. Assinale a alternativa que contém a associação correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I-A, II-E, III-D, IV-C, V-B."
+    },
+    {
+     "letra": "B",
+     "texto": "I-B, II-D, III-E, IV-C, V-A."
+    },
+    {
+     "letra": "C",
+     "texto": "I-B, II-E, III-D, IV-A, V-C."
+    },
+    {
+     "letra": "D",
+     "texto": "I-E, II-A, III-B, IV-D, V-C."
+    },
+    {
+     "letra": "E",
+     "texto": "I-E, II-C, III-B, IV-D, V-A."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163261",
+   "codigo": "4000163261",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 77,
+   "temas": [
+    "Mortalidade Inf antil e Perinatal"
+   ],
+   "enunciado": "A tabela, a seguir, apresenta dados de nascidos vivos e óbitos infantis do Brasil, Paraná e Londrina, de 2019, segundo o Departamento de Informática do Sistema Único de Saúde (DATASUS). A partir desses dados, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A Mortalidade Neonatal Precoce apresentou o maior impacto sobre a Mortalidade Infantil do Brasil, diferentemente do estado do Paraná, para o qual o maior impacto foi a Mortalidade Pós-Neonatal."
+    },
+    {
+     "letra": "B",
+     "texto": "Em Londrina, em 2019, a Mortalidade Neonatal Tardia apresentou o maior impacto sobre a Mortalidade Infantil."
+    },
+    {
+     "letra": "C",
+     "texto": "O Coeficiente de Mortalidade Neonatal do Brasil, em 2019, foi menor que o Coeficiente de Mortalidade Pós- Neonatal."
+    },
+    {
+     "letra": "D",
+     "texto": "O Coeficiente de Mortalidade Perinatal no estado do Paraná, em 2019, foi de 5,47, inferior ao Brasil e ao município de Londrina."
+    },
+    {
+     "letra": "E",
+     "texto": "O estado do Paraná apresentou, em 2019, o menor valor de Coeficiente de Mortalidade Infantil se comparado ao Brasil e ao município de Londrina."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [
+    {
+     "arquivo": "imagens/q077-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000173833",
+   "codigo": "4000173833",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 78,
+   "temas": [
+    "Morbimortalidade por grupos etários"
+   ],
+   "enunciado": "O coe ciente de mortalidade geral por 1000 indivíduos nos países desenvolvidos europeus é mais alto quando comparado com o mesmo coeficiente em vários países em desenvolvimento. Assinale a CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A diferença se deve essencialmente à maior concentração de pessoas no terceiro mundo."
+    },
+    {
+     "letra": "B",
+     "texto": "Os maiores coeficientes de mortalidade nos países em desenvolvimento são resultantes da melhor capacidade de notificação."
+    },
+    {
+     "letra": "C",
+     "texto": "A diferença se deve principalmente à qualidade dos registros de mortes entre os países."
+    },
+    {
+     "letra": "D",
+     "texto": "A diferença no risco de morrer se deve às diferentes estruturas etárias das populações."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000145538",
+   "codigo": "4000145538",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 79,
+   "temas": [
+    "Letalidade"
+   ],
+   "enunciado": "Dados publicados pelo Ministério da Saúde do Brasil, em setembro de 2020, estima a letalidade pelo coronavírus em torno de 3%, considerada elevada. É considerada uma doença de alta letalidade aquela em que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A probabilidade de deixar sequelas é elevada"
+    },
+    {
+     "letra": "B",
+     "texto": "A probabilidade de apresentar sintomas graves é elevada"
+    },
+    {
+     "letra": "C",
+     "texto": "A probabilidade de morrer é elevada, se não for instituído o tratamento eficaz"
+    },
+    {
+     "letra": "D",
+     "texto": "A proporção de óbitos entre os diagnosticados com a doença é elevada"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000145536",
+   "codigo": "4000145536",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 80,
+   "temas": [
+    "Mortalidade"
+   ],
+   "enunciado": "Análises preliminares de dados de mortalidade apontam que o risco de morrer por doenças cardiovasculares no Brasil está diminuindo. Para verificar se esse resultado é observado nos estados brasileiros, deve-se estimar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A mortalidade proporcional específica por idade para as doenças cardiovasculares em cada estado brasileiro"
+    },
+    {
+     "letra": "B",
+     "texto": "A proporção de anos potenciais de vida perdidos por doenças cardiovasculares em cada estado brasileiro"
+    },
+    {
+     "letra": "C",
+     "texto": "A taxa de mortalidade específica por doenças cardiovasculares ajustada por idade em cada estado brasileiro"
+    },
+    {
+     "letra": "D",
+     "texto": "A taxa de mortalidade específica por doenças cardiovasculares em cada estado brasileiro"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000144877",
+   "codigo": "4000144877",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 81,
+   "temas": [
+    "Morbimortalidade por grupos etários",
+    "Coef iciente ou Taxa de Mortalidade Inf antil"
+   ],
+   "enunciado": "A respeito dos dados de mortalidade infantil no Brasil, marque a resposta correta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A taxa de mortalidade infantil sofreu uma redução de 67,6% entre 1990 e 2015"
+    },
+    {
+     "letra": "B",
+     "texto": "O Brasil não alcançou a meta estabelecida nos objetivos de desenvolvimento do milênio, em relação à redução da mortalidade infantil"
+    },
+    {
+     "letra": "C",
+     "texto": "Traumas e acidentes domésticos são as principais causas de óbito no 1 ° ano de vida"
+    },
+    {
+     "letra": "D",
+     "texto": "A maior redução das taxas de mortalidade infantil nos últimos 20 anos foi alcançada pelas regiões Sudeste e Sul"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000143566",
+   "codigo": "4000143566",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 82,
+   "temas": [
+    "A mortalidade inf antil no Brasil"
+   ],
+   "enunciado": "A redução na taxa de mortalidade infantil observada nas últimas décadas pode ser explicada pelos seguintes fatores, EXCETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Redução da taxa de fecundidade."
+    },
+    {
+     "letra": "B",
+     "texto": "Aumento da escolaridade materna."
+    },
+    {
+     "letra": "C",
+     "texto": "Melhora do saneamento básico."
+    },
+    {
+     "letra": "D",
+     "texto": "Ampliação da cobertura vacinal."
+    },
+    {
+     "letra": "E",
+     "texto": "Aumento na proporção de partos cesáreos."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000141175",
+   "codigo": "4000141175",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 83,
+   "temas": [
+    "Mortalidade Proporcional"
+   ],
+   "enunciado": "Um município noti cou os seguintes indicadores ao analisar grupos de causas básicas: mortalidade proporcional devido a doenças cardiovasculares de 30% e de causas externas de 11%; percentual de anos potenciais de vida perdidos de 11% por causas cardiovasculares e 30% por causas externas. ASSINALE A ALTERNATIVA CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "As causas externas e as doenças cardiovasculares são as principais causas de morte no município."
+    },
+    {
+     "letra": "B",
+     "texto": "Os indicadores mostram o risco de morrer tanto por doenças cardiovasculares como por causas externas no município."
+    },
+    {
+     "letra": "C",
+     "texto": "A cidade tem grande percentual de idosos que se expõem a causas externas."
+    },
+    {
+     "letra": "D",
+     "texto": "Há grande contingente de óbitos precoces."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000141174",
+   "codigo": "4000141174",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 84,
+   "temas": [
+    "Mortalidade Geral",
+    "Medicina Preventiva",
+    "Letalidade"
+   ],
+   "enunciado": "Em uma cidade de 1.000.000 habitantes, foram noti cados 1.000 casos e 50 mortes de uma doença aguda X no ano. O total de mortes de todas as causas foi 150. CALCULE O COEFICIENTE DE MORTALIDADE DA DOENÇA X POR 100 MIL HABITANTES, A MORTALIDADE PROPORCIONAL PELA DOENÇA E A LETALIDADE DA DOENÇA EM PORCENTAGEM, RESPECTIVAMENTE:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "150; 15; 0,05."
+    },
+    {
+     "letra": "B",
+     "texto": "150; 33; 0,5."
+    },
+    {
+     "letra": "C",
+     "texto": "5; 33; 5."
+    },
+    {
+     "letra": "D",
+     "texto": "5; 15; 33,3."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000137537",
+   "codigo": "4000137537",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 85,
+   "temas": [
+    "Padronização de coef icientes de mortalidade"
+   ],
+   "enunciado": "Objetivando se dispor de padronização a ser utilizado, quando a distribuição dos óbitos por faixas etárias é conhecida e os contingentes populacionais envolvidos são pequenos, é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a não realização da padronização dos coeficientes."
+    },
+    {
+     "letra": "B",
+     "texto": "o método direto."
+    },
+    {
+     "letra": "C",
+     "texto": "a razão de mortalidade padronizada."
+    },
+    {
+     "letra": "D",
+     "texto": "o método indireto."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000129877",
+   "codigo": "4000129877",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 86,
+   "temas": [
+    "Mortalidade"
+   ],
+   "enunciado": "O coe ciente de mortalidade especí ca por câncer de ovário é calculado pela razão entre o número de óbitos totais por câncer de ovário e",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a população total."
+    },
+    {
+     "letra": "B",
+     "texto": "os óbitos totais."
+    },
+    {
+     "letra": "C",
+     "texto": "os óbitos de mulheres."
+    },
+    {
+     "letra": "D",
+     "texto": "a população de mulheres."
+    },
+    {
+     "letra": "E",
+     "texto": "O número de mulheres na menacme."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000129876",
+   "codigo": "4000129876",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 87,
+   "temas": [
+    "Mortalidade"
+   ],
+   "enunciado": "Uma das mais importantes vantagens dos dados de mortalidade em relação aos de morbidade é que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a) estimam o acompanhamento longitudinal do adoecimento."
+    },
+    {
+     "letra": "B",
+     "texto": "b) alteram-se rapidamente com medidas que melhoram a saúde da população."
+    },
+    {
+     "letra": "C",
+     "texto": "têm maior disponibilidade a partir dos sistemas de informação."
+    },
+    {
+     "letra": "D",
+     "texto": "mostram o evento final esperado, após a totalidade das morbidades existentes."
+    },
+    {
+     "letra": "E",
+     "texto": "têm número baixo de acometidos, o que facilita as análises."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000129642",
+   "codigo": "4000129642",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 88,
+   "temas": [],
+   "enunciado": "Conceitos f undamentais óbito materno óbito por causa materna causas obstétricas diretas e causas obstétricas indiretas Em nosso meio, as principais causas de mortalidade materna e neonatal são, respectivamente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "hemorragias e prematuridade."
+    },
+    {
+     "letra": "B",
+     "texto": "hemorragias e sepse neonatal."
+    },
+    {
+     "letra": "C",
+     "texto": "pré-eclâmpsia e prematuridade."
+    },
+    {
+     "letra": "D",
+     "texto": "infecção puerperal e sepse neonatal."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000130402",
+   "codigo": "4000130402",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 89,
+   "temas": [
+    "Mortalidade Inf antil e Perinatal",
+    "Indicadores especiais de mortalidade"
+   ],
+   "enunciado": "Em uma região com população de 1.000.000 habitantes, registraram-se 12.000 óbitos na população total e 10.000 nascidos vivos no ano. Entre os óbitos, 80 crianças morreram antes de completar 28 dias e 20 com idade de 28 dias a 1 ano. SOBRE INDICADORES NA REGIÃO PODE- SE AFIRMAR QUE:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A mortalidade proporcional de menores de 1 ano na região é maior que 12%."
+    },
+    {
+     "letra": "B",
+     "texto": "O coeficiente de mortalidade infantil tardia é de 20%."
+    },
+    {
+     "letra": "C",
+     "texto": "O coeficiente de mortalidade geral é de 120 por 1000 habitantes."
+    },
+    {
+     "letra": "D",
+     "texto": "A mortalidade infantil é de 10 por 1000 nascidos vivos."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000110701",
+   "codigo": "4000110701",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 90,
+   "temas": [
+    "Letalidade",
+    "Incidência",
+    "Mortalidade"
+   ],
+   "enunciado": "Qual a alternativa que corresponde, respectivamente, aos indicadores de saúde estimados a partir das informações a seguir, visto que foram obtidos os seguintes valores: 5/100.00; 1/100.000 e 20%? Quadro. Casos notificados e óbitos por meningite bacteriana no Estado de São Paulo, no ano de 2013. Dados modificados para facilitar cálculos: *População residente em 2012, estimativa pelo IBGE. Fonte: SINAN/DDTR/CVE/CCD/SES-S",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Taxa de Letalidade, Coeficientes de Mortalidade e de Incidência."
+    },
+    {
+     "letra": "B",
+     "texto": "Coeficientes de Prevalência, de Mortalidade e Taxa de Letalidade."
+    },
+    {
+     "letra": "C",
+     "texto": "Coeficientes de Incidência, de Mortalidade e Taxa de Letalidade."
+    },
+    {
+     "letra": "D",
+     "texto": "Coeficientes de Incidência, de Mortalidade e de Prevalência."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q090-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000099804",
+   "codigo": "4000099804",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 91,
+   "temas": [
+    "Mortalidade Materna"
+   ],
+   "enunciado": "O COEFICIENTE DE MORTALIDADE MATERNA É:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Total de mortes de mulheres durante a gravidez e o parto dividido pelo total denascidos vivos, vezes 100 mil."
+    },
+    {
+     "letra": "B",
+     "texto": "Total de mortes de mulheres durante a gravidez, parto e/ou ao período pós-partoimediato (7 dias) dividido pela totalidade das mulheres em idade fértil, vezes 100 mil."
+    },
+    {
+     "letra": "C",
+     "texto": "Total de mortes de mulheres durante pré-natal, parto e/ou puerpério (42 dias) divididopelos nascidos vivos, vezes 100 mil."
+    },
+    {
+     "letra": "D",
+     "texto": "Total de mortes durante a gravidez, parto e/ou período pós-parto imediato (10 dias)dividido pela totalidade de mulheres grávidas, vezes 10 mil."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000053046",
+   "codigo": "4000053046",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 92,
+   "temas": [
+    "Conceitos f undamentais óbito f etal óbito inf antil e óbito na inf ância",
+    "Morte f etal Óbito f etal OF"
+   ],
+   "enunciado": "Óbito fetal é a morte de um produto da concepção, antes de sua expulsão ou extração completa do organismo materno. Segundo a Organização Mundial da Saúde (OMS), esse conceito independe da duração da gravidez. Em relação ao tema, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Um grande número de autores prefere defini-lo a partir de 18 semanas de gestação."
+    },
+    {
+     "letra": "B",
+     "texto": "Em outras definições descritas na literatura, o limite inferior da idade gestacional podechegar a 28 semanas."
+    },
+    {
+     "letra": "C",
+     "texto": "Também podem ser classificados segundo sua relação com o momento do parto,somente sendo considerado no anteparto e nunca no intraparto."
+    },
+    {
+     "letra": "D",
+     "texto": "Alguns autores também utilizam como critério o peso do produto conceptual, quevaria entre 250 e 750g, ou combinações da idade gestacional com o peso de nascimento."
+    },
+    {
+     "letra": "E",
+     "texto": "De acordo com o momento em que acontecem, os casos de óbito fetal podem ser denominados precoces, quando ocorrem até 32 semanas de gestação, ou tardios, após essa idade gestacional."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000030319",
+   "codigo": "4000030319",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 93,
+   "temas": [
+    "Mortalidade Materna"
+   ],
+   "enunciado": "A mortalidade materna ocorre, principalmente.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "no período gestacional."
+    },
+    {
+     "letra": "B",
+     "texto": "no trabalho de parto."
+    },
+    {
+     "letra": "C",
+     "texto": "no intraparto."
+    },
+    {
+     "letra": "D",
+     "texto": "no pós-parto."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000106568",
+   "codigo": "4000106568",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 97,
+   "temas": [
+    "DALY"
+   ],
+   "enunciado": "A tabela apresentada utiliza o conceito de DALY (disability-adjusted life years - anos de vida perdidos ajustados por incapacidade). Qual a medida apontada por este indicador e sua sensibilidade às diferenças regionais?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Morbidade e mortalidade; muito sensível"
+    },
+    {
+     "letra": "B",
+     "texto": "Morbidade e mortalidade; pouco sensível"
+    },
+    {
+     "letra": "C",
+     "texto": "Morbidade; muito sensível"
+    },
+    {
+     "letra": "D",
+     "texto": "Morbidade; pouco sensível"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q097-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000106559",
+   "codigo": "4000106559",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 98,
+   "temas": [
+    "DALY"
+   ],
+   "enunciado": "Qual a alternativa que representa a análise dos dados fornecidos pela tabela apresentada? Tabela: Distribuição e taxas brutas (TB) e ajustadas (TA) de DALY¹ (por mil habitantes) segundo sexo e as três principais causas especí cas. Regiões do Brasil, 2008.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "As taxas brutas não devem ser usadas para subsidiar politicas públicas por serem dados obtidos diretamente"
+    },
+    {
+     "letra": "B",
+     "texto": "As diferenças entre as taxas brutas e ajustadas podem ser atribuídas ao acesso aos serviços de saúde"
+    },
+    {
+     "letra": "C",
+     "texto": "As taxas ajustadas devem ser usadas para subsidiar politicas públicas por serem dados padronizados"
+    },
+    {
+     "letra": "D",
+     "texto": "As diferenças das taxas entre homens e mulheres podem ser atribuídas ao acesso aos serviços de saúde"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q098-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000086091",
+   "codigo": "4000086091",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 99,
+   "temas": [
+    "Indicadores especiais de mortalidade"
+   ],
+   "enunciado": "Determinado estudo mostrou que o risco de morte por acidente de trânsito, em 2016, foi maior na cidade X do que na cidade Y. A medida de frequência estimada, em cada cidade e o cálculo são, respectivamente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Mortalidade específica por causa; número de óbitos por acidente de trânsito em cada cidade + população de cada cidade em 2016."
+    },
+    {
+     "letra": "B",
+     "texto": "Mortalidade proporcional; óbitos por acidente de trânsito em cada cidade + total de óbitos em cada cidade em 2016."
+    },
+    {
+     "letra": "C",
+     "texto": "Risco relativo; mortalidade acidente de trânsito na cidade X + mortalidade acidente de trânsito na cidade Y em 2016."
+    },
+    {
+     "letra": "D",
+     "texto": "Razão de mortalidade proporcional, óbitos por acidente de trânsito na cidade X + óbitos por acidente de trânsito na cidade Y esperados na cidade X se tivesse a mesma mortalidade por acidente de trânsito da cidade Y em 2016."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000086018",
+   "codigo": "4000086018",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 100,
+   "temas": [
+    "Mortalidade Materna"
+   ],
+   "enunciado": "Em 1990 a razão de mortalidade materna era de 139 óbitos por 100 mil, caindo para 68 óbitos por 100 mil em 2009, e para 44 óbitos por 100 mil em 2015. Além de ser ainda elevada, pode ser observada uma tendência de redução do ritmo de queda. Esta tendência por ser atribuída:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ao fracasso das políticas de saúde reprodutiva e planejamento familiar."
+    },
+    {
+     "letra": "B",
+     "texto": "A estratégia para a redução de óbitos por causa mal definida."
+    },
+    {
+     "letra": "C",
+     "texto": "Ao baixo aporte de recursos para o financiamento do SUS."
+    },
+    {
+     "letra": "D",
+     "texto": "A insuficiência de médicos obstretas na assistência pré-natal e ao parto."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000052527",
+   "codigo": "4000052527",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 101,
+   "temas": [
+    "Mortalidade Materna"
+   ],
+   "enunciado": "Durante a pesquisa de casos de morte de mulher em idade fértil foi encontrado um caso de mulher de 35 anos por infecção generalizada iniciada na operação cesariana 60 dias após a cirurgia. Para fins estatísticos trata-se de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Morte materna não obstétrica."
+    },
+    {
+     "letra": "B",
+     "texto": "Morte materna obstétrica direta."
+    },
+    {
+     "letra": "C",
+     "texto": "Morte materna obstétrica tardia."
+    },
+    {
+     "letra": "D",
+     "texto": "Morte materna obstétrica indireta."
+    },
+    {
+     "letra": "E",
+     "texto": "Morte materna não obstétrica tardia."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000034651",
+   "codigo": "4000034651",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 102,
+   "temas": [
+    "Letalidade"
+   ],
+   "enunciado": "Se duas doenças (A e B) apresentam a mesma taxa de letalidade, é CORRETO afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A proporção de óbitos é a mesma para acometidos pelas doenças A ou B."
+    },
+    {
+     "letra": "B",
+     "texto": "A taxa de mortalidade é idêntica para as duas doenças, mas a mortalidade proporcional é diferente."
+    },
+    {
+     "letra": "C",
+     "texto": "Ambas as doenças têm a mesma taxa de mortalidade."
+    },
+    {
+     "letra": "D",
+     "texto": "O risco de morrer é semelhante, mas a gravidade é diferente para as duas doenças."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000016596",
+   "codigo": "4000016596",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 103,
+   "temas": [
+    "Causas externas"
+   ],
+   "enunciado": "Os coe cientes de mortalidade medem a probabilidade de qualquer pessoa da população vir a morrer em um determinado local e ano. São excelentes indicadores da qualidade da saúde em uma determinada população, possibilitando a criação de programas específicos que visem a prevenção dessas mortes. Em relação a esses coe cientes, é INCORRETO a rmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O coeficiente de mortalidade por causas externas inclui os óbitos por acidentes de transporte e homicídios, mas não estão incluídos os óbitos por suicídio."
+    },
+    {
+     "letra": "B",
+     "texto": "No coeficiente de mortalidade materna, estão incluídos os óbitos de todas as mulheres durante a gestação ou durante 42 dias após o término da gestação por causas relacionadas ou agravadas pela gravidez."
+    },
+    {
+     "letra": "C",
+     "texto": "No coeficiente de mortalidade neonatal precoce, estão incluídos os óbitos de crianças até o sexto dia de vida, refletindo a qualidade da assistência pré-natal."
+    },
+    {
+     "letra": "D",
+     "texto": "O coeficiente de mortalidade por neoplasias malignas pode ser prejudicado por imprecisões nas declarações de óbitos."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000110875",
+   "codigo": "4000110875",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 104,
+   "temas": [
+    "Morbimortalidade por gênero"
+   ],
+   "enunciado": "Numa população hipotética de 200.000 pessoas, num determinado ano, veri cou-se a existência de 200 casos de câncer de colo de útero. Foram registradas, no total, nesse período, 100 mortes, sendo 5% delas decorrentes desse tipo de câncer. O coeficiente de mortalidade pelo câncer de colo de útero é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Igual a 0,5 x 1000."
+    },
+    {
+     "letra": "B",
+     "texto": "Igual a 5 x 1000."
+    },
+    {
+     "letra": "C",
+     "texto": "Igual a 10 x 1000."
+    },
+    {
+     "letra": "D",
+     "texto": "Igual a 50 x 1000."
+    },
+    {
+     "letra": "E",
+     "texto": "Impossível de ser calculado com os dados apresentados."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000100143",
+   "codigo": "4000100143",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 105,
+   "temas": [
+    "Mortalidade"
+   ],
+   "enunciado": "O coe ciente de mortalidade geral por 1.000 indivíduos nos países desenvolvidos europeus é mais alto quando comparado com o mesmo coeficiente em vários países em desenvolvimento. Assinale a CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A diferença se deve essencialmente à maior concentração de pessoas no terceiro mundo."
+    },
+    {
+     "letra": "B",
+     "texto": "Os maiores coeficientes de mortalidade nos países em desenvolvimento são resultantes da melhor capacidade de notificação."
+    },
+    {
+     "letra": "C",
+     "texto": "A diferença se deve principalmente à qualidade dos registros de mortes entre os países."
+    },
+    {
+     "letra": "D",
+     "texto": "A diferença no risco de morrer se deve às diferentes estruturas etárias das populações."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000085444",
+   "codigo": "4000085444",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 106,
+   "temas": [
+    "Coef iciente ou Taxa de mortalidade perinatal"
+   ],
+   "enunciado": "O Brasil atingiu antecipadamente a meta de redução de dois terços das mortes na infância entre 1990 e 2015. No entanto, a meta de redução de três quintos da mortalidade materna não foi alcançada até o ano estabelecido. Com base nestas informações, pode-se afirmar, em relação aos indicadores de mortalidade materno- infantil, que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A mortalidade perinatal não é influenciada por erros na caracterização de natimortos e nascidos vivos."
+    },
+    {
+     "letra": "B",
+     "texto": "Há predominância do componente pós-neonatal entre os óbitos infantis apenas nas regiões norte e nordeste do Brasil."
+    },
+    {
+     "letra": "C",
+     "texto": "O número de nascidos vivos e o número de gestantes são os denominadores, respectivamente, da taxa de mortalidade infantil e da razão de mortalidade materna."
+    },
+    {
+     "letra": "D",
+     "texto": "A razão de mortalidade materna representa o risco da mulher em idade reprodutiva morrer durante a gravidez, parto ou puerpério, independentemente da causa da morte."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000070825",
+   "codigo": "4000070825",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 107,
+   "temas": [
+    "Fatores que inf luenciam na mortalidade inf antil"
+   ],
+   "enunciado": "Segundo a síntese de indicadores sociais publicados pelo Instituto Brasileiro de Geogra a e Estatística (IBGE) em 2016, a taxa de mortalidade infantil em 2015 foi de 13,8 mortes por mil nascidos vivos, sendo a menor em 11 anos. Entretanto, as regiões mais pobres do país continuam a apresentar taxas de mortalidade quase duas vezes maior do que as mais ricas. Considerando os planos que possam ter contribuído para esse cenário, a ação/análise que se mostra mais efetiva para tais resultados é o (a):",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Aleitamento materno exclusivo por seis meses e complementado até os dois anos ou mais, pois é uma ação recomendada pela OMS e o Ministério da Saúde, visando reduzir tanto a mortalidade quanto morbidades infantis, tais como episódios de diarreia, infecções respiratórias, o risco de alergias, entre outros fatores."
+    },
+    {
+     "letra": "B",
+     "texto": "Controle da mortalidade infantil, que corresponde ao número de crianças que vão a óbito nos primeiros anos de vida, como um indicador importante para a análise do IDH. Entretanto, no Brasil, apesar de as taxas de mortalidade infantil terem diminuído nas últimas décadas, o índice continua muito elevado."
+    },
+    {
+     "letra": "C",
+     "texto": "Atendimento à gestante feito ao longo da gravidez, que é fundamental para o bebê nascer bem. Deve-se garantir que as consultas de pré-natal sejam mensais, sendo a primeira realizada até a 20ª semana de gestação, a fim de contribuir para a redução da mortalidade infantil e materna."
+    },
+    {
+     "letra": "D",
+     "texto": "Bolsa Família, que não apresentou impactos positivos na mortalidade infantil, uma vez que não interferiu nessa faixa etária, que se alimenta basicamente de leite materno e independe de cuidados nutricionais e acesso aos alimentos de alto valor biológico."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000050044",
+   "codigo": "4000050044",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 108,
+   "temas": [],
+   "enunciado": "Razão de Near Miss Materno RNMM ou Razão de quase perda e Condições Potencialmente Ameaçadoras à Vida CPAV Mortalidade Inf antil e Perinatal Com relação aos conceitos abaixo descritos, assinale aquele que não estiver correto.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Período perinatal: inicia-se com 20 semanas completas (140 dias) de gestação, época em que o peso de nascimento é de aproximadamente 500 g, e termina com 10 dias completos após o nascimento."
+    },
+    {
+     "letra": "B",
+     "texto": "Coeficiente de mortalidade materna: resultado da relação entre as mortes obstétricas diretas e indiretas e o número total de nascidos vivos em determinado local e período, considerando-se 100.000 nascidos vivos."
+    },
+    {
+     "letra": "C",
+     "texto": "Período neonatal: inicia-se no nascimento e termina após 28 dias completos do nascimento. Pode ser subdividido em dois períodos: neonatal precoce, do nascimento até o sétimo dia de vida, e neonatal tardio, entre o oitavo e 28 dias completos de vida."
+    },
+    {
+     "letra": "D",
+     "texto": "Near miss materna ou “quase perda” materna: refere-se à situação em que mulheres que apresentam complicações potencialmente letais durante a gravidez, o parto ou o puerpério (até 42 dias após o término da gestação) somente sobrevivem em razão do acaso ou do cuidado hospitalar."
+    },
+    {
+     "letra": "E",
+     "texto": "Coeficiente de mortalidade materna específica: obtido pela relação entre a mortalidade materna em uma determinada variável (raça, cor, estado civil, causa do óbito etc.) e o número de nascidos vivos (específico ou geral) em determinado local e período, considerando-se 100.000 nascidos vivos."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000034540",
+   "codigo": "4000034540",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 109,
+   "temas": [
+    "Medidas de Associação e Medidas de Impacto",
+    "Mortalidade"
+   ],
+   "enunciado": "Foi realizado um estudo por Araújo et al. (2000-, em Caxias do Sul, com o objetivo de descrever o per l dos neonatos do estado e estudar a mortalidade neonatal precoce, suas causas e as variáveis a esta relacionadas. Foram incluídos no estudo 5.545 recém- nascidos e eles foram acompanhados por até sete dias de vida. Calculou-se a Probabilidade de Morte Neonatal Precoce (PMNP), utilizando-se a regressão logística múltipla para relacionar as variáveis estudadas com a mortalidade neonatal precoce. A PMNP observada foi de 7,44 por mil nascidos vivos. Parte dos resultados deste estudo encontram-se descritos na tabela abaixo: Com relação a estes dados, foram emitidas algumas conclusões: I) A medida de associação adequada para este estudo é o odds ratio, já que se trata de um estudo retrospectivo; II) O risco de morte prematura foi maior para os recém-nascidos do sexo masculino; III) As variáveis que mostraram associação com a PMNP foram: número de consultas pré-natal, ganho de peso na gestação, tipo de parto, idade gestacional de 37-38 semanas e tamanho do RN para idade gestacional; IV) A medida de frequência obtida por este tipo de estudo é a incidência; V) A medida de associação utilizada neste estudo não permite avaliar o risco de morte entre os recém- nascidos. Assinale a alternativa CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Apenas a afirmativa I está correta."
+    },
+    {
+     "letra": "B",
+     "texto": "As afirmativas I, III e V estão corretas."
+    },
+    {
+     "letra": "C",
+     "texto": "As afirmativas I, IV e V estão corretas."
+    },
+    {
+     "letra": "D",
+     "texto": "As afirmativas II e IV estão corretas."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q109-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000034360",
+   "codigo": "4000034360",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 110,
+   "temas": [
+    "Curvas de Nelson de Moraes"
+   ],
+   "enunciado": "A figura abaixo mostra as curvas de Nelson de Moraes para o estado do Amazonas nos anos de 1990 e 2005. Com base no gráfico, é CORRETO afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A curva do gráfico de 1990 pode ser classificada como tipo II (nível de saúde baixo) e a curva do gráfico de 2005 de tipo III (nível de saúde regular)."
+    },
+    {
+     "letra": "B",
+     "texto": "Houve aumento na mortalidade de maiores de 50 anos, indicando uma piora no acesso a serviços de saúde destes indivíduos no local avaliado."
+    },
+    {
+     "letra": "C",
+     "texto": "O indicador de Swaroop-Uemura mostra que houve melhora nas condições de saúde da população no período avaliado."
+    },
+    {
+     "letra": "D",
+     "texto": "O nível de saúde do estado do Amazonas seria classificado em 1990 como em estágio atrasado de desenvolvimento econômico e de saúde e em 2005 como típico de países desenvolvidos."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q110-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000024238",
+   "codigo": "4000024238",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 111,
+   "temas": [
+    "Mortalidade Materna"
+   ],
+   "enunciado": "A principal causa indireta de mortalidade materna em nosso meio é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "hipertensão arterial sistêmica."
+    },
+    {
+     "letra": "B",
+     "texto": "cardiopatia."
+    },
+    {
+     "letra": "C",
+     "texto": "eclâmpsia."
+    },
+    {
+     "letra": "D",
+     "texto": "síndrome HELLP."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000023965",
+   "codigo": "4000023965",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 112,
+   "temas": [
+    "Coef iciente ou Taxa de mortalidade neonatal"
+   ],
+   "enunciado": "Ao se dividir o número de óbitos de crianças nas primeiras quatro semanas de vida, no período, pelo número de nascidos vivos, no período, é possível calcular o coeficiente de mortalidade Respostas: 1 12 23 34 45 56 67 78 89 100 111",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "geral."
+    },
+    {
+     "letra": "B",
+     "texto": "neonatal."
+    },
+    {
+     "letra": "C",
+     "texto": "pós-neonatal."
+    },
+    {
+     "letra": "D",
+     "texto": "infantil."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": [
+  {
+   "id": "4000182456",
+   "codigo": "4000182456",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 30,
+   "temas": [
+    "Medicina Preventiva"
+   ],
+   "enunciado": "Jovem, com gestação de 26 semanas, apresentou Síndrome HELLP e, após interrupção da gestação, foi encaminhada para UTI da maternidade. Decorridos 11 dias de nascido, o recém-nascido vem a óbito e, 45 dias do parto, ainda na UTI, a jovem também vem a óbito. Indique a classificação epidemiológica da morte da jovem com relação à causalidade com a gestação, para ns de notificação de morte materna, segundo o Guia de Vigilância Epidemiológica do óbito materno.",
+   "alternativas": [],
+   "gabarito": null,
+   "imagens": [],
+   "revisar": [],
+   "motivo_exclusao": "sem alternativas"
+  },
+  {
+   "id": "4000182455",
+   "codigo": "4000182455",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 31,
+   "temas": [
+    "Medicina Preventiva"
+   ],
+   "enunciado": "Jovem, com gestação de 26 semanas, apresentou Síndrome HELLP e, após interrupção da gestação, foi encaminhada para UTI da maternidade. Decorridos 11 dias de nascido, o recém-nascido vem a óbito e, 45 dias do parto, ainda na UTI, a jovem também vem a óbito. Indique a classificação epidemiológica da morte da jovem com relação ao período da morte, para ns de noti cação de morte materna, segundo o Guia de Vigilância Epidemiológica do óbito materno.",
+   "alternativas": [],
+   "gabarito": null,
+   "imagens": [],
+   "revisar": [],
+   "motivo_exclusao": "sem alternativas"
+  },
+  {
+   "id": "4000182454",
+   "codigo": "4000182454",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 32,
+   "temas": [
+    "Medicina Preventiva"
+   ],
+   "enunciado": "Jovem, com gestação de 26 semanas, apresentou Síndrome HELLP e, após interrupção da gestação, foi encaminhada para UTI da maternidade. Decorridos 11 dias de nascido, o recém-nascido vem a óbito e, 45 dias do parto, ainda na UTI, a jovem também vem a óbito. Considerando esses dados, indique a classificação epidemiológica da morte do recém-nascido, pela Secretaria de Saúde, para fins de notificação da mortalidade neonatal.",
+   "alternativas": [],
+   "gabarito": null,
+   "imagens": [],
+   "revisar": [],
+   "motivo_exclusao": "sem alternativas"
+  },
+  {
+   "id": "4000164802",
+   "codigo": "4000164802",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 71,
+   "temas": [
+    "Coef iciente ou Taxa de mortalidade perinatal"
+   ],
+   "enunciado": "O coe ciente de mortalidade perinatal é usado para análise da assistência obstétrica e neonatal e pode propiciar a identificação das ações de prevenção de mortes evitáveis. Este coeficiente é definido como:",
+   "alternativas": [],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": [],
+   "motivo_exclusao": "sem alternativas"
+  },
+  {
+   "id": "4000011650",
+   "codigo": "4000011650",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 94,
+   "temas": [
+    "Mortalidade"
+   ],
+   "enunciado": "O Secretário de Saúde de uma cidade do interior resolveu estimar a necessidade de uma política de redução de acidentes de motocicleta na cidade. A cidade tinha 18000 habitantes em 2018, e, nesse ano, morreram 90 pessoas. Por acidentes de trânsito foram 11 óbitos, dos quais 9 por acidentes de moto. O número de ocorrências policiais na cidade, nesse mesmo ano, envolvendo acidentes de motocicleta que resultaram em vítimas - fatais ou não - foi de 15 casos, estando as mortes incluídas nessas ocorrências. Indique um índice epidemiológico que deve subsidiar o Secretário para avaliar se sua campanha de redução de acidentes teve êxito.",
+   "alternativas": [],
+   "gabarito": null,
+   "imagens": [],
+   "revisar": [],
+   "motivo_exclusao": "sem alternativas"
+  },
+  {
+   "id": "4000011649",
+   "codigo": "4000011649",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 95,
+   "temas": [
+    "Mortalidade Proporcional"
+   ],
+   "enunciado": "O Secretário de Saúde de uma cidade do interior resolveu estimar a necessidade de uma política de redução de acidentes de motocicleta na cidade. A cidade tinha 18000 habitantes em 2018, e, nesse ano, morreram 90 pessoas. Por acidentes de trânsito foram 11 óbitos, dos quais 9 por acidentes de moto. O número de ocorrências policiais na cidade, nesse mesmo ano, envolvendo acidentes de motocicleta que resultaram em vítimas - fatais ou não - foi de 15 casos, estando as mortes incluídas nessas ocorrências. Calcule o índice de mortalidade proporcional por acidentes de motocicleta, em 2018, nessa cidade.",
+   "alternativas": [],
+   "gabarito": null,
+   "imagens": [],
+   "revisar": [],
+   "motivo_exclusao": "sem alternativas"
+  },
+  {
+   "id": "4000011647",
+   "codigo": "4000011647",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Medidas de Saúde Coletiva Parte II",
+   "numero": 96,
+   "temas": [
+    "Mortalidade Geral",
+    "Mortalidade Específ ica"
+   ],
+   "enunciado": "O Secretário de Saúde de uma cidade do interior resolveu estimar a necessidade de uma política de redução de acidentes de motocicleta na cidade. A cidade tinha 18000 habitantes em 2018, e, nesse ano, morreram 90 pessoas. Por acidentes de trânsito foram 11 óbitos, dos quais 9 por acidentes de moto. O número de ocorrências policiais na cidade, nesse mesmo ano, envolvendo acidentes de motocicleta que resultaram em vítimas - fatais ou não - foi de 15 casos, estando as mortes incluídas nessas ocorrências. Calcule o coe ciente geral de mortalidade e o coe ciente de mortalidade específico para acidentes de motocicleta, em 2018, nessa cidade.",
+   "alternativas": [],
+   "gabarito": null,
+   "imagens": [],
+   "revisar": [],
+   "motivo_exclusao": "sem alternativas"
+  }
+ ]
+}

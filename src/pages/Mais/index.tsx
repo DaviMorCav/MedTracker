@@ -75,7 +75,7 @@ export const MaisPage: React.FC = () => {
 
   // ─── Exportar Backup JSON ──────────────────────────────────────────────────
   const handleExportBackup = async () => {
-    const [settingsList, progress, volumeLinks, apostila, reviews, questionLogs] =
+    const [settingsList, progress, volumeLinks, apostila, reviews, questionLogs, questionAttempts] =
       await Promise.all([
         db.settings.toArray(),
         db.progress.toArray(),
@@ -83,12 +83,13 @@ export const MaisPage: React.FC = () => {
         db.apostila.toArray(),
         db.reviews.toArray(),
         db.questionLogs.toArray(),
+        db.questionAttempts.toArray(),
       ]);
 
     const backup = {
       version: 1,
       exportedAt: new Date().toISOString(),
-      data: { settings: settingsList, progress, volumeLinks, apostila, reviews, questionLogs },
+      data: { settings: settingsList, progress, volumeLinks, apostila, reviews, questionLogs, questionAttempts },
     };
 
     const json = JSON.stringify(backup, null, 2);
@@ -140,7 +141,7 @@ export const MaisPage: React.FC = () => {
 
     await db.transaction(
       'rw',
-      [db.settings, db.progress, db.volumeLinks, db.apostila, db.reviews, db.questionLogs],
+      [db.settings, db.progress, db.volumeLinks, db.apostila, db.reviews, db.questionLogs, db.questionAttempts],
       async () => {
         await db.settings.clear();
         await db.progress.clear();
@@ -155,6 +156,12 @@ export const MaisPage: React.FC = () => {
         if (data.apostila?.length) await db.apostila.bulkPut(data.apostila);
         if (data.reviews?.length) await db.reviews.bulkPut(data.reviews);
         if (data.questionLogs?.length) await db.questionLogs.bulkPut(data.questionLogs);
+
+        // Backups antigos não têm este campo: nesse caso mantém as tentativas atuais
+        if (data.questionAttempts) {
+          await db.questionAttempts.clear();
+          if (data.questionAttempts.length) await db.questionAttempts.bulkPut(data.questionAttempts);
+        }
       }
     );
 
@@ -455,31 +462,24 @@ export const MaisPage: React.FC = () => {
 
         {/* Mensagens de erro/sucesso */}
         {importError && (
-          <div className="bg-rose-950/60 border border-rose-800 p-3 rounded-lg text-xs text-rose-200 flex items-start gap-2">
-            <span>⚠️</span>
-            <span>{importError}</span>
+          <div className="bg-rose-950/60 border border-rose-800 p-3 rounded-lg text-xs text-rose-200">
+            {importError}
           </div>
         )}
         {importSuccess && (
-          <div className="bg-emerald-950/60 border border-emerald-800 p-3 rounded-lg text-xs text-emerald-200 flex items-start gap-2">
-            <span>✓</span>
-            <span>{importSuccess}</span>
+          <div className="bg-emerald-950/60 border border-emerald-800 p-3 rounded-lg text-xs text-emerald-200">
+            {importSuccess}
           </div>
         )}
       </section>
 
       {/* ── 5. Info PWA ─────────────────────────────────────────────────────── */}
-      <section className="bg-slate-900/60 border border-slate-800/60 rounded-xl p-4 space-y-2">
-        <h2 className="text-xs font-bold uppercase tracking-wider text-slate-500">
-          Sobre o App
-        </h2>
-        <p className="text-xs text-slate-400 leading-relaxed">
-          <strong className="text-slate-300">MedTracker</strong> é um PWA offline-first.
-          No celular, use o menu do navegador e toque em "Adicionar à tela inicial" para instalar.
-          Os dados ficam no dispositivo — exporte o backup antes de trocar de aparelho.
+      <section className="bg-slate-900/40 border border-slate-800/60 rounded-xl p-4 space-y-1 text-xs text-slate-500">
+        <p className="text-slate-400">
+          MedTracker · Estudos offline com armazenamento local (IndexedDB).
         </p>
-        <p className="text-xs text-slate-500">
-          Versão MVP • Dados locais via IndexedDB
+        <p>
+          Exporte seu backup periodicamente para manter seus registros seguros.
         </p>
       </section>
 

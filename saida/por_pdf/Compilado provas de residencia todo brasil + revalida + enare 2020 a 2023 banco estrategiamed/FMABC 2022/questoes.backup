@@ -1,0 +1,3879 @@
+{
+ "questoes": [
+  {
+   "id": "4000170002",
+   "codigo": "4000170002",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 1,
+   "temas": [
+    "Letalidade"
+   ],
+   "enunciado": "Num município hipotético, com população de 100000 pessoas, foram diagnosticados, ao longo de um ano, 10 casos de câncer de colo de útero, sendo que 2 desses evoluíram para óbito. Para esse período, calcule os coe cientes para câncer de colo de útero solicitados nas questões seguintes. O coeficiente de letalidade é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "igual a 0,2%."
+    },
+    {
+     "letra": "B",
+     "texto": "igual a 2%."
+    },
+    {
+     "letra": "C",
+     "texto": "igual a 10%."
+    },
+    {
+     "letra": "D",
+     "texto": "igual a 20%."
+    },
+    {
+     "letra": "E",
+     "texto": "impossível de ser calculado com os dados fornecidos."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q001-1.jpg",
+     "antes_das_alternativas": false
+    }
+   ],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000170001",
+   "codigo": "4000170001",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 2,
+   "temas": [
+    "Mortalidade Específ ica"
+   ],
+   "enunciado": "Num município hipotético, com população de 100000 pessoas, foram diagnosticados, ao longo de um ano, 10 casos de câncer de colo de útero, sendo que 2 desses evoluíram para óbito. Para esse período, calcule os coe cientes para câncer de colo de útero solicitados nas questões seguintes. O coeficiente de mortalidade é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "igual a 10."
+    },
+    {
+     "letra": "B",
+     "texto": "igual a 10%."
+    },
+    {
+     "letra": "C",
+     "texto": "igual a 10 por 100000."
+    },
+    {
+     "letra": "D",
+     "texto": "igual a 20 por 100000."
+    },
+    {
+     "letra": "E",
+     "texto": "impossível de ser calculado com os dados fornecidos."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000170000",
+   "codigo": "4000170000",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 3,
+   "temas": [
+    "Medicina Preventiva"
+   ],
+   "enunciado": "De acordo com a Política Nacional de Atenção Básica, do Ministério da Saúde, é atribuição específica do médico",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "planejar, gerenciar e avaliar as ações desenvolvidas pelos agentes comunitários de saúde, em conjunto com os outros membros da equipe."
+    },
+    {
+     "letra": "B",
+     "texto": "cadastrar todas as pessoas de sua microárea e manter os cadastros atualizados."
+    },
+    {
+     "letra": "C",
+     "texto": "realizar consultas clínicas, pequenos procedimentos cirúrgicos e, quando necessário, atividades em espaços comunitários, como escolas, associações etc."
+    },
+    {
+     "letra": "D",
+     "texto": "realizar o cuidado da saúde da população adscrita, prioritariamente no âmbito da unidade de saúde."
+    },
+    {
+     "letra": "E",
+     "texto": "participar do processo de territorialização e mapea mento da área de atuação da equipe."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169999",
+   "codigo": "4000169999",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 4,
+   "temas": [
+    "Vacina BCG"
+   ],
+   "enunciado": "O Calendário Nacional de Vacinação orienta para que a vacina BCG seja aplicada em crianças,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "em dose única, ao nascer."
+    },
+    {
+     "letra": "B",
+     "texto": "em dose única, aos 30 dias de vida."
+    },
+    {
+     "letra": "C",
+     "texto": "em dose dupla, ao nascer e após 1 mês da primeira dose."
+    },
+    {
+     "letra": "D",
+     "texto": "em dose dupla, com 1 mês e com 3 meses de idade."
+    },
+    {
+     "letra": "E",
+     "texto": "somente em comunidades com casos de tuberculose prevalentes."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q004-1.jpg",
+     "antes_das_alternativas": false
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000169998",
+   "codigo": "4000169998",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 5,
+   "temas": [
+    "Sistema de Inf ormação de Agravos de Notif icação SINAN"
+   ],
+   "enunciado": "Quando a periodicidade para a noti cação de um agravo de noti cação compulsória é “imediata”, a noti cação deve ser feita em até",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "12 horas."
+    },
+    {
+     "letra": "B",
+     "texto": "24 horas."
+    },
+    {
+     "letra": "C",
+     "texto": "1 dia útil."
+    },
+    {
+     "letra": "D",
+     "texto": "1 semana."
+    },
+    {
+     "letra": "E",
+     "texto": "1 mês."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169997",
+   "codigo": "4000169997",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 6,
+   "temas": [
+    "Ref orma Psiquiátrica e Psiquiatria Social",
+    "A Saúde Mental no Brasil",
+    "Ref orma Psiquiátrica Brasileira"
+   ],
+   "enunciado": "A política de saúde mental brasileira, resultado da mobilização de usuários, familiares e trabalhadores da Saúde, iniciada na década de 1980,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "foi inspirada no modelo francês, proposto e defendido pelo médico psiquiatra Christophe Dejours."
+    },
+    {
+     "letra": "B",
+     "texto": "defende a luta antimanicomial, que contraindica a internação hospitalar por motivos psiquiátricos em qualquer situação."
+    },
+    {
+     "letra": "C",
+     "texto": "parte do pressuposto de que a maioria das pessoas, mesmo sem se dar conta, enxerga o mundo a partir de uma integração total entre a mente e o corpo, de forma que um não se separa do outro de modo algum."
+    },
+    {
+     "letra": "D",
+     "texto": "determina que, em caso de internação psiquiátrica voluntária, ela poderá ser encerrada por solicitação escrita do paciente ou por determinação do médico assistente."
+    },
+    {
+     "letra": "E",
+     "texto": "restringe o atendimento nos Centros de Atenção Psicossocial (CAPS) às pessoas com transtornos mentais leves ou moderados."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169996",
+   "codigo": "4000169996",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 7,
+   "temas": [
+    "Lista Nacional de Notif icação Compulsória de doenças agravos e eventos de saúde pública"
+   ],
+   "enunciado": "Uma pessoa contraiu febre tifoide e veio a falecer em decorrência de peritonite causada por perfuração intestinal. No preenchimento da Declaração de Óbito, os eventos que se referem, respectivamente, às causas básica, intermediária e imediata são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "febre tifoide, perfuração intestinal e peritonite."
+    },
+    {
+     "letra": "B",
+     "texto": "peritonite, perfuração intestinal e febre tifoide."
+    },
+    {
+     "letra": "C",
+     "texto": "febre tifoide, peritonite e perfuração intestinal."
+    },
+    {
+     "letra": "D",
+     "texto": "perfuração intestinal, febre tifoide e peritonite."
+    },
+    {
+     "letra": "E",
+     "texto": "peritonite, febre tifoide e perfuração intestinal."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q007-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000169995",
+   "codigo": "4000169995",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 8,
+   "temas": [
+    "Medicina Preventiva",
+    "Atenção Primária à Saúde APS no Brasil"
+   ],
+   "enunciado": "De acordo com as orientações do Ministério da Saúde para a implantação das Unidades de Saúde da Família, é correto afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "ela foi prejudicada com a publicação da Norma Operacional Básica do Sistema Único de Saúde, a NOB-SUS 96."
+    },
+    {
+     "letra": "B",
+     "texto": "elas constituem uma proposta marginal ao modelo já existente desde o início do SUS."
+    },
+    {
+     "letra": "C",
+     "texto": "a atuação tradicional do setor saúde sempre conduziu à compreensão do indivíduo de forma isolada de seu contexto familiar e dos valores socioculturais."
+    },
+    {
+     "letra": "D",
+     "texto": "a implantação do Programa Saúde da Família (PSF) exige a ruptura abrupta com a lógica de atuação anterior."
+    },
+    {
+     "letra": "E",
+     "texto": "é recomendável que a Equipe de Saúde da Família (ESF) seja composta, no máximo, por um médico, um enfermeiro, dois auxiliares de enfermagem e seis agentes comunitários de saúde."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169994",
+   "codigo": "4000169994",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 9,
+   "temas": [
+    "Curvas de Nelson de Moraes",
+    "Razão de Mortalidade Proporcional RMP ou Índice de SwaroopUemura"
+   ],
+   "enunciado": "Indicadores de Mortalidade Proporcional por Idade O Índice de Swaroop & Uemura e as Curvas de Moraes calculam o número de mortes por",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "grupo etário."
+    },
+    {
+     "letra": "B",
+     "texto": "condição socioeconômica."
+    },
+    {
+     "letra": "C",
+     "texto": "doenças crônico degenerativas."
+    },
+    {
+     "letra": "D",
+     "texto": "doenças infectocontagiosas."
+    },
+    {
+     "letra": "E",
+     "texto": "sexo."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169993",
+   "codigo": "4000169993",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 10,
+   "temas": [
+    "Odds Ratio ou Razão de Chances"
+   ],
+   "enunciado": "Se num estudo do tipo caso-controle envolvendo 30 pessoas, com igual número de casos e de controles, tivesse sido observado que, dentre os doentes, 10 haviam sido expostos ao fator de risco e que, dentre os não doentes, um terço havia sido exposto, o valor aproximado do risco relativo (odds ratio) seria",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "igual a 2."
+    },
+    {
+     "letra": "B",
+     "texto": "igual a 5."
+    },
+    {
+     "letra": "C",
+     "texto": "igual a 4."
+    },
+    {
+     "letra": "D",
+     "texto": "igual a 10."
+    },
+    {
+     "letra": "E",
+     "texto": "impossível de ser calculado com os dados fornecidos."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q010-1.jpg",
+     "antes_das_alternativas": false
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000169992",
+   "codigo": "4000169992",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 11,
+   "temas": [
+    "Risco Relativo RR Razão de Riscos"
+   ],
+   "enunciado": "Num hipotético estudo de coorte, foram acompanhadas, durante um período, 15 pessoas expostas ao fator de risco, sendo que, dessas, dois terços ficaram doentes e o restante não. No grupo controle, 5 adoeceram e 10 não. O risco relativo é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "igual a 2."
+    },
+    {
+     "letra": "B",
+     "texto": "igual a 5."
+    },
+    {
+     "letra": "C",
+     "texto": "igual a 4."
+    },
+    {
+     "letra": "D",
+     "texto": "igual a 10."
+    },
+    {
+     "letra": "E",
+     "texto": "impossível de ser calculado com os dados fornecidos."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169991",
+   "codigo": "4000169991",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 12,
+   "temas": [
+    "Política Nacional de Humanização"
+   ],
+   "enunciado": "O texto a seguir é um trecho de artigo escrito por Júlio Lanceloti para o “Manual sobre o cuidado à saúde junto à população em situação de rua”, da série “Normas e Manuais Técnicos”, do Ministério da Saúde. Estabelecer vínculos é uma aprendizagem possível e uma dimensão humana que podemos desenvolver.Alguns pressupostos são necessários: o despojamento e a empatia, a capacidade de compreender sem julgar e o respeito, que estabelece limites. Com base no texto, é correto afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o estabelecimento de vínculos é inato à natureza humana."
+    },
+    {
+     "letra": "B",
+     "texto": "é importante estabelecer limites entre o saber técnico e o popular."
+    },
+    {
+     "letra": "C",
+     "texto": "um dos pressupostos para o estabelecimento de vínculos é ter a habilidade de imaginar-se no lugar de outra pessoa."
+    },
+    {
+     "letra": "D",
+     "texto": "o estabelecimento de vínculos só é possível se ensinado nas escolas."
+    },
+    {
+     "letra": "E",
+     "texto": "o correto julgamento das situações é condição para sua boa compreensão."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169990",
+   "codigo": "4000169990",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 13,
+   "temas": [
+    "Testes Diagnósticos"
+   ],
+   "enunciado": "Ao se propor determinado tipo de teste para uma doença cuja letalidade é alta, mas que diminui de maneira significativa quando tratada precocemente, é importante que ele tenha alto(a)",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "valor preditivo negativo (VPN)."
+    },
+    {
+     "letra": "B",
+     "texto": "conegatividade."
+    },
+    {
+     "letra": "C",
+     "texto": "reprodutibilidade."
+    },
+    {
+     "letra": "D",
+     "texto": "especificidade."
+    },
+    {
+     "letra": "E",
+     "texto": "sensibilidade."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [
+    {
+     "arquivo": "imagens/q013-1.jpg",
+     "antes_das_alternativas": false
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000169989",
+   "codigo": "4000169989",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 14,
+   "temas": [
+    "Medicina Preventiva"
+   ],
+   "enunciado": "Visando ao estudo de prevalência e evolução da disseminação da epidemia de Covid-19 num determinado município, é recomendado que sejam realizados(as)",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "inquéritos populacionais por meio da aplicação de questionários sobre o estado atual de saúde da população e os antecedentes relacionados à doença."
+    },
+    {
+     "letra": "B",
+     "texto": "consultas médicas com os munícipes de faixa etária mais alta, pois esses fazem parte da população mais vulnerável."
+    },
+    {
+     "letra": "C",
+     "texto": "testes tipo RT-PCR, pois são os que identificam a presença do RNA do vírus, confirmando ou não a infecção."
+    },
+    {
+     "letra": "D",
+     "texto": "testes sorológicos, pois os anticorpos da classe IgM indicam uma infecção recente e os da classe IgG indicam infecção pregressa."
+    },
+    {
+     "letra": "E",
+     "texto": "testes sorológicos, pois os anticorpos da classe IgG indicam uma infecção recente e os da classe IgM indicam infecção pregressa."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169988",
+   "codigo": "4000169988",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 15,
+   "temas": [
+    "Processo saúdedoença"
+   ],
+   "enunciado": "Em 1920, Winslow, antigo professor de saúde pública da Universidade de Yale, apresentou a seguinte definição de saúde pública: Saúde Pública é a ciência e a arte de evitar doenças, prolongar a vida e desenvolver a saúde física, mental e a e ciência, através de esforços organizados da comunidade para o saneamento do meio ambiente, o controle de infecções na comunidade, a organização de serviços médicos e paramédicos para o diagnóstico precoce e o tratamento preventivo de doenças e o aperfeiçoamento da máquina social que irá assegurar a cada indivíduo, dentro da comunidade, um padrão de vida adequado à manutenção da saúde. É correto afirmar, com base nesse texto, que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "esses são conceitos muito antigos e totalmente desatualizados quando se pensa em saúde pública nos dias atuais."
+    },
+    {
+     "letra": "B",
+     "texto": "é destacado o papel dos médicos como principais responsáveis das equipes multidisciplinares de saúde."
+    },
+    {
+     "letra": "C",
+     "texto": "é mencionada a importância da prevenção secundária."
+    },
+    {
+     "letra": "D",
+     "texto": "são consideradas apenas as doenças infecciosas como objetivo da saúde pública."
+    },
+    {
+     "letra": "E",
+     "texto": "o principal objetivo da saúde pública é a organização eficiente dos serviços de assistência à saúde."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169987",
+   "codigo": "4000169987",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 16,
+   "temas": [
+    "Política Nacional de Humanização"
+   ],
+   "enunciado": "De acordo com a Política Nacional de Humanização (HUMANIZASUS), o conceito de “clínica ampliada” refere-se",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "à integração da equipe de trabalhadores da saúde de diferentes áreas na busca de cuidado e tratamento de acordo com cada caso, com a criação de vínculo com o usuário."
+    },
+    {
+     "letra": "B",
+     "texto": "à inclusão de práticas consideradas alternativas e que fogem do padrão habitual da assistência prestada aos usuários do SUS."
+    },
+    {
+     "letra": "C",
+     "texto": "à integração das ações de assistência clínica e cirúrgica com as de vigilância em saúde."
+    },
+    {
+     "letra": "D",
+     "texto": "a não limitar a oferta de assistência aos marcos geográficos formalmente estabelecidos na organização dos serviços de saúde."
+    },
+    {
+     "letra": "E",
+     "texto": "a entender as ações de assistência à população migrante de outras regiões do Brasil ou oriunda de outros países."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q016-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000169986",
+   "codigo": "4000169986",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 17,
+   "temas": [
+    "História do Sistema Único de Saúde SUS"
+   ],
+   "enunciado": "É correto afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "com a chegada da família real ao Brasil, iniciou-se a fundação de faculdades de medicina no país e melhora da situação sanitária, sobretudo nos rincões mais distantes do interior brasileiro."
+    },
+    {
+     "letra": "B",
+     "texto": "o Brasil é o único país capitalista do mundo que possui um sistema de saúde pública universal financiado pelo Estado."
+    },
+    {
+     "letra": "C",
+     "texto": "o Instituto Nacional de Assistência Médica da Previdência Social (INAMPS) foi criado em 1977, como uma autarquia federal vinculada ao Ministério da Saúde, numa tentativa de dar resposta às necessi dades de saúde das parcelas mais vulneráveis da população."
+    },
+    {
+     "letra": "D",
+     "texto": "a chamada “Revolta da Vacina” ocorreu em 1904, no Rio de Janeiro, então capital do país, e foi motivada pela obrigatoriedade da vacina contra a varíola e também por outras causas, como as reformas urbanas e as campanhas de saneamento."
+    },
+    {
+     "letra": "E",
+     "texto": "a 8ª Conferência Nacional de Saúde, realizada entre 17 e 21 de março de 1986, foi um dos momentos mais importantes da história da saúde pública em nosso país, pois, durante sua realização, foi instituído o Sistema Único de Saúde (SUS)."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169985",
+   "codigo": "4000169985",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 18,
+   "temas": [
+    "Princípios e Diretrizes do SUS na Lei n 80801990"
+   ],
+   "enunciado": "O conjunto articulado e contínuo das ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema refere-se a um dos princípios do Sistema Único de Saúde (SUS). Trata-se do princípio da",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "universalidade de acesso aos serviços de saúde em todos os níveis de assistência."
+    },
+    {
+     "letra": "B",
+     "texto": "preservação da autonomia das pessoas na defesa de sua integridade física e moral."
+    },
+    {
+     "letra": "C",
+     "texto": "igualdade da assistência à saúde, sem preconceitos ou privilégios de qualquer espécie."
+    },
+    {
+     "letra": "D",
+     "texto": "conjugação dos recursos financeiros, tecnológicos, materiais e humanos dos diferentes entes governamentais."
+    },
+    {
+     "letra": "E",
+     "texto": "integralidade de assistência."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [
+    {
+     "arquivo": "imagens/q018-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000169984",
+   "codigo": "4000169984",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 19,
+   "temas": [
+    "Princípios e Diretrizes do SUS na Lei n 80801990",
+    "Bases legais de Saúde do Trabalhador"
+   ],
+   "enunciado": "Ainda de acordo com a lei referida na questão anterior, entende-se por saúde do trabalhador um conjunto de atividades que se destina à promoção e à proteção da saúde dos trabalhadores, abrangendo, dentre outras,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a assistência ao trabalhador, exclusivamente com relação às doenças profissionais e do trabalho."
+    },
+    {
+     "letra": "B",
+     "texto": "a participação, no âmbito dos diferentes ministérios, em estudos, pesquisas, avaliação e controle dos riscos e agravos potenciais à saúde existentes no processo de trabalho."
+    },
+    {
+     "letra": "C",
+     "texto": "o fornecimento de informação ao trabalhador e à sua respectiva entidade sindical sobre os resultados de fiscalizações, avaliações ambientais e exames de saúde, de admissão, periódicos e de demissão, respeitados os preceitos da ética profissional."
+    },
+    {
+     "letra": "D",
+     "texto": "a revisão periódica da listagem oficial de doenças originadas no processo de trabalho, tendo na sua elaboração a colaboração das entidades acadêmicas de ensino e pesquisa."
+    },
+    {
+     "letra": "E",
+     "texto": "a elaboração de normas regulamentadoras de medicina e segurança do trabalho (NR) a serem fiscalizadas pela auditoria fiscal do trabalho."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169983",
+   "codigo": "4000169983",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 20,
+   "temas": [
+    "Lei n 80801990"
+   ],
+   "enunciado": "A Lei nº 8.080/1990, um dos principais diplomas legais da área da saúde, estabelece que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a saúde é um direito fundamental dos cidadãos e ci dadãs brasileiros, devendo o Estado prover as condições indispensáveis ao seu pleno exercício."
+    },
+    {
+     "letra": "B",
+     "texto": "o dever do Estado de garantir a saúde não exclui o das pessoas, da família, das empresas e da sociedade."
+    },
+    {
+     "letra": "C",
+     "texto": "a saúde tem como fatores determinantes e condicionantes, entre outros, o transporte e a segurança pública."
+    },
+    {
+     "letra": "D",
+     "texto": "o dever do Estado de garantir a saúde consiste na formulação e na execução de políticas assistenciais (ambulatoriais e hospitalares) e de saneamento."
+    },
+    {
+     "letra": "E",
+     "texto": "é vedada à iniciativa privada participar do Sistema Único de Saúde (SUS), mesmo que em caráter complementar."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169982",
+   "codigo": "4000169982",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 21,
+   "temas": [
+    "Obstetrícia",
+    "Eclâmpsia"
+   ],
+   "enunciado": "Com relação à utilização de sulfato de magnésio em obstetrícia, é correto se afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "deverá ser por infusão endovenosa em casos de necessidade de transporte da gestante para referência."
+    },
+    {
+     "letra": "B",
+     "texto": "para se diagnosticar a intoxicação, os parâmetros a serem avaliados são PA, temperatura, pulso e diurese."
+    },
+    {
+     "letra": "C",
+     "texto": "em caso de creatinina elevada, recomenda-se aumentar a dose do sulfato para obter o resultado esperado."
+    },
+    {
+     "letra": "D",
+     "texto": "nos casos em que não houve convulsão, mantém-se até 24 horas após a resolução do caso."
+    },
+    {
+     "letra": "E",
+     "texto": "nos casos de neuroproteção fetal, deve ser mantido por 24 horas antes da resolução do caso."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q021-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000169981",
+   "codigo": "4000169981",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 22,
+   "temas": [
+    "Ginecologia",
+    "Psicológicas"
+   ],
+   "enunciado": "As mulheres no climatério são altamente suscetíveis para depressão. Quais dos sintomas que mais se associam a esse quadro?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Fogachos."
+    },
+    {
+     "letra": "B",
+     "texto": "Sintomas cardiovasculares."
+    },
+    {
+     "letra": "C",
+     "texto": "Sintomas dispépticos."
+    },
+    {
+     "letra": "D",
+     "texto": "Sintomas urológicos."
+    },
+    {
+     "letra": "E",
+     "texto": "Sintomas respiratórios."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169980",
+   "codigo": "4000169980",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 23,
+   "temas": [
+    "Obstetrícia",
+    "Pósdatismo"
+   ],
+   "enunciado": "Se uma gestante ultrapassa a data provável do parto, é correto afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "não se deve permitir associar esta ocorrência a situações em que possa coexistir insuficiência placentária."
+    },
+    {
+     "letra": "B",
+     "texto": "pode ultrapassar até as 42 semanas, desde que o seguimento seja feito com ultrassonografias."
+    },
+    {
+     "letra": "C",
+     "texto": "o seguimento deve ser a cada semana avaliando líquido e cardiotocografia."
+    },
+    {
+     "letra": "D",
+     "texto": "se deve fazer dopplervelocimetria a cada 3 dias até atingir as 42 semanas."
+    },
+    {
+     "letra": "E",
+     "texto": "se deve fazer amniocentese para pesquisa de mecô-nio com 41 semanas."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169979",
+   "codigo": "4000169979",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 24,
+   "temas": [
+    "Hemorragias pós parto HPP e rotura uterina",
+    "Obstetrícia"
+   ],
+   "enunciado": "Dentre as hemorragias no pós-parto (HPP), está uma das grandes causas de morte materna que tem justi cado uma campanha para que se atinja ZERO mortes maternas. Assinale a alternativa na qual constam fatores determinantes de hemorragia no pós-parto.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "trabalho de parto prolongado – atonia – pré-eclâmpsia."
+    },
+    {
+     "letra": "B",
+     "texto": "diabetes – isoimunização – trabalho de parto taquitócico."
+    },
+    {
+     "letra": "C",
+     "texto": "feto macrossômico – polidrâmnio – trabalho de parto taquitócico."
+    },
+    {
+     "letra": "D",
+     "texto": "anemia – trabalho de parto prolongado – polidramnio."
+    },
+    {
+     "letra": "E",
+     "texto": "rotura prematura de membranas – trabalho de parto prolongado – macrossomia fetal."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q024-1.jpg",
+     "antes_das_alternativas": false
+    }
+   ],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000169978",
+   "codigo": "4000169978",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 25,
+   "temas": [
+    "Assistencia ao parto pélvico",
+    "Obstetrícia"
+   ],
+   "enunciado": "Se no trabalho de parto o feto se encontra há 15 minutos em OET no plano +2 para +3 de De Lee com colo totalmente dilatado, podemos afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a gestante se encontra no terceiro período do parto."
+    },
+    {
+     "letra": "B",
+     "texto": "está no período expulsivo, porém com uma distócia de rotação, pois o feto está em OET."
+    },
+    {
+     "letra": "C",
+     "texto": "poderia ser realizado um fórcipe para se abreviar esse período, e o adequado a ser aplicado é o fórcipe de Simpson Braun."
+    },
+    {
+     "letra": "D",
+     "texto": "se for aplicar um fórcipe para se promover a rotação, essa deverá ser de 90 graus."
+    },
+    {
+     "letra": "E",
+     "texto": "para facilitar o parto, deverá ser rodada a apresentação para OS."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169977",
+   "codigo": "4000169977",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 26,
+   "temas": [
+    "Rotura prematura de membranas ovulares RPM"
+   ],
+   "enunciado": "Se uma gestante com 29 semanas chega no PS com queixa de perda de líquido, sem outros sintomas, é correto que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "se a dinâmica uterina for negativa, deve-se avaliar o colo e, se for impérvio, a conduta é expectante."
+    },
+    {
+     "letra": "B",
+     "texto": "se a dinâmica uterina for negativa e a avaliação de infecção for negativa, tanto clínica quanto laboratorial, deve-se introduzir antibiótico para prevenção de infecção neonatal pelo estreptococos beta-hemolítico."
+    },
+    {
+     "letra": "C",
+     "texto": "se usa antibiótico para aumentar o período de latência e se prescreve corticoide para melhora a maturidade pulmonar se ocorrer o parto."
+    },
+    {
+     "letra": "D",
+     "texto": "se entrar em trabalho de parto, se deve inibi-lo com uterolítico, entrar com antibiótico e prescrever corticoide."
+    },
+    {
+     "letra": "E",
+     "texto": "que o parto deve ser programado para alguns dias, evitando-se permanecer com rotura por muito tempo, o que pode determinar infecção fetal e materna."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169976",
+   "codigo": "4000169976",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 27,
+   "temas": [
+    "Obstetrícia",
+    "Doença hemolítica perinatal DHPN"
+   ],
+   "enunciado": "Paciente II gesta I para interna em trabalho de parto. Na internação da maternidade, fez o exame de tipagem sanguínea que revelou que a gestante é AB negativo e o teste de Coombs Indireto foi positivo, embora no início do pré-natal fosse negativo. Frente a esse resultado, é correto que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "ela está sensibilizada e não há o que ser feito."
+    },
+    {
+     "letra": "B",
+     "texto": "se a gestante recebeu imunoglobulina anti Rh na gestação, saber em que idade gestacional foi feito, pois pode ser devido a isso que o resultado está positivo."
+    },
+    {
+     "letra": "C",
+     "texto": "mesmo que a gestante tivesse recebido Imunoglobulina anti-Rh, o Coombs indireto não poderia ser positivo, e sim o Coombs direto."
+    },
+    {
+     "letra": "D",
+     "texto": "essa gestante não poderia receber imunoglobulina anti-Rh, pois ela era Rh negativo."
+    },
+    {
+     "letra": "E",
+     "texto": "sendo AB negativo, se o marido fosse O positivo, não haveria necessidade de imunoglobulina, pois existe incompatibilidade ABO."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q027-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000169975",
+   "codigo": "4000169975",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 28,
+   "temas": [
+    "Sif ilis na gestação",
+    "Obstetrícia"
+   ],
+   "enunciado": "Gestante na UBS faz teste rápido para HIV e Sí lis. O teste de HIV veio negativo e o de sí lis deu positivo. Frente a esse resultado, é correto",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "pedir VDRL e FTA-Abs e aguardar os resultados."
+    },
+    {
+     "letra": "B",
+     "texto": "receitar esquema de Benzetacil imediatamente para a gestante e seu companheiro."
+    },
+    {
+     "letra": "C",
+     "texto": "receitar esquema de Benzetacil imediatamente e convocar o companheiro para vir colher os exames."
+    },
+    {
+     "letra": "D",
+     "texto": "se a gestante referir alergia ao Benzetacil, receitar o esquema alternativo com eritromicina."
+    },
+    {
+     "letra": "E",
+     "texto": "que, se for tratada adequadamente, não há necessidade de se repetir a sorologia no terceiro trimestre."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169974",
+   "codigo": "4000169974",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 29,
+   "temas": [
+    "Obstetrícia",
+    "Eclâmpsia"
+   ],
+   "enunciado": "Uma gestante primigesta, no pré-natal de risco habitual, ao completar 33 semanas (compatível com USG precoce), procura o hospital e interna com queixas de cefaleia e escotomas, PA de 160 x 120 mmHg, AU de 29 cm. Frente a esses dados, é correto",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "proceder a sulfatação, avaliar a necessidade de hidralazina e preparar para cesárea."
+    },
+    {
+     "letra": "B",
+     "texto": "prescrever hidralazina e corticoide e aguardar 34 semanas para interrupção."
+    },
+    {
+     "letra": "C",
+     "texto": "prescrever hidralazina e corticoide e aguardar 48 horas para interrupção."
+    },
+    {
+     "letra": "D",
+     "texto": "prescrever hipotensor, corticoide, sulfato para neuroproteção e induzir o parto."
+    },
+    {
+     "letra": "E",
+     "texto": "indicar cesárea imediatamente."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169973",
+   "codigo": "4000169973",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 30,
+   "temas": [
+    "Complicações f etais",
+    "Diagnóstico"
+   ],
+   "enunciado": "Entre as intercorrências clínicas na gestação, o diabetes tem um papel importante, seja pela incidência ou pelas possíveis repercussões. Em relação a essa doença, é correto afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o diabetes gestacional é a principal causa de malformações fetais."
+    },
+    {
+     "letra": "B",
+     "texto": "a gestante com glicemia de 94 na primeira consulta deve fazer teste de sobrecarga à glicose na 24ª semana."
+    },
+    {
+     "letra": "C",
+     "texto": "se fizer teste de tolerância à glicose e tiver somente um valor alterado deverá repeti-lo."
+    },
+    {
+     "letra": "D",
+     "texto": "se a glicemia de jejum for de 126 mg ou mais na gestação será considerada como portadora de"
+    },
+    {
+     "letra": "E",
+     "texto": "o rastreamento do diabetes gestacional deverá ser feito nas gestantes que possuam fatores de risco."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q030-1.jpg",
+     "antes_das_alternativas": false
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000169972",
+   "codigo": "4000169972",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 31,
+   "temas": [
+    "Assistência prénatal",
+    "Obstetrícia"
+   ],
+   "enunciado": "No acompanhamento da assistência pré-natal, vários elementos são importantes. Assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O útero deve ter seu crescimento mês a mês, e sua medida em centímetros deve corresponder à idade gestacional em semanas, de forma que com 6 semanas deve medir 6 cm acima da sínfise púbica, 10 semanas – 10 cm; 18 semanas – 18 cm; 25 semanas – 25 cm; 35 semanas – 35 cm; 40 semanas – 40 cm."
+    },
+    {
+     "letra": "B",
+     "texto": "O foco corresponde ao local de maior audibilidade dos batimentos cardíacos fetais, assim, num feto em OEA, o foco deverá estar do lado direito, onde está o dorso."
+    },
+    {
+     "letra": "C",
+     "texto": "A ausculta dos batimentos cardíacos fetais no consultório com sonar doppler é possível a partir de 6,2 semanas."
+    },
+    {
+     "letra": "D",
+     "texto": "A percepção dos movimentos fetais é um sinal de vitalidade fetal e é perceptível pelas gestantes a partir de 10 semanas."
+    },
+    {
+     "letra": "E",
+     "texto": "A frequência cardíaca fetal que auscultamos no pré-natal tem uma variação de 110 a 160 batimentos por minuto, podendo, em caso de muita movimentação fetal, ultrapassar esse limite."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169971",
+   "codigo": "4000169971",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 32,
+   "temas": [
+    "Assistência prénatal",
+    "Obstetrícia"
+   ],
+   "enunciado": "Uma mulher de 23 anos refere que o primeiro dia de sua última menstruação normal foi dia 25/11/2021. Seus ciclos menstruais eram normais com duração de 3 dias e intervalo de 28 dias. Não fazia uso de métodos contraceptivos. Fez exame de sangue que confirmou gestação. Hoje, sendo dia 10/01/2022, é correto afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a DPP é dia 02/08/2022."
+    },
+    {
+     "letra": "B",
+     "texto": "está com atraso menstrual de 17 dias, e não é possível ainda visibilizar o embrião pela ultrassonografia transvaginal."
+    },
+    {
+     "letra": "C",
+     "texto": "a idade gestacional é de 6 4/7 semanas, e já se pode visualizar e ouvir os batimentos cardíacos fetais pela ultrassonografia com doppler transvaginal."
+    },
+    {
+     "letra": "D",
+     "texto": "o teste de gravidez só poderia ser positivo após 25/12/2021, quando teria 1 mês da última menstruação, portanto, deve ter engravidado antes."
+    },
+    {
+     "letra": "E",
+     "texto": "o teste de gravidez só poderia ser positivo após 10/01/2022, quando teria 15 dias do atraso."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169970",
+   "codigo": "4000169970",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 33,
+   "temas": [
+    "Populaçãoalvo e intervalo"
+   ],
+   "enunciado": "Mulher com 35 anos, III gesta III para, portadora de metrorragia por miomatose, sempre apresentou colpocitologia oncologia negativa e teve indicada histerectomia total, e a peça cirúrgica confirmou esse diagnóstico. Quanto aos exames preventivos a serem realizados a partir da cirurgia,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "devem continuar a ser anuais."
+    },
+    {
+     "letra": "B",
+     "texto": "devem ser realizados a cada 5 anos."
+    },
+    {
+     "letra": "C",
+     "texto": "devem ser a cada 3 anos."
+    },
+    {
+     "letra": "D",
+     "texto": "podem ser dispensados."
+    },
+    {
+     "letra": "E",
+     "texto": "devem ser complementados com colposcopia."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q033-1.jpg",
+     "antes_das_alternativas": false
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000169969",
+   "codigo": "4000169969",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 34,
+   "temas": [
+    "Contraindicações"
+   ],
+   "enunciado": "Mulher procura o ambulatório de planejamento familiar, pois deseja inserir DIU de cobre. Assinale qual das condições listadas seria contraindicação dessa aplicação.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "NIC II de colo do útero."
+    },
+    {
+     "letra": "B",
+     "texto": "Recém-operada de Ca de mama."
+    },
+    {
+     "letra": "C",
+     "texto": "Portadora de mioma submucoso."
+    },
+    {
+     "letra": "D",
+     "texto": "Nuliparidade."
+    },
+    {
+     "letra": "E",
+     "texto": "Hipotireóidea em terapêutica com tiroxina."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169968",
+   "codigo": "4000169968",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 35,
+   "temas": [
+    "Ginecologia",
+    "Farmacológicos"
+   ],
+   "enunciado": "Mulher com 70 anos apresenta queixa de urgência urinária, súbita, intempestiva, e a urina sai sem conseguir controlar. Provavelmente se",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "deve a colpocistoretocele."
+    },
+    {
+     "letra": "B",
+     "texto": "beneficiaria com oxibutinina e terapia comportamental."
+    },
+    {
+     "letra": "C",
+     "texto": "trata de vaginite atrófica."
+    },
+    {
+     "letra": "D",
+     "texto": "deve à incontinência de esforço."
+    },
+    {
+     "letra": "E",
+     "texto": "deve indicar cirurgia de TVT."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169967",
+   "codigo": "4000169967",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 36,
+   "temas": [
+    "Ginecologia",
+    "Ciclo menstrual"
+   ],
+   "enunciado": "Conhecer o processo de ovulação é importante para se acompanhar casos de infertilidade e poder orientar o casal e as avaliações a serem feitas. Assim, é correto afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "os picos das gonadotrofinas estão vinculados ao pico do estradiol para determinar a ovulação."
+    },
+    {
+     "letra": "B",
+     "texto": "a ovulação ocorre 24 a 36 horas após o pico de FSH e 48 horas após o pico do LH."
+    },
+    {
+     "letra": "C",
+     "texto": "a ovulação ocorre de 24 a 36 horas após o pico de estradiol e de 10 a 12 horas após o pico do LH."
+    },
+    {
+     "letra": "D",
+     "texto": "a progesterona apresenta seu pico no momento da postura ovular."
+    },
+    {
+     "letra": "E",
+     "texto": "o corpo lúteo se forma após a fecundação."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q036-1.jpg",
+     "antes_das_alternativas": false
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000169966",
+   "codigo": "4000169966",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 37,
+   "temas": [
+    "Cirúrgico",
+    "Ginecologia"
+   ],
+   "enunciado": "Uma mulher com 59 anos, viúva há 3 anos e menopausada há sete, vai à UBS e se queixa de sensação de peso no períneo. Ao exame, constata-se prolapso genital, estadimento IV. Não apresenta comorbidades, nenhuma outra queixa e não faz uso de nenhuma medicação. Qual deve ser a conduta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Estrogenioterapia por via oral associada com progestágeno."
+    },
+    {
+     "letra": "B",
+     "texto": "Estrogenioterapia isolada por via tópica vaginal."
+    },
+    {
+     "letra": "C",
+     "texto": "Fisioterapia de assoalho pélvico."
+    },
+    {
+     "letra": "D",
+     "texto": "Cirurgia de amputação de colo."
+    },
+    {
+     "letra": "E",
+     "texto": "Histerectomia vaginal."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169965",
+   "codigo": "4000169965",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 38,
+   "temas": [
+    "Causas f uncionais",
+    "Ginecologia"
+   ],
+   "enunciado": "Mulher com 30 anos, I gesta I para, parto cesárea há 8 anos, vida sexual normal, vem apresentando diminuição do uxo menstrual há 1 ano e parou de menstruar há 8 meses. Ao exame clínico, tem vagina hipotró ca. Fez beta-hCG que foi negativo, FSH e LH baixos, PRL normal. Frente a esse quadro clínico e laboratorial, o diagnóstico é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "menopausa precoce."
+    },
+    {
+     "letra": "B",
+     "texto": "hipogonadismo hipergonadotrófico."
+    },
+    {
+     "letra": "C",
+     "texto": "hipogonadismo hipogonadotrófico."
+    },
+    {
+     "letra": "D",
+     "texto": "síndrome de Asherman."
+    },
+    {
+     "letra": "E",
+     "texto": "SOP (síndrome dos ovários policísticos)."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000169964",
+   "codigo": "4000169964",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 39,
+   "temas": [
+    "Tricomoníase",
+    "Ginecologia"
+   ],
+   "enunciado": "Mulher procura o médico da UBS com queixa de corrimento vaginal amarelado, com odor fétido, que traz a sensação de queimação, disúria e, às vezes, dor na relação sexual. No exame especular, além do conteúdo vaginal, observa-se lesões puntiformes no colo. Frente a essa infeção, a terapêutica indicada é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "penicilina benzatina."
+    },
+    {
+     "letra": "B",
+     "texto": "azitromicina."
+    },
+    {
+     "letra": "C",
+     "texto": "metronidazol."
+    },
+    {
+     "letra": "D",
+     "texto": "miconazol."
+    },
+    {
+     "letra": "E",
+     "texto": "nistatina."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q039-1.jpg",
+     "antes_das_alternativas": false
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000169963",
+   "codigo": "4000169963",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 40,
+   "temas": [
+    "Fatores de risco"
+   ],
+   "enunciado": "Quando uma mulher consulta seu ginecologista, alguns dados da anamnese podem ser identi cados como indicativos de maior risco para câncer de mama.Assinale a alternativa que apresenta a condição que mais tem relação com essa doença.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Nuliparidade."
+    },
+    {
+     "letra": "B",
+     "texto": "Uso de contraceptivo oral."
+    },
+    {
+     "letra": "C",
+     "texto": "Menarca precoce."
+    },
+    {
+     "letra": "D",
+     "texto": "Menarca tardia."
+    },
+    {
+     "letra": "E",
+     "texto": "Amamentação prolongada."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169962",
+   "codigo": "4000169962",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 41,
+   "temas": [
+    "Retinopatia da Prematuridade"
+   ],
+   "enunciado": "Na retinopatia da prematuridade, a cegueira decorre",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "da inflamação do segmento anterior do olho."
+    },
+    {
+     "letra": "B",
+     "texto": "da isquemia do segmento anterior com consequente atrofia."
+    },
+    {
+     "letra": "C",
+     "texto": "do descolamento ou hemorragia da coroide."
+    },
+    {
+     "letra": "D",
+     "texto": "da rotura da retina."
+    },
+    {
+     "letra": "E",
+     "texto": "do descolamento da retina."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169961",
+   "codigo": "4000169961",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 42,
+   "temas": [
+    "Tratamento Geral"
+   ],
+   "enunciado": "Menino, 2 anos de idade, apresenta febre há 2 dias. Há 1 dia, queixa-se de dor, que a mãe considera que seja abdominal; aceita líquidos, mas recusa as refeições. Tem diurese clara e não evacuou hoje. Ao exame, está prostrado, hidratado, com FC = 110 bpm, FR = 50 mrm, saturação de oxigênio de 92 %. Tem tiragem intercostal e de fúrcula, ausculta pulmonar com estertores nos difusos e diminuição de murmúrio vesicular em base direita. O fígado e o baço são palpáveis nos rebordos costais. Há cicatrizes, manchas róseas, brancas e pigmentadas em torno da boca e entre nariz e boca. A mãe refere que havia muitas crostas nessa região e as retirou com óleo, como foi orientado na consulta médica. Na radiogra a de tórax, há focos de consolidação em lobos superiores direito e esquerdo e linha de derrame pleural à direita. A melhor conduta para o quadro apresentado é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "internação hospitalar, oferta de oxigênio por cateter nasal e administração de penicilina cristalina e amicacina."
+    },
+    {
+     "letra": "B",
+     "texto": "internação hospitalar e administração de oxacilina."
+    },
+    {
+     "letra": "C",
+     "texto": "internação hospitalar para punção do derrame pleural, guiada por ultrassom, e administração de amoxicilina."
+    },
+    {
+     "letra": "D",
+     "texto": "administração de amoxicilina-clavulonato e orientação de retorno para reavaliação em 24 horas."
+    },
+    {
+     "letra": "E",
+     "texto": "administração de amoxicilina e azitromicina e orientação de retorno para reavaliação em 48 horas."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q042-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000169960",
+   "codigo": "4000169960",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 43,
+   "temas": [
+    "Suporte transf usional na anemia f alcif orme",
+    "Irradiação"
+   ],
+   "enunciado": "Menino, 10 anos de idade, tem anemia falciforme e deve realizar, em até 5 dias, cirurgia para drenagem biliar e colecistectomia sob anestesia geral. No pré-operatório, tem Hb 9,9 g /dL e porcentagem de hemoglobina S de 70%. Os procedimentos corretos para a realização da cirurgia devem incluir",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "transfusão de concentrado de hemácias irradiado."
+    },
+    {
+     "letra": "B",
+     "texto": "transfusão de concentrado de hemácias filtrado e irradiado."
+    },
+    {
+     "letra": "C",
+     "texto": "reserva cirúrgica de hemocomponentes fenotipados, filtrados e irradiados."
+    },
+    {
+     "letra": "D",
+     "texto": "exsanguineotransfusão parcial."
+    },
+    {
+     "letra": "E",
+     "texto": "iniciar a administração de hidroxiureia."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169959",
+   "codigo": "4000169959",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 44,
+   "temas": [
+    "Imunodef iciências primárias",
+    "Inf ectologia"
+   ],
+   "enunciado": "Menino, 4 meses de idade, nascido a termo por parto normal, com peso de 3100 g e peso atual de 4050 g, é internado com quadro de meningite meningocócica. Tem dermatite seborreica em couro cabeludo e erupção eritemato-descamativa em todo o corpo, desde o nascimento; já realizou tratamento várias vezes com melhora transitória. A mãe refere que esta é a segunda internação. Aos 2 meses de idade, cou internado por diarreia e necessitou ser transferido para a unidade de terapia intensiva comdiagnóstico de sepse por Salmonella sp. É realizada, corretamente, a hipótese diagnóstica de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "erro inato do metabolismo."
+    },
+    {
+     "letra": "B",
+     "texto": "imunodeficiência primária."
+    },
+    {
+     "letra": "C",
+     "texto": "deficiência de zinco."
+    },
+    {
+     "letra": "D",
+     "texto": "psoríase familiar primária."
+    },
+    {
+     "letra": "E",
+     "texto": "fibrose cística."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169958",
+   "codigo": "4000169958",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 45,
+   "temas": [
+    "Diagnóstico"
+   ],
+   "enunciado": "Menino, 14 anos de idade, realiza hemodiálise em aguardo de transplante renal. Na radiogra a de tórax, tem calci cação isolada em lobo superior direito. Para diagnóstico de infecção latente por tuberculose, deve realizar",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "prova tuberculínica."
+    },
+    {
+     "letra": "B",
+     "texto": "cultura de lavado brônquico."
+    },
+    {
+     "letra": "C",
+     "texto": "teste rápido molecular em lavado gástrico."
+    },
+    {
+     "letra": "D",
+     "texto": "tomografia de tórax."
+    },
+    {
+     "letra": "E",
+     "texto": "biopsia pleural."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q045-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000169957",
+   "codigo": "4000169957",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 46,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Menino, 6 meses de idade, apresenta picos febris medidos entre 38 e 38,5 ºC há 2 dias, sem outros sintomas. Ao exame, está afebril, em bom estado geral e com exame físico normal. Foi realizado o teste rápido com ta (dipstick) em urina colhida por saco coletor, com resultado negativo para leucocituria e nitrito. A conduta indicada para o quadro apresentado é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "orientação para medicação da febre e retorno para avaliação se a febre persistir nas próximas 48 horas ou surgirem sintomas."
+    },
+    {
+     "letra": "B",
+     "texto": "coleta de urina por cateterismo vesical para urinálise."
+    },
+    {
+     "letra": "C",
+     "texto": "coleta de urina por cateterismo vesical para uninálise e urocultura."
+    },
+    {
+     "letra": "D",
+     "texto": "coleta de urina por punção suprapúbica para urinálise e urocultura com antibiograma."
+    },
+    {
+     "letra": "E",
+     "texto": "agendamento de ultrassonografia de rins e vias urinárias."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169956",
+   "codigo": "4000169956",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 47,
+   "temas": [
+    "Contraindicações"
+   ],
+   "enunciado": "Casal de missionários que vai trabalhar no interior de Angola vem ao atendimento para vacinação em seu primeiro lho, que tem 4 meses e 15 dias de idade. A criança recebeu as vacinas do calendário nas datas adequadas, e os pais também atualizaram as suas vacinas, no período das consultas do pré-natal, e contra covid-19, segundo as orientações, mas não receberam vacina para febre amarela. A mãe recebeu a segunda dose contra covid-19 há 2 meses. A conduta indicada para a família é vacinar",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "os pais e a criança contra febre amarela."
+    },
+    {
+     "letra": "B",
+     "texto": "os pais e a criança contra febre amarela e vacina polissacarídea contra febre tifoide."
+    },
+    {
+     "letra": "C",
+     "texto": "os pais contra febre amarela, e a criança, contra sarampo."
+    },
+    {
+     "letra": "D",
+     "texto": "os pais contra febre amarela, e a criança, contra hepatite A."
+    },
+    {
+     "letra": "E",
+     "texto": "o pai contra febre amarela."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169955",
+   "codigo": "4000169955",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 48,
+   "temas": [
+    "Clínica Médica",
+    "Hepatite Fulminante Insuf iciência Hepática Aguda",
+    "Hepatologia"
+   ],
+   "enunciado": "Adolescente internado com diagnóstico de dengue, somente poderá ter também diagnóstico de insu ciência hepática aguda se apresentar",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "doença hepática prévia."
+    },
+    {
+     "letra": "B",
+     "texto": "coagulopatia não corrigível pela administação de vitamina K e RNI >2, na ausência de encefalopatia."
+    },
+    {
+     "letra": "C",
+     "texto": "ascite e hiperamonemia."
+    },
+    {
+     "letra": "D",
+     "texto": "comprometimento da função renal com necessidade de terapia de substituição renal."
+    },
+    {
+     "letra": "E",
+     "texto": "icterícia, coagulopatia e RNI >1."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q048-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000169954",
+   "codigo": "4000169954",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 49,
+   "temas": [
+    "Síndrome de GuillainBarré",
+    "Neurologia",
+    "Exames Complementares"
+   ],
+   "enunciado": "Menino, 7 anos de idade, saudável, queixa-se de dor nas pernas há 6 dias e, há 5 dias, tem di culdade para pular e andar. A cada dia, tem maior dificuldade para andar. Há 3 semanas, apresentou diarreia por 5 dias, com febre nos 2 primeiros dias. Ao exame, tem perda simétrica de força em membros inferiores e não há resposta na pesquisa dos reflexos plantar, aquileu e patelar bilateralmente. Qual exame deve ser realizado para diagnóstico do quadro apresentado?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Teste de Mitsuda."
+    },
+    {
+     "letra": "B",
+     "texto": "Dosagem sérica de imunoglobulinas Ig M, IgG E IgA."
+    },
+    {
+     "letra": "C",
+     "texto": "PCR para herpes simples."
+    },
+    {
+     "letra": "D",
+     "texto": "Ressonância magnética de coluna lombar."
+    },
+    {
+     "letra": "E",
+     "texto": "Análise do liquor."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169953",
+   "codigo": "4000169953",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 50,
+   "temas": [
+    "Crises de hipóxia",
+    "Tetralogia de Fallot"
+   ],
+   "enunciado": "Recém-nascido, 24 horas de vida, parto normal a termo, peso de nascimento 3020 g, Apgar 8/10, apresenta cianose ao chorar e às mamadas. A saturação de oxigênio é 93%, FR = 60 mrm, FC = 130 bpm, a ausculta pulmonar não tem alterações. Foi realizado teste de hiperóxia com oferta de oxigênio a 100% e coleta de gasometria em artéria radial direita, com PO₂ 96 mmHg. A hipótese diagnóstica provável é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "hipertensão pulmonar persistente."
+    },
+    {
+     "letra": "B",
+     "texto": "estenose pulmonar."
+    },
+    {
+     "letra": "C",
+     "texto": "insuficiência mitral."
+    },
+    {
+     "letra": "D",
+     "texto": "comunicação interventricular."
+    },
+    {
+     "letra": "E",
+     "texto": "comunicação interatrial."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169952",
+   "codigo": "4000169952",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 51,
+   "temas": [
+    "Tratamento da púrpura trombocitopênica imunológica PTI"
+   ],
+   "enunciado": "Menina, 10 anos de idade, previamente saudável, apresenta petéquias e equimoses em membros e sobre saliências ósseas, cristas ilíacas e costelas. Ficou resfriada por 5 dias há, aproximadamente, 1 mês. Ao exame, está afebril, corada, os linfonodos são palpáveis, em regiões cervical e inguinais, menores de 0,5 cm de diâmetro, móveis e indolores; o fígado e o baço não são palpáveis. No hemograma, tem Hb 12,6 g/dL, 10.200 leucócitos com distribuição normal e contagem de plaquetas 58.000/mm³. Urina I com 1.000 hemácias/mL. Tipo sanguíneo A positivo e Coombs direto negativo. O diagnóstico provável e a conduta indicada são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "púrpura trombocitopênica imune; realizar mielograma."
+    },
+    {
+     "letra": "B",
+     "texto": "púrpura trombocitopênica idiopática; prescrever dexametasona 40 mg/m², por 2 semanas."
+    },
+    {
+     "letra": "C",
+     "texto": "trombocitopenia idiopática; imunoglobulina anti-D 50 mcg/kg."
+    },
+    {
+     "letra": "D",
+     "texto": "trombocitopenia imune primária; esclarecer sobre a evolução autolimitada e orientar a não realizar esportes ou usar medicamentos."
+    },
+    {
+     "letra": "E",
+     "texto": "vasculite por deposição de IgA; imunoglobulina 1g / kg / dia, IV, por 2 dias."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q051-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000169951",
+   "codigo": "4000169951",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 52,
+   "temas": [
+    "Dermatologia",
+    "Eritema multif orme",
+    "Eritema multif orme"
+   ],
+   "enunciado": "Menino, 4 anos de idade, queixou-se de dor em braços e pernas há 3 dias. Há 1 dia, esfregava a pele sem conseguir definir se sentia prurido ou ardor. Recebeu anti-histamínico à noite e hoje acordou com máculas, pápulas e placas eritematosas com dupla borda e aspecto em tiro ao alvo, em pernas e braços. O diagnóstico provável e o agente mais associado ao quadro apresentado são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "urticaria;"
+    },
+    {
+     "letra": "B",
+     "texto": "eritema tóxico;"
+    },
+    {
+     "letra": "C",
+     "texto": "eritema nodoso; tuberculose."
+    },
+    {
+     "letra": "D",
+     "texto": "eritema multiforme; herpes simples."
+    },
+    {
+     "letra": "E",
+     "texto": "escarlatina;"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169950",
+   "codigo": "4000169950",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 53,
+   "temas": [
+    "Apresentação Clínica"
+   ],
+   "enunciado": "Menino, 3 anos de idade, apresenta febre, coriza e tosse há 2 dias. Está muito congesto, acorda à noite várias vezes, tossindo. Queixa-se de dor de ouvido e em região frontal, e reduziu a aceitação alimentar. Tem vacinação completa para a idade. Ao exame, está corado, hidratado, com respiração bucal. O cavo e as membranas timpânicas estão hiperemiados; o restante do exame é normal. A hipótese diagnóstica provável para o quadro apresentado é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "infecção respiratória por"
+    },
+    {
+     "letra": "B",
+     "texto": "infecção respiratória por"
+    },
+    {
+     "letra": "C",
+     "texto": "rinofaringite."
+    },
+    {
+     "letra": "D",
+     "texto": "rinussinusite frontal."
+    },
+    {
+     "letra": "E",
+     "texto": "sinusite e otite por"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169949",
+   "codigo": "4000169949",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 54,
+   "temas": [
+    "Emergências Pediátricas",
+    "Pediatria"
+   ],
+   "enunciado": "Menina, 3 anos de idade, caiu de balanço de uma altura estimada de 1,5 metro, há 30 minutos. Ao cair, cou imóvel e pálida por poucos segundos e começou a chorar muito. Ao exame, está consciente, ECG = 15, apresenta equimose retroauricular e hemotímpano, movimenta os membros, a respiração é coordenada e simétrica e o abdome está ácido. A conduta indicada para o quadro apresentado é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "realizar tomografia de crânio, pela possibilidade de fratura de base de crânio."
+    },
+    {
+     "letra": "B",
+     "texto": "realizar tomografia de crânio, pela possibilidade de contusão cerebral."
+    },
+    {
+     "letra": "C",
+     "texto": "deixar em observação hospitalar por 24 horas, para diagnóstico de sinais de comprometimento neurológico."
+    },
+    {
+     "letra": "D",
+     "texto": "deixar em observação hospitalar, para avaliação por cirurgião pediátrico."
+    },
+    {
+     "letra": "E",
+     "texto": "liberar para a residência com orientações e retorno, se necessário."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q054-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000169948",
+   "codigo": "4000169948",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 55,
+   "temas": [
+    "Síndrome do desconf orto respiratório do RN SDR ou Doença da Membrana Hialina DMH"
+   ],
+   "enunciado": "Recém-nascido, sexo masculino, nascido a termo por parto cesária em razão de doença hipertensiva da gestação e idade gestacional de 33 semanas e 5 dias; com 18 horas de vida, está taquicárdico, taquipneico, com retração costal e xifoide moderadas e gemido expiratório audível com estetoscópio. A radiogra a de tórax mostra in ltrado reticulogranular difuso, distribuído de maneira uniforme, broncograma aéreo periférico e aumento do líquido pulmonar. A hipotese diagnóstica provável é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "persistência de circulação pulmonar de padrão fetal."
+    },
+    {
+     "letra": "B",
+     "texto": "taquipneia transitória do recém-nascido."
+    },
+    {
+     "letra": "C",
+     "texto": "síndrome do desconforto respiratório."
+    },
+    {
+     "letra": "D",
+     "texto": "pneumonia bacteriana."
+    },
+    {
+     "letra": "E",
+     "texto": "pneumonia por broncoaspiração."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169947",
+   "codigo": "4000169947",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 56,
+   "temas": [
+    "Sepse neonatal",
+    "Pediatria",
+    "sepse neonatal precoce"
+   ],
+   "enunciado": "Na sepse neonatal precoce, os organismos mais associados com a infecção precoce são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Staphylococcus aureus e Klebsiella pneumoniae."
+    },
+    {
+     "letra": "B",
+     "texto": "Staphylococcus aureus e Staphylococcus epidermidis."
+    },
+    {
+     "letra": "C",
+     "texto": "Staphylococcus epidermidis e Escherichia coli."
+    },
+    {
+     "letra": "D",
+     "texto": "Streptococcus pyogenes e Chlamydia pneumoniae."
+    },
+    {
+     "letra": "E",
+     "texto": "Streptococcus do grupo B e Escherichia coli."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169946",
+   "codigo": "4000169946",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 57,
+   "temas": [
+    "Diagnóstico",
+    "Pediatria",
+    "AIJ Artrite Idiopática Juvenil"
+   ],
+   "enunciado": "Menina, 3 anos de idade, tem dor, calor e edema em joelhos e tornozelo direito há 6 semanas. Tem febre nesse período, às vezes por 3 a 4 dias seguidos. A mãe refere que prefere car em ambiente com menos luz e tem lacrimejamento, embora não tenha hiperemia em conjuntivas ou secreção ocular. A hipótese diagnóstica mais provável é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "artrite séptica."
+    },
+    {
+     "letra": "B",
+     "texto": "osteoartrite."
+    },
+    {
+     "letra": "C",
+     "texto": "artrite idiopática juvenil."
+    },
+    {
+     "letra": "D",
+     "texto": "febre reumática."
+    },
+    {
+     "letra": "E",
+     "texto": "síndrome de Reiter."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q057-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000169945",
+   "codigo": "4000169945",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 58,
+   "temas": [
+    "Diarreia Aguda",
+    "Invasivo",
+    "Tricuríase"
+   ],
+   "enunciado": "Menino, 5 anos de idade, tem distensão abdominal, cólicas e disenteria com fezes mucossanguinolentas. Já apresentou fezes desintéricas outras vezes. Mora em ocupação com a mãe e quatro irmãos, em 2 cômodos, sem saneamento. Ao exame, está descorado ++/4, hidratado, ausculta cardíaca e pulmonar normais, abdome globoso, sem sinais peritoneais. Não há dermatite perianal e, ao chorar, nota-se pequeno prolapso retal. A hipótese diagnóstica provável é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "trichuríase."
+    },
+    {
+     "letra": "B",
+     "texto": "amebíase."
+    },
+    {
+     "letra": "C",
+     "texto": "doença de Crohn."
+    },
+    {
+     "letra": "D",
+     "texto": "retocolite ulcerativa."
+    },
+    {
+     "letra": "E",
+     "texto": "divertículo de Meckel."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169944",
+   "codigo": "4000169944",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 59,
+   "temas": [
+    "Doenças Congênitas CérvicoFaciais",
+    "Otorrinolaringologia"
+   ],
+   "enunciado": "Menina, 2 anos de idade, apresenta massa subcutânea, super cial, indolor, na região cervical mediana. Os pais referem que cresceu no último mês. Na ultrassonogra a, há lesão com cerca de 2 cm de diâmetro e presença de componente hiperecoico e estruturas calcificadas. A hipótese diagnóstica provável é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "cisto branquial do primeiro arco."
+    },
+    {
+     "letra": "B",
+     "texto": "cisto branquial do segundo aparato faríngeo."
+    },
+    {
+     "letra": "C",
+     "texto": "cisto tireoglosso."
+    },
+    {
+     "letra": "D",
+     "texto": "cisto dermoide."
+    },
+    {
+     "letra": "E",
+     "texto": "linfagioma."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169943",
+   "codigo": "4000169943",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 60,
+   "temas": [
+    "Diagnóstico Nutricional"
+   ],
+   "enunciado": "QUESTÃO ADAPTADA Na classificação nutricional nas crianças menores de 5 anos, recomendada pelo MS, os intervalos de escore-z para: peso adequado para a idade, quando se utiliza o índice antropométrico peso-para-idade; e eutro a, quando se utiliza o índice antropométrico peso-para-estatura, são, correta e respectivamente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "z = +1 a z = +2; z = +1 a z = +2."
+    },
+    {
+     "letra": "B",
+     "texto": "z = –2 a z = +2; z= –2 a z = +1."
+    },
+    {
+     "letra": "C",
+     "texto": "z = –1 a z= +1; z = +1 a z = +2."
+    },
+    {
+     "letra": "D",
+     "texto": "z = +2 a z = +3; z = +2 a z = +3."
+    },
+    {
+     "letra": "E",
+     "texto": "z = –1 a z = +1; z = –1 a z = +1."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q060-1.jpg",
+     "antes_das_alternativas": false
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000169942",
+   "codigo": "4000169942",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 61,
+   "temas": [
+    "Estimativa da Superf ície Corpórea Queimada e Circulação",
+    "Cirurgia"
+   ],
+   "enunciado": "Paciente de 42 anos trazido à urgência pelo SAMU, com história de ter sido resgatado de quarto de uma casa, o qual estava em chamas (sic). Médico socorrista disse ter infundido 1000 mL de soro ringer lactato (SRL), EV, durante o transporte. Após avaliação inicial embasada pelo ATLS, o peso do paciente foi aferido em 80 kg e a área correspondente a queimaduras de 2º e 3º graus totaliza 40% de superfície corporal queimada. A prescrição de vo lume de solução cristaloide a ser infundido nas primeiras 24 horas (de acordo com a 10ª edição do ATLS) é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "400 mL/h nas primeiras 8 horas e 200 mL/h nas 16 horas seguintes."
+    },
+    {
+     "letra": "B",
+     "texto": "20 mL/h nas primeiras 8 horas e 50 mL/h nas 16 horas seguintes."
+    },
+    {
+     "letra": "C",
+     "texto": "400 mL/h nas primeiras 12 horas e 400 mL/h nas 12 horas seguintes."
+    },
+    {
+     "letra": "D",
+     "texto": "640 mL/h nas primeiras 8 horas e 320 mL/h nas 16 horas seguintes."
+    },
+    {
+     "letra": "E",
+     "texto": "337 mL/h nas primeiras 8 horas e 169 mL/h nas 16 horas seguintes."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169941",
+   "codigo": "4000169941",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 62,
+   "temas": [
+    "Cirurgia",
+    "Doença Inf lamatória Intestinal"
+   ],
+   "enunciado": "O manejo cirúrgico das Doenças In amatórias Intestinais (Doença de Crohn e Retocolite Ulcerativa) deve ser utilizado em situações especí cas, em associação ao tratamento clínico otimizado dessas condições patológicas. Sobre essas enfermidades, assinale a correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O acometimento histológico na retocolite ulcerativa é transmural e, portanto, há maior índice de fístulas perianais em comparação à Doença de Crohn."
+    },
+    {
+     "letra": "B",
+     "texto": "No megacólon tóxico associado à retocolite ulcerativa, o procedimento cirúrgico recomendado é a colectomia total + ileostomia terminal."
+    },
+    {
+     "letra": "C",
+     "texto": "Pacientes jovens, tabagistas, com quadro de múltiplas fistulas perianais por Doença de Crohn não se beneficiam do uso de biológicos como tratamento clínico."
+    },
+    {
+     "letra": "D",
+     "texto": "A retocolite ulcerativa pode ser classificada clinica mente em formas inflamatória, fistulizante e estenosante."
+    },
+    {
+     "letra": "E",
+     "texto": "As doenças inflamatórias intestinais, paradoxalmente, são consideradas como fatores de proteção ao câncer colorretal."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000169940",
+   "codigo": "4000169940",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 63,
+   "temas": [
+    "Neoplasias Apendiculares Pósapendicectomia",
+    "Neoplasias do Apêndice Cecal",
+    "Cirurgia"
+   ],
+   "enunciado": "Paciente de 43 anos, sexo masculino, submetido há 30 dias à apendicectomia devido a hipótese diagnóstica de apendicite aguda. O anatomopatológico denota cistoadenocarcinoma de apêndice cecal, de 2,5 cm de extensão, em base apendicular, com invasão de mesoapêndice. Qual a conduta adequada ao caso citado?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Colectomia total."
+    },
+    {
+     "letra": "B",
+     "texto": "Hemicolectomia direita + linfadenectomia retroperitoneal."
+    },
+    {
+     "letra": "C",
+     "texto": "Quimioterapia adjuvante."
+    },
+    {
+     "letra": "D",
+     "texto": "Radioquimioterapia adjuvante."
+    },
+    {
+     "letra": "E",
+     "texto": "Conduta conservadora: a apendicectomia foi terapêutica."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q063-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000169939",
+   "codigo": "4000169939",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 64,
+   "temas": [
+    "Cricotireoidostomia Cirúrgica",
+    "Cirurgia"
+   ],
+   "enunciado": "Paciente de 32 anos, masculino, foi vítima de ferimento por arma de fogo de grande calibre em face. Apresenta-se na urgência com quadro de franca dispneia, e sangramento facial volumoso, com evidentes fraturas de maxila e mandíbula e grande avulsão tecidual da face. Qual deve ser a conduta nesse momento?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Intubação nasotraqueal."
+    },
+    {
+     "letra": "B",
+     "texto": "Intubação orotraqueal."
+    },
+    {
+     "letra": "C",
+     "texto": "Traqueostomia."
+    },
+    {
+     "letra": "D",
+     "texto": "Cricotireoidostomia cirúrgica."
+    },
+    {
+     "letra": "E",
+     "texto": "Máscara laríngea."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169938",
+   "codigo": "4000169938",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 65,
+   "temas": [
+    "Colecistectomia",
+    "Cirurgia"
+   ],
+   "enunciado": "Durante a realização de uma colecistectomia há significativo risco de lesão iatrogênica da via biliar principal. Buscando minimizar essa situação, a Visão Crítica de Segurança (proposta por Strasberg) deve ser adotada. Quais as duas estruturas que devem ser bem visualizadas nessa técnica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Artéria cística e colédoco."
+    },
+    {
+     "letra": "B",
+     "texto": "Ducto hepático comum e colédoco."
+    },
+    {
+     "letra": "C",
+     "texto": "Ducto cístico e artéria cística."
+    },
+    {
+     "letra": "D",
+     "texto": "Colédoco e primeira porção duodenal."
+    },
+    {
+     "letra": "E",
+     "texto": "Ducto cístico e primeira porção duodenal."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169937",
+   "codigo": "4000169937",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 66,
+   "temas": [
+    "Colecistite Aguda na Gestante",
+    "Cirurgia"
+   ],
+   "enunciado": "Gestante na trigésima terceira semana de gestação é admitida na emergência com quadro de mal estar abdominal, com dor localizada no hipocôndrio direito, febre e hiporexia há 2 dias. Laboratoriais denotam leucocitose com desvio à esquerda. US abdome denota vesícula biliar com paredes espessadas, com cálculos de até 1,1 cm no seu interior e discreta quantidade de líquido perivesicular. A conduta a ser adotada deverá ser",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "iniciar antibiótico e, em caso de boa resposta clínica, postergar cirurgia para o pós-parto."
+    },
+    {
+     "letra": "B",
+     "texto": "indicar cesariana e, em seguida, submeter a paciente a uma laparoscopia."
+    },
+    {
+     "letra": "C",
+     "texto": "indicar laparoscopia imediatamente."
+    },
+    {
+     "letra": "D",
+     "texto": "realizar colecistectomia aberta imediatamente."
+    },
+    {
+     "letra": "E",
+     "texto": "solicitar RNM de abdômen para elucidação diagnóstica."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q066-1.jpg",
+     "antes_das_alternativas": false
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000169936",
+   "codigo": "4000169936",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 67,
+   "temas": [
+    "Cirurgia",
+    "Febre Pósoperatória"
+   ],
+   "enunciado": "Paciente masculino, 42 anos, no primeiro pós-operatório de gastroplastia redutora com apresenta tosse seca, febre aferida em 38,3 ºC e leve taquipneia, sem outros sinais ou sintomas associados. Qual a provável hipótese diagnóstica e o tratamento adequado?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Pneumonia – antibioticoterpia."
+    },
+    {
+     "letra": "B",
+     "texto": "Infecção urinária – antibioticoterapia."
+    },
+    {
+     "letra": "C",
+     "texto": "Íleo paralítico – dieta parenteral."
+    },
+    {
+     "letra": "D",
+     "texto": "Fístula digestiva – laparotomia exploradora."
+    },
+    {
+     "letra": "E",
+     "texto": "Atelectasia pulmonar – analgesia, fisioterapia respiratória."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169935",
+   "codigo": "4000169935",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 68,
+   "temas": [
+    "Abdome Agudo Perf urativo",
+    "Cirurgia"
+   ],
+   "enunciado": "Paciente de 38 anos é atendido na urgência com quadro de dor abdominal súbita, de forte intensidade, mais pronunciada em epigástrio, porém com irradiação para todo o abdome, contínua, sem fatores de melhora. Apresenta-se hipotenso, taquicádico, com sinais de peritonite difusa à palpação. Radiogra a de tórax revela pneumoperitônio. Qual a principal hipótese diagnóstica e conduta adequada ao caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Abdome agudo hemorrágico; solicitar ultrassonografia de abdome total + exames laboratoriais."
+    },
+    {
+     "letra": "B",
+     "texto": "Abdome agudo perfurativo; iniciar estabilização clínica e laparotomia exploradora."
+    },
+    {
+     "letra": "C",
+     "texto": "Abdome agudo vascular; iniciar anticoagulação."
+    },
+    {
+     "letra": "D",
+     "texto": "Abdome agudo perfurativo; estabilização clínica e endoscopia digestiva alta."
+    },
+    {
+     "letra": "E",
+     "texto": "Abdome agudo hemorrágico; solicitar tomografia de abdome."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169934",
+   "codigo": "4000169934",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 69,
+   "temas": [
+    "Cirurgia",
+    "Câncer Colorretal"
+   ],
+   "enunciado": "Paciente de 64 anos, masculino, com histórico de anemia a esclarecer, chega ao Ambulatório de Cirurgia Geral com colonoscopia recente denotando lesão ulcerada, vegetante e friável em cólon direito, ocupando 50% da luz do órgão. Biópsia indicou adenocarcinoma pouco diferenciado. Qual a melhor conduta para o caso, nesse momento?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tomografia de tórax, abdome e pelve + dosagem de CEA."
+    },
+    {
+     "letra": "B",
+     "texto": "Laparoscopia diagnóstica para investigar carcinomatose peritoneal."
+    },
+    {
+     "letra": "C",
+     "texto": "Transversostomia em alça."
+    },
+    {
+     "letra": "D",
+     "texto": "Radioquimioterapia neoadjuvante."
+    },
+    {
+     "letra": "E",
+     "texto": "Mucosectomia endoscópica da lesão."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q069-1.jpg",
+     "antes_das_alternativas": false
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000169933",
+   "codigo": "4000169933",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 70,
+   "temas": [
+    "Hemotórax",
+    "Pneumotórax Hipertensivo",
+    "Cirurgia"
+   ],
+   "enunciado": "Paciente de 27 anos, vítima de acidente motociclístico, chega à urgência trazido pelo SAMU com colar cervical e prancha rígida. Apresenta-se levemente confuso, com aumento da frequência respiratória e Sat O₂ de 81% em ar ambiente. PA=80 x 40 e frequência cardíaca = 130 bpm. Murmúrio vesicular ausente à esquerda, com hipertimpanismo em hemitórax ipsilateral. Abdome apresenta-se normotenso e indolor. Escoriações difusas em membros. Após início de oxigenioterapia em máscara, qual a próxima conduta adequada ao caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Toracotomia à esquerda e massagem cardíaca interna."
+    },
+    {
+     "letra": "B",
+     "texto": "Pericardiocentese."
+    },
+    {
+     "letra": "C",
+     "texto": "Tomografia computadorizada de corpo inteiro."
+    },
+    {
+     "letra": "D",
+     "texto": "Lavado peritoneal diagnóstico."
+    },
+    {
+     "letra": "E",
+     "texto": "Punção descompressiva em hemitórax esquerdo + toracostomia com drenagem fechada à esquerda."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169932",
+   "codigo": "4000169932",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 71,
+   "temas": [
+    "Suporte Nutricional Perioperatório",
+    "Cirurgia"
+   ],
+   "enunciado": "Considerando-se o adequado manejo da Terapia Nutricional no perioperatório, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Deve-se aguardar 7 a 10 dias para liberação de dieta enteral em pacientes submetidos a gastrectomia total, estando os pacientes estáveis hemodinamicamente."
+    },
+    {
+     "letra": "B",
+     "texto": "Não é recomendada a liberação de dieta enteral em pacientes instáveis hemodinamicamente, em uso de drogas vasoativas em doses altas."
+    },
+    {
+     "letra": "C",
+     "texto": "Terapia nutricional no pré-operatório de cirurgias para o tratamento de neoplasias malignas do trato digestivo devem ser proscritas devido ao risco de obstrução intestinal."
+    },
+    {
+     "letra": "D",
+     "texto": "O paciente deve ficar em jejum de líquidos claros, no pré-operatório, por 12 horas antes do procedimento."
+    },
+    {
+     "letra": "E",
+     "texto": "Deve-se sempre priorizar a via parenteral devido ao elevado risco da Síndrome de Realimentação inerente à via oral."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169931",
+   "codigo": "4000169931",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 72,
+   "temas": [
+    "Tratamento",
+    "Cirurgia"
+   ],
+   "enunciado": "Paciente de 65 anos, sexo feminino, é atendida na urgência com quadro de dor abdominal de forte intensidade e sinais de peritonite difusa. Apresenta-se estável hemodinamicamente. Indicada laparotomia exploradora, sendo identi cadas, no intraoperatório, contaminação difusa da cavidade abdominal por secreção purulenta e presença de área endurada, hiperemiada e perfurada em sigmoide, associada a grande quantidade de divertículos colônicos nesse local. Qual a melhor conduta terapêutica nesse momento?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Drenagem da cavidade abdominal e anticoagulação."
+    },
+    {
+     "letra": "B",
+     "texto": "Proctocolectomia total + anastomose ileoanal com bolsa ileal “em J”."
+    },
+    {
+     "letra": "C",
+     "texto": "Rafia da perfuração colônica + peritonesotomia."
+    },
+    {
+     "letra": "D",
+     "texto": "Retossigmoidectomia + colostomia terminal à esquerda + fechamento do coto retal."
+    },
+    {
+     "letra": "E",
+     "texto": "Ileotiflectomia + anastomose ileocolônica."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q072-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000169930",
+   "codigo": "4000169930",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 73,
+   "temas": [
+    "Hérnias Inguinocrurais",
+    "Cirurgia"
+   ],
+   "enunciado": "O conhecimento sobre o manejo terapêutico das hérnias da parede abdominal, com destaque para as hérnias inguinais, apresentou incremento importante com as técnicas laparoscópicas para a correção dessa patologia. Sobre esse tema, é correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o reparo endoscópico da hérnia inguinal apresenta taxa de dor pós-operatória precoce semelhante à correção por inguinotomia (técnica aberta)."
+    },
+    {
+     "letra": "B",
+     "texto": "a técnica transperitoneal (TAAP) é mais segura e eficaz que a técnica totalmente extraperitoneal (TEP)."
+    },
+    {
+     "letra": "C",
+     "texto": "o uso de drenos de forma rotineira não é indicado nas correções laparoscópicas das hérnias inguinais."
+    },
+    {
+     "letra": "D",
+     "texto": "após introdução da laparoscopia na correção das hénias inguinais não se recomenda mais a correção aberta das hérnias (inguinotomia)."
+    },
+    {
+     "letra": "E",
+     "texto": "na TAP (técnica transperitoneal) não se recomenda o uso de telas pelo risco de fístulas intestinais."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169929",
+   "codigo": "4000169929",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 74,
+   "temas": [
+    "Trauma Esplênico",
+    "Cirurgia"
+   ],
+   "enunciado": "Paciente, vítima de colisão carro x carro, apresenta-se com forte dor abdominal, Escala de Coma de Glasgow=15, estável hemodinamicamente. A angiotomogra a computadorizada de abdome revela trauma esplênico grau 2, com hematoma periesplênico. A radiogra a de tórax denota fratura de 2 arcos costais à esquerda. Hemoglobina sérica encontra-se estável há 6 horas. Qual deve ser a conduta terapêutica frente ao caso descrito?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Esplenectomia."
+    },
+    {
+     "letra": "B",
+     "texto": "Tratamento conservador (observação e suporte clínico)."
+    },
+    {
+     "letra": "C",
+     "texto": "Laparoscopia diagnóstica."
+    },
+    {
+     "letra": "D",
+     "texto": "Embolização do sítio de sangramento por radiologia intervencionista."
+    },
+    {
+     "letra": "E",
+     "texto": "Esplenorrafia."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169928",
+   "codigo": "4000169928",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 75,
+   "temas": [
+    "Resposta EndócrinoMetabólicaInf lamatória ao Trauma REMIT",
+    "Cirurgia"
+   ],
+   "enunciado": "A REMIT (Resposta Metabólica e Imunológica ao Trauma) é uma tentativa de manutenção da homeostase corpórea frente a um traumatismo orgânico sistêmico. No que diz respeito a essa condição, é correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "os hormônios que promovem o catabolismo estão com níveis séricos aumentados, com destaque para a insulina."
+    },
+    {
+     "letra": "B",
+     "texto": "o cortisol apresenta-se aumentado, com consequente anabolismo proteico incrementado."
+    },
+    {
+     "letra": "C",
+     "texto": "o ADH pode se elevar até 50 vezes de seu valor basal e atua na reabsorção de água e vasoconstricção esplâncnica."
+    },
+    {
+     "letra": "D",
+     "texto": "essa condição gera expressivo aumento de citocinas anti-inflamatórias e consequente diminuição de citocinas pró-inflamatórias."
+    },
+    {
+     "letra": "E",
+     "texto": "REMIT é uma resposta a grandes insultos, como cirurgias de grande porte, politraumatismos e grandes queimaduras, não sendo recomendada a reposição volêmica inicial."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q075-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000169927",
+   "codigo": "4000169927",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 76,
+   "temas": [
+    "Apendicite Aguda",
+    "Cirurgia"
+   ],
+   "enunciado": "Em relação à apendicite aguda, é correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "ultrassonografia abdominal normal exclui o diagnóstico de apendicite aguda."
+    },
+    {
+     "letra": "B",
+     "texto": "febre alta é sinal comum em casos de apendicite não complicada."
+    },
+    {
+     "letra": "C",
+     "texto": "anorexia é sintoma incomum nos casos de apendicite aguda."
+    },
+    {
+     "letra": "D",
+     "texto": "a apendicectomia envolve a ligadura da artéria apendicular, a qual é ramo da artéria mesentérica inferior."
+    },
+    {
+     "letra": "E",
+     "texto": "o evento fisiopatológico subsequente à obstrução do lúmen apendicular é a hiperprodução de muco e aumento da pressão na luz do apêndice."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169926",
+   "codigo": "4000169926",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 77,
+   "temas": [
+    "Cirurgia",
+    "Aderências Intestinais Bridas"
+   ],
+   "enunciado": "Paciente masculino, 65 anos, chega ao pronto atendimento com quadro de dor e distensão abdominal há 3 dias, vômitos e parada de eliminação de gases e fezes. Têm histórico prévio de ferimento por arma branca em abdome, cirurgias abdominais posteriores para reconstrução de trânsito intestinal e hernioplastia incisional. Ao exame físico, apresenta-se hipotenso, febril e com leve taquipneia. Apresenta sinais de peritonite difusa à palpação abdominal. Toque retal com ampola retal vazia, sem demais alterações. Apresenta leucocitose importante, com desvio à esquerda e função renal alterada. Após terapêutica clínica iniciada na urgência, qual a provável hipótese diagnóstica e o tratamento adequado?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Volvo de sigmoide – laparotomia exploradora."
+    },
+    {
+     "letra": "B",
+     "texto": "Obstrução de delgado (brida) – manter tratamento clínico."
+    },
+    {
+     "letra": "C",
+     "texto": "Neoplasia de retossigmoide – colonoscopia."
+    },
+    {
+     "letra": "D",
+     "texto": "Obstrução de delgado (brida) – laparotomia exploradora."
+    },
+    {
+     "letra": "E",
+     "texto": "Colecistite aguda – colecistectomia videolaparoscópica."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169925",
+   "codigo": "4000169925",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 78,
+   "temas": [
+    "Cicatrização de Feridas",
+    "Cirurgia"
+   ],
+   "enunciado": "Em relação ao processo de cicatrização dos tecidos, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "As três fases do processo de cicatrização são: inflamação, proliferação e recuperação."
+    },
+    {
+     "letra": "B",
+     "texto": "A fase inflamatória caracteriza-se pela diminuição da permeabilidade vascular."
+    },
+    {
+     "letra": "C",
+     "texto": "Angiogênese, fibroplasia e epitelização são fenômenos encontrados na fase proliferativa."
+    },
+    {
+     "letra": "D",
+     "texto": "A força tênsil da ferida é diretamente proporcional ao acúmulo de plaquetas na ferida."
+    },
+    {
+     "letra": "E",
+     "texto": "O colágeno produzido pelas plaquetas é, inicialmente, responsável pela resistência da cicatriz."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q078-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000169924",
+   "codigo": "4000169924",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 79,
+   "temas": [
+    "Nutrição em Cirurgia e Recuperação PósOperatória",
+    "Cirurgia"
+   ],
+   "enunciado": "As fístulas digestivas são condições associadas a significativa morbimortalidade. Nesse contexto, a terapia nutricional representa intervenção terapêutica importante para o manejo dessa patologia. É correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "fístulas de intestino grosso, de baixo débito, podem ser manejadas com dieta enteral com baixo teor de resíduos, além dos cuidados clínicos habituais."
+    },
+    {
+     "letra": "B",
+     "texto": "a ingestão de dieta via oral não contribui para o aumento do débito das fístulas digestivas altas."
+    },
+    {
+     "letra": "C",
+     "texto": "é favorável ao fechamento espontâneo das fístulas digestivas o débito superior a 500 mL e trajeto fistuloso curto."
+    },
+    {
+     "letra": "D",
+     "texto": "deve-se indicar de rotina a administração de albumina humana associada à dieta parenteral em pacientes com fístula digestiva."
+    },
+    {
+     "letra": "E",
+     "texto": "pacientes instáveis hemodinamicamente, em uso de drogas vasoativas em doses altas, podem se beneficiar do uso de dieta enteral via sonda nasoenteral."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169923",
+   "codigo": "4000169923",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 80,
+   "temas": [
+    "Cirurgia",
+    "Pancreatite Aguda"
+   ],
+   "enunciado": "A pancreatite aguda é uma das etiologias mais comuns de abdome agudo nos atendimentos de urgência. Sobre essa patologia, é correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a hipertrigliceridemia é a principal etiologia de pancreatite aguda."
+    },
+    {
+     "letra": "B",
+     "texto": "a maioria dos casos de pancreatite aguda pode ser classificada como grave."
+    },
+    {
+     "letra": "C",
+     "texto": "nas formas graves, pode haver aumento da glicemia e queda da calcemia."
+    },
+    {
+     "letra": "D",
+     "texto": "o tratamento da pancreatite aguda envolve necrosectomia pancreática na maioria dos casos."
+    },
+    {
+     "letra": "E",
+     "texto": "os critérios ultrassonográficos de Balthazar são úteis para predizer a mortalidade da doença."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169922",
+   "codigo": "4000169922",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 81,
+   "temas": [
+    "Epidemiologia",
+    "Inf ectologia"
+   ],
+   "enunciado": "Paciente de 76 anos, morador de casa de repouso, apresenta quadro de tosse, febre e expectoração produtiva há dois dias. Está confuso, com frequência respiratória aumentada, assim como a função renal está diminuída. No RX de tórax é possível identi car a presença de derrame pleural. Com relação ao tratamento e à mortalidade, pode-se a rmar que o paciente",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "pode ser tratado ambulatoriamente, tendo uma média aproximada de 1,5% de mortalidade."
+    },
+    {
+     "letra": "B",
+     "texto": "pode ser tratado ambulatoriamente, tendo uma média aproximada de 3,6% de mortalidade."
+    },
+    {
+     "letra": "C",
+     "texto": "deve ser internado na enfermaria, tendo uma média aproximada de 9,25% de mortalidade."
+    },
+    {
+     "letra": "D",
+     "texto": "deve ser internado na UTI, tendo uma média aproximada de 22% de mortalidade."
+    },
+    {
+     "letra": "E",
+     "texto": "deve ser internado na semi-intensiva, tendo uma média aproximada de 12,3% de mortalidade."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q081-1.jpg",
+     "antes_das_alternativas": false
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000169921",
+   "codigo": "4000169921",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 82,
+   "temas": [
+    "Reumatologia",
+    "Exames complementares"
+   ],
+   "enunciado": "Paciente, 74 anos, apresenta quadro de osteoartrite. O líquido sinovial mais provável de ser encontrado é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "cor clara, alta viscosidade, 4000 leucócitos mm³, com 35% de polimorfonucleares."
+    },
+    {
+     "letra": "B",
+     "texto": "cor clara, alta viscosidade, 2000 leucócitos mm³, com 21% de polimorfonucleares."
+    },
+    {
+     "letra": "C",
+     "texto": "cor amarelada, baixa viscosidade, 42100 leucócitos mm³, com 64% de polimorfonucleares."
+    },
+    {
+     "letra": "D",
+     "texto": "cor amarelada, variável viscosidade, 86000 leucócitos mm³, com 84% de polimorfonucleares."
+    },
+    {
+     "letra": "E",
+     "texto": "cor vermelha, variável viscosidade, 5600 leucócitos mm³, com 57% de polimorfonucleares."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169920",
+   "codigo": "4000169920",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 83,
+   "temas": [
+    "Inf ectologia",
+    "Indicações",
+    "Prevenção"
+   ],
+   "enunciado": "Em 2021, ocorreram casos de raiva humana no Brasil. O atual protocolo de pro laxia do Ministério da Saúde recomenda que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "acidentes graves com gato desaparecido após a agressão devem receber imediatamente soro e 5 doses de vacina."
+    },
+    {
+     "letra": "B",
+     "texto": "acidentes leves com animais silvestres devem receber 4 doses de vacina."
+    },
+    {
+     "letra": "C",
+     "texto": "o intervalo de aplicação da vacina para os acidentes leves deve ser de 3, 7, 14 e 21 dias."
+    },
+    {
+     "letra": "D",
+     "texto": "o animal doméstico de interesse econômico ou de produção seja observado por cinco dias."
+    },
+    {
+     "letra": "E",
+     "texto": "contato indireto deve ser tratado com uma única dose de vacina."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169919",
+   "codigo": "4000169919",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 84,
+   "temas": [
+    "Inf ectologia",
+    "Manif estações clínicas"
+   ],
+   "enunciado": "Paciente de 18 anos apresenta quadro de mal-estar, mialgia, cefaleia e febre há dois dias. Hoje, veio à unidade de saúde apresentando exantema maculopapular, de evolução centrípeta e predomínio nos membros inferiores. O quadro mais provável a ser considerado neste momento é o de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "dengue."
+    },
+    {
+     "letra": "B",
+     "texto": "febre maculosa."
+    },
+    {
+     "letra": "C",
+     "texto": "sarampo."
+    },
+    {
+     "letra": "D",
+     "texto": "mononucleose."
+    },
+    {
+     "letra": "E",
+     "texto": "leptospirose."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q084-1.jpg",
+     "antes_das_alternativas": false
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000169918",
+   "codigo": "4000169918",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 85,
+   "temas": [
+    "Hipertensão Arterial Sistêmica HAS"
+   ],
+   "enunciado": "Considerando-se a hipertensão arterial, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O mecanismo da ação anti-hipertensiva dos bloqueadores de canal de cálcio relaciona-se inicialmente a seus efeitos natriuréticos, com a diminuição do volume circulante e do volume extracelular."
+    },
+    {
+     "letra": "B",
+     "texto": "Os principais efeitos adversos dos inibidores da enzima conversora da angiotensina são fraqueza, câimbras, hipovolemia e disfunção erétil."
+    },
+    {
+     "letra": "C",
+     "texto": "Os efeitos bem definidos dos alfabloqueadores são diminuição da atividade simpática e do reflexo dos barorreceptores."
+    },
+    {
+     "letra": "D",
+     "texto": "As classes de anti-hipertensivas atualmente consideradas como monoterapia inicial são exclusivamente a dos diuréticos tiazídicos e betabloqueadores."
+    },
+    {
+     "letra": "E",
+     "texto": "A monoterapia no tratamento da hipertensão arterial está indicada em pacientes com PA 130-139/85-89 mmHg de risco cardiovascular alto."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169917",
+   "codigo": "4000169917",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 86,
+   "temas": [
+    "Biomarcadores",
+    "Cardiologia"
+   ],
+   "enunciado": "Considerando-se os marcadores bioquímicos da lesão cardíaca, assinale e alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A elevação dos níveis de troponina I no soro ocorre entre 3 e 12 horas após a dor precordial, atinge um pico em 24 – 48 horas e permanece elevada por 5 a 10 dias após um evento isquêmico único."
+    },
+    {
+     "letra": "B",
+     "texto": "A concentração da CK-MB se eleva de 3 a 8 horas após o processo lesivo, atinge um pico em 12 horas e normaliza em 72 horas após um episódio único e limitado."
+    },
+    {
+     "letra": "C",
+     "texto": "A determinação no soro da mioglobina pode ser útil para descartar o diagnóstico de infarto agudo do miocárdio, uma vez que possui elevado valor preditivo positivo."
+    },
+    {
+     "letra": "D",
+     "texto": "A determinação da creatina quinase total é recomendada para o diagnóstico de infarto do miocárdio sem elevação do segmento ST, por causa da ampla distribuição nos tecidos cardíacos."
+    },
+    {
+     "letra": "E",
+     "texto": "Desidrogenase láctica total e suas isoenzimas podem ainda ser utilizadas para complementação diagnóstica em casos de angina instável."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169916",
+   "codigo": "4000169916",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 87,
+   "temas": [
+    "Bradiarritmias"
+   ],
+   "enunciado": "Paciente de 68 anos apresenta quadro progressivo de dispneia. Hoje, apresentou quadro de tontura seguida de síncope. O traçado do ECG está a seguir: Nesse momento, com relação ao diagnóstico e à respectiva conduta, é correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "bradicardia sinusal, dopamina em infusão contínua."
+    },
+    {
+     "letra": "B",
+     "texto": "bloqueio atrioventricular de 1º grau, bolus de atropina."
+    },
+    {
+     "letra": "C",
+     "texto": "bloqueio atrioventricular de 2º grau Mobitz I, bolus de atropina."
+    },
+    {
+     "letra": "D",
+     "texto": "bloqueio atrioventricular de 2º grau Mobitz II, colocação de marca-passo externo."
+    },
+    {
+     "letra": "E",
+     "texto": "bloqueio atrioventricular, colocação de marca-passo externo."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q087-1.jpg",
+     "antes_das_alternativas": true
+    },
+    {
+     "arquivo": "imagens/q087-2.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000169915",
+   "codigo": "4000169915",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 88,
+   "temas": [
+    "Neurologia",
+    "Trombólise Endovenosa"
+   ],
+   "enunciado": "Tratamento da Fase Aguda do Acidente Vascular Cerebral Isquêmico Considerando-se a trombólise no acidente vascular cerebral, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A dosagem plena deve ser ministrada em bolus em meia hora."
+    },
+    {
+     "letra": "B",
+     "texto": "A tomografia de controle deve ser realizada a cada 6 horas pós-finalização da trombólise, nas primeiras 24 horas."
+    },
+    {
+     "letra": "C",
+     "texto": "A pressão arterial deve ser mantida < 180 x 105 mmHg durante e/ou após a trombólise."
+    },
+    {
+     "letra": "D",
+     "texto": "A introdução de aspirina deve ocorrer em até 1 hora pós-finalização da trombólise."
+    },
+    {
+     "letra": "E",
+     "texto": "A introdução de enoxaparina deve ocorrer em até 6 horas pós-finalização da trombólise."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169914",
+   "codigo": "4000169914",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 89,
+   "temas": [
+    "Clínica Médica",
+    "Hepatite C",
+    "Hepatologia"
+   ],
+   "enunciado": "Considerando-se a hepatite tipo C, pode-se afirmar que o HCV-RNA e",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "teste de triagem do quadro agudo."
+    },
+    {
+     "letra": "B",
+     "texto": "teste de triagem de quadro cronificado."
+    },
+    {
+     "letra": "C",
+     "texto": "quantificar a carga viral na fase aguda da doença."
+    },
+    {
+     "letra": "D",
+     "texto": "correlacionar os níveis das transaminases durante o tratamento."
+    },
+    {
+     "letra": "E",
+     "texto": "caracterizar a presença da transmissão vertical."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169913",
+   "codigo": "4000169913",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 90,
+   "temas": [
+    "Tumores Hepáticos Malignos",
+    "Cirurgia"
+   ],
+   "enunciado": "A alfafetoproteína tem sua principal indicação na identi cação de hepatocarcinoma e câncer testicular, havendo limitação do seu uso no caso concomitante de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "tabagistas."
+    },
+    {
+     "letra": "B",
+     "texto": "hepatite crônica."
+    },
+    {
+     "letra": "C",
+     "texto": "calculose renal."
+    },
+    {
+     "letra": "D",
+     "texto": "endometriose."
+    },
+    {
+     "letra": "E",
+     "texto": "hipertireoidismo."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q090-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000169912",
+   "codigo": "4000169912",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 91,
+   "temas": [
+    "Trombolítico",
+    "Pneumologia"
+   ],
+   "enunciado": "Paciente de 26 anos de idade, curada recentemente de covid-19, chega ao departamento de emergência após apresentar quadro de síncope. Saturação de entrada 84%, sem melhora com oxigênio suplementar. Durante o procedimento de intubação orotraqueal, evolui para parada cardiorrespiratória em atividade elétrica sem pulso. Após um ciclo de reanimação, 500 mL de soro siológico e uma ampola de adrenalina endovenosa, paciente apresenta ritmo sinusal, sem pressão arterial aferível, com pulso carotídeo cheio, pupilas foto reagentes e isocóricas. O ECG a seguir. Nesse momento, recomenda-se",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "introduzir clexane dose plena."
+    },
+    {
+     "letra": "B",
+     "texto": "introduzir heparina não fracionada em dose plena."
+    },
+    {
+     "letra": "C",
+     "texto": "introduzir rivaroxabana."
+    },
+    {
+     "letra": "D",
+     "texto": "introduzir aspirina e clopidogrel."
+    },
+    {
+     "letra": "E",
+     "texto": "iniciar trombólise com alteplase."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [
+    {
+     "arquivo": "imagens/q091-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000169911",
+   "codigo": "4000169911",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 92,
+   "temas": [
+    "Diagnóstico das síndromes mielodisplásicas SMD",
+    "Introdução às leucemias agudas"
+   ],
+   "enunciado": "Paciente de 64 anos de idade procura atendimento médico na Unidade Básica de Saúde, com queixa de astenia progressiva há quatro meses e episódios eventuais de sangramento nasal. Nega comorbidades e uso de medicações. PA 110 x 75 mmHg, FC 102 bpm, FR 20 ipm, palidez com mucosas hipocoradas (++/4+). Hemoglobina 8,9 g/dL (12 a 14 g/dL), hematócrito 27% (36 a 42%), VCM 64 fL (80 a 100 fL), HCM 21 pg (27 a 32 pg), RDW 18% (11,5 a 15%); leucograma normal e plaquetas em 75.600/µL (150 – 400 mil/µL). Neste momento, recomenda-se a realização de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "colonoscopia e endoscopia."
+    },
+    {
+     "letra": "B",
+     "texto": "mielograma."
+    },
+    {
+     "letra": "C",
+     "texto": "dosagem de ácido fólico."
+    },
+    {
+     "letra": "D",
+     "texto": "dosagem de vitamina B12."
+    },
+    {
+     "letra": "E",
+     "texto": "pesquisa de sangue oculto nas fezes."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q092-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000169910",
+   "codigo": "4000169910",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 93,
+   "temas": [
+    "Sumário dos Tóxicos e Antídotos"
+   ],
+   "enunciado": "A correta correlação entre tóxico e antídoto é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "metanol e etilenoglicol."
+    },
+    {
+     "letra": "B",
+     "texto": "opioide e flumazenil."
+    },
+    {
+     "letra": "C",
+     "texto": "benzodiazepínico e naloxona."
+    },
+    {
+     "letra": "D",
+     "texto": "cianeto e hidroxicobalamina."
+    },
+    {
+     "letra": "E",
+     "texto": "betabloqueador e gluconato de cálcio."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169909",
+   "codigo": "4000169909",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 94,
+   "temas": [
+    "Emergências Pediátricas",
+    "Cirurgia"
+   ],
+   "enunciado": "Com relação ao afogamento, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A hospitalização é recomendada para todos os pacientes com um grau de afogamento de dois a seis."
+    },
+    {
+     "letra": "B",
+     "texto": "Aqueles classificados como grau um devem obrigatoriamente receber oxigênio por cânula por até 2 horas após o afogamento."
+    },
+    {
+     "letra": "C",
+     "texto": "Graus dois e três em mais de 80% das vezes há presença de edema agudo de pulmão, que deve ser tratado com ventilação não invasiva."
+    },
+    {
+     "letra": "D",
+     "texto": "Nos casos classificados como cinco e seis, o uso de vasopressor deve ser evitado, visto que podem desencadear quadro de laringoespasmo."
+    },
+    {
+     "letra": "E",
+     "texto": "Presença de tosse já determina a colocação do paciente em posição de recuperação por, ao menos, meia hora."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169908",
+   "codigo": "4000169908",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 95,
+   "temas": [
+    "Avaliação Inicial Vias aéreas Ventilação e Choque",
+    "Cirurgia"
+   ],
+   "enunciado": "Considerando a classificação START (",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Os critérios obrigatoriamente avaliados são: frequência cardíaca, frequência respiratória e estado de consciência."
+    },
+    {
+     "letra": "B",
+     "texto": "Vítima considerada preta é aquela em óbito e/ou agônica."
+    },
+    {
+     "letra": "C",
+     "texto": "O médico que realiza a triagem deve obrigatoriamente proceder à aplicação de torniquetes em vítimas com ferimentos arteriais exsanguinantes."
+    },
+    {
+     "letra": "D",
+     "texto": "A abordagem da via aérea de vítimas a ser realizada exclusivamente com máscara ou tubo laríngeo, de mais fácil aplicação neste cenário."
+    },
+    {
+     "letra": "E",
+     "texto": "As vítimas são classificadas em cinco cores em função de sua gravidade: preta, vermelha, amarela, azul e verde."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q095-1.jpg",
+     "antes_das_alternativas": false
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000169907",
+   "codigo": "4000169907",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 96,
+   "temas": [
+    "Metas de controle glicêmico"
+   ],
+   "enunciado": "São metas de controle glicêmico estabelecidas para indivíduos adultos no Brasil:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "glicemia pré-prandial < 115 mg/dL, glicemia pós-prandial < 160 mg/dL e HbA1c < 7%."
+    },
+    {
+     "letra": "B",
+     "texto": "glicemia pré-prandial < 110 mg/dL, glicemia pós-prandial < 160 mg/dL e HbA1c < 7%."
+    },
+    {
+     "letra": "C",
+     "texto": "glicemia pré-prandial < 100 mg/dL, glicemia pós-prandial < 140 mg/dL e HbA1c < 6,5%."
+    },
+    {
+     "letra": "D",
+     "texto": "glicemia pré-prandial < 100 mg/dL, glicemia pós-prandial < 135 mg/dL e HbA1c < 7%."
+    },
+    {
+     "letra": "E",
+     "texto": "glicemia pré-prandial < 130 mg/dL, glicemia pós-prandial < 130 mg/dL e HbA1c < 6,5%."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169906",
+   "codigo": "4000169906",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 97,
+   "temas": [
+    "Critérios diagnósticos de síndrome metabólica"
+   ],
+   "enunciado": "Segundo os critérios brasileiros, a Síndrome Metabólica ocorre quando estão presentes três dos cinco critérios a seguir: I. Obesidade central – circunferência da cintura superior a 100 cm nas mulheres e nos homens; II. Hipertensão arterial – pressão arterial sistólica ≥ 130 e/ou pressão arterial diastólica 85 mmHg; III. Glicemia alterada (glicemia ≥ 110 mg/dL) ou diagnóstico de diabetes; IV. Triglicerídeos ≥ 140 mg/dL; V. HDL colesterol < 40 mg/dL em homens e < 50 mg/dL em mulheres. Estão corretos:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I, II e III."
+    },
+    {
+     "letra": "B",
+     "texto": "II, III e V."
+    },
+    {
+     "letra": "C",
+     "texto": "II, IV e V."
+    },
+    {
+     "letra": "D",
+     "texto": "I, IV e V."
+    },
+    {
+     "letra": "E",
+     "texto": "II, III e IV."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169905",
+   "codigo": "4000169905",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 98,
+   "temas": [
+    "Inf ectologia",
+    "Escorpionismo"
+   ],
+   "enunciado": "Com relação aos acidentes escorpiônicos, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A realização de bloqueio anestésico está contraindicada em crianças menores de 10 anos."
+    },
+    {
+     "letra": "B",
+     "texto": "A aplicação do soro antiescorpiônico está indicada nos casos leves, moderados e graves, em pacientes acima de 65 anos."
+    },
+    {
+     "letra": "C",
+     "texto": "Acidentes escorpiônicos têm sua notificação compulsória obrigatória ao Ministério da Saúde nas primeiras 24 horas."
+    },
+    {
+     "letra": "D",
+     "texto": "As picadas atingem predominantemente os membros inferiores, pernas e pés."
+    },
+    {
+     "letra": "E",
+     "texto": "Casos graves e óbitos são mais frequentes em crianças de 0 a 10 anos e em idosos, principalmente quando causados pela espécie"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [
+    {
+     "arquivo": "imagens/q098-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000169904",
+   "codigo": "4000169904",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 99,
+   "temas": [
+    "Cirurgia",
+    "Agentes Anestésicos"
+   ],
+   "enunciado": "Considere que as drogas para sedação e analgesia foram muito utilizadas durante o período da pandemia da covid-19. A esse respeito, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O início da ação do etomidato é imediato (15 – 45 segundos)."
+    },
+    {
+     "letra": "B",
+     "texto": "A duração do efeito da quetamina é, em geral, de 30 a 60 minutos."
+    },
+    {
+     "letra": "C",
+     "texto": "A infusão do fentanil deve ocorrer em até 10 minutos após a indução."
+    },
+    {
+     "letra": "D",
+     "texto": "O uso do midazolam está indicado quando se deseja o máximo de sedação."
+    },
+    {
+     "letra": "E",
+     "texto": "O propofol é a única droga que pode causar sedação e analgesia com manutenção da respiração espontânea."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169903",
+   "codigo": "4000169903",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "FMABC 2022",
+   "numero": 100,
+   "temas": [
+    "Eletrocardiograma"
+   ],
+   "enunciado": "Paciente de 65 anos de idade, hipertenso e diabético, faz uso diário de metformina, atenolol e anti-inflamatório não hormonal para osteoartose de coluna. Refere há 1 semana estar com quadro de dor torácica e cansaço. Hoje, iniciou quadro de falta de ar e vômitos. A pressão arterial encontra-se em 170 x 120 mmHg, a frequência respiratória em 24 ipm. Ele está afebril e a saturação em ar ambiente é de 94%. O ECG a seguir. Nesse momento, recomenda(m)-se Respostas: 1 12 23 34 45 56 67 78 89 100",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "introduzir aspirina, clopidogrel e realizar trombólise com alteplase."
+    },
+    {
+     "letra": "B",
+     "texto": "introduzir aspirina, clopidogrel, enoxaparina e realizar trombólise com alteplase."
+    },
+    {
+     "letra": "C",
+     "texto": "introduzir aspirina, clopidogrel e realizar angioplastia primária."
+    },
+    {
+     "letra": "D",
+     "texto": "introduzir gluconato de cálcio."
+    },
+    {
+     "letra": "E",
+     "texto": "realizar angioplastia primária."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q100-1.jpg",
+     "antes_das_alternativas": true
+    },
+    {
+     "arquivo": "imagens/q100-2.jpg",
+     "antes_das_alternativas": false
+    }
+   ],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": []
+}

@@ -39,4 +39,30 @@ describe('Backup Validation (src/core/backup.ts)', () => {
     expect(res.valid).toBe(false);
     expect(res.error).toContain('não contém dados reconhecíveis');
   });
+
+  it('mantém as tentativas de questões quando o backup as contém', () => {
+    const json = JSON.stringify({
+      version: 1,
+      data: {
+        progress: [],
+        questionAttempts: [
+          { id: 1, questionId: 'q1', materia: 'cardiologia', date: '2026-10-25', answeredAt: 1, chosen: 'A', correct: true },
+        ],
+      },
+    });
+    const res = validateBackupJson(json);
+    expect(res.valid).toBe(true);
+    expect(res.backup?.data.questionAttempts).toHaveLength(1);
+  });
+
+  it('backup antigo, sem tentativas, deixa o campo ausente (não apaga as atuais)', () => {
+    const res = validateBackupJson(JSON.stringify({ data: { progress: [] } }));
+    expect(res.valid).toBe(true);
+    expect(res.backup?.data.questionAttempts).toBeUndefined();
+  });
+
+  it('aceita backup que só tem tentativas de questões', () => {
+    const res = validateBackupJson(JSON.stringify({ data: { questionAttempts: [] } }));
+    expect(res.valid).toBe(true);
+  });
 });

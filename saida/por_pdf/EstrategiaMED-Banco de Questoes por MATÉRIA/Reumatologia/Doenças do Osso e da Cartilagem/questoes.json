@@ -1,0 +1,1409 @@
+{
+ "questoes": [
+  {
+   "id": "4000123520",
+   "codigo": "4000123520",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças do Osso e da Cartilagem",
+   "numero": 1,
+   "temas": [
+    "Quadro clínico",
+    "Osteoartrite OA",
+    "Exames complementares"
+   ],
+   "enunciado": "Paciente feminina, de 68 anos, veio à consulta por dor articular nos dedos das mãos há 6 meses, associada à rigidez matinal de 20 minutos nas mesmas articulações. Referiu que a mãe tinha um \"\"reumatismo\"\" nas mãos. Negou história familiar de outras doenças. A paciente trouxe os resultados de alguns exames: velocidade de hemossedimentação de 32 mm e fator reumatoide de 18 UI (valor de referência: até 14 UI). Ao exame físico, foi constatado aumento de volume nas articulações interfalangianas proximais e distais simetricamente. O diagnóstico mais provável é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "artrite reumatoide."
+    },
+    {
+     "letra": "B",
+     "texto": "artrite psoriásica."
+    },
+    {
+     "letra": "C",
+     "texto": "artrite pós-viral."
+    },
+    {
+     "letra": "D",
+     "texto": "polimialgia reumática."
+    },
+    {
+     "letra": "E",
+     "texto": "osteoartrite."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000106884",
+   "codigo": "4000106884",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças do Osso e da Cartilagem",
+   "numero": 2,
+   "temas": [
+    "Tratamento",
+    "Osteoartrite OA",
+    "Farmacológico"
+   ],
+   "enunciado": "Qual a droga de primeira escolha para osteoartrite?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Paracetamol."
+    },
+    {
+     "letra": "B",
+     "texto": "Hidroxicoroquina."
+    },
+    {
+     "letra": "C",
+     "texto": "Naproxeno."
+    },
+    {
+     "letra": "D",
+     "texto": "Meladone."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000075590",
+   "codigo": "4000075590",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças do Osso e da Cartilagem",
+   "numero": 3,
+   "temas": [
+    "Epidemiologia",
+    "Reumatologia",
+    "Tratamento"
+   ],
+   "enunciado": "Uma paciente de 72 anos queixa-se em consulta ambulatorial de dor nas mãos de início há 2 anos, com rigidez matinal de aproximadamente 20 minutos. Refere que a dor é predominantemente em dedos, nega dor em punhos e que piora quando trabalha muito. Abaixo está uma foto do exame físico da paciente. Qual o provável diagnóstico da paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Osteoartrite"
+    },
+    {
+     "letra": "B",
+     "texto": "Artrite Reumatoide"
+    },
+    {
+     "letra": "C",
+     "texto": "Artrite Psoriasica"
+    },
+    {
+     "letra": "D",
+     "texto": "Espondilite anquilosante"
+    },
+    {
+     "letra": "E",
+     "texto": "Artrite gotosa"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q003-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000074954",
+   "codigo": "4000074954",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças do Osso e da Cartilagem",
+   "numero": 4,
+   "temas": [
+    "Policondrite recidivante"
+   ],
+   "enunciado": "Homem, branco, quarta década, refere vertigem acompanhada de perda auditiva, artrite assimétrica de pequenas, médias e grandes articulações com resolução espontânea; orelha eritematosa, edemaciada e hipersensível poupando seu lóbulo. Evoluiu com rinorreia, obstrução nasal, epistaxe, deformidade do nariz em sela e dispneia por traqueomalácia, com colapso traqueal. A hipótese diagnóstica mais provável é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "policondrite recidivante"
+    },
+    {
+     "letra": "B",
+     "texto": "leishmaniose"
+    },
+    {
+     "letra": "C",
+     "texto": "granulomatose com poliangeite"
+    },
+    {
+     "letra": "D",
+     "texto": "granulomatose eosinofílica com poliangeite"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000040897",
+   "codigo": "4000040897",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças do Osso e da Cartilagem",
+   "numero": 5,
+   "temas": [
+    "Quadro clínico",
+    "Osteoartrite OA",
+    "Exames complementares"
+   ],
+   "enunciado": "São achados característicos da Osteoartrite, EXCETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Fator Reumatoide positivo"
+    },
+    {
+     "letra": "B",
+     "texto": "Esclerose subcondral"
+    },
+    {
+     "letra": "C",
+     "texto": "Rigidez matinal"
+    },
+    {
+     "letra": "D",
+     "texto": "Nódulos de Heberden"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000039910",
+   "codigo": "4000039910",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças do Osso e da Cartilagem",
+   "numero": 6,
+   "temas": [
+    "Tratamento",
+    "Não f armacológico",
+    "Osteoartrite OA"
+   ],
+   "enunciado": "Mulher, 52 anos, empregada doméstica. Refere dor em joelho direito e nas articulações das mãos. Relata rigidez matinal em torno de 20minutos. Refere que as dores pioravam com o frio e com o esforço físico e melhoravam com o repouso. Atualmente vem fazendo uso de diclofenaco com melhora; contudo, refere epigastralgia. Ao exame articularnotam-se nas mãos nódulos de Heberden e Bouchard e no joelho há crepitação. No momento, nenhuma articulação com sinal de sinovite. Qual a conduta mais adequada para o tratamento paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Manter diclofenaco e associar com IBP."
+    },
+    {
+     "letra": "B",
+     "texto": "Prescrever analgesia simples e fisioterapia."
+    },
+    {
+     "letra": "C",
+     "texto": "Iniciar Metotrexato associado a ácido fólico."
+    },
+    {
+     "letra": "D",
+     "texto": "Iniciar corticoide em dose imunossupressora."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000033346",
+   "codigo": "4000033346",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças do Osso e da Cartilagem",
+   "numero": 7,
+   "temas": [
+    "Tratamento",
+    "Quadro clínico",
+    "Osteoartrite OA"
+   ],
+   "enunciado": "A Osteoartrite (OA), também conhecida como Osteoartrose, representa uma falência articular com perda da cartilagem hialina, com alta prevalência em idosos e alta taxa de incapacitação. Sobre esta patologia, analise as a rmativas a seguir e marque a opção correta. I. O paracetamol é a droga de escolha inicial para controle da dor. II. Rigidez matinal maior que 1 hora e nódulos subcutâneos são critérios diagnósticos. III. Nos quadros de OA grave das mãos surgem nódulos de Heberden nas articulações interfalangianas distais e nódulos de Bouchard nas interfalangianas proximais. IV. Aplicações de glicocorticoides intra-articulares são alternativas para alguns pacientes, sendo e cazes em reduzir a dor, pelo menos temporariamente.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Estão corretas apenas as afirmativas I e III."
+    },
+    {
+     "letra": "B",
+     "texto": "Estão corretas apenas as afirmativas I, III e IV."
+    },
+    {
+     "letra": "C",
+     "texto": "Estão corretas apenas as afirmativas III e IV."
+    },
+    {
+     "letra": "D",
+     "texto": "Estão corretas apenas as afirmativas II e IV."
+    },
+    {
+     "letra": "E",
+     "texto": "Todas as afirmativas estão corretas."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000022762",
+   "codigo": "4000022762",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças do Osso e da Cartilagem",
+   "numero": 8,
+   "temas": [
+    "Quadro clínico",
+    "Osteoartrite OA"
+   ],
+   "enunciado": "Mulher de 61 anos, apresenta dor e limitação de movimento em articulações interfalangeanas distais das mãos, de forma progressiva, há cerca de quatro anos. Refere ainda, nodulações nos dedos, mais proeminentes no 3º dedo da mão, bilateralmente. História de artralgia no joelho esquerdo, sem sintomas sistêmicos, comorbidades ou traumas articulares. Considerando a imagem, o diagnóstico mais provável é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "artrite psoriásica."
+    },
+    {
+     "letra": "B",
+     "texto": "artrite reativa."
+    },
+    {
+     "letra": "C",
+     "texto": "artrite reumatoide."
+    },
+    {
+     "letra": "D",
+     "texto": "gota tofácea crônica."
+    },
+    {
+     "letra": "E",
+     "texto": "osteoartrite primária."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [
+    {
+     "arquivo": "imagens/q008-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000125567",
+   "codigo": "4000125567",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças do Osso e da Cartilagem",
+   "numero": 9,
+   "temas": [
+    "Epidemiologia",
+    "Quadro clínico",
+    "Osteoartrite OA"
+   ],
+   "enunciado": "Paciente feminina, 60 anos, apresenta quadro de dor em mãos, bilateral. Refere que acorda com sensação de dor, rigidez e parestesias e que melhora rapidamente. Consegue fazer suas atividades diárias com di culdades, por causa de dor em mãos. Ao exame: Presença de nódulos de Herberden, Bouchard. Sem artrites em mãos. Geno valgo bilateral com crepitações femuro patelar palpáveis. Sobre o caso, marque a alternativa CORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Trata-se de Artrite Reumatóide e o exame Anti CCP deve estar positivo."
+    },
+    {
+     "letra": "B",
+     "texto": "Trata-se de Osteoartrite nodal e o exame Fator Reumatóide deve estar positivo."
+    },
+    {
+     "letra": "C",
+     "texto": "Trata-se de Artrite Reumatóide e o raio X de mãos deve mostrar destruição de espaço articular em articulações metacarpofalangeanas e rádio cárpica."
+    },
+    {
+     "letra": "D",
+     "texto": "Trata-se de Osteoartrite nodal e o raio X deve mostrar destruição de espaço articular em interfalangeanas distais."
+    },
+    {
+     "letra": "E",
+     "texto": "Trata-se de Artrite Reumatóide e o exame Fator Reumatóide deve estar positivo."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000107893",
+   "codigo": "4000107893",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças do Osso e da Cartilagem",
+   "numero": 10,
+   "temas": [
+    "Tratamento",
+    "Não f armacológico",
+    "Osteoartrite OA"
+   ],
+   "enunciado": "Homem, 62 anos, refere dor em joelho direito após deambulação, há dois anos. Há quatro meses com piora da dor, tornando-se incapacitante. Etilista de 1,2 litro de cerveja por dia. Em uso de enalapril 5 mg 12/12 horas, hidroclorotiazida de 25 mg/dia e alopurinol 200 mg/dia. Exame físico: bom estado geral; IMC: 32,2 Kg/m²; varismo de joelhos; edema e calor em joelho direito, com restrição para extensão completa e presença de cisto poplíteo. Qual é a melhor conduta para a dor no joelho?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Aumentar dose de alopurinol."
+    },
+    {
+     "letra": "B",
+     "texto": "Atingir IMC abaixo de 25 kg/m²."
+    },
+    {
+     "letra": "C",
+     "texto": "Remoção cirúrgica do cisto poplíteo."
+    },
+    {
+     "letra": "D",
+     "texto": "Associar colchicina."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000085854",
+   "codigo": "4000085854",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças do Osso e da Cartilagem",
+   "numero": 11,
+   "temas": [
+    "Epidemiologia",
+    "Quadro clínico",
+    "Fatores de risco"
+   ],
+   "enunciado": "Assinale a assertiva correta sobre osteoartrite.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ombro é a articulação mais frequentemente acometida na osteoartrite primária."
+    },
+    {
+     "letra": "B",
+     "texto": "Dor articular está diretamente associada à perda de cartilagem à radiografia."
+    },
+    {
+     "letra": "C",
+     "texto": "Presença de derrame articular e de rigidez matinal de poucos minutos exclui o diagnóstico."
+    },
+    {
+     "letra": "D",
+     "texto": "História familiar positiva não é fator de risco para seu surgimento."
+    },
+    {
+     "letra": "E",
+     "texto": "Atrofia muscular está associada a maior incidência de osteoartrite de joelho."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000083586",
+   "codigo": "4000083586",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças do Osso e da Cartilagem",
+   "numero": 12,
+   "temas": [
+    "Quadro clínico",
+    "Osteoartrite OA"
+   ],
+   "enunciado": "Quais articulações estão tipicamente poupadas na osteoartrite?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tornozelo;"
+    },
+    {
+     "letra": "B",
+     "texto": "Coluna cervical;"
+    },
+    {
+     "letra": "C",
+     "texto": "Articulação interfalângica distal;"
+    },
+    {
+     "letra": "D",
+     "texto": "Quadril;"
+    },
+    {
+     "letra": "E",
+     "texto": "Joelho;"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000015924",
+   "codigo": "4000015924",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças do Osso e da Cartilagem",
+   "numero": 13,
+   "temas": [
+    "Quadro clínico",
+    "Osteoartrite OA"
+   ],
+   "enunciado": "Mulher de 55 anos se queixa de dor no joelho direito ao subir e descer as escadas da sua casa, principalmente no nal do dia. O sintoma que ocorreu há 1 ano, tem se tornado mais intenso e frequente e a faz evitar escadarias. Relata di culdade ao iniciar movimentos após períodos de inatividade que melhora à medida que insiste no movimento. Nega calor, rubor ou edema nessa articulação ou outras quaisquer. Ao exame físico, há crepitações e limitação dos movimentos ativos e passivos no joelho direito, além de derrame articular (sinal da tecla presente). Em relação a essa doença, assinale a alternativa CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Os joelhos, os cotovelos, os punhos, os ombros e os tornozelos são as articulações mais acometidas."
+    },
+    {
+     "letra": "B",
+     "texto": "A doença não cursa com rigidez matinal nas articulações acometidas."
+    },
+    {
+     "letra": "C",
+     "texto": "A instabilidade nos movimentos articulares por causa de atrofia muscular pode ocorrer."
+    },
+    {
+     "letra": "D",
+     "texto": "Os sintomas e os achados radiográficos guardam correlação clínico-radiológica."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000003111",
+   "codigo": "4000003111",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças do Osso e da Cartilagem",
+   "numero": 14,
+   "temas": [
+    "Quadro clínico",
+    "Osteoartrite OA"
+   ],
+   "enunciado": "Os nódulos de Heberden são características de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Artopatia de Jaccoud"
+    },
+    {
+     "letra": "B",
+     "texto": "Artrite psoriásica"
+    },
+    {
+     "letra": "C",
+     "texto": "Osteoartrite"
+    },
+    {
+     "letra": "D",
+     "texto": "Osteoartropatia hipertrófica"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000124508",
+   "codigo": "4000124508",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças do Osso e da Cartilagem",
+   "numero": 15,
+   "temas": [
+    "Quadro clínico",
+    "Osteoartrite OA"
+   ],
+   "enunciado": "Paciente feminina, de 65 anos, consultou na unidade básica de saúde por dor nos dedos das mãos, quadro iniciado há pelo menos 10 meses, e rigidez matinal que melhorava após realizar movimentos de abrir e fechar as mãos por cerca de 5 minutos. Nos últimos 2 anos, vinha percebendo que as articulações dos dedos estavam mais volumosas. Ao exame físico, apresentava nodulações endurecidas nas articulações interfalangianas proximais e distais. Qual a hipótese diagnóstica mais provável?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Artrite reumatoide."
+    },
+    {
+     "letra": "B",
+     "texto": "Artrite psoriásica."
+    },
+    {
+     "letra": "C",
+     "texto": "Artrite gotosa crônica."
+    },
+    {
+     "letra": "D",
+     "texto": "Pseudogota."
+    },
+    {
+     "letra": "E",
+     "texto": "Osteoartrite."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000100878",
+   "codigo": "4000100878",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças do Osso e da Cartilagem",
+   "numero": 16,
+   "temas": [
+    "Diagnóstico dif erencial das artropatias"
+   ],
+   "enunciado": "As articulações interfalangeanas distais dos dedos das mãos estão comprometidas em quais afecções?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Artrite reumatoide e espondilite anquilosante."
+    },
+    {
+     "letra": "B",
+     "texto": "Lúpus eritematoso sistêmico e polimiosite."
+    },
+    {
+     "letra": "C",
+     "texto": "Osteoartrite e artrite psoriásica."
+    },
+    {
+     "letra": "D",
+     "texto": "Artrite idiopática juvenil e doença de Still do adulto."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047070",
+   "codigo": "4000047070",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças do Osso e da Cartilagem",
+   "numero": 17,
+   "temas": [
+    "Artropatias inf lamatórias",
+    "Diagnóstico dif erencial das artropatias"
+   ],
+   "enunciado": "Mulher, 50 anos, diabética, queixa de dor nos joelhos há 3 anos. Inicialmente a dor era insidiosa e aliviava com o repouso, agora persistente e refratária aos analgésicos, com rigidez matinal de 20 minutos e rigidez articular fugaz após curtos períodos de repouso. Instabilidade do joelho especialmente ao descer escadas. No exame com crepitação nos joelhos e sinais de derrame articular. Radiogra a mostra proliferação das margens ósseas, diminuição do espaço articular e esclerose óssea subcondral. Sobre o caso, assinale a alternativa CORRETA em relação ao diagnóstico e tratamento, respectivamente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Osteoartrite, exercícios aeróbicos e contra resistência."
+    },
+    {
+     "letra": "B",
+     "texto": "Osteoartrite, corticoides sistêmicos."
+    },
+    {
+     "letra": "C",
+     "texto": "Artrite reumatoide, imunomoduladores."
+    },
+    {
+     "letra": "D",
+     "texto": "Artrite reumatoide, anti-inflamatórios não esteroides."
+    },
+    {
+     "letra": "E",
+     "texto": "Gota, alopurinol e colchicina."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119246",
+   "codigo": "4000119246",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças do Osso e da Cartilagem",
+   "numero": 18,
+   "temas": [
+    "Quadro clínico",
+    "Osteoartrite OA"
+   ],
+   "enunciado": "Mulher de 65 anos, queixa-se de dor em articulações interfalangianas proximais e distais, acompanhada de rigidez matinal de 20 minutos. Exame articular das mãos: aumento do volume da segunda e quinta Interfalangiana (IF) distal bilateral. Palpação: ausência de aumento da temperatura, presença de nódulos de consistência óssea e dor à palpação da articulação IF proximal e distal. Movimentação: diminuição da exão e extensão de segundo e quinto dedos bilateralmente. A principal hipótese é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Artrite reumatoide."
+    },
+    {
+     "letra": "B",
+     "texto": "Artrite paraneoplásica."
+    },
+    {
+     "letra": "C",
+     "texto": "Osteoartrite."
+    },
+    {
+     "letra": "D",
+     "texto": "Esclerose lateral amiotrófica."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000110808",
+   "codigo": "4000110808",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças do Osso e da Cartilagem",
+   "numero": 19,
+   "temas": [
+    "Quadro clínico",
+    "Osteoartrite OA",
+    "Exames complementares"
+   ],
+   "enunciado": "Mulher de 60 anos, com dor nas articulações interfalangeanas distais e proximais, bilateralmente, há 3 anos, de caráter progressivo. A dor piora com o uso das articulações. Ao exame físico observa-se presença de nódulos de consistência óssea nas articulações interfalangeanas distais. O exame radiológico das mãos mostra estreitamento dos espaços interarticulares, osteoesclerose subcondral, cistos subcondrais e osteófitos marginais.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "artopatia soro-negativa."
+    },
+    {
+     "letra": "B",
+     "texto": "artrite reumatoide."
+    },
+    {
+     "letra": "C",
+     "texto": "lupus eritematoso sistêmico."
+    },
+    {
+     "letra": "D",
+     "texto": "artrite gotosa."
+    },
+    {
+     "letra": "E",
+     "texto": "osteoartrose idiopática."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000093280",
+   "codigo": "4000093280",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças do Osso e da Cartilagem",
+   "numero": 20,
+   "temas": [
+    "Quadro clínico",
+    "Osteoartrite OA"
+   ],
+   "enunciado": "Entre as articulações abaixo mencionadas, a mais frequentemente acometida na osteoartrite primária é a:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tibiotalar."
+    },
+    {
+     "letra": "B",
+     "texto": "Radiocárpica."
+    },
+    {
+     "letra": "C",
+     "texto": "Glenoumeral."
+    },
+    {
+     "letra": "D",
+     "texto": "Primeira carpometacarpeana."
+    },
+    {
+     "letra": "E",
+     "texto": "Segunda metacarpofalangeana."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000093054",
+   "codigo": "4000093054",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças do Osso e da Cartilagem",
+   "numero": 21,
+   "temas": [
+    "Diagnóstico",
+    "Hiperostose esquelética idiopática dif usa DISH"
+   ],
+   "enunciado": "Homem, 68 anos, diabético, apresenta dorsolombalgia mecânica, dor em face lateral dos quadris e calcaneodinia posterior há 6 meses. Os respectivos rediogramas evidenciam osteó tos anteriores grosseiros de T10 a L3, esporões trocantéricos e posteriores de calcâneos. A eritrossedimentação é de 35 mm na primeira hora. O provável diagnóstico é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Doença por deposição de urato."
+    },
+    {
+     "letra": "B",
+     "texto": "Hiperostose idiopática difusa."
+    },
+    {
+     "letra": "C",
+     "texto": "Espondilite anquilosante."
+    },
+    {
+     "letra": "D",
+     "texto": "Polimialgia reumática."
+    },
+    {
+     "letra": "E",
+     "texto": "Artrite soronegativa."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000052008",
+   "codigo": "4000052008",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças do Osso e da Cartilagem",
+   "numero": 22,
+   "temas": [
+    "Epidemiologia",
+    "Tratamento",
+    "Quadro clínico"
+   ],
+   "enunciado": "A osteoartrite, antes denominada osteoartrose, artrose, doença articular degenerativa, entre outras, é a doença articular mais prevalente. Em relação à osteoartrite, assinale a alternativa CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A destruição cartilaginosa, com diminuição da sua espessura, traduz-se radiograficamente como esclerose subcondral."
+    },
+    {
+     "letra": "B",
+     "texto": "Anti-inflamatórios não hormonais não devem ser utilizados no tratamento da osteoartrite, pois não há evidência de sua eficácia."
+    },
+    {
+     "letra": "C",
+     "texto": "Até os 50 anos de idade, a osteoartrite de quadris é mais prevalente no sexo feminino."
+    },
+    {
+     "letra": "D",
+     "texto": "Dor, rigidez pós-repouso menor que 30 minutos, parestesias e derrame articular são sinais ou sintomas da osteoartrite."
+    },
+    {
+     "letra": "E",
+     "texto": "Nódulos de Heberden são nódulos articulares ósseos localizados nas interfalangianas proximais."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000039426",
+   "codigo": "4000039426",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças do Osso e da Cartilagem",
+   "numero": 23,
+   "temas": [
+    "Tratamento",
+    "Quadro clínico",
+    "Osteoartrite OA"
+   ],
+   "enunciado": "Em relação à osteoartrose de joelhos, assinale a alternativa CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Fortalecimento muscular associado a alongamento são medidas que devem ser implantadas desde o início do diagnóstico."
+    },
+    {
+     "letra": "B",
+     "texto": "Nos períodos de piora de dor articular devemos orientar repouso total da articulação acometida."
+    },
+    {
+     "letra": "C",
+     "texto": "O uso de anti-inflamatórios não esteroidais em altas doses em curtos períodos de tempo podem levar à melhora prolongada destes pacientes."
+    },
+    {
+     "letra": "D",
+     "texto": "O uso de antiartrósicos como a diacereína associado a analgésicos simples como paracetamol não costuma trazer benefícios em relação à dor destes pacientes."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000037820",
+   "codigo": "4000037820",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças do Osso e da Cartilagem",
+   "numero": 24,
+   "temas": [
+    "Tratamento",
+    "Não f armacológico",
+    "Osteoartrite OA"
+   ],
+   "enunciado": "Quanto ao tratamento da osteoartrite nos Idosos é INCORRETO afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Uma das principais medidas a serem aplicadas para o tratamento da osteoartrite em articulações de carga como joelhos é o controle da obesidade."
+    },
+    {
+     "letra": "B",
+     "texto": "Os exercícios para ganho de massa muscular, estabilização da articulação e manutenção da amplitude de movimento seja por técnica de fisioterapia ou hidroterapia são peças chaves no tratamento não farmacológico."
+    },
+    {
+     "letra": "C",
+     "texto": "A analgesia deve ser realizada dando preferência a medicações com menor potencial iatrogênico como analgésicos simples."
+    },
+    {
+     "letra": "D",
+     "texto": "Em caso de necessidade de uso de AINES não há necessidade de uso de protetor gástrico ou mesmo realização periódica de exames de função renal e enzimas hepáticas."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000037552",
+   "codigo": "4000037552",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças do Osso e da Cartilagem",
+   "numero": 25,
+   "temas": [
+    "Quadro clínico",
+    "Osteoartrite OA"
+   ],
+   "enunciado": "A osteoartose é a causa de dor crônica mais comum no idoso. Predomina no sexo feminino e pode afetar praticamente todas as articulações do corpo. Quais as articulações mais afetadas por esta doença?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Joelhos, mãos e vértebras."
+    },
+    {
+     "letra": "B",
+     "texto": "Joelho, ombro e cotovelo."
+    },
+    {
+     "letra": "C",
+     "texto": "Ombro, mãos e vértebras."
+    },
+    {
+     "letra": "D",
+     "texto": "Artelhos, mãos e vértebras."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000107368",
+   "codigo": "4000107368",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças do Osso e da Cartilagem",
+   "numero": 26,
+   "temas": [
+    "Tratamento",
+    "Osteoartrite OA",
+    "Farmacológico"
+   ],
+   "enunciado": "Qual o medicamento inicial para o tratamento de artrose?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Paracetamol."
+    },
+    {
+     "letra": "B",
+     "texto": "Prednisona."
+    },
+    {
+     "letra": "C",
+     "texto": "Metotrexate."
+    },
+    {
+     "letra": "D",
+     "texto": "Derivado opioide."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000085867",
+   "codigo": "4000085867",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças do Osso e da Cartilagem",
+   "numero": 27,
+   "temas": [
+    "Quadro clínico",
+    "Osteoartrite OA"
+   ],
+   "enunciado": "Assinale o mapa de envolvimento articular clássico para um paciente com osteoartrite de mãos:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Interfalangianas proximais, distais e metacarpofalangianas."
+    },
+    {
+     "letra": "B",
+     "texto": "Interfalangianas distais, primeira carpometacarpiana e punhos."
+    },
+    {
+     "letra": "C",
+     "texto": "Interfalangianas proximais, interfalangianas distais e punhos."
+    },
+    {
+     "letra": "D",
+     "texto": "Interfalangianas proximais, primeira carpometacarpiana e punho."
+    },
+    {
+     "letra": "E",
+     "texto": "Interfalangianas proximais, interfalangianas distais e primeira carpometacarpiana."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000064440",
+   "codigo": "4000064440",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças do Osso e da Cartilagem",
+   "numero": 28,
+   "temas": [
+    "Quadro clínico",
+    "Osteoartrite OA"
+   ],
+   "enunciado": "A Osteoartrite (OA) tem sido considerada uma condição degenerativa da articulação, consequência quase inevitável do envelhecimento. Com relação à osteoartrite é correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Algumas formas de osteoartrite estão fortemente vinculadas à transmissão genética como a osteoartrite cervical e a osteoartrite acrômio-clavicular."
+    },
+    {
+     "letra": "B",
+     "texto": "A rizartrose engloba o envolvimento do semilunar com o primeiro metacarpal e em menor frequência do semilunar com o escafoide."
+    },
+    {
+     "letra": "C",
+     "texto": "O alargamento de consistência rígida nas articulações interfalangianas distais e próximas são denominados nódulos de Bouchard e Heberden respectivamente."
+    },
+    {
+     "letra": "D",
+     "texto": "O quadril é uma articulação frequentemente acometida pela osteoartrite sendo mais frequentes em mulheres com envolvimento unilateral."
+    },
+    {
+     "letra": "E",
+     "texto": "Na mulher a osteoartrite inicia basicamente após os 40 anos e sua incidência aumenta significativamente após a menopausa."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000055592",
+   "codigo": "4000055592",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças do Osso e da Cartilagem",
+   "numero": 29,
+   "temas": [
+    "Tratamento",
+    "Quadro clínico",
+    "Osteoartrite OA"
+   ],
+   "enunciado": "Num paciente de 67 anos com quadro de dor articular atingindo principalmente articulações interfalangeanas distais, iniciada há alguns anos e que vem piorando. Refere melhora do quadro com repouso. Qual a alternativa correta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O quadro sugere polimialgia reumática."
+    },
+    {
+     "letra": "B",
+     "texto": "Corticosteróides são o tratamento de escolha."
+    },
+    {
+     "letra": "C",
+     "texto": "O quadro sugere gota."
+    },
+    {
+     "letra": "D",
+     "texto": "O quadro sugere artrite reumatoide."
+    },
+    {
+     "letra": "E",
+     "texto": "O quadro sugere doença degenerativa articular (osteoartrite)."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000029772",
+   "codigo": "4000029772",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças do Osso e da Cartilagem",
+   "numero": 30,
+   "temas": [
+    "Tratamento",
+    "Não f armacológico",
+    "Osteoartrite OA"
+   ],
+   "enunciado": "Homem de 58 anos com diagnóstico de osteoartrite de joelhos por critérios clínicos e radiográ cos e IMC de 33 kg/m². Nesse caso, qual a melhor medida terapêutica a longo prazo?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "AINES COX-2 seletivos."
+    },
+    {
+     "letra": "B",
+     "texto": "Injeções intra-articulares de corticoesteroide."
+    },
+    {
+     "letra": "C",
+     "texto": "Sulfato de glicosamina e condroitina."
+    },
+    {
+     "letra": "D",
+     "texto": "Perda de peso significativa."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000009436",
+   "codigo": "4000009436",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças do Osso e da Cartilagem",
+   "numero": 31,
+   "temas": [
+    "Reumatologia",
+    "Tratamento",
+    "Quadro clínico"
+   ],
+   "enunciado": "Sobre o tratamento da osteoartrose do joelho, assinale a alternativa correta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "perda de peso, ganho de movimento e analgesia são os únicos fatores não-cirúrgicos que impactam positivamente a doença"
+    },
+    {
+     "letra": "B",
+     "texto": "a artroscopia e o desbridamento da articulação são procedimentos que cientificamente apresentam bons resultados a longo prazo"
+    },
+    {
+     "letra": "C",
+     "texto": "a presença de deficiências no alinhamento e instabilidades do joelho não modifica a técnica e o tipo de implante escolhido"
+    },
+    {
+     "letra": "D",
+     "texto": "a utilização de medicações orais com metabólitos do colágeno demonstrou regeneração da cartilagem a curto prazo"
+    },
+    {
+     "letra": "E",
+     "texto": "o sucesso da artroplastia total do joelho permitiu a indicação desse procedimento para todos os pacientes com diagnóstico de osteoartrose"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000115981",
+   "codigo": "4000115981",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças do Osso e da Cartilagem",
+   "numero": 32,
+   "temas": [
+    "Quadro clínico",
+    "Osteoartrite OA"
+   ],
+   "enunciado": "Qual das seguintes articulações é tipicamente poupada na osteoartrite?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Coluna cervical."
+    },
+    {
+     "letra": "B",
+     "texto": "Tornozelo."
+    },
+    {
+     "letra": "C",
+     "texto": "Articulação interfalangeana distal."
+    },
+    {
+     "letra": "D",
+     "texto": "Quadril."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000113048",
+   "codigo": "4000113048",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças do Osso e da Cartilagem",
+   "numero": 33,
+   "temas": [
+    "Fatores de risco",
+    "Osteoartrite OA"
+   ],
+   "enunciado": "Sobre um fator de risco para o desenvolvimento da osteoartrite, assinale a alternativa incorreta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Acromegalia"
+    },
+    {
+     "letra": "B",
+     "texto": "Osteoporose"
+    },
+    {
+     "letra": "C",
+     "texto": "Pseudogota"
+    },
+    {
+     "letra": "D",
+     "texto": "Diabetes mellitus"
+    },
+    {
+     "letra": "E",
+     "texto": "Gota"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000106766",
+   "codigo": "4000106766",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças do Osso e da Cartilagem",
+   "numero": 34,
+   "temas": [
+    "Exames complementares",
+    "Quadro clínico",
+    "Etiopatogenia"
+   ],
+   "enunciado": "Mulher, 46 anos, portadora de lúpus eritematoso sistêmico há 15 anos, com repetidas reativações. Há dois anos em uso de azatioprina, com remissão parcial da atividade da doença. Quando apresenta dores articulares, faz uso de prednisona 20 a 40 mg ao dia, com melhora, Há dez meses, apresenta dor persistente em região inguinal direita, que piora ao caminhar, sem melhora com uso de corticosteroides. Antecedentes: HAS. Ao exame: Peso: 92 kg, eritema malar, alopecia leve, presença de giba e acne em face e tronco. PA 150 x 80 mmHg, FC: 90 bpm. Dor e limitação à rotação de coxa direita. Qual é o diagnóstico mais provável?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "osteoartrose."
+    },
+    {
+     "letra": "B",
+     "texto": "artrite lúpica."
+    },
+    {
+     "letra": "C",
+     "texto": "necrose avascular."
+    },
+    {
+     "letra": "D",
+     "texto": "artrite séptica."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q034-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000104948",
+   "codigo": "4000104948",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças do Osso e da Cartilagem",
+   "numero": 35,
+   "temas": [
+    "Etiopatogenia",
+    "Osteonecrose"
+   ],
+   "enunciado": "Entre as opções abaixo, assinale a alternativa que contempla as causas mais frequentes de osteonecrose no adulto:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "dislipidemia, diabete ínsipido."
+    },
+    {
+     "letra": "B",
+     "texto": "doença de Behçet, infecção por HIV."
+    },
+    {
+     "letra": "C",
+     "texto": "hemodiálise, anemia megaloblástica."
+    },
+    {
+     "letra": "D",
+     "texto": "esclerose múltipla, condições disbáricas."
+    },
+    {
+     "letra": "E",
+     "texto": "alcoolismo, corticoterapia prolongada. ida oib pr ed"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000104894",
+   "codigo": "4000104894",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças do Osso e da Cartilagem",
+   "numero": 36,
+   "temas": [
+    "Quadro clínico",
+    "Osteoartrite OA"
+   ],
+   "enunciado": "Quais são as articulações tipicamente acometidas na artrose primária generalizada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Metacarpofalangianas, mediotársicas e coluna lombar."
+    },
+    {
+     "letra": "B",
+     "texto": "Interfalangianas distais de mãos, joelhos e coluna cervical."
+    },
+    {
+     "letra": "C",
+     "texto": "Primeiras metatarsofalangianas, esternocondrais e quadris."
+    },
+    {
+     "letra": "D",
+     "texto": "Interfalangianas proximais de mãos, glenoumerais e tibiotársicas."
+    },
+    {
+     "letra": "E",
+     "texto": "Interfalangianas proximais de pés, radiocárpicas e sacroilíacas."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000074849",
+   "codigo": "4000074849",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças do Osso e da Cartilagem",
+   "numero": 37,
+   "temas": [
+    "Diagnóstico",
+    "Quadro clínico",
+    "Tratamento"
+   ],
+   "enunciado": "Uma paciente de 41 anos se apresenta a um consultório oftalmológico com queixa de olho vermelho há duas semanas. Ao exame nota-se também edema auricular violáceo doloroso, dor na topogra a do esterno e dispneia aos leves esforços. Ao teste da fenilefrina o olho mantém-se vermelho. Qual a conduta inicial para o quadro sistêmico?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "AINEs."
+    },
+    {
+     "letra": "B",
+     "texto": "Corticoesteroides tópicos."
+    },
+    {
+     "letra": "C",
+     "texto": "Corticoterapia oral em dose imunossupressora."
+    },
+    {
+     "letra": "D",
+     "texto": "Pulsoterapia com ciclofosfamida."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000074842",
+   "codigo": "4000074842",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças do Osso e da Cartilagem",
+   "numero": 38,
+   "temas": [
+    "Policondrite recidivante"
+   ],
+   "enunciado": "Uma paciente de 41 anos se apresenta a um consultório oftalmológico com queixa de olho vermelho há duas semanas. Ao exame, nota-se também edema auricular violáceo doloroso, dor na topogra a do esterno e dispneia aos leves esforços. Ao teste da fenilefrina o olho mantém-se vermelho. Qual a principal hipótese diagnóstica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Artrite reumatoide."
+    },
+    {
+     "letra": "B",
+     "texto": "Policondrite recidivante."
+    },
+    {
+     "letra": "C",
+     "texto": "Granulomatose de Wegener."
+    },
+    {
+     "letra": "D",
+     "texto": "Esclerodermia."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000009111",
+   "codigo": "4000009111",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças do Osso e da Cartilagem",
+   "numero": 39,
+   "temas": [
+    "Diagnóstico",
+    "Policondrite recidivante"
+   ],
+   "enunciado": "Paciente de 45 anos, sexo masculino, procura ambulatório de clínica médica com queixa de deformação de orelhas e nariz. Refere vários episódios de in amação dessas mesmas regiões, geralmente acompanhados de rouquidão e dores articulares difusas. Ao exame, apresenta nariz com deformação em sela e pavilhões auriculares com deformações nodulares que poupam os lobos. Qual é o diagnóstico mais provável? Respostas: 1 12 23 34",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hanseníase"
+    },
+    {
+     "letra": "B",
+     "texto": "Artrite reumatoide."
+    },
+    {
+     "letra": "C",
+     "texto": "Policondrite recidivante."
+    },
+    {
+     "letra": "D",
+     "texto": "Gota tofácea."
+    },
+    {
+     "letra": "E",
+     "texto": "Amiloidose."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": []
+}

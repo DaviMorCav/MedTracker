@@ -1,0 +1,2079 @@
+{
+ "questoes": [
+  {
+   "id": "4000184730",
+   "codigo": "4000184730",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 1,
+   "temas": [
+    "Pediatria",
+    "Diagnóstico Nutricional"
+   ],
+   "enunciado": "Criança de 1 ano e 6 meses interna na enfermaria de pediatria para tratamento de pneumonia, ao verificar seus dados antropométricos nota-se que apresenta peso para estatura maior que o escore Z+1 e menor que escore Z+2. O peso para idade se localiza no mesmo escore (maior que o escore Z+1 e menor que escore Z+2). Podemos a rmar que este paciente apresenta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Eutrofia"
+    },
+    {
+     "letra": "B",
+     "texto": "Obesidade"
+    },
+    {
+     "letra": "C",
+     "texto": "Sobrepeso"
+    },
+    {
+     "letra": "D",
+     "texto": "Risco de sobrepeso"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000183880",
+   "codigo": "4000183880",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 2,
+   "temas": [
+    "Pediatria",
+    "Diagnóstico Nutricional"
+   ],
+   "enunciado": "Criança de 4 anos de idade, sexo feminino, vem ao atendimento ambulatorial para consulta de rotina. Durante a avaliação nutricional, observam-se os seguintes índices antropométricos: escore Z peso/idade= 2,1 DP, escore Z estatura/idade= 0,5 DP, escore Z IMC/idade= 1,9 DP. De acordo com a classificação da OMS 2006, a criança tem os seguintes diagnósticos nutricionais antropométricos,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "peso adequado para a idade, baixa estatura para a idade, obesidade."
+    },
+    {
+     "letra": "B",
+     "texto": "peso adequado para a idade, baixa estatura para a idade, eutrofia."
+    },
+    {
+     "letra": "C",
+     "texto": "peso elevado para a idade, estatura adequada para a idade, risco de sobrepeso."
+    },
+    {
+     "letra": "D",
+     "texto": "peso elevado para a idade, estatura adequada para a idade, sobrepeso."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000183466",
+   "codigo": "4000183466",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 3,
+   "temas": [
+    "Pediatria",
+    "Diagnóstico Nutricional"
+   ],
+   "enunciado": "Em consulta de puericultura, a mãe de um pré-escolar masculino de 4 anos questiona ao pediatra sobre o peso atual do seu lho, pois acredita que ele está „magro dados antropométricos na curva da OMS para IMC, apropriada para sexo e idade do menor, estando este entre os percentis 85 e 97. Podemos a rmar que, de acordo com o estado nutricional, como este pré-escolar é classificado de acordo com os dados acima, sabendo que, na avaliação da altura, ele encontra-se no percentil 50?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Eutrófico"
+    },
+    {
+     "letra": "B",
+     "texto": "Peso adequado para a idade"
+    },
+    {
+     "letra": "C",
+     "texto": "Risco de sobrepeso"
+    },
+    {
+     "letra": "D",
+     "texto": "Sobrepeso"
+    },
+    {
+     "letra": "E",
+     "texto": "Obesidade"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000183377",
+   "codigo": "4000183377",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 4,
+   "temas": [
+    "Pediatria",
+    "Gráf icos OMS Classif icação nutricional"
+   ],
+   "enunciado": "O perímetro cefálico aumenta no primeiro trimestre de vida, na criança hígida nascida a termo, em cm/mês:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "0,5."
+    },
+    {
+     "letra": "B",
+     "texto": "1."
+    },
+    {
+     "letra": "C",
+     "texto": "1,5."
+    },
+    {
+     "letra": "D",
+     "texto": "2."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000183369",
+   "codigo": "4000183369",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 5,
+   "temas": [
+    "Pediatria",
+    "Diagnóstico Nutricional"
+   ],
+   "enunciado": "Paciente do sexo feminino, de 1 ano e 10 meses, apresenta 13,5 Kg de peso e IMC de 17,6. Considerando essas medidas isoladas, colocadas nos gráficos da Caderneta da Criança na Figura 3 abaixo (pontos azuis), você a classifica como apresentando peso ________ para a idade e IMC _________. Assinale a alternativa que preenche, correta e respectivamente, as lacunas do trecho acima.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "adequado – com risco de sobrepeso"
+    },
+    {
+     "letra": "B",
+     "texto": "elevado – adequado"
+    },
+    {
+     "letra": "C",
+     "texto": "adequado – adequado"
+    },
+    {
+     "letra": "D",
+     "texto": "elevado – com risco de sobrepeso"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q005-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000182777",
+   "codigo": "4000182777",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 6,
+   "temas": [
+    "Pediatria",
+    "Diagnóstico Nutricional"
+   ],
+   "enunciado": "Que cuidado, dentre os abaixo, deve-se ter ao plotar, nos gráficos contidos na Caderneta da Criança, as medidas antropométricas de uma criança de 20 meses, nascida com 35 semanas de idade gestacional (pré-termo)?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Utilizar as curvas de crescimento para prematuros."
+    },
+    {
+     "letra": "B",
+     "texto": "Utilizar as curvas de crescimento para crianças de 0-2 anos, sem ajustes."
+    },
+    {
+     "letra": "C",
+     "texto": "Utilizar as curvas de crescimento para crianças de 0-2 anos, descontando da idade cronológica 2 semanas."
+    },
+    {
+     "letra": "D",
+     "texto": "Utilizar as curvas de crescimento para crianças de 0-2 anos, descontando da idade cronológica 5 semanas."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000181300",
+   "codigo": "4000181300",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 8,
+   "temas": [
+    "Pediatria",
+    "Diagnóstico Nutricional"
+   ],
+   "enunciado": "Criança em fase escolar do sexo feminino, com 6 anos de idade, é atendida em uma consulta pediátrica de rotina. Após a antropometria, verifica-se, pela interpretação da curva de crescimento de referência, um peso para idade no escore-z: +2,03, estatura para idade no escore-z: +0,95 e índice de massa corporal no escore-z: +2,08. De acordo com os critérios vigentes do Ministério da Saúde, assinale a adequada classificação nutricional dessa criança.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Peso adequado para idade e risco para sobrepeso."
+    },
+    {
+     "letra": "B",
+     "texto": "Peso adequado para idade e risco para obesidade."
+    },
+    {
+     "letra": "C",
+     "texto": "Peso elevado para idade e risco de obesidade."
+    },
+    {
+     "letra": "D",
+     "texto": "Peso elevado para idade e sobrepeso."
+    },
+    {
+     "letra": "E",
+     "texto": "Peso elevado para idade e obesidade."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000177549",
+   "codigo": "4000177549",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 9,
+   "temas": [
+    "Pediatria",
+    "Diagnóstico Nutricional"
+   ],
+   "enunciado": "Mãe chega ao consultório médico preocupada por suspeitar que seu lho, adolescente de 12 anos, seja magro demais, além de perceber que ele é menor do que os colegas da escola. A partir da avaliação nutricional, considerando o referencial OMS 2007, foram observados os seguintes resultados para os índices antropométricos em escore Z: estatura para idade (E/I) = -1,8DP e Índice de Massa Corpórea para a Idade (IMC/I) = -2,1DP. Considerando esses dados, o adolescente tem",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "estatura adequada para idade e magreza."
+    },
+    {
+     "letra": "B",
+     "texto": "muito baixa estatura para idade e magreza."
+    },
+    {
+     "letra": "C",
+     "texto": "baixa estatura para idade e magreza acentuada."
+    },
+    {
+     "letra": "D",
+     "texto": "estatura adequada para idade e magreza acentuada."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169943",
+   "codigo": "4000169943",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 10,
+   "temas": [
+    "Diagnóstico Nutricional"
+   ],
+   "enunciado": "QUESTÃO ADAPTADA Na classificação nutricional nas crianças menores de 5 anos, recomendada pelo MS, os intervalos de escore-z para: peso adequado para a idade, quando se utiliza o índice antropométrico peso-para-idade; e eutro a, quando se utiliza o índice antropométrico peso-para-estatura, são, correta e respectivamente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "z = +1 a z = +2; z = +1 a z = +2."
+    },
+    {
+     "letra": "B",
+     "texto": "z = –2 a z = +2; z= –2 a z = +1."
+    },
+    {
+     "letra": "C",
+     "texto": "z = –1 a z= +1; z = +1 a z = +2."
+    },
+    {
+     "letra": "D",
+     "texto": "z = +2 a z = +3; z = +2 a z = +3."
+    },
+    {
+     "letra": "E",
+     "texto": "z = –1 a z = +1; z = –1 a z = +1."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000168265",
+   "codigo": "4000168265",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 11,
+   "temas": [
+    "Pediatria",
+    "Gráf icos OMS Classif icação nutricional"
+   ],
+   "enunciado": "Dois irmãos, um de 3 e outro de 6 anos, apresentaram escore Z para IMC/Idade de 1,5. Qual a classificação antropométrica do estado nutricional de ambos os irmãos?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Adequada para as duas crianças."
+    },
+    {
+     "letra": "B",
+     "texto": "Risco de sobrepeso para as duas crianças."
+    },
+    {
+     "letra": "C",
+     "texto": "Adequada para a criança de 3 anos e sobrepeso para a de 6 anos."
+    },
+    {
+     "letra": "D",
+     "texto": "Risco de sobrepeso para a criança de 3 anos e sobrepeso para a de 6 anos."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000167819",
+   "codigo": "4000167819",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 12,
+   "temas": [
+    "Pediatria",
+    "Diagnóstico Nutricional"
+   ],
+   "enunciado": "Um paciente de 2 anos e 3 meses de idade foi levado ao ambulatório de pediatria pela mãe, pois ela está preocupada com um “caroço” no pescoço do lho, que ela notou há cinco meses. Relatou que o lho é bastante ativo, que se alimenta bem, sempre ganhou peso, mas fala pouco e palavras difíceis de compreender. Ademais, há muito tempo apareceram alguns machucados no couro cabeludo dele, que o menino coça bastante e tem algumas crostas. Ao exame físico, constataram- se altura = 90 cm (escore z 0), peso = 12,300 kg (escore z entre 0 e -2), FC = 120 bpm, FR = 26 irpm e SatO2 = 97% em AA. No couro cabeludo, há várias lesões com crostas melicéricas e presença de linfonodo retroauricular medindo 1,5 cm, móvel, broelástico, indolor à palpação. Observaram-se oroscopia, dentes em bom estado, sem lesões, sem frênulo lingual, otoscopia, com membrana timpânica translúcida, sem abaulamentos ou retrações e ausculta cardíaca, BNF, RR, 2t, sem sopro. Veri caram-se, ainda, ausculta pulmonar, MVUD, sem RA, abdome, RHA+, depressível, sem megalias, indolor à palpação e genitália com testículos em bolsa escrotal e mose. Com base nesse caso clínico e nos conhecimentos médicos correlatos, julgue o item a seguir. É importante realizar investigação dos hábitos alimentares dessa criança, visto que o ideal seria estar com peso acima do escore z 0.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000166294",
+   "codigo": "4000166294",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 13,
+   "temas": [
+    "Pediatria",
+    "Diagnóstico Nutricional"
+   ],
+   "enunciado": "Menino, 4 anos e 4 meses, apresenta escore Z de estatura para idade (E/I) de + 0,86 e de Índice de Massa Corporal de + 2,78. Com esses dados, o diagnóstico nutricional é de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "risco de sobrepeso."
+    },
+    {
+     "letra": "B",
+     "texto": "sobrepeso."
+    },
+    {
+     "letra": "C",
+     "texto": "eutrofia."
+    },
+    {
+     "letra": "D",
+     "texto": "obesidade."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000166144",
+   "codigo": "4000166144",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 14,
+   "temas": [
+    "Pediatria",
+    "Diagnóstico Nutricional"
+   ],
+   "enunciado": "Uma adolescente de catorze anos de idade foi à consulta de rotina sem queixas. Refere que, durante todo o período da pandemia, permaneceu em casa, assistindo às aulas de forma com as amigas. Na avaliação pondero-estatural: peso = 68 kg e altura = 1,50 m. Com base nesse caso hipotético e na curva acima, assinale a alternativa que apresenta o diagnóstico nutricional para a adolescente.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "risco de sobrepeso"
+    },
+    {
+     "letra": "B",
+     "texto": "risco de obesidade"
+    },
+    {
+     "letra": "C",
+     "texto": "sobrepeso"
+    },
+    {
+     "letra": "D",
+     "texto": "obesidade"
+    },
+    {
+     "letra": "E",
+     "texto": "obesidade grave"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q014-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000171397",
+   "codigo": "4000171397",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 15,
+   "temas": [
+    "Gráf icos OMS Classif icação nutricional"
+   ],
+   "enunciado": "As microcefalias podem ser congênitas, presentes ao nascimento, de causa metabólica, genética ou adquirida. Qual a definição de microcefalia?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A microcefalia se define quando o perímetro craniano está abaixo de 1 Desvio Padrão (DP) para a idade e sexo."
+    },
+    {
+     "letra": "B",
+     "texto": "A microcefalia se define quando o perímetro craniano está abaixo de 2 Desvios Padrão (DP) para a idade e sexo."
+    },
+    {
+     "letra": "C",
+     "texto": "A microcefalia se define quando o perímetro craniano está abaixo de 3 Desvios Padrão (DP) para a idade e sexo."
+    },
+    {
+     "letra": "D",
+     "texto": "A microcefalia se define quando o perímetro craniano está abaixo de 4 Desvios Padrão (DP) para a idade e sexo."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000146362",
+   "codigo": "4000146362",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 16,
+   "temas": [
+    "Pediatria",
+    "Diagnóstico Nutricional"
+   ],
+   "enunciado": "Na consulta de puericultura de uma criança de 4 anos de idade, os pais não têm queixas e relatam uma alimentação adequada em quantidade e composição. O desenvolvimento neuropsicomotor está adequado, e, ao exame físico, a criança apresenta peso no escore z entre 0 e + 1, estatura entre o escore z –1 e –2, índice de massa corpórea (IMC) no escore z entre + 2 e + 3 nas curvas da Organização Mundial da Saúde para a sua idade e sexo. A classificação nutricional dessa criança é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "eutrofia e baixa estatura."
+    },
+    {
+     "letra": "B",
+     "texto": "risco para sobrepeso e baixa estatura."
+    },
+    {
+     "letra": "C",
+     "texto": "sobrepeso e estatura normal para idade."
+    },
+    {
+     "letra": "D",
+     "texto": "obesidade e baixa estatura."
+    },
+    {
+     "letra": "E",
+     "texto": "obesidade grave e estatura normal para a idade."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000146046",
+   "codigo": "4000146046",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 17,
+   "temas": [
+    "Pediatria",
+    "Diagnóstico Nutricional"
+   ],
+   "enunciado": "Mãe traz lha de 10 meses de idade à consulta e diz que está orgulhosa, pois ela come bem e todos a acham “fo nha”. Criança nascida a termo, em aleitamento materno exclusivo até os 6 meses, atualmente mantém aleitamento e alimentação complementar. Mãe nega oferta de alimentos adoçados ou industrializados e a rma que a criança “nunca está satisfeita”. Nega comorbidades conhecidas. Nega casos de obesidade ou doenças endocrinológicas na família. Ao exame: lactente sem dismor smos faciais, ativa, normocorada, hidratada, eupneica. Ausculta cardiopulmonar e exame abdominal sem alterações. Estatura: 70cm; peso: 12kg; IMC = 23 kg/m². Analisando o caso e o gráfico abaixo, responda as questões a seguir: Conforme gráfico da OMS de índice de massa corporal versus idade, qual é a classificação nutricional desta paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Sobrepeso"
+    },
+    {
+     "letra": "B",
+     "texto": "Obesidade grave"
+    },
+    {
+     "letra": "C",
+     "texto": "Obesidade"
+    },
+    {
+     "letra": "D",
+     "texto": "Eutrófica para a idadeS"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q017-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000144746",
+   "codigo": "4000144746",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 18,
+   "temas": [
+    "Diagnóstico",
+    "Desnutrição",
+    "Pediatria"
+   ],
+   "enunciado": "Qual dos índices antropométricos listados indica dé cit nutricional crônico em crianças e adolescentes, quando abaixo de dois desvios-padrão da média da população de referência para idade e sexo?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Estatura para idade."
+    },
+    {
+     "letra": "B",
+     "texto": "Indice de massa corporal para idade."
+    },
+    {
+     "letra": "C",
+     "texto": "Peso para estatura."
+    },
+    {
+     "letra": "D",
+     "texto": "Perímetro cefálico para idade."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000144553",
+   "codigo": "4000144553",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 19,
+   "temas": [
+    "Pediatria",
+    "Diagnóstico Nutricional"
+   ],
+   "enunciado": "Assinale a alternativa que apresenta a técnica correta de aferição da altura em criança maior que 2 anos",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A criança deve estar deitada sobre uma mesa antropométrica ou com o auxílio de uma régua antropométrica sobre uma superfície plana."
+    },
+    {
+     "letra": "B",
+     "texto": "A criança deve estar em pé, em balança plataforma com antropômetro ou em antropômetro de parede."
+    },
+    {
+     "letra": "C",
+     "texto": "A criança deve estar sentada, usar uma fita não distensível e passá-la pela testa, logo acima dos olhos, seguindo por cima das orelhas e pela proeminência occipital."
+    },
+    {
+     "letra": "D",
+     "texto": "A criança deve estar deitada, sendo utilizada uma fita não distensível."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000144181",
+   "codigo": "4000144181",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 20,
+   "temas": [
+    "Pediatria",
+    "Diagnóstico Nutricional"
+   ],
+   "enunciado": "Menina, 8 meses de idade, é levada à Unidade Básica de Saúde, UBS, para consulta de rotina. Nasceu de parto natural a termo, pesando 3.300g; medindo 49cm e com Perímetro Cefálico medindo 34cm. Atualmente pesa 8.000g e mede 67,5cm (escore z: em ambos, entre -1 e +1). Está em aleitamento materno exclusivo. Considerando a velocidade de crescimento esperada para o Perímetro Cefálico, especi que qual deve ser, aproximadamente, o valor atual, nessa criança.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "40 cm"
+    },
+    {
+     "letra": "B",
+     "texto": "42 cm"
+    },
+    {
+     "letra": "C",
+     "texto": "44 cm"
+    },
+    {
+     "letra": "D",
+     "texto": "46 cm"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000144180",
+   "codigo": "4000144180",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 21,
+   "temas": [
+    "Pediatria",
+    "Diagnóstico Nutricional"
+   ],
+   "enunciado": "Menina, 8 meses de idade, é levada à Unidade Básica de Saúde, UBS, para consulta de rotina. Nasceu de parto natural a termo, pesando 3.300g; medindo 49cm e com Perímetro Cefálico medindo 34cm. Atualmente pesa 8.000g e mede 67,5cm (escore z: em ambos, entre -1 e +1). Está em aleitamento materno exclusivo. Considerando o parâmetro “escore z”, adotado pela OMS, indique a classificação correta para o peso e a estatura dessa lactente.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ganho de peso e de estatura adequados."
+    },
+    {
+     "letra": "B",
+     "texto": "Ganho de peso e crescimento inadequados."
+    },
+    {
+     "letra": "C",
+     "texto": "Ganho de peso adequado e crescimento inadequado."
+    },
+    {
+     "letra": "D",
+     "texto": "Ganho de peso inadequado e crescimento adequado."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000140587",
+   "codigo": "4000140587",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 22,
+   "temas": [
+    "Pediatria",
+    "Diagnóstico Nutricional"
+   ],
+   "enunciado": "Criança do sexo masculino, 6 anos de idade, chega à consulta pediátrica com a mãe preocupada por achar que seu lho não está nutricionalmente equilibrado. Ao serem verificadas as medidas antropométricas, foram observados os seguintes parâmetros: escore Z Peso/Idade = 2,1 DP, escore Z Estatura/Idade = -1,7 DP e escore Z índice de Massa Corpórea/Idade = 2,3 DP. De acordo com a classificação da OMS (Organização Mundial da Saúde), os diagnósticos nutricionais antropométricos dessa criança são",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "peso elevado para a idade, estatura adequada para a idade e obesidade."
+    },
+    {
+     "letra": "B",
+     "texto": "peso adequado para a idade, baixa estatura para a idade e sobrepeso."
+    },
+    {
+     "letra": "C",
+     "texto": "peso elevado para a idade, estatura adequada para a idade e obesidade grave."
+    },
+    {
+     "letra": "D",
+     "texto": "peso adequado para a idade, baixa estatura para a idade e eutrofia."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000137963",
+   "codigo": "4000137963",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 23,
+   "temas": [
+    "Pediatria",
+    "Gráf icos OMS Classif icação nutricional"
+   ],
+   "enunciado": "Na consulta de 4 anos de idade, Susi pesou 17,8 kg (escore-z entre 0 e +1), mediu 99 cm (escore-z entre −1 e 0). O escore- z do peso para estatura e o do IMC estavam entre +1 e +2. Segundo o Ministério da Saúde, a classificação nutricional de Susi é.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "eutrofia."
+    },
+    {
+     "letra": "B",
+     "texto": "magreza."
+    },
+    {
+     "letra": "C",
+     "texto": "obesidade."
+    },
+    {
+     "letra": "D",
+     "texto": "sobrepeso."
+    },
+    {
+     "letra": "E",
+     "texto": "risco de sobrepeso."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000129756",
+   "codigo": "4000129756",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 24,
+   "temas": [
+    "Diagnóstico Nutricional"
+   ],
+   "enunciado": "Considere uma escolar, 6 anos e 3 meses, sexo feminino, que apresenta estatura 109 cm (escore Z – 1,45), peso 21,5 kg (escore Z + 0,25), e Índice de Massa Corpórea 18,1 kg/m² (escore Z + 1,49). Assinale a alternativa que apresenta adotados pelo Ministério da Saúde do Brasil.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Estatura adequada para idade; Peso adequado para idade; Eutrofia."
+    },
+    {
+     "letra": "B",
+     "texto": "Baixa estatura para idade; Peso adequado para idade; Obesidade."
+    },
+    {
+     "letra": "C",
+     "texto": "Baixa estatura para idade; Peso elevado para idade; Risco de sobrepeso."
+    },
+    {
+     "letra": "D",
+     "texto": "Estatura adequada para idade; Peso elevado para idade; Sobrepeso."
+    },
+    {
+     "letra": "E",
+     "texto": "Estatura adequada para idade; Peso adequado para idade; Sobrepeso."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000124381",
+   "codigo": "4000124381",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 25,
+   "temas": [
+    "Avaliação do Crescimento"
+   ],
+   "enunciado": "Lucas, 1 ano e 6 meses, vem para consulta pediátrica de rotina. A mãe queixa-se que seu lho “não come e não dorme”. Na antropometria: Peso: 11,5 kg (Z = 0,28); Altura: 78 cm (Z = - 1,9); IMC: 18,9 (Z = 1,9). Assinale a alternativa CORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Peso adequado, eutrofia com altura adequada."
+    },
+    {
+     "letra": "B",
+     "texto": "Peso adequado, eutrofia com baixa estatura."
+    },
+    {
+     "letra": "C",
+     "texto": "Peso elevado, risco de sobrepeso com estatura adequada."
+    },
+    {
+     "letra": "D",
+     "texto": "Peso elevado, obesidade com estatura adequada."
+    },
+    {
+     "letra": "E",
+     "texto": "Peso adequado, risco de sobrepeso com estatura adequada."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119880",
+   "codigo": "4000119880",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 26,
+   "temas": [
+    "Diagnóstico Nutricional"
+   ],
+   "enunciado": "Paciente do sexo feminino, 9 anos de idade, é levada à Unidade Básica de Saúde para uma avaliação de rotina. A mãe está preocupada porque acha que a criança está comendo muito e engordando neste último ano. Nega outros problemas de saúde. Ao exame físico, paciente apresenta: Peso de 42 kg, entre o escore z 2 e 3 da curva da OMS, 2007. Estatura de 1,44 m, entre o escore z 1 e 2 da curva da OMS, 2007. Índice de Massa Corpórea (IMC) de 20,25, entre o escore z 1 e 2 da curva da OMS, 2007. Desenvolvimento puberal: M2 P1 pelos critérios de Tanner. A classificação nutricional dessa paciente é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Peso adequado para a idade, por estar no início da puberdade."
+    },
+    {
+     "letra": "B",
+     "texto": "Obesidade, por apresentar o peso entre o escore z 2 e 3."
+    },
+    {
+     "letra": "C",
+     "texto": "Obesidade, por apresentar o percentil do peso maior que o da altura."
+    },
+    {
+     "letra": "D",
+     "texto": "Alta estatura, por apresentar a estatura entre o escore z 1 e 2."
+    },
+    {
+     "letra": "E",
+     "texto": "Sobrepeso, por apresentar IMC entre o escore z 1 e 2."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119505",
+   "codigo": "4000119505",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 27,
+   "temas": [
+    "Avaliação do Crescimento"
+   ],
+   "enunciado": "Escore z é bastante utilizado em algumas áreas, em particular em nutrição. O que é o escore z?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A variância da população."
+    },
+    {
+     "letra": "B",
+     "texto": "O número de erros padrão a partir da média da população."
+    },
+    {
+     "letra": "C",
+     "texto": "A média da população."
+    },
+    {
+     "letra": "D",
+     "texto": "O número de desvios padrão a partir da média da população."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000115176",
+   "codigo": "4000115176",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 28,
+   "temas": [
+    "Diagnóstico Nutricional"
+   ],
+   "enunciado": "Menino, 4 anos de idade está em consulta ambulatorial de rotina. Realizadas as medidas antropométricas e colocadas nos referenciais da OMS, com os seguintes achados: Peso: entre o percentil 97 e o percentil 99,9; Estatura: entre o percentil 85 e o percentil 97; IMC: entre o percentil 85 e o percentil 97; A classificação nutricional deste paciente é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "eutrofia."
+    },
+    {
+     "letra": "B",
+     "texto": "risco de sobrepeso."
+    },
+    {
+     "letra": "C",
+     "texto": "sobrepeso."
+    },
+    {
+     "letra": "D",
+     "texto": "obesidade."
+    },
+    {
+     "letra": "E",
+     "texto": "obesidade grave."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000104435",
+   "codigo": "4000104435",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 29,
+   "temas": [
+    "Gráf icos OMS Classif icação nutricional"
+   ],
+   "enunciado": "Utilizando os gráficos de crescimento da Organização Mundial de Saúde (OMS, 2006/2007) e considerando seus pontos de corte, escolha a alternativa correta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Paciente com 2 anos de idade com escore Z peso ≥ +2 e < +3 é considerado como obesidade."
+    },
+    {
+     "letra": "B",
+     "texto": "Paciente com 3 anos de idade com escore Z IMC ≥ +1 e < +2 é considerado como sobrepeso."
+    },
+    {
+     "letra": "C",
+     "texto": "Paciente com 4 anos de idade com escore Z peso < -3 é considerado como magreza."
+    },
+    {
+     "letra": "D",
+     "texto": "Paciente com 7 anos de idade com escore Z IMC ≥ +3 e"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047218",
+   "codigo": "4000047218",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 30,
+   "temas": [
+    "Puericultura Geral",
+    "Gráf icos OMS Classif icação nutricional"
+   ],
+   "enunciado": "Lactente masculino de 7 meses e 5 dias de vida, nascido a termo, é atendido pela primeira vez, no ambulatório de puericultura de um hospital de referência em Recife. A família mudou-se de uma cidade do interior para a capital, há poucos dias. No atendimento, além de questionar sobre o parto, alimentação, vacinação e desenvolvimento da criança, a médica pediatra percebeu anemia (2+/4+) como único achado significativo ao exame físico. Dados antropométricos ao nascimento: Peso: 2.750 g / Comprimento: 48 cm / Perímetro cefálico: 34 cm Dados antropométricos atuais: Peso e comprimento entre -1 e -2 DP das curvas da OMS de peso por idade em meninos e comprimento por idade em meninos, respectivamente. Em relação aos aspectos antropométricos do lactente, admitindo crescimento médio normal e mesmo sem verificar os gráficos de crescimento, é CORRETO afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o perímetro cefálico esperado para o menor é aproximadamente de 40 cm no momento da consulta."
+    },
+    {
+     "letra": "B",
+     "texto": "com os dados fornecidos sobre o peso e comprimento atuais, o menor poderá encontrar-se com risco de sobrepeso na curva do IMC (índice de Massa Corpórea) da OMS."
+    },
+    {
+     "letra": "C",
+     "texto": "uma boa estimativa atual de peso para o menor, em função dos dados de nascimento e da consulta do 7º mês, é de aproximadamente 8.700 g."
+    },
+    {
+     "letra": "D",
+     "texto": "o menor apresenta baixa estatura para a idade, no momento da consulta, apesar de ter nascido com um comprimento adequado."
+    },
+    {
+     "letra": "E",
+     "texto": "pelos dados fornecidos, tanto o peso quanto o comprimento do menor encontram-se à esquerda da mediana das curvas de peso x idade e comprimento x idade para o sexo masculino, respectivamente."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046155",
+   "codigo": "4000046155",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 31,
+   "temas": [
+    "Diagnóstico Nutricional"
+   ],
+   "enunciado": "Paciente com 4 anos e 6 meses de vida vai a consulta com pediatra acompanhada pela sua mãe, que traz a queixa de que a lha está \"\"muito gordinha\"\" e isso a tem preocupado muito, pois há muitos casos de obesidade na família. Após realizar as medidas antropométricas dessa criança, o pediatra calculou o IMC e o plotou no gráfico de IMC x Idade da Organização Mundial de Saúde, situando-se o índice no Z escore = 2. Qual a classificação, conforme o Z escore, dessa criança?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Obesidade grave"
+    },
+    {
+     "letra": "B",
+     "texto": "Sobrepeso"
+    },
+    {
+     "letra": "C",
+     "texto": "Obesidade"
+    },
+    {
+     "letra": "D",
+     "texto": "Risco de sobrepeso"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000039206",
+   "codigo": "4000039206",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 32,
+   "temas": [
+    "Avaliação do Crescimento"
+   ],
+   "enunciado": "Mãe traz seu lho para consulta pediátrica, sexo masculino, 7 anos de idade, devido à preocupação com crescimento, desenvolvimento e estado nutricional apresentando os seguintes escores: Peso para idade Escore > Z+1 e < Z+2 IMC para idade Escore > Z-1 e < Z+1 Estatura para idade Escore > Z+2 e < Z+3. Qual o diagnóstico?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Baixo peso para a idade, magreza e estaturaadequada para a idade."
+    },
+    {
+     "letra": "B",
+     "texto": "Peso adequado para a idade, eutrofia e estatura adequada para a idade."
+    },
+    {
+     "letra": "C",
+     "texto": "Baixo peso para a idade, magreza leve e estatura adequada para a idade."
+    },
+    {
+     "letra": "D",
+     "texto": "Peso adequado para a idade, magreza leve e alta estatura para a idade."
+    },
+    {
+     "letra": "E",
+     "texto": "Baixo peso para a idade, eutrofia e alta estatura para a idade."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000023892",
+   "codigo": "4000023892",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 33,
+   "temas": [
+    "Diagnóstico Nutricional"
+   ],
+   "enunciado": "Um paciente de 5 anos de idade comparece em consulta de puericultura acompanhado pelos pais. Após ser calculado o índice de massa corporal (IMC) do paciente, observa-se que ele se encontra acima do escore Z + 3. A respeito desse caso clínico e com base nos conhecimentos médicos correlatos, julgue o item a seguir. O diagnóstico é de obesidade grave.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000013387",
+   "codigo": "4000013387",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 34,
+   "temas": [
+    "Diagnóstico Nutricional"
+   ],
+   "enunciado": "Considerando esse gráfico, que apresenta os índices de massa corporal (IMC) dos indivíduos A, B e C, julgue o próximo item, com base nas normas do Sistema de Vigilância Alimentar e Nutricional do Ministério da Saúde. O indivíduo A tem obesidade grave.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q034-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000013383",
+   "codigo": "4000013383",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 35,
+   "temas": [
+    "Diagnóstico Nutricional"
+   ],
+   "enunciado": "Considerando esse gráfico, que apresenta os índices de massa corporal (IMC) dos indivíduos A, B e C, julgue o próximo item, com base nas normas do Sistema de Vigilância Alimentar e Nutricional do Ministério da Saúde. O indivíduo B tem subnutrição grave.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q035-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000013371",
+   "codigo": "4000013371",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 36,
+   "temas": [
+    "Diagnóstico Nutricional"
+   ],
+   "enunciado": "Considerando esse gráfico, que apresenta os índices de massa corporal (IMC) dos indivíduos A, B e C, julgue o próximo item, com base nas normas do Sistema de Vigilância Alimentar e Nutricional do Ministério da Saúde. O indivíduo C tem peso adequado para sua altura.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q036-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000106221",
+   "codigo": "4000106221",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 37,
+   "temas": [
+    "Avaliação do Crescimento",
+    "Pediatria"
+   ],
+   "enunciado": "Qual dos seguintes parâmetros é consistente com um crescimento normal nos seis primeiros meses de vida?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Aumentar a altura em 10 centímetros."
+    },
+    {
+     "letra": "B",
+     "texto": "Dobrar o peso de nascimento."
+    },
+    {
+     "letra": "C",
+     "texto": "Aumentar o perímetro cefálico em 0,5 cm por mês."
+    },
+    {
+     "letra": "D",
+     "texto": "Ganho de peso de 10 gramas por dia."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000105969",
+   "codigo": "4000105969",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 38,
+   "temas": [
+    "Pediatria",
+    "Gráf icos OMS Classif icação nutricional"
+   ],
+   "enunciado": "Menino com 12 anos de idade está em seguimento de puericultura. Pesa 55 kg e mede 155 cm e está sendo avaliado em relação ao seu desenvolvimento ponderoestatural. Considerando a curva do Índice de Massa Corporal (OMS) apresentada abaixo, qual é a classificação nutricional desse paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Obesidade."
+    },
+    {
+     "letra": "B",
+     "texto": "Magreza."
+    },
+    {
+     "letra": "C",
+     "texto": "Eutrofia."
+    },
+    {
+     "letra": "D",
+     "texto": "Sobrepeso."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q038-1.jpg",
+     "antes_das_alternativas": true
+    },
+    {
+     "arquivo": "imagens/q038-2.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000102717",
+   "codigo": "4000102717",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 39,
+   "temas": [
+    "Gráf icos OMS Classif icação nutricional"
+   ],
+   "enunciado": "Menino, 6 anos de idade, tem índice de massa corpórea (IMC) no percentil 90 da curva. Apresenta, portanto, diagnóstico de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "eutrofia."
+    },
+    {
+     "letra": "B",
+     "texto": "retardo de crescimento."
+    },
+    {
+     "letra": "C",
+     "texto": "sobrepeso."
+    },
+    {
+     "letra": "D",
+     "texto": "obesidade."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000102097",
+   "codigo": "4000102097",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 40,
+   "temas": [
+    "Diagnóstico Nutricional"
+   ],
+   "enunciado": "O Ministério da Saúde adota as recomendações lançadas em 2006/ 2007 pela Organização Mundial de Saúde (OMS) sobre o uso de curvas de referência na avaliação do estado nutricional. De acordo com os pontos de corte preconizados pela OMS, assinale a alternativa correta em relação ao diagnóstico antropométrico:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Na faixa etária de 0 – 5 anos incompletos, são considerados como obesidade osvalores de escore Z PESO > +2 e < + 3."
+    },
+    {
+     "letra": "B",
+     "texto": "Na faixa etária de 0 – 5 anos incompletos, são considerados como sobrepeso osvalores de escore Z Índice de Massa Corporal > +1 e < + 2."
+    },
+    {
+     "letra": "C",
+     "texto": "Na faixa etária de 0 – 5 anos incompletos, são considerados como magreza os valoresde escore Z Índice de Massa Corporal < -3."
+    },
+    {
+     "letra": "D",
+     "texto": "Na faixa etária de 5 – 20 anos incompletos, são considerados como sobrepeso osvalores de escore Z Índice de Massa Corporal > +1 e < + 2."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000078279",
+   "codigo": "4000078279",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 41,
+   "temas": [
+    "Diagnóstico"
+   ],
+   "enunciado": "Segundo a Organização Mundial de Saúde, um indicador independente para um lactente de 11 meses que apresenta desnutrição aguda grave é a relação peso para o (a):",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "idade abaixo do desvio padrão -2."
+    },
+    {
+     "letra": "B",
+     "texto": "comprimento acima do desvio padrão -2."
+    },
+    {
+     "letra": "C",
+     "texto": "idade acima do desvio padrão -3."
+    },
+    {
+     "letra": "D",
+     "texto": "comprimento abaixo do desvio padrão -2."
+    },
+    {
+     "letra": "E",
+     "texto": "comprimento abaixo do desvio padrão -3."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000077395",
+   "codigo": "4000077395",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 42,
+   "temas": [
+    "Diagnóstico"
+   ],
+   "enunciado": "A definição de obesidade e sobrepeso utiliza como parâmetro o índice de massa corporal (IMC). O cálculo do IMC é feito considerando o peso:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "ao quadrado dividido pelo dobro da altura"
+    },
+    {
+     "letra": "B",
+     "texto": "dividido pela altura ao quadrado"
+    },
+    {
+     "letra": "C",
+     "texto": "ao quadrado dividido pela altura"
+    },
+    {
+     "letra": "D",
+     "texto": "dividido pelo dobro da altura"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000073988",
+   "codigo": "4000073988",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 43,
+   "temas": [
+    "Avaliação do Crescimento"
+   ],
+   "enunciado": "Qual(is) é(são) a(s) medida(s) antropométrica(s) mais comumente realizada(s) na avaliação nutricional, sendo de fácil obtenção, baixo custo e boa sensibilidade, além de diagnosticar mudanças recentes no estado nutricional?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Comprimento."
+    },
+    {
+     "letra": "B",
+     "texto": "Peso."
+    },
+    {
+     "letra": "C",
+     "texto": "Altura."
+    },
+    {
+     "letra": "D",
+     "texto": "Circunferências corpóreas: crânio, braço, cintura, quadril, panturrilha."
+    },
+    {
+     "letra": "E",
+     "texto": "Dobras cutâneas: tricipital, bicipital, suprailiaca, subescapular, panturrilha, abdominal."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046422",
+   "codigo": "4000046422",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 45,
+   "temas": [
+    "Avaliação do Crescimento"
+   ],
+   "enunciado": "Em relação ao crescimento normal do perímetro cefálico de uma criança no primeiro ano de vida devemos, em média, esperar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Crescimento de 2,0 cm/mês no primeiro trimestre de vida, 1,0 cm/mês no segundo trimestre de vida e 0,5 cm/mês no ultimo semestre de vida."
+    },
+    {
+     "letra": "B",
+     "texto": "Crescimento mensal de 2,0 cm/mês durante todo primeiro ano"
+    },
+    {
+     "letra": "C",
+     "texto": "Crescimento mensal de 0,5 cm/mês durante todo primeiro ano"
+    },
+    {
+     "letra": "D",
+     "texto": "Crescimento de 3,0 cm/mês nos primeiros 6 meses e 2,0 cm/mês no segundo semestre de vida"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000005425",
+   "codigo": "4000005425",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 46,
+   "temas": [
+    "Avaliação do Crescimento",
+    "Gráf icos OMS Classif icação nutricional"
+   ],
+   "enunciado": "A avaliação antropométrica de um pré-escolar de 4 anos de idade, resulta nos seguintes valores de escore-Z para os índices calculados: E/I = -0,8; P/E = 2,1; P/I =1,7 e IMC/I = 2,4. De acordo com a Organização Mundial da Saúde, qual é a classificação nutricional desta criança?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Sobrepeso e estatura adequada para idade."
+    },
+    {
+     "letra": "B",
+     "texto": "Sobrepeso e risco de baixa estatura."
+    },
+    {
+     "letra": "C",
+     "texto": "Risco para sobrepeso e estatura adequada para idade."
+    },
+    {
+     "letra": "D",
+     "texto": "Obesidade e estatura adequada para idade."
+    },
+    {
+     "letra": "E",
+     "texto": "Peso adequado para idade e risco de baixa estatura."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000003182",
+   "codigo": "4000003182",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 47,
+   "temas": [
+    "Gráf icos OMS Classif icação nutricional"
+   ],
+   "enunciado": "Recém-nascido, sexo masculino, 14 dias de vida, passando em consulta regular no posto de saúde. Na história, mãe relata que é amamentado exclusivamente ao seio e que pesou 3.005g. Ao seu exame físico, a criança pesou 3.100 g. Avaliando esses dados, a conduta adequada é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Avaliar a pega, buscando as possíveis falhas"
+    },
+    {
+     "letra": "B",
+     "texto": "Iniciar complementação das mamadas e retorno breve para reavaliação"
+    },
+    {
+     "letra": "C",
+     "texto": "Internação para avaliar pega e investigar possíveis causas de baixo ganho de peso"
+    },
+    {
+     "letra": "D",
+     "texto": "Orientação nutricional e manter puericultura adequada a faixa etária"
+    },
+    {
+     "letra": "E",
+     "texto": "Solicitação de exames para investigar possíveis causas de baixo ganho de peso"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000109700",
+   "codigo": "4000109700",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 48,
+   "temas": [
+    "Diagnóstico"
+   ],
+   "enunciado": "De acordo com a Organização Mundial de Saúde e o Ministério da Saúde, o diagnóstico de sobrepeso em uma criança de 7 anos pode ser feito se o escore z de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "peso estiver entre 0 e +1."
+    },
+    {
+     "letra": "B",
+     "texto": "peso estiver entre +1 e +2."
+    },
+    {
+     "letra": "C",
+     "texto": "índice de massa corpórea estiver entre 0 e +1."
+    },
+    {
+     "letra": "D",
+     "texto": "índice de massa corpórea estiver entre +1 e +2."
+    },
+    {
+     "letra": "E",
+     "texto": "índice de massa corpórea estiver entre +2 e +3."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000044648",
+   "codigo": "4000044648",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 49,
+   "temas": [
+    "Gráf icos OMS Classif icação nutricional"
+   ],
+   "enunciado": "O crescimento somático infantil é altamente dependente do uso de curvas de referência. É imprescindível, após a aferição das medidas antropométricas, que o médico plote os valores encontrados em curvas, para que possamos classificar o estado nutricional da criança. Dessa forma, como podemos classificar um menino pré-escolar de 4 anos com peso atual de 21 kg e altura de 105 cm, utilizando a curva de IMC por idade da OMS?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Peso elevado para a idade."
+    },
+    {
+     "letra": "B",
+     "texto": "Obeso."
+    },
+    {
+     "letra": "C",
+     "texto": "Eutrófico."
+    },
+    {
+     "letra": "D",
+     "texto": "Risco de sobrepeso."
+    },
+    {
+     "letra": "E",
+     "texto": "Sobrepeso."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [
+    {
+     "arquivo": "imagens/q049-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000023935",
+   "codigo": "4000023935",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 50,
+   "temas": [
+    "Diagnóstico Nutricional"
+   ],
+   "enunciado": "Paciente de 12 anos, do sexo masculino, trazido ao ambulatório pelos pais para consulta de rotina. Sem queixas, desenvolvimento neuropsicomotor adequado, cartão vacinal em dia com as recomendações da Sociedade Brasileira de Pediatria. Ao exame físico, peso = 50 kg, estatura = 145 cm, índice de massa corporal (IMC) = 23.78 kg/mg², pressão arterial = 118 x 75 mmHg. Em relação ao IMC, o paciente apresenta-se:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Desnutrido"
+    },
+    {
+     "letra": "B",
+     "texto": "Eutrófico"
+    },
+    {
+     "letra": "C",
+     "texto": "Com sobrepeso."
+    },
+    {
+     "letra": "D",
+     "texto": "Obeso."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q050-1.jpg",
+     "antes_das_alternativas": true
+    },
+    {
+     "arquivo": "imagens/q050-2.jpg",
+     "antes_das_alternativas": true
+    },
+    {
+     "arquivo": "imagens/q050-3.jpg",
+     "antes_das_alternativas": true
+    },
+    {
+     "arquivo": "imagens/q050-4.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000023913",
+   "codigo": "4000023913",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 51,
+   "temas": [
+    "Diagnóstico Nutricional"
+   ],
+   "enunciado": "Paciente de 12 anos, do sexo masculino, trazido ao ambulatório pelos pais para consulta de rotina. Sem queixas, desenvolvimento neuropsicomotor adequado, cartão vacinal em dia com as recomendações da Sociedade Brasileira de Pediatria. Ao exame físico, peso = 50 kg, estatura = 145 cm, índice de massa corporal (IMC) = 23.78 kg/mg², pressão arterial = 118 x 75 mmHg. Em relação à estatura, o paciente apresenta-se com",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "baixa estatura."
+    },
+    {
+     "letra": "B",
+     "texto": "estatura em canal de vigilância."
+    },
+    {
+     "letra": "C",
+     "texto": "estatura adequada à idade e ao sexo."
+    },
+    {
+     "letra": "D",
+     "texto": "estatura acima da média para idade e sexo."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q051-1.jpg",
+     "antes_das_alternativas": true
+    },
+    {
+     "arquivo": "imagens/q051-2.jpg",
+     "antes_das_alternativas": true
+    },
+    {
+     "arquivo": "imagens/q051-3.jpg",
+     "antes_das_alternativas": true
+    },
+    {
+     "arquivo": "imagens/q051-4.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000022603",
+   "codigo": "4000022603",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 52,
+   "temas": [
+    "Diagnóstico Nutricional"
+   ],
+   "enunciado": "De acordo com as curvas de crescimento da Organização Mundial de Saúde, uma criança do sexo masculino, com 6 anos e 5 meses de idade, com índice de massa corpórea (IMC) entre o escore Z + 1 e + 2 é classificada como:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Risco de sobrepeso."
+    },
+    {
+     "letra": "B",
+     "texto": "Eutrofia."
+    },
+    {
+     "letra": "C",
+     "texto": "Sobrepeso."
+    },
+    {
+     "letra": "D",
+     "texto": "Obesa."
+    },
+    {
+     "letra": "E",
+     "texto": "Magreza."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000019006",
+   "codigo": "4000019006",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 53,
+   "temas": [
+    "Obesidade"
+   ],
+   "enunciado": "De acordo com as curvas de crescimento da Organização Mundial de Saúde, uma criança do sexo masculino, com 6 anos e 5 meses de idade, com índice de massa corpórea (IMC) entre o escore Z + 1 e + 2 é classificada como:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Risco de sobrepeso."
+    },
+    {
+     "letra": "B",
+     "texto": "Eutrofia."
+    },
+    {
+     "letra": "C",
+     "texto": "Sobrepeso."
+    },
+    {
+     "letra": "D",
+     "texto": "Obesa."
+    },
+    {
+     "letra": "E",
+     "texto": "Magreza."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000017831",
+   "codigo": "4000017831",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 54,
+   "temas": [
+    "Diagnóstico Nutricional"
+   ],
+   "enunciado": "R.G.R., uma criança de 7 meses de idade, foi levada pelos pais a um pronto atendimento infantil com quadro de tosse e secreção nasal há cerca de 10 dias, com o desenvolvimento de febre, nos últimos 2 dias, e respiração rápida. Ao exame físico, foram observados uma orofaringe com hiperemia discreta, linfonodos cervicais normais, otoscopia normal bilateral, ausculta pulmonar com estertores crepitantes à esquerda, palpação abdominal normal, ausência de sinais de irritação meníngea e inexistência de alterações dermatológicas. A frequência respiratória foi de 52 incursões por minuto. Não havia presença de tiragem subcostal, nem de insu ciência ventilatória, nem de cianose. A paciente consegue alimentar-se ao seio materno com pouca di culdade. A saturação periférica de oxigênio é de 96%. A radiogra a de tórax demonstra área de consolidação em lobo inferior esquerdo e derrame pleural de cerca de 1,5 cm. R.G.R., após a resolução de seu quadro de saúde, foi levada por seus pais para um atendimento rotineiro de puericultura, agora com 9 meses de idade, com o médico de família e comunidade do posto de saúde próximo à casa deles. Os pais estão realizando, na criança, a introdução alimentar de forma adequada, associada a 600 mL de fórmula láctea apropriada para a idade. A criança não está em uso de qualquer medicação ou suplemento. A respeito do caso clínico apresentado e de conhecimentos médicos correlatos, julgue o item a seguir. Caso a paciente encontre-se entre o escore Z +2 e +3 da curva de peso para estatura e IMC para sua idade, seu diagnóstico nutrológico será de sobrepeso.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000125104",
+   "codigo": "4000125104",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 55,
+   "temas": [
+    "Diagnóstico Nutricional"
+   ],
+   "enunciado": "Qual é a classificação antropométrica de um menino de 4 anos de idade com os seguintes escores-Z: peso para a idade = - 0,68; estatura para a idade = -2,46; IMC = +1,46?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Baixo peso, baixa estatura e sobrepeso."
+    },
+    {
+     "letra": "B",
+     "texto": "Peso adequado, baixa estatura e risco de sobrepeso."
+    },
+    {
+     "letra": "C",
+     "texto": "Peso adequado, estatura adequada e obesidade."
+    },
+    {
+     "letra": "D",
+     "texto": "Baixo peso, baixa estatura e magreza."
+    },
+    {
+     "letra": "E",
+     "texto": "Peso adequado, estatura adequada e eutrofia."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000108220",
+   "codigo": "4000108220",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 56,
+   "temas": [
+    "Obesidade"
+   ],
+   "enunciado": "Assinale a alternativa CORRETA. De acordo com os índices antropométricos e pontos de corte recomendados pela Organização Mundial da Saúde e adotados pelo Ministério da Saúde na avaliação do estado nutricional, crianças na faixa etária de 0 a 5 anos incompletos com valores do Escore Z do Índice de Massa Corpórea (IMC) > +2 e ≤ +3 são classificadas como:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Risco para Sobrepeso"
+    },
+    {
+     "letra": "B",
+     "texto": "Sobrepeso"
+    },
+    {
+     "letra": "C",
+     "texto": "Obesidade"
+    },
+    {
+     "letra": "D",
+     "texto": "Obesidade Grave"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000097226",
+   "codigo": "4000097226",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 57,
+   "temas": [
+    "Gráf icos OMS Classif icação nutricional"
+   ],
+   "enunciado": "Paciente do sexo feminino, com seis anos e seis meses, em consulta com pediatra, apresenta IMC = 18. Analise o gráfico a seguir: Com base nas informações apresentadas, é CORRETO afirmar que a paciente está:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Obesa."
+    },
+    {
+     "letra": "B",
+     "texto": "Eutrófica."
+    },
+    {
+     "letra": "C",
+     "texto": "Com sobrepeso."
+    },
+    {
+     "letra": "D",
+     "texto": "Com obesidade grave."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q057-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000081061",
+   "codigo": "4000081061",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 58,
+   "temas": [
+    "Diagnóstico Nutricional"
+   ],
+   "enunciado": "Em decorrência da alta frequência de obesidade e de excesso de peso entre crianças e adolescentes, o diagnóstico do estado nutricional deve fazer parte da avaliação de rotina. Para confirmar o diagnóstico de obesidade em criança com 5 anos ou mais:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O IMC deve ser \"maior ou igual a\" 20 kg/m²."
+    },
+    {
+     "letra": "B",
+     "texto": "O IMC deve estar acima do Z-score +2 para sexo e idade."
+    },
+    {
+     "letra": "C",
+     "texto": "O peso deve estar acima do Z-score +2 para sexo e idade."
+    },
+    {
+     "letra": "D",
+     "texto": "O peso deve estar acima do Z-score +1 para sexo e idade."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000058394",
+   "codigo": "4000058394",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 59,
+   "temas": [
+    "Diagnóstico Nutricional"
+   ],
+   "enunciado": "João Pedro tem 8 anos, procurou a Unidade Básica de Saúde (UBS) com sua mãe, pois está preocupado com sua altura. Ele é um dos menores da sala. Tem boa alimentação e pratica judô 2 vezes por semana. Sua mãe tem 160cm e seu pai 170cm. Vendo a carteirinha de saúde o médico observou que cresce em média 5 cm ao ano. Atualmente está com 121cm (z-escore -1) e peso 21 Kg (entre z-escore -1 e -2). Qual sua classificação de altura seguindo as curvas da Organização Mundial da Saúde?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Baixa estatura para idade."
+    },
+    {
+     "letra": "B",
+     "texto": "Estatura adequada para idade."
+    },
+    {
+     "letra": "C",
+     "texto": "Muito baixa estatura para idade."
+    },
+    {
+     "letra": "D",
+     "texto": "Eutrófico"
+    },
+    {
+     "letra": "E",
+     "texto": "Magreza"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000123064",
+   "codigo": "4000123064",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 60,
+   "temas": [
+    "Gráf icos OMS Classif icação nutricional"
+   ],
+   "enunciado": "Uma criança de 8 anos com o diagnóstico nutricional entre os percentis 15 e 3 de índice de massa corporal pode receber duas possíveis classificações, respectivamente pela Organização Mundial da Saúde e pela Sociedade Brasileira de Pediatria, de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Eutrofia e eutrofia."
+    },
+    {
+     "letra": "B",
+     "texto": "Eutrofia e vigilância."
+    },
+    {
+     "letra": "C",
+     "texto": "Eutrofia e risco nutricional."
+    },
+    {
+     "letra": "D",
+     "texto": "Vigilância e eutrofia."
+    },
+    {
+     "letra": "E",
+     "texto": "Eutrofia e vigilância nutricional."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000111110",
+   "codigo": "4000111110",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 61,
+   "temas": [
+    "Gráf icos OMS Classif icação nutricional"
+   ],
+   "enunciado": "Segundo o Ministério da Saúde, uma criança com idade abaixo de 5 anos, com escore Z do Índice de Massa Corpórea (IMC) entre +1 e -2 é classificada como: Respostas: 1 12 23 34 45 56",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Eutrófica."
+    },
+    {
+     "letra": "B",
+     "texto": "Baixo peso."
+    },
+    {
+     "letra": "C",
+     "texto": "Risco de sobrepeso."
+    },
+    {
+     "letra": "D",
+     "texto": "Sobrepeso."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": [
+  {
+   "id": "4000182460",
+   "codigo": "4000182460",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 7,
+   "temas": [
+    "Pediatria",
+    "Diagnóstico Nutricional"
+   ],
+   "enunciado": "Menina, dezoito meses de idade, é encaminhada à UBS por Agente Comunitária de Saúde, após verificar a Caderneta de Saúde da Criança. A evolução do peso da menor é a seguinte: • nasceu com peso maior ou igual a Escore z -2 e menor que Escore z +2; • entre os 4 e 8 meses de idade o peso estava maior ou igual a Escore z -3 e menor que Escore z -2; • a partir dos 9 meses o peso tem seguido regularmente a posição menor que Escore z -3. A mãe informa amamentação exclusiva ao seio até os 3 meses de idade, passando a aleitamento misto, com leite em pó integral e, por vezes, mucilagem. Outros alimentos foram oferecidos a partir dos 5 meses, quando apresentou diarreia, sendo internada por 6 dias. Atualmente, toma café com leite e biscoitos ou pão pela manhã; suco ou fruta no lanche da manhã e no da tarde; almoça e janta a mesma refeição da família (feijão, arroz, farinha ou macarrão) e toma leite quando vai dormir. Ao exame: criança ativa, com aspecto emagrecido, dados vitais sem alteração; eupneica, afebril, com mucosas úmidas, descoradas ++/IV; extremidades oxigenadas. Anda sem apoio; fala poucas palavras soltas. Não há edemas. Abdome globoso, timpânico, com fígado palpável a 1 cm do rebordo costal direito, borda romba, superfície lisa, indolor à palpação. Baseado na curva de peso, indique o diagnóstico nutricional dessa criança ao nascer e o diagnóstico nutricional atual:",
+   "alternativas": [],
+   "gabarito": null,
+   "imagens": [],
+   "revisar": [],
+   "motivo_exclusao": "sem alternativas"
+  },
+  {
+   "id": "4000068509",
+   "codigo": "4000068509",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diagnóstico Nutricional",
+   "numero": 44,
+   "temas": [
+    "Gráf icos OMS Classif icação nutricional"
+   ],
+   "enunciado": "Criança de 3 anos é levada para atendimento devido a quadro de diarreia líquida, iniciado há 10 dias (3 x ao dia). A mãe refere que tem tido di culdade em fazer acompanhamento médico, pois perdeu o emprego e não tem dinheiro para a passagem. Ela tem mais dois lhos, de 1 e de 2 anos, que cria sozinha. Ao exame, a criança apresenta/está: regular estado geral, hipoativa, porém reativa, afebril ao toque, anictérica, acianótica, com boca seca, pele com turgor diminuído e olhos muito fundos; FC = 90bpm, FR = 38ipm, PA = 90 x 60mmHg; cabelos esparsos, mais claros na raiz e frágeis; algum tecido subcutâneo, com estreitamento da cintura escapular e pélvica; ausculta cardíaca e respiratória sem alterações; abdômen ácido, indolor, com fígado palpável a 4cm do rebordo costal direito; edema frio importante em membros inferiores, com sinal de Cacifo presente (++/4+) até joelhos; orofaringe e otoscopia sem alterações. A avaliação nutricional evidencia P/I abaixo do escore-z -3; E/I entre o escorez -1 e -2; P/E abaixo do escore-z -3 e IMC/I abaixo do escore-z -3. Considerando o caso apresentado: Indique a classificação nutricional dessa criança.",
+   "alternativas": [],
+   "gabarito": null,
+   "imagens": [],
+   "revisar": [],
+   "motivo_exclusao": "sem alternativas"
+  }
+ ]
+}

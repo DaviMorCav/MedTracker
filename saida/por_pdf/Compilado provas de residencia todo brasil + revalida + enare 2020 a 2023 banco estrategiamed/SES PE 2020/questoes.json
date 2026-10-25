@@ -1,0 +1,3702 @@
+{
+ "questoes": [
+  {
+   "id": "4000128453",
+   "codigo": "4000128453",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 1,
+   "temas": [
+    "Abdome Agudo Obstrutivo",
+    "Exames de Imagem"
+   ],
+   "enunciado": "Homem, 63 anos, em pós-operatório de colectomia total. Evolui com íleo paralítico prolongado e hiponatremia (Na: 123 mEq/L). Qual das radiografias de abdome abaixo é compatível com o quadro do paciente da questão?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Imagem A do enunciado."
+    },
+    {
+     "letra": "B",
+     "texto": "Imagem B do enunciado."
+    },
+    {
+     "letra": "C",
+     "texto": "Imagem C do enunciado."
+    },
+    {
+     "letra": "D",
+     "texto": "Imagem D do enunciado."
+    },
+    {
+     "letra": "E",
+     "texto": "Imagem E do enunciado."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [
+    {
+     "arquivo": "imagens/q001-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000047808",
+   "codigo": "4000047808",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 2,
+   "temas": [
+    "Estudos de CasoControle"
+   ],
+   "enunciado": "Para realizar um estudo sobre a associação entre a exposição a produtos de óleo de petróleo e leucemia, utilizou-se o seguinte procedimento: Aplicou-se um questionário a 30 pessoas internadas com leucemia em um hospital localizado no litoral nordestino. O mesmo questionário foi aplicado a 30 pacientes internados para tratamento decorrente de doenças traumatológicas no mesmo hospital. O desenho epidemiológico é do tipo",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Coorte."
+    },
+    {
+     "letra": "B",
+     "texto": "Caso Controle."
+    },
+    {
+     "letra": "C",
+     "texto": "Correlação Ecológica."
+    },
+    {
+     "letra": "D",
+     "texto": "Transversal."
+    },
+    {
+     "letra": "E",
+     "texto": "Série de Casos."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047793",
+   "codigo": "4000047793",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 3,
+   "temas": [
+    "Associação de Testes Diagnósticos testes diagnósticos múltiplos"
+   ],
+   "enunciado": "Duas mil e quatrocentas mulheres foram observadas por um período de tempo para se avaliar a associação entre o uso de dispositivo intrauterino e dispareunia. Destas, 1900 não usavam dispositivos. Observou-se que 100 mulheres desenvolveram Dispareunia, das quais 30 estiveram expostas ao uso de dispositivos. Qual o valor da medida de associação?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "0,8"
+    },
+    {
+     "letra": "B",
+     "texto": "3"
+    },
+    {
+     "letra": "C",
+     "texto": "9,3"
+    },
+    {
+     "letra": "D",
+     "texto": "3,3"
+    },
+    {
+     "letra": "E",
+     "texto": "1,6"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047779",
+   "codigo": "4000047779",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 4,
+   "temas": [
+    "Estudos de Coorte"
+   ],
+   "enunciado": "Duas mil e quatrocentas mulheres foram observadas por um período de tempo para se avaliar a associação entre o uso de dispositivo intrauterino e dispareunia. Destas, 1900 não usavam dispositivos. Observou-se que 100 mulheres desenvolveram Dispareunia, das quais 30 estiveram expostas ao uso de dispositivos. Qual o tipo de estudo epidemiológico utilizado?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Coorte"
+    },
+    {
+     "letra": "B",
+     "texto": "Caso Controle"
+    },
+    {
+     "letra": "C",
+     "texto": "Correlação Ecológica"
+    },
+    {
+     "letra": "D",
+     "texto": "Transversal"
+    },
+    {
+     "letra": "E",
+     "texto": "Caso controle aninhado à coorte"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047762",
+   "codigo": "4000047762",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 5,
+   "temas": [
+    "Principais medidas de f requência de doenças"
+   ],
+   "enunciado": "Os primeiros casos da pandemia HIV/Aids foram registrados nos Estados Unidos da América. Segundo a Unaids/Brasil: (i) 74,9 milhões de pessoas foram infectadas pelo HIV desde o início da epidemia; (ii) 37,9 milhões de pessoas vivem com HIV no mundo, dos quais (iii) 36,2 milhões são adultos; 32 milhões de pessoas morreram de doenças relacionadas à Aids desde o início da epidemia, em 1982; 1,7 milhões de novas infecções foram registradas em 2018. Sobre os descritos, analise os itens abaixo: I. A maioria dos dados são relativos à prevalência. II. Existe uma medida de incidência. III. É possível calcular a taxa de letalidade do HIV para a Aids. IV. Os adultos representam 95,5% das pessoas infectadas. V. É possível calcular a taxa média anual da infecção. Assinale a alternativa CORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I, II, III, IV e V estão corretos."
+    },
+    {
+     "letra": "B",
+     "texto": "Apenas I, II, IV e V estão corretos."
+    },
+    {
+     "letra": "C",
+     "texto": "Existem dois incorretos."
+    },
+    {
+     "letra": "D",
+     "texto": "Apenas III está incorreto."
+    },
+    {
+     "letra": "E",
+     "texto": "Apenas V está incorreto."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047738",
+   "codigo": "4000047738",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 6,
+   "temas": [
+    "Erros Sistemáticos ViésVieses"
+   ],
+   "enunciado": "Qual o estudo mais vulnerável ao viés decorrente da duração da doença?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Coorte"
+    },
+    {
+     "letra": "B",
+     "texto": "Caso Controle"
+    },
+    {
+     "letra": "C",
+     "texto": "Relato de Caso"
+    },
+    {
+     "letra": "D",
+     "texto": "Transversal"
+    },
+    {
+     "letra": "E",
+     "texto": "Intervenção"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047723",
+   "codigo": "4000047723",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 7,
+   "temas": [
+    "Estado de Portador",
+    "Medicina Preventiva",
+    "Epidemiologia"
+   ],
+   "enunciado": "Sobre \"portadores de doenças\", analise os itens abaixo: I. São imunes à doença em virtude de uma infecção adquirida previamente. II. Apresentam imunidade passiva em decorrência de mecanismos naturais ou artificiais. III. Albergam agentes infecciosos específicos na ausência de doença clinicamente discernível e servem como potenciais fontes de infecção. IV. Apresentam forma aguda da doença e servem de fonte potencial de infecção de susceptíveis. V. Encontram-se no período de convalescência. Assinale a alternativa CORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I, II, III e IV estão corretos."
+    },
+    {
+     "letra": "B",
+     "texto": "Apenas III e IV estão corretos."
+    },
+    {
+     "letra": "C",
+     "texto": "Existe, apenas, um correto."
+    },
+    {
+     "letra": "D",
+     "texto": "Existem, apenas, três corretos."
+    },
+    {
+     "letra": "E",
+     "texto": "Apenas IV está correto."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047707",
+   "codigo": "4000047707",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 8,
+   "temas": [
+    "Investigação de Surtos"
+   ],
+   "enunciado": "No quadro a seguir, está indicado o número de casos de Salmonelose por Faixa Etária (FE) em anos e as semanas (Sem) de ocorrência da doença. Um valor semanal superior duas vezes à média aritmética é considerado critério de alarme e necessita de investigação. Com base nas informações contidas no quadro, responda a questão. Assinale a alternativa que contém a(as) faixa(s) etária(s) (FE) que ultrapassa(m) o critério de alarme.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Todas as FE"
+    },
+    {
+     "letra": "B",
+     "texto": "0-14 e 15 - 29"
+    },
+    {
+     "letra": "C",
+     "texto": "Apenas 15 - 29"
+    },
+    {
+     "letra": "D",
+     "texto": "Apenas 0 - 14"
+    },
+    {
+     "letra": "E",
+     "texto": "0-14 e 30 e +"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q008-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000047687",
+   "codigo": "4000047687",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 9,
+   "temas": [
+    "Investigação de Surtos"
+   ],
+   "enunciado": "No quadro a seguir, está indicado o número de casos de Salmonelose por Faixa Etária (FE) em anos e as semanas (Sem) de ocorrência da doença. Um valor semanal superior duas vezes à média aritmética é considerado critério de alarme e necessita de investigação. Com base nas informações contidas no quadro, responda a questão. Quais foram as semanas que necessitaram de investigação?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "4ª, 5ª e 8ª, apenas"
+    },
+    {
+     "letra": "B",
+     "texto": "3ª, 4ª, 5ª e 8ª"
+    },
+    {
+     "letra": "C",
+     "texto": "5ª e 8ª, apenas"
+    },
+    {
+     "letra": "D",
+     "texto": "3ª e 5ª, apenas"
+    },
+    {
+     "letra": "E",
+     "texto": "3ª, 4ª e 5ª, apenas"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q009-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000047661",
+   "codigo": "4000047661",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 10,
+   "temas": [
+    "Coef iciente ou Taxa de Mortalidade Inf antil"
+   ],
+   "enunciado": "Uma das maneiras de mensurar a saúde infantil é mediante o cálculo de indicadores de mortalidade infantil. Sobre o Coeficiente de Mortalidade Infantil (CMI), leia as afirmativas abaixo: I. No denominador do CMI, está o número de nascidos vivos. II. Mede o risco de uma criança, nascida viva, morrer antes de completar um ano de idade. III. No componente neonatal precoce, consideram-se os óbitos ocorridos antes de 28 dias completos. IV. A tendência do CMI no Brasil tem-se mostrado decrescente, segundo estatísticas recentes do IBGE. Para o ano de 2017, no Brasil, esse coeficiente estava em torno de 9. V. No denominador, está o número de óbitos fetais. Assinale a alternativa CORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I, II, III, IV e V estão corretas."
+    },
+    {
+     "letra": "B",
+     "texto": "Apenas I, II, III e IV estão corretas."
+    },
+    {
+     "letra": "C",
+     "texto": "Existem, apenas, duas incorretas."
+    },
+    {
+     "letra": "D",
+     "texto": "Existem três incorretas."
+    },
+    {
+     "letra": "E",
+     "texto": "Apenas a IV está incorreta."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047643",
+   "codigo": "4000047643",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 11,
+   "temas": [
+    "Declaração de Nascido Vivo DN"
+   ],
+   "enunciado": "O Ministério da Saúde do Brasil segue a definição de \"Nascimento Vivo\" adotada pela Organização Mundial de Saúde. Sobre a necessidade de ser considerado \"nascido vivo\", analise as afirmativas abaixo: I. A duração mínima da gestação seja de seis semanas. II. Apresente pulsação do cordão umbilical. III. Ocorra a presença de sinal vital somente após desprendimento da placenta. IV. Apresente batimentos do coração. V. Apresente movimentos efetivos dos músculos de contração voluntária. Assinale a alternativa CORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I, II, III, IV e V estão corretas."
+    },
+    {
+     "letra": "B",
+     "texto": "Apenas II, III, IV e V estão corretas."
+    },
+    {
+     "letra": "C",
+     "texto": "Existem, apenas, duas incorretas."
+    },
+    {
+     "letra": "D",
+     "texto": "Existem três incorretas."
+    },
+    {
+     "letra": "E",
+     "texto": "Apenas III está incorreta."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047626",
+   "codigo": "4000047626",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 12,
+   "temas": [
+    "Princípios f undamentais"
+   ],
+   "enunciado": "Sobre \"Princípios Fundamentais\" estabelecidos no Código de Ética Médica, leia as sentenças abaixo: I. O médico comunicará às autoridades competentes quaisquer formas de deterioração do ecossistema prejudiciais à saúde e à vida. II. A Medicina não pode, em nenhuma circunstância ou forma, ser exercida como comércio. III. O trabalho do médico não pode ser explorado por terceiros com objetivos de lucro, finalidade política ou religiosa. IV. O médica terá, para com os colegas, respeito, consideração e solidariedade, sem se eximir de denunciar atos que contrariem os postulados éticos. V. O médico empenhar-se-á em melhorar os padrões dos serviços médicos e em assumir sua responsabilidade com relação à saúde pública, à educação sanitária e à legislação referente à saúde. Assinale a alternativa CORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I, II, III, IV e V estão corretas."
+    },
+    {
+     "letra": "B",
+     "texto": "Apenas IV está correta."
+    },
+    {
+     "letra": "C",
+     "texto": "Existem, apenas, duas incorretas."
+    },
+    {
+     "letra": "D",
+     "texto": "Existem, apenas, três incorretas."
+    },
+    {
+     "letra": "E",
+     "texto": "Apenas II está incorreta."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047610",
+   "codigo": "4000047610",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 13,
+   "temas": [
+    "Conceitos f undamentais em bioética"
+   ],
+   "enunciado": "Hipócrates, médico grego, considerado o \"Pai da Medicina\", deixou como legado \"o Juramento de Hipócrates\", um importante marco para a ética médica. Por outro lado, a Teoria Principalista, marco moderno da Bioética, se assenta em quatro princípios, dois dos quais emanados diretamente do juramento. Quais são eles?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Justiça e Igualdade"
+    },
+    {
+     "letra": "B",
+     "texto": "Justiça e Autonomia"
+    },
+    {
+     "letra": "C",
+     "texto": "Beneficência e Não-maleficência"
+    },
+    {
+     "letra": "D",
+     "texto": "Sigilo e Respeito"
+    },
+    {
+     "letra": "E",
+     "texto": "Fidelidade e Confidência."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047597",
+   "codigo": "4000047597",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 14,
+   "temas": [
+    "Princípios e Diretrizes do SUS na Constituição Federal"
+   ],
+   "enunciado": "Os princípios reguladores do Sistema Único de Saúde foram estabelecidos na Constituição Federal (CF) de 1988. O artigo 199 da CF estabelece que a assistência à saúde é livre à iniciativa privada. Sobre esse artigo, leia as afirmativas abaixo: I. As instituições privadas poderão participar de forma complementar do Sistema Único de Saúde. II. As diretrizes para as instituições privadas serão estabelecidas mediante contrato de direito privado ou convênio. III. A preferência será para as entidades filantrópicas e as sem fins lucrativos. IV. É vedada a destinação de recursos públicos para auxílios ou subvenções às instituições privadas com fins lucrativos. V. É vedada a participação direta ou indireta de empresas ou capitais estrangeiros na assistência à saúde no País, salvo nos casos previstos em lei. Assinale a alternativa CORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I, II, III, IV e V estão corretas."
+    },
+    {
+     "letra": "B",
+     "texto": "Apenas I, II, III e IV estão corretas."
+    },
+    {
+     "letra": "C",
+     "texto": "Existem apenas duas incorretas."
+    },
+    {
+     "letra": "D",
+     "texto": "Existem, apenas, três incorretas."
+    },
+    {
+     "letra": "E",
+     "texto": "Apenas a II está incorreta."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047582",
+   "codigo": "4000047582",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 15,
+   "temas": [
+    "Princípios e Diretrizes do Sistema Único de Saúde SUS"
+   ],
+   "enunciado": "Três modalidades de proteção social em saúde estão historicamente estabelecidas: Seguro Social, Seguridade Social e Assistência Social. Qual dos princípios e diretrizes do SUS é basilar para caracterizar o modelo de Seguridade Social?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Universalidade"
+    },
+    {
+     "letra": "B",
+     "texto": "Regionalização"
+    },
+    {
+     "letra": "C",
+     "texto": "Igualdade"
+    },
+    {
+     "letra": "D",
+     "texto": "Integralidade"
+    },
+    {
+     "letra": "E",
+     "texto": "Participação da Comunidade"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047571",
+   "codigo": "4000047571",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 16,
+   "temas": [
+    "Vigilância Ambiental"
+   ],
+   "enunciado": "No segundo semestre deste ano de 2019, o litoral de estados do Nordeste brasileiro foi acometido de um \"desastre ambiental\" provocado pelo aparecimento de óleo derivado de petróleo. Entidades e instituições têm sugerido várias medidas e recomendações para o enfrentamento do problema do ponto de vista da saúde individual e coletiva. Considerando-se que é um problema inusitado e, portanto, com poucos conhecimentos estabelecidos cienti camente sobre as consequências da exposição a essas substâncias contidas no óleo, essas medidas adotadas se baseiam no princípio da(do)",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Promoção à Saúde."
+    },
+    {
+     "letra": "B",
+     "texto": "Prevenção Primária."
+    },
+    {
+     "letra": "C",
+     "texto": "Incerteza."
+    },
+    {
+     "letra": "D",
+     "texto": "Precaução."
+    },
+    {
+     "letra": "E",
+     "texto": "Caos."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047561",
+   "codigo": "4000047561",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 17,
+   "temas": [
+    "Programa Mais Médicos Programa Médicos pelo Brasil"
+   ],
+   "enunciado": "Assistência à Saúde (Projeto Mais Médicos para o Brasil) e do eixo de ações de Melhoria da Infraestrutura da Atenção Básica, o programa atua no eixo da Educação Médica. Sobre esse eixo, leia as sentenças abaixo relativas a objetivos e normas estabelecidas pelo PMM. I. Ampliar a inserção do médico em formação nas unidades de atendimento do SUS, desenvolvendo seu conhecimento sobre a realidade da saúde da população brasileira. II. Fortalecer a política de educação permanente com a integração ensino-serviço por meio da atuação das instituições de educação superior na supervisão acadêmica das atividades desempenhadas pelos médicos. III. Promover a troca de conhecimentos e experiências entre pro ssionais da saúde brasileiros e médicos formados em instituições estrangeiras. IV. A autorização para o funcionamento de curso de graduação em Medicina, por instituição de educação superior privada, será precedida de chamamento público pelo Ministro de Estado da Educação, com pré-seleção dos Municípios para a autorização de funcionamento de cursos ouvindo o Ministério da Saúde. V. Ao menos 30% (trinta por cento) da carga horária do internato médico na graduação serão desenvolvidos na Atenção Básica e em Serviços de Urgência e Emergência do SUS, respeitando-se o tempo mínimo de 2 (dois) anos de internato, a ser disciplinado nas diretrizes curriculares nacionais. Assinale a alternativa CORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I, II, III, IV e V estão corretas."
+    },
+    {
+     "letra": "B",
+     "texto": "Apenas I, II, III e IV estão corretas."
+    },
+    {
+     "letra": "C",
+     "texto": "Existem, apenas, duas incorretas."
+    },
+    {
+     "letra": "D",
+     "texto": "Existem três incorretas."
+    },
+    {
+     "letra": "E",
+     "texto": "Apenas IV está incorreta."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047543",
+   "codigo": "4000047543",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 18,
+   "temas": [
+    "Variável discreta",
+    "Variável contínua",
+    "Variável nominal"
+   ],
+   "enunciado": "O sexo, o número de doses de vacinas anteriormente aplicadas e o peso das crianças são, respectivamente, variáveis do tipo",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "nominal, discreta e contínua."
+    },
+    {
+     "letra": "B",
+     "texto": "ordinal, discreta e discreta."
+    },
+    {
+     "letra": "C",
+     "texto": "discreta, discreta e discreta."
+    },
+    {
+     "letra": "D",
+     "texto": "ordinal, contínua e discreta."
+    },
+    {
+     "letra": "E",
+     "texto": "nominal, contínua e contínua."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047536",
+   "codigo": "4000047536",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 19,
+   "temas": [
+    "Mediana",
+    "Média",
+    "Moda"
+   ],
+   "enunciado": "A secretaria municipal de saúde de uma cidade brasileira registrou, nos últimos sete meses, a seguinte quantidade de doses de vacinas aplicadas contra o sarampo: 1.100; 1.400, 1.900, 1.700; 1.800; 1.100 e 800 doses. Quais são os valores da média aritmética, da mediana e da moda das doses de vacinas aplicadas nos sete meses, respectivamente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Os valores das três medidas são coincidentes."
+    },
+    {
+     "letra": "B",
+     "texto": "1.400; 1.100; 1.100."
+    },
+    {
+     "letra": "C",
+     "texto": "1.400; 900; 1.900."
+    },
+    {
+     "letra": "D",
+     "texto": "1.400; 1.400; 1.100."
+    },
+    {
+     "letra": "E",
+     "texto": "Não é possível calcular uma das três medidas solicitadas."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047521",
+   "codigo": "4000047521",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 20,
+   "temas": [
+    "Indicação",
+    "Indicação",
+    "Indicações"
+   ],
+   "enunciado": "O calendário vacinal, adotado pelo Ministério da Saúde do Brasil em 2019, recomenda que, ao nascerem, as crianças devem ser vacinadas contra; I. Rotavírus. II. Tuberculose (BCG). III. Poliomielite. IV. Caxumba. V. Hepatite B. Está CORRETO, apenas, o que se afirma em",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I, II e III."
+    },
+    {
+     "letra": "B",
+     "texto": "II."
+    },
+    {
+     "letra": "C",
+     "texto": "III."
+    },
+    {
+     "letra": "D",
+     "texto": "II e V."
+    },
+    {
+     "letra": "E",
+     "texto": "I."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047502",
+   "codigo": "4000047502",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 21,
+   "temas": [
+    "Indicação"
+   ],
+   "enunciado": "Neste ano (2019), está acontecendo um aumento na ocorrência de casos de Sarampo no Brasil, tendo sido registrados, inclusive, óbitos decorrentes dessa doença. O estado de São Paulo é o mais atingido. No sábado, dia 19 de outubro deste ano, foi realizado, em todo o país, o \"Dia D\", uma parceria do Ministério da Saúde com as secretarias estaduais e municipais de saúde, que teve como objetivo reforçar a importância da vacinação contra o sarampo em crianças de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "seis meses a menores de 1 ano de idade."
+    },
+    {
+     "letra": "B",
+     "texto": "seis meses a menores de 5 anos de idade."
+    },
+    {
+     "letra": "C",
+     "texto": "doze meses a menores de 5 anos de idade."
+    },
+    {
+     "letra": "D",
+     "texto": "menores de um ano de idade."
+    },
+    {
+     "letra": "E",
+     "texto": "seis a dezoito meses de idade."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047489",
+   "codigo": "4000047489",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 22,
+   "temas": [
+    "Diagnóstico",
+    "Doença de Hirschsprung",
+    "Pseudoconstipação do lactente"
+   ],
+   "enunciado": "Leiam os três casos clínicos abaixo: Caso 1: Lactente de 2 meses, com genitora referindo di culdade para evacuar, com frequência média a cada 3 a 5 dias. Está em aleitamento materno exclusivo sob livre demanda. Sem história de vômitos ou dor abdominal. Quando evacua, as fezes têm aspecto pastoso. Ganho pôndero-estatural adequado e, ao exame, não foi observada dor ou distensão abdominal. Toque retal com fezes de consistência normal na ampola. Caso 2: Criança de 1 ano, com queixa de distensão abdominal e di culdade para evacuar desde o nascimento. Genitora refere que é comum o menor apresentar quadro de inapetência e vômitos. Nos antecedentes, mãe refere atraso na eliminação do mecônio. Apresenta ganho pôndero-estatural inadequado para a faixa etária. Ao exame, observa-se abdome distendido com eliminação de fezes explosivas ao toque retal. Caso 3: Paciente de 5 anos com história de di culdade para evacuar há 6 meses. Genitora refere que o paciente evacua, em média, 1 vez por semana, apresenta comportamento retentivo, muitas vezes referindo \"\"medo de fazer cocô porque sente dor\"\". Quando evacua, as fezes são bastante volumosas e chegam a entupir o vaso sanitário. Apresenta ganho pôndero-estatural adequado.Ao exame, apresenta fezes endurecidas ao toque retal. Sobre esses casos, assinale a alternativa CORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Os casos 1 e 3 necessitam de tratamento medicamentoso, e o 2, provavelmente, necessitará de intervenção cirúrgica"
+    },
+    {
+     "letra": "B",
+     "texto": "O caso 1 descreve uma situação fisiológica. Os casos 2 e 3 descrevem quadros de constipação funcional, sem sinais de alarme."
+    },
+    {
+     "letra": "C",
+     "texto": "O caso 1 evidencia uma situação fisiológica. O caso 2 mostra uma constipação de etiologia orgânica. O caso 3, provavelmente, se trata de uma constipação crônica funcional."
+    },
+    {
+     "letra": "D",
+     "texto": "O caso 1 é um quadro fisiológico. O caso 2, provavelmente, se refere a um paciente com constipação funcional. O caso 3 evidencia um paciente com constipação de provável etiologia orgânica."
+    },
+    {
+     "letra": "E",
+     "texto": "Os casos 1, 2 e 3 necessitam de tratamento medicamentoso."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047461",
+   "codigo": "4000047461",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 23,
+   "temas": [
+    "Orientações gerais de puericultura Sinais de alerta"
+   ],
+   "enunciado": "A tecnologia digital incorpora benefícios e malefícios à rotina das crianças e adolescentes. O bom senso e a informação adequada devem ser enfatizados pelos pediatras para as famílias, crianças e adolescentes. Sobre esse assunto, a Sociedade Brasileira de Pediatria recomenda que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o limite do tempo de exposição às mídias seja, no máximo, de uma hora por dia para crianças entre dois a cinco anos de idade."
+    },
+    {
+     "letra": "B",
+     "texto": "a duração total/dia do uso de tecnologia digital não precisa ser limitada e proporcional às idades e às etapas do desenvolvimento, desde que sejam equilibradas com atividades ao ar livre."
+    },
+    {
+     "letra": "C",
+     "texto": "crianças, independente da idade, podem fazer uso de televisão ou computador nos seus próprios quartos, desde que sejam estabelecidos limites de horários para uso e na presença dos pais."
+    },
+    {
+     "letra": "D",
+     "texto": "crianças com mais de quatro anos já conseguem separar a fantasia da realidade, portanto jogos online com cenas de tiroteios ou desastres podem ser utilizados a partir dessa idade, com supervisão dos pais."
+    },
+    {
+     "letra": "E",
+     "texto": "crianças, independente da idade, não podem fazer uso da tecnologia digital, mesmo que esse tempo seja limitado pelos pais."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047450",
+   "codigo": "4000047450",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 24,
+   "temas": [
+    "Situações em que há restrições ao aleitamento materno",
+    "Leite humano X outros leites"
+   ],
+   "enunciado": "A amamentação estabelece o vínculo entre mãe e lho, sendo fator importante ao desenvolvimento da criança. Com relação a esse assunto, analise as alternativas subsequentes e assinale a CORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A OMS recomenda que mulheres portadoras do vírus da hepatite C não devem amamentar devido ao risco de transmissão do vírus pelo leite materno."
+    },
+    {
+     "letra": "B",
+     "texto": "O primeiro leite, o colostro, é fundamental na saúde do lactente, especialmente por ser mais rico em proteínas e betacaroteno."
+    },
+    {
+     "letra": "C",
+     "texto": "O leite humano, comparado ao leite de vaca integral, apresenta um teor de ferro maior, porém com menor disponibilidade. Após 6 meses, as crianças em aleitamento materno devem receber suplementação de ferro."
+    },
+    {
+     "letra": "D",
+     "texto": "O leite humano possui um nutriente, os oligossacarídeos neutros, que favorecem o desenvolvimento de uma flora intestinal específica, tornando o lactente menos suscetível às infecções do tubo digestório."
+    },
+    {
+     "letra": "E",
+     "texto": "O leite materno possui anticorpos que são transferidos da mãe para o filho, caracterizando a imunidade do tipo celular."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047433",
+   "codigo": "4000047433",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 25,
+   "temas": [
+    "Classif icação",
+    "Tratamento"
+   ],
+   "enunciado": "De acordo com o IV Consenso Brasileiro de Rinites, assinale a alternativa que melhor correlaciona a classificação da rinite e seu respectivo tratamento. 1. Rinite Intermitente Leve; 2. Rinite Intermitente Moderada / Grave; 3. Rinite Persistente Leve; 4. Rinite Persistente Moderada / Grave; A. Anti-histamínico oral AH1; B. Antileucotrieno; C. Corticoide tópico nasal; 4. Corticoide oral. Assinale a alternativa que indica a associação CORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1B – 2D – 3A – 4C"
+    },
+    {
+     "letra": "B",
+     "texto": "1A – 2B – 3C – 4C"
+    },
+    {
+     "letra": "C",
+     "texto": "1D – 2C – 3B – 4A"
+    },
+    {
+     "letra": "D",
+     "texto": "1C – 2D – 3C – 4B"
+    },
+    {
+     "letra": "E",
+     "texto": "1B – 2A – 3D – 4B"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047413",
+   "codigo": "4000047413",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 26,
+   "temas": [
+    "Transmissão vertical do HIV"
+   ],
+   "enunciado": "Recém-nascido termo nasceu de parto vaginal, com peso adequado para idade gestacional e sem intercorrências. Genitora não fez pré-natal, referindo que não sabia estar grávida. No momento do parto, foram realizados exames de rotina, tendo o teste rápido para sí lis sido não reagente, e o teste rápido para o HIV, reagente. Exame físico normal. NÃO faz parte da conduta inicial desse paciente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Banho em água corrente na sala de parto."
+    },
+    {
+     "letra": "B",
+     "texto": "Administração de zidovudina 4mg/kg/dose, via oral."
+    },
+    {
+     "letra": "C",
+     "texto": "Administração de nevirapina 1,2ml, via oral."
+    },
+    {
+     "letra": "D",
+     "texto": "Solicitar hemograma e dosagem de AST e ALT."
+    },
+    {
+     "letra": "E",
+     "texto": "Solicitar sorologia para HIV por método Elisa."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047402",
+   "codigo": "4000047402",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 27,
+   "temas": [
+    "O Recémnascido prétermo tardio"
+   ],
+   "enunciado": "Recém-nascidos termo precoce são os que nascem entre 37 semanas e 38 semanas e 6 dias. Considerando a epidemiologia, uma comparação com os maiores de 39 semanas e a maior morbimortalidade desse grupo etário, é CORRETO afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "nos últimos anos, houve declínio do número de nascimentos de termos precoces e aumento proporcional dos nascidos com mais de 39 semanas."
+    },
+    {
+     "letra": "B",
+     "texto": "o aumento de taxa de parto cesáreo e da indução de trabalho de parto contribuiu para o aumento do número de RN termo precoce."
+    },
+    {
+     "letra": "C",
+     "texto": "o número de gestações múltiplas não parece ter relação com a maior ocorrência de RN termo precoce."
+    },
+    {
+     "letra": "D",
+     "texto": "os RN termo precoce apresentam maior prevalência de taquipneia transitória e menor prevalência de hipertensão pulmonar persistente."
+    },
+    {
+     "letra": "E",
+     "texto": "os RN termo precoce apresentam mais hipoglicemia e dificuldade de sucção, porém menor taxa de incidência de sepse neonatal."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047388",
+   "codigo": "4000047388",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 28,
+   "temas": [
+    "Persistência do canal arterial"
+   ],
+   "enunciado": "Quanto às repercussões pulmonares e sistêmicas da Persistência do Canal Arterial (PCA) em recém-nascidos, é CORRETO afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "ocorre aumento do fluxo sanguíneo e edema pulmonar relacionados a importante fluxo direito-esquerdo pelo canal arterial."
+    },
+    {
+     "letra": "B",
+     "texto": "há aumento da pré-carga do ventrículo esquerdo, acarretando aumento da pressão diastólica final nesse ventrículo e da pressão capilar pulmonar."
+    },
+    {
+     "letra": "C",
+     "texto": "apesar da maior ocorrência em prematuros, a PCA não foi relacionada com um aumento do risco de displasia broncopulmonar."
+    },
+    {
+     "letra": "D",
+     "texto": "há aumento do fluxo sistêmico, especialmente para rins e circulação mesentérica, o que se associa com maior risco de enterocolitenecrosante."
+    },
+    {
+     "letra": "E",
+     "texto": "a redução do fluxo sistêmico pode funcionar como fator protetor para hemorragia intracraniana do prematuro com PCA."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047375",
+   "codigo": "4000047375",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 29,
+   "temas": [
+    "Diagnóstico"
+   ],
+   "enunciado": "Recém-nascido de 32 semanas de idade gestacional e 1 hora de vida apresenta desconforto respiratório. Nasceu de parto vaginal após genitora chegar em período expulsivo a serviço de emergência obstétrica. Apresentou Apgar1':7 e 5':9 e recebeu ventilação com pressão positiva ao nascer. Exame físico: estado geral regular, dispneico, TSC + e TIC +, gemente, corado, hipoativo. AR: murmúrio vesicular presente, sem ruídos, pouca expansibilidade torácica, FR: 74 ipm, SatO₂ 91% em CPAP com FiO₂50%. Uma radiografia de tórax desse paciente deve mostrar",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "retificação de arcos costais com campos pulmonares limpos."
+    },
+    {
+     "letra": "B",
+     "texto": "broncograma aéreo e infiltrado retículo granular fino e difuso."
+    },
+    {
+     "letra": "C",
+     "texto": "pneumotórax e enfisema pulmonar."
+    },
+    {
+     "letra": "D",
+     "texto": "broncograma aéreo e atelectasia lobar à direita."
+    },
+    {
+     "letra": "E",
+     "texto": "infiltrado nodular grosseiro e irregular com áreas de hipoinsuflação."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047364",
+   "codigo": "4000047364",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 30,
+   "temas": [
+    "Tratamento e prevenção",
+    "Diagnóstico"
+   ],
+   "enunciado": "Adolescente de 13 anos, masculino, previamente hígido, queixa-se de febre há 10 dias associada à dor em joelho direito e punho esquerdo. Há 24 horas, vem apresentando tosse seca e falta de ar. Relata que, há 3 semanas, apresentou dor de garganta e cou bem com o uso de ibuprofeno. Dados positivos do exame físico: dor à mobilização do joelho direito e do punho esquerdo, sem limitação na amplitude do movimento, nem calor ou hiperemia local. Aparelho respiratório com estertores nos em bases e FR: 40irpm. Aparelho cardiovascular: ritmo cardíaco regular em 3 tempos, frêmito palpável em foco mitral e sopro holosistólico (4+/6+) em foco mitral com irradiação para axila, FC: 120bpm, PA: 110x70mmHg, pulsos cheios, extremidades aquecidas. Abdome: fígado palpável a 3 cm do rebordo costal direito. Qual a melhor combinação de exames complementares e tratamento inicial para o caso dentre as alternativas abaixo?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "ASO, Rx de tórax, ECG e ecocardiograma / ácido acetilsalicílico, furosemida e captopril."
+    },
+    {
+     "letra": "B",
+     "texto": "ASO, PCR, VHS, Rx de tórax, ECG e ecocardiograma / prednisona e furosemida."
+    },
+    {
+     "letra": "C",
+     "texto": "Cultura de orofaringe, PCR, VHS, Rx de tórax e ECG / ácido acetilsalicílico, furosemida e carvedilol."
+    },
+    {
+     "letra": "D",
+     "texto": "Cultura de orofaringe, Rx de tórax, ECG e ecocardiograma / prednisona, furosemida e digoxina."
+    },
+    {
+     "letra": "E",
+     "texto": "Cultura de orofaringe, ASO, PCR, VHS, Rx de tórax e ECG / prednisona, ácido acetilsalicílico, furosemida e carvedilol."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047344",
+   "codigo": "4000047344",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 31,
+   "temas": [
+    "Tuberculose Latente"
+   ],
+   "enunciado": "Pré-escolar de 4 anos, masculino, é levado à Unidade Básica de Saúde, por orientação médica, pois há uma semana seu pai teve diagnóstico de Tuberculose Pulmonar e faleceu logo em seguida. Menor assintomático. Recebeu BCG ao nascer. Qual a conduta mais adequada para essa criança?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Realizar inicialmente PT (prova tuberculínica) e, se PT = 4mm, realizar Rx de tórax e, se for normal, tratar para ILTB (infecção latente por tuberculose)."
+    },
+    {
+     "letra": "B",
+     "texto": "Realizar inicialmente PT e, se for = 10mm, realizar Rx de tórax e, se for alterado, tratar para tuberculose ativa."
+    },
+    {
+     "letra": "C",
+     "texto": "Realizar inicialmente Rx de tórax e, se for normal, realizar PT; se for = 8mm, repetir PT em 8 semanas, e, se não houver conversão da PT, dar alta com orientações."
+    },
+    {
+     "letra": "D",
+     "texto": "Realizar PT e Rx de tórax, se PT = 4mm e Rx de tórax normal, dar alta com orientações."
+    },
+    {
+     "letra": "E",
+     "texto": "Realizar PT e Rx de tórax, se PT = 5mm e Rx de tórax normal, tratar para ILTB."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047337",
+   "codigo": "4000047337",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 32,
+   "temas": [
+    "Tratamento",
+    "Diagnóstico",
+    "Inf ectologia"
+   ],
+   "enunciado": "Escolar de 9 anos, masculino, é levado à emergência pediátrica, com queixa de febre, cefaleia, anorexia, dor abdominal difusa e náuseas há 8 dias. Mora na zona rural de Igarassu, cidade do litoral de Pernambuco, em casa de taipa, sem água encanada nem saneamento básico, tendo o hábito de jogar futebol descalço em campo de barro ao lado do rio, onde toma banho com os amigos. Ao exame, apresenta palidez 1+/4+, abdome levemente doloroso à palpação em hipocôndrio direito, com fígado palpável a cerca de 4 cm do RCD. Diante das possibilidades de diagnóstico diferencial, qual a melhor combinação de exames complementares e tratamento?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hemograma e coprocultura / ceftriaxona 100mg/kg/dia durante 7 dias"
+    },
+    {
+     "letra": "B",
+     "texto": "Hemograma e parasitológico de fezes (técnica de Kato-Katz) / praziquantel 60mg/kg, dose única"
+    },
+    {
+     "letra": "C",
+     "texto": "Hemograma e parasitológico de fezes / metronidazol 30mg/kg/dia durante 21 dias"
+    },
+    {
+     "letra": "D",
+     "texto": "Detecção de anticorpos anti-Trypanosoma Cruzi das classes IgG e IgM / nifurtimox 15mg/kg/dia durante 60 dias"
+    },
+    {
+     "letra": "E",
+     "texto": "Hemograma e PCR para Leptospira / cloranfenicol 100mg/kg/dia por 7 dias"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047304",
+   "codigo": "4000047304",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 33,
+   "temas": [
+    "Abordagem sindrômica"
+   ],
+   "enunciado": "Adolescente de 15 anos, feminino, procura Unidade Básica de Saúde com queixa de ferida em vulva há 7 dias. Relata sexarca aos 13 anos, 5 parcerias sexuais nos últimos 6 meses e não usa preservativos. Faz uso regular de anticonceptivo hormonal injetável; última menstruação há 15 dias. Exame físico da região genital: presença de úlcera indolor, endurecida, sem secreção em grande lábio esquerdo. Linfonodos inguinais palpáveis, broelásticos, móveis indolores, o maior medindo 2,0 x 2,0cm. Não há disponibilidade para a realização de exame bacterioscópico da lesão. Qual a conduta mais adequada para o caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Doxiciclina 100mg, 12/12h por 21 dias + aciclovir 200mg 5x/dia por 7 dias."
+    },
+    {
+     "letra": "B",
+     "texto": "Benzilpenicilina benzatina 2,4 milhões de UI IM, dose única + aciclovir 200mg 5x/dia por 7 dias."
+    },
+    {
+     "letra": "C",
+     "texto": "Azitromicina 500mg, 2 comprimidos dose única + doxiciclina 100mg, 12/12h por 21 dias."
+    },
+    {
+     "letra": "D",
+     "texto": "Azitromicina 500mg, 2 comprimidos dose única + benzilpenicilina benzatina 2,4 milhões de UI IM, dose única."
+    },
+    {
+     "letra": "E",
+     "texto": "Benzilpenicilina benzatina 2,4 milhões de UI IM, Semanal, por 3 semanas"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047292",
+   "codigo": "4000047292",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 34,
+   "temas": [
+    "Diagnóstico do Autismo",
+    "Transtorno do Espectro Autista TEA"
+   ],
+   "enunciado": "Um novo relatório do Centro de Controle e Prevenção de Doenças (CDC) de 2018, dos Estados Unidos, mostrou um aumento de 15% no número de crianças com determinada doença neurológica, em relação aos dois anos anteriores. Isso significa 1 caso para cada 59 crianças. À qual doença o texto se refere?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Epilepsia"
+    },
+    {
+     "letra": "B",
+     "texto": "Transtorno do espectro autista"
+    },
+    {
+     "letra": "C",
+     "texto": "Hipóxia neonatal"
+    },
+    {
+     "letra": "D",
+     "texto": "Transtorno e déficit de atenção e hiperatividade"
+    },
+    {
+     "letra": "E",
+     "texto": "Insônia"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q034-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000047270",
+   "codigo": "4000047270",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 35,
+   "temas": [
+    "Segurança da casa",
+    "Segurança no transporte",
+    "Epidemiologia"
+   ],
+   "enunciado": "De acordo com o relatório da OMS e UNICEF de 2008, mais de 800.000 crianças morreram vítimas de acidentes em todo o mundo... Calcula-se que, em 2020, esse número será 20% maior.\" A prevenção contra acidentes deve ser um tema sempre abordado nas consultas de puericultura pelo pediatra, em função dos dados alarmantes acima. Sobre esse tema, analise as assertivas abaixo: I. Em relação aos acidentes por submerssão, o uso de boias de braço ou de cintura são boas medidas preventivas a serem orientadas na consulta pediátrica de lactentes e pré-escolares. II. Intoxicações exógenas são frequentes, especialmente em crianças menores de 5 anos; devendo-se, dessa forma, aconselhar o não uso de remédios caseiros à base de plantas, sem orientação médica. III. Desestimular o uso de andadores, pois estes podem levar a quedas, com potencial risco de traumatismo cranioencefálico. IV. Em relação ao transporte seguro em automóveis, o uso de assento de segurança voltado para frente está indicado para crianças maiores de 1 ano, enquanto o assento de elevação é o dispositivo apropriado para crianças acima de 20-22 kg e até alcançar 145 cm de altura.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "III e IV estão incorretas."
+    },
+    {
+     "letra": "B",
+     "texto": "apenas I está correta."
+    },
+    {
+     "letra": "C",
+     "texto": "I e IV estão corretas."
+    },
+    {
+     "letra": "D",
+     "texto": "I, II e IV estão corretas."
+    },
+    {
+     "letra": "E",
+     "texto": "I está incorreta."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047256",
+   "codigo": "4000047256",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 36,
+   "temas": [
+    "Vacinas"
+   ],
+   "enunciado": "Lactente com diagnóstico de síndrome nefrótica por lesões mínimas, em uso de prednisolona (2 mg/kg/dia) há mais de 4 semanas. Cartão vacinal encontra-se desatualizado. Nesse momento, NÃO há contraindicações absolutas em realizar as vacinas listadas abaixo:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Vacina pentavalente/pneumocócica 10-valente."
+    },
+    {
+     "letra": "B",
+     "texto": "Vacina meningocócica conjugada quadrivalente/vacina tetra viral."
+    },
+    {
+     "letra": "C",
+     "texto": "Vacina contra a hepatite A/vacina contra a varicela."
+    },
+    {
+     "letra": "D",
+     "texto": "Vacina contra a febre amarela/vacina meningocócica B."
+    },
+    {
+     "letra": "E",
+     "texto": "Vacina meningocócica B/ tríplice viral."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047244",
+   "codigo": "4000047244",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 37,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Em recente revisão sistemática realizada pelo Cochrane (ROBSINSON et al. 2019), evidenciou-se que os programas de saúde pública para tratar regularmente todas as crianças, incluindo aquelas assintomáticas, com remédios para desparasitação, especialmente as residentes em áreas endêmicas, não parecem melhorar parâmetros, como altura, hemoglobina, cognição, desempenho escolar ou mortalidade. No entanto, em situações especí cas, nas quais a criança apresenta diarreia, dor abdominal ou anemia ferropriva, uma investigação laboratorial deverá ser feita e, assim, direcionar o tratamento específico para o parasita encontrado. Em relação aos pacientes sintomáticos, confirmados com giardíase, assinale a alternativa que apresenta as opções terapêuticas com as melhores taxas de cura.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Furazolidona por 7 dias ou albendazol por 5 dias"
+    },
+    {
+     "letra": "B",
+     "texto": "Tinidazol ou metronidazol por 7 dias"
+    },
+    {
+     "letra": "C",
+     "texto": "Ivermectinaou secnidazol em dose única"
+    },
+    {
+     "letra": "D",
+     "texto": "Nitazoxanida por 3 dias ou levamisol dose única"
+    },
+    {
+     "letra": "E",
+     "texto": "Levamisol dose única ou tiabendazol por 3 dias"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000047233",
+   "codigo": "4000047233",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 38,
+   "temas": [
+    "Perf il de f erro na anemia f erropriva",
+    "Classif icação das anemias Foco na f erropriva"
+   ],
+   "enunciado": "Lactente masculino de 7 meses e 5 dias de vida, nascido a termo, é atendido pela primeira vez, no ambulatório de puericultura de um hospital de referência em Recife. A família mudou-se de uma cidade do interior para a capital, há poucos dias. No atendimento, além de questionar sobre o parto, alimentação, vacinação e desenvolvimento da criança, a médica pediatra percebeu anemia (2+/4+) como único achado significativo ao exame físico. Dados antropométricos ao nascimento: Peso: 2.750 g / Comprimento: 48 cm / Perímetro cefálico: 34 cm Dados antropométricos atuais: Peso e comprimento entre -1 e -2 DP das curvas da OMS de peso por idade em meninos e comprimento por idade em meninos, respectivamente. Na anamnese alimentar do lactente do caso clínico acima, a pediatra identi cou que ele foi amamentado apenas nos primeiros 15 dias de vida, recebendo leite integral desde então, com adição de cereais. Até o momento, não tinha recebido orientações sobre a introdução do cardápio alimentar. Não está fazendo uso de nenhum suplemento. Genitora nega história de doenças hematológicas na família. Teste do pezinho normal. Diante da principal causa da anemia do menor em questão, o único resultado de exame que NÃO esperamos encontrar é o seguinte:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "níveis aumentados de hepcidina."
+    },
+    {
+     "letra": "B",
+     "texto": "hemoglobina abaixo de 11 g/dL."
+    },
+    {
+     "letra": "C",
+     "texto": "zinco-protoporfirina eritrocitária livre elevada."
+    },
+    {
+     "letra": "D",
+     "texto": "aumento dos receptores séricos de transferrina."
+    },
+    {
+     "letra": "E",
+     "texto": "baixa concentração de hemoglobina no reticulócito."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047218",
+   "codigo": "4000047218",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 39,
+   "temas": [
+    "Puericultura Geral",
+    "Gráf icos OMS Classif icação nutricional"
+   ],
+   "enunciado": "Lactente masculino de 7 meses e 5 dias de vida, nascido a termo, é atendido pela primeira vez, no ambulatório de puericultura de um hospital de referência em Recife. A família mudou-se de uma cidade do interior para a capital, há poucos dias. No atendimento, além de questionar sobre o parto, alimentação, vacinação e desenvolvimento da criança, a médica pediatra percebeu anemia (2+/4+) como único achado significativo ao exame físico. Dados antropométricos ao nascimento: Peso: 2.750 g / Comprimento: 48 cm / Perímetro cefálico: 34 cm Dados antropométricos atuais: Peso e comprimento entre -1 e -2 DP das curvas da OMS de peso por idade em meninos e comprimento por idade em meninos, respectivamente. Em relação aos aspectos antropométricos do lactente, admitindo crescimento médio normal e mesmo sem verificar os gráficos de crescimento, é CORRETO afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o perímetro cefálico esperado para o menor é aproximadamente de 40 cm no momento da consulta."
+    },
+    {
+     "letra": "B",
+     "texto": "com os dados fornecidos sobre o peso e comprimento atuais, o menor poderá encontrar-se com risco de sobrepeso na curva do IMC (índice de Massa Corpórea) da OMS."
+    },
+    {
+     "letra": "C",
+     "texto": "uma boa estimativa atual de peso para o menor, em função dos dados de nascimento e da consulta do 7º mês, é de aproximadamente 8.700 g."
+    },
+    {
+     "letra": "D",
+     "texto": "o menor apresenta baixa estatura para a idade, no momento da consulta, apesar de ter nascido com um comprimento adequado."
+    },
+    {
+     "letra": "E",
+     "texto": "pelos dados fornecidos, tanto o peso quanto o comprimento do menor encontram-se à esquerda da mediana das curvas de peso x idade e comprimento x idade para o sexo masculino, respectivamente."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047201",
+   "codigo": "4000047201",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 40,
+   "temas": [
+    "Inf ectologia",
+    "Fase aguda",
+    "Fase aguda"
+   ],
+   "enunciado": "\"A ciência caminha para a descoberta de novas vacinas e novas drogas antimicrobianas. Enquanto isso, permanece fundamental conhecermos os meios pelos quais essas doenças nos atingem e tomamos os cuidados para evitá-las\". Perigos Ocultos nas Paisagens Brasileiras: como evitar doenças infecciosas. Stefan Cunha Ujvari, ed Senac, SP, 2019. A forma tradicional de transmissão dessa doença, quando foi identi cada no século passado, parece estar sendo superada pela ingestão de fezes em alimentos, como caldo de cana-de-açúcar ou açaí. Neste ano, dezenas de casos da forma aguda dessa doença em Pernambuco podem ter sido atribuídas a essa 'nova' forma de transmissão (oral). Adultos e crianças foram acometidos, apresentando sinais e sintomas, como febre por mais de sete dias, cefaleia, mialgia, edema de membros inferiores, exantema e até miocardite, o que torna as arboviroses um importante diagnóstico diferencial. Esse texto refere- se à fase aguda de uma doença infecciosa. O tratamento de escolha deve ser realizado com",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Oxamniquine."
+    },
+    {
+     "letra": "B",
+     "texto": "Praziquantel."
+    },
+    {
+     "letra": "C",
+     "texto": "Dietilcarbamazina."
+    },
+    {
+     "letra": "D",
+     "texto": "Glucantime."
+    },
+    {
+     "letra": "E",
+     "texto": "Benzonidazol."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047187",
+   "codigo": "4000047187",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 41,
+   "temas": [
+    "Vacina tetra viral",
+    "Vacina Tríplice Viral",
+    "Vigilância Epidemiológica"
+   ],
+   "enunciado": "Em relação às estratégias de vacinação para o sarampo, todas as afirmações abaixo estão corretas, EXCETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O bloqueio vacinal seletivo deve ser realizado em até 72 horas, em todos os contatos susceptíveis do caso suspeito durante a investigação."
+    },
+    {
+     "letra": "B",
+     "texto": "Para crianças de seis a 11 meses e 29 dias, o Ministério da Saúde instituiu a chamada primeira dose da vacina tríplice viral, sendo realizada, nesse caso, a segunda dose aos 15 meses."
+    },
+    {
+     "letra": "C",
+     "texto": "As crianças com alergia à proteína do leite de vaca não deverão fazer a vacina do Laboratório Indiano."
+    },
+    {
+     "letra": "D",
+     "texto": "Deve-se vacinar todos os trabalhadores da saúde de qualquer idade que atuam no atendimento direto de pacientes com suspeita de infecções respiratórias."
+    },
+    {
+     "letra": "E",
+     "texto": "Durante as ações de bloqueio vacinal, recomenda-se vacinação seletiva, ou seja, se houver comprovação vacinal de uma criança ou adolescente (duas doses), não deve haver revacinação."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047174",
+   "codigo": "4000047174",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 42,
+   "temas": [
+    "Exames complementares",
+    "Quadro Clínico"
+   ],
+   "enunciado": "Paciente de 45 anos, G3 P3, com dismenorreia progressiva. Apresenta ainda menstruação com aumento significativo do número de dias e do volume de sangramento no período menstrual. O exame físico revelou um útero aumentado globalmente de volume, com consistência amolecida e útero doloroso à mobilização. De acordo com esse quadro, assinale a alternativa que revela a hipótese diagnóstica mais adequada e a melhor propedêutica para confirmação diagnóstica.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Mioma, ultrassonografia."
+    },
+    {
+     "letra": "B",
+     "texto": "Pólipo, histeroscopia."
+    },
+    {
+     "letra": "C",
+     "texto": "Útero didelfo, histerossalpingografia."
+    },
+    {
+     "letra": "D",
+     "texto": "Adenomiose, anatomopatológico."
+    },
+    {
+     "letra": "E",
+     "texto": "Adenocarcinoma, curetagem."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047162",
+   "codigo": "4000047162",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 43,
+   "temas": [
+    "Critérios diagnósticos",
+    "Síndrome dos ovários policísticos"
+   ],
+   "enunciado": "Paciente, 26 anos, G0 P0, chega ao ambulatório de ginecologia com queixas de ausência de menstruação há seis meses. Apresenta-se com excesso de peso (IMC= 40), placas aveludadas e enegrecidas na região da nuca, associadas a pelos grossos no queixo, buço e região do tórax. Traz consigo uma dosagem sérica d (USG) não revela anormalidades na genitália interna. De acordo com esse quadro, assinale a alternativa CORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O quadro reflete síndrome da anovulação crônica, pois contempla dois dos três critérios de Rotterdam."
+    },
+    {
+     "letra": "B",
+     "texto": "O quadro é compatível com androginismo isolado, uma vez que a paciente não possui ovários policísticos na USG."
+    },
+    {
+     "letra": "C",
+     "texto": "Deve-se realizar exame ecográfico seriado para diagnosticar a síndrome da anovulação crônica."
+    },
+    {
+     "letra": "D",
+     "texto": "Para se diagnosticar a síndrome do hiperandrogenismo, deve-se solicitar a dosagem de testosterona e androstenediona."
+    },
+    {
+     "letra": "E",
+     "texto": "A síndrome só é estabelecida, se o índice de androgênios livres for maior que 25 e o índice de Ferriman Gallwey menor que 15."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047148",
+   "codigo": "4000047148",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 44,
+   "temas": [
+    "Tipos e causas"
+   ],
+   "enunciado": "Mulher com 45 anos vai ao consultório de ginecologia com mama direita apresentando proliferação exofítica próxima à papila. Revela que o crescimento foi lento. O aspecto é friável de coloração vinhosa. A descarga papilar é serosanguinolenta, espontânea, unilateral e por um único orifício. Refere dor à palpação. O exame ecográ co demonstra segmento ductal dilatado, padrões hipoecoicos acoplados à parede com crescimento verrocoso. Esse quadro revela o seguinte tipo de tumor mamário:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Fibroadenoma simples."
+    },
+    {
+     "letra": "B",
+     "texto": "Papiloma intraductal."
+    },
+    {
+     "letra": "C",
+     "texto": "Tumor Phyllodes."
+    },
+    {
+     "letra": "D",
+     "texto": "Hamartomas."
+    },
+    {
+     "letra": "E",
+     "texto": "Lipomas."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000047133",
+   "codigo": "4000047133",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 45,
+   "temas": [
+    "Contraindicações"
+   ],
+   "enunciado": "Mulher de 36 anos, G3 P3, tabagista, etilista social, com parceiro xo há um ano, deseja interromper o uso de DIU de cobre e iniciar contracepção oral combinada. Procura o médico do posto de saúde que, prontamente, contraindicou o método desejado pela paciente. No interrogatório, a paciente ainda referiu ter pedra na vesícula, enxaqueca sem aura e hipertensão moderada que está controlada com medicações e dieta. Qual das alternativas reúne as contraindicações para o caso em questão?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Idade de 36 anos e tabagista."
+    },
+    {
+     "letra": "B",
+     "texto": "Etilista com doença da vesícula biliar."
+    },
+    {
+     "letra": "C",
+     "texto": "Enxaqueca sem aura e etilista."
+    },
+    {
+     "letra": "D",
+     "texto": "Hipertensão moderada com 36 anos."
+    },
+    {
+     "letra": "E",
+     "texto": "Uso prévio de DIU em tabagistas."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047119",
+   "codigo": "4000047119",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 46,
+   "temas": [
+    "Classif icação"
+   ],
+   "enunciado": "Mulher de 30 anos de idade, G0 P0, instrutora de educação física, fumante de um maço de cigarros ao dia, chega ao ambulatório de ginecologia com quadro de dismenorreia progressiva há cinco anos associada à irregularidade menstrual. Tenta gestar por três anos sem sucesso. Já foi submetida à videolaparoscopia que evidenciou lesões endometrióticas disseminadas, de caráter recente no fundo de saco anterior. Sem endometriomas, cicatrizes ou aderências periovarianas. Também não foram observadas aderências peritubárias. Essa descrição é classificada, segundo ACOSTA, em",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "mínima."
+    },
+    {
+     "letra": "B",
+     "texto": "leve."
+    },
+    {
+     "letra": "C",
+     "texto": "moderada."
+    },
+    {
+     "letra": "D",
+     "texto": "grave."
+    },
+    {
+     "letra": "E",
+     "texto": "gravíssima."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047105",
+   "codigo": "4000047105",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 47,
+   "temas": [
+    "Estadiamento"
+   ],
+   "enunciado": "Mulher de 30 anos, G5 P5, com queixa de sangramento genital durante o ato sexual, há três meses. Durante o exame ginecológico, foi observada lesão cervical de um centímetro em seu maior diâmetro, restrita ao colo uterino. A vagina se encontra livre de lesões, assim como os paramétrios. Considerando a possibilidade diagnóstica de neoplasia cérvice uterina, assinale a alternativa que representa o estadiamento adequado.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ia1"
+    },
+    {
+     "letra": "B",
+     "texto": "Ib3"
+    },
+    {
+     "letra": "C",
+     "texto": "Ib1"
+    },
+    {
+     "letra": "D",
+     "texto": "IIa"
+    },
+    {
+     "letra": "E",
+     "texto": "IIb"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047087",
+   "codigo": "4000047087",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 48,
+   "temas": [
+    "Síndrome de Morris"
+   ],
+   "enunciado": "Mulher de 18 anos, virgem, com quadro de amenorreia primária, veio ao ambulatório com exames para serem avaliados: USG revelando ausência de útero, dosagem de testosterona normal, prolactina e TSH normais. Cariótipo 46, XY. Qual o provável diagnóstico para esse caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Síndrome de Rokitansky"
+    },
+    {
+     "letra": "B",
+     "texto": "Síndrome de Asherman"
+    },
+    {
+     "letra": "C",
+     "texto": "Síndrome de Tunner"
+    },
+    {
+     "letra": "D",
+     "texto": "Síndrome de Swyer"
+    },
+    {
+     "letra": "E",
+     "texto": "Síndrome de insensibilidade androgênica"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047065",
+   "codigo": "4000047065",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 49,
+   "temas": [
+    "Classif icação"
+   ],
+   "enunciado": "Paciente procura consultório ginecológico com queixa de \"\"bola\"\" na vagina, há seis meses. Durante o exame, foi realizado o POP-Q que demonstrou o seguinte cenário: De acordo com o estadiamento do POP-Q, qual o diagnóstico dessa paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Prolapso de parede anterior E I"
+    },
+    {
+     "letra": "B",
+     "texto": "Prolapso de parede posterior E II"
+    },
+    {
+     "letra": "C",
+     "texto": "Hipertrofia de colo uterino"
+    },
+    {
+     "letra": "D",
+     "texto": "Prolapso de parede posterior E IV"
+    },
+    {
+     "letra": "E",
+     "texto": "Prolapso de apical Estádio II"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q049-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000047049",
+   "codigo": "4000047049",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 50,
+   "temas": [
+    "Foliculogênese ovariana"
+   ],
+   "enunciado": "Durante o ciclo menstrual, todo o processo culmina com a preparação do folículo para a eclosão da camada super cial do ovário e captação pelas fímbrias. De acordo com o processo de foliculogênese, assinale a alternativa CORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O desenvolvimento até a fase de folículo primordial independe dos níveis de gonadotrofinas."
+    },
+    {
+     "letra": "B",
+     "texto": "A principal característica da fase pré-antral é a diminuição dos receptores de FSH."
+    },
+    {
+     "letra": "C",
+     "texto": "Na fase antral, ocorre o aumento do estradiol com consequente feedback negativo para o LH."
+    },
+    {
+     "letra": "D",
+     "texto": "Na fase pré-ovulatória, acontece uma diminuição das concentrações androgênicas pelo aumento da conversão em estrógenos."
+    },
+    {
+     "letra": "E",
+     "texto": "O aumento dos estrógenos associados ao aumento do FSH e à diminuição do LH são os fenômenos necessários à ovulação."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047034",
+   "codigo": "4000047034",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 51,
+   "temas": [
+    "Ações do estrogênio e progesterona em outros órgãos"
+   ],
+   "enunciado": "Durante todo o processo do ciclo menstrual, a função bioquímica é transformar o colesterol, à base de esteroidogênese, em estradiol, estriol e estrona, envolvendo uma complexa associação de reações químicas. Das alternativas abaixo, qual representa uma função extragenital do esteroide estrogênico?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Promover a hipotermia de sistema nervoso central."
+    },
+    {
+     "letra": "B",
+     "texto": "Diminuir a vasculatura cutânea."
+    },
+    {
+     "letra": "C",
+     "texto": "Reduzir as camadas de colágeno."
+    },
+    {
+     "letra": "D",
+     "texto": "Aumentar a atividade osteoclástica."
+    },
+    {
+     "letra": "E",
+     "texto": "Estimular a liberação de sódio e água."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047025",
+   "codigo": "4000047025",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 52,
+   "temas": [
+    "Altura uterina AU",
+    "Datação da gestação"
+   ],
+   "enunciado": "Pela regra do MacDonald, calcule a idade gestacional quando a altura de fundo uterino é de 30 cm.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "30 semanas e 06 dias."
+    },
+    {
+     "letra": "B",
+     "texto": "32 semanas."
+    },
+    {
+     "letra": "C",
+     "texto": "33 semanas e 01 dias."
+    },
+    {
+     "letra": "D",
+     "texto": "34 semanas e 02 dias."
+    },
+    {
+     "letra": "E",
+     "texto": "35 semanas."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047012",
+   "codigo": "4000047012",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 53,
+   "temas": [
+    "Tipos de f órcipes"
+   ],
+   "enunciado": "Qual é o fórceps mais utilizado na obstetrícia?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Simpson."
+    },
+    {
+     "letra": "B",
+     "texto": "Piper."
+    },
+    {
+     "letra": "C",
+     "texto": "Barton."
+    },
+    {
+     "letra": "D",
+     "texto": "Kielland."
+    },
+    {
+     "letra": "E",
+     "texto": "Elliot."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047002",
+   "codigo": "4000047002",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 54,
+   "temas": [
+    "Razão de Mortalidade Materna"
+   ],
+   "enunciado": "Quais são as mortes maternas que constam no numerador da Razão de Mortalidade Materna?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Causas diretas, apenas."
+    },
+    {
+     "letra": "B",
+     "texto": "Causas diretas e indiretas."
+    },
+    {
+     "letra": "C",
+     "texto": "Causas diretas, indiretas e acidentais."
+    },
+    {
+     "letra": "D",
+     "texto": "Causas diretas, indiretas, acidentais e por suicídios."
+    },
+    {
+     "letra": "E",
+     "texto": "Causas diretas, indiretas e não declaradas."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046989",
+   "codigo": "4000046989",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 55,
+   "temas": [
+    "Morte f etal Óbito f etal OF"
+   ],
+   "enunciado": "Qual deve ser a conduta no caso de feto morto a termo em apresentação pélvica com antecedente de cesárea por sofrimento fetal agudo e que apresenta índice de Bishop de 9?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cesárea"
+    },
+    {
+     "letra": "B",
+     "texto": "Descolamento das membranas e aguardar por 24 horas o início do trabalho de parto"
+    },
+    {
+     "letra": "C",
+     "texto": "Indução do parto com misoprostol"
+    },
+    {
+     "letra": "D",
+     "texto": "Indução do colo com sonda de Foley"
+    },
+    {
+     "letra": "E",
+     "texto": "Indução do parto com ocitocina"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046982",
+   "codigo": "4000046982",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 56,
+   "temas": [
+    "Conduta"
+   ],
+   "enunciado": "Oferecer às mulheres a opção do descolamento das membranas entre 38 e 41 semanas tem como objetivo diminuir a(o)",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "procedência de cordão umbilical."
+    },
+    {
+     "letra": "B",
+     "texto": "sofrimento fetal agudo."
+    },
+    {
+     "letra": "C",
+     "texto": "parto instrumental."
+    },
+    {
+     "letra": "D",
+     "texto": "gravidez prolongada."
+    },
+    {
+     "letra": "E",
+     "texto": "hemorragia pós-parto."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046974",
+   "codigo": "4000046974",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 57,
+   "temas": [
+    "Avaliação do estreito superior"
+   ],
+   "enunciado": "Quando no toque vaginal, NÃO se consegue atingir o promontório, conclui-se que a bacia da mulher apresenta",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Diâmetro anteroposterior amplo."
+    },
+    {
+     "letra": "B",
+     "texto": "Diâmetro transverso amplo."
+    },
+    {
+     "letra": "C",
+     "texto": "Diâmetro transverso estreito."
+    },
+    {
+     "letra": "D",
+     "texto": "Diâmetro oblíquo amplo."
+    },
+    {
+     "letra": "E",
+     "texto": "Diâmetro oblíquo estreito."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046960",
+   "codigo": "4000046960",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 58,
+   "temas": [
+    "Doenças inf ecciosas na gestação HIV síf ilis hepatites herpes",
+    "Fatores de risco"
+   ],
+   "enunciado": "Qual das infecções a mulher apresenta mais risco de adquirir na gravidez do que quando não está grávida?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tricomoníase."
+    },
+    {
+     "letra": "B",
+     "texto": "Cervicite bacteriana."
+    },
+    {
+     "letra": "C",
+     "texto": "Sífilis."
+    },
+    {
+     "letra": "D",
+     "texto": "Candidíase."
+    },
+    {
+     "letra": "E",
+     "texto": "Vaginose."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046951",
+   "codigo": "4000046951",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 59,
+   "temas": [
+    "Sulf ato de magnésio"
+   ],
+   "enunciado": "Qual é a medicação que apresenta algum papel na neuroproteção ao concepto, diminuindo as chances de paralisia?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Terbutalina."
+    },
+    {
+     "letra": "B",
+     "texto": "Sulfato de magnésio."
+    },
+    {
+     "letra": "C",
+     "texto": "Progesterona."
+    },
+    {
+     "letra": "D",
+     "texto": "Antagonistas de receptores de ocitocina."
+    },
+    {
+     "letra": "E",
+     "texto": "Inibidores da cicloxigenase."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046940",
+   "codigo": "4000046940",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 60,
+   "temas": [
+    "Predição e prevenção"
+   ],
+   "enunciado": "Em área onde a ingestão dietética de cálcio é baixa, recomenda-se durante a gestação a suplementação de cálcio para prevenção de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "trabalho de parto prematuro"
+    },
+    {
+     "letra": "B",
+     "texto": "diabetes"
+    },
+    {
+     "letra": "C",
+     "texto": "pré-eclâmpsia"
+    },
+    {
+     "letra": "D",
+     "texto": "CIUR simétrico"
+    },
+    {
+     "letra": "E",
+     "texto": "câimbras"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046931",
+   "codigo": "4000046931",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 61,
+   "temas": [
+    "Hiperêmese gravídica"
+   ],
+   "enunciado": "Na gravidez, a síndrome de Wernick é uma complicação da seguinte doença:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Placenta prévia"
+    },
+    {
+     "letra": "B",
+     "texto": "Descolamento prematuro das membranas"
+    },
+    {
+     "letra": "C",
+     "texto": "Gravidez prolongada"
+    },
+    {
+     "letra": "D",
+     "texto": "Hiperêmese gravídica"
+    },
+    {
+     "letra": "E",
+     "texto": "Doença hemolítica perinatal"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046922",
+   "codigo": "4000046922",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 62,
+   "temas": [
+    "Cirurgia",
+    "Diretrizes de Tokyo"
+   ],
+   "enunciado": "De acordo com Os ''Guidelines de Tokyo 2018'', existem critérios para o diagnóstico adequado da colecistite aguda. Assinale a alternativa que contém um paciente com diagnóstico definitivo de colecistite aguda.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Sinal de Murphy, microcálculos e febre"
+    },
+    {
+     "letra": "B",
+     "texto": "PCR elevada, parede espessa e cálculo único ao USG"
+    },
+    {
+     "letra": "C",
+     "texto": "Murphy ultrassonográfico, massa em HD e leucocitose"
+    },
+    {
+     "letra": "D",
+     "texto": "Febre, > 48h de dor e leucocitose"
+    },
+    {
+     "letra": "E",
+     "texto": "DHL elevada, vesícula dilatada ao USG e febre"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046915",
+   "codigo": "4000046915",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 63,
+   "temas": [
+    "Insuf iciência adrenal secundária",
+    "Manif estações clínicas"
+   ],
+   "enunciado": "Mulher, 39 anos, portadora de artrite reumatoide e usuária crônica de 20mg de prednisona. Evolui com úlcera perfurada duodenal e peritonite. Na tentativa de evitar uma insu ciência adrenal aguda, o anestesista faz hidrocortisona endovenosa na indução. Quais sinais clínicos levantariam a suspeita dessa complicação?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipercalemia e bradicardia"
+    },
+    {
+     "letra": "B",
+     "texto": "Hipotensão e hiponatremia"
+    },
+    {
+     "letra": "C",
+     "texto": "Insuficiência hepática e coma"
+    },
+    {
+     "letra": "D",
+     "texto": "Hipocalcemia e sonolência"
+    },
+    {
+     "letra": "E",
+     "texto": "Convulsão e hiperreflexia"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046904",
+   "codigo": "4000046904",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 64,
+   "temas": [
+    "Manif estações Clínicas e Exame Físico",
+    "Cirurgia"
+   ],
+   "enunciado": "Homem, 19 anos, encaminhado para avaliação cirúrgica de apendicite aguda. Durante o exame clínico, o cirurgião pede para o paciente tossir, e este relata dor. Chamamos esse sinal de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Dunphy."
+    },
+    {
+     "letra": "B",
+     "texto": "Rovsing."
+    },
+    {
+     "letra": "C",
+     "texto": "Lenander."
+    },
+    {
+     "letra": "D",
+     "texto": "Markle."
+    },
+    {
+     "letra": "E",
+     "texto": "Alvarado."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046893",
+   "codigo": "4000046893",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 65,
+   "temas": [
+    "Câncer de Cólon NãoPolipoide Hereditário"
+   ],
+   "enunciado": "O câncer colorretal hereditário não poliposo (HNPCC) pode ser diagnosticado através de testes genéticos e da aplicação dos critérios de Amsterdam II e Bethesda. Qual dos tumores extracolônicos abaixo NÃO faz parte dessa condição autossômica dominante?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Intestino delgado"
+    },
+    {
+     "letra": "B",
+     "texto": "Endométrio"
+    },
+    {
+     "letra": "C",
+     "texto": "Pelve renal"
+    },
+    {
+     "letra": "D",
+     "texto": "Ovário"
+    },
+    {
+     "letra": "E",
+     "texto": "Tireoide"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046884",
+   "codigo": "4000046884",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 66,
+   "temas": [
+    "Politrauma Ortopédico"
+   ],
+   "enunciado": "Num paciente politraumatizado, qual das fraturas abaixo significa um trauma grave (alta energia) com possível lesão de vários sistemas e elevada mortalidade?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Afundamento/fratura de zigomático"
+    },
+    {
+     "letra": "B",
+     "texto": "Fratura de escápula"
+    },
+    {
+     "letra": "C",
+     "texto": "Fratura de ramo ísquio-pubiano"
+    },
+    {
+     "letra": "D",
+     "texto": "Fratura transtrocantérica de fêmur"
+    },
+    {
+     "letra": "E",
+     "texto": "Fratura de Colles."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046875",
+   "codigo": "4000046875",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 67,
+   "temas": [
+    "História Natural da Doença"
+   ],
+   "enunciado": "Mulher, 28 anos, realiza ultrassonogra a de abdome total para avaliar uma dor pélvica. O exame identi ca colelitíase. Em relação a esse diagnóstico, a paciente é assintomática. Na história natural dessa condição, é CORRETO afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "ela faz parte dos 30% da população mundial que é portadora de colelitíase."
+    },
+    {
+     "letra": "B",
+     "texto": "80-85% dos portadores de colelitíase são assintomáticos."
+    },
+    {
+     "letra": "C",
+     "texto": "10-15% dos pacientes podem evoluir para complicações graves, como pancreatite, coledocolitíase e icterícia obstrutiva."
+    },
+    {
+     "letra": "D",
+     "texto": "o risco cumulativo de se tornar sintomático, no sexo masculino, é de 10% ao ano."
+    },
+    {
+     "letra": "E",
+     "texto": "por ser mulher, após 20 anos, ela tem 90% de chance de se tornar sintomática."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000046862",
+   "codigo": "4000046862",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 68,
+   "temas": [
+    "Temas Gerais em Cirurgia",
+    "Cirurgia"
+   ],
+   "enunciado": "Em seu famoso livro \"\"O século dos Cirurgiões\"\", Jürgen Thorwald descreve um período no qual a evolução da ciência cirúrgica vivenciou uma revolução. Assinale a alternativa que descreve o século do qual estamos falando e as principais conquistas que provocaram essa revolução.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Século XVIII/ controle da dor e medicina baseada em evidência"
+    },
+    {
+     "letra": "B",
+     "texto": "Século XVII/ desenvolvimento de materiais cirúrgicos e fios de sutura"
+    },
+    {
+     "letra": "C",
+     "texto": "Século XIX/ técnicas de assepsia, antissepsia e anestesia geral"
+    },
+    {
+     "letra": "D",
+     "texto": "Século XX/ cirurgia minimamente invasiva e terapia intensiva"
+    },
+    {
+     "letra": "E",
+     "texto": "Século XVI/ abolição dos barbeiros-cirurgiões e dissecções anatômicas"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046851",
+   "codigo": "4000046851",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 69,
+   "temas": [
+    "Tratamento cirúrgico curativo",
+    "Hepatocarcinoma CHC ou HCC Carcinoma Hepatocelular"
+   ],
+   "enunciado": "O hepatocarcinoma é o tumor hepático maligno primário mais comum. Existe uma gama de possíveis tratamentos para esse tipo de tumor: ressecção cirúrgica, transplante hepático, quimioembolização, ablação por radiofrequência e quimioterapia. Qual dos casos clínicos abaixo seria o paciente ideal para se indicar ressecção cirúrgica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Homem, 59 anos, Child A e tumor de 6cm no lobo esquerdo. Plaquetas: 130.000/mm³."
+    },
+    {
+     "letra": "B",
+     "texto": "Mulher, 38 anos, MELD 15 e 02 tumores no lobo esquerdo de 1,5 cm, usando TIPS."
+    },
+    {
+     "letra": "C",
+     "texto": "Homem, 47 anos. Lesão de 3cm em lobo direito e envolvimento da veia porta direita."
+    },
+    {
+     "letra": "D",
+     "texto": "Mulher, 61 anos. Lesão de 2cm em segmento III. Varizes de fino calibre e Child B."
+    },
+    {
+     "letra": "E",
+     "texto": "Homem, 29 anos, Child B e tumor de 4cm em lobo direito e esplenomegalia."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046836",
+   "codigo": "4000046836",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 70,
+   "temas": [
+    "Sintomas Atípicos",
+    "Indicações para o Tratamento Cirúrgico",
+    "Tratamento Farmacológico"
+   ],
+   "enunciado": "Homem, 31 anos, IMC: 33Kg/m², refere sensação de regurgitação amarga, pirose e rouquidão há 2 meses. Relata ainda salivação frequente, pigarro e dor de ouvido. Durante consulta cirúrgica para tratamento de doença de re uxo, foi avaliada a presença de sintomas esofágicos típicos, atípicos e sinais de alarme. Em relação a esse quadro, é CORRETO afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "existem sintomas clássicos de hérnia hiatal."
+    },
+    {
+     "letra": "B",
+     "texto": "existe um sintoma de alarme e devemos fazer endoscopia."
+    },
+    {
+     "letra": "C",
+     "texto": "existem 02 sintomas atípicos."
+    },
+    {
+     "letra": "D",
+     "texto": "não existe sinal de alarme e devemos proceder com o tratamento clínico."
+    },
+    {
+     "letra": "E",
+     "texto": "devido à predominância de sinais típicos, devemos indicar cirurgia antirrefluxo."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046828",
+   "codigo": "4000046828",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 71,
+   "temas": [
+    "Princípios da Cirurgia Oncológica",
+    "Tratamento do Adenocarcinoma Gástrico",
+    "Cirurgia"
+   ],
+   "enunciado": "Mulher, 39 anos. Submetida à gastrectomia total com linfadenectomia por adenocarcinoma, tipo anel de sinete, no corpo gástrico (grande curvatura). Para um adequado estadiamento patológico, a peça cirúrgica deve conter",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "linfonodos periaórticos."
+    },
+    {
+     "letra": "B",
+     "texto": "margens cirúrgicas de 2cm."
+    },
+    {
+     "letra": "C",
+     "texto": "pelo menos 15 linfonodos."
+    },
+    {
+     "letra": "D",
+     "texto": "o baço."
+    },
+    {
+     "letra": "E",
+     "texto": "biópsia do fundo de saco de Douglas."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046819",
+   "codigo": "4000046819",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 72,
+   "temas": [
+    "Obstrução",
+    "Hemorragia Digestiva",
+    "Perf uração"
+   ],
+   "enunciado": "Homem, 48 anos, fumante. Queixa-se de dor epigástrica importante e náusea. Realizou endoscopia digestiva alta que evidenciou úlcera duodenal em parede anterior da 1ª porção. Iniciado tratamento com omeprazol, erradicação do H. pylori e medidas dietéticas. Orientou-se o paciente para a possibilidade de complicações cirúrgicas e da necessidade de cirurgia para o tratamento dessas complicações. Qual das complicações abaixo é a mais frequente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Sangramento"
+    },
+    {
+     "letra": "B",
+     "texto": "Obstrução pilórica"
+    },
+    {
+     "letra": "C",
+     "texto": "Malignização"
+    },
+    {
+     "letra": "D",
+     "texto": "Perfuração"
+    },
+    {
+     "letra": "E",
+     "texto": "Zollinger - Ellisson"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046809",
+   "codigo": "4000046809",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 73,
+   "temas": [
+    "Lesões Nervosas"
+   ],
+   "enunciado": "Homem, 33 anos. Submetido à hernioplastia inguinal direita com tela pela técnica de Lichtenstein. Retorna para a revisão cirúrgica no 15Odpo, queixando-se de anestesia na região próximo-medial da coxa e raiz do pênis. Ao exame físico, observa-se a ausência do reflexo cremastérico. Qual nervo da região inguinal foi lesado?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ílio-hipogástrico"
+    },
+    {
+     "letra": "B",
+     "texto": "Ílio-inguinal"
+    },
+    {
+     "letra": "C",
+     "texto": "Genitofemoral"
+    },
+    {
+     "letra": "D",
+     "texto": "Cutâneo femoral lateral"
+    },
+    {
+     "letra": "E",
+     "texto": "Pudendo"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046799",
+   "codigo": "4000046799",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 74,
+   "temas": [
+    "Acidose metabólica"
+   ],
+   "enunciado": "Homem, 19 anos, queda de moto levando a politraumatismo. Atendido numa unidade de emergência básica em Pesqueira/PE. Identi cado fratura pélvica, do colo do fêmur e choque. O médico de plantão solicita Ringer lactato para reposição volêmica. Entretanto, é informado que só dispõe de SF 0,9%. Na reanimação inicial, são necessários 4,5L para estabilização e transporte à unidade definitiva em Caruaru/PE. Nessa situação, qual distúrbio hidroeletrolítico o paciente tenderá a desenvolver?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Alcalose hipoclorêmica"
+    },
+    {
+     "letra": "B",
+     "texto": "Acidose hipercalêmica"
+    },
+    {
+     "letra": "C",
+     "texto": "Alcalose hipernatrêmica"
+    },
+    {
+     "letra": "D",
+     "texto": "Acidose hiponatêmica"
+    },
+    {
+     "letra": "E",
+     "texto": "Acidose hiperclorêmica"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000046787",
+   "codigo": "4000046787",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 75,
+   "temas": [
+    "Complicações PósOperatórias",
+    "Cirurgia"
+   ],
+   "enunciado": "Os conhecimentos em anátomo- siologia têm grande relevância cirúrgica. Assinale a alternativa que elenca CORRETAMENTE o procedimento cirúrgico, a estrutura anatômica lesada e a complicação pós-operatória associada.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Fundoplicatura a Nissen; lesão do nervo vago; bradicardia."
+    },
+    {
+     "letra": "B",
+     "texto": "Esplenectomia; lesão dos vasos gástricos curtos; necrose do antro gástrico."
+    },
+    {
+     "letra": "C",
+     "texto": "Esofagectomia trans-hiatal; lesão do nervo laríngeo recorrente; disfagia."
+    },
+    {
+     "letra": "D",
+     "texto": "Retossigmoidectomia; lesão do plexo hipogástrico; ejaculação retrógrada."
+    },
+    {
+     "letra": "E",
+     "texto": "Duodenopancreatectomia com preservação pilórica; lesão do nervo vago; retardo do esvaziamento gástrico."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046741",
+   "codigo": "4000046741",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 76,
+   "temas": [
+    "Diagnóstico etiológico da hiponatremia"
+   ],
+   "enunciado": "Homem, 63 anos, em pós-operatório de colectomia total. Evolui com íleo paralítico prolongado e hiponatremia (Na: 123 mEq/L). Nessa situação, a hiponatremia seria",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "hipertônica e hipovolêmica."
+    },
+    {
+     "letra": "B",
+     "texto": "hipotônica e euvolêmica."
+    },
+    {
+     "letra": "C",
+     "texto": "hipotônica e hipovolêmica."
+    },
+    {
+     "letra": "D",
+     "texto": "hipertônica e hipervolêmica."
+    },
+    {
+     "letra": "E",
+     "texto": "normotônica e normovolêmica."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046729",
+   "codigo": "4000046729",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 77,
+   "temas": [
+    "Síndrome Compartimental Aguda"
+   ],
+   "enunciado": "Trabalhador da construção civil, 25 anos, vítima de esmagamento por parede de concreto. Está sendo avaliado no atendimento inicial para uma possível síndrome compartimental de membros. Assinale a alternativa que indica o(s) local(is) mais comumente afetado(s) por essa condição.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Perna e antebraço"
+    },
+    {
+     "letra": "B",
+     "texto": "Pé e mão"
+    },
+    {
+     "letra": "C",
+     "texto": "Coxa"
+    },
+    {
+     "letra": "D",
+     "texto": "Braço"
+    },
+    {
+     "letra": "E",
+     "texto": "Pelve"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046720",
+   "codigo": "4000046720",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 78,
+   "temas": [
+    "Diagnóstico por Imagem"
+   ],
+   "enunciado": "Homem, 58 anos, submetido à duodenopancreatectomia por adenocarcinoma de cabeça de pâncreas de 2,3 cm. A tomogra a computadorizada abaixo é do paciente da questão 22. Identi que a estrutura assinalada com a seta que é de importância para a avaliação cirúrgica do caso.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tumor"
+    },
+    {
+     "letra": "B",
+     "texto": "Veia cava inferior"
+    },
+    {
+     "letra": "C",
+     "texto": "Duodeno"
+    },
+    {
+     "letra": "D",
+     "texto": "Veia mesentérica superior"
+    },
+    {
+     "letra": "E",
+     "texto": "Colédoco"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [
+    {
+     "arquivo": "imagens/q078-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000046693",
+   "codigo": "4000046693",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 79,
+   "temas": [
+    "Tratamento Adjuvante"
+   ],
+   "enunciado": "Homem, 58 anos, submetido à duodenopancreatectomia por adenocarcinoma de cabeça de pâncreas de 2,3 cm. Homem, 58 anos, submetido à duodenopancreatectomia por adenocarcinoma de cabeça do pâncreas de 2,3 cm. Qual dos esquemas quimioterápicos adjuvantes abaixo é o mais adequado para elevar a sobrevida desse paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "FIOT"
+    },
+    {
+     "letra": "B",
+     "texto": "FOLFOX"
+    },
+    {
+     "letra": "C",
+     "texto": "Gencitabina"
+    },
+    {
+     "letra": "D",
+     "texto": "FOLFIRINOX"
+    },
+    {
+     "letra": "E",
+     "texto": "FOLFIRI"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046690",
+   "codigo": "4000046690",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 80,
+   "temas": [
+    "Suporte avançado de via aérea",
+    "Princípios da Anestesiologia",
+    "Cirurgia"
+   ],
+   "enunciado": "Homem, 63 anos, sofreu trauma abdominal fechado por atropelamento. Foi indicado laparotomia de emergência. Você participa da equipe anestésica que irá realizar o procedimento. A anestesista sugere que a entubação será difícil e adota várias medidas para o sucesso da obtenção da via aérea. Assinale a alternativa que contém métodos de avaliação de uma via aérea difícil.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Mallanpati e ASA"
+    },
+    {
+     "letra": "B",
+     "texto": "LEMON e Cormack-Lehane"
+    },
+    {
+     "letra": "C",
+     "texto": "Mallanpati e ASA"
+    },
+    {
+     "letra": "D",
+     "texto": "LEMON e Hinchey"
+    },
+    {
+     "letra": "E",
+     "texto": "MOANS e Cormack - Lehane"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046676",
+   "codigo": "4000046676",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 81,
+   "temas": [
+    "Hidrocef alia de Pressão Normal",
+    "Quadro Clínico"
+   ],
+   "enunciado": "Um paciente de 75 anos vem há três meses com declínio cognitivo, incontinência urinária e di culdade de marcha, caracterizada por passos curtos e lentos, instabilidade postural principalmente ao virar o corpo que o levou a sofrer várias quedas. Qual o diagnóstico mais provável?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Doença de Alzheimer"
+    },
+    {
+     "letra": "B",
+     "texto": "Demência frontotemporal"
+    },
+    {
+     "letra": "C",
+     "texto": "Tumor cerebral"
+    },
+    {
+     "letra": "D",
+     "texto": "Estenose de carótida"
+    },
+    {
+     "letra": "E",
+     "texto": "Hidrocefalia de pressão normal"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046668",
+   "codigo": "4000046668",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 82,
+   "temas": [
+    "Manif estações articulares",
+    "Manif estações extraarticulares",
+    "Espondilite Anquilosante"
+   ],
+   "enunciado": "Um paciente de 27 anos refere ser portador de espondilite anquilosante. Qual dos achados abaixo provavelmente NÃO será observado nesse caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "HLA B27 Positivo"
+    },
+    {
+     "letra": "B",
+     "texto": "Dor à palpação do tendão de Aquiles"
+    },
+    {
+     "letra": "C",
+     "texto": "Dor lombar baixa que melhora com o repouso"
+    },
+    {
+     "letra": "D",
+     "texto": "Uveite anterior"
+    },
+    {
+     "letra": "E",
+     "texto": "Dactilite"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046655",
+   "codigo": "4000046655",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 83,
+   "temas": [
+    "Quadro clínico da anemia megaloblástica",
+    "Causas de anemia megaloblástica"
+   ],
+   "enunciado": "Def iciência de vitamina B12 Uma paciente de 67 anos refere queixas de fraqueza, indisposição e dormência em membros inferiores. Ao exame físico, está pálida, com atro a de papilas linguais e hipoestesia em pés e pernas, com prejuízo da noção de posição segmentar. O hemograma revelou anemia com macrocitose e neutró los plurissegmentados. Qual, dentre as alternativas abaixo, é a causa mais provável da anemia nesse caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Gastrite atrófica"
+    },
+    {
+     "letra": "B",
+     "texto": "Hemólise crônica"
+    },
+    {
+     "letra": "C",
+     "texto": "Dermatite exfoliativa"
+    },
+    {
+     "letra": "D",
+     "texto": "Alcoolismo"
+    },
+    {
+     "letra": "E",
+     "texto": "Cirrose hepática"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046645",
+   "codigo": "4000046645",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 84,
+   "temas": [
+    "Diagnóstico"
+   ],
+   "enunciado": "Um paciente foi trazido para a emergência após ter sido vítima do desabamento do edifício onde morava. Ficou retido nos escombros por oito horas, antes de ser resgatado pelos bombeiros. Queixava-se de dor abdominal, mas a tomogra a foi normal. À admissão, foi diagnosticada uma fratura no fêmur direito e várias escoriações pelo corpo. Como a urina era muito escura, foi solicitado um sumário de urina que demonstrou presença de sangue, mas com sedimentoscopia normal. O paciente descrito na questão 16 evoluiu com melhora clínica após as medidas iniciais, mas 48 horas depois passou a apresentar dispneia e confusão mental. Ao ser reavaliado pelo plantonista da UTI, foram observadas hipoxemia e rash petequial em pescoço e face anterior do tórax. Qual o diagnóstico mais provável para o quadro atual?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Embolia gordurosa"
+    },
+    {
+     "letra": "B",
+     "texto": "Sepse"
+    },
+    {
+     "letra": "C",
+     "texto": "Hemorragia intracraniana"
+    },
+    {
+     "letra": "D",
+     "texto": "Lesão pulmonar por inalação de fumaça"
+    },
+    {
+     "letra": "E",
+     "texto": "Pneumotórax hipertensivo"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046638",
+   "codigo": "4000046638",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 85,
+   "temas": [
+    "Rabdomiólise"
+   ],
+   "enunciado": "Um paciente foi trazido para a emergência após ter sido vítima do desabamento do edifício onde morava. Ficou retido nos escombros por oito horas, antes de ser resgatado pelos bombeiros. Queixava-se de dor abdominal, mas a tomogra a foi normal. À admissão, foi diagnosticada uma fratura no fêmur direito e várias escoriações pelo corpo. Como a urina era muito escura, foi solicitado um sumário de urina que demonstrou presença de sangue, mas com sedimentoscopia normal. Que exame, dos citados abaixo, seria mais útil para esclarecimento diagnóstico quanto à alteração urinária?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Gasimetria arterial"
+    },
+    {
+     "letra": "B",
+     "texto": "Alanina aminotransferase"
+    },
+    {
+     "letra": "C",
+     "texto": "Bilirrubinas"
+    },
+    {
+     "letra": "D",
+     "texto": "Dosagem de porfirinas urinárias"
+    },
+    {
+     "letra": "E",
+     "texto": "Creatinofosfoquinase"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046627",
+   "codigo": "4000046627",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 86,
+   "temas": [
+    "Tosse crônica",
+    "Sinais de alarme",
+    "Pneumologia"
+   ],
+   "enunciado": "Uma paciente procura o ambulatório com queixas de tosse seca há quatro meses. É hipertensa, controlada com enalapril 20mg/dia e refere fumar um maço de cigarros/dia há 20 anos. Ao exame físico, a ausculta pulmonar é normal e PA = 140x90 mmHg. Assinale a melhor conduta para o caso nesse momento.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Associar hidroclorotiazida ao esquema anti-hipertensivo."
+    },
+    {
+     "letra": "B",
+     "texto": "Trocar o enalapril por losartan."
+    },
+    {
+     "letra": "C",
+     "texto": "Associar amlodipina ao esquema."
+    },
+    {
+     "letra": "D",
+     "texto": "Associar omeprazol, já que a tosse provavelmente deve ser secundária a refluxo gastroesofágico."
+    },
+    {
+     "letra": "E",
+     "texto": "Associar beta2 agonista, já que a tosse deve ser manifestação de DPOC incipiente."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046614",
+   "codigo": "4000046614",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 87,
+   "temas": [
+    "Clínica Médica",
+    "Hepatologia",
+    "Introdução à Hepatologia"
+   ],
+   "enunciado": "Um paciente foi admitido à UTI com história de febre e calafrios, há 24 horas. À admissão, estava hipotenso, PA 60x40 mmHg, não tendo respondido à reposição de volume. Foi necessário o uso de noradrenalina por 24 horas. No dia seguinte, os exames laboratoriais mostravam: TGO 12930 UI/ml, TGP 9340 UI/ml, bilirrubina 2,8 mg/dl e fosfatase alcalina 1,5 vezes o limite superior do normal. Qual a provável explicação do quadro hepático?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Icterícia transinfecciosa"
+    },
+    {
+     "letra": "B",
+     "texto": "Isquemia hepática"
+    },
+    {
+     "letra": "C",
+     "texto": "Hepatite viral aguda"
+    },
+    {
+     "letra": "D",
+     "texto": "Colangite bacteriana"
+    },
+    {
+     "letra": "E",
+     "texto": "Cirrose alcoólica descompensada"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046606",
+   "codigo": "4000046606",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 88,
+   "temas": [
+    "Síndrome de lise tumoral SLT"
+   ],
+   "enunciado": "Um paciente com linfoma não Hodgkin B difuso de grandes células, com volumosos conglomerados linfonodais em mediastino e retroperitônio foi admitido para início de quimioterapia. Tendo em vista que seus níveis basais de DHL são cerca de três vezes o normal, ácido úrico 8,5 mg/dL e cálcio 6,8 mg/dl, qual das medidas abaixo NÃO estaria indicada no tratamento desse paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Rasburicase"
+    },
+    {
+     "letra": "B",
+     "texto": "Alcalinização da urina"
+    },
+    {
+     "letra": "C",
+     "texto": "Hidratação vigorosa (800 a 1000 ml/m² de superfície corporal/hora)"
+    },
+    {
+     "letra": "D",
+     "texto": "Alopurinol"
+    },
+    {
+     "letra": "E",
+     "texto": "Monitorização cardíaca por 72 horas"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046592",
+   "codigo": "4000046592",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 89,
+   "temas": [
+    "Cardiologia",
+    "Bloqueadores dos canais de potássio"
+   ],
+   "enunciado": "Todas as alternativas abaixo são efeitos colaterais do uso prolongado de amiodarona por via oral, EXCETO",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipotensão."
+    },
+    {
+     "letra": "B",
+     "texto": "Pneumonite intersticial."
+    },
+    {
+     "letra": "C",
+     "texto": "Hipertiroidismo."
+    },
+    {
+     "letra": "D",
+     "texto": "Prolongamento do intervalo QT."
+    },
+    {
+     "letra": "E",
+     "texto": "Neuropatia óptica."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046584",
+   "codigo": "4000046584",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 90,
+   "temas": [
+    "Trombólise Endovenosa"
+   ],
+   "enunciado": "Uma paciente de 65 anos foi trazida para a emergência com uma queixa recente de hemiparesia esquerda. A tomogra a de crânio descartou hemorragia, e a paciente está sendo avaliada para uso de alteplase. Qual das condições abaixo NÃO é contraindicação para a terapia trombolítica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Endocardite infecciosa"
+    },
+    {
+     "letra": "B",
+     "texto": "Neurocirurgia recente"
+    },
+    {
+     "letra": "C",
+     "texto": "Plaquetas abaixo de 100.000/mm³"
+    },
+    {
+     "letra": "D",
+     "texto": "Câncer gástrico"
+    },
+    {
+     "letra": "E",
+     "texto": "INR de 1,5 em paciente usando warfarin"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046573",
+   "codigo": "4000046573",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 91,
+   "temas": [
+    "Glomerulonef rite pósestreptocócica",
+    "Síndrome nef rítica"
+   ],
+   "enunciado": "Um paciente de 62 anos, previamente hígido, foi trazido para a emergência, com rebaixamento do nível de consciência. Familiares relatavam que ele vinha há uma semana com edema generalizado. Ao exame físico, ele apresentava níveis pressóricos muito elevados (PA 220 x 160 mmHg), edema de face e membros, sem sinais focais no exame neurológico. O único antecedente relevante era um episódio de erisipela cerca de 30 dias antes do início do quadro atual. Qual dos achados abaixo provavelmente NÃO seria encontrado nesse caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Proteinúria = 4 g/ 24 horas"
+    },
+    {
+     "letra": "B",
+     "texto": "Níveis séricos de C3 reduzidos"
+    },
+    {
+     "letra": "C",
+     "texto": "Altos títulos de antiestreptolisina O"
+    },
+    {
+     "letra": "D",
+     "texto": "Hemácias dismórficas no sumário de urina"
+    },
+    {
+     "letra": "E",
+     "texto": "Cilindros hemáticos"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046560",
+   "codigo": "4000046560",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 92,
+   "temas": [
+    "Síndrome Anticolinérgica"
+   ],
+   "enunciado": "Uma mulher de 31 anos que trabalha como auxiliar de serviços gerais em um hospital foi trazida para a emergência com suspeita de intoxicação exógena. Ela tem acesso a todos os setores do hospital; os funcionários da farmácia estão levantando os estoques para definir a falta de algum medicamento, mas essa informação ainda não está disponível. Ao exame, ela se apresenta agitada, em aparente delirium, com ushing facial, pele seca, hipertermia, midríase e taquicardia. O exame do abdome demonstra ausência de ruídos hidroaéreos e globo vesical palpável. Eletrocardiograma mostrou alargamento do complexo QRS. Com base nos dados do exame físico, qual o provável agente ingerido?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Amitriptilina"
+    },
+    {
+     "letra": "B",
+     "texto": "Morfina"
+    },
+    {
+     "letra": "C",
+     "texto": "Diazepam"
+    },
+    {
+     "letra": "D",
+     "texto": "Metanol"
+    },
+    {
+     "letra": "E",
+     "texto": "Neostigmine"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046554",
+   "codigo": "4000046554",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 93,
+   "temas": [
+    "Inf ecções relacionadas à assistência à saúde IRAS",
+    "Inf ectologia",
+    "Endof talmites"
+   ],
+   "enunciado": "Um paciente diabético de 60 anos foi admitido à unidade de terapia intensiva, com quadro de coma hiperosmolar não cetótico, há 15 dias. Evoluiu depois disso com íleo paralítico que requereu início de nutrição parenteral total há nove dias. Ontem de madrugada, ele apresentou calafrios, febre e hipotensão, mas a enfermagem não comunicou ao médico plantonista naquele momento. Não há sinais de infecção em outros sítios. Na manhã seguinte, você vai avaliar o paciente e percebe hiperemia no sítio de inserção do cateter jugular. Assinale a alternativa CORRETA com relação a esse caso.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Você deve solicitar três amostras de hemocultura que deverão ser colhidas através do cateter central, no momento de nova bacteremia."
+    },
+    {
+     "letra": "B",
+     "texto": "Deve ser iniciado esquema antibiótico empírico logo após a coleta das culturas. A combinação de linezolida e meropenem seria uma boa opção para esse caso."
+    },
+    {
+     "letra": "C",
+     "texto": "Pensando em infecção de corrente sanguínea, é essencial a avaliação do ecocardiograma, independente do resultado da hemocultura."
+    },
+    {
+     "letra": "D",
+     "texto": "Como o paciente precisa manter a nutrição parenteral, o cateter deverá ser mantido, desde que se inicie antibioticoterapia imediatamente."
+    },
+    {
+     "letra": "E",
+     "texto": "Esse paciente tem risco elevado de infecção de corrente sanguínea por Candida, situação em que está indicada avaliação oftalmológica rotineira para a pesquisa de endoftalmite."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046541",
+   "codigo": "4000046541",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 94,
+   "temas": [
+    "Exames Endoscópicos",
+    "Exames Radiológicos",
+    "Exames Laboratoriais"
+   ],
+   "enunciado": "Um paciente de 30 anos, sabidamente portador de doença de Crohn de intestino delgado desde os 19 anos, procurou o hospital com queixas de piora da diarreia, associada à dor em cólicas em região periumbilical e distensão abdominal, tendo apresentado alguns episódios de vômitos na última semana. Dentre os exames abaixo, qual NÃO estaria indicado nesse momento para avaliar a atividade da doença?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Dosagem de calprotectina fecal"
+    },
+    {
+     "letra": "B",
+     "texto": "Proteína C reativa"
+    },
+    {
+     "letra": "C",
+     "texto": "Endoscopia por cápsula"
+    },
+    {
+     "letra": "D",
+     "texto": "Êntero-tomografia"
+    },
+    {
+     "letra": "E",
+     "texto": "Êntero-ressonância"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046528",
+   "codigo": "4000046528",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 95,
+   "temas": [
+    "Laboratório",
+    "Esclerose sistêmica"
+   ],
+   "enunciado": "Uma paciente de 40 anos vinha observando há alguns anos que a ponta dos dedos cava arroxeada ao lavar as mãos em água fria. Nos últimos meses, passou a referir intensa fadiga, edema e dor nas mãos e enrijecimento da pele das mãos e antebraços, além de limitação na abertura da boca. Foi examinada pelo médico que solicitou alguns exames. Assinale a alternativa CORRETA com relação à interpretação desses exames.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Se o FAN vier positivo, deve-se pensar em associação com Lúpus eritematoso sistêmico."
+    },
+    {
+     "letra": "B",
+     "texto": "Os anticorpos antitopoisomerase e anticentrômero têm sensibilidade elevada, mas são pouco específicos para o diagnóstico de esclerodermia, pois comumente são encontrados em pacientes com fenômeno de Raynaud isolado."
+    },
+    {
+     "letra": "C",
+     "texto": "O anticorpo anticentrômero é detectado em mais de 80% dos casos da forma difusa da esclerodermia."
+    },
+    {
+     "letra": "D",
+     "texto": "O anticorpo antitopoisomerase I (anti-Sel 70) é preditor de mau prognóstico, sendo marcador de risco para o desenvolvimento de doença intersticial pulmonar."
+    },
+    {
+     "letra": "E",
+     "texto": "É comum a positividade para fator reumatoide e anti-CCP em pacientes com a forma difusa da esclerodermia."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046519",
+   "codigo": "4000046519",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 96,
+   "temas": [
+    "Inf arto agudo do miocárdio associado ao uso de drogas ilícitas",
+    "Cardiologia"
+   ],
+   "enunciado": "Um paciente de 35 anos, previamente hipertenso, estava em um festival de rock e fumou crack pela primeira vez. Cerca de 60 minutos depois, começou a sentir dor torácica de forte intensidade, apresentando palidez, palpitações e sudorese. Assinale a alternativa CORRETA em relação ao caso descrito.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Caso o eletrocardiograma seja normal, deve-se solicitar tomografia de tórax com contraste."
+    },
+    {
+     "letra": "B",
+     "texto": "A doença coronariana relacionada ao uso de cocaína e seus derivados é observada após uso crônico; então, é pouco provável que esse paciente esteja com síndrome coronariana aguda."
+    },
+    {
+     "letra": "C",
+     "texto": "A lesão cardíaca é dependente de vasoconstricção coronária. O tratamento se baseia no uso de vasodilatadores como nitratos e bloqueadores dos canais de cálcio, não havendo necessidade de antiagregantes."
+    },
+    {
+     "letra": "D",
+     "texto": "Se a frequência cardíaca de admissão for maior que 120 bpm, deve ser feita infusão de metoprolol."
+    },
+    {
+     "letra": "E",
+     "texto": "Se houver elevação do segmento ST no eletrocardiograma e a dor não ceder após seis horas de terapia vasodilatadora, o paciente deverá ser submetido à angiografia coronária."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046502",
+   "codigo": "4000046502",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 97,
+   "temas": [
+    "Oxigenoterapia Domiciliar Prolongada ODP"
+   ],
+   "enunciado": "Um paciente de 70 anos, tabagista há 50 anos, tem queixas de dispneia progressiva que já exigiu algumas internações. Já está em uso de vários broncodilatadores, mas permanece sintomático. Sobre a indicação de oxigenioterapia domiciliar nesse caso, assinale a alternativa INCORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Deve ser prescrita para pacientes com DPOC grave, que apresentam PaO₂ < 55 mmHg ou saturação < 88%."
+    },
+    {
+     "letra": "B",
+     "texto": "Pacientes com PaO₂ entre 55 e 60 mmHg que apresentam sinais de insuficiência cardíaca direita ou eritrocitose também se beneficiam da oxigenioterapia."
+    },
+    {
+     "letra": "C",
+     "texto": "O uso de oxigênio apenas durante o sono fornece os mesmos resultados em relação à melhora de sobrevida que a oxigenioterapia contínua, sendo associado à melhor qualidade de vida."
+    },
+    {
+     "letra": "D",
+     "texto": "A cessação do tabagismo traz impacto prognóstico, mesmo nas fases avançadas da doença, sendo obrigatória no paciente em avaliação para oxigenioterapia domiciliar."
+    },
+    {
+     "letra": "E",
+     "texto": "A meta da terapia é atingir e manter a saturação de O₂ acima de 90%, devendo-se fazer a titulação do aporte de oxigênio para atingir esse valor."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046493",
+   "codigo": "4000046493",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 98,
+   "temas": [
+    "Encef alopatia hepática"
+   ],
+   "enunciado": "Um paciente cirrótico foi levado ao hospital pelos familiares com história de alteração do ciclo sono-vigília há sete dias. Nas últimas 24 horas, ele vinha com alterações de comportamento, inquieto, com dificuldades de se orientar dentro do domicílio e, por isso, na noite da véspera, a esposa resolveu administrar um comprimido de diazepam para ele dormir melhor. No momento, ele está alerta, mas desorientado têmporo-espacialmente, com franco asterixis. Ao exame físico, percebe-se leve icterícia e abdome indolor, com ascite volumosa. Exames laboratoriais mostravam BT 3,2 mg/dL; albumina 3,0 g/dL; sódio 130 mEq/L, potássio 2,8 mEq/L; plaquetas 92.000/mm³ e INR 1,8. Assinale a alternativa CORRETA com relação à condução do caso.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Paciente deve fazer restrição de proteína na dieta durante o internamento hospitalar, não ultrapassando 0,8 g/kg de peso/dia."
+    },
+    {
+     "letra": "B",
+     "texto": "Deve ser feita correção dos níveis séricos de sódio e potássio através da administração de solução salina com cloreto de potássio."
+    },
+    {
+     "letra": "C",
+     "texto": "É essencial a realização de paracentese diagnóstica para avaliar a presença de peritonite bacteriana espontânea, mas, devido à coagulopatia, será preciso inicialmente repor fatores de coagulação, para permitir a realização do procedimento com segurança."
+    },
+    {
+     "letra": "D",
+     "texto": "Já que houve administração inapropriada de benzodiazepínico recente, deve ser prescrito flumazenil a cada oito horas, durante os três primeiros dias de internação."
+    },
+    {
+     "letra": "E",
+     "texto": "Nesse momento, os diuréticos não devem ser utilizados, recomendando-se a realização de paracentese com reposição de albumina, caso seja descartada a possibilidade de peritonite espontânea."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046478",
+   "codigo": "4000046478",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 99,
+   "temas": [
+    "Sarampo"
+   ],
+   "enunciado": "Tendo em vista a recente epidemia de sarampo detectada em vários estados brasileiros, é necessário que a comunidade médica de todo o país esteja alerta para esse diagnóstico. Com relação ao sarampo, assinale a alternativa INCORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Em um paciente com quadro febril indefinido, o exame da cavidade oral pode identificar as manchas de Koplik e, assim, elucidar o diagnóstico alguns dias antes do surgimento do exantema."
+    },
+    {
+     "letra": "B",
+     "texto": "É essencial que os neurologistas fiquem atentos ao surgimento de casos de panencefalite esclerosante subaguda cerca de seis meses após o surto epidêmico."
+    },
+    {
+     "letra": "C",
+     "texto": "Gestantes e pessoas com deficiência da imunidade celular, a exemplo dos portadores de SIDA e linfoma, são grupos especialmente susceptíveis ao desenvolvimento de formas clínicas graves da doença."
+    },
+    {
+     "letra": "D",
+     "texto": "Devido ao comprometimento imune secundário à infecção pelo sarampo, pneumonia bacteriana secundária costuma ser a principal causa de óbito nesses pacientes."
+    },
+    {
+     "letra": "E",
+     "texto": "A administração de vitamina A em pacientes com formas graves parece estar associada à redução da duração da doença e da mortalidade."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046461",
+   "codigo": "4000046461",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SES PE 2020",
+   "numero": 100,
+   "temas": [
+    "Medicações que provocam glicosúria inibidores de SGLT2"
+   ],
+   "enunciado": "escolha do agente hipoglicemiante deve ser individualizada. Para qual dos pacientes diabéticos abaixo, você prescreveria um inibidor da SGLT2? Respostas: 1 12 23 34 45 56 67 78 89 100",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Paciente de 50 anos com nefropatia diabética e clearance de creatinina estimado de 40 ml/min."
+    },
+    {
+     "letra": "B",
+     "texto": "Paciente com insuficiência cardíaca após infarto do miocárdio que continua a ter queixas anginosas aos moderados esforços."
+    },
+    {
+     "letra": "C",
+     "texto": "Paciente com polineuropatia periférica sensitiva e passado de úlcera no primeiro pododáctilo direito já cicatrizada."
+    },
+    {
+     "letra": "D",
+     "texto": "Paciente diabético tipo 2 com antecedente de cetoacidose durante internamento por pneumonia no ano passado."
+    },
+    {
+     "letra": "E",
+     "texto": "Paciente com urolitíase e passado de cistites de repetição."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": []
+}

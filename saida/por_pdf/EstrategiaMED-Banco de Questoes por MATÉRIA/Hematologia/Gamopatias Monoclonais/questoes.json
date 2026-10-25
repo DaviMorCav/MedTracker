@@ -1,0 +1,2245 @@
+{
+ "questoes": [
+  {
+   "id": "4000169300",
+   "codigo": "4000169300",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 1,
+   "temas": [
+    "Quadro Clínico do mieloma múltiplo MM"
+   ],
+   "enunciado": "Homem de 60 anos, diabético, com quadro de fraqueza e astenia há 1 mês. Com dor progressiva de região lombar e braço direito. Na última semana apresentou constipação e confusão mental, evoluindo com sonolência há 2 dias. Foi levado pelos familiares a unidade básica de saúde onde os seguintes exames foram realizados: Hb: 8,1g/dL; Ht: 25%; Leucócitos: 7.800/mm³; Plaquetas: 160.000/mm³; VCM: 85; HCM: 30; Ureia: 88mg/dL; Creatinina: 2,0mg/dL; Albumina: 3,0g/dL; Glicose: 98mg/dL; Sódio: 135mEq/L; Cloro: 110mEq/L; Gasometria: pH/PCO₂/HCO₃; 7,20/35/18. Urina I: pH: 6,0;Densidade: 1030; Proteínas: 2+/4+; Glicose: 1+/4+; Leucócitos: 1/campo; Hemácias: 2/campo; Qual a principal hipótese diagnóstica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Mieloma múltiplo."
+    },
+    {
+     "letra": "B",
+     "texto": "Síndrome de Sjogren."
+    },
+    {
+     "letra": "C",
+     "texto": "Intoxicação por metformina."
+    },
+    {
+     "letra": "D",
+     "texto": "Glomerulonefrite rapidamente progressiva."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000168772",
+   "codigo": "4000168772",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 2,
+   "temas": [
+    "Fisiopatologia do mieloma múltiplo MM",
+    "Hematologia",
+    "Quadro Clínico do mieloma múltiplo MM"
+   ],
+   "enunciado": "Mulher de 76 anos apresenta emagrecimento, dor lombar, astenia e dispneia aos esforços. Desconhece comorbidades prévias, nega tabagismo etilismo ou uso de medicamentos. Ao exame, as mucosas estão descoradas; sem outras anormalidades. Exames de laboratório: Hb 7,3g/dL; LG 6.500/mm³; Plq 112.000/mm³; VHS 95mm na primeira hora; creatinina 2,2mg/dL; Ureia 47mg/dL; cálcio total 10,6g/dL; albumina serica 2,0g/dL; LDH 450Ul/L; BT 0,9mg/dL. A hematoscopia revelou o seguinte achado: Considerando o diagnóstico mais provável para essa paciente, assinale a alternativa que apresenta o(s) exame(s) MAIS ADEQUADO(S) a ser(em) solicitado(s) nesse momento:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Eletroforese de proteínas séricas e urinárias."
+    },
+    {
+     "letra": "B",
+     "texto": "Endoscopias do trato digestivo alto e baixo."
+    },
+    {
+     "letra": "C",
+     "texto": "Pesquisa do cromossomo Philadelphia."
+    },
+    {
+     "letra": "D",
+     "texto": "Teste de fragilidade osmótica de eritrócitos."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q002-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000166574",
+   "codigo": "4000166574",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 3,
+   "temas": [
+    "Quadro Clínico do mieloma múltiplo MM"
+   ],
+   "enunciado": "Um paciente com mieloma múltiplo recém diagnosticado, mas ainda virgem de tratamento, dá entrada no pronto-socorro com o seguinte quadro: rebaixamento do nível de consciência, desidratação, distensão abdominal e redução dos ruídos hidroaéreos e insuficiência renal aguda. Familiar relata que o quadro teve evolução progressiva nos últimos dias, sendo que, no início, o paciente estava apresentando diurese muito abundante, que posteriormente se reduziu, associado ao agravamento dos outros sintomas. Qual é a provável etiologia do quadro?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Síndrome de lise tumoral."
+    },
+    {
+     "letra": "B",
+     "texto": "Metástase para o sistema nervoso central."
+    },
+    {
+     "letra": "C",
+     "texto": "Hipercalcemia."
+    },
+    {
+     "letra": "D",
+     "texto": "Síndrome de hiperviscosidade."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000166369",
+   "codigo": "4000166369",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 4,
+   "temas": [
+    "Hematologia",
+    "Gamopatias monoclonais"
+   ],
+   "enunciado": "Qual dessas doenças não faz parte do grupo de gamopatias monoclonais?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Síndrome POEMS."
+    },
+    {
+     "letra": "B",
+     "texto": "Agamaglobulinemia ligada ao X."
+    },
+    {
+     "letra": "C",
+     "texto": "Amiloidose de cadeias leves."
+    },
+    {
+     "letra": "D",
+     "texto": "Macroglogulinemia de Waldenström."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000164377",
+   "codigo": "4000164377",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 5,
+   "temas": [
+    "Quadro Clínico do mieloma múltiplo MM"
+   ],
+   "enunciado": "Paciente de 68 anos, sexo feminino, procura o posto de saúde por quadro de dor lombar há 6 meses associada a fadiga e adinamia. Refere piora da dor durante o passar do dia e nega melhora com uso de anti-inflamatórios não esteroidais. Antecedente de hipertensão, dislipidemia e hipotireoidismo. Traz exames laboratoriais com Hb: 8,0 g/dL, Cr: 2,5 mg/dL, Cai 6,5 mg/dL. USG de vias urinárias com rins de tamanho preservados. Submetida a biópsia renal que evidenciou cilindros eosinofílicos. Dentre as opções abaixo, o achado mais provável no sangue periférico deste paciente é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Agregados lineares de células vermelhas."
+    },
+    {
+     "letra": "B",
+     "texto": "Reticulócitos aumentados."
+    },
+    {
+     "letra": "C",
+     "texto": "Leucocitose com células mieloides maduras."
+    },
+    {
+     "letra": "D",
+     "texto": "Manchas de Gumprecht."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000145733",
+   "codigo": "4000145733",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 6,
+   "temas": [
+    "Classif icação do mieloma múltiplo MM"
+   ],
+   "enunciado": "Homem de 65 anos procura o consultório médico referindo progressiva fadiga nos últimos 6 meses. Traz estes exames realizados há 30 dias: Hemoglobina: 9 g/dL Creatinina: 2,5 mg/dL Eletroforese de proteínas: Qual o provável diagnóstico?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Gamopatia monoclonal de significado incerto (MIGUS)."
+    },
+    {
+     "letra": "B",
+     "texto": "Macroglobulinemia de Waldenstrom."
+    },
+    {
+     "letra": "C",
+     "texto": "Mieloma múltiplo."
+    },
+    {
+     "letra": "D",
+     "texto": "Amiloidose."
+    },
+    {
+     "letra": "E",
+     "texto": "Sepse urinária."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q006-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000144702",
+   "codigo": "4000144702",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 7,
+   "temas": [
+    "Mieloma múltiplo MM"
+   ],
+   "enunciado": "Homem, 71 anos de idade, com antecedente de hepatite autoimune em uso de azatioprina e prednisona, refere fadiga e dispneia aos médios esforços, sem outros sintomas. Na investigação clínica uma eletroforese de proteínas demonstrou componente monoclonal em fração de gamaglobulinas (39/dL) e a imuno xação evidenciou ser de IgG kappa. Quais exames devem ser solicitados para elucidação diagnóstica neste primeiro momento?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Biópsia da medula óssea com imuno-histoquímica."
+    },
+    {
+     "letra": "B",
+     "texto": "Hemograma, creatinina, cálcio sérico, função hepática e mielograma."
+    },
+    {
+     "letra": "C",
+     "texto": "Elastografia hepática, biópsia hepática e de medula óssea."
+    },
+    {
+     "letra": "D",
+     "texto": "Hemograma, albumina, B2-microglobulina e elastografia hepática."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000143758",
+   "codigo": "4000143758",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 8,
+   "temas": [
+    "Quadro Clínico do mieloma múltiplo MM"
+   ],
+   "enunciado": "No mieloma múltiplo,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "hipercalcemia, eventualmente observada, seria secundária à insuficiência renal aguda."
+    },
+    {
+     "letra": "B",
+     "texto": "sem proteinúria, não há risco para desenvolvimento de insuficiência renal aguda."
+    },
+    {
+     "letra": "C",
+     "texto": "há predisposição a infecções por bactérias encapsuladas devido imunodeficiência humoral predominante."
+    },
+    {
+     "letra": "D",
+     "texto": "o principal achado do hemograma é a presença de plasmócitos."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000138380",
+   "codigo": "4000138380",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 10,
+   "temas": [
+    "Hematologia",
+    "Quadro Clínico do mieloma múltiplo MM"
+   ],
+   "enunciado": "Rouleaux eritrocitário, anemia, pico de gamaglobulina em eletroforese de proteínas séricas, proteinúria, o diagnóstico mais provável:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Crioglobulinemia;"
+    },
+    {
+     "letra": "B",
+     "texto": "Leucemia Linfocitica Crônica;"
+    },
+    {
+     "letra": "C",
+     "texto": "Cirrose biliar primária;"
+    },
+    {
+     "letra": "D",
+     "texto": "Mieloma Múltiplo;"
+    },
+    {
+     "letra": "E",
+     "texto": "Insuficiência renal Crônica;"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000133919",
+   "codigo": "4000133919",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 11,
+   "temas": [
+    "Amiloidose",
+    "Amiloidose"
+   ],
+   "enunciado": "Em relação à amiloidose, analise as afirmativas a seguir: I. As manifestações podem incluir neuropatia periférica motora e sensorial, cardiomiopatia, síndrome nefrótica, síndrome de mal absorção e insuficiência hepática. II. Os sintomas e sinais, muito variados e insidiosos, podem também se manifestar através de demência, hipoacusia, tosse crônica por infecções respiratórias recorrentes acarretando diagnóstico tardio. III. Pacientes com diagnóstico de amiloidose possuem indicação de transplante de medula óssea autólogo; porém, pacientes com acometimento cardíaco grave não devem realizar o transplante de medula. Estão corretas as afirmativas",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I e II, apenas."
+    },
+    {
+     "letra": "B",
+     "texto": "I e III, apenas."
+    },
+    {
+     "letra": "C",
+     "texto": "II e III, apenas."
+    },
+    {
+     "letra": "D",
+     "texto": "I, II e III."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000131277",
+   "codigo": "4000131277",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 12,
+   "temas": [
+    "Quadro Clínico da amiloidose",
+    "Nef rologia",
+    "Patologia da amiloidose"
+   ],
+   "enunciado": "Pacientes com diagnóstico de mieloma múltiplo, que apresentam depósitos no rim de proteínas com características de fibrilas amiloide do tipo AL e coradas com vermelho congo. Esses pacientes apresentam clinicamente com mais frequência:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "acidose tubular renal."
+    },
+    {
+     "letra": "B",
+     "texto": "lesão renal aguda."
+    },
+    {
+     "letra": "C",
+     "texto": "doença renal crônica."
+    },
+    {
+     "letra": "D",
+     "texto": "síndrome nefrótica."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000131273",
+   "codigo": "4000131273",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 13,
+   "temas": [
+    "Classif icação do mieloma múltiplo MM",
+    "Hematologia"
+   ],
+   "enunciado": "Leia o caso clínico a seguir. Paciente de 72 anos, do sexo feminino, assintomática, em exame de rotina notado com pico monoclonal de 3,8 g/dL em gamaglobulina. Apresenta creatinina sérica de 1,4 mg/dL, cálcio sérico de 8,1 mg/dL, tomogra a de corpo todo de baixa intensidade normal, mielograma com infiltração plasmocitária de 18%, relação de cadeias leves livres kappa / lambda: 120. Segundo o International",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "síndrome de POEMS."
+    },
+    {
+     "letra": "B",
+     "texto": "pico monoclonal de significado indeterminado."
+    },
+    {
+     "letra": "C",
+     "texto": "mieloma múltiplo indolente."
+    },
+    {
+     "letra": "D",
+     "texto": "mieloma múltiplo ativo."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000127336",
+   "codigo": "4000127336",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 14,
+   "temas": [
+    "Hematologia",
+    "Quadro Clínico do mieloma múltiplo MM"
+   ],
+   "enunciado": "Paciente, 72 anos, sexo masculino, comparece ao ambulatório de Clínica Médica com queixa de dores ósseas difusas, particularmente na coluna. Ao exame físico, apresenta-se algo hipocorado e com fácies de dor. Traz alguns exames laboratoriais: Hemoglobina 11,2g/dl (VR: 13-16 g/dl) Cálcio iônico 1,5mmol/L (VR: 1,15-1,32mmol/L) Creatinina 1,6mg/dl (VR: 0,8-1,2mg/dl) Fosfatase alcalina 64U/L (VR: 50-200U/L), além de radiogra as da coluna evidenciando lesões osteolíticas difusas. LEGENDA: VR: valor de referência. Considerando a principal hipótese diagnóstica, qual dos exames a seguir deve ser solicitado?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "PSA total"
+    },
+    {
+     "letra": "B",
+     "texto": "Cintilografia óssea."
+    },
+    {
+     "letra": "C",
+     "texto": "Densitometria mineral óssea."
+    },
+    {
+     "letra": "D",
+     "texto": "Eletroforese de proteínas séricas"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000125747",
+   "codigo": "4000125747",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 15,
+   "temas": [
+    "Gamopatias monoclonais"
+   ],
+   "enunciado": "Mulher de 72 anos apresenta quadro de dor em região dorsal (torácica e lombar) e em membros, especialmente em tornozelos e antebraços, há pelo menos dois meses, de caráter progressivo. Nega febre, mas refere cansaço no último mês. Apresenta-se bastante descorada ao exame físico, hidratada e anictérica. Não há baço palpável ou adenomegalias. Hb 6,5g/dL; VCM 92fL; GB 6.400 com 60% de segmentados, linfócitos 28%, plaquetas 390.000/uL. VHS 145mm na primeira hora. Creatinina 2,5mg%; ureia 65mg%; sódio 145mEq/L; potássio 4,9mEq/L. Qual dos exames é mais resolutivo quanto ao diagnóstico da paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ressonância de coluna dorsal."
+    },
+    {
+     "letra": "B",
+     "texto": "Proteinúria de Bence Jones."
+    },
+    {
+     "letra": "C",
+     "texto": "Fator reumatoide."
+    },
+    {
+     "letra": "D",
+     "texto": "P-ANCA e c-ANCA."
+    },
+    {
+     "letra": "E",
+     "texto": "Eletroforese de proteínas do soro."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000113097",
+   "codigo": "4000113097",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 16,
+   "temas": [
+    "Fisiopatologia do mieloma múltiplo MM"
+   ],
+   "enunciado": "O acometimento ósseo pelo mieloma múltiplo - MM da doença com lesões líticas que afetam predominantemente o esqueleto do crânio, coluna e gradil costal e as áreas proximais dos membros superiores e inferiores. O item com erro é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "As lesões ósseas resultam do aumento da atividade osteoblástica (reabsorção óssea, acompanhada pela exaustão da função osteoblástica e aumento da formação óssea."
+    },
+    {
+     "letra": "B",
+     "texto": "Na avaliação radiológica inicial, quase 80% dos pacientes terão lesões líticas no esqueleto, acometendo vértebras, arcos costais, crânio, ombros, pelve e ossos longos."
+    },
+    {
+     "letra": "C",
+     "texto": "Quase 10% dos doentes têm osteopenia difusa ou osteoporose ao diagnóstico."
+    },
+    {
+     "letra": "D",
+     "texto": "Apesar de geralmente diagnosticadas em radiografias, as lesões líticas só aparecem quando já se perdeu acima de 30% do trabeculado ósseo."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000110612",
+   "codigo": "4000110612",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 17,
+   "temas": [
+    "Fisiopatologia do mieloma múltiplo MM",
+    "Quadro Clínico do mieloma múltiplo MM"
+   ],
+   "enunciado": "Homem, 67 anos, iniciou investigação de anemia normocítica e normocômica e redução da taxa de ltração glomerular, detectadas em exame de rotina. Comparece à consulta com o seguinte gráfico de eletroforese de proteínas: Qual distúrbio hidroeletrolítico está associado à doença em questão?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipopotassemia."
+    },
+    {
+     "letra": "B",
+     "texto": "Hipercalcemia."
+    },
+    {
+     "letra": "C",
+     "texto": "Hiponatremia."
+    },
+    {
+     "letra": "D",
+     "texto": "Hipernatremia."
+    },
+    {
+     "letra": "E",
+     "texto": "Hipocalcemia."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q017-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000107922",
+   "codigo": "4000107922",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 18,
+   "temas": [
+    "Hipercalcemia maligna",
+    "Tratamento do mieloma múltiplo MM",
+    "Quadro Clínico do mieloma múltiplo MM"
+   ],
+   "enunciado": "Paciente, 71 anos, masculino, deu entrada no PA com queda do quadro geral, desidratação, aumento das escórias nitrogenadas, anemia normocítica e normocrômica. Raio X do tórax evidenciou múltiplas lesões líticas nos arcos costais. Aventou-se a hipótese de mieloma múltiplo. Qual o principal distúrbio eletrolítico encontrado nessa patologia?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipernatremia"
+    },
+    {
+     "letra": "B",
+     "texto": "Hipocalemia"
+    },
+    {
+     "letra": "C",
+     "texto": "Hipercalemia"
+    },
+    {
+     "letra": "D",
+     "texto": "Hipocalcemia"
+    },
+    {
+     "letra": "E",
+     "texto": "Hipercalcemia"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000103427",
+   "codigo": "4000103427",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 19,
+   "temas": [
+    "Classif icação do mieloma múltiplo MM"
+   ],
+   "enunciado": "Homem com 50 anos de idade relata que há 6 meses tem dor lombar de forte intensidade com diversas idas ao prontosocorro, sendo medicado com anti-inflamatórios (AINH), com alívio parcial. Trouxe os seguintes exames: HB: 9,2 g/dL; Ht: 28%; VCM: 86 fL; HCM 32 pg. Leucócitos: 4.500/mm3 e plaquetas 250.000/mm3. Cr: 2,5 mg/dL; ureia: 85 mg/dL; TGO: 32 e TGP: 35. RX de coluna lombar com fraturas de acunhamento de L2 e L3. O diagnóstico mais provável e exames prudentes para investigação são, respectivamente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Anemia ferropriva pelo uso de AINH; perfil de ferro e endoscopia."
+    },
+    {
+     "letra": "B",
+     "texto": "Anemia de doença crônica por insuficiência renal associado ao uso de anti-inflamatórios; perfil de ferro."
+    },
+    {
+     "letra": "C",
+     "texto": "Mieloma múltiplo; eletroforese de proteínas séricas e urinárias e avaliação da medula óssea"
+    },
+    {
+     "letra": "D",
+     "texto": "Mieloma múltiplo; proteinúria de Bence-Jones e cintilografia óssea."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000100474",
+   "codigo": "4000100474",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 20,
+   "temas": [
+    "Classif icação das gamopatias monoclonais"
+   ],
+   "enunciado": "Idosa, 78 anos, durante avaliação por geriatra teve exame mostrando elevação de cálcio e anemia. O pro ssional prosseguiu com investigação e encontrou em radiogra as de pelve alterações ósseas compatíveis com lesões líticas e na imunoeletroforese evidenciou monoclonalidade IgG-kappa. Sobre o diagnóstico provável pode-se inferir que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O achado de plasmocitose em medula óssea confirma o diagnóstico de mieloma múltiplo."
+    },
+    {
+     "letra": "B",
+     "texto": "Os exames sugerem câncer de ovário avançado e a próxima intervenção deve ser a laparotomia."
+    },
+    {
+     "letra": "C",
+     "texto": "A idosa é portadora de gamopatia monoclonal de significado indeterminado."
+    },
+    {
+     "letra": "D",
+     "texto": "Trata-se de caso grave de osteoporose e é necessária urgentemente a intervenção com bisfosfonato."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q020-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000076671",
+   "codigo": "4000076671",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 21,
+   "temas": [
+    "Quadro Clínico do mieloma múltiplo MM"
+   ],
+   "enunciado": "Homem de 70 anos, com história de dor lombar progressiva com piora à movimentação, associada a emagrecimento, apresenta Lasegue positivo à direita, astenia e fraqueza de início há dois meses. Os exames mostram hemoglobina = 9g/dL, leucócitos = 9.000/mm³, diferencial normal, plaquetas = 200.000/mm³, glicose = 90mg/dL, creatinina = 1,1mg/dL, proteína total = 7,5g/dL, albumina = 3,0g/dL, VHS = 110mm/hora, ácido úrico = 7,5mg/dL, fosfatase alcalina = 120U/L, cálcio = 10,5mg/dL e fósforo = 3,5mg/dL. O exame de imagem da coluna revela intensa osteopenia sem lesões líticas e PSA = 9,5ng/mL. O paciente é tabagista de 40 maços-ano e etilista social. A hipótese diagnóstica principal é de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "mieloma múltiplo"
+    },
+    {
+     "letra": "B",
+     "texto": "tumor de próstata metastático"
+    },
+    {
+     "letra": "C",
+     "texto": "osteoporose secundária a hipogonadismo"
+    },
+    {
+     "letra": "D",
+     "texto": "metástases na coluna por tumor epidermoide de pulmão"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000063682",
+   "codigo": "4000063682",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 22,
+   "temas": [
+    "Quadro Clínico da Macroglobulinemia de Waldenström MW"
+   ],
+   "enunciado": "Patologia da Macroglobulinemia de Waldenström MW A macroglobulinemia de Waldestron está associada à síndrome de hiperviscosidade. Os principais componentes da síndrome são",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Turvação visual, cefaleia e parestesias."
+    },
+    {
+     "letra": "B",
+     "texto": "Vômitos, náuseas e icterícia."
+    },
+    {
+     "letra": "C",
+     "texto": "Diarreia, palpitação e tonteira."
+    },
+    {
+     "letra": "D",
+     "texto": "Hipofonese de bulhas, hipotensão e bradicardia."
+    },
+    {
+     "letra": "E",
+     "texto": "Hipertensão, bradicardia e alterações do ritmo respiratório."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000041829",
+   "codigo": "4000041829",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 23,
+   "temas": [
+    "Classif icação do mieloma múltiplo MM"
+   ],
+   "enunciado": "No mieloma múltiplo - MM, plasmócitos monoclonais geralmente representam mais de 10% das células nucleadas da medula óssea; no entanto 4% dos pacientes com MM sintomático têm plasmocitose abaixo de 10%. Não podemos aceitar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Isto pode ser consequência da infiltração focal por células do MM ou de problema de coleta da medula óssea, principalmente quando realizado apenas mielograma."
+    },
+    {
+     "letra": "B",
+     "texto": "A infiltração corresponde a 50% em média."
+    },
+    {
+     "letra": "C",
+     "texto": "Se houver proteína-M elevada (maior que 5g/dL) ou sintomas sugestivos de hiperviscosidade, não é recomendável a medida da viscosidade sérica."
+    },
+    {
+     "letra": "D",
+     "texto": "Deve-se repetir a coleta em local, preferivelmente com biópsia de medula óssea (BMO)."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000041814",
+   "codigo": "4000041814",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 24,
+   "temas": [
+    "Fisiopatologia do mieloma múltiplo MM"
+   ],
+   "enunciado": "A identi cação da doença mieloma múltiplo - MM em seu estágio inicial e o encaminhamento ágil e adequado para o atendimento especializado dão à Atenção Básica um caráter essencial para um melhor resultado terapêutico e prognóstico dos casos. A maioria dos pacientes apresenta-se com sinais e sintomas de in ltração plasmocitária (óssea ou de outros órgãos) ou lesão renal por deposição de proteína monoclonal tumoral. As manifestações clínicas mais comuns ao diagnóstico são listadas abaixo, qual dos itens apresenta erro?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Doença óssea - Dor óssea principalmente em tórax e coluna induzida pela movimentação (60%)."
+    },
+    {
+     "letra": "B",
+     "texto": "Doença óssea evoluindo com déficit motor ou sensitivo, fraturas patológicas, redução da altura."
+    },
+    {
+     "letra": "C",
+     "texto": "Insuficiência renal - Edema, oligúria, uremia, elevação de creatinina (48%)."
+    },
+    {
+     "letra": "D",
+     "texto": "A insuficiência renal é secundária principalmente à nefropatia obstrutiva devido a cilindros de cadeia pesada monoclonal (proteína de Bence Jones) que se depositam nos túbulos contornados distais e coletores, conhecida como “rim do mieloma”, e à hipocalcemia."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000031767",
+   "codigo": "4000031767",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 25,
+   "temas": [
+    "Introdução ao mieloma múltiplo MM",
+    "Quadro Clínico do mieloma múltiplo MM"
+   ],
+   "enunciado": "Paciente de 80 anos, sexo masculino, comparece a unidade básica de saúde com queixa de lombalgia, que piora ao movimento, iniciada há cerca de 2 meses. Informa diagnóstico recente de anemia. Não está em uso de medicações. Trouxe resultado de exames solicitados há uma semana: Hemoglobina = 10,2 g/dL (VR: 11.3 a 16.3); VCM = 85 FL (VR: 77 a 92); HCM = 30 pg (VR: 27 a 32); Global de leucócitos = 6200/ml (VR = 4.000 a 10.000/ml); Neutró los = 50% (VR: 45 a 75%); Linfócitos = 35 % (VR = 22 a 40%); Monócitos = 9% (VR: 3 a 10%); Eosinó los = 5% (VR: 1 a 5%); Basó los = 1% (VR: 0 a 2%); Plaquetas: 150.000/ml (VR: 130.000 a 370.000/ml); Reticulócitos = 0,4% (VR: 0,5 a 2,17%); Ferro sérico = 80 mcg/dl (VR: 60 a 160); Ferritina = 150 (VR: 13 a 200 ng/ml); Capacidade total de ligação do ferro (TIBIC) = 300 mcg/dl (VR: 240 a 410); Creatinina = 2,6 mg/dL ( VR: 0,6-1,2 mg/dL) e uréia = 50 mg/dL (VR: 16-40 mg/dL). Albumina 3,6 g/dL (VR: 3,5-4,7 g/dL); Cálcio total = 13,2 (VR: 8,5-10,2 mg/dL). Assinale a alternativa que contém o diagnóstico mais provável:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hiperparatireoidismo primário."
+    },
+    {
+     "letra": "B",
+     "texto": "Mieloma múltiplo."
+    },
+    {
+     "letra": "C",
+     "texto": "Artrite reumatoide."
+    },
+    {
+     "letra": "D",
+     "texto": "Osteoartrose."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000030487",
+   "codigo": "4000030487",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 26,
+   "temas": [
+    "Classif icação do mieloma múltiplo MM",
+    "Introdução ao mieloma múltiplo MM"
+   ],
+   "enunciado": "Quadro Clínico do mieloma múltiplo MM Homem de 65 anos, diagnóstico prévio de insu ciência cardíaca congestiva (fração de ejeção: 35%), internada devido perda de peso (10 kg/6 meses), anemia e dor lombar. Apresenta os seguintes exames: Hb: 8g/dL, hematócrito: 24 %, Cr: 3 mg/dL, Ur: 100 mg/dL, AST: 45 U/L, ALT: 38 U/L. À radiogra a de coluna lombar: osteopenia difusa e fraturas parciais de L3 e L4 por encunhamento. Após 3 dias de internação, teve dor abdominal importante e anúria, laboratório com cálcio total: 17 mg/dL e albumina: 3,2 g/dL. Sobre o caso clínico, assinale a alternativa CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Eletroforese de proteínas séricas e urinárias, mielograma e biópsia de medula óssea podem ajudar a esclarecer o diagnóstico hematológico."
+    },
+    {
+     "letra": "B",
+     "texto": "A conduta mais adequada para a hipercalcemia deste paciente é a hidratação vigorosa."
+    },
+    {
+     "letra": "C",
+     "texto": "8% de plasmócitos na medula óssea confirma a principal hipótese diagnóstica."
+    },
+    {
+     "letra": "D",
+     "texto": "A etiologia mais provável da hipercalcemia em questão é o uso de diurético tiazídico."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000023726",
+   "codigo": "4000023726",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 27,
+   "temas": [
+    "Mieloma múltiplo MM",
+    "Tumores ósseos",
+    "Diagnósticos dif erenciais"
+   ],
+   "enunciado": "Um paciente de 75 anos de idade procurou atendimento por diminuição do volume urinário e intolerância aos esforços, associada a dor torácica ventilatório-dependente e a dor lombar de forte intensidade. Realizou exames de laboratório, que evidenciaram: hemoglobina = 8,6 g/dL, hematócrito = 25%, leucócitos = 6.600/mm3, sem particularidades no diferencial, plaquetas = 190 mil/mm3, creatinina = 4,51 mg/dL, potássio = 6,3 mEq/L, cálcio sérico corrigido = 13 mg/dL, ureia = 109 mg/dL, reserva alcalina = 12 U/L. Ao exame físico, o paciente encontrava-se em regular estado geral, hipocorado, com presença de sopro sistodiastólico 2+/4+, murmúrio vesicular reduzido em 1/3 inferior direito, edema em membros inferiores 3+/4+, abdome sem particularidades e percussão-punho-lombar (PPL) negativo, PA = 180 mmHg X 90 mmHg, FC = 97 bpm, SatO2 = 92% em ar ambiente. Considerando esse caso clínico e os conhecimentos médicos correlatos, julgue o item a seguir. A lombalgia, nesse paciente, provavelmente se deve a lesões ósseas de características líticas, associadas à hipótese diagnóstica principal.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000011542",
+   "codigo": "4000011542",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 28,
+   "temas": [
+    "Classif icação do mieloma múltiplo MM",
+    "Introdução ao mieloma múltiplo MM"
+   ],
+   "enunciado": "Quadro Clínico do mieloma múltiplo MM Homem, 61 anos de idade, apresenta em exame de rotina eletroforese de proteínas com componente monoclonal em fração de gamaglobulinas (4g/dL). Ele refere cansaço e nega outros sintomas. Quais exames você solicitaria para elucidação diagnóstica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Biópsia da medula óssea com citometria de fluxo do sangue periférico."
+    },
+    {
+     "letra": "B",
+     "texto": "Hemograma, creatinina, cálcio sérico, avaliação esquelética por raio X."
+    },
+    {
+     "letra": "C",
+     "texto": "Ressonância nuclear magnética da coluna vertebral com biópsia dirigida."
+    },
+    {
+     "letra": "D",
+     "texto": "Albumina e"
+    },
+    {
+     "letra": "E",
+     "texto": "Eletroforese de hemoglobina com quantificação de cadeias leves."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000101307",
+   "codigo": "4000101307",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 29,
+   "temas": [
+    "Anemia da doença renal crônica",
+    "Quadro Clínico do mieloma múltiplo MM"
+   ],
+   "enunciado": "Paciente do sexo masculino de 67 anos, caucasiano, sem patologias prévias conhecidas, se apresenta na consulta ambulatorial com queixa de fraqueza há 2 meses, trazendo consigo exames realizados há 1 semana atrás pela Unidade Básica de Saúde. O laboratório mostra anemia grave (hemoglobina de 5 g/dl), classificada como normocítica e normocrômica, associado à insu ciência renal (creatinina de 3,2 mg/dl). A esposa que o acompanha também refere que há 2 dias apresenta confusão mental. Assinale a alternativa correta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O paciente é portador de insuficiência renal crônica e deve receber o tratamento adequado com IECA, bicarbonato e eritropoietina; o episódio de confusão pode ser justificado por uma provável uremia."
+    },
+    {
+     "letra": "B",
+     "texto": "O paciente apresenta uma anemia aguda, sendo imperativo a pesquisa de sangramento gastrointestinal e o interrogatório pelo uso de anti-inflamatórios."
+    },
+    {
+     "letra": "C",
+     "texto": "O paciente apresenta uma anemia desproporcional ao grau de insuficiência renal, devendo ser considerada a possibilidade de patologias concomitantes, como por exemplo, mieloma múltiplo. A confusão mental pode ser hipercalcemia."
+    },
+    {
+     "letra": "D",
+     "texto": "O paciente tem uma neoplasia de sítio indeterminado, sendo o adenocarcinoma de próstata uma possibilidade, assim como a etiologia da insuficiência renal ser pós-renal."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000100566",
+   "codigo": "4000100566",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 30,
+   "temas": [
+    "Mieloma múltiplo MM"
+   ],
+   "enunciado": "Mulher de 63 anos, diagnosticada há 15 dias com mieloma múltiplo. Qual afirmativa abaixo está correta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A ocorrência de hipercalcemia, eventualmente observada, é secundária à insuficiência renal aguda."
+    },
+    {
+     "letra": "B",
+     "texto": "Na ausência de proteinúria, não há risco para desenvolvimento de insuficiência renal aguda."
+    },
+    {
+     "letra": "C",
+     "texto": "Existe predisposição a infecções por bactérias encapsuladas devido imunodeficiência humoral predominante nesses casos."
+    },
+    {
+     "letra": "D",
+     "texto": "O achado do hemograma mais significativo é a presença de plasmócitos."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000098361",
+   "codigo": "4000098361",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 31,
+   "temas": [
+    "Classif icação das gamopatias monoclonais"
+   ],
+   "enunciado": "Foi admitida em enfermaria uma senhora de 63 anos de idade com história de fraqueza, perda ponderal e dor óssea. Nos exames da admissão foi comprovada anemia, lesões líticas em quadril e fêmur além de eletroforese de proteína ter evidenciado pico monoclonal, cuja avaliação de imunoglobulinas demonstrou ser IgG kappa. Concluído o diagnóstico de mieloma múltiplo foi transferida aos cuidados da equipe da hematologia para tratamento específico. Sobre a patologia citada é CORRETO afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O mieloma múltiplo é uma neoplasia maligna de linfócitos B localizados nos linfonodos, mais precisamente em centros germinativos, e após disseminação sistêmica levam ao surgimento de lesões líticas."
+    },
+    {
+     "letra": "B",
+     "texto": "O mieloma múltiplo faz parte do grupo das discrasias de plasmócitos que compreende ainda a gamopatia monoclonal de significado incerto, mieloma múltiplo indolente (smoldering), leucemia de células plasmáticas e alguns casos de amiloidose."
+    },
+    {
+     "letra": "C",
+     "texto": "A presença de pico monoclonal é exclusiva às neoplasias plasmocitárias."
+    },
+    {
+     "letra": "D",
+     "texto": "A doença óssea do mieloma múltiplo sempre se caracteriza por lesões líticas e devem ser tratadas somente se há hipercalcemia e/ou fratura patológica."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000091617",
+   "codigo": "4000091617",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 32,
+   "temas": [
+    "Tratamento do mieloma múltiplo MM",
+    "Quadro Clínico do mieloma múltiplo MM"
+   ],
+   "enunciado": "Homem, 59 anos, atleta, sem comorbidades, admitido em emergência com história de dores ósseas há cerca de 2 meses, fadiga intensa de início há cerca de 5 dias, com singultos associados a náusea e vômitos. Nega febre. Em laboratório da admissão, encontra-se: Cr = 3,3; U = 177; K = 6,1; Ca = 14; Mg = 2,0. EAS sem proteinúria. Urina 24h com proteinúria 3,2 g. Qual o diagnóstico mais provável?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Rabdomiólise."
+    },
+    {
+     "letra": "B",
+     "texto": "Síndrome hemolítico-urêmica."
+    },
+    {
+     "letra": "C",
+     "texto": "Mieloma múltiplo."
+    },
+    {
+     "letra": "D",
+     "texto": "Crioglobulinemia."
+    },
+    {
+     "letra": "E",
+     "texto": "Leptospirose."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000073125",
+   "codigo": "4000073125",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 33,
+   "temas": [
+    "Tratamento do mieloma múltiplo MM",
+    "Quadro Clínico do mieloma múltiplo MM"
+   ],
+   "enunciado": "Homem de 68 anos vem progressivamente apresentando cansaço, fraqueza e dor no corpo. Foi à emergência com dor lombar forte e realizou tomogra a de abdômen e pelve com contraste venoso, que mostrou colapso da primeira vértebra lombar. O hemograma mostrou anemia normocrômica e normocítica, Hb = 10,0g/dL, plaquetas = 100.000 e função renal normal. Dias depois, evoluiu com oligúria. Está hipocorado e com fácies de dor, tem linfonodos de menos de 1cm, cervicais, elásticos, móveis e indolores, sem visceromegalias. Novos exames mostram: Hb = 9,6g/dL, normocromia e mormocitose, com formação de fenômeno de Roleaux, plaquetas = 99.000, VHS = 110mm/h, sódio = 136mEq/L, potássio = 3,8mEq/L, creatinina = 3,6mg/dL, cálcio total = 13,2mg/dL, proteínas totais = 9,2g/dL, sendo 3,4g/dL de albumina e ácido úrico = 10mg/dL. Antes de solicitar outros exames, esse quadro levanta a suspeita principal de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "púrpura trombocitopênica trombótica"
+    },
+    {
+     "letra": "B",
+     "texto": "linfoma de células do manto"
+    },
+    {
+     "letra": "C",
+     "texto": "leucemia mieloide crônica"
+    },
+    {
+     "letra": "D",
+     "texto": "mieloma múltiplo"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120876",
+   "codigo": "4000120876",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 34,
+   "temas": [
+    "Mieloma múltiplo MM"
+   ],
+   "enunciado": "No mieloma múltiplo:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipercalcemia, eventualmente observada, seria secundária à insuficiência renal aguda."
+    },
+    {
+     "letra": "B",
+     "texto": "Sem proteinúria, não há risco para desenvolvimento de insuficiência renal aguda."
+    },
+    {
+     "letra": "C",
+     "texto": "Há predisposição a infecções por bactérias encapsuladas devido à imunodeficiência humoral predominante."
+    },
+    {
+     "letra": "D",
+     "texto": "O principal achado do hemograma é a presença de plasmócitos."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000105769",
+   "codigo": "4000105769",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 35,
+   "temas": [
+    "Quadro Clínico do mieloma múltiplo MM"
+   ],
+   "enunciado": "Homem, 49 anos, hipertenso sem tratamento, refere redução do volume urinário, mal estar geral e prostração há 1 semana. Sem outras queixas.Exame físico = BEG, hipocorado 2+/4, anictérico. Murmúrio vesicular reduzido e presença de estertores crepitantes em bases bilateralmente. RCR em 2 T, sem sopros PA: 152x98 mmHg. FC: 96 bpm. Exames laboratoriais = creatinina:4,1 mg/dL; ureia: 104 mg/dL; sódio: 141 mEq/L; potássio: 5,4 mEq/L; cálcio total: 12 mg/dL (VN: 8,4- 10,5); Hb: 8,1; Ht: 24%; VCM: 92 fL; HCM: 31,8 pg; RDW 13,5%, GB: 4,900/µL, plaquetas: 118 x 10³/ µL. Reticulócitos: 22.000/µL (VN: 35.000100.000); Urina 1: densidade 1015, proteínas 4+, nitrito negativo, leucócitos 2/campo, hemácias 3/campo. Qual é a alteração compatível com o diagnóstico mais provável?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Figura I"
+    },
+    {
+     "letra": "B",
+     "texto": "Figura II"
+    },
+    {
+     "letra": "C",
+     "texto": "Figura III"
+    },
+    {
+     "letra": "D",
+     "texto": "Figura IV"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q035-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000102621",
+   "codigo": "4000102621",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 36,
+   "temas": [
+    "Quadro Clínico do mieloma múltiplo MM",
+    "Rouleaux"
+   ],
+   "enunciado": "Homem de 69 anos de idade, diabético há 20 anos em uso de metformina e glibenclamida (ambos em dose máxima) vem ao ambulatório de clínica médica com queixa de lombalgia à direita, há 2 meses. No período, desenvolveu fraqueza generalizada e dispneia aos grandes esforços. Nega outros antecedentes mórbidos relevantes. No exame clínico, pressão arterial = 136 x 52 mmHg; pulso = 96 bpm; descorado ++/4+. Dor leve à palpação de região lombar direita. Sem outras alterações semiológicas. Realizou os seguintes exames: Qual alternativa apresenta a principal hipótese diagnóstica para o caso e o distúrbio hidroeletrolítico mais comumente associado a essa hipótese diagnóstica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Mieloma múltiplo e hipopotassemia."
+    },
+    {
+     "letra": "B",
+     "texto": "Nefropatia diabética e hipercalcemia."
+    },
+    {
+     "letra": "C",
+     "texto": "Nefropatia diabética e hipopotassemia."
+    },
+    {
+     "letra": "D",
+     "texto": "Mieloma múltiplo e hipercalcemia."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q036-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000085438",
+   "codigo": "4000085438",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 37,
+   "temas": [
+    "Classif icação das gamopatias monoclonais",
+    "Introdução às gamopatias monoclonais"
+   ],
+   "enunciado": "Diagnóstico das gamopatias monoclonais Homem, 68 anos, em investigação de anemia acompanhada de perda de função renal, realiza, entre outros exames, um proteinograma sérico, cujo traçado é: Em relação aos dados, afirma-se: I - Os dados do proteinograma levam à indicação de um proteinograma urinário; II - O proteinograma mostra gamopatia policlonal, fazendo pensar em doença autoimune; III - O proteinograma descarta mieloma múltiplo por não apresentar pico monoclonal. Está/Estão correta (s) a(s) afirmativa (s)",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I, apenas."
+    },
+    {
+     "letra": "B",
+     "texto": "II, apenas."
+    },
+    {
+     "letra": "C",
+     "texto": "III, apenas."
+    },
+    {
+     "letra": "D",
+     "texto": "I e III, apenas"
+    },
+    {
+     "letra": "E",
+     "texto": "I, II, III."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q037-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000069854",
+   "codigo": "4000069854",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 38,
+   "temas": [
+    "Quadro Clínico do mieloma múltiplo MM"
+   ],
+   "enunciado": "Idoso de 64 anos, afrodescendente, está internado devido a dores ósseas, anemia (hemoglobina = 9,3g/dL), hipercalcemia (cálcio sérico = 11,2mgl/dL) e retenção leve de escórias nitrogenadas (creatinina = 2,1mg/dL). Radiogra as de esqueleto revelam múltiplas lesões líticas no crânio e na bacia. O resultado de exame complementar que corrobora a principal hipótese diagnóstica para o caso é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ultrassonografia da tireoide com nódulo único e grande, com sinal do halo."
+    },
+    {
+     "letra": "B",
+     "texto": "Hiperglobulinemia monoclonal na eletroforese de proteínas."
+    },
+    {
+     "letra": "C",
+     "texto": "Produto cálcio x fósforo superior a 65 no sangue periférico."
+    },
+    {
+     "letra": "D",
+     "texto": "Aspirado de medula óssea rico em eosinófilos."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000056675",
+   "codigo": "4000056675",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 39,
+   "temas": [
+    "Classif icação das gamopatias monoclonais",
+    "Introdução às gamopatias monoclonais"
+   ],
+   "enunciado": "Diagnóstico das gamopatias monoclonais Homem afro-americano, 64 anos de idade, é avaliado no hospital para insu ciência cardíaca congestiva, insu ciência renal e polineuropatia. O exame físico foi notável em razão desses achados e de pápulas serosas salientes na axila e na região inguinal. O laboratório demonstrou uréia de 60mg/dL e uma creatinina de 6,3 mg/dL. A proteína total era de 9,0g/dL, com albumina de 3,2g/dL. Hematócrito era de 24% e a contagem de leucócitos e de plaquetas estava normal. O exame de urina revelou 3+ de proteinúria, mas não apresentou cilindros celulares. Avaliação adicional incluiu um ecocardiograma com ventrículo esquerdo hipertrofiado e função sistólica preservada. Qual dos testes a seguir tem maior probabilidade de diagnosticar a doença oculta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Biópsia da medula óssea;"
+    },
+    {
+     "letra": "B",
+     "texto": "Eletromiograma (EMG), com estudos de condução nervosa;"
+    },
+    {
+     "letra": "C",
+     "texto": "Biópsia de tecido adiposo;"
+    },
+    {
+     "letra": "D",
+     "texto": "Cateterização do coração direito;"
+    },
+    {
+     "letra": "E",
+     "texto": "Ultrassonografia renal ;"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000056408",
+   "codigo": "4000056408",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 40,
+   "temas": [
+    "Mieloma múltiplo MM",
+    "Nef rologia",
+    "Lesão renal aguda LRA"
+   ],
+   "enunciado": "Medida terapêutica inadequada para o paciente com disfunção renal secundária ao mieloma múltiplo:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Quimioterapia para redução da proteína monoclonal."
+    },
+    {
+     "letra": "B",
+     "texto": "Inibição da ciclooxigenase-2."
+    },
+    {
+     "letra": "C",
+     "texto": "Tratar a hipercalcemia."
+    },
+    {
+     "letra": "D",
+     "texto": "Evitar exames radiológicos com contrastes."
+    },
+    {
+     "letra": "E",
+     "texto": "Bortexomibe."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000021557",
+   "codigo": "4000021557",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 41,
+   "temas": [
+    "Tratamento do mieloma múltiplo MM"
+   ],
+   "enunciado": "Paciente do sexo masculino, de 78 anos, completamente assintomático, com diagnóstico de mieloma múltiplo, com hemoglobina de 14 g/dL, leucócitos de 9.000/uL, plaquetas de 160.000/uL, cálcio iônico normal, creatinina de 1,0, inventário ósseo normal, mielograma com 66% de plasmócitos, relação de cadeias Kappa/Lambda (Free Light Chain) de 120,0, proteína M de 4,0 g/dL. Segundo o International Myeloma Working Group, qual é a conduta indicada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ressonância magnética para completar estadiamento."
+    },
+    {
+     "letra": "B",
+     "texto": "Corticoterapia isolada."
+    },
+    {
+     "letra": "C",
+     "texto": "Observação e seguimento."
+    },
+    {
+     "letra": "D",
+     "texto": "Quimioterapia tripla."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000004550",
+   "codigo": "4000004550",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 42,
+   "temas": [
+    "Gamopatia monoclonal de signif icado indeterminado MGUS"
+   ],
+   "enunciado": "Paciente com proteína monoclonal sérica \"maior ou igual a\" 3 g/dl e/ou células plasmáticas na medula óssea maior ou igual a 10% e ausência de anemia, insu ciência renal, hipercalcemia e lesões ósseas líticas. O diagnóstico mais provável dessa condição é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Gamopatia monoclonal de significado indeterminado."
+    },
+    {
+     "letra": "B",
+     "texto": "Mieloma múltiplo indolente."
+    },
+    {
+     "letra": "C",
+     "texto": "Mieloma múltiplo."
+    },
+    {
+     "letra": "D",
+     "texto": "Leucemia de células plasmáticas."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000127735",
+   "codigo": "4000127735",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 43,
+   "temas": [
+    "Quadro Clínico do mieloma múltiplo MM"
+   ],
+   "enunciado": "Homem de 64 anos vem encaminhado do ambulatório de ortopedia após fratura patológica por compressão de corpos vertebrais. Apresenta radiogra a de ossos longos e crânio com imagens de lesões líticas. Exames laboratoriais: Hb:10 g/dl; Ht: 30%; VCM: 100 ; GB: 3500/mm³; Plaq: 250.000/mm³; ureia: 90 mg/dl; creatinina: 2,1 mg/dl; Cálcio: 11 mg/dl. Qual é a hipótese diagnóstica e o exame laboratorial fundamental para o diagnóstico?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Osteoporose, densitometria óssea."
+    },
+    {
+     "letra": "B",
+     "texto": "Plasmocitoma solitário, biópsia da lesão lítica."
+    },
+    {
+     "letra": "C",
+     "texto": "Mieloma múltiplo, biópsia de medula óssea."
+    },
+    {
+     "letra": "D",
+     "texto": "Tumor primário ósseo, cintilografia."
+    },
+    {
+     "letra": "E",
+     "texto": "Anemia falciforme, eletroforese de hemoglobina."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000066228",
+   "codigo": "4000066228",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 44,
+   "temas": [
+    "Amiloidose",
+    "Reumatologia",
+    "Amiloidose"
+   ],
+   "enunciado": "Sobre a amiloidose sistêmica primária, pode-se afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Os rins raramente são afetados."
+    },
+    {
+     "letra": "B",
+     "texto": "Macroglossia, equimose periorbitária e distrofia das unhas constituem sinais clínicos da amiloidose AL."
+    },
+    {
+     "letra": "C",
+     "texto": "O acometimento cardíaco pode ocasionar miocardiopatia dilatada."
+    },
+    {
+     "letra": "D",
+     "texto": "A macroglossia é patognomônica e está presente em mais de 90% dos pacientes."
+    },
+    {
+     "letra": "E",
+     "texto": "Em geral a amiloidose AL é insidiosa e de curso indolente."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000057485",
+   "codigo": "4000057485",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 45,
+   "temas": [
+    "Classif icação da Macroglobulinemia de Waldenström MW"
+   ],
+   "enunciado": "Quadro Clínico da Macroglobulinemia de Waldenström MW A macroglobulinemia de Waldenström é uma neoplasia linfoplasmocitária que secreta caracteristicamente qual imunoglobulina?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "IgA."
+    },
+    {
+     "letra": "B",
+     "texto": "IgD."
+    },
+    {
+     "letra": "C",
+     "texto": "IgE."
+    },
+    {
+     "letra": "D",
+     "texto": "IgG."
+    },
+    {
+     "letra": "E",
+     "texto": "IgM."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000037513",
+   "codigo": "4000037513",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 46,
+   "temas": [
+    "Quadro Clínico do mieloma múltiplo MM"
+   ],
+   "enunciado": "Paciente de 75 anos com queixa de anemia e dor costal à direita. Radiogra a de costelas, crânio e coluna lombar evidenciando lesões líticas. Eletroforese de proteínas com pico monoclonal. Considerando o diagnóstico mais provável, assinale a alternativa CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A dor decorrente da infiltração óssea piora principalmente à noite e deve ser tratada inicialmente com uso de anti- inflamatórios."
+    },
+    {
+     "letra": "B",
+     "texto": "A proteinúria apresentada pelo paciente é à custa de cadeias leves e não de albuminúria."
+    },
+    {
+     "letra": "C",
+     "texto": "A hipergamaglobulinemia confere aos pacientes um aumento da resistência a infecções bacterianas e germes capsulados."
+    },
+    {
+     "letra": "D",
+     "texto": "A fosfatase alcalina é usualmente normal, mesmo com lesões ósseas extensas, por não haver atividade osteoblástica."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000035644",
+   "codigo": "4000035644",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 47,
+   "temas": [
+    "Mieloma múltiplo MM"
+   ],
+   "enunciado": "A associação de anemia, hipercalcemia, insuficiência renal e fraturas patológicas são características de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Deficiência de vitamina D."
+    },
+    {
+     "letra": "B",
+     "texto": "Mieloma múltiplo."
+    },
+    {
+     "letra": "C",
+     "texto": "Linfoma de Hodgkin."
+    },
+    {
+     "letra": "D",
+     "texto": "Melanoma."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000032175",
+   "codigo": "4000032175",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 48,
+   "temas": [
+    "Classif icação do mieloma múltiplo MM",
+    "Quadro Clínico do mieloma múltiplo MM"
+   ],
+   "enunciado": "Paciente 72 anos, masculino, tem anemia, insu ciência renal, hipercalcemia e lesões ósseas líticas, com presença de proteína monoclonal por imunofixação. Qual deve ser o diagnóstico?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Adenocarcinoma de próstata metastático."
+    },
+    {
+     "letra": "B",
+     "texto": "Mieloma múltiplo."
+    },
+    {
+     "letra": "C",
+     "texto": "Adenocarcinoma de pulmão metastático."
+    },
+    {
+     "letra": "D",
+     "texto": "Neoplasia maligna de rim metastática."
+    },
+    {
+     "letra": "E",
+     "texto": "Tumor de paratireoide metastático."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000016154",
+   "codigo": "4000016154",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 49,
+   "temas": [
+    "Introdução ao mieloma múltiplo MM"
+   ],
+   "enunciado": "Em relação ao Mieloma Múltiplo (MM), assinale a alternativa CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "É uma neoplasia benigna, de origem hematopoiética, caracterizada pela proliferação clonal de plasmócitos na medula óssea, que, na maioria dos casos, secretam proteína monoclonal detectável no sangue ou urina."
+    },
+    {
+     "letra": "B",
+     "texto": "Corresponde a aproximadamente 0,2% dos tumores malignos e a até 5% das neoplasias hematológicas."
+    },
+    {
+     "letra": "C",
+     "texto": "É mais frequente em mulheres do que em homens, e em brancos (caucasianos) do que em negros."
+    },
+    {
+     "letra": "D",
+     "texto": "Mais de 90% dos casos ocorrem após os 50 anos, com pico de incidência no ocidente entre 60 e 70 anos de idade."
+    },
+    {
+     "letra": "E",
+     "texto": "No Brasil, a doença ocorre mais tardiamente (a idade mediana dos pacientes ao diagnóstico é de 80 anos)"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000121928",
+   "codigo": "4000121928",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 50,
+   "temas": [
+    "Classif icação do mieloma múltiplo MM",
+    "Fisiopatologia do mieloma múltiplo MM"
+   ],
+   "enunciado": "Considere as imagens abaixo: As imagens que pertencem ao mesmo paciente são, com maior probabilidade:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "II, III e V."
+    },
+    {
+     "letra": "B",
+     "texto": "I, IV e VI."
+    },
+    {
+     "letra": "C",
+     "texto": "II, IV e V."
+    },
+    {
+     "letra": "D",
+     "texto": "I, III e VI."
+    },
+    {
+     "letra": "E",
+     "texto": "II, III e VI."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q050-1.jpg",
+     "antes_das_alternativas": true
+    },
+    {
+     "arquivo": "imagens/q050-2.jpg",
+     "antes_das_alternativas": true
+    },
+    {
+     "arquivo": "imagens/q050-3.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000103051",
+   "codigo": "4000103051",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 51,
+   "temas": [
+    "Gamopatia monoclonal de signif icado indeterminado MGUS"
+   ],
+   "enunciado": "Um paciente de 72 anos, assintomático, vai a uma consulta de rotina com seu Cardiologista, que solicita, dentre outros exames, uma eletrosforese de proteínas; esta, revela um aumento da fração gama com aspecto monoclonal. O hemograma mostra: Hb 14g/dl, Leucócitos de 5500/mm3 e Plaqueta de 280.000/mm³. Creatinina de 1,0 mg/dL e Cálcio iônico 1,21 mmol/l (Valores de Ref.: 1,17 a 1,32 mmol/l). O médico encaminha-o a um Hematologista, que realiza um mielograma, com o seguinte resultado: medula óssea normocelular, com 8% de plasmócitos (valor normal até 3% de plasmócitos). Um inventário ósseo é então solicitado, com os seguintes achados: RX de tórax, coluna cervical, torácica, lombar, fêmures, bacia, úmeros, crânio, sem sinais de lises ósseas ou fraturas. A principal hipótese diagnóstica, com a respectiva conduta, seria, então:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Gamopatia de Significado Indeterminado; apenas observar."
+    },
+    {
+     "letra": "B",
+     "texto": "Mieloma Múltiplo assintomático; quimioterapia."
+    },
+    {
+     "letra": "C",
+     "texto": "Mieloma Múltiplo; apenas observar, visto que o paciente não apresenta sintomas;"
+    },
+    {
+     "letra": "D",
+     "texto": "Gamopatia de Significado Indeterminado; quimioterapia, pois a doença costuma"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000068880",
+   "codigo": "4000068880",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 52,
+   "temas": [
+    "Quadro Clínico do mieloma múltiplo MM"
+   ],
+   "enunciado": "Paciente do sexo masculino, 72 anos, apresentou anemia, lesões ósseas líticas, hipercalcemia e insu ciência renal. Qual é o diagnóstico MAIS provável?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Leucemia Mielóide Aguda."
+    },
+    {
+     "letra": "B",
+     "texto": "Mieloma Múltiplo."
+    },
+    {
+     "letra": "C",
+     "texto": "Leucemia Linfoide Aguda."
+    },
+    {
+     "letra": "D",
+     "texto": "Mielodisplasia."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000038493",
+   "codigo": "4000038493",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 53,
+   "temas": [
+    "Quadro Clínico do mieloma múltiplo MM"
+   ],
+   "enunciado": "A associação de anemia, hipercalcemia, insufiência renal e fraturas patológicas são características de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Deficiência de vitamina D."
+    },
+    {
+     "letra": "B",
+     "texto": "Mieloma múltiplo."
+    },
+    {
+     "letra": "C",
+     "texto": "Linfoma de Hodgkin."
+    },
+    {
+     "letra": "D",
+     "texto": "Carcinoma papilífero da tiróide."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000122538",
+   "codigo": "4000122538",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 54,
+   "temas": [
+    "Introdução ao mieloma múltiplo MM"
+   ],
+   "enunciado": "Homem de 67 anos está em tratamento de anemia há 10 meses sem melhora. Há 2 meses refere dor lombar persistente com piora progressiva. Foi medicado com anti- inflamatórios em 3 momentos, mas sem melhora efetiva do sintoma. Exames complementares: GV = 3.050.000/mm³; Hb = 10 g/dl; Ht = 30%; VCM = 88 ; HCM = 32 pg; sem alterações de glóbulos brancos e plaquetas; creatinina: 2,7 mg/dl; ureia: 98 mg/dl; TGO: 45 U/L; TGP: 38 U/L; RX de coluna lombar: osteopenia difusa e fraturas parciais de L3 e L4 por encunhamento. O diagnóstico mais provável e de investigação são, respectivamente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Mieloma múltiplo; eletroforese de proteínas séricas e urinárias e avaliação de medula óssea (mielograma e biópsia)."
+    },
+    {
+     "letra": "B",
+     "texto": "Mieloma múltiplo; proteinúria de Bence-Jones e cintilografia óssea."
+    },
+    {
+     "letra": "C",
+     "texto": "Anemia ferropriva e insuficiência renal pelo uso de AINH; endoscopia digestiva alta e colonoscopia."
+    },
+    {
+     "letra": "D",
+     "texto": "Anemia associada à inflamação crônica e à insuficiência renal; perfil do ferro."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000109712",
+   "codigo": "4000109712",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 55,
+   "temas": [
+    "Gamopatias monoclonais"
+   ],
+   "enunciado": "Uma paciente de 76 anos, assintomática, em exame de rotina realiza uma eletroforese de proteínas plasmáticas que apresenta aumento das taxas de gamaglobulinas do tipo pico monoclonal. Qual das alternativas abaixo NÃO deve constituir uma hipótese diagnóstica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Mieloma;"
+    },
+    {
+     "letra": "B",
+     "texto": "Hepatite crônica ativa;"
+    },
+    {
+     "letra": "C",
+     "texto": "Amiloidose primária;"
+    },
+    {
+     "letra": "D",
+     "texto": "Linfoma."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000106788",
+   "codigo": "4000106788",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 56,
+   "temas": [
+    "Introdução ao mieloma múltiplo MM"
+   ],
+   "enunciado": "Paciente masculino, 60 anos, interna com queixa de fraqueza generalizada e inapetência. Nega febre, alteração de hábito intestinal ou alergias. Os exames laboratoriais demostraram hemoglobina = 6,2 g/dl e creatinina = 3,5 mg/dl. Dentre outros exames solicitados, avalie o abaixo demonstrado para responder à questão a seguir. Qual o PROVÁVEL diagnóstico? (VER IMAGEM)",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipoalbuminemia secundária e síndrome nefrótica."
+    },
+    {
+     "letra": "B",
+     "texto": "Síndrome nefrítica."
+    },
+    {
+     "letra": "C",
+     "texto": "Anemia hemolítica auto-imune."
+    },
+    {
+     "letra": "D",
+     "texto": "Anemia megaloblástica."
+    },
+    {
+     "letra": "E",
+     "texto": "Mieloma múltiplo."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [
+    {
+     "arquivo": "imagens/q056-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000092535",
+   "codigo": "4000092535",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 57,
+   "temas": [
+    "Gamopatia monoclonal de signif icado indeterminado MGUS"
+   ],
+   "enunciado": "Uma paciente de 70 anos, assintomática, apresenta pico monoclonal de gamaglobulinas em eletroforese de proteínas séricas, que foi solicitada em exame de ''check-up''. Não há nenhum achado digno de nota ao exame clínico bem como nenhuma outra alteração laboratorial. Qual o diagnóstico MAIS PROVÁVEL?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Gamopatia monoclonal de significado indeterminado."
+    },
+    {
+     "letra": "B",
+     "texto": "Mieloma múltiplo."
+    },
+    {
+     "letra": "C",
+     "texto": "Amiloidose."
+    },
+    {
+     "letra": "D",
+     "texto": "Macroglobulinemia de Waldenström."
+    },
+    {
+     "letra": "E",
+     "texto": "Linfoma de Hodgkin."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000074645",
+   "codigo": "4000074645",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 58,
+   "temas": [
+    "Mieloma smoldering SM",
+    "Quadro Clínico do mieloma múltiplo MM"
+   ],
+   "enunciado": "Em um homem de 70 anos foi detectado em eletroforese de proteínas séricas pico monoclonal ≥ 30 g/L. As dosagens de cálcio e creatinina foram normais. O aspirado de medula óssea revelou plasmócitos clonais ≥ 10%. O diagnóstico é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Doença de Paget."
+    },
+    {
+     "letra": "B",
+     "texto": "Mieloma não secretor."
+    },
+    {
+     "letra": "C",
+     "texto": "Gamopatia monoclonal de significado indeterminado."
+    },
+    {
+     "letra": "D",
+     "texto": "Mieloma assintomático (\"smoldering\" mieloma)."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000062550",
+   "codigo": "4000062550",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 59,
+   "temas": [
+    "Quadro Clínico do mieloma múltiplo MM"
+   ],
+   "enunciado": "Paciente tabagista de longa data vem evoluindo com dor lombar importante, pior com o movimento. Nos últimos 6 meses apresentou 3 episódios de pneumonia. Durante investigação os exames revelaram anemia (Hto: 25%), diminuição da função renal (creatinina: 1,4), hipercalcemia (cálcio: 11). Diante do exposto acima que outros exames poderiam ajudar a elucidar o diagnóstico:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Eletroforese de proteínas, Rx de crânio, e aspirado de Medula óssea."
+    },
+    {
+     "letra": "B",
+     "texto": "Prova de função respiratória, TSH, T4 livre."
+    },
+    {
+     "letra": "C",
+     "texto": "Hepatograma, ferritina sérica."
+    },
+    {
+     "letra": "D",
+     "texto": "Ecocardiograma com Doppler, Tomografia computadorizada de tórax."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000045638",
+   "codigo": "4000045638",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 60,
+   "temas": [
+    "Mieloma múltiplo MM"
+   ],
+   "enunciado": "Em casos de Mieloma Múltiplo, é INCORRETO afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Na gênese da lesão renal associada à doença, é essencial o depósito de substância amiloide."
+    },
+    {
+     "letra": "B",
+     "texto": "Pacientes com MM podem cursar laboratorialmente com pseudo-hiponatremia."
+    },
+    {
+     "letra": "C",
+     "texto": "Há nítida correlação entre prognóstico e creatinina sérica."
+    },
+    {
+     "letra": "D",
+     "texto": "Uma das complicações da doença é o desenvolvimento de insuficiência renal."
+    },
+    {
+     "letra": "E",
+     "texto": "A dor óssea é uma manifestação frequente da doença."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000125486",
+   "codigo": "4000125486",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 61,
+   "temas": [
+    "Fisiopatologia do mieloma múltiplo MM"
+   ],
+   "enunciado": "Paciente de 64 anos procura médico, com queixa de dor lombar há 6 meses, com piora súbita hoje, após levantar-se da cadeira, e com di culdade para permanecer em pé. Refere ainda redução da diurese nos últimos dias, cansaço, náuseas e constipação intestinal. Ao exame, paciente apresenta-se descorado e com redução de força em membros inferiores. RX de coluna lombo-sacra mostrou fratura de L4 e Lesões osteolíticas em bacia. Exames laboratoriais: Creatinina 3,2 mg/dl; Ureia 185 mg/dl; Cálcio total: 14 mg/dl. Sobre esse caso, a principal hipótese diagnóstica é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "hiperparatireoidismo primário."
+    },
+    {
+     "letra": "B",
+     "texto": "hiperparatireoidismo secundáro."
+    },
+    {
+     "letra": "C",
+     "texto": "osteoporose."
+    },
+    {
+     "letra": "D",
+     "texto": "mieloma múltiplo."
+    },
+    {
+     "letra": "E",
+     "texto": "doença de Paget."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000124124",
+   "codigo": "4000124124",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 62,
+   "temas": [
+    "Mieloma múltiplo MM"
+   ],
+   "enunciado": "Paciente de 70 anos, sexo masculino, procura atendimento por quadro de dor lombar de forte intensidade, inédita, sem melhora com uso de anti-inflamatórios não esteroidais. Refere fraqueza corporal generalizada e perda de peso. Mostra nos exames laboratoriais hemoglobina de 8 mg/dl com hemácias normocíticas e normocrômicas. Hematoscopia mostra formação em rouleaux das hemácias. Em relação ao caso descrito, assinale a alternativa que apresenta o diagnóstico mais provável para justificar o quadro clínico do paciente.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Linfoma não-Hodgkin."
+    },
+    {
+     "letra": "B",
+     "texto": "Leucemia mieloide aguda."
+    },
+    {
+     "letra": "C",
+     "texto": "Mieloma múltiplo."
+    },
+    {
+     "letra": "D",
+     "texto": "Anemia por déficit de vitamina."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000089883",
+   "codigo": "4000089883",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 63,
+   "temas": [
+    "Amiloidose",
+    "Manif estações clínicas",
+    "Diagnóstico"
+   ],
+   "enunciado": "Paciente do sexo masculino, 55 anos de idade, apresenta síndrome nefrótica associada a equimoses periorbitárias, distro a de unhas e macroglossia. Qual é a principal hipótese diagnóstica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Linfoma não Hodgkin."
+    },
+    {
+     "letra": "B",
+     "texto": "Amiloidose."
+    },
+    {
+     "letra": "C",
+     "texto": "Linfoma de Burkitt no adulto."
+    },
+    {
+     "letra": "D",
+     "texto": "Macroglobulinemia de Waldenström."
+    },
+    {
+     "letra": "E",
+     "texto": "Leucemia mieloide crônica."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000064998",
+   "codigo": "4000064998",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 64,
+   "temas": [
+    "Quadro Clínico do mieloma múltiplo MM"
+   ],
+   "enunciado": "O mieloma múltiplo representa uma proliferação maligna dos plasmócitos derivados de um único clone. O tumor, os seus produtos e a resposta do hospedeiro ao tumor resultam em várias disfunções orgânicas e sintomas. Marque o sintoma mais comum no mieloma múltiplo:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Dor óssea."
+    },
+    {
+     "letra": "B",
+     "texto": "Anemia microcítica."
+    },
+    {
+     "letra": "C",
+     "texto": "Anemia de doença crônica."
+    },
+    {
+     "letra": "D",
+     "texto": "Insuficiência renal."
+    },
+    {
+     "letra": "E",
+     "texto": "Distúrbio de coagulação."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000062137",
+   "codigo": "4000062137",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 65,
+   "temas": [
+    "Introdução ao mieloma múltiplo MM",
+    "Quadro Clínico do mieloma múltiplo MM"
+   ],
+   "enunciado": "Homem, 58 anos, negro, procedente de Curitiba, é trazido ao pronto-socorro sonolento e confuso. Seu acompanhante relatou que o mesmo vem apresentando emagrecimento e dores ósseas nos últimos meses, além de náuseas e vômitos há 3 dias. Ao exame físico: paciente confuso e hipocorado ++/4+. Pulso: 84 bpm, PA: 130/80 mmHg, com restante do exame físico normal. Hemograma, Hb: 8,0, normocitose e normocromia. Leucócitos: 4500/mm3 (Bt: 2%, Seg: 65%, Eos: 1%, Baso: 0%, Linf: 28%, Mo: 4%). Plaquetas: 120.000/mm3. Presença de Roleaux. Creatinina: 3,5 mg/dl. Eletroforese de proteínas, Albumina: 2,5 mg/dl, com osteoporose difusa em vértebras e arcos costais. Em relação a este caso clínico, qual a hipótese diagnóstica e a investigação a ser proposta? Respostas: 1 12 23 34 45 56",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "metástase óssea, mapeamento do esqueleto por cintilografia óssea."
+    },
+    {
+     "letra": "B",
+     "texto": "osteomielite, hemocultura."
+    },
+    {
+     "letra": "C",
+     "texto": "metaplasia mieloide agnogênica, aspirado de medula óssea."
+    },
+    {
+     "letra": "D",
+     "texto": "mieloma múltiplo, imunoeletroforese de proteínas."
+    },
+    {
+     "letra": "E",
+     "texto": "doença de Hodgkin, pesquisa de células de Reed-Sternberg."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": [
+  {
+   "id": "4000141190",
+   "codigo": "4000141190",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Gamopatias Monoclonais",
+   "numero": 9,
+   "temas": [
+    "Hematologia",
+    "Mieloma múltiplo MM"
+   ],
+   "enunciado": "Homem, 68a, queixa-se de dor de intensidade crescente em coluna cervical e lombar. Refere que no último mês a dor tornou-se intensa, piorando com movimento. Refere cansaço e fraqueza. Perda de peso progressiva, cerca de 5 kg em três meses. Exame físico: descorado, PA= 158x90 mmHg, FC= 68 bpm; membros inferiores: edema maleolar +/4+. Exames laboratoriais: cálcio= 11,2 mg/dL, creatinina= 3,5 mg/dL, Hb= 9,5 g/dL, Ht=29,4%, leucócitos= 9.450/mm³, plaquetas= 200.000/mm3. Radiograma de coluna: osteopenia difusa, lesões osteolíticas em vértebras e bacia. O EXAME COMPLEMENTAR CONFIRMATÓRIO É:",
+   "alternativas": [],
+   "gabarito": null,
+   "imagens": [],
+   "revisar": [],
+   "motivo_exclusao": "sem alternativas"
+  }
+ ]
+}

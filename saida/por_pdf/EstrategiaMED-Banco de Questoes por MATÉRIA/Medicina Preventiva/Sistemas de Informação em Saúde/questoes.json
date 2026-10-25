@@ -1,0 +1,3032 @@
+{
+ "questoes": [
+  {
+   "id": "4000193857",
+   "codigo": "4000193857",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 1,
+   "temas": [
+    "Medicina Preventiva",
+    "Epidemiologia",
+    "Legislação sobre registros públicos Lei n 60151973"
+   ],
+   "enunciado": "No nal do dia de atendimento na Unidade Básica Vila Madalena, a Dra. Marlúcia é chamada pela enfermeira Carla para comparecer à casa do Sr. José, um morador da região que acabara de falecer. Ele era acompanhado por toda a Equipe de Saúde da Família desde que sofreu um Acidente Vascular Encefálico, há 6 anos, que o deixou acamado e completamente dependente para as atividades básicas e instrumentais da vida diária. A morte ocorreu durante o dia, junto da família. Acerca da emissão da Declaração de Óbito (DO), como a Dra. Marlúcia deve proceder?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Deve emitir a DO da própria Unidade de Saúde e solicitar que a enfermeira Carla leve a via amarela para os familiares."
+    },
+    {
+     "letra": "B",
+     "texto": "Não deve emitir a DO, já que não presenciou o óbito, solicitando que o cadáver seja encaminhado ao Serviço de Verificação de Óbitos (SVO) do Município, para ser submetido ao exame necroscópico por patologista, que determinará a causa mortis e se responsabilizará pela emissão da DO."
+    },
+    {
+     "letra": "C",
+     "texto": "Deve emitir a DO, após exame direto do corpo, caso não sejam encontradas evidências de morte por causa externa ou suspeita, já que o paciente apresentava condição de saúde conhecida pela equipe e estava em acompanhamento na UBS. Após a emissão, a via rosa deve ser arquivada no prontuário do paciente na Unidade Básica de Saúde."
+    },
+    {
+     "letra": "D",
+     "texto": "Deve solicitar que a Enfermeira Carla emita a DO, após exame direto do corpo, pois se trata de paciente cujo estado de saúde é conhecido por toda a equipe, portanto todos estão legalmente aptos a emitir esse documento."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000189520",
+   "codigo": "4000189520",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 2,
+   "temas": [
+    "Medicina Preventiva"
+   ],
+   "enunciado": "O Sistema de Informação de Agravos de Noti cação (Sinan) foi criado em 1990 pelo Centro Nacional de Epidemiologia com o apoio do Departamento de Informática do SUS (Datasus), tendo como nalidade a Vigilância Epidemiológica de determinados agravos. Em relação ao Sinan, é correto afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o instrumento para a coleta de dados do Sinan é a Ficha Individual de Notificação (FIN), que deve ser preenchida exclusivamente pelo médico e encaminhada para a unidade de vigilância epidemiológica dos Municípios, Estados e/ou Ministério da Saúde."
+    },
+    {
+     "letra": "B",
+     "texto": "para alguns agravos, é necessário realizar a Notificação Positiva de Não Agravo, que é a notificação da não ocorrência de determinadas doenças de notificação compulsória na área de abrangência da Unidade de Saúde."
+    },
+    {
+     "letra": "C",
+     "texto": "possui um banco de dados epidemiológicos que fornece informações sobre a incidência, prevalência e letalidade de um conjunto de doenças e agravos que constam na Lista de Notificação Compulsória."
+    },
+    {
+     "letra": "D",
+     "texto": "a comunicação de doenças que possam gerar epidemias é de responsabilidade do paciente e da recepção do órgão de saúde."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186946",
+   "codigo": "4000186946",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 3,
+   "temas": [
+    "Declaração de óbito DO Atestado de óbito"
+   ],
+   "enunciado": "A respeito da Declaração de Óbito, pode-se afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "quando o médico não souber ou não tiver condições de definir a causa mortis, deve necessariamente enviar o corpo ao Instituto Médico Legal."
+    },
+    {
+     "letra": "B",
+     "texto": "o médico poderá atestar o óbito sem tê-lo verificado pessoalmente, desde que esteja baseado em informações confiáveis e fidedignas."
+    },
+    {
+     "letra": "C",
+     "texto": "é dever do médico atestar óbito de paciente ao qual vinha prestando assistência."
+    },
+    {
+     "letra": "D",
+     "texto": "no caso de morte violenta ou suspeita, é facultativo ao médico assistente atestar o óbito ou não."
+    },
+    {
+     "letra": "E",
+     "texto": "é permitido ao médico cobrar remuneração pelo fornecimento do atestado de óbito somente quando isto ocorrer fora do horário habitual de trabalho."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186126",
+   "codigo": "4000186126",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 4,
+   "temas": [
+    "Declaração de óbito DO Atestado de óbito"
+   ],
+   "enunciado": "Um paciente de 72 anos, portador de hipotireoidismo, foi admitido no pronto atendimento do Hospital Universitário Cajuru com um quadro de AVE extenso cursando com rebaixamento do nível de consciência. Após 1 mês internado, apresentou um quadro de tromboembolismo pulmonar, enquanto recebia o seu tratamento com drogas anticoagulantes evoluiu com quadro súbito de hemorragia digestiva alta e evoluiu com parada cardiorrespiratória refratária mesmo após 40 minutos de manobras de ressuscitação, sendo constatado óbito. Considerando a Declaração de Óbito como a principal fonte de dados para o Sistema de Informação de Mortalidade, assinale a alternativa que contém o preenchimento CORRETO da parte I. das causas da morte, considerando de cima para baixo.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Parada Cardiorrespiratória – Hemorragia Digestiva Alta – Trombo Embolismo Pulmonar – Acidente Vascular Encefálico."
+    },
+    {
+     "letra": "B",
+     "texto": "Parada Cardiorrespiratória – Trombo Embolismo Pulmonar – Hemorragia Digestiva Alta – Acidente Vascular Encefálico."
+    },
+    {
+     "letra": "C",
+     "texto": "Acidente Vascular Encefálico – Hipotireoidismo – Hemorragia Digestiva Alta."
+    },
+    {
+     "letra": "D",
+     "texto": "Hipotireoidismo – Acidente Vascular Encefálico – Tromboembolismo Pulmonar – Hemorragia Digestiva Alta."
+    },
+    {
+     "letra": "E",
+     "texto": "Hemorragia Digestiva Alta – Trombo Embolismo Pulmonar – Acidente Vascular Encefálico."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [
+    {
+     "arquivo": "imagens/q004-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000186122",
+   "codigo": "4000186122",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 5,
+   "temas": [
+    "Declaração de óbito DO Atestado de óbito"
+   ],
+   "enunciado": "Luís está atendendo na Unidade de Saúde de sua cidade e é chamado para emitir uma declaração de óbito (DO) de um paciente que faleceu em casa e que seu colega Mário acompanhava já em cuidados paliativos. Luís verifica o prontuário no qual estava descrito que o paciente acompanhava por Insu ciência Cardíaca decorrente de um Infarto há 5 anos. Sobre a emissão desta declaração, é CORRETO afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Como se tratava de um paciente de outro médico, Luís está impedido de emitir a DO, devendo encaminhar o corpo ao Instituto Médico Legal."
+    },
+    {
+     "letra": "B",
+     "texto": "Luís pode preencher a DO desde que assinale no item ‘Recebeu assistência médica durante a doença que ocasionou a morte?’: NÃO."
+    },
+    {
+     "letra": "C",
+     "texto": "Se Luís verificar sinais de violência, deverá preencher a DO como causa externa."
+    },
+    {
+     "letra": "D",
+     "texto": "Luís deverá realizar visita domiciliar, verificar o óbito e deverá assinar a DO como médico substituto."
+    },
+    {
+     "letra": "E",
+     "texto": "Luís deverá preencher a DO colocando todos os números dos CIDs pelos quais o paciente era acompanhado."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000185972",
+   "codigo": "4000185972",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 6,
+   "temas": [
+    "Declaração de óbito DO Atestado de óbito"
+   ],
+   "enunciado": "Homem de 72 anos de idade está internado para tratamento antibiótico de broncopneumonia. No terceiro dia de internação, por piora do quadro clínico e laboratorial, é transferido à unidade de terapia intensiva para melhor controle clínico e expansão do espectro antibiótico. Apesar das medidas implementadas, o paciente desenvolve hipotensão refratária a altas doses de drogas vasoativas e evolui a óbito. O paciente apresentava antecedentes de câncer de próstata em tratamento com hormonioterapia, doença pulmonar obstrutiva crônica e diabetes mellitus. Como deve ser preenchida a primeira linha da Parte I do Atestado de Óbito?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Disfunção de múltiplos órgãos."
+    },
+    {
+     "letra": "B",
+     "texto": "Choque Séptico."
+    },
+    {
+     "letra": "C",
+     "texto": "Broncopneumonia."
+    },
+    {
+     "letra": "D",
+     "texto": "Câncer de próstata."
+    },
+    {
+     "letra": "E",
+     "texto": "Efeitos adversos de outras drogas."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000185360",
+   "codigo": "4000185360",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 7,
+   "temas": [
+    "Declaração de óbito DO Atestado de óbito"
+   ],
+   "enunciado": "Assinale a alternativa correta em casos de mortes naturais sem assistência médica, ocorridos em domicílio, em município que conta com Instituto Médico Legal (IML) e Serviço de Verificação de Óbito (SVO).",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A declaração de óbito (DO) deve ser preechida por médico do SVO."
+    },
+    {
+     "letra": "B",
+     "texto": "Qualquer médico pode preencher a DO."
+    },
+    {
+     "letra": "C",
+     "texto": "É obrigação do médico de um serviço de urgência e emergência preencher a DO."
+    },
+    {
+     "letra": "D",
+     "texto": "O responsável pelo falecido, acompanhado de duas testemunhas, deve comparecer ao cartório do registro civil, que preenche as três vias da DO."
+    },
+    {
+     "letra": "E",
+     "texto": "A DO deve ser preenchida por um médico do IML."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000185359",
+   "codigo": "4000185359",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 8,
+   "temas": [
+    "Declaração de óbito DO Atestado de óbito"
+   ],
+   "enunciado": "Um senhor é atropelado por um carro. É internado com lesões de órgãos internos e evolui a óbito após 5 dias por infecção generalizada. Assinale a alternativa que apresenta a causa básica do óbito.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Septicemia."
+    },
+    {
+     "letra": "B",
+     "texto": "Parada cardiorrespiratória."
+    },
+    {
+     "letra": "C",
+     "texto": "Lesão de órgãos internos."
+    },
+    {
+     "letra": "D",
+     "texto": "Choque séptico."
+    },
+    {
+     "letra": "E",
+     "texto": "Vítima de atropelamento por veículo motorizado."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000185211",
+   "codigo": "4000185211",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 9,
+   "temas": [
+    "Medicina Preventiva"
+   ],
+   "enunciado": "Um rapaz de 18 anos de idade, motoboy, tinha acabado de ser registrado em seu primeiro emprego e pilotava sua moto em direção ao local de trabalho para iniciar suas entregas quando foi, repentinamente, atingido por outro veículo automotor, o qual o lançou a 10 metros de distância contra um muro. Ele foi resgatado pelo serviço móvel de urgência e levado ao hospital municipal da região. Sofreu cirurgia devido à fratura de múltiplas costelas, à fratura de processo odontóide e de tíbia esquerda. Com relação a essa situação hipotética, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O acidente deve ser notificado apenas ao sistema de informação de agravos de notificação (SINAN)."
+    },
+    {
+     "letra": "B",
+     "texto": "O hospital deve realizar apenas a comunicação de acidente de trabalho (CAT), não sendo necessário realizar a notificação ao SINAN, visto não ser um acidente com material biológico."
+    },
+    {
+     "letra": "C",
+     "texto": "O hospital deve realizar ambas as notificações SINAN, em até 24 horas, e realizar CAT."
+    },
+    {
+     "letra": "D",
+     "texto": "O caso não deve ser notificado, visto que o entregador ainda não estava em seu horário de trabalho, não podendo ser considerado um acidente de trabalho."
+    },
+    {
+     "letra": "E",
+     "texto": "O caso deve ser notificado apenas como acidente de trânsito grave, cabendo ao Detran a responsabilidade."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000185210",
+   "codigo": "4000185210",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 10,
+   "temas": [
+    "Medicina Preventiva"
+   ],
+   "enunciado": "Acerca das recentes atualizações na lista nacional de agravos de notificação, julgue os itens a seguir. I. As síndromes inflamatórias multissistêmicas associadas à covid-19 em adultos e em crianças, SIM-A e SIM-P, respectivamente, passaram a figurar na lista de agravos de notificação do Ministério da Saúde, com notificação imediata. II. A síndrome gripal por covid-19 se manteve na lista geral de agravos, mas, devido à diminuição dos casos e ao esfriamento da pandemia, passou a ser de notificação semanal. III. A doença de Chagas crônica, a partir de 2020, passou a gurar na lista de agravos de noti cação, devendo ser noti cada com periodicidade imediata, em até 24 horas. Com essa alteração, tanto o quadro agudo quanto o quadro crônico da doença causada pelo Trypanosoma cruzi passam a ser obrigatoriamente noti cados em todo o território nacional. IV. Em 2021, a síndrome congênita associada à infecção pelo vírus Zika passou a ser de noti cação compulsória, adotando- se a periodicidade imediata, ou seja, até 24 horas para notificação. Assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Nenhum item está certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Apenas o item I está certo."
+    },
+    {
+     "letra": "C",
+     "texto": "Apenas o item II está certo."
+    },
+    {
+     "letra": "D",
+     "texto": "Apenas o item III está certo."
+    },
+    {
+     "letra": "E",
+     "texto": "Apenas o item IV está certo."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000185197",
+   "codigo": "4000185197",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 11,
+   "temas": [
+    "Medicina Preventiva"
+   ],
+   "enunciado": "Um paciente internado em UTI após cirurgia neurológica por fratura de base de crânio acompanhado de paralisia facial total devido à briga no bar e à queda com TCE está em seu 5.o dia de internação e evolui com pneumonia nosocomial, sepse e vai a óbito no 11.o dia de internação. Nessa situação hipotética, a declaração de óbito deverá ser assinada por",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "médico plantonista da UTI."
+    },
+    {
+     "letra": "B",
+     "texto": "médico diarista da UTI."
+    },
+    {
+     "letra": "C",
+     "texto": "neurocirurgião que realizou a cirurgia."
+    },
+    {
+     "letra": "D",
+     "texto": "médico do SVO."
+    },
+    {
+     "letra": "E",
+     "texto": "médico do IML."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000184763",
+   "codigo": "4000184763",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 12,
+   "temas": [
+    "Outros",
+    "Declaração de óbito DO Atestado de óbito"
+   ],
+   "enunciado": "Mulher, 30 anos, primigesta, apresentou dor em baixo ventre e hemorragia transvaginal. Três horas depois evoluiu para abortamento espontâneo, sendo submetida à curetagem na 15ª semana de gestação em regime ambulatorial. Três dias depois apresentou um quadro séptico, permanecendo internada por treze dias, período em que foi infectada po r COVID-19. Evoluiu para insu ciência renal, coma e óbito. No prontuário constava que seu lho apresentou hipóxia intrauterina e prematuridade extrema. Pode-se a rmar que a causa básica que deve constar da declaração de óbito (D.O.) para a mãe e seu filho deve ser respectivamente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "aborto espontâneo / não possui D.O."
+    },
+    {
+     "letra": "B",
+     "texto": "COVID-19 / não possui D.O."
+    },
+    {
+     "letra": "C",
+     "texto": "COVID-19 / prematuridade extrema."
+    },
+    {
+     "letra": "D",
+     "texto": "aborto espontâneo / prematuridade extrema"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000184733",
+   "codigo": "4000184733",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 13,
+   "temas": [
+    "Medicina Preventiva"
+   ],
+   "enunciado": "Homem 54 anos, lavrador, residente na área de abrangência Unidade Básica de Saúde a (UBS) com Estratégia de Medicina Família do município X, apresenta perda de peso acentuada nos últimos três meses. Teve diagnostico de câncer de estomago, no inicio do quadro, e foi submetido à cirurgia e sessões de radioterapia, que foram suspensas há um mês após constatação de metástases em vários órgãos. O paciente evoluiu para um quadro de caquexia e vinha recebendo tratamento sob regime domiciliar, pelo médico da Equipe de Saúde da Família desta UBS, que o visita regularmente em casa. A família procura este médico na UBS e comunica que, após a última visita, o paciente evoluiu com falta de ar, vindo a falecer no domicílio.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O médico da família não emitirá a DO, considerando-se que embora ele prestasse assistência médica ao falecido, conhecia o quadro clínico apresentado nos últimos meses, bem como o prognóstico do quadro, o óbito foi no domicilio sem assistência médica."
+    },
+    {
+     "letra": "B",
+     "texto": "O médico da família deve proceder a um cuidadoso exame externo do cadáver, a fim de afastar qualquer possibilidade de causa externa, constatar o óbito e emitir a DO anotando, na variável causa, \"óbito sem assistência médica\" e no campo 59 da Declaração de Óbito \"não há sinais externos de violência\"."
+    },
+    {
+     "letra": "C",
+     "texto": "O corpo deverá ser encaminhado ao IML. Como é morte natural, o médico deve esgotar todas as possibilidades para formular a hipótese diagnóstica, inclusive com anamnese e história colhida com familiares. Caso persista dúvida e na localidade exista SVO, o corpo deverá ser encaminhado para esse serviço. Caso contrário, o médico deverá emitir a DO esclarecendo que a causa é desconhecida."
+    },
+    {
+     "letra": "D",
+     "texto": "O médico da Estratégia Saúde da Família (ESF), do Programa de Internação Domiciliar e outros assemelhados, deverá verificar pessoalmente o cadáver, após ter sido comunicado do óbito e emitirá a DO, considerando-se que prestava assistência médica ao paciente, conhece o quadro clínico, bem como o seu prognóstico."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000184604",
+   "codigo": "4000184604",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 14,
+   "temas": [
+    "Declaração de óbito DO Atestado de óbito"
+   ],
+   "enunciado": "Homem, 49 anos, motorista de caminhão, se envolveu em um acidente enquanto trabalhava, sofreu fraturas múltiplas, foi internado e submetido à cirurgia. Evoluía adequadamente, mas adquiriu infecção hospitalar, vindo a falecer, 12 dias depois, por septicemia no CTI. Considerando os dados disponíveis, assinale a alternativa que apresenta CORRETAMENTE a causa básica da morte e quem deve fornecer a Declaração de Óbito.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Acidente de trânsito e o intensivista."
+    },
+    {
+     "letra": "B",
+     "texto": "Septicemia e o IML."
+    },
+    {
+     "letra": "C",
+     "texto": "Acidente de trânsito e o IML."
+    },
+    {
+     "letra": "D",
+     "texto": "Septicemia e o intensivista."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000184465",
+   "codigo": "4000184465",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 15,
+   "temas": [
+    "Medicina Preventiva"
+   ],
+   "enunciado": "Um homem de 75 anos de idade foi levado ao pronto-socorro mais próximo de sua casa com quadro de piora d a insu ciência cardíaca congestiva com dispneia súbita. Evoluiu a óbito três dias após a internação. Era tabagista (40 maços-ano). Teve diagnóstico de estenose de mitral aos 30 anos de idade e febre reumática na infância. A imagem a seguir mostra parte da declaração de óbito desse homem. Com base nesse caso, assinale a alternativa apresenta o melhor preenchimento dessa declaração de óbito.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Parte I: a. insuficiência cardíaca; b. estenose de valva mitral; c. febre reumática; d. tabagismo."
+    },
+    {
+     "letra": "B",
+     "texto": "Parte I: a. dispneia intensa; b. estenose de valva mitral; c. tabagismo. Parte II: febre reumática."
+    },
+    {
+     "letra": "C",
+     "texto": "Parte I: a. insuficiência cardíaca; b. estenose de valva mitral; c. febre reumática. Parte II: tabagismo."
+    },
+    {
+     "letra": "D",
+     "texto": "Parte I: a. parada cardiorrespiratória; b. estenose de valva mitral; c. febre reumática; d. tabagismo."
+    },
+    {
+     "letra": "E",
+     "texto": "Parte I: a. insuficiência cardíaca; b. tabagismo; c. febre reumática; d. tabagismo."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q015-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000184027",
+   "codigo": "4000184027",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 16,
+   "temas": [
+    "Sistemas de Inf ormação em Saúde SIS e Bases de dados do SUS"
+   ],
+   "enunciado": "Assinale a alternativa correta sobre os Sistemas de Informação em Saúde.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O documento padrão de uso obrigatório em todo o território nacional e essencial à coleta de dados de nascidos vivos no Brasil é a Declaração de Nascidos Vivos (DN), preenchida por profissionais de saúde ou parteiras reconhecidas e vinculadas a unidades de saúde."
+    },
+    {
+     "letra": "B",
+     "texto": "Todos os tipos de agravos à saúde são notificados ao Sistema de Informação de Agravos de Notificação (SINAN) por meio de uma ficha preenchida exclusivamente por médicos."
+    },
+    {
+     "letra": "C",
+     "texto": "O Sistema de Informações sobre Mortalidade (SIM), desenvolvido pelo Ministério da Saúde, em 2020, é resultado da unificação de mais de quarenta modelos de instrumentos utilizados, ao longo dos anos, para coletar dados sobre mortalidade no país."
+    },
+    {
+     "letra": "D",
+     "texto": "O SUS não conta ainda com um sistema de informação preparado para receber notificações de forma ágil, on- line, que possibilitaria que todos os níveis de gestão, profissionais e unidades de saúde tivessem acesso em tempo real às notificações realizadas."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000183941",
+   "codigo": "4000183941",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 17,
+   "temas": [
+    "Medicina Preventiva"
+   ],
+   "enunciado": "O e-SUS Atenção Primária (e-SUS APS) é uma estratégia para reestruturar as informações da Atenção Primária em nível nacional. Essa ação está alinhada com a proposta mais geral de reestruturação dos Sistemas de Informação em Saúde do Ministério da Saúde, entendendo que a quali cação da gestão da informação é fundamental para ampliar a qualidade no atendimento à população. Diante disso, no momento atual, por meio da implantação do Prontuário Eletrônico do Cidadão (PEC), é possível",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "compartilhar informações registradas em serviços de urgência e emergência com as unidades básicas de saúde."
+    },
+    {
+     "letra": "B",
+     "texto": "realizar o registro de dados para indicadores de saúde na APS e utilizar o Código Internacional de Doenças na Atenção Primária (CIAP)."
+    },
+    {
+     "letra": "C",
+     "texto": "encaminhar paciente para outros níveis de atenção à saúde realizando interface com o Sistema Nacional de Regulação (SISREG)."
+    },
+    {
+     "letra": "D",
+     "texto": "anexar arquivos, como o prontuário físico digitalizado do paciente e sua família, de forma a não perder dados registrados manualmente até então."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000183784",
+   "codigo": "4000183784",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 18,
+   "temas": [
+    "Sistema de Inf ormações sobre Nascidos Vivos SINASC"
+   ],
+   "enunciado": "Sistema de Inf ormação de Agravos de Notif icação SINAN Sistemas de Inf ormação em Saúde SIS e Bases de dados do SUS A respeito dos Sistemas de Informação da Atenção em Saúde (SIS), avalie as a rmativas abaixo e assinale a alternativa correta I) Os Sistemas de informação em saúde (SIS) podem ser definidos como um conjunto de componentes interrelacionados que coletam, processam, armazenam e distribuem a informação para apoiar o processo de tomada de decisão e auxiliar no controle das organizações de saúde. II) Os alguns problemas em relação à organização e à construção das informações produzidas no âmbito do SIS são: fragmentação entre diversas bases de dados existentes; os sistemas de produção assistencial podem incorrer em vieses de faturamento e registros manuais para captação dos dados. III) O Sistema de Informações sobre Nascidos Vivos (SINASC) foi implantado o cialmente a partir de 1990, com o objetivo de coletar dados sobre os nascimentos ocorridos em todo o território nacional e fornecer informações sobre natalidade para todos os níveis do Sistema de Saúde. IV) O Sistema de Informação de Agravos de Noti cação (Sinan) foi desenvolvido entre 1990 e 1993, e regulamentado em 1998, por meio da portaria n°1.882/97, tornando obrigatória a alimentação regular da base de dados nacional pelos municípios, estados e Distrito Federal. Este sistema é alimentado, principalmente, pela noti cação e investigação de casos de doenças e agravos que constam na lista nacional de doenças de notificação compulsória.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Todas as afirmativas estão corretas."
+    },
+    {
+     "letra": "B",
+     "texto": "Todas as afirmativas estão incorretas."
+    },
+    {
+     "letra": "C",
+     "texto": "Apenas 2 afirmativas estão corretas."
+    },
+    {
+     "letra": "D",
+     "texto": "Três afirmativas estão incorretas."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000183547",
+   "codigo": "4000183547",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 19,
+   "temas": [
+    "Declaração de óbito DO Atestado de óbito"
+   ],
+   "enunciado": "Indivíduo de 76 anos de idade, sexo masculino, portador de hipertensão arterial há 20 anos, portador de Diabetes há 15 anos, desenvolveu quadro de SARS-Covid19 que se iniciou há 1 semana. Desde criança, apresentava Asma e desde adulto- jovem apresentava varizes dos membros inferiores. Em decorrência da evolução do quadro de SARS-Covid19 apresentou Insuficiência Respiratória Gravíssima e óbito. Qual é a causa básica do óbito?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Asma;"
+    },
+    {
+     "letra": "B",
+     "texto": "Hipertensão associada com Diabetes;"
+    },
+    {
+     "letra": "C",
+     "texto": "TVP (trombose venosa profunda decorrente das varizes;"
+    },
+    {
+     "letra": "D",
+     "texto": "Covid19."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000183480",
+   "codigo": "4000183480",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 20,
+   "temas": [
+    "Medicina Preventiva"
+   ],
+   "enunciado": "Sobre os Sistemas Nacionais de Informação em Saúde, temos um que foi implantado na década de 70, considerado um dos principais instrumentos para apoiar a elaboração de políticas públicas, visando à prevenção, promoção e cuidado em saúde. Assinale a alternativa que corresponde a esse Sistema.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "SINASC."
+    },
+    {
+     "letra": "B",
+     "texto": "SINAN."
+    },
+    {
+     "letra": "C",
+     "texto": "SIM."
+    },
+    {
+     "letra": "D",
+     "texto": "SIH."
+    },
+    {
+     "letra": "E",
+     "texto": "SIA-SUS."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000182874",
+   "codigo": "4000182874",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 21,
+   "temas": [
+    "Medicina Preventiva"
+   ],
+   "enunciado": "Homem de 58 anos, deu entrada em uma UPA, em estado grave (choque hemorrágico) e história de vômitos sanguinolentos. A família informou que o mesmo tinha “pressão alta, diabetes e era alcoolista”, que teve episódio semelhante há dois meses e na ocasião foi informado que tinha “varizes no estômago e cirrose”. Cerca de 20 minutos depois, o paciente veio a falecer a despeito dos tratamentos instituídos pelo médico plantonista. Assinale a alternativa correta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O preenchimento correto da Declaração de Óbito deve ser:"
+    },
+    {
+     "letra": "B",
+     "texto": "O preenchimento correto da Declaração de Óbito deve ser:"
+    },
+    {
+     "letra": "C",
+     "texto": "O preenchimento correto da Declaração de Óbito deve ser:"
+    },
+    {
+     "letra": "D",
+     "texto": "Como o paciente permaneceu menos de 24 horas na UPA, a Declaração de Óbito deverá ser emitida pelo SVO (Serviço de Verificação de Óbito)."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000182485",
+   "codigo": "4000182485",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 22,
+   "temas": [
+    "Sistema de Inf ormação de Agravos de Notif icação SINAN"
+   ],
+   "enunciado": "Neste caso, com relação à notificação ao Sistema Nacional de Agravos de Notificação (SINAN) a conduta correta é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "não notificar nenhum agravo."
+    },
+    {
+     "letra": "B",
+     "texto": "preencher a ficha de atendimento antirrábico humano."
+    },
+    {
+     "letra": "C",
+     "texto": "notificar o caso de acidente por animal potencialmente transmissor da raiva, em até 1 semana."
+    },
+    {
+     "letra": "D",
+     "texto": "notificar o caso de raiva humana, em até 24 horas."
+    },
+    {
+     "letra": "E",
+     "texto": "notificar o caso de raiva humana, em até 1 semana."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000181796",
+   "codigo": "4000181796",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 23,
+   "temas": [
+    "Notif icação em Saúde do Trabalhador no Sistema da Estratégia de Vigilância Sentinela"
+   ],
+   "enunciado": "Lista Nacional de Notif icação Compulsória de doenças agravos e eventos de saúde pública De acordo com a portaria Nº 205, de 17 de fevereiro de 2016, do Ministério da Saúde, um dos agravos que deve ser notificado em Estratégia de Vigilância em Unidades sentinelas é a",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "síndrome hemolítica urêmica."
+    },
+    {
+     "letra": "B",
+     "texto": "síndrome congênita associada à infecção pelo vírus Zika."
+    },
+    {
+     "letra": "C",
+     "texto": "intoxicação exógena."
+    },
+    {
+     "letra": "D",
+     "texto": "criptosporidiose."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000181782",
+   "codigo": "4000181782",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 24,
+   "temas": [
+    "Lista Nacional de Notif icação Compulsória de doenças agravos e eventos de saúde pública"
+   ],
+   "enunciado": "Leia o caso clínico. Um médico da atenção primária recebe um paciente com um ano de idade que apresenta quadro clínico que se encaixa, de acordo com o Ministério da Saúde, na seguinte definição de caso suspeito: “todo indivíduo que, independentemente do estado vacinal, apresente tosse de qualquer tipo, há 14 dias ou mais, associada a um ou mais dos seguintes sintomas: tosse paroxística; guincho inspiratório; vômitos pós tosse”. Nesse caso, qual deve ser a conduta médica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Há necessidade de notificar o caso somente se o paciente for a óbito."
+    },
+    {
+     "letra": "B",
+     "texto": "Há necessidade de notificar o caso em até 24 horas (notificação imediata)."
+    },
+    {
+     "letra": "C",
+     "texto": "Há necessidade de notificar o caso em até 7 dias (notificação semanal)."
+    },
+    {
+     "letra": "D",
+     "texto": "Não há necessidade de notificar o caso."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000181781",
+   "codigo": "4000181781",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 25,
+   "temas": [
+    "Declaração de óbito DO Atestado de óbito"
+   ],
+   "enunciado": "De acordo com a publicação do Ministério da Saúde intitulada Declaração de Óbito – Manual de Instruções para Preenchimento (2022), o médico",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "pode cobrar pela emissão da declaração de óbito, desde que tenha verificado pessoalmente a morte."
+    },
+    {
+     "letra": "B",
+     "texto": "pode adquirir o formulário da declaração de óbito na empresa funerária mais próxima do serviço de saúde onde atua."
+    },
+    {
+     "letra": "C",
+     "texto": "deve preencher declaração de óbito com letra de forma e utilizando caneta esferográfica azul ou preta, dando preferência à cor azul."
+    },
+    {
+     "letra": "D",
+     "texto": "deve emitir rotineiramente a declaração de óbito fetal em gestação com duração de 15 semanas ou peso fetal menor que 500 gramas."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000181677",
+   "codigo": "4000181677",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 26,
+   "temas": [
+    "Sistema de Inf ormação de Agravos de Notif icação SINAN"
+   ],
+   "enunciado": "Intoxicação por Carbamatos e Organof osf orados Paulo, 41 anos, é trabalhador rural e procura atendimento com queixa de sudorese, sialorreia e vômitos. Relata ter trabalhado aplicando Folidol na sua lavoura. Ao exame, apresenta miose e confusão mental. Qual é o provável diagnóstico e o órgão a ser notificado?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Saturnismo / SINAN."
+    },
+    {
+     "letra": "B",
+     "texto": "Intoxicação por organofosforado / SINASC."
+    },
+    {
+     "letra": "C",
+     "texto": "Intoxicação por organofosforado / SINAN."
+    },
+    {
+     "letra": "D",
+     "texto": "Intoxicação por cromo / SINASC."
+    },
+    {
+     "letra": "E",
+     "texto": "Saturnismo / SISVAN."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000181573",
+   "codigo": "4000181573",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 27,
+   "temas": [
+    "Medicina Preventiva"
+   ],
+   "enunciado": "Considerando a Lei nº 6.259, de 30 de outubro de 1975, que dispõe sobre a organização das ações de Vigilância Epidemiológica e sobre o Programa Nacional de Imunizações, assinale a alternativa correta quanto às normas de notificação compulsória de doenças.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Apenas acidentes de trabalho com material biológico deverão ser notificados de maneira compulsória."
+    },
+    {
+     "letra": "B",
+     "texto": "Todos os eventos adversos pós vacinação deverão ser notificados e reportados à Agência Nacional de Vigilância Sanitária (Anvisa)."
+    },
+    {
+     "letra": "C",
+     "texto": "Todas as hepatites virais deverão ser notificadas no momento do diagnóstico, exceto Hepatite A, por não ser infecção sexualmente transmissível."
+    },
+    {
+     "letra": "D",
+     "texto": "Casos de violência sexual deverão ser notificados apenas se confirmados por exames realizados pelos órgãos competentes. Essas notificações são de caráter obrigatoriamente sigiloso."
+    },
+    {
+     "letra": "E",
+     "texto": "Toda tentativa de suicídio deverá ser notificada ao Sinam (Sistema de Informação de Agravos de Notificação) imediatamente, com o preenchimento em ficha de notificação de agravo de violência interpessoal por lesão autoprovocada."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000181407",
+   "codigo": "4000181407",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 28,
+   "temas": [
+    "Medicina Preventiva"
+   ],
+   "enunciado": "Sobre a abordagem da Violência Doméstica Contra a Mulher (VDCM) no contexto da Atenção Primária, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A notificação tem caráter compulsório às autoridades sanitárias e a equipe de saúde deverá obrigatoriamente comunicar à autoridade policial no prazo de 24 (vinte e quatro) horas."
+    },
+    {
+     "letra": "B",
+     "texto": "A notificação tem caráter compulsório devendo ser enviada para as autoridades sanitárias em até 24 horas e fica à critério da vítima realizar denúncia junto a autoridade policial."
+    },
+    {
+     "letra": "C",
+     "texto": "A notificação tem caráter facultativo, sendo o profissional de saúde obrigado a ter a autorização da vítima para prosseguir com a notificação de agravo."
+    },
+    {
+     "letra": "D",
+     "texto": "O Ciclo da Violência descrito por Lenore Walker é composto por quatro fases: negação, aumento da tensão, arrependimento e lua-de-mel."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000181316",
+   "codigo": "4000181316",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 29,
+   "temas": [
+    "Medicina Preventiva"
+   ],
+   "enunciado": "Assinale a alternativa que apresenta corretamente uma das características sobre o Sistema de Informação sobre Mortalidade (SIM).",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Inclui as mortes maternas, desde que sejam decorrentes de negligência médica."
+    },
+    {
+     "letra": "B",
+     "texto": "Tem potencial para fornecer dados sobre mortes por acidente de trabalho."
+    },
+    {
+     "letra": "C",
+     "texto": "É alimentado por prontuários médicos de unidades de saúde."
+    },
+    {
+     "letra": "D",
+     "texto": "Exclui as mortes por causas externas."
+    },
+    {
+     "letra": "E",
+     "texto": "É um sistema de fácil manutenção, mas pouco utilizado pelo SUS."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000181309",
+   "codigo": "4000181309",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 30,
+   "temas": [
+    "Medicina Preventiva"
+   ],
+   "enunciado": "Assinale a alternativa que apresenta corretamente dois eventos de notificação compulsória imediata.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Acidente com animal peçonhento e óbito por dengue."
+    },
+    {
+     "letra": "B",
+     "texto": "Eventos adversos graves ou óbitos pós-vacinação e hanseníase."
+    },
+    {
+     "letra": "C",
+     "texto": "Dengue e doença de Chagas crônica."
+    },
+    {
+     "letra": "D",
+     "texto": "Violência doméstica e tuberculose."
+    },
+    {
+     "letra": "E",
+     "texto": "Leptospirose e hepatite viral."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000180972",
+   "codigo": "4000180972",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 31,
+   "temas": [
+    "Medicina Preventiva"
+   ],
+   "enunciado": "O Sistema de Informações sobre Nascidos Vivos (SINASC) é utilizado para verificação, acompanhamento e monitoramento dos nascimentos ocorridos no território nacional, proporcionando a criação de políticas e ações de vigilância e atenção à saúde na área da saúde maternoinfantil. Assinale a alternativa correta em relação ao SINASC.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A certidão de nascimento é o único documento utilizado para coleta de informações e alimentação do SINASC."
+    },
+    {
+     "letra": "B",
+     "texto": "A Declaração de Nascidos Vivos (DN) é preenchida em três vias, é numerada sequencialmente e sua emissão para os estados é feita exclusivamente pelo Ministério da Saúde (MS)."
+    },
+    {
+     "letra": "C",
+     "texto": "As parteiras tradicionais não podem, em hipótese alguma, preencher a DN."
+    },
+    {
+     "letra": "D",
+     "texto": "Nas Secretarias Municipais de Saúde, as DNs são digitadas, processadas, criticadas, consolidadas e enviadas diretamente para a base de dados do MS."
+    },
+    {
+     "letra": "E",
+     "texto": "O sistema de informação serve somente para controle de natalidade e os dados são aproveitados somente para estatística de quantidade de pessoas que nascem em determinada localidade."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000181968",
+   "codigo": "4000181968",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 32,
+   "temas": [
+    "Medicina Preventiva"
+   ],
+   "enunciado": "Acerca das recentes atualizações na Lista Nacional de Agravos de Noti cação, assinale verdadeiro (V) ou falso (F) e, a seguir, escolha a alternativa com a sequência CORRETA. ( ) A partir de 2020, a Doença de Chagas crônica passou a figurar na lista de agravos de notificação, devendo ser notificada com periodicidade semanal. Com essa alteração, tanto o quadro agudo quanto o quadro crônico da doença causada pelo Trypanosoma cruzi passam a ser obrigatoriamente notificados em todo o território nacional. ( ) Novidade de 2022, a síndrome congênita associada à infecção pelo vírus Zika passou a ser de noti cação compulsória, adotando-se a periodicidade semanal para esse informe. ( ) As síndromes inflamatórias multissistêmicas associadas ao Covid-19 em adultos (SIM-A) e em crianças (SIM-P) passam a gurar na lista principal de agravos de noti cação do Ministério da Saúde. A inclusão dessas duas síndromes prevê necessidade de notificação semanal, dado o quadro arrastado com que se manifestam. ( ) Em razão do arrefecimento da pandemia de Covid-19, em 2022, a síndrome gripal por Covid-19 foi retirada da lista geral de agravos de notificação, passando a ser notificada, em 24 horas, em um sistema específico, o SIVEP-GRIPE.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "VFVV"
+    },
+    {
+     "letra": "B",
+     "texto": "VVFF"
+    },
+    {
+     "letra": "C",
+     "texto": "FVFV"
+    },
+    {
+     "letra": "D",
+     "texto": "FFVV"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000181093",
+   "codigo": "4000181093",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 33,
+   "temas": [
+    "Medicina Preventiva"
+   ],
+   "enunciado": "A lista de doenças e agravos de noti cação compulsória é revisada periodicamente pela emergência de novos agentes e por alterações no Regulamento Sanitário Internacional, seguindo critérios, como magnitude, potencial de disseminação, transcendência, vulnerabilidade e disponibilidade de medidas de controle. A esse respeito, assinale a alternativa que corresponde às doenças de notificação compulsória.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hepatites; erisipela; osteoporose; e poliomielite."
+    },
+    {
+     "letra": "B",
+     "texto": "Malária; artrite; câncer; e violência doméstica."
+    },
+    {
+     "letra": "C",
+     "texto": "Hanseníase; demência; tuberculose; e sífilis."
+    },
+    {
+     "letra": "D",
+     "texto": "Botulismo, cólera, febre amarela, e hantavírus."
+    },
+    {
+     "letra": "E",
+     "texto": "Coqueluche; acidente de trabalho; escabiose; e riquetsiose."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000181092",
+   "codigo": "4000181092",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 34,
+   "temas": [
+    "Medicina Preventiva"
+   ],
+   "enunciado": "Acerca dos aspectos legais envolvidos, são feitas recomendações aos médicos responsáveis pelo preenchimento da declaração de óbito (DO). Com base nessas informações, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A DO deve ser preenchida para todos os óbitos, exceto os fetais, ocorridos em estabelecimentos de saúde, domicílios ou outros locais."
+    },
+    {
+     "letra": "B",
+     "texto": "O médico é o responsável por todas as informações contidas na DO. Não deve assinar uma declaração de óbito em branco ou deixar declarações previamente assinadas; deve verificar se todos os itens de identificação estão devida e corretamente preenchidos."
+    },
+    {
+     "letra": "C",
+     "texto": "A DO é impressa em papel especial carbonado, em duas vias e, antes de ser preenchida, o conjunto deverá ser destacado do bloco."
+    },
+    {
+     "letra": "D",
+     "texto": "O preenchimento deve ser feito com letra cursiva e com caneta esferográfica."
+    },
+    {
+     "letra": "E",
+     "texto": "A primeira linha, que serve de título ao documento, tem um número que deve ser preenchido, que se destina a identificar o evento, servindo como número de controle para o sistema."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000176114",
+   "codigo": "4000176114",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 35,
+   "temas": [
+    "Sistema de Inf ormação de Agravos de Notif icação SINAN"
+   ],
+   "enunciado": "Sistema de Vigilância Alimentar e Nutricional SISVAN Analise as afirmativas abaixo e assinale a(s) correta(s). I) O Sistema Nacional de Vigilância Ambiental em Saúde – SINVAS tem como objetivo prevenir e controlar os fatores de risco de doenças e de outros agravos à saúde, decorrentes do ambiente e das atividades produtivas. II) A Fundação Nacional de Saúde – FUNASA é responsável pela implementação coordenação do SINVAS. III) A Vigilância Ambiental dos fatores de riscos biológicos é desmembrada em cinco áreas de agregação: contaminantes ambientais; qualidade da água para consumo humano; qualidade do ar; qualidade do solo; e desastres naturais e acidentes com produtos perigosos. IV) Para o desenvolvimento do SINVAS é utilizada, entre outros instrumentos e métodos de vigilância e controle, a Epidemiologia Ambiental. V) Por se tratar de um campo novo, na área da saúde, não existem instrumentos legais do SUS para implementação do SINVAS. Está(ão) correta(s):",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I."
+    },
+    {
+     "letra": "B",
+     "texto": "V."
+    },
+    {
+     "letra": "C",
+     "texto": "I,III e IV."
+    },
+    {
+     "letra": "D",
+     "texto": "I,II e IV."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000176109",
+   "codigo": "4000176109",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 36,
+   "temas": [
+    "Indicadores especiais de mortalidade",
+    "Mortalidade"
+   ],
+   "enunciado": "Em relação à mortalidade, analise as afirmações abaixo e, em seguida, assinale o item correto. I) O Ministério da Saúde adotou uma Declaração de óbito padronizada para todo o Brasil. II) A causa básica do óbito deve ser escrita em primeiro lugar, na parte I da Declaração de Óbito. III) A informação recolhida por Censos e Pesquisas Nacionais pode ser utilizada para estimar indicadores de mortalidade. IV) Quanto mais elevado o índice de Swaroop & Uemura tanto piores serão as condições de saúde e de vida de uma população. Assinale a alternativa correta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "II."
+    },
+    {
+     "letra": "B",
+     "texto": "I e II."
+    },
+    {
+     "letra": "C",
+     "texto": "I e III ."
+    },
+    {
+     "letra": "D",
+     "texto": "II e IV."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000176033",
+   "codigo": "4000176033",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 37,
+   "temas": [
+    "Declaração de óbito DO Atestado de óbito"
+   ],
+   "enunciado": "Um paciente do sexo masculino, 35 anos, deu entrada na emergência de um hospital com quadro de abdome agudo. Submetido a uma laparotomia exploradora, foi identi cada e corrigida cirurgicamente uma perfuração duodenal devido a uma úlcera duodenal. Evoluiu desfavoravelmente com manifestação de peritonite e parada cardiorrespiratória no terceiro dia de pós-operatório. O paciente era portador também de valvulopatia mitral reumática, já tendo apresentado insu ciência cardíaca congestiva, mantendo-se ultimamente compensado e sob medicação. Com base nessa história, a causa terminal da morte a ser anotada no atestado de óbito é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Peritonite"
+    },
+    {
+     "letra": "B",
+     "texto": "Abdome agudo"
+    },
+    {
+     "letra": "C",
+     "texto": "Perfuração duodenal"
+    },
+    {
+     "letra": "D",
+     "texto": "Úlcera duodenal"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000176030",
+   "codigo": "4000176030",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 38,
+   "temas": [
+    "Lista Nacional de Notif icação Compulsória de doenças agravos e eventos de saúde pública"
+   ],
+   "enunciado": "Das doenças abaixo, aquela que NÃO apresenta uma doença de notificação compulsória é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Intoxicação por agrotóxicos"
+    },
+    {
+     "letra": "B",
+     "texto": "Criptosporidiose"
+    },
+    {
+     "letra": "C",
+     "texto": "HIV+/AIDS"
+    },
+    {
+     "letra": "D",
+     "texto": "Febre tifoide"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000176028",
+   "codigo": "4000176028",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 39,
+   "temas": [
+    "Lista Nacional de Notif icação Compulsória de doenças agravos e eventos de saúde pública"
+   ],
+   "enunciado": "As doenças de notificação compulsória imediata são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Acidente de trabalho, pneumoconiose, rotavírus"
+    },
+    {
+     "letra": "B",
+     "texto": "Influenza, toxoplasmose gestacional, tularemia"
+    },
+    {
+     "letra": "C",
+     "texto": "Peste, poliomielite, sarampo e rubéola"
+    },
+    {
+     "letra": "D",
+     "texto": "Hepatite B, hepatite C, hepatite A"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000175932",
+   "codigo": "4000175932",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 40,
+   "temas": [
+    "Lista Nacional de Notif icação Compulsória de doenças agravos e eventos de saúde pública"
+   ],
+   "enunciado": "O Sistema de Informação de Agravos de Noti cação (Sinan) foi desenvolvido no início da década de 90, com objetivo de padronizar a coleta e processamento dos dados sobre agravos de noti cação obrigatória em todo o território nacional. O Sinan é atualmente alimentado, principalmente, pela notificação e investigação de casos de doenças e agravos que constam da Lista Nacional de Doenças de Noti cação Compulsória em todo Território Nacional – LDNC. Assinale a alternativa em que todas as doenças pertencem à LDNC.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Diabetes, Coqueluche, Tétano e Difteria."
+    },
+    {
+     "letra": "B",
+     "texto": "Tuberculose, Hanseníase, Dengue e Malária."
+    },
+    {
+     "letra": "C",
+     "texto": "Difteria, Hanseníase, Malária e Amebíase."
+    },
+    {
+     "letra": "D",
+     "texto": "Tétano, Difteria, Dengue e Caxumba."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000175893",
+   "codigo": "4000175893",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 41,
+   "temas": [
+    "Sistema de Inf ormações Hospitalares do SUS SIHSUS"
+   ],
+   "enunciado": "Segundo MEDRONHO et al (2008), qual o instrumento de coleta de dados do Sistema de Informações Hospitalares (SIH)?:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Declaração de Nascidos Vivos (DNV)."
+    },
+    {
+     "letra": "B",
+     "texto": "Autorização de Internação Hospitalar (AIH)."
+    },
+    {
+     "letra": "C",
+     "texto": "Ficha Individual de Investigação (FII)."
+    },
+    {
+     "letra": "D",
+     "texto": "Ficha Individual de Notificação (FIN)."
+    },
+    {
+     "letra": "E",
+     "texto": "Ficha A."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000175808",
+   "codigo": "4000175808",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 42,
+   "temas": [
+    "Lista Nacional de Notif icação Compulsória de doenças agravos e eventos de saúde pública"
+   ],
+   "enunciado": "Sistema de Inf ormação de Agravos de Notif icação SINAN São doenças de notificação compulsória, exceto.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cólera e Difteria."
+    },
+    {
+     "letra": "B",
+     "texto": "Tuberculose e Hanseníase."
+    },
+    {
+     "letra": "C",
+     "texto": "Leishmaniose Visceral e Leptospirose."
+    },
+    {
+     "letra": "D",
+     "texto": "Hepatite B e C."
+    },
+    {
+     "letra": "E",
+     "texto": "Gonorréia e Hepatite B e C."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000175663",
+   "codigo": "4000175663",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 43,
+   "temas": [
+    "Outros Indicadores de Relevância em Saúde Pública"
+   ],
+   "enunciado": "Indicadores de Mortalidade Proporcional por Idade Sistemas de informação em saúde são a base para os gestores tomarem decisões mais e cientes, efetivas e e cazes. Assim, a origem dos dados que alimentam a base de dados e decisões gerenciais podem ser tomadas usando os dados:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "SINASC (Sistema de Informações de Nascidos Vivos): alimentado pelas certidões de nascimento; auxilia o gestor em investimentos quanto a organização e disposição dos serviços de vacinação."
+    },
+    {
+     "letra": "B",
+     "texto": "Sistema de Mortalidade Materna: alimentado pelas declarações de óbito; é limitado para ser usado como base para estratégias no planejamento familiar."
+    },
+    {
+     "letra": "C",
+     "texto": "SINAN (Sistema de Notificação de Agravos de Notificação): alimentado pelas fichas de notificação compulsória; a limitação deste banco de dados é relacionada a intervenção em saúde de agravos sociais, como violência doméstica."
+    },
+    {
+     "letra": "D",
+     "texto": "SIM (Sistema de Informação sobre Mortalidade): alimentado pelas declarações de óbitos; pode utilizar esta base de dados para delimitar o nível de qualidade da saúde em uma região."
+    },
+    {
+     "letra": "E",
+     "texto": "SIH (Sistema de Informação Hospitalar): alimentado pelos setores de regulação hospitalar; poderá auxiliar quanto a organização do atendimento ambulatorial dos hospitais."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000175654",
+   "codigo": "4000175654",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 44,
+   "temas": [
+    "Declaração de óbito DO Atestado de óbito"
+   ],
+   "enunciado": "Paciente de 74 anos, diabético e com insu ciência renal crônica (ESTAGIO 3), veio trazido ao pronto socorro com quadro de confusão mental e agitação psicomotora súbita, sem febre, e sem evacuar há quatro dias, com queixa de dor abdominal e sangue nas fezes. Familiar relata história pregressa de doença diverticular, diagnosticado em colonoscopia de rotina. Paciente foi internado e iniciou antibioticoterapia e volume controlado para a IRC, porém evoluiu com parada cardiorrespiratória, foi submetida a reanimação sem sucesso. Neste caso, a declaração de óbito, no tópico “condições e causas do óbito” deve constar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Parte I: a. Choque Sepseptico; b.Sepse; c.Diverticulite; d.Doença diverticular; Parte II: Diabetes e IRC"
+    },
+    {
+     "letra": "B",
+     "texto": "Parte I: a. Choque Sepseptico; b.Sepse; c.Diverticulite; d. IRC Parte II: Diabetes"
+    },
+    {
+     "letra": "C",
+     "texto": "Parte I: a. Disfunção múltiplas de orgãos; b.Sepse; c.Diverticulite; d.Doença diverticular Parte II: Diabetes e IRC"
+    },
+    {
+     "letra": "D",
+     "texto": "Parte I: a. Disfunção múltiplas de orgãos b. Sepse grave; c.Sepse; d.Diverticulite; Parte II: Diabetes e IRC"
+    },
+    {
+     "letra": "E",
+     "texto": "Parte I: a. Disfunção múltiplas de orgãos b. Choque Sepseptico; c.Sepse; d.Diverticulite; Parte II: Diabetes e IRC"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000175576",
+   "codigo": "4000175576",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 45,
+   "temas": [
+    "Lista Nacional de Notif icação Compulsória de doenças agravos e eventos de saúde pública"
+   ],
+   "enunciado": "Leia o caso clínico a seguir. Um médico da atenção primária recebe um paciente adulto com um quadro clínico que se encaixa, de acordo com o Ministério da Saúde, na seguinte definição de caso suspeito: “Apresenta exantema maculopapular pruriginoso acompanhado de um dos seguintes sinais e sintomas: febre; hiperemia conjuntival/conjuntivite não purulenta; artralgia/poliartralgia; edema periarticular”. Nesse caso, qual deve ser a conduta médica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Não há necessidade de notificar o caso."
+    },
+    {
+     "letra": "B",
+     "texto": "Há necessidade de notificar o caso em até sete dias (notificação semanal)."
+    },
+    {
+     "letra": "C",
+     "texto": "Há necessidade de notificar o caso em até 24 horas (notificação imediata)."
+    },
+    {
+     "letra": "D",
+     "texto": "Há necessidade de notificar o caso somente se o paciente for a óbito."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000175545",
+   "codigo": "4000175545",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 46,
+   "temas": [
+    "Sistema de Inf ormação de Agravos de Notif icação SINAN"
+   ],
+   "enunciado": "No Brasil, uma das doenças de notificação compulsória imediata para caso suspeito ou confirmado é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "tuberculose"
+    },
+    {
+     "letra": "B",
+     "texto": "esquistossomose"
+    },
+    {
+     "letra": "C",
+     "texto": "botulismo"
+    },
+    {
+     "letra": "D",
+     "texto": "sífilis"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000175539",
+   "codigo": "4000175539",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 47,
+   "temas": [
+    "Declaração de óbito DO Atestado de óbito"
+   ],
+   "enunciado": "Um paciente vai a óbito, e a seguradora privada solicita informações sobre as circunstâncias da morte ao médico assistente. Considerando isso, assinale a alternativa correta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "se for para beneficiar os familiares do paciente, o médico está liberado a fornecer as informações solicitadas"
+    },
+    {
+     "letra": "B",
+     "texto": "o médico pode fornecer as informações solicitadas, desde que constem do prontuário médico"
+    },
+    {
+     "letra": "C",
+     "texto": "o médico deve remeter essa solicitação ao serviço de saúde ao qual é vinculado para que seja atendida"
+    },
+    {
+     "letra": "D",
+     "texto": "o médico deve se ater exclusivamente às informações que constam da declaração de óbito"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000175365",
+   "codigo": "4000175365",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 48,
+   "temas": [
+    "Medicina Preventiva",
+    "Declaração de óbito DO Atestado de óbito"
+   ],
+   "enunciado": "A Declaração de Óbito (D.O.) é um documento completo fornecido pelo médico contendo o atestado de óbito. Acerca do tema, assinale a afirmativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A declaração de óbito é constituída por três folhas carbonadas e sequenciais, que podem ser preenchidas por qualquer profissional de saúde, assim como é feita a notificação compulsória."
+    },
+    {
+     "letra": "B",
+     "texto": "A primeira via é arquivada no Cartório de Registro Civil; a segunda via, arquivada no prontuário médico; e a terceira via, encaminhada à Secretaria de Saúde para fins de controle demográfico-sanitário."
+    },
+    {
+     "letra": "C",
+     "texto": "Os óbitos de pessoas sem assistência médica deverão ser atestados por médicos do Serviço de Verificação de Óbitos (SVO), caso disponível; por médicos do serviço público de saúde mais próximo; ou por qualquer médico, devendo constar no atestado que o óbito ocorreu sem assistência médica."
+    },
+    {
+     "letra": "D",
+     "texto": "Caso um paciente faleça por pneumonia, mas a causa básica da morte tenha sido uma queda da própria altura, o médico assistente poderá assinar a D.O., pois a causa terminal não foi externa."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000173606",
+   "codigo": "4000173606",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 49,
+   "temas": [
+    "Lista Nacional de Notif icação Compulsória de doenças agravos e eventos de saúde pública"
+   ],
+   "enunciado": "Sobre a Lista Nacional de Noti cação Compulsória de doenças, assinale a alternativa que é de noti cação compulsória imediata.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Acidente de trabalho com exposição a material biológico"
+    },
+    {
+     "letra": "B",
+     "texto": "Hanseníase"
+    },
+    {
+     "letra": "C",
+     "texto": "Febre Amarela"
+    },
+    {
+     "letra": "D",
+     "texto": "Doença aguda pelo vírus Zika"
+    },
+    {
+     "letra": "E",
+     "texto": "Toxoplasmose congênita"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000173597",
+   "codigo": "4000173597",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 50,
+   "temas": [
+    "Lista Nacional de Notif icação Compulsória de doenças agravos e eventos de saúde pública"
+   ],
+   "enunciado": "Sobre a Lista Nacional de Notificação Compulsória de Doenças, assinale a alternativa INCORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A doença de Chagas crônica está incluída na Lista Nacional de Notificação Compulsória de doenças."
+    },
+    {
+     "letra": "B",
+     "texto": "A Doença de Creutzfeldt-Jakob é de notificação imediata."
+    },
+    {
+     "letra": "C",
+     "texto": "A Tuberculose é de notificação com periodicidade semanal."
+    },
+    {
+     "letra": "D",
+     "texto": "Os casos de Raiva humana, Hantavirose e Cólera são de notificação imediata."
+    },
+    {
+     "letra": "E",
+     "texto": "Os casos de Dengue são de notificação semanal, e os óbitos por dengue são de notificação imediata."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000171028",
+   "codigo": "4000171028",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 51,
+   "temas": [
+    "Lista Nacional de Notif icação Compulsória de doenças agravos e eventos de saúde pública"
+   ],
+   "enunciado": "Segundo os normativos vigentes do MS, a Lista Nacional de Noti cação Compulsória de Doenças, Agravos e Eventos de Saúde Pública inclui:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "meningite viral, violência doméstica e toxoplasmose em idoso"
+    },
+    {
+     "letra": "B",
+     "texto": "teste positivo para covid-19, doença de Chagas crônica e disenteria por"
+    },
+    {
+     "letra": "C",
+     "texto": "leishmaniose tegumentar, caso suspeito de dengue e doença da mão-pé-e-boca"
+    },
+    {
+     "letra": "D",
+     "texto": "esquistossomose, eventos adversos pós-vacinação e acidente com aranha-marrom"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000170096",
+   "codigo": "4000170096",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 52,
+   "temas": [
+    "Medicina Preventiva"
+   ],
+   "enunciado": "O Sistema de Informação de Saúde do SUS agrega diversos tipos de bases de dados com funções e objetos de registro de diferentes naturezas, como o",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Sinan: Sistema de Informação de Agravos de Notificação."
+    },
+    {
+     "letra": "B",
+     "texto": "SIM: Sistema de Informação sobre Morbidade."
+    },
+    {
+     "letra": "C",
+     "texto": "Sisvan: Sistema de Vigilância de Agravos de Notificação."
+    },
+    {
+     "letra": "D",
+     "texto": "SIH-SUS: Sistema de Informações de Hanseníases do SUS."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000170088",
+   "codigo": "4000170088",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 53,
+   "temas": [
+    "Medicina Preventiva",
+    "Declaração de óbito DO Atestado de óbito"
+   ],
+   "enunciado": "Homem de 63 anos, assintomático, estava cumprindo medida de isolamento domiciliar, após diagnóstico confirmado para covid-19. Foi atingido por projétil de arma de fogo (“bala perdida”) que provocou perfuração craniana com perda de massa encefálica e faleceu. Era diabético há 8 anos, controlado. Assinale a alternativa que apresenta o preenchimento correto da declaração de óbito.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "PARTE I a) Ferimento perfurocontuso cranioencefálico b) Projétil de arma de fogo c)______________________ d)______________________"
+    },
+    {
+     "letra": "B",
+     "texto": "PARTE I a) Covid-19 b) Ferimento de cabeça por arma de fogo c)________________________ d)________________________"
+    },
+    {
+     "letra": "C",
+     "texto": "PARTE I a) Ferimento perfurocontuso cranioencefálico b) Projétil de arma de fogo c) Covid-19 d)_______________________"
+    },
+    {
+     "letra": "D",
+     "texto": "PARTE I a) Covid-19 com comorbidade (Diabetes"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169998",
+   "codigo": "4000169998",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 54,
+   "temas": [
+    "Sistema de Inf ormação de Agravos de Notif icação SINAN"
+   ],
+   "enunciado": "Quando a periodicidade para a noti cação de um agravo de noti cação compulsória é “imediata”, a noti cação deve ser feita em até",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "12 horas."
+    },
+    {
+     "letra": "B",
+     "texto": "24 horas."
+    },
+    {
+     "letra": "C",
+     "texto": "1 dia útil."
+    },
+    {
+     "letra": "D",
+     "texto": "1 semana."
+    },
+    {
+     "letra": "E",
+     "texto": "1 mês."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169996",
+   "codigo": "4000169996",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 55,
+   "temas": [
+    "Lista Nacional de Notif icação Compulsória de doenças agravos e eventos de saúde pública"
+   ],
+   "enunciado": "Uma pessoa contraiu febre tifoide e veio a falecer em decorrência de peritonite causada por perfuração intestinal. No preenchimento da Declaração de Óbito, os eventos que se referem, respectivamente, às causas básica, intermediária e imediata são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "febre tifoide, perfuração intestinal e peritonite."
+    },
+    {
+     "letra": "B",
+     "texto": "peritonite, perfuração intestinal e febre tifoide."
+    },
+    {
+     "letra": "C",
+     "texto": "febre tifoide, peritonite e perfuração intestinal."
+    },
+    {
+     "letra": "D",
+     "texto": "perfuração intestinal, febre tifoide e peritonite."
+    },
+    {
+     "letra": "E",
+     "texto": "peritonite, febre tifoide e perfuração intestinal."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169716",
+   "codigo": "4000169716",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 57,
+   "temas": [
+    "Declaração de óbito DO Atestado de óbito"
+   ],
+   "enunciado": "José de 91 anos apresentava Diabetes Mellitus Tipo 2 desde os 75 anos de idade. Aos 86 anos, passou a apresentar Hipertensão Arterial. Há 2 dias, apresentou um Acidente Vascular Encefálico, evoluindo para óbito há 2 horas. A família relatou ao médico que ele já estava bem confuso, com a memória bem comprometida há meses. Qual é a causa básica deste óbito?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Diabetes Mellitus Tipo 2."
+    },
+    {
+     "letra": "B",
+     "texto": "Hipertensão Arterial."
+    },
+    {
+     "letra": "C",
+     "texto": "Acidente Vascular Encefálico."
+    },
+    {
+     "letra": "D",
+     "texto": "Senilidade."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169715",
+   "codigo": "4000169715",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 58,
+   "temas": [
+    "Lista Nacional de Notif icação Compulsória de doenças agravos e eventos de saúde pública"
+   ],
+   "enunciado": "É de notificação compulsória qualquer caso de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Acidente de trabalho."
+    },
+    {
+     "letra": "B",
+     "texto": "Influenza."
+    },
+    {
+     "letra": "C",
+     "texto": "Sarampo."
+    },
+    {
+     "letra": "D",
+     "texto": "Varicela."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169451",
+   "codigo": "4000169451",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 59,
+   "temas": [
+    "Sistemas de Inf ormação em Saúde SIS e Bases de dados do SUS"
+   ],
+   "enunciado": "Acerca dos sistemas de informações de saúde do Brasil, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O Sistema de Informação de Agravos de Notificação (Sinan) tem como objetivo coletar, transmitir e disseminar dados gerados sobre as doenças de notificação compulsória."
+    },
+    {
+     "letra": "B",
+     "texto": "O Sistema de Vigilância de Agravos aos Povos Nativos (Sisvan) recruta informações, na perspectiva do Sistema de Vigilância em Saúde, voltadas para a população indígena."
+    },
+    {
+     "letra": "C",
+     "texto": "A Comissão Permanente Mista de Combate à Violência contra a Mulher (CMCVM) é um sistema nacional de notificação de casos de violência doméstica."
+    },
+    {
+     "letra": "D",
+     "texto": "O Sistema de Notificação de Agravos à Saúde dos Trabalhadores Camponeses (SINASC) tem como objetivo coletar, transmitir e disseminar dados gerados sobre as doenças relevantes na população rural brasileira."
+    },
+    {
+     "letra": "E",
+     "texto": "O Registro de Eventos em Saúde Pública (RESP-Trans) tem como objetivo coletar, transmitir e disseminar dados gerados sobre as comorbidades da população transgênero nas grandes cidades brasileiras."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169421",
+   "codigo": "4000169421",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 60,
+   "temas": [
+    "Violência"
+   ],
+   "enunciado": "Quanto às notificações/denúncias de casos de violência doméstica, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Somente os casos de certeza de maus-tratos serão comunicados ao conselho tutelar."
+    },
+    {
+     "letra": "B",
+     "texto": "São obrigatórias e compulsórias."
+    },
+    {
+     "letra": "C",
+     "texto": "Não interrompem atitudes e comportamentos violentos do agressor."
+    },
+    {
+     "letra": "D",
+     "texto": "Não têm o poder de se tornar denúncia policial."
+    },
+    {
+     "letra": "E",
+     "texto": "A notificação deve sempre ser feita pelo médico que atendeu a criança."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169257",
+   "codigo": "4000169257",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 61,
+   "temas": [
+    "Declaração de óbito DO Atestado de óbito"
+   ],
+   "enunciado": "Enquanto trabalhava no consultório da Unidade de Saúde da Família de Araçuaí do Norte, uma médica recebeu, de um o cial de justiça, uma noti cação do juiz da comarca para que ela constatasse um óbito e preenchesse a Declaração de Óbito, cuja causa, segundo informa o documento, é \"\"suspeita de suicídio por arma de fogo\"\" (causa externa). Diante deste fato, como deve proceder a médica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Assinar a notificação, constatar o óbito, descrever as lesões externas do cadáver e seus possíveis agentes causadores, se existirem, e colocar como Causa Básica Causa Desconhecida."
+    },
+    {
+     "letra": "B",
+     "texto": "Assinar a notificação, constatar o óbito, descrever as lesões externas do cadáver e seus possíveis agentes causadores, se existirem, e colocar como Causa Básica Causa Suicídio (CID10 - X74)."
+    },
+    {
+     "letra": "C",
+     "texto": "Assinar a notificação, constatar o óbito, mas não preencher a Declaração de Óbito, uma vez que a legislação vigente sobre assunto determina que todo óbito, cuja Causa Básica é um Causa Externa (violenta ou não), deve ser encaminhado para o Instituto Médico Legal (IML), para que, depois de feita a autópsia, o médico legista preencha o Atestado de Óbito."
+    },
+    {
+     "letra": "D",
+     "texto": "Não assinar a notificação, informando ao oficial de justiça que, segundo a legislação vigente, todo óbito, cuja Causa Básica é um Causa Externa (violenta ou não), deve ser encaminhado para o Instituto Médico Legal (IML), para que, depois de feita a autópsia, o médico legista preencha o Atestado de Óbito."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169255",
+   "codigo": "4000169255",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 62,
+   "temas": [
+    "Quadro clínico",
+    "Inf ectologia"
+   ],
+   "enunciado": "Lista Nacional de Notif icação Compulsória de doenças agravos e eventos de saúde pública Paciente de 44 anos comparece no ambulatório de doenças infecto contagiosas com quadro de febre de 39ºC há dois dias, associada a poliartralgia, cefaleia e rash cutâneo. Foi solicitado hemograma, que demonstrou leucopenia, linfopenia, hematócrito normal e plaquetas normais. O PCR apresentou-se elevado. Refere que sua casa se encontra infestada pelo Aedes aegypti e que alguns vizinhos relataram o mesmo quadro. Como dado epidemiológico é importante citar que na sua cidade existem casos autóctones de doenças, cujo vetor é o Aedes aegypti. Foi solicitado Prova de Isolamento Viral e RT- PCR. Qual a hipótese diagnóstica para o caso e a conduta do ponto de vista da Vigilância Epidemiológica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Dengue. Notificação imediata para o Serviço de Vigilância Epidemiológica Municipal."
+    },
+    {
+     "letra": "B",
+     "texto": "Dengue. Notificação semanal para o Serviço de Vigilância Epidemiológica Municipal."
+    },
+    {
+     "letra": "C",
+     "texto": "Chikungunya. Notificação para o Serviço de Vigilância Epidemiológica Municipal somente após a confirmação diagnóstica."
+    },
+    {
+     "letra": "D",
+     "texto": "Chikungunya. Notificação em até 24 horas para o Serviço de Vigilância Epidemiológica Municipal."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169125",
+   "codigo": "4000169125",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 64,
+   "temas": [
+    "Sistema de Inf ormação de Agravos de Notif icação SINAN"
+   ],
+   "enunciado": "Qual das seguintes doenças deve ser noti cada às autoridades de saúde dentro do prazo de 24 horas a partir da suspeita inicial do caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Sífilis em gestante"
+    },
+    {
+     "letra": "B",
+     "texto": "Doença aguda por vírus Zika"
+    },
+    {
+     "letra": "C",
+     "texto": "Hanseníase"
+    },
+    {
+     "letra": "D",
+     "texto": "Cólera"
+    },
+    {
+     "letra": "E",
+     "texto": "HIV"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169122",
+   "codigo": "4000169122",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 65,
+   "temas": [
+    "Declaração de óbito DO Atestado de óbito"
+   ],
+   "enunciado": "Analise as afirmativas abaixo e marque a opção correta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Serviço de Verificação de Óbito (SVO) é o órgão oficial responsável pela realização de necropsias em pessoas que morreram sem assistência médica ou com diagnóstico de moléstia mal definida."
+    },
+    {
+     "letra": "B",
+     "texto": "O médico pode deixar de atestar óbito de paciente ao qual vinha prestando assistência, exceto quando houver indícios de morte violenta."
+    },
+    {
+     "letra": "C",
+     "texto": "Óbito por causa natural é aquele que decorre de lesão provocada por violência (homicídio, suicídio, acidente ou morte suspeita)."
+    },
+    {
+     "letra": "D",
+     "texto": "No óbito fetal, com gestação de menos de 20 semanas, ou feto com peso menor que 500 gramas, ou estatura menor que 25 centímetros se emite declaração de óbito."
+    },
+    {
+     "letra": "E",
+     "texto": "O médico pode usar formulários de instituições públicas para prescrever ou atestar fatos verificados na clínica privada."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169101",
+   "codigo": "4000169101",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 66,
+   "temas": [
+    "Medicina Preventiva"
+   ],
+   "enunciado": "Paciente trabalhador de construção civil sofreu queda de andaime, resultando em fratura de fêmur. Precisou ser submetido à cirurgia. Evoluía adequadamente, mas adquiriu infecção relacionada à assistência à saúde, vindo a falecer por broncopneumonia. Observe a seguinte declaração de óbito A melhor opção para o preenchimento do campo",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cirurgia."
+    },
+    {
+     "letra": "B",
+     "texto": "Fratura de fêmur."
+    },
+    {
+     "letra": "C",
+     "texto": "Broncopneumonia."
+    },
+    {
+     "letra": "D",
+     "texto": "Queda de escada."
+    },
+    {
+     "letra": "E",
+     "texto": "Ação contundente."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000168681",
+   "codigo": "4000168681",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 67,
+   "temas": [
+    "Medicina Preventiva",
+    "Declaração de óbito DO Atestado de óbito"
+   ],
+   "enunciado": "Sobre o preenchimento da declaração de óbito (DO), assinale a alternativa correta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Em caso de morte natural não assistida em local sem serviço de verificação de óbito (SVO), a declaração pode ser emitida por médico de serviço público mais próximo, mediante examinação do corpo;"
+    },
+    {
+     "letra": "B",
+     "texto": "No setor privado, é permitido ao médico cobrar um adicional por cada declaração de óbito emitida;"
+    },
+    {
+     "letra": "C",
+     "texto": "No momento da passagem de plantão, a DO poderá ser preenchida pelo médico que está assumindo o plantão, caso o profissional anterior que atestou o óbito tenha carimbado a DO;"
+    },
+    {
+     "letra": "D",
+     "texto": "Em caso de óbito por acidente de trabalho, a declaração só poderá ser emitida por médico perito do INSS;"
+    },
+    {
+     "letra": "E",
+     "texto": "Em caso de morte por causa externa, não é necessária avaliação do médico legista, bastando a declaração do médico assistente."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000168403",
+   "codigo": "4000168403",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 68,
+   "temas": [
+    "Lista Nacional de Notif icação Compulsória de doenças agravos e eventos de saúde pública"
+   ],
+   "enunciado": "Sistema de Inf ormação de Agravos de Notif icação SINAN Deve-se realizar a noti cação de casos suspeitos das seguintes doenças de noti cação compulsória de forma imediata, EXCETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "raiva humana."
+    },
+    {
+     "letra": "B",
+     "texto": "síndrome de rubéola congênita (SRC)."
+    },
+    {
+     "letra": "C",
+     "texto": "botulismo."
+    },
+    {
+     "letra": "D",
+     "texto": "hantavirose."
+    },
+    {
+     "letra": "E",
+     "texto": "síndrome da imunodeficiência adquirida."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000168241",
+   "codigo": "4000168241",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 69,
+   "temas": [
+    "Medicina de Família e Comunidade"
+   ],
+   "enunciado": "Qual dos seguintes sistemas de informação em saúde toma por base informações de um Território Sanitário?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "SIM."
+    },
+    {
+     "letra": "B",
+     "texto": "SINAN."
+    },
+    {
+     "letra": "C",
+     "texto": "SIAB."
+    },
+    {
+     "letra": "D",
+     "texto": "SINASC."
+    },
+    {
+     "letra": "E",
+     "texto": "SISVAN."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000168054",
+   "codigo": "4000168054",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 70,
+   "temas": [
+    "Declaração de óbito DO Atestado de óbito"
+   ],
+   "enunciado": "Paciente do sexo masculino, com 79 anos, portador de Diabetes e Doença Renal Crônica não dialítica contraiu COVID-19 em junho de 2020, sendo confirmado por meio de teste de RT-PCR. Em decorrência da doença, evoluiu com quadro de insu ciência respiratória, necessitando Intubação Oro Traqueal e Ventilação Mecânica. Após 32 dias de difícil desmame de ventilação mecânica, apresentou quadro de pneumonia associada à ventilação mecânica, seguido de choque séptico refratário e óbito dois dias após. A Declaração de óbito é uma das fontes de indicadores de saúde de interesse, sobre o preenchimento deste documento, como deve constar a COVID-19?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A COVID-19 deve constar na Parte I, como a causa básica do óbito, sendo registrado por meio do codificador B34.2 (Infecção por coronavírus de localização não especificada) + o marcador U07.1 (COVID-19, vírus identificado)."
+    },
+    {
+     "letra": "B",
+     "texto": "A COVID-19 deve constar na parte I como causa imediata de óbito, sendo registrado por meio do codificador B34.2 (Infecção por coronavírus de localização não especificada) + o marcador U07.1 (COVID-19, vírus identificado)."
+    },
+    {
+     "letra": "C",
+     "texto": "A COVID-19 deve constar na parte I como causa intermediária de óbito, sendo registrado por meio do codificador B34.2 (Infecção por coronavírus de localização não especificada) + o marcador U07.1 (COVID-19, vírus identificado)."
+    },
+    {
+     "letra": "D",
+     "texto": "A COVID-19 deve constar na parte II como “outras condições significativas que contribuíram para a morte”, sendo registrado por meio do codificador B34.2 (Infecção por coronavírus de localização não especificada) + o marcador U07.1 (COVID-19, vírus identificado)."
+    },
+    {
+     "letra": "E",
+     "texto": "Como o paciente já está fora do período de contágio pela COVID-19, ela pode ser considerada curada e não deve constar na Declaração de óbito."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000167970",
+   "codigo": "4000167970",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 71,
+   "temas": [
+    "Declaração de óbito DO Atestado de óbito"
+   ],
+   "enunciado": "De acordo com a Resolução do Conselho Federal de Medicina No 1.779/2005, que regulamenta a responsabilidade médica no fornecimento da Declaração de Óbito, pode-se afirmar que: I. No caso de morte natural ocorrida em hospital, o preenchimento dos dados constantes na Declaração de Óbito é de responsabilidade da equipe multipro ssional (médico, enfermagem e/ou administrativo) da instituição em que o paciente estava internado. II. Paciente previamente acompanhado regularmente no ambulatório de gastroenterologia do Hospital Angelina Caron por cirrose hepática alcoólica avançada sofre uma queda de nível em casa com TCE. Encontrava-se já em óbito à chegada do SAMU. Neste caso, a declaração deverá ser fornecida por médico designado pelo HAC, podendo o SAMU levar o corpo até o hospital para que o óbito seja atestado. III. A Declaração de Óbito do paciente em tratamento sob regime domiciliar (Programa Saúde da Família, internação domiciliar e outros) deverá ser fornecida pelo médico pertencente ao programa ao qual o paciente estava cadastrado, ou pelo SV. O, caso o médico não consiga correlacionar o óbito com o quadro clínico concernente ao acompanhamento do paciente. Assinale a alternativa que indica as afirmações corretas.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Apenas III"
+    },
+    {
+     "letra": "B",
+     "texto": "Apenas I"
+    },
+    {
+     "letra": "C",
+     "texto": "Apenas I e III"
+    },
+    {
+     "letra": "D",
+     "texto": "Apenas II e III"
+    },
+    {
+     "letra": "E",
+     "texto": "I, II e III"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000167709",
+   "codigo": "4000167709",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 72,
+   "temas": [
+    "Intoxicação por Agrotóxicos"
+   ],
+   "enunciado": "Lista Nacional de Notif icação Compulsória de doenças agravos e eventos de saúde pública Uma trabalhadora rural de 30 anos de idade, em plantio de tomate há dois meses, refere tonturas, dores de cabeça, cansaço, náuseas, geralmente no nal do dia de trabalho, há duas semanas, após a plantação ter sido pulverizada com agrotóxicos, e informa que uma colega de trabalho apresenta quadro semelhante. O médico suspeitou tratar-se de um caso de intoxicação por agrotóxicos e afastou-a do trabalho por uma semana, com nova avaliação, e noti cou esse fato ao Sistema de Informação de Agravos e Noti cações (SINAN), do Sistema Único de Saúde (SUS). No retorno, a paciente relatou melhora do quadro clínico. A respeito desse caso clínico, julgue o item. O médico não deveria ter notificado o SINAN, pois ainda não havia certeza do diagnóstico.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000167189",
+   "codigo": "4000167189",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 73,
+   "temas": [
+    "Relação com pacientes e f amiliares"
+   ],
+   "enunciado": "O médico Joaquim é chamado pela família de Dona Josefa, que lhe comunica do falecimento da paciente e lhe solicita o preenchimento da Declaração de Óbito (DO). Com 83 anos, Dona Josefa estava em Cuidados Paliativos, acompanhada po r Joaquim no ambiente domiciliar, devido a um câncer do trato gastrointestinal sem possibilidade curativa. Ao chegar no domicílio de Dona Josefa, Joaquim constata o óbito, causado por choque hipovolêmico devido a sangramento do trato gastrointestinal. Considerando o caso descrito, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Joaquim está eticamente impedido de emitir a Declaração de Óbito, já que não estava presente no momento da ocorrência, configurando morte suspeita."
+    },
+    {
+     "letra": "B",
+     "texto": "No campo 49 “Causas da Morte”, parte I, na linha ‘a’, deve ser apresentado câncer do trato gastrointestinal, como causa básica da morte."
+    },
+    {
+     "letra": "C",
+     "texto": "O cuidado do paciente terminal fora do ambiente hospitalar e sem suporte intensivo de vida caracteriza esse caso como eutanásia."
+    },
+    {
+     "letra": "D",
+     "texto": "A comunicação de más notícias a pacientes e familiares deve ser empática, mas ao mesmo tempo assertiva e clara, evitando-se excesso de informações."
+    },
+    {
+     "letra": "E",
+     "texto": "Antes de comunicar o paciente uma má notícia, é obrigação do médico assistente confirmar a concordância do responsável com essa comunicação."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000167173",
+   "codigo": "4000167173",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 74,
+   "temas": [
+    "Sistemas de Inf ormação em Saúde SIS e Bases de dados do SUS"
+   ],
+   "enunciado": "São sistemas nacionais de informação úteis para a prática da Vigilância Epidemiológica por pro ssionais e equipes de saúde, EXCETO",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "SINAN."
+    },
+    {
+     "letra": "B",
+     "texto": "SINASC."
+    },
+    {
+     "letra": "C",
+     "texto": "SIM."
+    },
+    {
+     "letra": "D",
+     "texto": "SCNES."
+    },
+    {
+     "letra": "E",
+     "texto": "SIH."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000166999",
+   "codigo": "4000166999",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 75,
+   "temas": [
+    "Outros Sistemas de Inf ormação em Saúde e Bases de dados do SUS"
+   ],
+   "enunciado": "Assinale a alternativa que apresenta o sistema de informação em saúde que, embora não possa ser utilizado para ns epidemiológicos, é um importante sistema, pois permite o conhecimento dos procedimentos utilizados na rede ambulatorial do SUS, além de conter a relação dos serviços da rede própria, contratada e conveniada dos estados e municípios, e informações sobre pro ssionais por especialidade. Tem como fontes de dados as informações do Cadastro Nacional de Estabelecimentos de Saúde (CNES) e os boletins de produção ambulatorial:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Sistema de Informações Hospitalares (SIH/SUS)."
+    },
+    {
+     "letra": "B",
+     "texto": "Sistema de Informação da Atenção Básica (SIAB)."
+    },
+    {
+     "letra": "C",
+     "texto": "Sistema de Informações Ambulatoriais do SUS (SIA/SUS)."
+    },
+    {
+     "letra": "D",
+     "texto": "Sistema de Vigilância Alimentar e Nutricional (Sisvan)."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000166998",
+   "codigo": "4000166998",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 76,
+   "temas": [
+    "Sistema de Inf ormação sobre Mortalidade SIM"
+   ],
+   "enunciado": "Entre os sistemas nacionais de informação em saúde existentes, assinale a alternativa que apresenta o sistema que permite construir indicadores importantes para conhecer o per l de saúde de uma região. A partir das informações nele contidas, pode-se obter mortalidade proporcional por causas, faixa etária, sexo, local de ocorrência e residência, letalidade dos agravos de incidência conhecida, bem como taxas de mortalidade geral, infantil, materna ou por qualquer outra variável contida na declaração de óbito. Tem como fonte de informação a declaração de óbito:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Sistema de Informação de Agravos de Notificação (Sinan)."
+    },
+    {
+     "letra": "B",
+     "texto": "Sistema de Informação sobre Mortalidade (SIM)."
+    },
+    {
+     "letra": "C",
+     "texto": "Sistema de Informação sobre Nascidos Vivos (Sinasc)."
+    },
+    {
+     "letra": "D",
+     "texto": "Sistema de Informações Hospitalares (SIH/SUS)."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000166629",
+   "codigo": "4000166629",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 77,
+   "temas": [
+    "Declaração de óbito DO Atestado de óbito"
+   ],
+   "enunciado": "Homem, 79 anos de idade, sofre queda de escada, fratura o fêmur, é submetido a cirurgia, no 3º DPO, apresenta infecção hospitalar e falece alguns dias depois por choque séptico. A respeito desse caso, analise as afirmativas a seguir: I. O médico que deve fornecer a declaração de óbito é o ortopedista responsável pela internação e pela cirurgia. II. A causa imediata é o choque séptico. III. A causa básica é a queda de escada. Estão corretas as afirmativas",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I e II, apenas."
+    },
+    {
+     "letra": "B",
+     "texto": "I e III, apenas."
+    },
+    {
+     "letra": "C",
+     "texto": "II e III, apenas."
+    },
+    {
+     "letra": "D",
+     "texto": "I, II e III."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000166542",
+   "codigo": "4000166542",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 78,
+   "temas": [
+    "Declaração de óbito DO Atestado de óbito"
+   ],
+   "enunciado": "Você é o médico responsável pelo seguimento de um paciente jovem do sexo masculino, 28 anos usuário crônico de álcool desde os 12, há meses atendido no serviço de saúde, sem sucesso na manutenção da abstinência alcoólica. Por diversas vezes comparecia às consultas com marcas de agressão física, uma vez que dizia “não levar desaforo para casa”. Em uma manhã, ao chegar na UBS, você é informado por uma de suas agentes comunitárias de saúde que o paciente foi encontrado morto na sala de sua casa após 3 dias em estado de embriaguez. Diante disso, e levando-se em conta que você é o médico assistente, você:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Não deve preencher a DO, já que não examinou o corpo e nem conhece a história do falecido."
+    },
+    {
+     "letra": "B",
+     "texto": "Deve prontamente preencher a DO, já que examinou o corpo e conhece a história do falecido."
+    },
+    {
+     "letra": "C",
+     "texto": "Não deve preencher a DO, por existir a suspeita de morte violenta, já que o falecido se encontrava em estado vulnerável."
+    },
+    {
+     "letra": "D",
+     "texto": "Não deve preencher a DO, por ser uma obrigação exclusiva do médico legista."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000166391",
+   "codigo": "4000166391",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 79,
+   "temas": [
+    "Medicina Preventiva"
+   ],
+   "enunciado": "No ano de 2009, o Ministério da Saúde publicou o documento intitulado “Declaração de Óbito, documento necessário e importante”. De acordo com este documento:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A morte é a falência da medicina e dos médicos, por isso, caso a Declaração de Óbito não seja devidamente preenchida, cada vez mais será demonstrada a incapacidade dos profissionais em prevenir esse desfecho negativo."
+    },
+    {
+     "letra": "B",
+     "texto": "O modelo único de Declaração de Óbito foi implantado pelo Ministério da Saúde, desde 1996, para ser utilizado nas regiões Sudeste e Sul do país, como documento base do Sistema de Informações sobre Mortalidade. Em 1999, esse modelo foi transferido para todos os estados do Brasil."
+    },
+    {
+     "letra": "C",
+     "texto": "O médico tem responsabilidade ética e jurídica pelo preenchimento e pela assinatura da Declaração de Óbito, assim como pelas informações registradas em todos os campos deste documento. Na inexistência do médico, o enfermeiro está autorizado a preencher a declaração, o que em geral ocorre em áreas distantes ou de difícil acesso."
+    },
+    {
+     "letra": "D",
+     "texto": "O médico deve preencher os dados de identificação com base em um documento da pessoa falecida. Na ausência de documento, caberá à autoridade policial proceder o reconhecimento do cadáver."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000166387",
+   "codigo": "4000166387",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 80,
+   "temas": [
+    "Sistema de Inf ormação de Agravos de Notif icação SINAN"
+   ],
+   "enunciado": "Um médico da Estratégia Saúde da Família recebe um escolar com um quadro clínico que se encaixa, de acordo com o Ministério da Saúde, na seguinte definição de caso suspeito: “Todo indivíduo que apresentar febre e exantema maculopapular morbiliforme de direção cefalocaudal, acompanhados de um ou mais dos seguintes sinais e sintomas: tosse e/ou coriza e/ou conjuntivite; independentemente de idade e situação vacinal.”. Nesse caso, qual deve ser a conduta médica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Não há necessidade de notificar o caso."
+    },
+    {
+     "letra": "B",
+     "texto": "Notificar o caso em até 7 dias (notificação semanal)."
+    },
+    {
+     "letra": "C",
+     "texto": "Notificar o caso em até 24 horas (notificação imediata)."
+    },
+    {
+     "letra": "D",
+     "texto": "Notificar o caso, em até 24 horas (notificação imediata), somente se o escolar for a óbito."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000166271",
+   "codigo": "4000166271",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 81,
+   "temas": [
+    "Sistema de Vigilância Alimentar e Nutricional SISVAN"
+   ],
+   "enunciado": "Qual das alternativas aponta ações de vigilância em saúde no Brasil recomendadas pelo Sistema de Vigilância Alimentar e Nutricional?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Utilização do recordatório de consumo alimentar referente ao último mês, obtenção das medidas de peso, estatura e circunferência da cintura nas consultas de rotina nas unidades básicas de saúde."
+    },
+    {
+     "letra": "B",
+     "texto": "Execução bienal de mutirões de avaliação do estado nutricional com base no peso e estatura da população residente e dos estudantes das escolas públicas da área de abrangência das unidades básicas de saúde."
+    },
+    {
+     "letra": "C",
+     "texto": "Avaliação da oferta proporcional de alimentos ultraprocessados e dos macronutrientes da dieta nos domicílios e nas escolas públicas da área de abrangência das unidades básicas de saúde."
+    },
+    {
+     "letra": "D",
+     "texto": "Aplicação do formulário de marcador de consumo alimentar referente ao dia anterior e obtenção das medidas de peso e estatura nas consultas de rotina nas unidades básicas de saúde."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000166265",
+   "codigo": "4000166265",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 82,
+   "temas": [
+    "Sistema de Inf ormação de Agravos de Notif icação SINAN"
+   ],
+   "enunciado": "Em relação à noti cação compulsória de doenças, agravos e eventos de saúde pública nos serviços de saúde públicos e privados em todo o território nacional, definida pela Portaria de Consolidação nº 4 de 28 de setembro de 2017, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A notificação compulsória imediata deve ser realizada pelo profissional de saúde ou responsável pelo serviço assistencial que prestar o primeiro atendimento ao paciente, em até 48 horas desse atendimento."
+    },
+    {
+     "letra": "B",
+     "texto": "A comunicação de doença, agravo ou evento de saúde pública de notificação compulsória pode ser realizada à autoridade de saúde por qualquer cidadão que deles tenha conhecimento."
+    },
+    {
+     "letra": "C",
+     "texto": "Tentativa de suicídio, óbito infantil e óbito de membro de povo ou comunidade tradicional são agravos de notificação compulsória em todo o território nacional."
+    },
+    {
+     "letra": "D",
+     "texto": "O município deve incluir, em sua lista de notificação, doenças, agravos ou evento de saúde pública de notificação compulsória constantes da lista de sua respectiva região de saúde"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000166213",
+   "codigo": "4000166213",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 83,
+   "temas": [
+    "Sistema de Inf ormação de Agravos de Notif icação SINAN"
+   ],
+   "enunciado": "A noti cação compulsória de doenças e agravos alerta sobre a ocorrência de ameaças à saúde que precisam ser detectadas e controladas ainda em seus estágios iniciais. No momento da noti cação, alguns aspectos primordiais devem ser considerados, tais como:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a notificação compulsória negativa deve ser realizada pelo responsável pelo estabelecimento de saúde à autoridade de saúde, informando que, na semana epidemiológica, não foi identificada nenhuma doença nem nenhum agravo ou evento de saúde pública constante da Lista de Notificação Compulsória."
+    },
+    {
+     "letra": "B",
+     "texto": "os médicos e os enfermeiros são obrigados a notificar doença, agravo ou evento de saúde pública constante da Lista de Notificação Compulsória, porém essa notificação é facultativa aos demais profissionais de saúde e aos responsáveis pelos serviços públicos e privados de saúde, que prestam cuidados e assistência ao paciente."
+    },
+    {
+     "letra": "C",
+     "texto": "a notificação compulsória imediata deve ser realizada pelo profissional de saúde ou pelo responsável pelo serviço assistencial que prestar o primeiro atendimento ao paciente, em até 48 horas desse atendimento, pelo meio mais rápido disponível."
+    },
+    {
+     "letra": "D",
+     "texto": "o paciente deve ser questionado quanto ao atendimento e(ou) à notificação em outro serviço público ou privado de saúde, a fim de se evitar a duplicidade de notificação e os problemas no planejamento das atividades da vigilância epidemiológica relacionadas ao agravo ou às doença notificadas."
+    },
+    {
+     "letra": "E",
+     "texto": "todo agravo de notificação compulsória deve ser reportado diretamente ao Ministério da Saúde, respeitando-se a periodicidade da notificação."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000165409",
+   "codigo": "4000165409",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 84,
+   "temas": [
+    "Lista Nacional de Notif icação Compulsória de doenças agravos e eventos de saúde pública"
+   ],
+   "enunciado": "De acordo com o Sistema de Informação de Agravos de Noti cação (SINAN), a noti cação compulsória é preenchida para cada paciente quando da suspeita da ocorrência de problema de saúde de noti cação compulsória. São doenças de notificação compulsória:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "meningite, doenças mentais"
+    },
+    {
+     "letra": "B",
+     "texto": "tuberculose, hanseníase"
+    },
+    {
+     "letra": "C",
+     "texto": "esclerose múltipla, hepatite viral"
+    },
+    {
+     "letra": "D",
+     "texto": "microcefalia, violência doméstica"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000165200",
+   "codigo": "4000165200",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 85,
+   "temas": [
+    "Notif icação em Saúde do Trabalhador",
+    "Pneumoconiose devida à Poeira de Sílica Silicose"
+   ],
+   "enunciado": "Comunicação de Acidente de Trabalho CAT Um paciente de 45 anos, internado por insu ciência respiratória decorrente de silicose, evolui a óbito. Em sua história de vida e trabalho há uma informação de que ele havia trabalhado durante 15 anos em mineração e há 10 anos vinha fazendo bicos na construção civil. Assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O caso deve ser registrado no SINAN e na declaração de óbito como agravo relacionado ao trabalho."
+    },
+    {
+     "letra": "B",
+     "texto": "O caso não é de doença relacionada ao trabalho, pois nos últimos 10 anos o paciente vinha trabalhando em atividade sem relação com a silicose."
+    },
+    {
+     "letra": "C",
+     "texto": "É preciso investigar melhor sobre a origem do quadro do paciente para que se possa chegar a uma conclusão sobre a natureza ocupacional do óbito"
+    },
+    {
+     "letra": "D",
+     "texto": "A silicose pode ser caraterizada como relacionada ao trabalho se o vínculo empregatício com as empresas de mineração tiver sido formal."
+    },
+    {
+     "letra": "E",
+     "texto": "A silicose é uma doença relacionada ao trabalho, mas não é de notificação no Sistema Único de Saúde (SUS)."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000165199",
+   "codigo": "4000165199",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 86,
+   "temas": [
+    "Sistema de Inf ormação de Agravos de Notif icação SINAN"
+   ],
+   "enunciado": "Assinale a alternativa que apresenta zoonoses de notificação no Sistema Nacional de Agravos de Notificação (SINAN).",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Coqueluche e febre amarela."
+    },
+    {
+     "letra": "B",
+     "texto": "Dengue e rubéola."
+    },
+    {
+     "letra": "C",
+     "texto": "Leptospirose e sarampo."
+    },
+    {
+     "letra": "D",
+     "texto": "Cólera e esquistossomose."
+    },
+    {
+     "letra": "E",
+     "texto": "Febre amarela e raiva humana."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000165013",
+   "codigo": "4000165013",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 87,
+   "temas": [
+    "Conceitos f undamentais óbito f etal óbito inf antil e óbito na inf ância",
+    "Razão de Mortalidade Materna"
+   ],
+   "enunciado": "Declaração de óbito DO Atestado de óbito Mulher, 38 anos, com gravidez múltipla de 23 semanas, é admitida com eclampsia. Horas depois, ocorre o parto natural de dois conceptos. Ela evolui com edema agudo de pulmão, seguido de óbito. Não foi realizada necropsia. Na tabela abaixo, as características dos conceptos. Pode-se afirmar, no que diz respeito aos registros vitais e aos indicadores de saúde, que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a causa básica da morte da mulher é edema agudo de pulmão"
+    },
+    {
+     "letra": "B",
+     "texto": "a causa básica da morte do concepto masculino é eclampsia materna"
+    },
+    {
+     "letra": "C",
+     "texto": "os dois conceptos serão contabilizados nos denominadores do coeficiente de mortalidade fetal e da razão de mortalidade materna"
+    },
+    {
+     "letra": "D",
+     "texto": "o concepto masculino e o feminino serão classificados, respectivamente, como óbito fetal precoce e óbito fetal tardio"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000164851",
+   "codigo": "4000164851",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 88,
+   "temas": [
+    "Sistema de Inf ormação de Agravos de Notif icação SINAN"
+   ],
+   "enunciado": "A Noti cação Compulsória tem sido a principal fonte da vigilância epidemiológica, a partir da qual, na maioria das vezes, se desencadeia o processo informação – decisão – ação. Para a inclusão de doenças e agravos na lista de noti cação compulsória alguns critérios devem ser obedecidos. Considere as afirmativas a seguir e assinale a alternativa CORRETA: I - A Ocorrência de Epidemias, Surtos e Agravos inusitados à Saúde são situações emergenciais que se impõe a noti cação imediata de todos os casos suspeitos, com o objetivo de delimitar a área de ocorrência, elucidar o diagnóstico e de agrar medidas de controle aplicável. II - Vulnerabilidade que é medida pela disponibilidade concreta de instrumentos específicos de prevenção e de controle de doenças, propiciando a atuação efetiva dos serviços de saúde sobre os indivíduos e coletividade. III - Compromissos Internacionais incluem obrigações assumidas por força do Regulamento Sanitário Internacional, estabelecido individualmente por cada país envolvido no regulamento, no caso do Brasil, em particular, exige-se a notificação compulsória dos casos de febre amarela, cólera e peste. IV – O Potencial de disseminação é representado pelo elevado poder de transmissão da doença, por meio de vetores ou outras fontes de infecção, colocando sob risco a saúde coletiva.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Somente as afirmativas I, II e IV estão corretas."
+    },
+    {
+     "letra": "B",
+     "texto": "Somente as afirmativas I e III estão corretas."
+    },
+    {
+     "letra": "C",
+     "texto": "Somente as afirmativas II e IV estão corretas."
+    },
+    {
+     "letra": "D",
+     "texto": "Todas as afirmativas estão corretas."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000164727",
+   "codigo": "4000164727",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 89,
+   "temas": [
+    "Medicina Preventiva"
+   ],
+   "enunciado": "A noti cação de determinadas doenças e agravos à saúde é obrigação de pro ssionais e serviços de saúde. A informação advinda dessas noti cações compulsórias contribui com a vigilância epidemiológica e leva a um processo de informação- decisão-ação. Assinale a alternativa correta em relação ao assunto. Respostas: 1 12 23 34 45 56 67 78 89",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Jamais deve-se informar à vigilância epidemiológica os casos suspeitos, apenas os confirmados, de modo a não sobrecarregar o SU"
+    },
+    {
+     "letra": "B",
+     "texto": "Ao fazer a notificação de casos, o profissional de saúde sempre deve pedir a assinatura do médico para o envio dos dados."
+    },
+    {
+     "letra": "C",
+     "texto": "O Sistema de Informações Ambulatoriais (SIA) é o principal agregador dos dados de notificação compulsória."
+    },
+    {
+     "letra": "D",
+     "texto": "Fazem parte da lista fechada de doenças de notificação compulsória aquelas que corresponderam no ano anterior a, ao menos, 15% da carga de doenças da localidade."
+    },
+    {
+     "letra": "E",
+     "texto": "Existe no Brasil uma lista nacional de doenças e agravos de notificação compulsória, à qual Estados e Municípios podem adicionar outros eventos de interesse regional ou local."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": [
+  {
+   "id": "4000169744",
+   "codigo": "4000169744",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 56,
+   "temas": [
+    "Diálise de urgência",
+    "Complicações da LRA",
+    "Sepse"
+   ],
+   "enunciado": "Luiz Antonio, 32 anos, veio encaminhado do Pronto Atendimento da Zona Sul com história de mal-estar, náuseas, vômitos, diarreia e febre alta, fotofobia, com aparecimento recente de manchas por todo o corpo. Os antecedentes indicam que o paciente faz tratamento psiquiátrico com uso de lítio. Nega outras comorbidades. No exame físico, encontrava-se em regular estado geral, desidratado, FC 140 bpm, FR 26 ipm, PA 88/48 mmHg, temperatura axilar 38,5ºC. Presença de lesões purpúricas disseminadas. Você suspeitou de choque séptico e internou o Luiz na UTI, iniciando a reposição volêmica. a) Qual o principal exame para confirmar sua suspeita diagnóstica? b) Você indicou o início imediato de antibiótico beta-lactâmico após a coleta dos exames. Qual antibiótico você prescreveu? c) Na internação, a creatinina sérica era de 1,5 mg/dL e após 72 horas estava anúrico. Creatinina 4,6 mg/dL, Volume urinário de 100 mL nas últimas 12h. Classi que a lesão renal aguda pelo KDIGO – Kidney Diseases Improving Global Outcomes. Justifique. d) Por quanto tempo você recomendaria o isolamento do Luiz? e) Luiz Antonio evoluiu com necessidade de hemodiálise, coagulação intravascular disseminada, insu ciência respiratória e óbito no 6º dia de internação. Você preencheu a parte I da declaração de óbito da seguinte forma:",
+   "alternativas": [],
+   "gabarito": null,
+   "imagens": [
+    {
+     "arquivo": "imagens/q056-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": [],
+   "motivo_exclusao": "sem alternativas"
+  },
+  {
+   "id": "4000169250",
+   "codigo": "4000169250",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sistemas de Informação em Saúde",
+   "numero": 63,
+   "temas": [
+    "Declaração de óbito DO Atestado de óbito"
+   ],
+   "enunciado": "Paciente masculino, 65 anos, alcoólatra há mais de 30 anos. Segundo a acompanhante, toma em média três copos de pinga e cerveja quase que diariamente. Foi internado no hospital psiquiátrico quatro vezes, apresentando síndrome de abstinência. Em acompanhamento no ambulatório de hepatologia há oito anos, com diagnóstico de Cirrose Hepática e Diabetes. Deu entrada no hospital apresentando confusão mental, ictérico +++/4+, eritema palmar e telangiectasia, distensão abdominal por ascite, hepatoesplenomegalia e ginecomastia. Ao terceiro dia de internação, apresentou episódios de hematêmese, choque hipovolêmico, parada cardiorrespiratória, vindo a falecer. Como deve ser preenchido a Declaração de Óbito?",
+   "alternativas": [],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q063-1.jpg",
+     "antes_das_alternativas": true
+    },
+    {
+     "arquivo": "imagens/q063-2.jpg",
+     "antes_das_alternativas": false
+    },
+    {
+     "arquivo": "imagens/q063-3.jpg",
+     "antes_das_alternativas": false
+    },
+    {
+     "arquivo": "imagens/q063-4.jpg",
+     "antes_das_alternativas": false
+    }
+   ],
+   "revisar": [],
+   "motivo_exclusao": "sem alternativas"
+  }
+ ]
+}

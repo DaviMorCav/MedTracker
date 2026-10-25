@@ -5,6 +5,7 @@ import type {
   UserSettings,
   ApostilaProgress,
   QuestionLog,
+  QuestionAttempt,
   LessonReview,
 } from './schema';
 import { createInitialReview } from '../core/srs';
@@ -255,3 +256,12 @@ export async function deleteQuestionLog(id: number): Promise<void> {
   await db.questionLogs.delete(id);
 }
 
+
+/**
+ * Registra a resposta a uma questão do banco.
+ */
+export async function addQuestionAttempt(
+  attempt: Omit<QuestionAttempt, 'id'>
+): Promise<number> {
+  return (await db.questionAttempts.add(attempt as QuestionAttempt)) as number;
+}

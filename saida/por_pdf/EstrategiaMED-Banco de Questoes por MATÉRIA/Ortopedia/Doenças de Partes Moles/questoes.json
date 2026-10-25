@@ -1,0 +1,306 @@
+{
+ "questoes": [
+  {
+   "id": "4000125566",
+   "codigo": "4000125566",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças de Partes Moles",
+   "numero": 1,
+   "temas": [
+    "Diagnóstico"
+   ],
+   "enunciado": "Paciente 65 anos, feminina, obesa, com quadro de dor crônica em quadril D e região lateral da coxa D. Apresentava di culdade de marcha, subir escadas e dor, ao deitar-se sobre o lado acometido. Ao realizar exame físico, foi evidenciado dor à palpação de região lateral de quadril D, teste de Patrick, Lasegue e Trendeleburg negativos. Das alternativas abaixo, qual o diagnóstico mais adequado para essa paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Lombociatalgia."
+    },
+    {
+     "letra": "B",
+     "texto": "Bursite Trocantérica."
+    },
+    {
+     "letra": "C",
+     "texto": "Lombalgia mecânica comum."
+    },
+    {
+     "letra": "D",
+     "texto": "Lombalgia inflamatória."
+    },
+    {
+     "letra": "E",
+     "texto": "Tendinopatia de glúteo médio."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000017740",
+   "codigo": "4000017740",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças de Partes Moles",
+   "numero": 2,
+   "temas": [
+    "Cistos"
+   ],
+   "enunciado": "Uma mulher de 54 anos de idade, com diagnóstico de artrite reumatoide (AR), apresenta um cisto sinovial poplíteo (cisto de Baker) no joelho direito. Considerando essa manifestação articular da AR, julgue o item a seguir. Esse cisto pode dissecar e expandir- se para os tecidos da panturrilha ou sofrer ruptura com extravasamento para essa mesma região da perna.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000054387",
+   "codigo": "4000054387",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças de Partes Moles",
+   "numero": 3,
+   "temas": [
+    "Tenossinovites"
+   ],
+   "enunciado": "Homem obeso, com 45 anos de idade, chega à clínica várias semanas após dar início a um programa de corrida. Ele descreve dor no lado direito do calcanhar, que está pior desta vez. A dor é mais forte pela manhã e quando o paciente está descalço. No exame, há dor na palpação da parte inferomedial do calcanhar direito. O que é necessário para obter o diagnóstico definitivo de fascite plantar?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "História compatível e teste provocativo;"
+    },
+    {
+     "letra": "B",
+     "texto": "Apenas história e exame físico;"
+    },
+    {
+     "letra": "C",
+     "texto": "História, exame físico e cintilografia óssea;"
+    },
+    {
+     "letra": "D",
+     "texto": "História, exame físico e ultrassonografia do calcanhar mostrando espessamento da fáscia;"
+    },
+    {
+     "letra": "E",
+     "texto": "História, exame físico e radiografia mostrando esporão calcâneo;"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000076531",
+   "codigo": "4000076531",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças de Partes Moles",
+   "numero": 4,
+   "temas": [
+    "Cistos"
+   ],
+   "enunciado": "Criança apresentando tumoração em região posterior do joelho direito percebida há um mês, sem dor ao manuseio ou desconforto na movimentação. Exame físico: massa rme na fossa poplítea, em posição medial, mais proeminente durante a extensão do joelho em decúbito ventral. Radiogra a do joelho normal e ultrassonogra a mostrando lesão cística. A condução mais adequada é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "retirar cirurgicamente, uma vez que a evolução deve ser prolongada."
+    },
+    {
+     "letra": "B",
+     "texto": "realizar aspiração já que não resolve naturalmente."
+    },
+    {
+     "letra": "C",
+     "texto": "aguardar, mesmo diante de evolução prolongada."
+    },
+    {
+     "letra": "D",
+     "texto": "aguardar por um mês, se não resolver, realizar cirurgia."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000098556",
+   "codigo": "4000098556",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças de Partes Moles",
+   "numero": 5,
+   "temas": [
+    "Tenossinovites"
+   ],
+   "enunciado": "Mulher, 45a, obesa, refere dor no pé há 4 meses com piora progressiva. No momento apresenta di culdade para caminhar, principalmente no período da manhã quando acorda. Parou de fazer caminhadas devido à dor. Exame físico: dor à palpação da face medial do calcanhar. O DIAGNÓSTICO E A CONDUTA SÃO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Fascite plantar e analgesia."
+    },
+    {
+     "letra": "B",
+     "texto": "Entorse do pé e radiograma."
+    },
+    {
+     "letra": "C",
+     "texto": "Artrite e anti-inflamatórios."
+    },
+    {
+     "letra": "D",
+     "texto": "Artrose e analgesia."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000058239",
+   "codigo": "4000058239",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças de Partes Moles",
+   "numero": 6,
+   "temas": [
+    "Cistos"
+   ],
+   "enunciado": "Menina de seis anos é levada ao ambulatório porque sua mãe percebeu a presença de um \"tumor\" na região posterior da perna, na altura do joelho. Exame físico: massa de consistência cística em fossa poplítea. Não há qualquer outra queixa clínica. Neste caso, deve-se:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Indicar excisão cirúrgica"
+    },
+    {
+     "letra": "B",
+     "texto": "Prescrever anti-inflamatórios"
+    },
+    {
+     "letra": "C",
+     "texto": "Solicitar radiografia de joelho"
+    },
+    {
+     "letra": "D",
+     "texto": "Solicitar ultrassonografia da massa"
+    },
+    {
+     "letra": "E",
+     "texto": "Indicar imobilização com tala gessada"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000074659",
+   "codigo": "4000074659",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças de Partes Moles",
+   "numero": 7,
+   "temas": [
+    "Diagnóstico"
+   ],
+   "enunciado": "Um carteiro de 60 anos foi atendido com dor em torno do quadril esquerdo, que di cultava a deambulação e o fazia faltar ao trabalho há vários dias. No exame osteoarticular, o médico observou piora importante da dor à abdução da coxa. Tal manifestação indica, como mais provável, a hipótese de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "sacroilite"
+    },
+    {
+     "letra": "B",
+     "texto": "bursite trocanteriana"
+    },
+    {
+     "letra": "C",
+     "texto": "meralgia parestésica"
+    },
+    {
+     "letra": "D",
+     "texto": "osteoartrite do quadril"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000015151",
+   "codigo": "4000015151",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças de Partes Moles",
+   "numero": 8,
+   "temas": [
+    "Epidemiologia e f isiopatologia"
+   ],
+   "enunciado": "Um homem com 60 anos de idade vai ao posto de saúde queixando-se de dores no ombro. Após o exame clínico, o médico suspeita que possa tratar-se de uma bursite no ombro. Qual das opções é a que se associa de forma mais frequente à bursite no ombro?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Bolsa subdeltoidea"
+    },
+    {
+     "letra": "B",
+     "texto": "Cápsula da articulação glenoumeral"
+    },
+    {
+     "letra": "C",
+     "texto": "Bolsa do músculo gastrocnêmio"
+    },
+    {
+     "letra": "D",
+     "texto": "Cápsula da articulação acromioclavicular"
+    },
+    {
+     "letra": "E",
+     "texto": "Bolsa subacromial"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000101268",
+   "codigo": "4000101268",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças de Partes Moles",
+   "numero": 9,
+   "temas": [
+    "Bursites",
+    "Tenossinovites"
+   ],
+   "enunciado": "Em relação aos reumatismos de partes moles, assinale a alternativa INCORRETA. Respostas: 1",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A manobra de Finkelstein é utilizada no diagnóstico da tenossinovite de De Quervain"
+    },
+    {
+     "letra": "B",
+     "texto": "A fasciite plantar é causada mais comumente por um esporão calcâneo"
+    },
+    {
+     "letra": "C",
+     "texto": "As duas bursistes mais comuns do quadril são a trocanteriana e a iliopsoas"
+    },
+    {
+     "letra": "D",
+     "texto": "A epicondilite lateral é também chamada de “cotovelo do tenista”, enquanto que a medial denomina-se “cotovelo do golfista ”"
+    },
+    {
+     "letra": "E",
+     "texto": "As condições desse tipo que mais afetam os ombros são a bursite subacromial, a síndrome do manguito rotador e a tendinite da cabeça curta do bíceps"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": []
+}

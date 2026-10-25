@@ -1,0 +1,671 @@
+{
+ "questoes": [
+  {
+   "id": "4000035722",
+   "codigo": "4000035722",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fisiologia da Hipófise e Hipopituitarismo",
+   "numero": 1,
+   "temas": [
+    "46XY hipogonadismo hipogonadotróf ico",
+    "Apresentação clínica"
+   ],
+   "enunciado": "No Hipogonadismo Hipogonadotrófico é esperado encontrar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Produção excessiva de esteróides sexuais e atraso puberal."
+    },
+    {
+     "letra": "B",
+     "texto": "Produção insuficiente de gonadotrofinas levando a uma precocidade puberal."
+    },
+    {
+     "letra": "C",
+     "texto": "Produção insuficiente de gonadotrofinas e atraso puberal."
+    },
+    {
+     "letra": "D",
+     "texto": "Produção excessiva de esteróides sexuais e de gonadotrofinas levando a uma precocidade puberal."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120372",
+   "codigo": "4000120372",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fisiologia da Hipófise e Hipopituitarismo",
+   "numero": 2,
+   "temas": [
+    "Etiologia",
+    "Hipertireoidismo secundário",
+    "Hipopituitarismo"
+   ],
+   "enunciado": "Considere dois pacientes. O primeiro tem TSH de 6,8 mUI/L (VR = 0,5 – 5,0 mUI/L) e T4L de 2,4 (VR = 0,90 – 1,80 ng/ml); o segundo apresenta TSH de 2,50 mUI/L e T4L de 0,35 ng/dl. Estes pacientes apresentam respectivamente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipertireoidismo primário e hipotiroidismo central."
+    },
+    {
+     "letra": "B",
+     "texto": "Hipertireoidismo primário e hipotiroidismo primário."
+    },
+    {
+     "letra": "C",
+     "texto": "Hipertireoidismo central e hipotireoidismo primário."
+    },
+    {
+     "letra": "D",
+     "texto": "Hipertireoidismo central e hipotireoidismo central."
+    },
+    {
+     "letra": "E",
+     "texto": "Hipertireoidismo central e hipotiroidismo de causa indefinida."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000104575",
+   "codigo": "4000104575",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fisiologia da Hipófise e Hipopituitarismo",
+   "numero": 3,
+   "temas": [
+    "Hiperprolactinemia",
+    "Hiperprolactinemia"
+   ],
+   "enunciado": "Quando ocorre elevação da prolactina sérica também ocorre:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Aumento da progesterona."
+    },
+    {
+     "letra": "B",
+     "texto": "Diminuição das gonadotropinas."
+    },
+    {
+     "letra": "C",
+     "texto": "Aumento do estradiol."
+    },
+    {
+     "letra": "D",
+     "texto": "Hiperestimulação ovariana podendo resultar em gestação gemelar."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000071574",
+   "codigo": "4000071574",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fisiologia da Hipófise e Hipopituitarismo",
+   "numero": 4,
+   "temas": [
+    "Diagnóstico"
+   ],
+   "enunciado": "Paciente do sexo feminino, 21 anos de idade, vem para consulta de acompanhamento por pan-hipopituitarismo após ressecção de craniofaringeoma na infância. Exames de rotina revelaram baixo nível de TSH. Qual a conduta apropriada nesse caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Reduzir a dose de levotiroxina."
+    },
+    {
+     "letra": "B",
+     "texto": "Aumentar a dose de levotiroxina."
+    },
+    {
+     "letra": "C",
+     "texto": "Solicitar dosagem de T4 livre."
+    },
+    {
+     "letra": "D",
+     "texto": "Solicitar ressonância nuclear magnética cerebral."
+    },
+    {
+     "letra": "E",
+     "texto": "Solicitar dosagem de tireoglobulina e anti-peroxidase."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000071563",
+   "codigo": "4000071563",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fisiologia da Hipófise e Hipopituitarismo",
+   "numero": 5,
+   "temas": [
+    "Apresentação clínica"
+   ],
+   "enunciado": "Um homem de 60 anos, vítima de traumatismo cranioencefálico grave há alguns meses, apresenta-se com insu ciência hipofisária. Qual dos fatores abaixo NÃO está associado à deficiência de hormônio do crescimento nesse caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Dislipidemia."
+    },
+    {
+     "letra": "B",
+     "texto": "Aterosclerose."
+    },
+    {
+     "letra": "C",
+     "texto": "Aumento da densidade mineral óssea."
+    },
+    {
+     "letra": "D",
+     "texto": "Aumento da relação cintura-quadril."
+    },
+    {
+     "letra": "E",
+     "texto": "Disfunção ventricular esquerda."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000126247",
+   "codigo": "4000126247",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fisiologia da Hipófise e Hipopituitarismo",
+   "numero": 6,
+   "temas": [
+    "Eixo hipotálamohipof isário"
+   ],
+   "enunciado": "O hormônio antidiurético (ADH) é sintetizado na(o):",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Suprarrenal (porção glomerulosa)."
+    },
+    {
+     "letra": "B",
+     "texto": "Suprarrenal (porção fascicular)."
+    },
+    {
+     "letra": "C",
+     "texto": "Parênquima renal."
+    },
+    {
+     "letra": "D",
+     "texto": "Hipotálamo."
+    },
+    {
+     "letra": "E",
+     "texto": "Neuro-hipófise."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000117121",
+   "codigo": "4000117121",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fisiologia da Hipófise e Hipopituitarismo",
+   "numero": 7,
+   "temas": [
+    "Eixo hipotálamohipof isário"
+   ],
+   "enunciado": "Abaixo, todos são produtos secretórios do hipotálamo, EXCETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "TSH (hormônio estimulante da tireóide)."
+    },
+    {
+     "letra": "B",
+     "texto": "GnRH (fator liberador da gonadotrofina)."
+    },
+    {
+     "letra": "C",
+     "texto": "TRH (hormônio liberador de tirotrofina)."
+    },
+    {
+     "letra": "D",
+     "texto": "GHRH (hormônio liberador do hormônio do crescimento)."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000102980",
+   "codigo": "4000102980",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fisiologia da Hipófise e Hipopituitarismo",
+   "numero": 8,
+   "temas": [
+    "Diagnóstico e investigação adicional",
+    "Diagnóstico",
+    "Síndrome de Sheehan"
+   ],
+   "enunciado": "Mulher, 35 anos, refere tonturas, náuseas, vômitos e dor abdominal há 1 mês, que pioraram há 1 semana. Há 8 anos apresenta apatia, fraqueza, sonolência diurna e depressão. Nega outras queixas. Antecedentes: G3P2A1, em amenorreia desde o último parto há 8 anos quando apresentou hemorragia vaginal com necessidade de transfusão sanguínea. Não amamentou lho. Exame físico: fala lenta e rouca, pele ressecada, edema de face e MMII, ausência de pelos pubianos e axilares, tireoide normopalpável, FC = 56 bpm; PA = 80 X 55 mmHg. Sem outras alterações. Exames laboratoriais: Hb = 9,6 g/dL; GB=7.400/mm³; Plaquetas =150.000/mm³; glicemia: 63 mg/dL; creatinina: 0,9 mg/dL; sódio: 134 mEq/L; potássio: 5,6 mEq/L. Quais alterações hormonais são compatíveis com a hipótese diagnóstica mais provável?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "TSH = 1,3 mUI/L (VR: 0,4 - 4,5) e T4 livre = 0,5 ng/dL (VR: 0,9 - 1,8)."
+    },
+    {
+     "letra": "B",
+     "texto": "FSH = 0,1 UI/L (VR: 15 - 30) e Prolactina = 87 ng/ml (VR: <25)."
+    },
+    {
+     "letra": "C",
+     "texto": "ACTH = 56 pg/ml (VR = 10 - 40) e cortisol = 4,2 µg/dl (VR: 5 - 20)."
+    },
+    {
+     "letra": "D",
+     "texto": "LH = 37 UI/L (VR: 1,3 - 13) e estradiol <20 pg/ml (VR: <160)."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000099978",
+   "codigo": "4000099978",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fisiologia da Hipófise e Hipopituitarismo",
+   "numero": 9,
+   "temas": [
+    "Síndrome de Sheehan",
+    "Apresentação clínica",
+    "Etiologia"
+   ],
+   "enunciado": "Mulher de 35 anos apresenta, dois meses após o parto, alteração de campo visual, insu ciência adrenal secundária, T4 livre baixo com TSH normal, associado à suspensão de lactação. Sobre o quadro relatado, é correto afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "As alterações que apresenta devem ter sido causadas por hemorragia periparto."
+    },
+    {
+     "letra": "B",
+     "texto": "Cirurgia de descompressão hipofisária corrige as deficiências endócrinas."
+    },
+    {
+     "letra": "C",
+     "texto": "À RNM, pode apresentar aumento homogêneo da hipófise e grande reforço pelogadolíneo."
+    },
+    {
+     "letra": "D",
+     "texto": "Presume-se que certamente tenha também deficiências de GH e gonadotrofinas,geralmente mais tardias que as de ACTH e TSH."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000019904",
+   "codigo": "4000019904",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fisiologia da Hipófise e Hipopituitarismo",
+   "numero": 10,
+   "temas": [
+    "Puberdade Precoce",
+    "Endocrinologia",
+    "Diabetes insípidus"
+   ],
+   "enunciado": "Marque a afirmativa correta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Na acromegalia existe deficiência do hormônio GH."
+    },
+    {
+     "letra": "B",
+     "texto": "No Diabetes Insipido existe secreção aumentada do hormônio antidiurético (ADH)."
+    },
+    {
+     "letra": "C",
+     "texto": "Puberdade precoce é definida como surgimento dos caracteres sexuais secundários em idade inferior a 12 anos."
+    },
+    {
+     "letra": "D",
+     "texto": "No hipopituitarismo com deficiência de gonadotrofinas pode levar a oligomenorreia e infertilidade."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000058571",
+   "codigo": "4000058571",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fisiologia da Hipófise e Hipopituitarismo",
+   "numero": 11,
+   "temas": [
+    "Apresentação clínica",
+    "Etiologia"
+   ],
+   "enunciado": "O Hipopituitarismo resulta da menor produção de um ou mais hormônios tró cos da hipó se anterior, como consequência de distúrbios hereditários ou adquiridos. Quanto à sua apresentação clínica, assinale a afirmativa correta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A falência dos hormônios tróficos associada à compressão ou destruição da hipófise ocorre habitualmente na forma sequencial GH>FSH>LH>TSH>ACTH."
+    },
+    {
+     "letra": "B",
+     "texto": "Durante a infância, a característica de apresentação é o hipogonadismo e nos adultos, a hipoglicemia grave é o sintoma mais precoce."
+    },
+    {
+     "letra": "C",
+     "texto": "A apoplexia hipofisária é uma emergência endócrina que pode resultar em poliúria e polidipsia que refletem a ausência de secreção de vasopressina."
+    },
+    {
+     "letra": "D",
+     "texto": "Quando as lesões acometem a hipófise posterior , ocorre hipotensão, hemorragia do sistema nervoso central e morte."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000041988",
+   "codigo": "4000041988",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fisiologia da Hipófise e Hipopituitarismo",
+   "numero": 12,
+   "temas": [
+    "Etiologia"
+   ],
+   "enunciado": "Julgue o item a seguir, relativo à deficiência de crescimento do corpo. Diversos genes responsáveis por codi car fatores de transcrição estão implicados na etiologia da de ciência combinada dos hormônios hipofisários (pan-hipopituitarismo), sendo o gene PROP-1 o mais frequentemente envolvido.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000052600",
+   "codigo": "4000052600",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fisiologia da Hipófise e Hipopituitarismo",
+   "numero": 13,
+   "temas": [
+    "Diagnóstico",
+    "Apresentação clínica",
+    "Etiologia"
+   ],
+   "enunciado": "Paciente de 42 anos, masculino, procura atendimento eletivo, acompanhado pela esposa, após ter realizado consulta com urologista para investigação de disfunção erétil. Ao exame físico você observa galactorreia bilateral, palidez facial e sinais de envelhecimento precoce e realiza pesquisa de perda de campo visual por confrontação que não identi ca alterações. Paciente trouxe exames laboratoriais solicitados pelo médico com testosterona total de 180 ng/dl, prolactina de 48 ng/ml e ressonância nuclear magnética de hipó se com achado de tumor em região de hipó se à esquerda medindo 20 mm no maior diâmetro, com desvio de haste hipo sária para a direita estando localizado a 3 mm do quiasma óptico. (Prolactina: 5- 20 ng/dl, Testosterona: 280- 1500 ng/dl). O próximo passo da abordagem nesta consulta deve ser:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Orientar o paciente da benignidade do quadro devido ao diagnóstico de incidentaloma de hipófise e de disfunção erétil de causa psicogênica."
+    },
+    {
+     "letra": "B",
+     "texto": "Informar ao paciente que, no exame físico, a presença de galactorreia bilateral é um achado comum nos casos de hiperprolactinemia em homens."
+    },
+    {
+     "letra": "C",
+     "texto": "Informar que os sinais de palidez facial e envelhecimento precoce são devido ao hipogonadismo secundário a um tumor de localização hiposifária."
+    },
+    {
+     "letra": "D",
+     "texto": "Solicitar campimetria visual computadorizada, uma vez que a pesquisa de perda de campo visual por confrontação é um método clínico de pouca utilidade."
+    },
+    {
+     "letra": "E",
+     "texto": "Indicar cirurgia transesfenoidal devido se tratar de tumor não funcionante, pois uma prolactina de 48 ng/ml afasta o diagnóstico de macroprolactinoma."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000014005",
+   "codigo": "4000014005",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fisiologia da Hipófise e Hipopituitarismo",
+   "numero": 14,
+   "temas": [
+    "Síndrome de Sheehan",
+    "Apresentação clínica",
+    "Etiologia"
+   ],
+   "enunciado": "S.Q.S, sexo feminino, 30 anos, apresentou quadro de amenorreia, atro a dos órgãos genitais externos, queda de pelos, astenia e fenômenos distró cos cutâneos, após parto vaginal do seu último lho há 2 anos. O mesmo foi complicado por atonia uterina com hemorragia volumosa, necessitando histerectomia puerperal. Diante desta sintomatologia, estamos frente a:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Síndrome de Kallmann."
+    },
+    {
+     "letra": "B",
+     "texto": "Síndrome de Sheehan."
+    },
+    {
+     "letra": "C",
+     "texto": "Hipotireoidismo."
+    },
+    {
+     "letra": "D",
+     "texto": "Anovulação crônica."
+    },
+    {
+     "letra": "E",
+     "texto": "Hiperprolactinemia."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000014353",
+   "codigo": "4000014353",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fisiologia da Hipófise e Hipopituitarismo",
+   "numero": 15,
+   "temas": [
+    "Hipocortisolismo",
+    "Diagnóstico",
+    "Apresentação clínica"
+   ],
+   "enunciado": "Mulher de 38 anos comparece para consulta com quadro de redução da libido, atro a mamária, ganho de peso, fala arrastada e astenia intensa. Exame físico: mamas atró cas, anasarca (+/4+) e redução da pili cação genital. Uma avaliação laboratorial mostra T4 livre baixo; TSH no limite inferior; cortisol basal = 05 mcg/dl após estimulação com ACTH (valor de referência > 18 mcg/dl); testosterona baixa e FSH e LH nos limites inferiores. Qual o exame mais provavelmente revelará a causa da sua doença?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tomografia de abdome."
+    },
+    {
+     "letra": "B",
+     "texto": "Cintilografia de tireoide."
+    },
+    {
+     "letra": "C",
+     "texto": "Teste combinado da pituitária anterior."
+    },
+    {
+     "letra": "D",
+     "texto": "Ressonância nuclear magnética de encéfalo."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000044690",
+   "codigo": "4000044690",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fisiologia da Hipófise e Hipopituitarismo",
+   "numero": 16,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Paciente com história de tumor hipo sário há 1 ano em reposição de levotiroxina diária e testosterona injetável mensal. Do ponto de vista laboratorial, quais exames são necessários para o seguimento destas 2 reposições hormonais, respectivamente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "TSH e LH."
+    },
+    {
+     "letra": "B",
+     "texto": "TSH e testosterona sérica."
+    },
+    {
+     "letra": "C",
+     "texto": "T4 livre e testosterona sérica."
+    },
+    {
+     "letra": "D",
+     "texto": "T4 livre e sulfato de DHEA."
+    },
+    {
+     "letra": "E",
+     "texto": "T3 reverso e di-hidrotestosterona."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000038241",
+   "codigo": "4000038241",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fisiologia da Hipófise e Hipopituitarismo",
+   "numero": 17,
+   "temas": [
+    "Diagnóstico",
+    "Síndrome de Sheehan",
+    "Apresentação clínica"
+   ],
+   "enunciado": "Paciente feminina, de 45 anos, encaminhada por adinamia, lenti cação psicomotora e sintomas depressivos. Os sintomas tornaram-se mais intensos há uma semana, quando iniciou sintomas compatíveis com infecção de trato respiratório. Ao exame físico: PA 90/60 mmHg, palidez cutânea intensa e rarefação de pelos pubianos. Segundo familiares, a paciente apresentou complicação obstétrica hemorrágica em seu último parto, há 8 anos. Não conseguiu amamentar o lho e apresenta amenorreia desde então. Exames laboratoriais: TSH = 8,0 (0,3-5 mUl/mL), T4L = 0.3 ng/dL (0,7-1,8 ng/dL) e glicemia = 45 mg/dL. Trata-se, provavelmente, de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Insuficiência adrenal secundária a tuberculose."
+    },
+    {
+     "letra": "B",
+     "texto": "Hipotireoidismo autoimune."
+    },
+    {
+     "letra": "C",
+     "texto": "Necrose hipofisária pós-parto."
+    },
+    {
+     "letra": "D",
+     "texto": "Adrenalite autoimune."
+    },
+    {
+     "letra": "E",
+     "texto": "Hipotireoidismo e insuficiência adrenal autoimune."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000118809",
+   "codigo": "4000118809",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fisiologia da Hipófise e Hipopituitarismo",
+   "numero": 18,
+   "temas": [
+    "Diagnóstico e investigação adicional",
+    "Apresentação clínica"
+   ],
+   "enunciado": "Mulher de 35 anos está em investigação para astenia crônica. Na avaliação laboratorial, encontra-se TSH < 0,01 mcU/L e T4 livre < 0,1 ng/mL. Dentre os abaixo, o próximo exame a ser solicitado deve ser:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "cintilografia tireoideana."
+    },
+    {
+     "letra": "B",
+     "texto": "anticorpo antirreceptor de tireotrofina (TRab)."
+    },
+    {
+     "letra": "C",
+     "texto": "anticorpo antitireoperoxidase."
+    },
+    {
+     "letra": "D",
+     "texto": "ultrassonografia de tireoide."
+    },
+    {
+     "letra": "E",
+     "texto": "ressonância magnética de sela turca."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000070920",
+   "codigo": "4000070920",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fisiologia da Hipófise e Hipopituitarismo",
+   "numero": 19,
+   "temas": [
+    "Diagnóstico",
+    "Apresentação clínica",
+    "Etiologia"
+   ],
+   "enunciado": "A maioria dos portadores da síndrome da sela vazia apresenta níveis: Respostas: 1 12",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "baixos de ADH e de prolactina"
+    },
+    {
+     "letra": "B",
+     "texto": "normais de ADH e de prolactina"
+    },
+    {
+     "letra": "C",
+     "texto": "baixos de ADH e normais de prolactina"
+    },
+    {
+     "letra": "D",
+     "texto": "normais de ADH e baixos de prolactina"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": []
+}

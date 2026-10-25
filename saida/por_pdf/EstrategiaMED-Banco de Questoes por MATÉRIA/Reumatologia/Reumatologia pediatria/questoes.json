@@ -1,0 +1,809 @@
+{
+ "questoes": [
+  {
+   "id": "4000120148",
+   "codigo": "4000120148",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Reumatologia pediatria",
+   "numero": 1,
+   "temas": [
+    "Lúpus Eritematoso Sistêmico Pediátrico"
+   ],
+   "enunciado": "Menina de 8 anos de idade foi internada para investigação de febre não aferida há 3 meses. Mãe refere que criança apresentou febre alguns dias sim e outros não. Neste período, iniciou edema das mãos e pés e manchas na região das coxas bilateralmente e na face (rush malar). Fez uso de “antialérgico” e prednisolona por dois dias com alguma melhora, mas as manchas e edema retornaram após término da medicação. Refere ainda aparecimento de aftas dolorosas orais, que se intensi caram há 3 dias. Paciente apresenta bom estado geral, sem alterações cardiopulmonares significativas, fígado a 2,5 cm do rebordo costal, rush cutâneo em face, principalmente região malar, e em membros inferiores. Os exames mostram anemia leve, leucopenia com linfopenia discreta, sem plaquetopenia. Fator antinuclear positivo, anticorpo anti-DNA positivo, anticorpo anticardiolipina posi- tivo, VDRL positivo. Complementos CD3, CD4 e CH50 baixos. O melhor tratamento para esse caso, dentre os abaixo, é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Prednisolona e hidroxicloroquina."
+    },
+    {
+     "letra": "B",
+     "texto": "Prednisolona e anti-histamínico."
+    },
+    {
+     "letra": "C",
+     "texto": "Anti-histamínico e rituximabe."
+    },
+    {
+     "letra": "D",
+     "texto": "Prednisolona e anti-histamínico."
+    },
+    {
+     "letra": "E",
+     "texto": "Anti-histamínico e aciclovir."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000079641",
+   "codigo": "4000079641",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Reumatologia pediatria",
+   "numero": 2,
+   "temas": [
+    "Miopatias autoimunes sistêmicas juvenis",
+    "Doenças da inf ânica"
+   ],
+   "enunciado": "Das alternativas abaixo, qual apresenta critérios para diagnóstico de dermatopolimiosite juvenil?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Fraqueza muscular distal, rash malar."
+    },
+    {
+     "letra": "B",
+     "texto": "Calcinose, vasculite abdominal."
+    },
+    {
+     "letra": "C",
+     "texto": "Aumento de enzimas (CPK/ TGO/ DHL, sinal de Gottron."
+    },
+    {
+     "letra": "D",
+     "texto": "Miocardite, heliótropo."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000079629",
+   "codigo": "4000079629",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Reumatologia pediatria",
+   "numero": 3,
+   "temas": [
+    "Etiologia",
+    "Quadro clínico",
+    "Epidemiologia"
+   ],
+   "enunciado": "Assinale a alternativa correta em relação ao Lúpus Eritematoso Sistêmico Juvenil (LESJ):",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Não tem predileção de sexo."
+    },
+    {
+     "letra": "B",
+     "texto": "As verrugas persistentes se manifestam raramente nessa doença."
+    },
+    {
+     "letra": "C",
+     "texto": "As manifestações neurológicas são de fácil reconhecimento no LESJ."
+    },
+    {
+     "letra": "D",
+     "texto": "Os antimaláricos podem ser utilizados para o tratamento das lesões cutâneas do LESJ."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000013920",
+   "codigo": "4000013920",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Reumatologia pediatria",
+   "numero": 4,
+   "temas": [
+    "Síndromes autoinf lamatórias",
+    "Síndrome de f ebre periódica com estomatite af tosa f aringite e edenite"
+   ],
+   "enunciado": "Quadro clínico PFAPA (febres periódicas com estomatite aftosa, faringite e adenite) é uma síndrome de febre periódica que se manifesta tipicamente entre os 2 e os 5 anos. Em relação a PFAPA, é INCORRETO afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A PFAPA é caracterizada por febre de duração em torno de 3 a 6 dias."
+    },
+    {
+     "letra": "B",
+     "texto": "A PFAPA tende a ser mais comum entre os meninos."
+    },
+    {
+     "letra": "C",
+     "texto": "Os episódios recorrem a cada 56 dias em média."
+    },
+    {
+     "letra": "D",
+     "texto": "O diagnóstico da síndrome FPAPA baseia-se em achados clínicos."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000115348",
+   "codigo": "4000115348",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Reumatologia pediatria",
+   "numero": 5,
+   "temas": [
+    "Diagnóstico",
+    "Lúpus Eritematoso Sistêmico Pediátrico"
+   ],
+   "enunciado": "Adolescente, 14 anos, sexo feminino procura o ambulatório com queixa de anorexia, cansaço e dor leve no corpo, principalmente nos pulsos e tornozelos. A menarca foi aos 12 anos. Refere que tem ciclos irregulares e sangramento abundante. Toma sulfato ferroso para tratamento de anemia há 2 meses. Queixa-se de “alergia” ao sol. Ao exame físico, evidenciam-se úlceras na cavidade oral e eritema malar. Apresenta hemograma com anemia, leucopenia, reticulocitose e trombocitopenia. Qual o provável diagnóstico?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Síndrome de Reiter"
+    },
+    {
+     "letra": "B",
+     "texto": "Febre reumática"
+    },
+    {
+     "letra": "C",
+     "texto": "Artrite idiopática juveni"
+    },
+    {
+     "letra": "D",
+     "texto": "Artrite reumatoide juvenil"
+    },
+    {
+     "letra": "E",
+     "texto": "Lúpus eritematoso sistêmico"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000109248",
+   "codigo": "4000109248",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Reumatologia pediatria",
+   "numero": 6,
+   "temas": [
+    "Lúpus Eritematoso Sistêmico Pediátrico"
+   ],
+   "enunciado": "Assinale a alternativa INCORRETA em relação ao Lúpus Eritematoso Sistêmico Juvenil (LESJ):",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O seguimento das crianças e adolescentes com LESJ deve ser rigorosamente realizado com pediatra e reumatologista pediátrico."
+    },
+    {
+     "letra": "B",
+     "texto": "A hipertensão arterial sistêmica persistente tem sido associada com pior prognóstico e deve ser prontamente tratada."
+    },
+    {
+     "letra": "C",
+     "texto": "O pronto diagnóstico e o tratamento das infecções são essenciais para os pacientes com LESJ."
+    },
+    {
+     "letra": "D",
+     "texto": "As vacinas antipneumocócica e contra HPV são contraindicadas."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000085106",
+   "codigo": "4000085106",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Reumatologia pediatria",
+   "numero": 7,
+   "temas": [
+    "Miopatias autoimunes sistêmicas juvenis",
+    "Diagnóstico"
+   ],
+   "enunciado": "Paciente de 6 anos foi trazido à consulta por vir apresentando cansaço, febre, disfagia, dores articulares nos membros superiores e erupções avermelhadas difusas pelo corpo, quando iniciado há 10 dias. Ao exame físico, observaram-se edema periorbital, descoloração violácea nas pálpebras e eritema na ponte nasal, sem outras lesões na face. Junto às articulações interfalangianas proximais, há lesões eczematosas, hipertróficas e avermelhadas e telangiectasias periungueais. Considerando esses achados, qual o diagnóstico mais provável?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Espondiloartrite anquilosante"
+    },
+    {
+     "letra": "B",
+     "texto": "Dermatomiosite juvenil"
+    },
+    {
+     "letra": "C",
+     "texto": "Sarcoidose"
+    },
+    {
+     "letra": "D",
+     "texto": "Lúpus eritematoso sistêmico"
+    },
+    {
+     "letra": "E",
+     "texto": "Distrofia muscular de Duchenne"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000083821",
+   "codigo": "4000083821",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Reumatologia pediatria",
+   "numero": 8,
+   "temas": [
+    "Diagnóstico",
+    "Lúpus Eritematoso Sistêmico Pediátrico"
+   ],
+   "enunciado": "Adolescente é trazido à consulta por mudança de comportamento, conversando muito pouco, com ideias persecutórias, alucinações visuais e queixando-se de cefaleia. Vinha há dois meses com investigação de febre intermitente, fadiga, artralgias em membros inferiores, hepatomegalia e perda de peso. O diagnóstico clínico mais provavelmente relacionado com essas manifestações é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Astrocitoma de fossa posterior."
+    },
+    {
+     "letra": "B",
+     "texto": "Psicose maníaca depressiva."
+    },
+    {
+     "letra": "C",
+     "texto": "Meningoencefalite herpética."
+    },
+    {
+     "letra": "D",
+     "texto": "Lúpus eritematoso sistêmico."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000049415",
+   "codigo": "4000049415",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Reumatologia pediatria",
+   "numero": 9,
+   "temas": [
+    "Renal",
+    "Lúpus Eritematoso Sistêmico Pediátrico",
+    "Manif estações renais"
+   ],
+   "enunciado": "No que se refere ao comprometimento renal no lúpus eritematoso sistêmico (LES) juvenil ou pediátrico, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O acometimento renal é menos prevalente e menos grave em crianças."
+    },
+    {
+     "letra": "B",
+     "texto": "O comprometimento renal em geral é tardio no LES juvenil, raramente evoluindo para doença renal crônica."
+    },
+    {
+     "letra": "C",
+     "texto": "Segundo os critérios da SLICC (Systemic Lupus Collaborating Clinics Classification), a presença de proteinúria acima de 500 mg/24 horas ou a presença de cilindros hemáticos é um dos critérios de classificação para LES."
+    },
+    {
+     "letra": "D",
+     "texto": "O resultado de fator antinuclear (FAN) reagente confirma o diagnóstico de LES, sendo desnecessária a biópsia renal em casos com comprometimento renal."
+    },
+    {
+     "letra": "E",
+     "texto": "A biópsia renal geralmente mostra nefrite, mas não tem importância na programação terapêutica."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000012465",
+   "codigo": "4000012465",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Reumatologia pediatria",
+   "numero": 10,
+   "temas": [
+    "Lúpus Eritematoso Sistêmico Pediátrico"
+   ],
+   "enunciado": "Assinale a alternativa INCORRETA em relação ao Lúpus Eritematoso Sistêmico Juvenil (LESJ).",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O LESJ é uma doença autoimune sistêmica, caracterizada por envolvimento concomitante ou evolutivo de vários órgãos e sistemas."
+    },
+    {
+     "letra": "B",
+     "texto": "A alteração laboratorial mais frequente no LESJ é a presença de anticorpos antinucleares."
+    },
+    {
+     "letra": "C",
+     "texto": "O LESJ envolve apenas os sistemas cutâneo e articular."
+    },
+    {
+     "letra": "D",
+     "texto": "As manifestações do LESJ são imprevisíveis na faixa etária pediátrica."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000012457",
+   "codigo": "4000012457",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Reumatologia pediatria",
+   "numero": 11,
+   "temas": [
+    "Lúpus Eritematoso Sistêmico Pediátrico"
+   ],
+   "enunciado": "Qual dos critérios a seguir não é incluído nos critérios de classificação do Colégio Americano de Reumatologia para diagnóstico de lúpus eritematoso sistêmico juvenil?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Alopecia."
+    },
+    {
+     "letra": "B",
+     "texto": "Artrite."
+    },
+    {
+     "letra": "C",
+     "texto": "Fotossensibilidade."
+    },
+    {
+     "letra": "D",
+     "texto": "Úlcera de mucosa."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000012455",
+   "codigo": "4000012455",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Reumatologia pediatria",
+   "numero": 12,
+   "temas": [
+    "Tratamento",
+    "Lúpus Eritematoso Sistêmico Pediátrico"
+   ],
+   "enunciado": "A pulsoterapia com metilprednisolona tem sido indicada para crianças e adolescentes com lúpus eritematoso sistêmico juvenil grave ou com manifestações com risco de vida. São manifestações que indicam a pulsoterapia todas as abaixo, EXCETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Nefrite."
+    },
+    {
+     "letra": "B",
+     "texto": "Miocardite."
+    },
+    {
+     "letra": "C",
+     "texto": "Hemorragia pulmonar."
+    },
+    {
+     "letra": "D",
+     "texto": "Mancha em forma de asa de borboleta em face."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000117346",
+   "codigo": "4000117346",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Reumatologia pediatria",
+   "numero": 13,
+   "temas": [
+    "Síndromes autoinf lamatórias",
+    "Síndrome de f ebre periódica com estomatite af tosa f aringite e edenite"
+   ],
+   "enunciado": "Uma paciente de três anos de idade apresenta episódios recorrentes de febre de 39 a 40°C, com duração de três a cinco dias, a cada quatro semanas, acompanhados de faringite, aftas, linfonodomegalia cervical, vômitos, artralgia e dor abdominal. Os exames laboratoriais durante as crises revelaram leucocitose e proteína C-reativa elevada. O pediatra prescreveu prednisolona em dose única no início da última crise e a febre cedeu abruptamente. Considerando essa situação hipotética, assinale a alternativa que apresenta o diagnóstico mais provável",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Estomatite herpética."
+    },
+    {
+     "letra": "B",
+     "texto": "Neutropenia cíclica."
+    },
+    {
+     "letra": "C",
+     "texto": "Tonsilite bacteriana recorrente."
+    },
+    {
+     "letra": "D",
+     "texto": "Deficiência de IgA."
+    },
+    {
+     "letra": "E",
+     "texto": "Síndrome PFAPA."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000099353",
+   "codigo": "4000099353",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Reumatologia pediatria",
+   "numero": 14,
+   "temas": [
+    "Laboratório",
+    "Lúpus Eritematoso Sistêmico Pediátrico"
+   ],
+   "enunciado": "Na avaliação laboratorial de uma menina de 12 anos com suspeita diagnóstica de Lúpus Eritematoso Sistêmico Juvenil: I) A presença de anticorpo anti-DNA de dupla fita está associada com o desenvolvimento de nefrite lúpica. II) A presença de anticopro antiSm está associada com o desenvolvimento de serosite. III) A presença de anticorpo antiproteina P ribossômica está associada com o desenvolvimento de anemia hemolítica autoimune.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Apenas a assertiva I está correta."
+    },
+    {
+     "letra": "B",
+     "texto": "Apenas as assertivas I e II estão corretas."
+    },
+    {
+     "letra": "C",
+     "texto": "Apenas as assertivas I e III estão corretas."
+    },
+    {
+     "letra": "D",
+     "texto": "Todas as assertivas estão corretas."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000066630",
+   "codigo": "4000066630",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Reumatologia pediatria",
+   "numero": 15,
+   "temas": [
+    "Prognóstico",
+    "Lúpus Eritematoso Sistêmico Pediátrico"
+   ],
+   "enunciado": "O lúpus eritematoso sistêmico juvenil é uma doença multissistêmica, autoimune e crônica com baixa incidência. As principais causas de morbimortalidade nessa enfermidade são decorrentes do comprometimento de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "fígado e rins."
+    },
+    {
+     "letra": "B",
+     "texto": "pulmão e rins."
+    },
+    {
+     "letra": "C",
+     "texto": "coração e fígado."
+    },
+    {
+     "letra": "D",
+     "texto": "rins e sistema hematológico."
+    },
+    {
+     "letra": "E",
+     "texto": "rins e sistema nervoso central."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046100",
+   "codigo": "4000046100",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Reumatologia pediatria",
+   "numero": 16,
+   "temas": [
+    "Síndromes autoinf lamatórias",
+    "Síndrome de f ebre periódica com estomatite af tosa f aringite e edenite"
+   ],
+   "enunciado": "Quadro clínico Considere a descrição a seguir; Id.: KAP, 5 anos, fem., branca, natural e proc. de Curitiba. Informante - mãe; QP: infecções de repetição; HMA: há 5 meses iniciou com quadros recorrentes de febre até 40º, prostração, anorexia, odinofagia, aumento de linfonodos cervicais e submandibulares e dor abdominal. Os episódios têm duração de 5 a 7 dias e ocorrem a cada 2 a 3 semanas. Entre os quadros, apresenta-se assintomática. Refere uso de antibiótico nos episódios; HMP: RGE com diagnóstico aos 3 meses (usou prepulsid até 13 m); ITU aos 6 meses; após o 2º ano de vida – amigdalites de repetição, com 8 episódios/ano; AMF: mãe 38 anos, médica (neurologista); pai 48 anos. Ambos com rinite alérgica; AGO: pré-natal sem intercorrências, CST (programada), nasceu a termo, PN 3.900g ; AA: Leite materno até 1 a 9 meses (exclusivo até 6º mês); AI: Vacinação completa. Fez duas doses de BCG (segunda doses 3 meses após a primeira por ausência de pega vacinal) Pneumocócica 10 valente (1 dose); penumo 23, varicela; Exame Físico: BEG, corada, hidratada, febril, eupneica, eutró ca; FC: 140 FR: 24 T: 38,8ºC P: 18200g (P50) Est: 110cm (P50-75); Cabeça e pescoço: Múltiplos linfonodos submandibulares e cervicais anteriores bilateralmente, móveis, elásticos, pouco dolorosos à palpação, medindo de 1 a 1,5 cm de diâmetro, sendo os maiores em região submandibular esquerda; Hiperemia e hipertro a amigdaliana (grau II / IV); Tórax: PC: BRNF sem sopros; CPP: livres; Abdomen: plano, flácido, indolor à palpação, sem VCM, RHA+; Membros – SP; Considerando a caso relatado anteriormente, o diagnóstico mais provável é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Febre Familiar do Mediterrâneo."
+    },
+    {
+     "letra": "B",
+     "texto": "Síndrome da Hipergamaglobulinemia D."
+    },
+    {
+     "letra": "C",
+     "texto": "Síndrome Periódica Associada ao receptor do TNF."
+    },
+    {
+     "letra": "D",
+     "texto": "Imunodeficiência Primária da Infância."
+    },
+    {
+     "letra": "E",
+     "texto": "PFAPA (Periodic Fever, Adenitis, Pharyngitis, Aphtous stomatitis)."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000122223",
+   "codigo": "4000122223",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Reumatologia pediatria",
+   "numero": 17,
+   "temas": [
+    "Miopatias autoimunes sistêmicas juvenis",
+    "Dermatomiosite"
+   ],
+   "enunciado": "Menina de 8 anos iniciou, há 8 semanas, quadro de febre baixa e intermitente, inapetência e cansaço. Inicialmente, referia fadiga e dor muscular ao caminhar distâncias longas, porém, há 2 semanas, vem apresentando di culdade para pentear os cabelos e para subir escadas.Procurou atendimento médico, sendo hospitalizada para investigação. No exame clínico, encontrava-se em regular estado geral, descorada 1+/4+, linfadenomegalia cervical bilateral, aumento moderado de baço e de fígado, força muscular grau 3 em cinturas pélvicas e escapulares, pele com lesões eritemato- descamativas sobre superfície extensora das articulações de dedos das mãos, e um leve edema eritemato-violáceo em região periorbitária. Os exames laboratoriais mostraram anemia leve, leucocitose moderada, plaquetas normais, elevação moderada AST-TGO e ALT-TGP, elevação impontante de DHL e CPK. A principal hipótese diagnóstica do caso descrito é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Febre reumática com cardite."
+    },
+    {
+     "letra": "B",
+     "texto": "Lúpus eritematoso sistêmico juvenil."
+    },
+    {
+     "letra": "C",
+     "texto": "Miosite viral."
+    },
+    {
+     "letra": "D",
+     "texto": "Dermatomiosite juvenil"
+    },
+    {
+     "letra": "E",
+     "texto": "Leucemia linfoide aguda."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000108413",
+   "codigo": "4000108413",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Reumatologia pediatria",
+   "numero": 18,
+   "temas": [
+    "Quadro clínico",
+    "Epidemiologia",
+    "Miopatias autoimunes sistêmicas juvenis"
+   ],
+   "enunciado": "Uma menina de 10 anos procura atendimento médico com história de fadiga, diminuição do apetite e fraqueza. No exame físico, observa-se mácula eritêmato-vinhosa e edematosa na região periorbital (heliótropo). Levando em consideração o provável diagnóstico, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O curso clínico dessa doença pode ser complicado pelo depósito de cálcio no músculo, fáscia e tecido subcutâneo."
+    },
+    {
+     "letra": "B",
+     "texto": "Crianças com esse diagnóstico geralmente se apresentam com fraqueza muscular distal, com padrão ascendente."
+    },
+    {
+     "letra": "C",
+     "texto": "Corticosteroide é contraindicado nessa doença."
+    },
+    {
+     "letra": "D",
+     "texto": "Esta doença é mais comum em meninos do que em meninas."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000104309",
+   "codigo": "4000104309",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Reumatologia pediatria",
+   "numero": 19,
+   "temas": [
+    "Diagnóstico",
+    "Lúpus Eritematoso Sistêmico Pediátrico"
+   ],
+   "enunciado": "Uma menina, com dez anos de idade, apresenta febre há dez dias associada à artrite nos joelhos e nos tornozelos, nódulos subcutâneos no couro cabeludo e hiperemia de palmas de mãos. O quadro evoluiu para movimentos coreicos. Exames realizados mostraram anemia, plaquetopenia, hematúria microscópica e ASLO (antiestreptolisina O) =250 UTodd. Diante do exposto, assinale a opção que apresenta o diagnóstico mais provável.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Febre reumática."
+    },
+    {
+     "letra": "B",
+     "texto": "Dermatomiosite juvenil."
+    },
+    {
+     "letra": "C",
+     "texto": "Artrite reativa pós-estreptocócica."
+    },
+    {
+     "letra": "D",
+     "texto": "Lúpus eritematoso sistêmico juvenil."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000104077",
+   "codigo": "4000104077",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Reumatologia pediatria",
+   "numero": 20,
+   "temas": [
+    "Miopatias autoimunes sistêmicas juvenis",
+    "Diagnóstico"
+   ],
+   "enunciado": "Menino, 6 anos de idade, apresenta-se com história de perda de força muscular simétrica e proximal há 4 semanas. Há 2 semanas, apareceram lesões maculopapulares eritematosas em superfícies extensoras das articulações metacarpofalangeanas. Qual o diagnóstico provável?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Distrofia muscular de Becker."
+    },
+    {
+     "letra": "B",
+     "texto": "Dermatomiosite juvenil."
+    },
+    {
+     "letra": "C",
+     "texto": "Polimiosite."
+    },
+    {
+     "letra": "D",
+     "texto": "Distrofia muscular de Duchenne."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000078148",
+   "codigo": "4000078148",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Reumatologia pediatria",
+   "numero": 21,
+   "temas": [
+    "Febre Familiar do Mediterrâneo",
+    "Quadro clínico"
+   ],
+   "enunciado": "Um rapaz de 18 anos é internado com história de dois dias de febre, dor abdominal e dor no joelho esquerdo. Esta é sua quarta internação por queixas semelhantes. Ele relata que é assintomático no período entre os episódios, inclusive praticando esportes sem qualquer dor articular. O paciente não faz uso regular de medicamentos e relata relações sexuais sem uso de preservativo com parceira única. Ao exame físico a temperatura axilar é 38.2°C, a pressão arterial é 144x 86 mmHg, frequência cardíaca é 90 bpm, frequência respiratória é 18 irpm. Abdome difusamente doloroso, sem sinais de irritação peritoneal ou visceromegalias. Não há linfonodos palpáveis. O joelho esquerdo apresenta discreto derrame articular, limitando exão. Observa-se um rash eritematoso bem delimitado, doloroso ao toque, no tornozelo direito. Exames laboratoriais revelam aumento da velocidade de hemossedimentação e anticorpo antinuclear negativo. EAS revela proteinúria (1+), sem cilindros. Qual o diagnóstico?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Doença de Still do adulto."
+    },
+    {
+     "letra": "B",
+     "texto": "Doença de Crohn."
+    },
+    {
+     "letra": "C",
+     "texto": "Febre familiar do mediterrâneo."
+    },
+    {
+     "letra": "D",
+     "texto": "Artrite reativa."
+    },
+    {
+     "letra": "E",
+     "texto": "Artrite gonocócica."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000060989",
+   "codigo": "4000060989",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Reumatologia pediatria",
+   "numero": 22,
+   "temas": [
+    "Diagnóstico dif erencial",
+    "Miopatias autoimunes sistêmicas",
+    "Polimiosite"
+   ],
+   "enunciado": "Menina de 10 anos, é trazida a consulta por apresentar di culdade para andar há dois dias. Mãe refere que a adolescente apresentou quadro de \"gripe\" há seis dias, com febre baixa, coriza e tosse leve, tento usado sintomáticos. Exame físico: dor à palpação das panturrilhas, moderada di culdade para deambular sem apoio. Exames complementares: creatinoquinase (CK) e desidrogenase láctica (LDH) discretamente aumentadas. A principal hipótese diagnóstica é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Doença mista do tecido conjuntivo."
+    },
+    {
+     "letra": "B",
+     "texto": "Lúpus eritematoso sistêmico."
+    },
+    {
+     "letra": "C",
+     "texto": "Dermatomiosite juvenil."
+    },
+    {
+     "letra": "D",
+     "texto": "Esclerose sistêmica."
+    },
+    {
+     "letra": "E",
+     "texto": "Miosite pós-viral."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000089845",
+   "codigo": "4000089845",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Reumatologia pediatria",
+   "numero": 23,
+   "temas": [
+    "Lúpus Eritematoso Sistêmico Pediátrico"
+   ],
+   "enunciado": "Assinale a alternativa INCORRETA em relação ao Lúpus Eritematoso Sistêmico Juvenil: Respostas: 1 12 23",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O prognóstico está relacionado ao acometimento renal."
+    },
+    {
+     "letra": "B",
+     "texto": "Exposição ao sol pode desencadear a atividade sistêmica da doença."
+    },
+    {
+     "letra": "C",
+     "texto": "Atraso puberal e alterações do ciclo menstrual são ocorrências comuns."
+    },
+    {
+     "letra": "D",
+     "texto": "A dosagem de anticorpos antinucleares apresenta alta especificidade e baixa sensibilidade."
+    },
+    {
+     "letra": "E",
+     "texto": "N.D.A."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": []
+}

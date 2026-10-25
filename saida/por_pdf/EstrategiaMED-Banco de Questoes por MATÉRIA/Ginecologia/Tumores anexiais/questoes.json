@@ -1,0 +1,2974 @@
+{
+ "questoes": [
+  {
+   "id": "4000128425",
+   "codigo": "4000128425",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 1,
+   "temas": [
+    "Fatores de risco"
+   ],
+   "enunciado": "Quanto ao Câncer de Ovário e seus fatores de risco, é CORRETO firmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A incidência de câncer de ovário aumenta com a idade e é mais prevalente entre a quarta e a quinta década de vida."
+    },
+    {
+     "letra": "B",
+     "texto": "A nuliparidade e idade materna acima de 35 anos não se associam a risco aumentado para câncer de ovário."
+    },
+    {
+     "letra": "C",
+     "texto": "A terapia hormonal em mulheres climatéricas e a doença inflamatória pélvica não aumentam o risco para câncer de ovário."
+    },
+    {
+     "letra": "D",
+     "texto": "Os principais fatores de proteção para câncer de ovário são os contraceptivos orais, a gravidez, a amamentação e a ligadura de trompas."
+    },
+    {
+     "letra": "E",
+     "texto": "A obesidade parece estar associada aos tipos mais agressivos de câncer de ovário."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000117294",
+   "codigo": "4000117294",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 2,
+   "temas": [
+    "Diagnóstico"
+   ],
+   "enunciado": "Mulher, 44 anos, comparece assustada à consulta ginecológica com exame de imagem com massa anexial esquerda de 4 cm. Refere dor leve há dois dias e ciclos menstruais irregulares há 1 ano, já cou até 3 meses em amenorreia. Assinale a alternativa que indica corretamente qual conduta inicial para o caso apresentado.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "acalmar a paciente de que se trata de doença benigna"
+    },
+    {
+     "letra": "B",
+     "texto": "solicitar hemograma e proteína c reativa para excluir abscesso"
+    },
+    {
+     "letra": "C",
+     "texto": "solicitar ressonância magnética para avaliar se critérios de malignidade"
+    },
+    {
+     "letra": "D",
+     "texto": "indicar laparoscopia para ooforoplastia"
+    },
+    {
+     "letra": "E",
+     "texto": "solicitar beta hcg para excluir prenhez ectópica"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000115024",
+   "codigo": "4000115024",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 3,
+   "temas": [
+    "Câncer de ovário"
+   ],
+   "enunciado": "Todas as afirmações são corretas, em relação às neoplasias malignas de ovário, EXCETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Existe associação com endometriose para carcinomas de células claras e endometrioide."
+    },
+    {
+     "letra": "B",
+     "texto": "Estão associadas às mutações no gene BRCA1 (Breast Cancer 1, early on set)."
+    },
+    {
+     "letra": "C",
+     "texto": "A salpingectomia bilateral em mulheres jovens se associa à redução do risco relativo."
+    },
+    {
+     "letra": "D",
+     "texto": "O CA-125 e CA 19-9, juntamente com ultrassonografia transvaginal, são métodos de rastreio."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000108983",
+   "codigo": "4000108983",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 4,
+   "temas": [
+    "Tumores ovarianos benignos"
+   ],
+   "enunciado": "Paciente de 23 anos, vida sexual com uso de preservativo, ciclos menstruais regulares. Realiza exame ginecológico com achado de tumoração anexial direita, móvel e indolor. Exame ultrassonográ co complementar identi ca tumoração ovariana de 6 cm compatível com diagnóstico de teratoma. A ooforoplastia direita prevenirá qual das seguintes explicações?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Degeneração malígna."
+    },
+    {
+     "letra": "B",
+     "texto": "Sangramento."
+    },
+    {
+     "letra": "C",
+     "texto": "Infertilidade."
+    },
+    {
+     "letra": "D",
+     "texto": "Torção."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000108060",
+   "codigo": "4000108060",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 5,
+   "temas": [
+    "Diagnóstico"
+   ],
+   "enunciado": "Mulher com 35 anos apresenta diagnóstico de tumor de ovário. Qual são as características que poderão levar o ginecologista ter maior tranquilidade de que se trata de um caso benigno?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Apresenta vegetações somente intracísticas."
+    },
+    {
+     "letra": "B",
+     "texto": "Bilateralidade."
+    },
+    {
+     "letra": "C",
+     "texto": "Vascularização escassa."
+    },
+    {
+     "letra": "D",
+     "texto": "Tumor pequeno, sólido e irregular."
+    },
+    {
+     "letra": "E",
+     "texto": "Áreas císticas intercaladas com áreas sólidas."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000103309",
+   "codigo": "4000103309",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 6,
+   "temas": [
+    "Diagnóstico"
+   ],
+   "enunciado": "São critérios da IOTA (International Ovarian Tumor Analysis), para se suspeitar massa ovariana como maligna:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "multilocular com diâmetros acima de 100 mm."
+    },
+    {
+     "letra": "B",
+     "texto": "presença de sombra acústica posterior."
+    },
+    {
+     "letra": "C",
+     "texto": "ausência de fluxo ao doppler."
+    },
+    {
+     "letra": "D",
+     "texto": "componente sólido menor que 7 mm."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000089298",
+   "codigo": "4000089298",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 7,
+   "temas": [
+    "Fatores de risco"
+   ],
+   "enunciado": "Um fator de risco para o carcinoma epitelial de ovário é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Nuliparidade."
+    },
+    {
+     "letra": "B",
+     "texto": "Uso de pílula."
+    },
+    {
+     "letra": "C",
+     "texto": "Menarca tardia."
+    },
+    {
+     "letra": "D",
+     "texto": "Menopausa precoce."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000076193",
+   "codigo": "4000076193",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 8,
+   "temas": [
+    "Classif icação histológica"
+   ],
+   "enunciado": "O câncer de ovário não tem uma prevalência alta, mas é o mais letal dos cânceres ginecológicos. A maioria dos tumores malignos ovarianos é diagnosticada em estágio avançado. Pode-se afirmar, sobre os tumores ovarianos malignos, que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "carcinomas serosos são os mais frequentes com 30 a 70% dos casos"
+    },
+    {
+     "letra": "B",
+     "texto": "tumores de células claras são derivados de células germinativas"
+    },
+    {
+     "letra": "C",
+     "texto": "teratomas malignos são tumores estromais de cordão sexual"
+    },
+    {
+     "letra": "D",
+     "texto": "tumores endometrióides são de linhagem germinativa"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000073269",
+   "codigo": "4000073269",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 9,
+   "temas": [
+    "Tumores anexiais e câncer de ovário"
+   ],
+   "enunciado": "Menina de 8 anos apresenta quadro de dor em baixo ventre. A ultrassonogra a revela tumor de origem ovariana medindo 8cm. Qual o tipo histológico mais provável neste caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tumor de Brenner."
+    },
+    {
+     "letra": "B",
+     "texto": "Cisto folicular."
+    },
+    {
+     "letra": "C",
+     "texto": "Cistoadenoma mucinoso."
+    },
+    {
+     "letra": "D",
+     "texto": "Adenocarcinoma papilífero."
+    },
+    {
+     "letra": "E",
+     "texto": "Disgerminoma."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000052336",
+   "codigo": "4000052336",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 10,
+   "temas": [
+    "Etiopatogenia"
+   ],
+   "enunciado": "Sobre o câncer de ovário, é CORRETO afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Quando associado ao tumor de cólon pode ter alterações nos genes MLH1 e MSH2."
+    },
+    {
+     "letra": "B",
+     "texto": "A principal via de disseminação é por continuidade."
+    },
+    {
+     "letra": "C",
+     "texto": "O tabagismo aumenta o risco para o tipo histológico seroso papilífero."
+    },
+    {
+     "letra": "D",
+     "texto": "O tamanho do tumor é critério para o estadiamento."
+    },
+    {
+     "letra": "E",
+     "texto": "O tipo histológico de células claras é tumor radiossensível."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000037721",
+   "codigo": "4000037721",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 11,
+   "temas": [
+    "Tumores ovarianos benignos",
+    "Struma ovarii"
+   ],
+   "enunciado": "O tumor de ovário com ação hormonal tireoidiana é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Adenocarcinoma seroso."
+    },
+    {
+     "letra": "B",
+     "texto": "Adenocarcinoma mucinoso."
+    },
+    {
+     "letra": "C",
+     "texto": "Sarcoma."
+    },
+    {
+     "letra": "D",
+     "texto": "Struma Ovari."
+    },
+    {
+     "letra": "E",
+     "texto": "Tumor do seio endodérmico."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000032783",
+   "codigo": "4000032783",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 12,
+   "temas": [
+    "Estadiamento"
+   ],
+   "enunciado": "Mulher de 73 anos, nuligesta, comparece à consulta, com queixa de dor abdominal moderada e dor para evacuar. Informa que perdeu 10 quilos de peso nos últimos seis meses e está se sentindo mais fraca. Ultrassonogra a transvaginal realizada há um mês evidenciou massa heterogênea volumosa, de provável topogra a anexial direita, com presença de septos grosseiros e cápsula irregular; além de quantidade significativa de líquido livre na pelve. Ao exame físico, palpa-se massa até altura da cicatriz umbilical, fixa e dolorosa. Apresenta edema depressível e indolor em membros inferiores. A conduta MAIS ADEQUADA é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "realizar laparotomia em hospital terciário se estiver clinicamente estável."
+    },
+    {
+     "letra": "B",
+     "texto": "realizar biópsia percutânea da lesão guiada por ultrassonografia."
+    },
+    {
+     "letra": "C",
+     "texto": "solicitar dosagem sérica de estradiol."
+    },
+    {
+     "letra": "D",
+     "texto": "solicitar ressonância magnética da pelve."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000032294",
+   "codigo": "4000032294",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 13,
+   "temas": [
+    "Estadiamento"
+   ],
+   "enunciado": "Paciente com 51 anos de idade, G2P2A0, submetida à laparotomia por tumoração pélvica em ovários direito e esquerdo ao ultrassom e CA-125 elevado. No ato cirúrgico, constatou-se que a tumoração era limitada ao ovário esquerdo e que o exame anatomopatológico de congelação (transoperatório) apresentou resultado positivo para malignidade. Com base nessas informações, assinale a alternativa que indica a melhor conduta cirúrgica para o caso hipotético apresentado.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Coleta de líquido ascítico ou lavado peritonial, histerectomia total, salpingo- oforectomia esquerda, exame cuidadoso de toda a superfície peritonial, omentectomia, biópsia de linfonodos para-aórticos e biópsias aleatórias de áreas não envolvidas, mas suspeitas."
+    },
+    {
+     "letra": "B",
+     "texto": "Coleta de líquido ascítico ou lavado peritonial, histerectomia total, salpingo- oforectomia bilateral, exame cuidadoso de toda a superfície peritonial, omentectomia, biópsia de linfonodos para-aórticos e biópsias aleatórias de áreas não envolvidas, mas suspeitas."
+    },
+    {
+     "letra": "C",
+     "texto": "Coleta de líquido ascítico ou lavado peritonial, histerectomia total, salpingo- oforectomia bilateral, exame cuidadoso de toda a superfície peritonial, biópsia de linfonodos para-aórticos e biópsias aleatórias de áreas não envolvidas, mas suspeitas."
+    },
+    {
+     "letra": "D",
+     "texto": "Coleta de líquido ascítico ou lavado peritonial, histerectomia total, salpingo- oforectomia esquerda, exame cuidadoso de toda a superfície peritonial, biópsia de linfonodos para-aórticos e biópsias aleatórias de áreas não envolvidas, mas suspeitas. ida oib pr ed"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000020073",
+   "codigo": "4000020073",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 14,
+   "temas": [
+    "Fatores de risco"
+   ],
+   "enunciado": "O câncer de ovário geralmente não tem sintomas nos estágios iniciais. Devido a isso é importante o conhecimento dos fatores de risco associados, são eles, EXCETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "obesidade."
+    },
+    {
+     "letra": "B",
+     "texto": "história de câncer de ovário em familiar de 1º grau."
+    },
+    {
+     "letra": "C",
+     "texto": "nuliparidade."
+    },
+    {
+     "letra": "D",
+     "texto": "infertilidade."
+    },
+    {
+     "letra": "E",
+     "texto": "contraceptivos orais."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000007421",
+   "codigo": "4000007421",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 15,
+   "temas": [
+    "Diagnóstico",
+    "Tratamento"
+   ],
+   "enunciado": "Gestante de 8 semanas realizou ultrassonogra a obstétrica inicial que evidenciou massa anexial cística complexa, de provável origem ovariana. A imagem possuía diâmetro de 7 cm, cápsula na e presença de nodulação intracística ecogênica sem fluxo ao estudo Doppler. A dosagem de Ca125 = 263 U/mL. A primeira hipótese diagnóstica e conduta são",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cistoadenoma seroso de ovário - dosagem seriada de Ca125 para definir conduta cirúrgica."
+    },
+    {
+     "letra": "B",
+     "texto": "Cistoadenocarcinoma de ovário - laparotomia exploradora para anexectomia."
+    },
+    {
+     "letra": "C",
+     "texto": "Disgerminoma de ovário - laparotomia exploradora de anexectomia."
+    },
+    {
+     "letra": "D",
+     "texto": "Tumor borderline de ovário - laparotomia exploradora, ressecção do cisto, preservação do ovário."
+    },
+    {
+     "letra": "E",
+     "texto": "Cisco teca-luteínico hemorrágico - nova ultrassonografia com 11 semanas."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000123171",
+   "codigo": "4000123171",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 16,
+   "temas": [
+    "Tumores anexiais e câncer de ovário"
+   ],
+   "enunciado": "Mulher, 35 anos, assintomática, deseja gestar, refere que realizou um exame ultrassonográ co com imagem anexial direita cística com componente sólido de 10 cm de diâmetro, com aumento da vascularização no componente sólido de 4cm e na septação grosseira. As dosagens de marcadores alfafetoproteína, CA 125 e Antígeno carcinoembrionário (CEA) estão normais. Qual melhor conduta diante desse caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ooforoplastia laparoscópica."
+    },
+    {
+     "letra": "B",
+     "texto": "Repetição da ultrassonografia em 6 meses."
+    },
+    {
+     "letra": "C",
+     "texto": "Tranquilizar a paciente pois se trata de uma massa de aspecto benigno."
+    },
+    {
+     "letra": "D",
+     "texto": "Salpingooforectomia bilateral com histerectomia e linfadenectomia laparotômica com estadiamento para câncer de ovário."
+    },
+    {
+     "letra": "E",
+     "texto": "Salpingooforectomia unilateral laparoscópica com congelação."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000113342",
+   "codigo": "4000113342",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 17,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Paciente de 66 anos relata perda de 12 kg nos últimos 4 meses. Queixa-se ainda de pepsia e aumento do volume abdominal. A tomogra a computadorizada de abdome revelou ascite e massa complexa em anexo esquerdo de 15 cm de diâmetro. O diagnóstico inicial foi adenocarcinoma de ovário. Nesse caso, a terapia usual envolve",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "cirurgia + radioterapia."
+    },
+    {
+     "letra": "B",
+     "texto": "cirurgia + quimioterapia."
+    },
+    {
+     "letra": "C",
+     "texto": "radioterapia, apenas."
+    },
+    {
+     "letra": "D",
+     "texto": "cirurgia, apenas."
+    },
+    {
+     "letra": "E",
+     "texto": "cirurgia + quimioterapia + radioterapia."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000106451",
+   "codigo": "4000106451",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 18,
+   "temas": [
+    "Tumores anexiais e câncer de ovário"
+   ],
+   "enunciado": "Mulher 62 anos, G1P0A1, menopausa há 12 anos, é submetida à ultrassonogra a transvaginal por ter apresentado episódio de dor em hipogástrio. Durante o exame, observa-se lesão cística em projeção de anexo esquerdo,medindo 4 cm no maior diâmetro, com um septo no interior de espessura igual a 3 mm. Não se identi ca uxo sanguíneo durante avaliação dopplervelocimétrica. Dosagem de CA-125 igual a 32 U/mL. Assinale a melhor alternativa terapêutica.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Salpingooforectomia bilateral."
+    },
+    {
+     "letra": "B",
+     "texto": "Ooforoplastia e exérese da lesão íntegra"
+    },
+    {
+     "letra": "C",
+     "texto": "Histerectomia total e salpingooforectomia bilateral"
+    },
+    {
+     "letra": "D",
+     "texto": "Repetir a ultrassonografia em 3 meses"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q018-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000105907",
+   "codigo": "4000105907",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 19,
+   "temas": [
+    "Tumores ovarianos benignos"
+   ],
+   "enunciado": "Paciente de 23 anos de idade submeteu-se a laparotomia por tumor heterogêneo de ovário esquerdo, de 5 cm de diâmetro. Realizou-se ooforoplastia e o tumor foi retirado íntegro. O ovário direito, as tubas e o útero encontravam-se normais. Como não havia disponibilidade de congelação intraoperatória, o cirurgião optou por abrir e inspecionar a peça. Observou formação cística, de conteúdo denso com aspecto gorduroso, e alguns septos. Com esse achado, a suspeita é de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cistoadenoma mucinoso."
+    },
+    {
+     "letra": "B",
+     "texto": "Corpo lúteo hemorrágico."
+    },
+    {
+     "letra": "C",
+     "texto": "Tumor da granulosa."
+    },
+    {
+     "letra": "D",
+     "texto": "Cisto dermóide."
+    },
+    {
+     "letra": "E",
+     "texto": "Disgerminoma."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000101861",
+   "codigo": "4000101861",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 20,
+   "temas": [
+    "Câncer de ovário"
+   ],
+   "enunciado": "Mulher de 53 anos com derrame pleural e ascite compatíveis, respectivamente, com exsudato e transudato. Ultrassonogra a pélvica: imagem sólida no ovário esquerdo, hipoecoica, homogênea e medindo aproximadamente 3,0 x 3,0 x 2,0 cm. A hipótese diagnóstica para a lesão ovariana é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tumor de Brenner, constituído por epitélio transicional, entidade epidemiologicamente mais comum nesse contexto clínico-radiológico."
+    },
+    {
+     "letra": "B",
+     "texto": "Tumor de Krukenberg, constituído por células em anel de sinete, frequentemente associado com essas manifestações."
+    },
+    {
+     "letra": "C",
+     "texto": "Fibroma, tumor derivado do cordão sexual, de bom prognóstico e o mais comumente associado ao quadro clínico da paciente."
+    },
+    {
+     "letra": "D",
+     "texto": "Tecoma, derivado do cordão sexual, em geral sem atividade hormonal, cujo tratamento cirúrgico melhora a sintomatologia extraovariana."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000100342",
+   "codigo": "4000100342",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 21,
+   "temas": [
+    "Tumores ovarianos benignos"
+   ],
+   "enunciado": "Paciente de 45 anos com Ultrassom mostrando cisto com conteúdo espesso no ovário esquerdo. Foi submetida à Ooforectomia e o exame de congelação diagnosticou um Cistoadenoma Mucinoso. Houve ruptura do mesmo no ato operatório. De acordo com este enunciado, qual das abaixo está correta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A Ooforoplastia teria sido a melhor opção cirúrgica"
+    },
+    {
+     "letra": "B",
+     "texto": "A paciente corre o risco de desenvolver um pseudomixoma"
+    },
+    {
+     "letra": "C",
+     "texto": "O cisto era benigno e a paciente está tratada"
+    },
+    {
+     "letra": "D",
+     "texto": "Por se tratar de um cisto maligno deverá ser submetida à cirurgia radical (Pan Histerectomia)"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000099081",
+   "codigo": "4000099081",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 22,
+   "temas": [
+    "Estadiamento"
+   ],
+   "enunciado": "Com relação ao estadiamento do câncer de ovário, assinale a incorreta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Estádio Ia – Tumor limitado a um ovário, cápsulabintacta, sem tumor na superfície externa."
+    },
+    {
+     "letra": "B",
+     "texto": "Estádio Ic – Tumor de ovário nos Estádio Ia ou Ib mas com tumor na superficie ou cápsula rota de um ou ambos os ovários; ou com ascite ou lavado peritoneal com células neoplásicas presentes."
+    },
+    {
+     "letra": "C",
+     "texto": "Estádio IIa – Extensão e/ou metástases para o útero e/ou trompa."
+    },
+    {
+     "letra": "D",
+     "texto": "Estádio IIIb – Tumor em um ou ambos ovários com confirmação histológica de implante peritoneal e este não excedendo 2 cm de diâmetro. Linfonodos positivos."
+    },
+    {
+     "letra": "E",
+     "texto": "Estádio IV Tumor com metástases à distância Havendo derrame pleural deve ser pesquisada presença de células neoplásicas. Metástases parenquimatosas hepáticas correspondem ao Estádio IV."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000099065",
+   "codigo": "4000099065",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 23,
+   "temas": [
+    "Tumores ovarianos benignos"
+   ],
+   "enunciado": "Mulher de 55 anos apresenta derrame pleural e ascite. Ao exame ultrassonográ co apresenta imagem sólida no ovário esquerdo, hipoecóica, homogênea e medindo aproximadamente 3,0 x 3,0 x 2,0 cm. A hipótese diagnóstica para a lesão ovariana é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tecoma."
+    },
+    {
+     "letra": "B",
+     "texto": "Fibroma."
+    },
+    {
+     "letra": "C",
+     "texto": "tumor de Brenner."
+    },
+    {
+     "letra": "D",
+     "texto": "tumor de Krukenberg."
+    },
+    {
+     "letra": "E",
+     "texto": "Cistoadenoma mucinoso."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000095784",
+   "codigo": "4000095784",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 24,
+   "temas": [
+    "Diagnóstico",
+    "Tumores ovarianos benignos"
+   ],
+   "enunciado": "Paciente de 37 anos apresenta ultrassonogra a transvaginal demonstrando massa anexial cística de pequeno volume e sem neovascularização ao estudo Doppler. Esse quadro sugere:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cisto folicular ovariano."
+    },
+    {
+     "letra": "B",
+     "texto": "Prenhez ectópica."
+    },
+    {
+     "letra": "C",
+     "texto": "Tumor maligno de ovário."
+    },
+    {
+     "letra": "D",
+     "texto": "Abscesso tubo ovariano."
+    },
+    {
+     "letra": "E",
+     "texto": "Nenhuma das respostas acima."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000078894",
+   "codigo": "4000078894",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 25,
+   "temas": [
+    "Rastreamento e prevenção"
+   ],
+   "enunciado": "Sobre o rastreamento de câncer de ovário, é correto afirmar, EXCETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Atualmente, o exame pélvico anual é a principal ferramenta preventiva para essas mulheres."
+    },
+    {
+     "letra": "B",
+     "texto": "Não se recomenda rastreamento rotineiro, com dosagem de antígeno do câncer 125 (CA-125) de mulheres assintomáticas e baixo risco para câncer de ovário."
+    },
+    {
+     "letra": "C",
+     "texto": "Recomenda-se rastreamento rotineiro, com ultrassonografia, de mulheres assintomáticas e baixo risco para câncer de ovário."
+    },
+    {
+     "letra": "D",
+     "texto": "Para as mulheres que apresentam mutações no gene BRCA1 e BRCA2 e recusam a ooforectomia profilática, essas duas ferramentas acima de rastreamento podem ser utilizadas."
+    },
+    {
+     "letra": "E",
+     "texto": "Aquelas com histórico familiar significativo de câncer de ovário e de mama também podem ser consideradas de alto risco com indicação para rastreamento."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000068623",
+   "codigo": "4000068623",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 26,
+   "temas": [
+    "Tumores metastáticos"
+   ],
+   "enunciado": "Paciente após exérese de tumor ovariano teve como diagnóstico tumor de Krukenberg. Sabendo se tratar de um tumor metastático, seu ginecologista deve encaminhá-la ao:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Gastroenterologista."
+    },
+    {
+     "letra": "B",
+     "texto": "Pneumologista."
+    },
+    {
+     "letra": "C",
+     "texto": "Neurologista."
+    },
+    {
+     "letra": "D",
+     "texto": "Endocrinologista."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000053688",
+   "codigo": "4000053688",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 27,
+   "temas": [
+    "Tumores de céulas germinativas"
+   ],
+   "enunciado": "Em relação ao tumor ovariano de células germinativas maligno, qual é o tipo mais frequente em crianças e adolescentes?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Disgerminoma"
+    },
+    {
+     "letra": "B",
+     "texto": "Cistoadenocarcinomamucinoso"
+    },
+    {
+     "letra": "C",
+     "texto": "Tumor de seio endodérmico"
+    },
+    {
+     "letra": "D",
+     "texto": "Teratoma imaturo"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047682",
+   "codigo": "4000047682",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 28,
+   "temas": [
+    "Diagnóstico",
+    "Tratamento"
+   ],
+   "enunciado": "M.D.S, 33 anos, casada. Nulípara. Última menstruação há 25 dias, ciclos regulares. Refere uso de preservativo em todas as relações. Paciente procura atendimento ambulatorial com dor em fossa ilíaca esquerda, de leve intensidade, com início há 10 dias, sem irradiação. Nega febre, queixas urinárias ou gastrointestinais. Sem outras queixas. Ao exame: BEG, corada, hidratada. PA 110 x 70 mmHg. Abdome: ácido, doloroso à palpação profunda de fossa ilíaca esquerda, sem sinais de irritação peritoneal. Exame ginecológico: dor à palpação de anexo esquerdo. Sem outras particularidades. Trouxe beta hCG negativo e o seguinte resultado da ecogra a: - Útero AVF, 55 cm3, textura homogênea, - Endométrio 11 mm, - Ovário direito de morfologia e tamanho normais, Ovário esquerdo com imagem cística anecóica, unilocular, contorno regular e paredes finas, medindo 40x32mm, - Fundo de saco posterior livre. Assinale a alternativo com o provável diagnóstico e tratamento:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Teratoma cístico, acompanhamento ambulatorial."
+    },
+    {
+     "letra": "B",
+     "texto": "Endometrioma, tratamento cirúrgico."
+    },
+    {
+     "letra": "C",
+     "texto": "Teratoma cístico, tratamento cirúrgico."
+    },
+    {
+     "letra": "D",
+     "texto": "Cisto folicular, tratamento cirúrgico."
+    },
+    {
+     "letra": "E",
+     "texto": "Cisto folicular, acompanhamento ambulatorial."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000042799",
+   "codigo": "4000042799",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 29,
+   "temas": [
+    "Tumores de céulas germinativas"
+   ],
+   "enunciado": "Menina de 5 anos de idade queixa-se de dor pélvica e ao exame físico nota-se massa móvel, dolorosa, localizada em fossa ilíaca direita, sendo que ao USG realizado evidenciou massa ovariana cística hipoecoica de 7 cm de diâmetro. O tipo histológico provável será:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cisto folicular"
+    },
+    {
+     "letra": "B",
+     "texto": "Cistoadenoma seroso"
+    },
+    {
+     "letra": "C",
+     "texto": "Disgerminoma"
+    },
+    {
+     "letra": "D",
+     "texto": "Tumor de Brenner"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000028795",
+   "codigo": "4000028795",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 30,
+   "temas": [
+    "Seguimento",
+    "Tumores epiteliais"
+   ],
+   "enunciado": "O câncer de ovário é responsável por grande parte da mortalidade relacionada às doenças malignas na mulher, sendo o que apresenta maior letalidade. Sobre este patologia, qual alternativa correta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Os tumores de linhagem epitelial são os mais comuns, tendo como principal marcador sanguíneo o CA-125."
+    },
+    {
+     "letra": "B",
+     "texto": "O diagnóstico geralmente é feito nas formas iniciais, mesmo assim há grande chance de matástases, o que justifica a alta letalidade."
+    },
+    {
+     "letra": "C",
+     "texto": "O rastreio para câncer de ovário deve ser realizado após 50 anos de idade com ultrassonografia transvaginal anual para população de risco habitual."
+    },
+    {
+     "letra": "D",
+     "texto": "O tratamento padrão envolve apenas ooforectomia com salpingectomia, sendo preservado o útero."
+    },
+    {
+     "letra": "E",
+     "texto": "O uso de anticoncepcionais orais combinados é fator de risco para desenvolvimento do câncer de ovário."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000027181",
+   "codigo": "4000027181",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 31,
+   "temas": [
+    "Seguimento",
+    "Tumores epiteliais"
+   ],
+   "enunciado": "Embora não sejam fudamentais para diagnóstico dos tumores ovarianos, os marcadores tumorais são de grande valia no seguimento desses tumores. Em relação ao tipo histopatológico e aos marcadores tumorais, tem-se que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O CA-125 é marcador de tumores epiteliais."
+    },
+    {
+     "letra": "B",
+     "texto": "CEA é marcador do disgerminormas."
+    },
+    {
+     "letra": "C",
+     "texto": "A alfafetoproteína é marcadora dos tumores do seio endodérmico."
+    },
+    {
+     "letra": "D",
+     "texto": "Os esteroides sexsuais são marcadores dos tumores embrionários."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000020024",
+   "codigo": "4000020024",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 32,
+   "temas": [
+    "Estadiamento"
+   ],
+   "enunciado": "Mulher, 38 anos, assintomática, nuligesta, com desejo reprodutivo, traz à consulta um exame ultrassonográ co com imagem de massa cística e sólida em anexo direito de 10 cm de diâmetro, com aumento da vascularização no componente sólido de 5 cm e na septação de 2 cm. As dosagens de marcadores são: Alfa-Fetoproteína (AFP) = 8 g/L); CA 125 = 46,8 U/ml (VR = até 35 U/ml); CA 19.9 = 5,2 U/ml (VR = até 37 U/ml); antígeno carcinoembrionário (CEA) = μ 0,8 μg/L (VR = até 3,0 μg/L). Legenda: VR = Valor de Referência. Qual melhor conduta diante desse caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ooforoplastia laparoscópica sem necessidade de congelação, devido à idade e ao baixo risco de malignidade."
+    },
+    {
+     "letra": "B",
+     "texto": "Salpingooforectomia bilateral com histerectomia e linfadenectomia laparotômica com estadiamento para câncer de ovário."
+    },
+    {
+     "letra": "C",
+     "texto": "Salpingooforectomia unilateral laparoscópica com congelação, prosseguindo com linfadenectomia, histerectomia e anexectomia contralateral se malignidade."
+    },
+    {
+     "letra": "D",
+     "texto": "Repetição da ultrassonografia em 6 meses, pois as caraterísticas de malignidade são baixas de acordo com os critérios de IOTA (International Ovarian Tumor Analysis)."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000019847",
+   "codigo": "4000019847",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 33,
+   "temas": [
+    "Tumores ovarianos benignos"
+   ],
+   "enunciado": "Os cistos ovarianos funcionais incluem cistos foliculares, cistos do corpo lúteo e cistos tecaluteínicos. Em relação aos cistos ovarianos foliculares, analise as assertivas abaixo e assinale a alternativa correta: I - São cistos benignos. II - São os mais comuns dos cistos funcionais. III - É mais comum em mulheres menopausadas. IV - Na maioria das vezes necessitam de tratamento cirúrgico.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Está correta apenas a assertiva I."
+    },
+    {
+     "letra": "B",
+     "texto": "Estão corretas as assertivas I e II."
+    },
+    {
+     "letra": "C",
+     "texto": "Estão corretas as assertivas III e IV."
+    },
+    {
+     "letra": "D",
+     "texto": "Estão corretas as assertivas I, II e III."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000017045",
+   "codigo": "4000017045",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 34,
+   "temas": [
+    "Classif icação histológica"
+   ],
+   "enunciado": "O que caracteriza um tumor “Boderline” de ovário:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Alta agressividade."
+    },
+    {
+     "letra": "B",
+     "texto": "Infiltração até 3mm no estroma."
+    },
+    {
+     "letra": "C",
+     "texto": "Linhagem mulleriano do tumor."
+    },
+    {
+     "letra": "D",
+     "texto": "Não há invasão do estroma."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000011522",
+   "codigo": "4000011522",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 35,
+   "temas": [
+    "Tumores ovarianos benignos"
+   ],
+   "enunciado": "Assinale a alternativa que afirma corretamente características frequentes de tumores ovarianos benignos.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cisto multilocular, parede lisa, bordas irregulares."
+    },
+    {
+     "letra": "B",
+     "texto": "Parede lisa, componentes sólidos, cisto multilocular."
+    },
+    {
+     "letra": "C",
+     "texto": "Parede lisa, ausência de ascite, sem septos internos."
+    },
+    {
+     "letra": "D",
+     "texto": "Cisto unilocular, presença de componentes sólidos, sem septos internos."
+    },
+    {
+     "letra": "E",
+     "texto": "Bordas irregulares, presença de ascite, espessamento na parede do tumor."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000006123",
+   "codigo": "4000006123",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 36,
+   "temas": [
+    "Tumores epiteliais"
+   ],
+   "enunciado": "O principal marcador sérico para tumores epiteliais ovarianos é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "CEA."
+    },
+    {
+     "letra": "B",
+     "texto": "CA 125."
+    },
+    {
+     "letra": "C",
+     "texto": "CA 24-4."
+    },
+    {
+     "letra": "D",
+     "texto": "Bhcg."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000127555",
+   "codigo": "4000127555",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 37,
+   "temas": [
+    "Câncer de ovário"
+   ],
+   "enunciado": "Paciente do sexo feminino de 40 anos de idade, IIG IIPc, foi submetida a anexectomia direita de urgência e encontrou-se o achado incidental de tumor ovariano borderline (baixo potencial maligno) no anatomopatológico. A conduta oncológica complementar adequada:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Se prole constituída, ooforectomia contralateral e linfadenectomia laparoscópica e quimioterapia."
+    },
+    {
+     "letra": "B",
+     "texto": "Se desejosa de nova gestação, dosagem seriada de marcadores tumorais CA 125 e CEA bimensais no primeiro ano de seguimento."
+    },
+    {
+     "letra": "C",
+     "texto": "Se prole constituída, histerectomia total abdominal; salpingectomia bilateral;ooforectomia contralateral, omentectomia, linfadenectomia e quimioterapia."
+    },
+    {
+     "letra": "D",
+     "texto": "Se desejosa de nova gestação, linfadenectomia e quimioterapia."
+    },
+    {
+     "letra": "E",
+     "texto": "Se prole constituída, histerectomia total abdominal; salpingectomia bilateral; ooforectomia contralateral."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000124463",
+   "codigo": "4000124463",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 38,
+   "temas": [
+    "Cirurgia de estadiamento"
+   ],
+   "enunciado": "Paciente pós-menopáusica foi submetida à laparotomia exploradora por lesão ovariana unilateral com características ultrassonográficas sugestivas de malignidade. Os exames pré-operatórios indicaram CA 125 de 56 UI/ml (normal ≤ 35 UI/ml), raio X de tórax sem alterações e tomogra a computadorizada de abdome total sem achados de extensão de doença além do ovário. O exame transoperatório de congelação revelou tratar-se de um adenocarcinoma seroso no ovário esquerdo. Os achados cirúrgicos descritos evidenciaram tumor restrito ao ovário esquerdo, ovário direito sem alterações e ausência de doença visível no restante do abdome. O tratamento cirúrgico recomendado é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Salpingo-ooforectomia esquerda para remoção da lesão, sendo desnecessários outros procedimentos uma vez que a doença está restrita a um ovário."
+    },
+    {
+     "letra": "B",
+     "texto": "Salpingo-ooforectomia bilateral, já que a paciente é pós-menopáusica."
+    },
+    {
+     "letra": "C",
+     "texto": "Lavado peritoneal para citologia, histerectomia, salpingo-ooforectomia bilateral, linfadenectomia retroperitoneal e omentectomia."
+    },
+    {
+     "letra": "D",
+     "texto": "Lavado peritoneal para citologia, histerectomia, salpingo-ooforectomia bilateral e omentectomia."
+    },
+    {
+     "letra": "E",
+     "texto": "cirurgia citorredutora visando ressecção de massas tumorais."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000105391",
+   "codigo": "4000105391",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 39,
+   "temas": [
+    "Tumores ovarianos benignos"
+   ],
+   "enunciado": "Mulher de 25 anos de idade, assintomática, em consulta ginecológica de rotina, refere ciclos menstruais normais e é usuária de contraceptivo hormonal combinado. Ao exame, observa-se a presença de massa broelástica, de cerca de 8 cm em região anexial esquerda, móvel e indolor. A ultrassonogra a mostrou formação sólido-cística, medindo globalmente 7 cm, em topogra a de anexo esquerdo, contendo áreas hiperecogênicas produtoras de sombra acústica (calci cações), áreas hipoecoicas com debris e algumas septações. Com esse quadro clínico, o diagnóstico etiológico mais provável é de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Endometrioma."
+    },
+    {
+     "letra": "B",
+     "texto": "Teratoma cístico benigno."
+    },
+    {
+     "letra": "C",
+     "texto": "Cistoadenocarcinoma seroso."
+    },
+    {
+     "letra": "D",
+     "texto": "Cistoadenocarcinoma mucinoso."
+    },
+    {
+     "letra": "E",
+     "texto": "Cistoadenoma mucinoso."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000105082",
+   "codigo": "4000105082",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 40,
+   "temas": [
+    "Tumores anexiais e câncer de ovário"
+   ],
+   "enunciado": "Mulher de 62 anos, G1P1A0. Queixa-se de aumento do volume abdominal há 6 meses. Ao toque bimanual palpa-se massa na região anexial esquerda, endurecida e de difícil mobilização, A ultrassonogra a revela massa em ovário esquerdo com 480 cm3 e com aparência macrocóspica representada na Figura. A dosagem de CA 125 é 38OU\\ml. Qual a hipótese diagnóstica mais provável?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Carcinoma seroso do ovário"
+    },
+    {
+     "letra": "B",
+     "texto": "Cistadenoma mucinoso do ovário"
+    },
+    {
+     "letra": "C",
+     "texto": "Teratoma maduro do ovário"
+    },
+    {
+     "letra": "D",
+     "texto": "Endometrioma do ovário"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q040-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000103497",
+   "codigo": "4000103497",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 41,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Paciente de 30 anos de idade queixa-se de dismenorreia há 4 meses. É nuligesta e usa preservativo para contracepção. Exame especular normal, toque vaginal com útero de volume normal, móvel, indolor, presença de tumoração anexial direita, consistência cística, dolorosa à mobilização, região anexial esquerda sem achados significativos. Realizou ultrassonogra a transvaginal, cuja imagem de ovário direito está mostrada a seguir. O ovário esquerdo é normal e não há outras alterações na ultrassonografia. Qual é o tratamento mais adequado para o caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Exérese do ovário que apresenta o cisto."
+    },
+    {
+     "letra": "B",
+     "texto": "Punção esvaziadora por via transvaginal."
+    },
+    {
+     "letra": "C",
+     "texto": "Exérese do cisto com preservação do ovário."
+    },
+    {
+     "letra": "D",
+     "texto": "Análogo do GnRH e controle ultrassonográfico do cisto."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q041-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000098712",
+   "codigo": "4000098712",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 42,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Paciente de 25 anos com ciclos menstruais regulares, sem uso de anticoncepcional hormonal, foi submetida a Ultrassonografia transvaginal, com diagnóstico de cisto folicular de 2,0 cm . A conduta ideal é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Deve-se solicitar CA 125 para descartar tumor maligno"
+    },
+    {
+     "letra": "B",
+     "texto": "Trata-se de um cisto funcional e a conduta é expectante"
+    },
+    {
+     "letra": "C",
+     "texto": "A punção aspirativa guiada por ultrassom é a melhor conduta"
+    },
+    {
+     "letra": "D",
+     "texto": "A cirurgia é o tratamento de escolha (ooforoplastia)"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000071124",
+   "codigo": "4000071124",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 43,
+   "temas": [
+    "Tumores do estroma do cordão sexual"
+   ],
+   "enunciado": "NCC, 25 anos, apresentou sinais agudos de virilização e massa sólida ovariana à direita de aproximadamente 8 cm na ultrassonografia. Neste caso, deve-se suspeitar de tumor ovariano de linhagem:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "metastática"
+    },
+    {
+     "letra": "B",
+     "texto": "células germinativas"
+    },
+    {
+     "letra": "C",
+     "texto": "estromal"
+    },
+    {
+     "letra": "D",
+     "texto": "epitelial"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000071105",
+   "codigo": "4000071105",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 44,
+   "temas": [
+    "Fatores de proteção"
+   ],
+   "enunciado": "LLN, 28 anos, sem comorbidades, apresenta história familiar de câncer de ovário, tendo dúvidas, por esse motivo, se deve tomar contraceptivos hormonais combinados. A orientação a ser dada é de que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Não é possível afirmar que o contraceptivo hormonal combinado seja causa de câncer de ovário."
+    },
+    {
+     "letra": "B",
+     "texto": "O contraceptivo hormonal combinado é considerado fator protetor para câncer de ovário."
+    },
+    {
+     "letra": "C",
+     "texto": "O contraceptivo hormonal combinado é considerado fator de risco para câncer de ovário."
+    },
+    {
+     "letra": "D",
+     "texto": "O contraceptivo hormonal combinado é considerado sem efeito em relação ao câncer de ovário."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000065052",
+   "codigo": "4000065052",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 45,
+   "temas": [
+    "Tumores epiteliais"
+   ],
+   "enunciado": "O tumor maligno, mucossecretor da cavidade peritoneal que surge após a ruptura de uma neoplasia ovariana maligna ou de um adenocarcinoima apendicular, é denominado de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Carcinomatose invasiva."
+    },
+    {
+     "letra": "B",
+     "texto": "Pseudomixoma."
+    },
+    {
+     "letra": "C",
+     "texto": "Carcinoma indiferenciado."
+    },
+    {
+     "letra": "D",
+     "texto": "Adenocarcinoma invasivo."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000064988",
+   "codigo": "4000064988",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 46,
+   "temas": [
+    "Tumores de céulas germinativas"
+   ],
+   "enunciado": "Sobre os marcadores tumorais para tumores de células germinativas, considere as afirmativas a seguir: I. Alfafetoproteína. II Desidrogenase láctica (HDL). III. Gonadotrofina coriônica humana (HCG). IV. Somatomamotrofina coriônica. Assinale a alternativa correta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Somente as afirmativas I e II são corretas."
+    },
+    {
+     "letra": "B",
+     "texto": "Somente as afirmativas I,II e IV são corretas."
+    },
+    {
+     "letra": "C",
+     "texto": "Somente as afirmativas I, II e III são corretas."
+    },
+    {
+     "letra": "D",
+     "texto": "Somente as afirmativas II, III e IV são corretas."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000057018",
+   "codigo": "4000057018",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 47,
+   "temas": [
+    "Esteroidogênese",
+    "Fatores de risco",
+    "Fatores de risco"
+   ],
+   "enunciado": "Assinale a opção INCORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "São considerados fatores de risco para o câncer de ovário: mutações nos genes MLH1 e MSH2, síndrome dos ovários policísticos, uso de drogas estimuladores da ovulação e nuliparidade."
+    },
+    {
+     "letra": "B",
+     "texto": "A multiparidade, início precoce da atividade sexual, uso de contraceptivo hormonal são fatores de risco para câncer do colo uterino."
+    },
+    {
+     "letra": "C",
+     "texto": "A síndrome dos ovários policísticos, obesidade e cirrose hepática representam condições de risco para o câncer de endométrio."
+    },
+    {
+     "letra": "D",
+     "texto": "Um dos mecanismos de ação protetora da progesterona no endométrio é por meio do bloqueio da 17ß - ol - deidrogenase"
+    },
+    {
+     "letra": "E",
+     "texto": "O cistoadenocarcinoma de células claras é o câncer de ovário mais agressivo, caracteriza-se histologicamente pela presença de células em anel de sinete e sua principal disseminação se dá por via transcelomática."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000051559",
+   "codigo": "4000051559",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 48,
+   "temas": [
+    "Tumores ovarianos benignos"
+   ],
+   "enunciado": "Sobre os tumores de ovário, marque a assertiva INCORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Os tumores de seio endodérmico possuem como principal marcador tumoral a alfafetoproteína."
+    },
+    {
+     "letra": "B",
+     "texto": "Os teratomas imaturos apresentam tecidos derivados dos três folhetos de células germinativas, sendo comum encontrar em seu interior glândulas sebáceas, cartilagem, tecido ósseo e cabelos."
+    },
+    {
+     "letra": "C",
+     "texto": "O tumor de Krukenberg tem como característica citológica a presença de células em anel de sinete."
+    },
+    {
+     "letra": "D",
+     "texto": "O tumor de células transicionais possui epitélio similar ao do revestimento da bexiga."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000050033",
+   "codigo": "4000050033",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 49,
+   "temas": [
+    "Tumores epiteliais"
+   ],
+   "enunciado": "Com relação aos cânceres epiteliais de ovário, dentre as alternativas abaixo, não estaria correto afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a linfadenectomia pélvica e para-aórtica deve sempre ser realizada."
+    },
+    {
+     "letra": "B",
+     "texto": "devemos realizar pesquisa de mutação do BRCA em toda paciente com diagnóstico de carcinoma epitelial não mucinoso de ovário."
+    },
+    {
+     "letra": "C",
+     "texto": "deve-se realizar radiografia de tórax, tomografia computadorizada (TC) de abdome e pelve e CA 125 para definir se a paciente é candidata a citorredução primária ou neoadjuvância."
+    },
+    {
+     "letra": "D",
+     "texto": "nos casos em que se planeja tratamento neoadjuvante, biópsia guiada por imagem ou por laparoscopia deve ser obtida antes de iniciar o tratamento quimioterápico a fim de excluir tumores de outros sítios, por exemplo, do trato digestivo."
+    },
+    {
+     "letra": "E",
+     "texto": "o estadiamento cirúrgico envolve a coleta do líquido ascítico ou lavado peritoneal, inspeção de toda a cavidade peritoneal, histerectomia total, salpingo-oforectomia bilateral, omentectomia, remoção de áreas suspeitas ou, se não houver, biópsias randômicas da superfície peritoneal incluindo as goteiras parietocólicas e a área diafragmática."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000039812",
+   "codigo": "4000039812",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 50,
+   "temas": [
+    "Rastreamento e prevenção",
+    "Diagnóstico",
+    "Seguimento"
+   ],
+   "enunciado": "Paciente JKM, 25 anos, procura o ginecologista com resultado de ultrassonogra a demonstrando cisto com 9 cm de diâmetro, apresentando áreas sólidas, septos espessados e uxo sanguíneo intratumoral. Foi solicitado o antígeno carboidrato 125 (CA-125). Qual valor desse antígeno é considerado diagnóstico para o carcinoma ovariano?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "> 200 U/mL"
+    },
+    {
+     "letra": "B",
+     "texto": ">50 U/mL"
+    },
+    {
+     "letra": "C",
+     "texto": ">100 U/mL"
+    },
+    {
+     "letra": "D",
+     "texto": ">150 U/m/L"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000037693",
+   "codigo": "4000037693",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 51,
+   "temas": [
+    "Fatores de risco"
+   ],
+   "enunciado": "O câncer de ovário é um verdadeiro desa o para os médicos e é uma patologia com grande potencial de morbidade e mortalidade. Sobre esse importante tumor ginecológico, é correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Os tumores de células germinativas são os cânceres malignos de ovário mais frequentes, acometendo especialmente pacientes na quarta década de vida."
+    },
+    {
+     "letra": "B",
+     "texto": "Nas mulheres com câncer de mama, ainda não foi detectada nenhuma correlação de aumento na incidência de câncer de ovário subsequente."
+    },
+    {
+     "letra": "C",
+     "texto": "A maioria dos cânceres de ovário hereditários está associada à mutação no gene BRCA1, localizado no cromossomo 17."
+    },
+    {
+     "letra": "D",
+     "texto": "No estadiamento II, conforme a Federação Internacional de Ginecologia e Obstetrícia (FIGO), do carcinoma primário de ovário, a cirurgia inicial é o único tratamento a ser indicado."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000029625",
+   "codigo": "4000029625",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 52,
+   "temas": [
+    "Diagnóstico"
+   ],
+   "enunciado": "Paciente com 55 anos de idade, apresenta lesão anexial ovariana esquerda, cístico- sólida de 4cm, com uxo de baixa resistência ao doppler, associada à elevação do marcador tumoral CA-125 (100 U/mL.) Qual a MELHOR opção diagnóstiica e terapêutica para essa paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Análise histopatológica por histerectomia com salpingooforectomia bilateral como tratamento padrão, pois trata- se de malignidade."
+    },
+    {
+     "letra": "B",
+     "texto": "Análise histopatológica (salpingooforectomia) com biópsia por congelação intraoperatória, com possibilidade de complementação cirúrgica, caso seja confirmada a malignidade."
+    },
+    {
+     "letra": "C",
+     "texto": "Análise histopatológica, caso um novo exame ultrassonográfico em 6 meses mostre aumento da lesão."
+    },
+    {
+     "letra": "D",
+     "texto": "Análise histopatológica por punção por agulha da lesão cística, caso seja confirmada a malignidade, deverá realizar o procedimento cirúrgico."
+    },
+    {
+     "letra": "E",
+     "texto": "Análise histopatológica por histerectomia, salpingooforectomia bilateral e linfadenectomia pélvica e para-aórtica devido a lesão ser de alta suspeição para malignidade."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000007935",
+   "codigo": "4000007935",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 53,
+   "temas": [
+    "Câncer de ovário"
+   ],
+   "enunciado": "Paciente de 22 anos de idade dá entrada no pronto-socorro com diagnóstico de torção anexial esquerda e é submetida à anexectomia esquerda. Paciente evolui em bom estado com alta após 36 horas. Retorna para consulta de pós-operatório com anatomopatológico descrevendo neoplasia maligna germinativa, disgerminoma. Qual a conduta complementar?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Encaminhar para realização de radioterapia, pois trata-se de neoplasia maligna radiossensível."
+    },
+    {
+     "letra": "B",
+     "texto": "Encaminhar para oncologia clínica para realização de quimioterapia, pois trata-se de tumor de alto grau histológico."
+    },
+    {
+     "letra": "C",
+     "texto": "Realizar nova cirurgia com linfadenectomia e omentectomia para se definir a necessidade de terapia adjuvante."
+    },
+    {
+     "letra": "D",
+     "texto": "Realizar conduta expectante, pois a anexectomia é o tratamento preconizado e já foi realizado na laparotomia de urgência."
+    },
+    {
+     "letra": "E",
+     "texto": "Indicar novo procedimento para realização de histerectomia e anexectomia contralateral para definição do estadiamento."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000127601",
+   "codigo": "4000127601",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 54,
+   "temas": [
+    "Diagnóstico",
+    "Ginecologia",
+    "Tratamento"
+   ],
+   "enunciado": "Uma mulher de 45 anos de idade comparece ao ambulatório de Ginecologia com queixas de aumento do volume abdominal e irregularidade menstrual. Realiza ultrassonogra a transvaginal que evidencia, no ovário direito, imagem anecoica, arredondada, com paredes nas, contornos regulares, limites bem definidos e com septações grosseiras em seu interior, medindo 14 x 12 cm em seus maiores diâmetros. Nesse caso, a conduta adequada é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "iniciar tratamento clínico com anticoncepcional combinado e controle trimestral com ultrassonografia."
+    },
+    {
+     "letra": "B",
+     "texto": "realizar marcadores tumorais e proceder a laparotomia com exame de congelação no intraoperatório."
+    },
+    {
+     "letra": "C",
+     "texto": "acompanhar de forma expectante e reavaliar resultado de ultrassonografia após 2 meses."
+    },
+    {
+     "letra": "D",
+     "texto": "realizar punção e drenagem do cisto, guiadas por ultrassonografia."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000118295",
+   "codigo": "4000118295",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 55,
+   "temas": [
+    "Tumores ovarianos benignos"
+   ],
+   "enunciado": "Paciente de 33 anos foi submetida à videolaparoscopia por tumor de ovário esquerdo, que não regrediu com o tratamento clínico instituído. O resultado do exame anatomopatológico foi de teratoma maduro do ovário esquerdo. Ao tentar se informar a respeito desse resultado na internet, verificou que existe o teratoma maligno e ficou preocupada. A esse respeito, é CORRETO afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O teratoma maligno é o imaturo e corresponde a 1% do total de teratomas."
+    },
+    {
+     "letra": "B",
+     "texto": "Por se tratar de tumor epitelial do ovário, o teratoma de ovário tem alta recidiva, mas é benigno."
+    },
+    {
+     "letra": "C",
+     "texto": "A associação com endometriose pélvica é elevada, cerca de 30%."
+    },
+    {
+     "letra": "D",
+     "texto": "Deve-se fazer radioterapia complementar no ovário contralateral e orientar a engravidar logo."
+    },
+    {
+     "letra": "E",
+     "texto": "Caracterização de maduro e imaturo não existe, e, em 25% dos casos, os teratomas são malignos."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000103740",
+   "codigo": "4000103740",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 56,
+   "temas": [
+    "Citorredução primária"
+   ],
+   "enunciado": "Mulher de 60 anos refere aumento do volume abdominal, cansaço e dispneia intensa. Ao exame clínico, observa-se abdome com volumosa ascite. Exame pélvico, através de toque vaginal, revela tumor de aspecto sólido, irregular, xo, deslocando o útero lateralmente à esquerda e presença de nódulos irregulares em fórnice vaginal posterior. A ascite é esvaziada por punção, e o material encaminhado para análise citológica, cujo diagnóstico é compatível com adenocarcinoma seroso de ovário. O tratamento cirúrgico primário, com o objetivo de citorredução ótima em câncer de ovário avançado, confere melhor prognóstico porque:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Favorece a radioterapia complementar exclusiva à pelve."
+    },
+    {
+     "letra": "B",
+     "texto": "Reduz clones celulares resistentes à quimioterapia."
+    },
+    {
+     "letra": "C",
+     "texto": "Impede a formação de ascite durante a quimioterapia secundária."
+    },
+    {
+     "letra": "D",
+     "texto": "Não há resposta terapêutica à quimioterapia primária."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000086370",
+   "codigo": "4000086370",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 57,
+   "temas": [
+    "Tumores ovarianos benignos"
+   ],
+   "enunciado": "Mulher, 35 anos, com dor em região pélvica. USG evidencia tumoração cística em ovário direito, com cerca de 8,0 cm de diâmetro. Realizada cirurgia, que revela cisto com cavidade unilocular repleto de líquido espesso com aspecto achocolatado. Microscopia da parede do cisto com macrófagos contendo hemossiderina. O diagnóstico da tumoração é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cistoadenoma mucinoso."
+    },
+    {
+     "letra": "B",
+     "texto": "Teratoma maduro."
+    },
+    {
+     "letra": "C",
+     "texto": "Tumor de Brenner."
+    },
+    {
+     "letra": "D",
+     "texto": "Cisto endometrioide."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000072462",
+   "codigo": "4000072462",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 58,
+   "temas": [
+    "Tumores anexiais"
+   ],
+   "enunciado": "Se uma mulher apresenta cistos de ovário ao exame ultrassonográfico, é CORRETO afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Os contraceptivos hormonais podem ser úteis nesse tratamento."
+    },
+    {
+     "letra": "B",
+     "texto": "Mesmo se forem assintomáticos, o que ocorre na maioria dos casos, devem serremovidos."
+    },
+    {
+     "letra": "C",
+     "texto": "Se estiver na menopausa, as variantes luteínicas e foliculares são as mais prevalentes."
+    },
+    {
+     "letra": "D",
+     "texto": "A presença de projeções papilares geralmente identifica os de linhagem benigna."
+    },
+    {
+     "letra": "E",
+     "texto": "O exame de ressonância nuclear magnética é o método ideal para identificar o quadro de benignidade desses cistos."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000072002",
+   "codigo": "4000072002",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 59,
+   "temas": [
+    "Classif icação histológica"
+   ],
+   "enunciado": "Mulher de 50 anos com ultrassonogra a transvaginal evidenciando cisto em ovário direito medindo 10 cm, multilobulado e cápsula espessa. A dosagem de CA 125 mostrou-se normal e do CEA muito elevada. O tipo histológico provável é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Disgerminona."
+    },
+    {
+     "letra": "B",
+     "texto": "Adenocarcinoma seroso."
+    },
+    {
+     "letra": "C",
+     "texto": "Adenocarcinoma células claras."
+    },
+    {
+     "letra": "D",
+     "texto": "Adenocarcinoma mucinoso."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000063970",
+   "codigo": "4000063970",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 60,
+   "temas": [
+    "Tumores ovarianos benignos",
+    "Tratamento"
+   ],
+   "enunciado": "Paciente, 32 anos, G2 P2, foi encaminhada para avaliação de massa anexial à direita. À ultrassonogra a evidenciou-se imagem cística em ovário direito com 3 cm de diâmetro, unilocular, com limites bem definidos e ausência de septos. Qual a melhor conduta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Expectante."
+    },
+    {
+     "letra": "B",
+     "texto": "Laparotomia exploradora."
+    },
+    {
+     "letra": "C",
+     "texto": "Punção do cisto guiado pelo ultrassom."
+    },
+    {
+     "letra": "D",
+     "texto": "Vídeo laparoscopia."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000061505",
+   "codigo": "4000061505",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 61,
+   "temas": [
+    "Diagnóstico"
+   ],
+   "enunciado": "Na diferenciação ecográfica das massas anexiais entre patologias benignas e malignas, a característica mais importante é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Seu tamanho."
+    },
+    {
+     "letra": "B",
+     "texto": "Sua vascularização ao Doppler colorido."
+    },
+    {
+     "letra": "C",
+     "texto": "Sua posição em relação ao útero."
+    },
+    {
+     "letra": "D",
+     "texto": "A evidenciação de sua cápsula."
+    },
+    {
+     "letra": "E",
+     "texto": "Sua ecogenicidade."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046759",
+   "codigo": "4000046759",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 62,
+   "temas": [
+    "Rastreamento e prevenção",
+    "Epidemiologia"
+   ],
+   "enunciado": "Deve-se suspeitar da Síndrome do Câncer de Mama e Ovário Hereditários (SMOH) quando há um aumento importante da incidência de câncer de mama na família, mulheres mais jovens que a média com câncer de mama, câncer de ovário e câncer de mama em homens. Podem estar associados a outros tumores, como câncer de pâncreas e câncer de próstata em homens jovens. A indicação do teste genético para os genes BRCA1 e BRCA2 não seria adequada para mulheres com:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Câncer de mama com menos de 45 anos."
+    },
+    {
+     "letra": "B",
+     "texto": "Câncer de mama com menos de 60 anos e tumor triplo-negativo."
+    },
+    {
+     "letra": "C",
+     "texto": "Câncer de mama ou ovário e descendentes de judeus Sefaradim."
+    },
+    {
+     "letra": "D",
+     "texto": "Câncer de mama com menos de 50 anos e parentes próximas com câncer de mama."
+    },
+    {
+     "letra": "E",
+     "texto": "Famílias com câncer de pâncreas ou câncer de próstata agressivo (Gleason > ou \"maior ou igual a \" 7) em combinação ou não com câncer de mama e ovário."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000036319",
+   "codigo": "4000036319",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 63,
+   "temas": [
+    "Tumores ovarianos benignos"
+   ],
+   "enunciado": "Durante uma histerectomia por doença benigna de uma paciente com 35 anos de idade, o cirurgião deve:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Fazer salpingectomia devido ao risco potencial de desenvolvimento de neoplasia de tuba."
+    },
+    {
+     "letra": "B",
+     "texto": "Fazer ooforectomia devido ao risco potencial de neolplasia de ovário."
+    },
+    {
+     "letra": "C",
+     "texto": "Fazer salpingectomia devido ao risco potencial de neoplasia ovário."
+    },
+    {
+     "letra": "D",
+     "texto": "Fazer ooforectomia devido ao risco potencial de desenvolvimento de neoplasia de tuba."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000036294",
+   "codigo": "4000036294",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 64,
+   "temas": [
+    "Terapia adjuvante"
+   ],
+   "enunciado": "Paciente com 65 anos de idade foi submetida à laparotomia exploradora e durante o ato operatório foi evidenciado disgerminoma. A melhor conduta complementar à cirurgia, nesse caso é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Radioterapia."
+    },
+    {
+     "letra": "B",
+     "texto": "Quimioterapia."
+    },
+    {
+     "letra": "C",
+     "texto": "Radioterapia e posterior quimioterapia."
+    },
+    {
+     "letra": "D",
+     "texto": "Radioterapia e quimioterapia concomitantes."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000005454",
+   "codigo": "4000005454",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 65,
+   "temas": [
+    "Câncer de ovário",
+    "Conceito"
+   ],
+   "enunciado": "Paciente em acompanhamento de tratamento de câncer de ovário (epitelial). Qual a melhor opção em relação aos marcadores tumorais?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "CA-19-9 e Alfafetoproteína."
+    },
+    {
+     "letra": "B",
+     "texto": "CA 19-9 e CA 15-3."
+    },
+    {
+     "letra": "C",
+     "texto": "CA 19-9 e CEA."
+    },
+    {
+     "letra": "D",
+     "texto": "CA 125 e CEA."
+    },
+    {
+     "letra": "E",
+     "texto": "CA 19-9 e hCG."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000097690",
+   "codigo": "4000097690",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 66,
+   "temas": [
+    "Tumores anexiais e câncer de ovário"
+   ],
+   "enunciado": "Mulher, 56a, casada, G3P3A0, com menopausa aos 50 anos, sem uso de medicamentos, fumante. Vem à consulta por sangramento vaginal intermitente há um mês. Exame ginecológico: toque vaginal = anexo esquerdo móvel, aumentado com 7 cm em seu maior diâmetro; especular = vagina eutró ca, colo centrado, epitelizado. Ultrassonogra a transvaginal = útero sem alterações de morfologia, com linha endometrial de 8 mm; ovário direito normal, e presença de tumoração sólida à esquerda, irregular de 8 cm x 6 cm x 6 cm, hipervascularizada ao Doppler. Biópsia endometrial com Pipelle = endométrio proliferativo. A conduta é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Dosagem de marcadores tumorais CA-125, CEA, alfafetoproteína e CA-19.9."
+    },
+    {
+     "letra": "B",
+     "texto": "Histeroscopia e ressonância magnética."
+    },
+    {
+     "letra": "C",
+     "texto": "Laparotomia exploradora com avaliação histológica intraoperatória."
+    },
+    {
+     "letra": "D",
+     "texto": "Histerectomia abdominal com salpingo-ooforectomia bilateral."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000083079",
+   "codigo": "4000083079",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 67,
+   "temas": [
+    "Fatores de risco",
+    "Fatores de risco"
+   ],
+   "enunciado": "Com relação ao câncer de mama e do ovários hereditários, assinale aquela que for incorreta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Deve-se suspeitar da Síndrome do Câncer de Mama e Ovário Hereditários (SMOH) quando há um aumento importante da incidência de câncer de mama na família, mulheres mais jovens que a média com câncer de mama, câncer de ovário e câncer de mama em homens."
+    },
+    {
+     "letra": "B",
+     "texto": "Mulheres aos 70 anos com mutações deletérias no BRCA1 apresentam risco de 90% câncer de mama, 80% de risco de câncer de ovário e 70% de risco de desenvolverem câncer de mama contralateral."
+    },
+    {
+     "letra": "C",
+     "texto": "Mulheres portadoras de mutações deletérias no gene BRCA2 apresentam aos 70 anos risco de 55% de câncer de mama, 16,5% de câncer de ovário e 62% de câncer de mama contralateral."
+    },
+    {
+     "letra": "D",
+     "texto": "Podem estar associados a outros tumores, como câncer de pâncreas e câncer de próstata em homens jovens."
+    },
+    {
+     "letra": "E",
+     "texto": "Está indicado teste genético para os genes BRCA1 e BRCA2 em descendentes de judeus Ashkenazy."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000069474",
+   "codigo": "4000069474",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 68,
+   "temas": [
+    "Tumores de céulas germinativas"
+   ],
+   "enunciado": "O disgerminoma é o tumor mais comum das células germinativas malignas, sendo responsável por cerca de 30 a 40% de todos os cânceres ovarianos com origem nas células germinativas. Acerca disso, assinale a alternativa CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "20 a 30% dos disgerminomas são bilaterais."
+    },
+    {
+     "letra": "B",
+     "texto": "Cerca de 15% dos disgerminomas são diagnosticados em indivíduos de fenótipo feminino com gônadas anormais."
+    },
+    {
+     "letra": "C",
+     "texto": "São pouco sensíveis à radioterapia."
+    },
+    {
+     "letra": "D",
+     "texto": "Cerca de 85 a 90% dos tumores em estágio I são limitados a um ovário."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000055828",
+   "codigo": "4000055828",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 69,
+   "temas": [
+    "Fatores de risco",
+    "Fatores de proteção"
+   ],
+   "enunciado": "Uma jovem de 22 anos vem ao consultório preocupada, pois a sua avó acaba de falecer de um câncer de ovário, aos 72 anos de idade. Você explica para a paciente sobre os fatores de risco e prevenção do câncer de ovário. Assinale a alternativa que reduz o risco de câncer de ovário.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Nuliparidade."
+    },
+    {
+     "letra": "B",
+     "texto": "Uso de medicações para induzir ovulação."
+    },
+    {
+     "letra": "C",
+     "texto": "Menopausa tardia."
+    },
+    {
+     "letra": "D",
+     "texto": "Uso de anti-inflamatórios não hormonais."
+    },
+    {
+     "letra": "E",
+     "texto": "Uso de contraceptivos hormonais."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000054534",
+   "codigo": "4000054534",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 70,
+   "temas": [
+    "Padrão de disseminação"
+   ],
+   "enunciado": "Complete as lacunas e marque a alternativa que completa: “Os tumores de Krukenberg são cânceres metastáticos para ___________e sua localização primária mais frequentemente é o ______________.”",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Os ovários / Baço."
+    },
+    {
+     "letra": "B",
+     "texto": "O útero / Estômago."
+    },
+    {
+     "letra": "C",
+     "texto": "O útero / Pâncreas."
+    },
+    {
+     "letra": "D",
+     "texto": "Os ovários / Estômago."
+    },
+    {
+     "letra": "E",
+     "texto": "O útero / Baço."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000048955",
+   "codigo": "4000048955",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 71,
+   "temas": [
+    "Tumores anexiais e câncer de ovário"
+   ],
+   "enunciado": "Quanto aos marcadores tumorais, a adequada e atual propedêutica no diagnóstico diferencial dos tumores ovarianos, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A a-feto proteína deve ser dosada nos tumores, no menacme e na senilidade."
+    },
+    {
+     "letra": "B",
+     "texto": "A dosagem do ß-HCG é essencial no diagnóstico diferencial dos tumores epiteliais."
+    },
+    {
+     "letra": "C",
+     "texto": "A dosagem do CA-125 é irrelevante, pois pode estar elevada em processos benignos."
+    },
+    {
+     "letra": "D",
+     "texto": "A DHL deve ser solicitada apenas na suspeita de tumores germinativos da infância."
+    },
+    {
+     "letra": "E",
+     "texto": "No diagnóstico diferencial de tumores de células granulosas, o CEA é fundamental."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000045914",
+   "codigo": "4000045914",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 72,
+   "temas": [
+    "Diagnóstico"
+   ],
+   "enunciado": "A presença de cisto ovariano, em mulher de 50 anos na pós-menopausa há 6 anos, com 32,0 mm no maior diâmetro, homogêneo e bem delimitado, sem septos ou áreas sólidas em seu interior, uxo ausente ao Doppler de amplitude, pode corresponder, como primeira hipótese, a:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Lesão anexial de forte suspeita de malignidade."
+    },
+    {
+     "letra": "B",
+     "texto": "Imagem cística benigna, provavelmente cisto seroso simples."
+    },
+    {
+     "letra": "C",
+     "texto": "Cisto complexo, necessário correlacionar com dosagem de CA-125 e histopatológico."
+    },
+    {
+     "letra": "D",
+     "texto": "Hidrossalpinge, imagem cística simples e muito rara."
+    },
+    {
+     "letra": "E",
+     "texto": "Cisto complexo anexial, necessária abordagem e protocolo de suspeita de câncer ovariano."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000014885",
+   "codigo": "4000014885",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 73,
+   "temas": [
+    "Tumores anexiais e câncer de ovário"
+   ],
+   "enunciado": "Mulher, 45 anos, realizou ultrassonogra a transvaginal na qual foi detectada uma massa anexial direita de 5 cm no maior diâmetro, com conteúdo sólido-cístico à custa de 5 papilas, com o diâmetro de 10 mm cada. Além disso, observam-se áreas hiperecogênicas em seu interior com a formação de sombra acústica posterior. Em complemento o estudo Doppler não mostrou presença de uxo sanguíneo. São características suspeitas de malignidade os seguintes achados ultrassonográficos:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Diâmetro de 5 cm."
+    },
+    {
+     "letra": "B",
+     "texto": "Ausência de fluxo ao Doppler."
+    },
+    {
+     "letra": "C",
+     "texto": "Massa anexial à direita."
+    },
+    {
+     "letra": "D",
+     "texto": "Presença das 5 papilas."
+    },
+    {
+     "letra": "E",
+     "texto": "Conteúdo sólido cístico e a presença de sombra acústica posterior"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000121867",
+   "codigo": "4000121867",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 74,
+   "temas": [
+    "Tumores anexiais e câncer de ovário"
+   ],
+   "enunciado": "Mulher de 28 anos de idade, assintomática, faz consulta pré-concepção planejando engravidar. O toque vaginal mostra anexo direito aumentado 2 vezes de tamanho, endurecido, indolor e móvel. Anexo esquerdo normal. A ultrassonogra a mostra cisto complexo de 4 cm no ovário direito, com área central hiperecogênica de 2 cm, líquido denso, pontos produtores de sombra acústica e algumas septações. De acordo com a epidemiologia e as características ecográficas desse tumor, pode-se supor que se trata de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "teratoma cístico benigno."
+    },
+    {
+     "letra": "B",
+     "texto": "endometrioma."
+    },
+    {
+     "letra": "C",
+     "texto": "tumor da granulosa."
+    },
+    {
+     "letra": "D",
+     "texto": "carcinoma seroso."
+    },
+    {
+     "letra": "E",
+     "texto": "carcinoma mucinoso."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000112522",
+   "codigo": "4000112522",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 75,
+   "temas": [
+    "Câncer de ovário"
+   ],
+   "enunciado": "O câncer de ovário é a neoplasia ginecológica com maior mortalidade e a quinta causa de morte em mulheres. Assinale a alternativa CORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Os estudos existentes demonstraram que o rastreio no câncer de ovário tem como método de excelência a ecografia endovaginal."
+    },
+    {
+     "letra": "B",
+     "texto": "Os estudos existentes demonstraram que o rastreio no câncer de ovário tem como método de excelência a dosagem do marcador CA-125."
+    },
+    {
+     "letra": "C",
+     "texto": "Os estudos existentes demonstraram que o rastreio no câncer de ovário tem como método de excelência o Papanicolaou."
+    },
+    {
+     "letra": "D",
+     "texto": "Não há evidências de que os exames propedêuticos hoje disponíveis sejam benéficos na redução da mortalidade total ou específica da doença."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000109899",
+   "codigo": "4000109899",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 76,
+   "temas": [
+    "Diagnóstico"
+   ],
+   "enunciado": "Mulher de 60 anos de idade, assintomática, traz ultrassonogra a endovaginal mostrando o ovário esquerdo conforme a figura. (VER IMAGEM) A suspeita é de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tumor maligno de ovário."
+    },
+    {
+     "letra": "B",
+     "texto": "Cisto hemorrágico."
+    },
+    {
+     "letra": "C",
+     "texto": "Corpo lúteo."
+    },
+    {
+     "letra": "D",
+     "texto": "Endometrioma"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q076-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000107316",
+   "codigo": "4000107316",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 77,
+   "temas": [
+    "Câncer de ovário"
+   ],
+   "enunciado": "Paciente 32 anos, G3P3A0, começou a apresentar alteração do uxo menstrual há 6 meses associado a discreta dor pélvica. O uxo menstrual é de pequeno volume. No entanto, está com uxo praticamente contínuo nos últimos dois meses. A dor pélvica é esporádica e tipo \"pontada\". Nega alteração do hábito intestinal ou aumento do volume abdominal. Nega perda de peso ou do apetite. Notou também um aumento de pêlos no rosto no último mês e alteração do timbre da voz. Nega outras queixas. O exame físico geral é normal. O índice de Ferriman é de 11. O abdome é normotenso, indolor à palpação, sem massas palpáveis, sem visceromegalias e sem sinais de ascite. No especular existe pequena quantidade de sangue em fundo de saco vaginal. O colo é róseo, epitelizado, sem lesões. A vagina é normal. Ao toque, o colo uterino é cartilaginoso, fechado, indolor à mobilização. O útero é móvel, aparentemente de tamanho normal. Em região anexial esquerda palpa-se um massa bem delimitada, pouco móvel de cerca de 10 cm no maior diâmetro. Qual a hipótese diagnóstica mais provável e qual(is) exames(s) subsidiários seria(m) necessários(s) para o planejamento diagnóstico e terapêutico para esta paciente.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Neoplasia do estroma e cordões sexuais do ovário. Realizar ultrassonografia da pelve e abdome e dosagem sérica de CA 125, CEA, beta-hCG, alfa-fetoproteína, estradiol, testosterona e progesterona."
+    },
+    {
+     "letra": "B",
+     "texto": "Carcinoma de ovário. Solicitar tomografia computadorizada de abdome e pelve, dosagem sérica de CA 125, CEA e CA 19,9."
+    },
+    {
+     "letra": "C",
+     "texto": "Tumor de células germinativas do ovário. Realizar ultrassonografia da pelve e abdome e dosagem sérica de CA 125, CEA, beta-hCG, alfa-fetoproteína, estradiol, testosterona e progesterona."
+    },
+    {
+     "letra": "D",
+     "texto": "Leiomioma uterino pediculado. Realizar ultrassonografia pélvica e abdominal exames pré-operatórios."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000098212",
+   "codigo": "4000098212",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 78,
+   "temas": [
+    "Tumores anexiais"
+   ],
+   "enunciado": "Mulher, 26 anos, G2P2, sem métodos contraceptivos, casada, procura Unidade Básica de Saúde referindo dor em baixo ventre quando faz movimentos de agachar e levantar. Exame ginecológico: útero de forma, tamanho e consistência normais, anexo esquerdo não palpável e anexo direito aumentado de volume. Ultrassonogra a transvaginal: ovário direito de 9 x 7 x 6 cm, com cisto simples de 8 x 6 x 6 cm com sombra acústica. Dosagem de CA125 = 98 U/ml. A CONDUTA É:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Laparoscopia para ooforectomia com biópsia de congelação."
+    },
+    {
+     "letra": "B",
+     "texto": "Bloqueio hormonal com antagonista de hormônio liberador de gonadotrofinas."
+    },
+    {
+     "letra": "C",
+     "texto": "Repetir ultrassonografia em 4 a 6 semanas."
+    },
+    {
+     "letra": "D",
+     "texto": "Realizar dosagens séricas de alfa-feto proteína, antígeno carcinoembrionário e fração beta da gonadotrofina coriônica."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000092934",
+   "codigo": "4000092934",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 79,
+   "temas": [
+    "Estadiamento"
+   ],
+   "enunciado": "O fator mais importante que afeta o desfecho de uma paciente com carcinoma de ovário estádio IIIC tratada com cirurgia citorredutora é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Resposta inicial à quimioterapia."
+    },
+    {
+     "letra": "B",
+     "texto": "Tamanho da doença residual."
+    },
+    {
+     "letra": "C",
+     "texto": "Índice de Karnofsky."
+    },
+    {
+     "letra": "D",
+     "texto": "História familiar."
+    },
+    {
+     "letra": "E",
+     "texto": "Nível pré-operatório de CA-125."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000062212",
+   "codigo": "4000062212",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 80,
+   "temas": [
+    "Tumores de céulas germinativas"
+   ],
+   "enunciado": "Paciente de 34 anos de idade, G1 P1 (PV) foi submetida à laparotomia por suspeita clínica de cisto dermoide. Durante a cirurgia, observou-se que o tumor era unilateral, lobulado, sólido-cístico, com cápsula íntegra; não foram observados implantes peritoneais ou líquido livre, sendo realizada, portanto, apenas a salpingooforectomia unilateral e lavado peritoneal. O laudo histopatológico revelou se tratar de um teratoma imaturo grau nuclear 1, com lavado sem células malignas. A conduta a seguir será:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Manter seguimento clínico."
+    },
+    {
+     "letra": "B",
+     "texto": "Complementação com quimioterapia (Qtx)."
+    },
+    {
+     "letra": "C",
+     "texto": "Nova laparotomia para histerectomia total e anexectomia contralateral."
+    },
+    {
+     "letra": "D",
+     "texto": "Nova cirurgia para citorredução completa do câncer de ovário, mais Qtx adjuvante."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000054838",
+   "codigo": "4000054838",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 81,
+   "temas": [
+    "Tumores de céulas germinativas"
+   ],
+   "enunciado": "Os tumores ovarianos primários são classificados pela Organização Mundial da Saúde (OMS) em: 1) tumores do epitélio da superfície ovariana, 2) tumores do estroma/cordão sexual e 3) tumores de células germinativas. Qual dos tumores abaixo NÃO pertence à terceira categoria?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Teratoma;"
+    },
+    {
+     "letra": "B",
+     "texto": "Disgerminoma;"
+    },
+    {
+     "letra": "C",
+     "texto": "Coriocarcinoma;"
+    },
+    {
+     "letra": "D",
+     "texto": "Androblastoma;"
+    },
+    {
+     "letra": "E",
+     "texto": "Tumor do seio endodérmico."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000043521",
+   "codigo": "4000043521",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 82,
+   "temas": [
+    "Padrão de disseminação"
+   ],
+   "enunciado": "A principal via de disseminação do câncer de ovário é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hematogênica."
+    },
+    {
+     "letra": "B",
+     "texto": "Linfático."
+    },
+    {
+     "letra": "C",
+     "texto": "Invasão Paremetrial."
+    },
+    {
+     "letra": "D",
+     "texto": "Disseminação em Cavidade Celômica."
+    },
+    {
+     "letra": "E",
+     "texto": "Hematogênica e Linfática."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000012260",
+   "codigo": "4000012260",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 83,
+   "temas": [
+    "Tratamento",
+    "Câncer de ovário"
+   ],
+   "enunciado": "Mulher de 54 anos de idade vem ao consultório para uma consulta de rotina, assintomática. Exame físico: normal. Exames complementares: citologia oncótica e mamogra a - normais. O exame ultrassonográ co transvaginal, entretanto, mostrou a imagem. (VER IMAGEM) O Doppler mostrou índice de resistência: baixa. A conduta mais adequada para esse caso é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Indicar uma laparotomia exploradora e informá-la da possibilidade de pan- histerectomia."
+    },
+    {
+     "letra": "B",
+     "texto": "Informá-la que os aspectos do exame ultrassonográfico são de suspeita de neoplasia do ovário ou tuba."
+    },
+    {
+     "letra": "C",
+     "texto": "Solicitar exames complementares outros mais esclarecedores, como CA-125, inibina e alfa-fetoproteína"
+    },
+    {
+     "letra": "D",
+     "texto": "Indicar laparoscopia exploradora tendo discutido com ela antes a possibilidade de salpingo-ooforectomia unilateral."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q083-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000004763",
+   "codigo": "4000004763",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 84,
+   "temas": [
+    "Estadiamento"
+   ],
+   "enunciado": "Adriana, 30 anos, foi ao ginecologista com queixa de aumento de volume abdominal. Ao exame físico, o abdome estava distendido com sinal de Piparote positivo e havia massa palpável em região abdominal. Foi solicitado uma ultrassonogra a que evidenciou imagem cística com septações grosseiras, com vascularização e vegetações. O Rx evidenciou nódulos pulmonares e derrame pleural. A tomogra a de crânio observou nódulos cerebrais. A ressonância detectou tumoração volumosa bilateral com metástases hepáticas. De acordo com o estadiamento da FIGO, em qual estágio podemos classificar essa paciente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "IIIa"
+    },
+    {
+     "letra": "B",
+     "texto": "IIIb"
+    },
+    {
+     "letra": "C",
+     "texto": "IIIc"
+    },
+    {
+     "letra": "D",
+     "texto": "IV"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000101419",
+   "codigo": "4000101419",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 85,
+   "temas": [
+    "Tumores anexiais e câncer de ovário"
+   ],
+   "enunciado": "Adolescente com 14 anos de idade apresenta menstruações irregulares desde a menarca aos 12 anos de idade. Nunca teve atividade sexual. Queixava-se de dor em hipogástrio de moderada intensidade, há 4 meses. No exame abdominal palpou-se massa que se estendia da pelve até o nível da cicatriz umbilical. A ultrassonogra a mostrou massa sólida com algumas áreas heterogêneas sugestivas de necrose no interior, aparentemente originária no anexo esquerdo. A dosagem de CA 125 foi de 10 Ul/ml, a de ß-HCG e a alfafetoproteína foram negativos. O diagnóstico e a conduta são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "tumor de células germinativas do ovário - cirurgia conservadora."
+    },
+    {
+     "letra": "B",
+     "texto": "tumor epitelial do ovário - cirurgia radical."
+    },
+    {
+     "letra": "C",
+     "texto": "tumor de estroma ovariano - cirurgia radical."
+    },
+    {
+     "letra": "D",
+     "texto": "tumor epitelial do ovário - quimioterapia."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000113910",
+   "codigo": "4000113910",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores anexiais",
+   "numero": 86,
+   "temas": [
+    "Tumores anexiais"
+   ],
+   "enunciado": "Mulher, 58 anos de idade, menopausa há 9 anos, assintomática, foi atendida em unidade básica de saúde com exame ginecológico normal. O exame de ultrassonogra a, que realizou como voluntária, mostrou: ovário esquerdo com 5 cm de diâmetro, cístico, unilocular e com cápsula lisa. Diante dessa situação: Respostas: 1 12 23 34 45 56 67 78",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o diagnóstico é incerto; a paciente deve ser referida a um serviço secundário para realização de punção guiada por ultrassonografia."
+    },
+    {
+     "letra": "B",
+     "texto": "o risco de malignidade é intermediário; a paciente deve ser referida a um hospital secundário para realização de vídeolaparoscopia."
+    },
+    {
+     "letra": "C",
+     "texto": "o risco de malignidade é elevado; a paciente deve ser referida a um serviço terciário para laparotomia de estadiamento."
+    },
+    {
+     "letra": "D",
+     "texto": "o risco de malignidade é baixo; a paciente deve repetir a avaliação ultrassonográfica em 6 meses e ser reavaliada na unidade básica de saúde."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": []
+}

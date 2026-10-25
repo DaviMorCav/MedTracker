@@ -128,15 +128,9 @@ export const ReviewModal: React.FC<ReviewModalProps> = ({
         </div>
 
         {/* Pergunta de avaliação */}
-        <div className="text-center py-1">
-          <p className="text-sm font-semibold text-slate-200">
-            Como foi lembrar deste conteúdo?
-          </p>
-          <p className="text-xs text-slate-400 mt-0.5">
-            Selecione uma nota para agendar a próxima revisão
-          </p>
-          <p className="hidden md:block text-[11px] text-slate-500 mt-1.5">
-            Atalhos: 1 Errei · 2 Difícil · 3 Bom · 4 Fácil
+        <div className="text-center py-0.5">
+          <p className="text-xs text-slate-400">
+            Qual foi o nível de facilidade ao revisar?
           </p>
         </div>
 
@@ -220,10 +214,9 @@ export const ReviewModal: React.FC<ReviewModalProps> = ({
                 await onToggleMastered(review.lessonId, true);
                 onClose();
               }}
-              className="text-amber-400 hover:text-amber-300 font-medium flex items-center gap-1.5"
+              className="text-amber-400 hover:text-amber-300 font-medium"
             >
-              <span>🏆</span>
-              <span>Marcar como Dominada</span>
+              Marcar como dominada
             </button>
           )}
 

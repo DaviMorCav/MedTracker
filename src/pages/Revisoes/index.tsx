@@ -113,13 +113,8 @@ export const RevisoesPage: React.FC = () => {
   return (
     <div className="py-2 space-y-4 md:max-w-3xl md:mx-auto">
       {/* Cabeçalho */}
-      <div className="flex items-center justify-between">
-        <div>
-          <h1 className="text-xl font-bold text-slate-100">Revisões</h1>
-          <p className="text-xs text-slate-400 mt-0.5">
-            Revisão espaçada por escada fixa [1, 7, 15, 30, 60]
-          </p>
-        </div>
+      <div>
+        <h1 className="text-xl font-bold text-slate-100">Revisões</h1>
       </div>
 
       {/* Notificação de sucesso ao espalhar */}
@@ -204,42 +199,41 @@ export const RevisoesPage: React.FC = () => {
         </button>
       </div>
 
-      {/* Botão Espalhar Atrasadas (visível na aba Atrasadas ou quando há atrasadas) */}
+      {/* Botão Espalhar Atrasadas */}
       {activeView === 'atrasadas' && atrasadasReviews.length > 0 && (
-        <div className="bg-gradient-to-r from-rose-950/40 via-slate-900 to-slate-900 p-4 rounded-xl border border-rose-900/50 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3 shadow-sm">
+        <div className="bg-rose-950/30 p-3.5 rounded-xl border border-rose-900/40 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3">
           <div>
-            <h3 className="text-xs font-bold text-rose-300 flex items-center gap-1.5">
-              <span>⚠️</span>
-              <span>{atrasadasReviews.length} revisões acumuladas</span>
+            <h3 className="text-xs font-bold text-rose-300">
+              {atrasadasReviews.length} revisões acumuladas
             </h3>
             <p className="text-[11px] text-slate-400 mt-0.5">
-              Distribui em rodízio pelos próximos dias sem passar de {settings?.dailyReviewCap || 20} por dia.
+              Redistribui em rodízio respeitando o limite diário de {settings?.dailyReviewCap || 20}.
             </p>
           </div>
 
           <button
             type="button"
             onClick={() => setShowSpreadConfirm(true)}
-            className="py-2 px-4 rounded-lg text-xs font-semibold bg-rose-600 hover:bg-rose-500 text-white shadow-md shadow-rose-950 transition-all shrink-0 active:scale-95"
+            className="py-2 px-3.5 rounded-lg text-xs font-semibold bg-rose-600 hover:bg-rose-500 text-white transition-colors shrink-0"
           >
             Espalhar atrasadas
           </button>
         </div>
       )}
 
-      {/* Lista de Revisões da Visão Ativa (PRD seção 6) */}
+      {/* Lista de Revisões da Visão Ativa */}
       <div className="space-y-2">
         <div className="px-1 flex items-center justify-between text-xs font-semibold uppercase tracking-wider text-slate-400">
           <span>
             {activeView === 'hoje'
-              ? 'Revisões para hoje'
+              ? 'Para hoje'
               : activeView === 'atrasadas'
-              ? 'Revisões atrasadas'
+              ? 'Atrasadas'
               : activeView === 'proximos_7'
-              ? 'Previstas para os próximos 7 dias'
-              : 'Previstas para os próximos 30 dias'}
+              ? 'Próximos 7 dias'
+              : 'Próximos 30 dias'}
           </span>
-          <span>{currentViewList.length} aula(s)</span>
+          <span>{currentViewList.length} aulas</span>
         </div>
 
         {currentViewList.length > 0 ? (

@@ -1,0 +1,579 @@
+{
+ "questoes": [
+  {
+   "id": "4000076030",
+   "codigo": "4000076030",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndrome Hepatorrenal e Síndrome hepatopulmonar",
+   "numero": 1,
+   "temas": [
+    "Síndrome hepatorrenal SHR",
+    "Síndrome Hepatorrenal SHR"
+   ],
+   "enunciado": "Sobre a Síndrome Hepatorrenal (SHR), assinale a alternativa ERRADA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "É diagnosticada por exclusão de outras causas de insuficiência renal."
+    },
+    {
+     "letra": "B",
+     "texto": "Embora de natureza funcional, a SHR está associada ao mau prognóstico, sendo o transplante hepático o único tratamento eficaz. O emprego de vasoconstrictores, como terlipressina e norepinefrina, tem mostrado melhora na função renal em aproximadamente 2/3 dos pacientes com SHR."
+    },
+    {
+     "letra": "C",
+     "texto": "Em fases mais avançadas da doença, os pacientes ficam incapazes de excretar água livre, desenvolvendo sua retenção, hiponatremia dilucional e hipo-osmolaridade."
+    },
+    {
+     "letra": "D",
+     "texto": "O tratamento clínico da SHR é eficaz e o prognóstico é bom."
+    },
+    {
+     "letra": "E",
+     "texto": "A síndrome hepatorrenal tipo 1 é tipicamente associada, pelo menos, à duplicação da creatinina sérica, para um nível superior a 2,5 mg/dl ou pela redução da depuração da creatinina para menos de 20 ml/min em menos de duas semanas."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000073190",
+   "codigo": "4000073190",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndrome Hepatorrenal e Síndrome hepatopulmonar",
+   "numero": 2,
+   "temas": [
+    "Síndrome hepatorrenal SHR",
+    "Síndrome Hepatorrenal SHR"
+   ],
+   "enunciado": "Mulher de 50 anos, portadora de cirrose hepática há 12 meses, é internada por ascite de difícil manejo e confusão mental. Os últimos exames demonstram retenção de escórias nitrogenadas que não havia antes. Os dados que mais sugerem o diagnóstico de síndrome hepatorrenal tipo I são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "resposta ruim à furosemida e à paracentese"
+    },
+    {
+     "letra": "B",
+     "texto": "melhora com a paracentese e não resposta à dopamina"
+    },
+    {
+     "letra": "C",
+     "texto": "insuficiência renal aguda não aligúrica e resposta à infusão albumina"
+    },
+    {
+     "letra": "D",
+     "texto": "sódio urinário abaixo de 10mEq em 24h e não resposta à infusão de albumina"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000067766",
+   "codigo": "4000067766",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndrome Hepatorrenal e Síndrome hepatopulmonar",
+   "numero": 3,
+   "temas": [
+    "Síndrome hepatorrenal SHR",
+    "Síndrome Hepatorrenal SHR",
+    "Encef alopatia hepática"
+   ],
+   "enunciado": "Paciente, com cirrose e neuropatia periférica pelo alcoolismo, apresenta piora da ascite e encefalopatia. A rotina médica aumenta a dose de furosemida e espironolactona, mas há piora da função renal (ureia = 40 → 120 mg/dl e cratinina 0,7 = → 2,5 mg/dl). PA = 100 x 60 mmHg, FC = 90 bpm, enquanto os demais exames mostram Hgb = 11 g/dl, sódio = 136 mEq/L e potássio = 5,0 mEq/L. É iniciada ainda lactulona, obtendo três evacuações/dia, mas não há melhora neurológica. Com relação ao tratamento da ascite nesse cenário clínico, dentre as alternativas a seguir, aponte a conduta mais apropriada.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A associação de albumina e furosemida é a estratégia mais eficaz."
+    },
+    {
+     "letra": "B",
+     "texto": "Há indicação para suspensão dos diuréticos e prova de volume com cristaloide."
+    },
+    {
+     "letra": "C",
+     "texto": "O tratamento é com paracentese e colocação de TIPS."
+    },
+    {
+     "letra": "D",
+     "texto": "Deve-se manter os diuréticos e associar terlipressina."
+    },
+    {
+     "letra": "E",
+     "texto": "Os diuréticos devem ser suspensos e iniciada albumina."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000016228",
+   "codigo": "4000016228",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndrome Hepatorrenal e Síndrome hepatopulmonar",
+   "numero": 4,
+   "temas": [
+    "Síndrome hepatopulmonar SHP"
+   ],
+   "enunciado": "A cirrose hepática, eventualmente, cursa com quadro sindrômicos que comprometem cérebro, pulmão, coração e rins. A platipneia e ortodeoxia são manifestações clínicas de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipertensão portopulmonar;"
+    },
+    {
+     "letra": "B",
+     "texto": "Cardiomiopatia cirrótica;"
+    },
+    {
+     "letra": "C",
+     "texto": "Síndrome hepatopulmonar;"
+    },
+    {
+     "letra": "D",
+     "texto": "Síndrome hepatorrenal;"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000083528",
+   "codigo": "4000083528",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndrome Hepatorrenal e Síndrome hepatopulmonar",
+   "numero": 5,
+   "temas": [
+    "Síndrome hepatorrenal SHR",
+    "Síndrome Hepatorrenal SHR"
+   ],
+   "enunciado": "Quanto à síndrome hepatorenal, assinale a alternativa INCORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A doença é marcada pela oligúria."
+    },
+    {
+     "letra": "B",
+     "texto": "O sódio urinário é baixo."
+    },
+    {
+     "letra": "C",
+     "texto": "A relação urinária/plasmática de creatinina é alta."
+    },
+    {
+     "letra": "D",
+     "texto": "Normalmente os pacientes tem ascite secundária a hepatopatia grave."
+    },
+    {
+     "letra": "E",
+     "texto": "A lesão renal é causada por anticorpo antimembrana basal glomerular."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000051797",
+   "codigo": "4000051797",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndrome Hepatorrenal e Síndrome hepatopulmonar",
+   "numero": 6,
+   "temas": [
+    "Síndrome hepatorrenal SHR",
+    "Síndrome Hepatorrenal SHR",
+    "Encef alopatia hepática"
+   ],
+   "enunciado": "Paciente, 52 anos de idade, alcoólatra crônico com diagnóstico prévio de cirrose hepática Child-Pugh B, chega ao pronto- socorro com história de confusão mental e diminuição da diurese, sem história de sangramento digestivo. Ao exame, apresenta circulação colateral visível em abdome, espaço de Traube ocupado e hálito hepático. Creatinina sérica atual = 1,2 mg/dl. Avaliação do prontuário refere alta há 1 semana após tratamento de peritonite bacteriana com nor oxacin 400 mg/dia contínuo, furosemida 80mg/dia e espironolactona 200 mg/dia, com dosagem de creatinina sérica, no momento da alta, igual a 0,8 mg/dl. Em relação a esse paciente, assinale a alternativa CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Creatinina sérica até 1,3 mg/dl não indica lesão renal em cirróticos."
+    },
+    {
+     "letra": "B",
+     "texto": "Prescrever expansão de volume e suspender uso de diurético."
+    },
+    {
+     "letra": "C",
+     "texto": "Excreção de proteína urinária de 0,75 g/dia sugere necrose tubular aguda."
+    },
+    {
+     "letra": "D",
+     "texto": "Hematúria e presença de cilindros sugerem fortemente síndrome hepatorrenal."
+    },
+    {
+     "letra": "E",
+     "texto": "Suspender o uso de norfloxacin pelo risco de síndrome hepatorrenal."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000043896",
+   "codigo": "4000043896",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndrome Hepatorrenal e Síndrome hepatopulmonar",
+   "numero": 7,
+   "temas": [
+    "Clínica Médica",
+    "Tratamento",
+    "Hepatologia"
+   ],
+   "enunciado": "Um paciente cirrótico vinha em uso de diuréticos para controle da ascite, quando foi detectada a elevação de escórias nitrogenadas: Creatinina 2,1 mg/dl; Ureia 65 mg/dl; Sódio 128 mEq/L; Potássio 5,4 mEq/L. Qual das medidas abaixo NÃO deve ser empregada nesse momento?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Paracentese diagnóstica."
+    },
+    {
+     "letra": "B",
+     "texto": "Reposição de albumina - 1 g/kg/dia por dois dias."
+    },
+    {
+     "letra": "C",
+     "texto": "Suspensão dos diuréticos."
+    },
+    {
+     "letra": "D",
+     "texto": "Restrição hídrica."
+    },
+    {
+     "letra": "E",
+     "texto": "Dosagem do sódio urinário."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000038028",
+   "codigo": "4000038028",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndrome Hepatorrenal e Síndrome hepatopulmonar",
+   "numero": 8,
+   "temas": [
+    "Síndrome hepatorrenal SHR",
+    "Síndrome Hepatorrenal SHR"
+   ],
+   "enunciado": "A respeito da síndrome hepatorrenal, é CORRETO afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tem, como fisiopatologia básica, a disfunção tubular proximal, ocasionada por diminuição da produção de prostaglandina E."
+    },
+    {
+     "letra": "B",
+     "texto": "Deve ser abordada com expansão volumétrica, administração de albumina humana e agentes inotrópicos positivos."
+    },
+    {
+     "letra": "C",
+     "texto": "Deve ser tratada com expansão volumétrica por albumina humana, seguida da administração venosa de furosemida."
+    },
+    {
+     "letra": "D",
+     "texto": "Caracteriza-se por uremia com oligúria e hipertensão arterial reativa à hipoperfusão renal."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000076005",
+   "codigo": "4000076005",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndrome Hepatorrenal e Síndrome hepatopulmonar",
+   "numero": 9,
+   "temas": [
+    "Síndrome hepatopulmonar SHP"
+   ],
+   "enunciado": "Paciente com cirrose alcoólica, classificado como Child-Pugh C, evoluiu com platipneia e ortodeoxia. Qual síndrome de comprometimento orgânico extra-hepática está presente neste caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Encefalopatia hepática."
+    },
+    {
+     "letra": "B",
+     "texto": "Gastropatia hepática."
+    },
+    {
+     "letra": "C",
+     "texto": "Cardiomiopatia cirrótica."
+    },
+    {
+     "letra": "D",
+     "texto": "Síndrome hepatorrenal."
+    },
+    {
+     "letra": "E",
+     "texto": "Síndrome hepatopulmonar."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000067080",
+   "codigo": "4000067080",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndrome Hepatorrenal e Síndrome hepatopulmonar",
+   "numero": 10,
+   "temas": [
+    "Tratamento da síndrome hepatorrenal tipo I",
+    "Hepatologia",
+    "Síndrome hepatorrenal SHR"
+   ],
+   "enunciado": "Uma paciente de 64 anos, portadora de cirrose hepática alcoólica e encefalopatia hepática crônica em uso de espironolactona e lactulona, inicia quadro de ascite, oligúria e elevação de ureia e creatinina, além de sódio urinário de 8 mEq/L, sem proteinúria. De acordo com a principal hipótese diagnóstica, podem ser instituídos os seguintes regimes terapêuticos para essa paciente, EXCETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Furosemida."
+    },
+    {
+     "letra": "B",
+     "texto": "Midodrina."
+    },
+    {
+     "letra": "C",
+     "texto": "Octreotida."
+    },
+    {
+     "letra": "D",
+     "texto": "Albumina."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000051473",
+   "codigo": "4000051473",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndrome Hepatorrenal e Síndrome hepatopulmonar",
+   "numero": 11,
+   "temas": [
+    "Clínica Médica",
+    "Hepatologia",
+    "Síndrome hepatorrenal SHR"
+   ],
+   "enunciado": "É critério diagnóstico da síndrome hepatorrenal a:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ausência de infecção associada."
+    },
+    {
+     "letra": "B",
+     "texto": "Ausência de melhora da creatinina após dois dias de suspensão dos diuréticos e reposição de albumina."
+    },
+    {
+     "letra": "C",
+     "texto": "Presença de proteinúria."
+    },
+    {
+     "letra": "D",
+     "texto": "Sódio urinário abaixo de 40 mEq/24h."
+    },
+    {
+     "letra": "E",
+     "texto": "Sódio urinário abaixo de 40 mEq/24h."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000033601",
+   "codigo": "4000033601",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndrome Hepatorrenal e Síndrome hepatopulmonar",
+   "numero": 12,
+   "temas": [
+    "Síndrome hepatorrenal SHR",
+    "Síndrome Hepatorrenal SHR"
+   ],
+   "enunciado": "Acerca da classificação da Síndrome Hepatorrenal (SHR), pode-se a rmar: I. A SHR tipo I é de instalação lenta e tem prognostico ruim; II. A SHR tipo II é caracterizada por aumento na creatina em duas vezes o valor basal para níveis acima de 2,5 mg/dl em duas semanas; III. A SHR tipo II é a mais comum, apresenta prognóstico melhor em relação ao tipo I, e é associada a ascite refratária.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Somente a afirmativa I está correta."
+    },
+    {
+     "letra": "B",
+     "texto": "Somente a afirmativa II está correta."
+    },
+    {
+     "letra": "C",
+     "texto": "Somente a alternativa III está correta."
+    },
+    {
+     "letra": "D",
+     "texto": "Somente as afirmativas I e III estão corretas."
+    },
+    {
+     "letra": "E",
+     "texto": "Todas as afirmativas estão corretas."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000091861",
+   "codigo": "4000091861",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndrome Hepatorrenal e Síndrome hepatopulmonar",
+   "numero": 13,
+   "temas": [
+    "Síndrome hepatorrenal SHR"
+   ],
+   "enunciado": "São achados diagnósticos comuns da Síndrome Hepatorrenal, EXCETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Proteinúria < 500 mg/dia e ausência de uropatia obstrutiva ou doença parenquimatosa renal na ultrassonografia."
+    },
+    {
+     "letra": "B",
+     "texto": "Ausência de choque ou uso de drogas nefrotóxicas."
+    },
+    {
+     "letra": "C",
+     "texto": "Sódio urinário baixo (< 10 mEq/L)."
+    },
+    {
+     "letra": "D",
+     "texto": "Melhora da função renal com a suspensão do diurético e com a expansão volêmica, em pacientes com ascite."
+    },
+    {
+     "letra": "E",
+     "texto": "Taxa de filtração glomerular reduzida (creatinina sérica > 1,5 mg/dL ou DCE < 40 ml/min)."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000066407",
+   "codigo": "4000066407",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndrome Hepatorrenal e Síndrome hepatopulmonar",
+   "numero": 14,
+   "temas": [
+    "Clínica Médica",
+    "Hepatologia",
+    "Diagnóstico"
+   ],
+   "enunciado": "Em um paciente portador de cirrose hepática e disfunção renal, o dado dentre os a seguir que EXCLUI o diagnóstico de síndrome hepatorrenal é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Proteinúria de 1,5 g/24h."
+    },
+    {
+     "letra": "B",
+     "texto": "Sódio urinário de 10 mEq/L."
+    },
+    {
+     "letra": "C",
+     "texto": "Densidade urinária de 1.020."
+    },
+    {
+     "letra": "D",
+     "texto": "Creatinina sérica de 2,5 mg/dl."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000018980",
+   "codigo": "4000018980",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndrome Hepatorrenal e Síndrome hepatopulmonar",
+   "numero": 15,
+   "temas": [
+    "Síndrome hepatorrenal SHR"
+   ],
+   "enunciado": "São características da síndrome hepatorrenal, EXCETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Histologicamente os rins são normais."
+    },
+    {
+     "letra": "B",
+     "texto": "O uso de análogos de vasopressina associada à albumina tem bons resultados temporariamente."
+    },
+    {
+     "letra": "C",
+     "texto": "Insuficiência hepática com sódio urinário baixo."
+    },
+    {
+     "letra": "D",
+     "texto": "Reversível com transplante hepático."
+    },
+    {
+     "letra": "E",
+     "texto": "Eosinofilia e eosinofilúria."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000019910",
+   "codigo": "4000019910",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndrome Hepatorrenal e Síndrome hepatopulmonar",
+   "numero": 16,
+   "temas": [
+    "Síndrome hepatorrenal SHR",
+    "Síndrome Hepatorrenal SHR"
+   ],
+   "enunciado": "Sobre Síndrome Hepatorrenal (SHR), assinale a alternativa incorreta: Respostas: 1 12",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Trata-se de insuficiência renal funcional com acentuada vasoconstrição intrarrenal."
+    },
+    {
+     "letra": "B",
+     "texto": "Na fisiopatogenia, destacam-se a participação do óxido nítrico, ativação do sistema nervoso simpático e sistema renina-angiotensina-aldosterona."
+    },
+    {
+     "letra": "C",
+     "texto": "O uso de vasoconstritores associados à albumina objetiva melhora o volume circulante efetivo através da redução da vasodilatação periférica e serve como ponte para transplante."
+    },
+    {
+     "letra": "D",
+     "texto": "O uso de substâncias nefrotóxicas e o choque hipovolêmico constituem as principais causas de SHR tipo 1."
+    },
+    {
+     "letra": "E",
+     "texto": "Ausência de proteinúria > 500 mg/dia, ausência de hematúria microscópica e rins morfologicamente normais à ultrassonografia fazem parte dos critérios para diagnóstico de SHR."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": []
+}

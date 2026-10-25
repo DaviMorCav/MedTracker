@@ -1,0 +1,3409 @@
+{
+ "questoes": [
+  {
+   "id": "4000185707",
+   "codigo": "4000185707",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 1,
+   "temas": [
+    "Reposição oral de f erro",
+    "Perf il de f erro na anemia f erropriva",
+    "Quadro clínico da anemia f erropriva"
+   ],
+   "enunciado": "Em relação à anemia por deficiência de ferro, é correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A causa mais importante de anemia ferropriva, em adultos, é a perda crônica de sangue, especialmente, a perda de sangue menstrual e gastrointestinal."
+    },
+    {
+     "letra": "B",
+     "texto": "As alterações na pele e nas mucosas, incluindo uma língua lisa, unhas quebradiças, coiloníquia e queilose são alterações típicas da fase inicial da anemia por deficiência de ferro."
+    },
+    {
+     "letra": "C",
+     "texto": "A ferritina é uma medida das reservas corporais de ferro, de modo que o seu nível, mesmo em estados inflamatórios ou infecciosos, reflete, corretamente, os estoques de ferro do corpo."
+    },
+    {
+     "letra": "D",
+     "texto": "A anisocitose é um achado frequente na anemia ferropriva e antecede a microcitose e a hipocromia."
+    },
+    {
+     "letra": "E",
+     "texto": "Após 2 meses de tratamento com 100mg de ferro elementar via oral, diariamente, a maioria dos pacientes tem a correção total do nível de hematócrito e da hemoglobina, caracterizando o término da reposição de ferro oral."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000183881",
+   "codigo": "4000183881",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 2,
+   "temas": [
+    "Perf il de f erro na anemia f erropriva",
+    "Fisiopatologia da anemia f erropriva"
+   ],
+   "enunciado": "Os estágios da de ciência de ferro são caracterizados pelos fenômenos gradativos de depleção dos estoques, de ciência de ferro sem anemia e de ciência de ferro com anemia. Considerando, respectivamente essas alterações em ordem cronológica, esperase que o comprometimento dos exames laboratoriais se faça na seguinte sequência:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "saturação da transferina – ferritina – hemoglobina."
+    },
+    {
+     "letra": "B",
+     "texto": "VCM e RDW – saturação da transferrina – ferritina."
+    },
+    {
+     "letra": "C",
+     "texto": "ferritina – saturação da transferrina – hemoglobina."
+    },
+    {
+     "letra": "D",
+     "texto": "VCM e RDW – hemoglobina - reticulócitos."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000183407",
+   "codigo": "4000183407",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 3,
+   "temas": [
+    "Coiloníquia"
+   ],
+   "enunciado": "Durante o exame físico de uma paciente de 25 anos, você observa a alteração ungueal apresentada na figura abaixo. Qual dos sintomas/sinais abaixo citados NÃO é relacionado ao achado?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Vontade compulsiva de chupar gelo"
+    },
+    {
+     "letra": "B",
+     "texto": "Disfagia"
+    },
+    {
+     "letra": "C",
+     "texto": "Síndrome das pernas inquietas"
+    },
+    {
+     "letra": "D",
+     "texto": "Coloração avermelhada da urina após ingestão de beterraba"
+    },
+    {
+     "letra": "E",
+     "texto": "Abatiestesia"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [
+    {
+     "arquivo": "imagens/q003-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000183370",
+   "codigo": "4000183370",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 4,
+   "temas": [
+    "Diagnóstico da anemia f erropriva"
+   ],
+   "enunciado": "Paciente do sexo masculino, 1 ano e 7 meses, foi amamentado no peito até os dois meses, recebendo, após esta idade, leite de vaca. Nunca fez uso de ferro complementar e, ao exame físico, apresenta palidez palmar importante. Foi levantada a hipótese diagnóstica de anemia ferropriva e solicitado hemograma. Nesse caso, espera-se encontrar no hemograma:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Macrocitose, hipercromia, ferritina elevada e RDW ("
+    },
+    {
+     "letra": "B",
+     "texto": "Microcitose, hipocromia, ferritina baixa e RDW elevado."
+    },
+    {
+     "letra": "C",
+     "texto": "Microcitose, hipocromia, ferritina baixa e RDW baixo."
+    },
+    {
+     "letra": "D",
+     "texto": "Macrocitose, hipercromia, ferritina elevada e RDW elevado."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000182837",
+   "codigo": "4000182837",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 5,
+   "temas": [
+    "Alterações mucosas Glossite atróf ica e queilite angular"
+   ],
+   "enunciado": "Paciente de 18 anos foi encaminhada ao Ambulatório de Hematologia para investigação de anemia hipoproliferativa devido a microcitose e anisocitose ao hemograma. Diante da hipótese de anemia ferropriva, que alteração do exame físico, dentre as abaixo, poderia corroborar esse diagnóstico?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Lesões cutâneas hipocrômicas"
+    },
+    {
+     "letra": "B",
+     "texto": "Diminuição do reflexo patelar"
+    },
+    {
+     "letra": "C",
+     "texto": "Queilite angular"
+    },
+    {
+     "letra": "D",
+     "texto": "Anel de Kayser-Fleischer"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000182782",
+   "codigo": "4000182782",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 6,
+   "temas": [
+    "Diagnóstico da anemia f erropriva",
+    "Pica"
+   ],
+   "enunciado": "Menino de 2 anos foi trazido à Emergência por sua irmã mais velha (16 anos) por febre baixa e coriza. À admissão, informou ser ela a cuidadora do irmão para que a mãe pudesse trabalhar. Referiu que ele estava com um comportamento estranho: vinha comendo o reboco da parede e a terra que cava presa em seus sapatos. A criança apresentava palidez, temperatura axilar de 37,8° C, hiperemia de orofaringe e sopro sistólico. O restante do exame encontrava-se dentro da normalidade. Com base na história e no exame físico, foi solicitado um hemograma. Assinale a alternativa que contempla o que se esperaria encontrar como resultado.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hemoglobina de 6,5 g/l – VCM de 65 fl – CHCM de 23 pg – RDW de 18%"
+    },
+    {
+     "letra": "B",
+     "texto": "Hemoglobina de 7 g/l – VCM de 80 fl – CHCM de 33 pg – RDW de 15%"
+    },
+    {
+     "letra": "C",
+     "texto": "Hemoglobina de 8 g/l – VCM de 105 fl – CHCM de 30 pg – RDW de 18%"
+    },
+    {
+     "letra": "D",
+     "texto": "Hemoglobina de 12 g/l – VCM de 80 fl – CHCM de 35 pg – RDW de 15%"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000164318",
+   "codigo": "4000164318",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 7,
+   "temas": [
+    "Def inição das síndromes talassêmicas",
+    "Diagnóstico dif erencial das anemias microcíticas"
+   ],
+   "enunciado": "Pré-escolar do sexo masculino, de 4 anos de idade, compareceu a consulta rotina de puericultura. Pais não relatavam queixas clínicas neste atendimento. Descrevem boa alimentação e bom desenvolvimento global. Peso e estatura ambos nos percentis 50 (P50) para idade e gênero. Pediatra observou mucosas levemente descoradas (+/4+) ao exame clínico, e sem outros achados de importância no exame físico. O paciente retorna hoje (1 semana após) para avaliação de resultado de exame hematológico solicitado na consulta prévia. Traz o seguinte laudo de exame hematimétrico: eritrócitos 5,55 milhões/mm³ (VN: 3,6 a 5,2); hemoglobina 10,40 g/dL (VN: 11 a 13,1 g/dL); hematócrito 32,10% ( VN: 35,0 - 43,0%); VCM 57,83 fL (VN: 74,0 a 102,0 fL); HCM 18,73 pg (VN: 23,0 a 31,0 pg); CHCM 32,39 g/dL (VN: 26,0 a 34,0 g/dL) RDW 13,6 % (VN: 11,5 a 14,5%). Série vermelha: microcitose e hipocromia discretas; ausência de anisocitose. Com base nos dados clínicos e laboratoriais apresentados, qual a alternativa que corresponde a melhor conduta a ser adotada para o caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Solicitar exame de eletroforese de hemoglobina."
+    },
+    {
+     "letra": "B",
+     "texto": "Melhorar o aporte de ferro com alimentos ricos em ferro."
+    },
+    {
+     "letra": "C",
+     "texto": "Prescrever ferro elementar (4 mg/k/dia) por 3 meses."
+    },
+    {
+     "letra": "D",
+     "texto": "Pesquisar perda de sangue oculto nas fezes."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163580",
+   "codigo": "4000163580",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 8,
+   "temas": [
+    "Diagnóstico dif erencial das anemias microcíticas",
+    "Talassemias"
+   ],
+   "enunciado": "Pré-escolar, sexo masculino, 4 anos, com história de anemia não responsiva ao sulfato ferroso na dose de 5mg/kg/dia, administrado durante seis meses, meia hora antes das refeições com suco de frutas cítricas. Antecedentes pessoais sem intercorrências. A mãe teve anemia na infância e fez vários tratamentos. História nutricional: leite materno exclusivo até o sexto mês de vida. Atualmente come arroz, feijão, frutas, carne (quatro vezes por semana) e leite integral (três vezes ao dia). Exame físico: paciente pálido, sem outras alterações. Hemograma: Hm: 6.000.000/mm³; Hb: 10,2g/dL; Ht: 30%; VCM: 50fL; HCM: 16pg; CHCM: 22%; RDW: 12%; morfologia da série vermelha: hipocromia e microcitose; leucometria: 7.600/mm³(eos: 2%, basó los: 0%, bastões: 2%, seg: 36%, linf: 58%, mon: 2%) e plaquetas: 300.000/mm³; reticulócitos: 1,5%. Para confirmar a hipótese diagnóstica mais provável, o exame a ser solicitado é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ferritina."
+    },
+    {
+     "letra": "B",
+     "texto": "Mielograma."
+    },
+    {
+     "letra": "C",
+     "texto": "Eletroforese de hemoglobina."
+    },
+    {
+     "letra": "D",
+     "texto": "Curva de fragilidade osmótica."
+    },
+    {
+     "letra": "E",
+     "texto": "Índice de saturação da transferrina."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000151651",
+   "codigo": "4000151651",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 9,
+   "temas": [
+    "Quadro clínico da anemia f erropriva",
+    "Perda crônica de f erro"
+   ],
+   "enunciado": "Homem de 54 anos com relato de sangramento crônico intermitente pelas fezes. Refere estar bem e traz o seguinte hemograma coletado há uma semana da consulta: Hb 6,7 g/dl, Ht 20%, VCM 78 . HCM 23 pg. RDW 20%, Leucócitos totais 5.300/mm³, plaquetas 550.000/mm³. Relata ainda já ter recebido transfusão sanguínea várias vezes, última há 45 dias; nega uso de medicações. Seus sinais vitais eram: PA 130x80 mmHg. FC 62 bpm, SaO2 98% e peso de 75kg. Qual seria o manejo mais adequado dessa anemia?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Indicar transfusão de 1 CH e iniciar reposição de ferro e ácido fólico."
+    },
+    {
+     "letra": "B",
+     "texto": "Indicar transfusão de 2 CH e iniciar reposição de ferro imediatamente."
+    },
+    {
+     "letra": "C",
+     "texto": "Indicar transfusão de 1 CH, solicitar ferrocinética e iniciar reposição de ferro após."
+    },
+    {
+     "letra": "D",
+     "texto": "Contraindicar transfusão, solicitar ferrocinética e iniciar reposição de ferro após."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000145732",
+   "codigo": "4000145732",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 10,
+   "temas": [
+    "Quadro clínico da anemia f erropriva"
+   ],
+   "enunciado": "Qual dos sintomas ou sinais abaixo NÃO ocorre na anemia ferropriva grave?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipertrofia gengival."
+    },
+    {
+     "letra": "B",
+     "texto": "Queilose."
+    },
+    {
+     "letra": "C",
+     "texto": "Coiloníquia."
+    },
+    {
+     "letra": "D",
+     "texto": "Disfagia secundária à Síndrome de Plummer-Vinson."
+    },
+    {
+     "letra": "E",
+     "texto": "Fadiga."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000144614",
+   "codigo": "4000144614",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 11,
+   "temas": [
+    "Fisiopatologia e apresentação da betatalassemia"
+   ],
+   "enunciado": "Um paciente que apresente Hb A2 aumentada na eletroferese, tem forte indicação diagnóstica para:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "anemia falciforme."
+    },
+    {
+     "letra": "B",
+     "texto": "traço falciforme."
+    },
+    {
+     "letra": "C",
+     "texto": "talassemia alfa."
+    },
+    {
+     "letra": "D",
+     "texto": "talassemia beta menor."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000144345",
+   "codigo": "4000144345",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 12,
+   "temas": [
+    "Perf il de f erro na anemia f erropriva",
+    "Diagnóstico dif erencial das anemias microcíticas"
+   ],
+   "enunciado": "Classif icações das anemias Quanto ao diagnostico laboratorial das anemias, o encontro de hemoglobina de 9,0 g/dl, VCM diminuído < 80 e RDW elevado > 14,5 sugere anemia:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Falciforme."
+    },
+    {
+     "letra": "B",
+     "texto": "Ferropriva."
+    },
+    {
+     "letra": "C",
+     "texto": "Aplásica."
+    },
+    {
+     "letra": "D",
+     "texto": "Megaloblástica."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000143837",
+   "codigo": "4000143837",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 13,
+   "temas": [
+    "Pica",
+    "Tratamento da anemia f erropriva"
+   ],
+   "enunciado": "Homem de 21 anos é internado com queixa de fraqueza nos últimos 6 meses. Familiares relatam que nesse período adquiriu o hábito de comer gelo todos os dias. O único achado de exame físico é o descoramento de mucosas. O hemograma mostra hemoglobina de 7,9 g/dL, 8.500 leucócitos/mm3 sendo 40% neutró los, 40% linfócitos e 20% eosinó los. Dentre os abaixo, o volume corpuscular médio (em fL) mais provável e o tratamento mais adequado são, respectivamente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "115, transfusão de concentrado de hemácias e folato."
+    },
+    {
+     "letra": "B",
+     "texto": "75, transfusão de concentrado de hemácias e ferro."
+    },
+    {
+     "letra": "C",
+     "texto": "75, albendazol e ferro."
+    },
+    {
+     "letra": "D",
+     "texto": "75, albendazol e corticoide"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000143207",
+   "codigo": "4000143207",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 14,
+   "temas": [
+    "Anemia f erropriva",
+    "Diagnóstico da anemia f erropriva",
+    "Hematologia"
+   ],
+   "enunciado": "Mulher de 62 anos, com queixa de fadiga, dispneia e intolerância aos exercícios há algumas semanas, nega emagrecimento e uso de medicamentos. No exame físico, apresenta palidez cutâneo-mucosa (++/4+), queilose, sopro sistólico II/VI, audível em todo o precórdio e síndrome das pernas inquietas. Os exames complementares mostram hemoglobina = 9,5g/dL, VCM = 72 , CHCM = 28g/dL, reticulócitos = 2%, ferro sérico = 20mcg/dL (VR = 50-150mcg/dL), capacidade total de ligação do ferro = 450mcg/dL (VR = 250- 370mcg/dL) e ferritina = 14ng/mL. O próximo passo na abordagem da anemia apresentada pela paciente deve ser:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "realizar TC de tórax e abdômen"
+    },
+    {
+     "letra": "B",
+     "texto": "iniciar sulfato ferroso 40mg 3x/dia"
+    },
+    {
+     "letra": "C",
+     "texto": "realizar colonoscopia e endoscopia digestiva alta"
+    },
+    {
+     "letra": "D",
+     "texto": "iniciar ácido fólico 1mg/dia e vitamina B12 1.000U/dia"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000142849",
+   "codigo": "4000142849",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 15,
+   "temas": [
+    "Investigação da etiologia da f erropenia"
+   ],
+   "enunciado": "Um paciente com 55 anos de idade procura a UBS com resultado de exames que mostram o diagnóstico de anemia por deficiência de ferro. Nega a presença de perda sanguínea visível. Nesse caso clínico, o próximo passo a ser seguido é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "prescrever antivermífugo de largo espectro."
+    },
+    {
+     "letra": "B",
+     "texto": "pesquisar sangue oculto nas fezes."
+    },
+    {
+     "letra": "C",
+     "texto": "solicitar uma endoscopia do trato digestivo."
+    },
+    {
+     "letra": "D",
+     "texto": "fazer a reposição de ferro."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000142757",
+   "codigo": "4000142757",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 16,
+   "temas": [
+    "Diagnóstico da anemia f erropriva",
+    "Avaliação laboratorial do f erro"
+   ],
+   "enunciado": "Quais as alterações são comumente encontradas em um paciente com anemia ferropriva?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "VCM baixo e RDW alto."
+    },
+    {
+     "letra": "B",
+     "texto": "VCM baixo e RDW baixo."
+    },
+    {
+     "letra": "C",
+     "texto": "VCM baixo e RDW normal."
+    },
+    {
+     "letra": "D",
+     "texto": "VCM alto e RDW alto."
+    },
+    {
+     "letra": "E",
+     "texto": "VCM alto e RDW baixo."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000141058",
+   "codigo": "4000141058",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 17,
+   "temas": [
+    "Quadro clínico da anemia f erropriva"
+   ],
+   "enunciado": "Menina de 18 meses, previamente hígida, é trazida para a consulta na Unidade Básica de Saúde. A menor era institucionalizada e foi adotada há 2 meses. A mãe adotiva relata que a menor iniciou há 1 mês com quadro de tosse, febre baixa e inapetência e que foi levada a um pronto-socorro, no qual realizaram radiografia de tórax e prescreveram amoxicilina 50 mg/kg/dia, durante 10 dias, para quadro de pneumonia. O antibiótico terminou há 14 dias, porém a criança continua sintomática. Ao exame físico, está em regular estado geral, emagrecida, descorada +/4, levemente taquipneica, sem desconforto respiratório, com frequência cardíaca de 110 bpm e afebril. Apresenta gânglio cervical de 2 cm de diâmetro. Ausculta pulmonar com roncos e estertores subcrepitantes difusos. Ausculta cardíaca e abdome sem alterações. Recebeu as seguintes vacinas, de acordo com a caderneta de vacinação: BCG e hepatite B ao nascimento, 3 doses de pentavalente e VIP com 2, 4 e 6 meses, 2 doses de pneumocócica 10-valente e 2 doses de meningocócica conjugada tipo C com 3 e 5 meses. Exames realizados no início do quadro: radiografia de tórax apresenta condensação em lobo médio e hemograma: Hb = 10,1 g/dL, Ht = 30%, volume corpuscular médio (VCM) = 68 28 g/dL, coe ciente de variação do volume eritrocitário (RDW) = 18%, leucócitos = 10 200 (3% bastonetes, 56% segmentados, 3% eosinófilos, 2% monócitos, 36% linfócitos), plaquetas = 390 000/mm3. Antes da adoção, foram realizadas as sorologias para HIV, sífilis e hepatite C, todas negativas. De acordo com os dados clínicos e hematimétricos, a principal hipótese é de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "anemia falciforme."
+    },
+    {
+     "letra": "B",
+     "texto": "anemia ferropriva."
+    },
+    {
+     "letra": "C",
+     "texto": "anemia hemolítica autoimune."
+    },
+    {
+     "letra": "D",
+     "texto": "anemia associada ao quadro infeccioso."
+    },
+    {
+     "letra": "E",
+     "texto": "leucemia linfoblástica aguda."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000130283",
+   "codigo": "4000130283",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 18,
+   "temas": [
+    "Hematologia",
+    "Talassemias"
+   ],
+   "enunciado": "Homem, 29a, retorna a consulta com exames solicitados por apresentar sonolência às atividades laborais. Antecedentes pessoais: anemia em diversas ocasiões na infância e adolescência, tratada com reposição de ferro, de forma irregular, sem melhora completa. Hemácias= 5,80*10⁹/L; hemoglobina= 10,3g/dL, volume corpuscular médio= 57 fL, RDW= 12,8%; contagem de reticulócitos= 162*10⁹/L; leucócitos= 5,7*10⁹/L (sem alterações no diferencial); plaquetas= 189*10⁹/L; Eletroforese de hemoglobina= HbA= 93,5%, HbA₂= 4,5% e HbF= 2,0%; ferritina= 35 ng/ml e ferro sérico= 65µg/dL. O DIAGNÓSTICO É:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Anemia por deficiência de ferro."
+    },
+    {
+     "letra": "B",
+     "texto": "Anemia da doença crônica."
+    },
+    {
+     "letra": "C",
+     "texto": "Traço talassêmico."
+    },
+    {
+     "letra": "D",
+     "texto": "Traço falciforme."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000127342",
+   "codigo": "4000127342",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 19,
+   "temas": [
+    "Diagnóstico dif erencial das anemias microcíticas",
+    "Talassemias"
+   ],
+   "enunciado": "Paciente masculino, 25 anos, vegetariano, apresenta-se para exame admissional com exames realizados. Traz o seguinte hemograma: Hemácias: 5,3milhões/mm³ (VR: 4,56milhões/mm³) Hb: 11,1g/dL (VR: 13,5-17,5) Ht: 33% (VR: 40-52) VCM: 72fL (VR: 81-99) HCM: 25pg (VR: 30-34) RDW: 13% (VR: 12-14) Leucócitos: 6500/mm³ (VR: 4000-10000) Plaquetas: 452000/mm³ (VR: 150000-450000) – presença de hemácias em alvo. Demais exames sem anormalidades. Nega etilismo. Relata estar assintomático e nega doenças prévias, mas relata que sempre teve alguma alteração em hemogramas anteriores, sendo que nunca lhe foi orientado nenhum tratamento específico. LEGENDA: VR: valor de referência; VCM: volume corpuscular médio; HCM: hemoglobina corpuscular média; RDW: índice de anisocitose. Em relação ao diagnóstico provável para a anemia encontrada, qual exame seria mais específico para confirmação?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Perfil bioquímico do ferro."
+    },
+    {
+     "letra": "B",
+     "texto": "Dosagem de vitamina B12."
+    },
+    {
+     "letra": "C",
+     "texto": "Eletroforese de hemoglobina."
+    },
+    {
+     "letra": "D",
+     "texto": "Mielograma usando corante azul da Prússia."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119059",
+   "codigo": "4000119059",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 20,
+   "temas": [
+    "Perf il de f erro na anemia f erropriva"
+   ],
+   "enunciado": "Considere os índices hematimétricos: VCM (volume corpuscular médio), HCM (hemoglobina corpuscular média), CHCM (con- centração de hemoglobina corpuscular média), RDW (red cell distribution width) e CTLF (capacidade total de ligação de ferro). Na anemia ferropênica, ocorre aumento de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "RDW e CTLF."
+    },
+    {
+     "letra": "B",
+     "texto": "saturação de transferrina e VCM."
+    },
+    {
+     "letra": "C",
+     "texto": "ferritina sérica e RDW."
+    },
+    {
+     "letra": "D",
+     "texto": "CTLF e HCM."
+    },
+    {
+     "letra": "E",
+     "texto": "saturação de transferrina e CHCM."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000118605",
+   "codigo": "4000118605",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 21,
+   "temas": [
+    "Avaliação laboratorial do f erro",
+    "Classif icação das anemias Foco na f erropriva"
+   ],
+   "enunciado": "A anemia ferropriva é um problema de saúde pública mundial de alta prevalência nos países em desenvolvimento. Os achados laboratoriais que sugerem anemia carencial por deficiência de ferro são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "VCM diminuído, ferro sérico e ferritina reduzida."
+    },
+    {
+     "letra": "B",
+     "texto": "VCM elevado, RDW normal, plaquetas diminuídas."
+    },
+    {
+     "letra": "C",
+     "texto": "VCM diminuído, RDW elevado, plaquetopenia."
+    },
+    {
+     "letra": "D",
+     "texto": "VCM normal, ferro sérico baixo, ferritina elevada."
+    },
+    {
+     "letra": "E",
+     "texto": "VCM aumentado, ferritina baixa e reticulócitos aumentados."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000115312",
+   "codigo": "4000115312",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 22,
+   "temas": [
+    "Ref ratariedade ao tratamento da anemia f erropriva"
+   ],
+   "enunciado": "Menina, 1 ano e 2 meses de idade, está em acompanhamento ambulatorial, em tratamento de anemia diagnosticada há 2 meses. No início do tratamento a hemoglobina era 9,7 g/dL. A mãe refere que está oferecendo sulfato ferroso na dose diária de 5 mg de ferro elementar/kg, longe das refeições lácteas, e que está seguindo todas as recomendações dietéticas. Na consulta de hoje foram colhidos novos exames, com os seguintes achados: A criança encontra-se com o exame clínico sem alterações e nega intercorrências desde a última consulta. O exame que provavelmente revelará a causa da persistência da anemia é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Perfil de ferro"
+    },
+    {
+     "letra": "B",
+     "texto": "Dosagem de vitamina B12"
+    },
+    {
+     "letra": "C",
+     "texto": "Pesquisa de anticorpos irregulares"
+    },
+    {
+     "letra": "D",
+     "texto": "Dosagem de hormônios tireoidianos"
+    },
+    {
+     "letra": "E",
+     "texto": "Eletroforese de hemoglobina"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [
+    {
+     "arquivo": "imagens/q022-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000114683",
+   "codigo": "4000114683",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 23,
+   "temas": [
+    "Diagnóstico dif erencial das anemias microcíticas"
+   ],
+   "enunciado": "Em relação às anemias hipocrômicas e microcíticas:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A causa mais comum é deficiência de vitamina B12;"
+    },
+    {
+     "letra": "B",
+     "texto": "Devem ser tratadas com sulfato ferroso;"
+    },
+    {
+     "letra": "C",
+     "texto": "Devem ser investigadas com mielograma;"
+    },
+    {
+     "letra": "D",
+     "texto": "Os principais diagnósticos diferenciais são anemia ferropriva, talassemia e anemia de doença crônica."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000112684",
+   "codigo": "4000112684",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 24,
+   "temas": [
+    "Perf il de f erro na anemia f erropriva",
+    "Diagnóstico dif erencial das anemias microcíticas"
+   ],
+   "enunciado": "Menina, 6 meses, está internada na enfermaria para tratamento de pneumonia, em uso de antibioticoterapia com ampicilina há 3 dias. Está afebril há 12 horas. Ao exame físico: bom estado geral, com palidez cutânea, sem desconforto respiratório, FR 30 ipm. Ausculta pulmonar: murmúrio vesicular diminuído em base a D. Ausculta cardíaca: 2 BRNF sem sopros, FC 150 bpm, pulsos cheios, perfusão 2 segundos. PA 90 x 50 mmHg. Abdome: fígado e baço não palpáveis, RH+. AP: fez o uso de leite materno exclusivo e atualmente está na introdução de papa de frutas e legumes. Hemograma: Hb 8 g/dl, Ht 25%, HCM 18 pg, VCM 50 FI, RDW 20%, GB 10000, neutró los 65% (predomínio de segmentados), linfócitos 30%, monócitos 2%, eosinófilos 3%. Plaquetas 300.000. Qual o melhor exame para elucidar o diagnóstico nesta situação?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "VHS."
+    },
+    {
+     "letra": "B",
+     "texto": "Ferritina."
+    },
+    {
+     "letra": "C",
+     "texto": "Saturação de transferrina."
+    },
+    {
+     "letra": "D",
+     "texto": "Reticulócitos."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000110528",
+   "codigo": "4000110528",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 25,
+   "temas": [
+    "Reposição oral de f erro"
+   ],
+   "enunciado": "Mulher de 75 anos, com quadro de fraqueza progressiva, irritabilidade, intolerância aos exercícios há 1 mês. Relatava já ter realizado tratamento para doença do re uxo gastroesofágico. Ao exame físico encontrava-se em regular estado geral, descorada 3+/4+, hidratada, PA 122 x 72 mmHg, frequência cardíaca 92 bpm. Aparelho respiratório e cardiovascular sem alterações. Abdome sem massas palpáveis. Toque retal sem melena ou sangue em dedo de luva. Exames complementares: Hemograma: hemoglobina: 6,8 g/dL (referência: 12-16); volume corpuscular médio: 78fL (referência: 80-100); leucócitos: 4.550/mm³ (referência: 4.000-10.000), com diferencial normal. plaquetas: 359.000/mm³ (referência: 150.000- 400.000), além de ferropenia. Endoscopia digestiva alta com esofagite erosiva distal e colonoscopia sem alterações. Além do tratamento da doença de base, está indicada (o) inicialmente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "transfusão de 02 concentrados de hemácias."
+    },
+    {
+     "letra": "B",
+     "texto": "administração de hidróxido férrico endovenoso."
+    },
+    {
+     "letra": "C",
+     "texto": "administração de hidróxido férrico intramuscular."
+    },
+    {
+     "letra": "D",
+     "texto": "administração de sulfato ferroso via oral."
+    },
+    {
+     "letra": "E",
+     "texto": "aumento de alimentos ricos em ferro."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000106154",
+   "codigo": "4000106154",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 26,
+   "temas": [
+    "Pica"
+   ],
+   "enunciado": "Pagofagia é tratada habitualmente com",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "sertralina."
+    },
+    {
+     "letra": "B",
+     "texto": "eritropoetina."
+    },
+    {
+     "letra": "C",
+     "texto": "folato."
+    },
+    {
+     "letra": "D",
+     "texto": "ferro."
+    },
+    {
+     "letra": "E",
+     "texto": "cobalamina."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000099546",
+   "codigo": "4000099546",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 27,
+   "temas": [
+    "Tratamento",
+    "Tratamento da anemia f erropriva"
+   ],
+   "enunciado": "Lactente, 11 meses, apresenta-se com mucosas descoradas e palidez cutânea. Está inapetente e com geofagia. Dieta essencialmente láctea e baixa ingesta de alimentação sólida. Hb= 9,5 g/dL Htc= 29%; Reticulócitos= 1,7%; VCM= 62 ; HCM= 22pg; RDW= 18%; Ferritina= 8ng/mg. A CONDUTA É:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Investigar alergia à proteína do leite de vaca."
+    },
+    {
+     "letra": "B",
+     "texto": "Investigar parasitose."
+    },
+    {
+     "letra": "C",
+     "texto": "Solicitar eletroforese de hemoglobina."
+    },
+    {
+     "letra": "D",
+     "texto": "Prescrever sulfato ferroso."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000083516",
+   "codigo": "4000083516",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 28,
+   "temas": [
+    "Reposição oral de f erro",
+    "Tratamento",
+    "Avaliação de resposta ao tratamento da anemia f erropriva"
+   ],
+   "enunciado": "Sobre anemia ferropriva, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O tratamento com gluconato de ferro é superior ao tratamento com sulfato de ferro."
+    },
+    {
+     "letra": "B",
+     "texto": "A resposta ao tratamento geralmente é rápida, e o aumento da hemoglobina começa aser observado 7 a 10 dias após o início do tratamento."
+    },
+    {
+     "letra": "C",
+     "texto": "A resposta ao tratamento geralmente é rápida, e o aumento dos reticulócitos começaa ser observado 14 a 18 dias após início do tratamento."
+    },
+    {
+     "letra": "D",
+     "texto": "A resposta ao tratamento geralmente é rápida, e os pacientes apresentam normalização da hemoglobina 14 a 21 dias após o início do tratamento. ida oib pr ed"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000080427",
+   "codigo": "4000080427",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 29,
+   "temas": [
+    "Anemia f erropriva na inf ância",
+    "Perf il de f erro na anemia f erropriva",
+    "Avaliação laboratorial do f erro"
+   ],
+   "enunciado": "Menino com 6 anos de idade apresenta astenia e palidez. Sua mãe, em razão disso, resolve levá-lo ao pediatra e refere que ele sempre está com sono. Ao exame físico, o pediatra observou palidez sem visceromegalias. Segundo a mãe, não tem história familiar de anemia, e sua alimentação é pobre em proteínas e verduras, mas rica em carboidratos. Os resultados de seus exames laboratoriais foram: Hb 6,5 g/dl, VCM 64 fL, leucócitos 5600/mm³, plaquetas 650.000/mm³, índice de saturação da transferrina 7%, ferritina 8 ng/ml. Com base nesse quadro, o diagnóstico provável e o tratamento adequado são, respectivamente,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "talassemia e concentrado de hemácias 10 ml/kg."
+    },
+    {
+     "letra": "B",
+     "texto": "anemia ferropriva e concentrado de hemácias 10 ml/kg."
+    },
+    {
+     "letra": "C",
+     "texto": "anemia ferropriva e sulfato ferroso 4 mg/kg/dia."
+    },
+    {
+     "letra": "D",
+     "texto": "microesferocitos e ácido fólico 5 mg/dia."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000079437",
+   "codigo": "4000079437",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 30,
+   "temas": [
+    "Diagnóstico dif erencial das anemias microcíticas"
+   ],
+   "enunciado": "Ana Maria, 50 anos, apresenta um hemograma que mostra microcitose e hipocromia de leve a moderada com o RDW normal. Com base nestas informações podemos afirmar que este exame é compatível com:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Anemia encontrada em estados inflamatórios e infecciosos crônicos."
+    },
+    {
+     "letra": "B",
+     "texto": "Anemia ferropriva."
+    },
+    {
+     "letra": "C",
+     "texto": "Anemia por deficiência de vitamina B12."
+    },
+    {
+     "letra": "D",
+     "texto": "Anemia por deficiência de ácido fólico."
+    },
+    {
+     "letra": "E",
+     "texto": "Nenhuma das alternativas anteriores."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000076622",
+   "codigo": "4000076622",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 31,
+   "temas": [
+    "Diagnóstico da anemia de doença crônica",
+    "Hematologia"
+   ],
+   "enunciado": "Diagnóstico dif erencial das anemias microcíticas Mulher negra de 26 anos procura atendimento com queixa de fraqueza e desânimo há algumas semanas com piora progressiva. Relata febre e emagrecimento. O exame físico mostra mucosas descoradas 2+/4+, sem outras alterações. Exames laboratoriais revelam hemoglobina = 7,8g/dL; hematócrito = 22%, VCM = 77fL, CHCM = 25pg, leucócitos = 10.500/mm³ , plaquetas = 550.000/mm³ , reticulócitos = 3,0%, ferro sérico = 30µg/dL (normal de 35 a 150µg/dL) e capacidade de ligação do ferro = 200µg/dL (normal de 220 a 420µg/dL). A classificação e a causa da anemia microcítica, respectivamente, são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "normocrômica / anemia falciforme"
+    },
+    {
+     "letra": "B",
+     "texto": "hipocrômica / anemia de doença crônica"
+    },
+    {
+     "letra": "C",
+     "texto": "hipocrômica / anemia por deficiência de ferro"
+    },
+    {
+     "letra": "D",
+     "texto": "normocrômica / anemia por deficiência de eritropoietina"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000050818",
+   "codigo": "4000050818",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 32,
+   "temas": [
+    "Diagnóstico dif erencial das anemias microcíticas"
+   ],
+   "enunciado": "Anemia hipocrômica e microcítica é uma definição laboratorial que engloba todas as anemias caracterizadas por hemácias pequenas e com baixo conteúdo de hemoglobina resultante de baixa síntese. Assinale a alternativa CORRETA sobre o tema:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A causa mais comum é a deficiência de ferro, condição adquirida e prevalente globalmente. Devido a sua alta incidência e prevalência a reposição de ferro deve ser feita empiricamente sem a necessidade de demais investigações."
+    },
+    {
+     "letra": "B",
+     "texto": "A causa mais comum é a deficiência de ferro, condição adquirida e prevalente globalmente. A deficiência de ferro deve ser documentada laboratorialmente para evitar-se a reposição inadequada de ferro em pacientes com talassemias ou anemia de doença crônica."
+    },
+    {
+     "letra": "C",
+     "texto": "Talassemias são doenças adquiridas e são um importante diagnóstico diferencial das anemias hipocrômicas e microcíticas."
+    },
+    {
+     "letra": "D",
+     "texto": "A causa mais comum são as Talassemias, condições hereditárias caracterizadas pela deficiência ou ausência da produção das cadeias globinas da hemoglobina."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000048378",
+   "codigo": "4000048378",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 33,
+   "temas": [
+    "Perf il de f erro na anemia f erropriva",
+    "Quadro clínico da anemia f erropriva"
+   ],
+   "enunciado": "Valentina, 25 anos, sem comorbidades, procura consulta médica por apresentar quadro de astenia e palidez com evolução há alguns meses. Possui um hábito alimentar irregular, com dieta rica em carboidratos e produtos industrializados. Refere que possui ciclos menstruais regulares e nega sangramentos excessivos. Seu Hemograma revela uma Hemoglobina de 8,1g/dl, VG de 25%, VCM de 70fL, HCM de 22,6pg, CHCM de 31,9g/dl e RDW de 15,5%, Ferritina de 8ng/ml. Das opções a seguir, a investigação mais adequada para essa paciente é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "solicitar eletroforese de hemoglobinas."
+    },
+    {
+     "letra": "B",
+     "texto": "investigar perda de sangue pelo trato gastrointestinal, sendo o exame de escolha a pesquisa de sangue oculto nas fezes."
+    },
+    {
+     "letra": "C",
+     "texto": "indicar investigação complementar caso a paciente não apresente melhora após 3 meses de terapia com reposição de ferro."
+    },
+    {
+     "letra": "D",
+     "texto": "solicitar tomografia de abdome para rastreio de câncer colorretal."
+    },
+    {
+     "letra": "E",
+     "texto": "investigar doença celíaca."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000048340",
+   "codigo": "4000048340",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 34,
+   "temas": [
+    "Perf il de f erro na anemia f erropriva",
+    "Quadro clínico da anemia f erropriva"
+   ],
+   "enunciado": "Maria Eduarda, 25 anos, sem comorbidades, procura consulta médica por apresentar quadro de astenia e palidez com evolução há alguns meses. Possui um hábito alimentar irregular, com dieta rica em carboidratos e produtos industrializados. Refere que possui ciclos menstruais regulares e nega sangramentos excessivos. Seu hemograma revela uma Hemoglobina de 8,1g/dl, VG de 25%, VCM de 70fL, HCM de 22,6pg, CHCM de 31,9g/dl e RDW de 15,5% Ferritina de 8ng/ml. O diagnóstico mais provável e a melhor terapia inicial para essa paciente é, respectivamente,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "anemia hipocrômica microcítica por deficiência de ferro, reposição de ferro parenteral."
+    },
+    {
+     "letra": "B",
+     "texto": "anemia hipocrômica microcítica por deficiência de ferro, reposição de ferro oral."
+    },
+    {
+     "letra": "C",
+     "texto": "anemia hipocrômica normocítica por deficiência de ferro, ajuste alimentar sem reposição exógena de ferro."
+    },
+    {
+     "letra": "D",
+     "texto": "anemia normocrômica normocítica por deficiência de ferro, reposição de ferro oral."
+    },
+    {
+     "letra": "E",
+     "texto": "anemia hipocrômica microcítica por deficiência talassemia minor, não está indicado tratamento específico."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000040911",
+   "codigo": "4000040911",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 35,
+   "temas": [
+    "Diagnóstico dif erencial das anemias microcíticas"
+   ],
+   "enunciado": "Assinale a alternativa que indica uma causa de anemia microcítica.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Insuficiência renal crônica"
+    },
+    {
+     "letra": "B",
+     "texto": "Deficiência de Vitamina B12"
+    },
+    {
+     "letra": "C",
+     "texto": "Talassemia"
+    },
+    {
+     "letra": "D",
+     "texto": "Hemorragia aguda"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000039352",
+   "codigo": "4000039352",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 36,
+   "temas": [
+    "Perf il de f erro na anemia f erropriva"
+   ],
+   "enunciado": "Paciente com astenia em investigação com hematologista, traz consigo exames que revelam: Hb 10mg/dl, VCM 65fL, HCM 25pg, RDW 20%, ácido fólico 5.0ng/ml; vitamina B12 200pg/ml, Ferro 30mcg/dl, IST 15% e Ferritina 18ng/ml. TIBC 600mcg/dl. Reticulócito 0.1%. Valores de referência: Hb 13.5-19.6g/dl; VCM 77-101Fl, HCM 28-33 pg; RDW 11.5- 14.5%; ácido fólico >3.37ng/ml; vitamina B12 300-900pg/ml; Ferro 50-170 mcg/dl; IST 20- 50%; Ferritina 23-336ng/ml; TIBC 250- 425mcg/dl. Reticulócito 0.5-2.1%. O provável diagnóstico é anemia",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "ferropriva."
+    },
+    {
+     "letra": "B",
+     "texto": "de doença crônica."
+    },
+    {
+     "letra": "C",
+     "texto": "Megaloblástica."
+    },
+    {
+     "letra": "D",
+     "texto": "hemolítica."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000033268",
+   "codigo": "4000033268",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 37,
+   "temas": [
+    "Diagnóstico da anemia f erropriva"
+   ],
+   "enunciado": "No estado carencial de ferro é comum o seguinte achado no hemograma:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Neutropenia."
+    },
+    {
+     "letra": "B",
+     "texto": "Trombocitose."
+    },
+    {
+     "letra": "C",
+     "texto": "Aumento do volume corpuscular médio das hemácias (VCM)."
+    },
+    {
+     "letra": "D",
+     "texto": "Diminuição do RDW (amplitude de distribuição dos eritrócitos)."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000028046",
+   "codigo": "4000028046",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 38,
+   "temas": [
+    "Avaliação de resposta ao tratamento da anemia f erropriva"
+   ],
+   "enunciado": "Quanto ao tratamento da anemia ferropriva, em geral em quanto tempo após o início do tratamento a contagem de reticulócitos deve começar a aumentar? MARQUE A CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1 a 2 dias."
+    },
+    {
+     "letra": "B",
+     "texto": "4 a 7 dias."
+    },
+    {
+     "letra": "C",
+     "texto": "7 a 14 dias."
+    },
+    {
+     "letra": "D",
+     "texto": "2 a 4 semanas."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000027754",
+   "codigo": "4000027754",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 39,
+   "temas": [
+    "Síndrome das Pernas Inquietas",
+    "Quadro clínico da anemia f erropriva"
+   ],
+   "enunciado": "Qual das alterações hematológicas abaixo está mais relacionada à síndrome das pernas inquietas?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Anemia ferropriva"
+    },
+    {
+     "letra": "B",
+     "texto": "Anemia megaloblástica por deficiência de vitamina B12"
+    },
+    {
+     "letra": "C",
+     "texto": "Anemia megaloblástica por deficiência de folato"
+    },
+    {
+     "letra": "D",
+     "texto": "Mieloma múltiplo"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000023807",
+   "codigo": "4000023807",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 40,
+   "temas": [
+    "Betatalassemia menor ou traço betatalassêmico"
+   ],
+   "enunciado": "Paciente 25 anos, sexo feminino, assintomática , encaminhada para hematologista por alterações em exames pré- operatórios de abdominoplastia. O hematologista completou a investigação diagnóstica com os achados descritos abaixo. Hemograma: Hb 10mg/dl, VCM 25pg, RDC 20%; Eletroforese de Hemoglobina: Hemoglobina A1 - 93%; Hemoglobina A2 - 68% e Hemoglobina Fetal - 0,2% (imagem ao lado); Valores de referência; Hemograma: Hb 13.5-19.6g/dl; VCM 77-101FI; HCM 28-33 pg; RDW 11.5-14.5; Eletroforese de Hemoglobina: Hemoglobina A1 - >= 96,8%; Hemoglobina A2 - entre 2,2 e 3,2% e Hemoglobina Fetal - <0,5%. Baseado apenas nos resultados acima descritos, é possível firmar o diagnóstico de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Beta talassemia maior."
+    },
+    {
+     "letra": "B",
+     "texto": "Beta talassemia menor."
+    },
+    {
+     "letra": "C",
+     "texto": "Alfa talassemia."
+    },
+    {
+     "letra": "D",
+     "texto": "Anemia ferropriva."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q040-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000018421",
+   "codigo": "4000018421",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 41,
+   "temas": [
+    "Diagnóstico da anemia f erropriva"
+   ],
+   "enunciado": "Não corresponde à anemia ferropriva o seguinte achado:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Volume corpuscular médio baixo."
+    },
+    {
+     "letra": "B",
+     "texto": "Ferritina baixa."
+    },
+    {
+     "letra": "C",
+     "texto": "Capacidade total de ligação do ferro baixo."
+    },
+    {
+     "letra": "D",
+     "texto": "Ferro sérico baixo."
+    },
+    {
+     "letra": "E",
+     "texto": "Hemoglobina corpuscular média baixa."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000006364",
+   "codigo": "4000006364",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 42,
+   "temas": [
+    "Reposição oral de f erro"
+   ],
+   "enunciado": "A anemia ferropriva permanece como uma das de ciências nutricionais mais frequentes e importantes no mundo. O tratamento com ferro deve ser iniciado preferencialmente por via oral e a investigação apropriada de sua causa é obrigatória. Sobre o tratamento da anemia ferropriva, assinale a alternativa INCORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A dose terapêutica de ferro elementar recomendada para o tratamento da anemia ferropriva é de 10 mg a 20 mg/kg/dia, não ultrapassando 100 mg/dia nos adultos."
+    },
+    {
+     "letra": "B",
+     "texto": "O ferro é mais bem absorvido no duodeno e no jejuno proximal, onde as proteínas carreadoras do ferro expressam-se mais fortemente."
+    },
+    {
+     "letra": "C",
+     "texto": "Os sais de ferro não devem ser administrados com as refeições, porque os farelos, fitatos (fórmulas infantis, ervilha, feijão e taninos (vinho, chocolate, nozes, canela da dieta se ligam ao ferro e dificultam a sua absorção."
+    },
+    {
+     "letra": "D",
+     "texto": "O ferro é também mais bem absorvido como sal ferroso (Fe++ num ambiente levemente ácido; daí a indicação de tomá-lo com meio copo de suco de laranja."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000118764",
+   "codigo": "4000118764",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 43,
+   "temas": [
+    "Investigação da etiologia da f erropenia"
+   ],
+   "enunciado": "Ernestina, 84 anos, admitida via Pronto Socorro do Hospital Cajuru para xação de fratura do colo do fêmur à esquerda. História prévia de: - Hipertensão, em uso domiciliar de Losartana 50mg, 2 vezes ao dia e Hidroclorotiazida 25mg ao dia. - Diabetes mellitus tipo 2, em uso domiciliar de Linagliptina 5mg ao dia e Metformina 2g ao dia. - Dislipidemia, com história de doença arterial coronariana e infarto do miocárdio, fazendo uso de Atorvastatina 40mg ao dia e Ácido Acetil Salicílico 81mg ao dia. - Insônia, em uso de Amitriptilina 75mg à noite, além de Bromazepan 3mg. Além desses medicamentos, faz uso habitual de Omeprazol 40 mg pela manhã e Nimesulida 100mg a cada 8h por “queimação nas pernas”. Exames Laboratoriais na admissão mostram Hb de 8,8, VCM de 70 fL, leucócitos de 5200 por mm³, com diferencial normal, plaquetas de 540.000 por mm³, potássio de 4,5 mEq por L, sódio de 135 mEq por L, creatinina de 2,0mg por dL, uréia de 120 mg por dL, glicemia com jejum de 240mg por dL. O Eletrocardiograma revela ritmo sinusal, com frequência cardíaca de 88 bpm, sem sinais de bloqueios ou arritmias. A radiogra a de tórax mostra área cardíaca aumentada, sem sinais de apagamento dos seios costofrênicos e parênquima pulmonar sem alterações. Sobre o caso clínico apresentado, assinale CERTO para verdadeiro e ERRADO para falso para a afirmação a seguir: Ao analisarmos o hemograma da paciente observamos quadro de anemia microcítica com trombocitose, que deve ser melhor investigada posteriormente, pois pode indicar hemorragia digestiva oculta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000117576",
+   "codigo": "4000117576",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 44,
+   "temas": [
+    "Anemia sideroblástica adquirida"
+   ],
+   "enunciado": "Anemia sideroblástica será vista com maior probabilidade num paciente com a seguinte história:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Infestação por Diphyllobothrium latum."
+    },
+    {
+     "letra": "B",
+     "texto": "Tuberculose em tratamento com isoniazida + rifampicina + pirazinamida + etambutol."
+    },
+    {
+     "letra": "C",
+     "texto": "Submetido a cirugia redutora de estômago por obesidade"
+    },
+    {
+     "letra": "D",
+     "texto": "Alimentação vegana."
+    },
+    {
+     "letra": "E",
+     "texto": "Passado de ressecção ileal."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000115066",
+   "codigo": "4000115066",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 45,
+   "temas": [
+    "Tratamento da anemia f erropriva"
+   ],
+   "enunciado": "Mulher de 45 anos apresentando quadro de hipermenorreia associada à miomatose uterina, com indicação de histerectomia, foi encaminhada ao clínico, após exames préoperatórios mostrarem anemia com hemoglobina de 7,4 g/dl, volume corpuscular médio de 69 (80-100); hemoglobina corpuscular média de 24 pg (26-34) e índice de anisocitose de 19% (11,5-14,5). Foi solicitada melhora do quadro anêmico para agendamento cirúrgico eletivo. Nesse caso, qual a conduta CORRETA?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Encaminhar ao hematologista para a realização de mielograma, a fim de obter diagnóstico definitivo antes de tratamento."
+    },
+    {
+     "letra": "B",
+     "texto": "Transfundir concentrado de hemácias até hemoglobina > 12 g/dl e ferritina >200."
+    },
+    {
+     "letra": "C",
+     "texto": "Iniciar reposição de sulfato ferroso 300 mg, uma vez ao dia, até um dia antes do procedimento cirúrgico."
+    },
+    {
+     "letra": "D",
+     "texto": "Reposição de ferro, vitamina B12 e ácido fólico em conjunto, para melhora mais rápidado quadro."
+    },
+    {
+     "letra": "E",
+     "texto": "Reposição de ferro via oral e/ou endovenosa, a depender da quantidade de perdaatual de sangue e do tempo hábil para a realização do procedimento cirúrgico."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000115043",
+   "codigo": "4000115043",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 46,
+   "temas": [
+    "Diagnóstico dif erencial das anemias microcíticas",
+    "Quadro clínico da anemia de doença crônica"
+   ],
+   "enunciado": "Paciente de 62 anos, portadora de artrite reumatoide, atualmente sem seguimento clínico, queixa-se de dores articulares acompanhadas de edema local, além de deformidades articulares. Nega outras patologias associadas, em uso apenas de paracetamol. Nos exames iniciais: hemoglobina 10,7 g/dl; VCM: 85 ; HCM: 29 pg; RDW: 12%; creatinina 0,4 mg/dl, proteína C reativa aumentada. Nesse caso, quanto à causa e ao tratamento mais prováveis para a anemia, é CORRETO afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Anemia relacionada à inflamação responde ao tratamento e ao controle da doença debase."
+    },
+    {
+     "letra": "B",
+     "texto": "Anemia ferropriva, nesses casos, deve ser tratada com reposição endovenosa, devido amelhor resposta."
+    },
+    {
+     "letra": "C",
+     "texto": "A dosagem de hepcidina é imprescindível para diagnóstico de anemia relacionada àinflamação."
+    },
+    {
+     "letra": "D",
+     "texto": "O perfil de ferro com ferritina < 500 afasta anemia de doença crônica/inflamatória."
+    },
+    {
+     "letra": "E",
+     "texto": "A reposição de vitamina B12 e de ferro sempre deve ser feita como teste terapêuticonesses casos."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000114940",
+   "codigo": "4000114940",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 47,
+   "temas": [
+    "Talassemias"
+   ],
+   "enunciado": "Assinale a alternativa que apresenta os resultados laboratoriais mais comumente encontrados em um paciente portador de traço talassêmico",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Anemia microcítica com coeficiente de variação de hemácias (RDW) normal."
+    },
+    {
+     "letra": "B",
+     "texto": "Anemia microcítica com coeficiente de variação de hemácias (RDW) aumentado."
+    },
+    {
+     "letra": "C",
+     "texto": "Anemia macrocítica com coeficiente de variação de hemácias (RDW) normal."
+    },
+    {
+     "letra": "D",
+     "texto": "Anemia macrocítica com coeficiente de variação de hemácias (RDW) aumentado."
+    },
+    {
+     "letra": "E",
+     "texto": "Anemia normocítica e normocrômica com reticulócitos aumentados."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000113805",
+   "codigo": "4000113805",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 48,
+   "temas": [
+    "Perf il de f erro na anemia f erropriva",
+    "Classif icação das anemias Foco na f erropriva"
+   ],
+   "enunciado": "Dentre os exames laboratoriais listados abaixo, qual o primeiro a se alterar em um paciente cuja dieta é pobre em ferro?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ferritina"
+    },
+    {
+     "letra": "B",
+     "texto": "Concentração de hemoglobina corpuscular média"
+    },
+    {
+     "letra": "C",
+     "texto": "Hemoglobina"
+    },
+    {
+     "letra": "D",
+     "texto": "Volume corpuscular médio"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000108204",
+   "codigo": "4000108204",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 49,
+   "temas": [
+    "Diagnóstico da anemia f erropriva"
+   ],
+   "enunciado": "A deficiência de ferro representa a causa mais comum de anemia. Ao diagnóstico laboratorial observa-se:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hemograma com anemia macrocítica e hipocrômica."
+    },
+    {
+     "letra": "B",
+     "texto": "Ferritina < 30 ng%."
+    },
+    {
+     "letra": "C",
+     "texto": "Ferro sérico< 30 mcg%, o que denota baixo estoque."
+    },
+    {
+     "letra": "D",
+     "texto": "Capacidade de ligação ao ferro (TBIC) baixa. ida oib pr ed"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000101310",
+   "codigo": "4000101310",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 50,
+   "temas": [
+    "Perf il de f erro na anemia f erropriva"
+   ],
+   "enunciado": "A de ciência de ferro é uma das formas mais prevalentes de má nutrição. Globalmente, 50% das anemias são atribuíveis à deficiência de ferro. Em relação às anemias ferroprivas, é CORRETO afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A TBIC é o teste laboratorial mais conveniente para estimar as reservas de ferro."
+    },
+    {
+     "letra": "B",
+     "texto": "Quando a saturação da transferrina cai para 15 a 20%, a síntese de hemoglobina é afetada."
+    },
+    {
+     "letra": "C",
+     "texto": "O tratamento deve ser feito com ferro oral administrado com as refeições."
+    },
+    {
+     "letra": "D",
+     "texto": "O índice de anisocitose geralmente está diminuído na deficiência de ferro."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000098547",
+   "codigo": "4000098547",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 51,
+   "temas": [
+    "Def inição das síndromes talassêmicas",
+    "Perf il de f erro na anemia f erropriva"
+   ],
+   "enunciado": "Avaliação laboratorial do f erro Sobre anemias: I. Na anemia ferropriva o TIBIC está elevado e a ferritina baixa. II. Na anemia de doença crônica, como na insuficiência renal, o TIBIC está elevado. III. O índice de saturação da ferritina está baixo na anemia ferropriva. IV. A talassemia é uma das causas de anemia megaloblástica. V. Nas anemias megaloblásticas o TIBIC está normal. São verdadeiras as seguintes opções:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I, III e V."
+    },
+    {
+     "letra": "B",
+     "texto": "I, II e V."
+    },
+    {
+     "letra": "C",
+     "texto": "Todas as opções."
+    },
+    {
+     "letra": "D",
+     "texto": "I, III, IV."
+    },
+    {
+     "letra": "E",
+     "texto": "II, IV e V."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000098095",
+   "codigo": "4000098095",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 52,
+   "temas": [
+    "Diagnóstico dif erencial das anemias microcíticas",
+    "Betatalassemia menor ou traço betatalassêmico"
+   ],
+   "enunciado": "Mulher, 21a, G1P0C0A0, com idade gestacional de 10 semanas, retorna para resultados de exames. Antecedentes pessoais: anemia desde a infância. Hb = 10,5g/dl; Ht= 31,7%; VCM= 61 ; HCM= 20 pg; RBC = 5,16 milhões; Eletroforese de hemoglobina: HbA= 92%; HbF= 2%; HbA2= 6%; Ferritina = 20 mcg/dl e ferro sérico = 95 mcg/dl. A CONDUTA É:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Sulfato ferroso em dose terapêutica."
+    },
+    {
+     "letra": "B",
+     "texto": "Vitamina B12"
+    },
+    {
+     "letra": "C",
+     "texto": "Exsanguineotransfusão."
+    },
+    {
+     "letra": "D",
+     "texto": "Aconselhamento genético."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000091297",
+   "codigo": "4000091297",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 53,
+   "temas": [
+    "Cápsula Endoscópica",
+    "Anemia f erropriva",
+    "Endoscopia Digestiva Alta EDA"
+   ],
+   "enunciado": "Jovem de 23 anos, professora de creche, refere não ter mais “energia” para lidar com as crianças. Além disso, vem sentindo importante cansaço para as atividades físicas que costumava fazer. Ao exame, parece hipocorada, tireoide palpável e tópica. Após o resultado de exames laboratoriais, identi cada uma anemia. A cinética de ferro mostrava: ferritina 12, saturação de transferrina 8%. Diante do caso, assinale a sequência de exames mais indicada para investigação diagnóstica.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cápsula endoscópica, colonoscopia, tomografia."
+    },
+    {
+     "letra": "B",
+     "texto": "Colonoscopia, endoscopia, cápsula endoscópica."
+    },
+    {
+     "letra": "C",
+     "texto": "Colonoscopia, endoscopia, tomografia."
+    },
+    {
+     "letra": "D",
+     "texto": "Endoscopia, colonoscopia, tomografia."
+    },
+    {
+     "letra": "E",
+     "texto": "Endoscopia, colonoscopia, cápsula endoscópica."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000077840",
+   "codigo": "4000077840",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 54,
+   "temas": [
+    "Avaliação laboratorial do f erro"
+   ],
+   "enunciado": "A proteína mais importante para o transporte de ferro no plasma é a:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "ferritina"
+    },
+    {
+     "letra": "B",
+     "texto": "haptoglobina"
+    },
+    {
+     "letra": "C",
+     "texto": "transferrina"
+    },
+    {
+     "letra": "D",
+     "texto": "albumina"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000073105",
+   "codigo": "4000073105",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 55,
+   "temas": [
+    "Perf il de f erro na anemia f erropriva",
+    "Avaliação de resposta ao tratamento da anemia f erropriva"
+   ],
+   "enunciado": "Mulher de 25 anos procura médico por cansaço. Está hipocorada com hemoglobina = 9,9g/dL, VGM = 72 , HGM = 23pg, RDW = 16,5 e ferritina = 6,0 solicitando:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "ferritina"
+    },
+    {
+     "letra": "B",
+     "texto": "ferro sérico"
+    },
+    {
+     "letra": "C",
+     "texto": "reticulócitos"
+    },
+    {
+     "letra": "D",
+     "texto": "hemoglobina"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000067389",
+   "codigo": "4000067389",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 59,
+   "temas": [
+    "Perf il de f erro na anemia de doença crônica"
+   ],
+   "enunciado": "Ao avaliar um hemograma, você encontra os seguintes parâmetros: anemia leve normocítica, com VCM = 85 f/L, ferritina sérica = 97ug/L, TIBC = 200 ug/dl e saturação da transferrina = 15%. Qual o diagnóstico mais provável?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Anemia por deficiência de ferro."
+    },
+    {
+     "letra": "B",
+     "texto": "Anemia por deficiência de folato."
+    },
+    {
+     "letra": "C",
+     "texto": "Anemia pelo processo inflamatório."
+    },
+    {
+     "letra": "D",
+     "texto": "Anemia gestacional."
+    },
+    {
+     "letra": "E",
+     "texto": "Talassemia."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000055997",
+   "codigo": "4000055997",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 60,
+   "temas": [
+    "Diagnóstico dif erencial das anemias microcíticas",
+    "Classif icação morf ológica das anemias"
+   ],
+   "enunciado": "Em ambulatório de atenção básica você recebe paciente para investigação de anemia com per l microcítico. Considere a alternativa incorreta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A anemia ferropriva é a causa mais comum de anemia na população geral"
+    },
+    {
+     "letra": "B",
+     "texto": "Talassemia minor é diagnóstico diferencial de anemia microcítica"
+    },
+    {
+     "letra": "C",
+     "texto": "Anemia por deficiência de Vitamina B12 apresenta-se, em geral com macrocitose"
+    },
+    {
+     "letra": "D",
+     "texto": "A avaliação de doenças crônicas e de perda sanguínea como hipermenorréia ou sintomas de sangramento digestivo são importantes na investigação etiológica das anemias"
+    },
+    {
+     "letra": "E",
+     "texto": "Comprovando-se anemia ferropriva, a baixa ingesta de ferro, por exemplo, em dietas vegetarianas, é a principal etiologia"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000048244",
+   "codigo": "4000048244",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 61,
+   "temas": [
+    "Def inição das síndromes talassêmicas",
+    "Diagnóstico dif erencial das anemias microcíticas"
+   ],
+   "enunciado": "Analise o eritrograma abaixo e assinale a alternativa que apresenta o paciente a quem corresponde o exame. Hemácias: 4.160.000/mm3 / Hb 8,5g/dL / Ht 25% / RDW 13% Esfregaço: hemácias em alvo e dacriócitos",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Paciente de 50 anos com alteração do trânsito intestinal e perda de peso."
+    },
+    {
+     "letra": "B",
+     "texto": "Paciente de 43 anos, portadora de artrite reumatoide de longa data, sem resposta adequada à terapia utilizada."
+    },
+    {
+     "letra": "C",
+     "texto": "Paciente de 16 anos, com anemia desde a infância e esplenomegalia."
+    },
+    {
+     "letra": "D",
+     "texto": "Paciente de 63 anos, com glossite e alterações sensitivas em membros inferiores."
+    },
+    {
+     "letra": "E",
+     "texto": "Paciente em terapia dialítica há três anos."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000039049",
+   "codigo": "4000039049",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 62,
+   "temas": [
+    "Fisiopatologia da anemia f erropriva"
+   ],
+   "enunciado": "A anemia ferropriva é considerada um dos principais problemas de saúde pública no mundo e na prática clínica pediátrica. Sobre esse grave problema de saúde pública mundial, é correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A hipoferritinemia é constatada somente nas fases avançadas da doença, uma vez que é passível de estar elevada durante processo infecciosos."
+    },
+    {
+     "letra": "B",
+     "texto": "Diferente do ferro não heme, o ferro heme não tem regulagem própria e independe da ação de mecanismos inibidores ou facilitadores da dieta."
+    },
+    {
+     "letra": "C",
+     "texto": "Os principais diagnósticos diferenciais de uma anemia microcítica hipocrômica, como a anemia ferropriva, são anemias hemolíticas, tais quais a anemia falciforme e a anemia megaloblástica."
+    },
+    {
+     "letra": "D",
+     "texto": "A anemia ferropriva é do tipo hipocrônica (Hemoglobina Corpuscular Média - HCM diminuída) e microcítica (Volume Corpuscular Médio diminuído), e o RDW (amplitude de variação de célula eritrocitária) encontra-se aumentado. O número de reticulócitos pode estar normal ou diminuído. As dosagens séricas do ferro e da ferritina estão diminuídas"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000035523",
+   "codigo": "4000035523",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 63,
+   "temas": [
+    "Def inição das síndromes talassêmicas",
+    "Perf il de f erro na anemia f erropriva"
+   ],
+   "enunciado": "Qual das alternativas abaixo apresenta alteração encontrada na anemia por deficiência de ferro e talassemia?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ferritina elevada"
+    },
+    {
+     "letra": "B",
+     "texto": "Capacidade total de ligação de ferro >360 μg/dl"
+    },
+    {
+     "letra": "C",
+     "texto": "Ferro sérico < 30 μg/dl"
+    },
+    {
+     "letra": "D",
+     "texto": "Microcitose"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000015937",
+   "codigo": "4000015937",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 64,
+   "temas": [
+    "Perf il de f erro na anemia f erropriva"
+   ],
+   "enunciado": "Mulher de 45 anos comparece ao consultório do seu clínico, queixando-se de dispneia aos esforços e fadiga ao se exercitar. É etilista e faz uso de 1 L de cachaça ao dia há 15 anos. Traz consigo os resultados dos seguintes exames: hemoglobina = 9,5 g/dl; hematócrito = 28%; volume corpuscular médio = 74 ; hemoglobina corpuscular média = 23 pg; leucócitos = 5.780/mm³; plaquetas = 198.000/mm³; ferro sérico = 15 mcg/dl (VR 50-170); ferritina = 5 ng/ml (VR 11-306); índice de saturação de transferrina = 15% (20-50%) e capacidade total de ligação do ferro 410 mcg/dl (VR 250-425). Em relação ao caso descrito, assinale a alternativa CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A anemia pode estar associada à doença celíaca, à síndrome de supercrescimento bacteriano e à angiodisplasia colônica."
+    },
+    {
+     "letra": "B",
+     "texto": "A histerectomia está indicada para a prevenção de perda sanguínea pela menstruação."
+    },
+    {
+     "letra": "C",
+     "texto": "O principal mecanismo da anemia é a mielotoxicidade induzida pelo álcool."
+    },
+    {
+     "letra": "D",
+     "texto": "A transfusão de concentrado de hemácias está indicada, uma vez que a paciente está sintomática."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000015457",
+   "codigo": "4000015457",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 65,
+   "temas": [
+    "Diagnóstico dif erencial das anemias microcíticas"
+   ],
+   "enunciado": "Os diagnósticos diferenciais de anemias hipocrômicas/ microcíticas incluem:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Anemia ferropriva, traço falcêmico e esferocitose hereditária."
+    },
+    {
+     "letra": "B",
+     "texto": "Anemia de doença crônica, deficiência de b12 e ferro."
+    },
+    {
+     "letra": "C",
+     "texto": "Deficiência de ferro, talassemias e anemia sideroblástica."
+    },
+    {
+     "letra": "D",
+     "texto": "Anemia ferropriva, deficiência de b12, traço falsemico."
+    },
+    {
+     "letra": "E",
+     "texto": "Deficiência de ferro e ácido fólico, anemia falciforme."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000005549",
+   "codigo": "4000005549",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 66,
+   "temas": [
+    "Betatalassemia menor ou traço betatalassêmico"
+   ],
+   "enunciado": "Você atende em consulta de rotina, um menino de um ano de idade. Nascido a termo, peso nascimento: 3.500 gramas, recebeu aleitamento materno exclusivo até sexto mês de vida, sem outras intercorrências. A mãe refere que faz suplementação pro lática com ferro desde os seis meses de vida, conforme orientação médica; come bem todos os alimentos, inclusive carnes, e continua em aleitamento materno. Estava descorado +/4+ e foi solicitado hemograma: Hb: 10,1 g/dl; VCM: 68 fL; HCM: 22pg; leucócitos: 6.000/mm3 (distribuição normal), plaquetas: 300.000/mm3. Qual a principal hipótese diagnóstica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Anemia sideroblástica."
+    },
+    {
+     "letra": "B",
+     "texto": "Talassemia minor."
+    },
+    {
+     "letra": "C",
+     "texto": "Anemia megaloblástica."
+    },
+    {
+     "letra": "D",
+     "texto": "Anemia falciforme."
+    },
+    {
+     "letra": "E",
+     "texto": "Anemia de Blackfan-Diamond."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000127498",
+   "codigo": "4000127498",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 67,
+   "temas": [
+    "Perf il de f erro na anemia de doença crônica"
+   ],
+   "enunciado": "As características laboratoriais da anemia de doença crônica são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "macrocitose e redução da proteína receptora de transferrina."
+    },
+    {
+     "letra": "B",
+     "texto": "ferritina baixa e normocitose."
+    },
+    {
+     "letra": "C",
+     "texto": "ferro sérico baixo e aumento da saturação de transferrina."
+    },
+    {
+     "letra": "D",
+     "texto": "trombocitose e aumento do RDW."
+    },
+    {
+     "letra": "E",
+     "texto": "aumento da hepcidina e redução da transferrina."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000123027",
+   "codigo": "4000123027",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 68,
+   "temas": [
+    "Perf il de f erro na anemia f erropriva",
+    "Diagnóstico dif erencial das anemias microcíticas"
+   ],
+   "enunciado": "Mulher, 32 anos, apresenta astenia progressiva há seis meses, seguida de palpitações aos grandes esforços. Nega edema, dispneia paroxística noturna, febre ou emagrecimento. Hábitos urinário e intestinal normais. Não há patologias de base. Exame físico: descorada ++/4+, FC = 98 bat/min. Exames laboratoriais: hemograma- Hb = 9,0 g/dL, Ht = 28%, VCM = 75 fl, RDW = 18, saturação da transferrina = 10% e ferritina = 5 ng/L. Deve tratar-se de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "anemia por deficiência de ferro."
+    },
+    {
+     "letra": "B",
+     "texto": "anemia de doença crônica."
+    },
+    {
+     "letra": "C",
+     "texto": "traço talassêmico."
+    },
+    {
+     "letra": "D",
+     "texto": "anemia megaloblástica."
+    },
+    {
+     "letra": "E",
+     "texto": "anemia aplasica."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120398",
+   "codigo": "4000120398",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 69,
+   "temas": [
+    "Avaliação laboratorial do f erro"
+   ],
+   "enunciado": "Em relação às inter-relações entre os componentes da cinética laboratorial do ferro, pode-se afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Capacidade latente de ligação do ferro + ferro sérico = capacidade total de ligação do ferro + ferritina."
+    },
+    {
+     "letra": "B",
+     "texto": "Capacidade latente de ligação do ferro = ferro sérico/capacidade total de ligação do ferro."
+    },
+    {
+     "letra": "C",
+     "texto": "Saturação de transferrina = capacidade total de ligação do ferro – ferro sérico."
+    },
+    {
+     "letra": "D",
+     "texto": "Ferritina + ferro sérico + capacidade latente de ligação do ferro = capacidade total de ligação do ferro."
+    },
+    {
+     "letra": "E",
+     "texto": "Capacidade latente de ligação do ferro = capacidade total de ligação do ferro – ferro sérico."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120007",
+   "codigo": "4000120007",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 70,
+   "temas": [
+    "Diagnóstico dif erencial das anemias microcíticas"
+   ],
+   "enunciado": "Qual das doenças abaixo, classicamente NÃO é causa de anemia microcítica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Deficiencia de G6PD."
+    },
+    {
+     "letra": "B",
+     "texto": "Talassemia."
+    },
+    {
+     "letra": "C",
+     "texto": "Anemia sideroblastica."
+    },
+    {
+     "letra": "D",
+     "texto": "Anemia de doença crônica."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000116092",
+   "codigo": "4000116092",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 71,
+   "temas": [
+    "Quadro clínico da anemia de doença crônica"
+   ],
+   "enunciado": "Paciente de 68 anos, portadora de artrite reumatoide de longa data, foi encaminhada para hematologia devido à anemia (Hemoglobina 10,2 g/dl), do tipo normocítica e normocrômica, sem alteração de outras séries do hemograma. Nega queixas específicas. Refere apenas dor articular devido à doença de base. Quanto à conduta inicial, é CORRETO afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Anemia inflamatória, doença renal crônica e toxidade a medicações devem seravaliadas nesse caso."
+    },
+    {
+     "letra": "B",
+     "texto": "Nesse caso, a realização de endoscopia e colonoscopia é sempre indicada."
+    },
+    {
+     "letra": "C",
+     "texto": "A dosagem do ferro sérico já afasta anemia ferropriva, caso esteja normal."
+    },
+    {
+     "letra": "D",
+     "texto": "A reposição de ferro se faz necessária, como teste terapêutico."
+    },
+    {
+     "letra": "E",
+     "texto": "É normal que esses pacientes apresentem anemia leve, sem necessidade deinvestigação adicional."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000108290",
+   "codigo": "4000108290",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 72,
+   "temas": [
+    "Perf il de f erro na anemia f erropriva",
+    "Alterações mucosas Glossite atróf ica e queilite angular"
+   ],
+   "enunciado": "Coiloníquia Mulher, 59 anos, procura atendimento médico com queixa de cansaço e adinamia. Refere que tem se sentido fraca e notou que seus cabelos e unhas estão frágeis e quebradiços. O exame físico revela a paciente descorada, levemente taquicárdica e pressão arterial = 110x60 mmHg. O hemograma revela: Hb = 7,9 g/dL, leucograma normal e plaquetas = 480 mil/mm³. A seguir estão ilustradas fotos dessa paciente. Assinale a alternativa que apresenta os achados laboratoriais adicionais dessa paciente.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Reticulocitose, HCM = 23, eritropoetina baixa, ferro baixo, transferrina elevada e ferritina baixa."
+    },
+    {
+     "letra": "B",
+     "texto": "VCM = 72, eritropoetina elevada, ferro baixo, transferrina elevada e ferritina baixa."
+    },
+    {
+     "letra": "C",
+     "texto": "Eritopoetina baixa, reticulócitos baixos, VCM = 72, dosagem de vitamina B12 baixa, ferro baixo e ferritina baixa."
+    },
+    {
+     "letra": "D",
+     "texto": "Reticulocitose, VCM = 72, ferro baixo, transferrina normal, ferritina elevada e proteína C reativa elevada."
+    },
+    {
+     "letra": "E",
+     "texto": "HCM = 23, ácido fólico baixo, vitamina B12 baixa, reticulócitos diminuídos, transferrina alta e ferritina alta."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q072-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000100610",
+   "codigo": "4000100610",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 73,
+   "temas": [
+    "Diagnóstico dif erencial das anemias microcíticas"
+   ],
+   "enunciado": "Jovem de 25 anos de idade foi avaliada em clínica de atenção básica com queixa de fraqueza para realizar atividades cotidianas. Diz que os sintomas se intensi caram nos últimos 6 meses e que vem apresentando tonturas recorrentes. Foi avaliada por meio de exame clínico que mostrava palidez cutâneo mucosa e queilose angular sem outros achados significativos. Laboratório evidenciou: Hematócrito: 27,8%; Hemoglobina: 9,1g/dL, VCM: 67fL (VN: 80-100), leucograma normal e contagem de plaquetas: 635.000, pesquisa de sangue oculto nas fezes negativa. Acerca do caso pode a rmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Por se tratar de mulher jovem a possibilidade de anemia por deficiência de ferro é uma possibilidade importante e a perda menstrual deve ser investigada."
+    },
+    {
+     "letra": "B",
+     "texto": "Trata-se de anemia microcítica e a possibilidade de anemia falciforme é a mais relevante."
+    },
+    {
+     "letra": "C",
+     "texto": "É um caso clássico de anemia megaloblástica e a deficiência de vitamina B12 e folato deve ser investigada."
+    },
+    {
+     "letra": "D",
+     "texto": "Há remota possibilidade de ser anemia por deficiência de ferro, pois a pesquisa de sangue oculto foi negativa."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000088532",
+   "codigo": "4000088532",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 74,
+   "temas": [
+    "Diagnóstico dif erencial das anemias microcíticas"
+   ],
+   "enunciado": "Na avaliação das anemias, o VCM e o RDW são úteis para diagnóstico diferencial. Se uma criança de 3 anos que não foi amamentada chega à consulta pediátrica com hemoglobina = 7,0 g/dl, VCM = 65 e RDW = 14, o provável diagnóstico é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Alfa talassemia."
+    },
+    {
+     "letra": "B",
+     "texto": "Deficiência de ferro."
+    },
+    {
+     "letra": "C",
+     "texto": "Esferocitose."
+    },
+    {
+     "letra": "D",
+     "texto": "Anemia falciforme."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000074290",
+   "codigo": "4000074290",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 75,
+   "temas": [
+    "Diagnóstico dif erencial das anemias microcíticas",
+    "Talassemias"
+   ],
+   "enunciado": "Uma paciente, de 18 anos, veio ao consultório após dois anos de acompanhamento com o ginecologista. Refere que estava tratando uma \"anemia por falta de ferro\", já com reposição de ferro oral todo esse tempo, sem nenhuma melhora do hemograma. Por recomendação de um clínico, realizou exames laboratoriais que revelaram uma taxa de ferro muito elevada no sangue, ao mostrar os exames no consultório. A paciente se mostrou assintomática todo esse tempo. HPP - Nega comorbidades; H. Fisiológica - G-0, P-0 e A-0. Cliclos regulares com catamênios de três dias, sem hipermenorreia; H. Familiar - Duas irmãs também com história de anemia; Ao exame - BEG, hipocorada +/4+, anictérica, acianótica e afebril. AR - MVUA s/ RA; ACV - RCR, BNF, SS ou BA; Abdome - Flácido, peristáltico, timpânico, baço palpável na posição de Schuster; Lab - Hb: 10,2 g/dL, Ht: 31,6%, VCM: 64 fL, HCM: 17 pg, RDW: 12%, leucócitos: 5.360/mm³ (diferencial normal), plaquetas: 265.000/mm³, ferro: 65 mcg/dL (normal de 9 - 26), ferritina: 453 ng/mL (normal de 12 - 150), índice de saturação de transferrina de 65% (normal de 20 - 50%) e reticulócitos: 3,3%. Qual é o exame inicial fundamental para o diagnóstico e conduta nessa paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ressonancia hepática com protocolo para depósito de ferro hepático."
+    },
+    {
+     "letra": "B",
+     "texto": "Pesquisa genética para Hemocromatose Primária."
+    },
+    {
+     "letra": "C",
+     "texto": "Eletroforese de hemoglobina."
+    },
+    {
+     "letra": "D",
+     "texto": "Endoscopia digestiva alta e Colonoscopia."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000072696",
+   "codigo": "4000072696",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 76,
+   "temas": [
+    "Perf il de f erro na anemia f erropriva"
+   ],
+   "enunciado": "Homem de 50 anos procura o ambulatório devido a queixas de astenia e adinamia, palpitações, principalmente aos esforços, dor nos MIs. Foram solicitados exames laboratoriais, que mostraram: Hb 9g%, Htc: 27%, VCM: 72, Ferritina: 9ng/ml. Qual é a afirmativa correta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O índice de produção reticulocitaria deve estar bem aumentado."
+    },
+    {
+     "letra": "B",
+     "texto": "É necessária a dosagem plasmática de vitamina B12."
+    },
+    {
+     "letra": "C",
+     "texto": "Deve ser feito um estudo completo do trato gastrointestinal."
+    },
+    {
+     "letra": "D",
+     "texto": "Deve ser feito um aspirado da medula óssea, para estudo."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000070846",
+   "codigo": "4000070846",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 77,
+   "temas": [
+    "Anemia f erropriva"
+   ],
+   "enunciado": "A de ciência de ferro é uma das formas mais prevalentes de má nutrição. Globalmente, 50% das anemias são atribuíveis à deficiência de ferro. Em relação às anemias ferroprivas, é CORRETO afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A TIBIC (capacidade total de ligação do ferro) é o teste laboratorial mais conveniente para estimar as reservas de ferro."
+    },
+    {
+     "letra": "B",
+     "texto": "Quando a saturação da transferrina cai para 15 a 20%, a síntese de hemoglobina é afetada."
+    },
+    {
+     "letra": "C",
+     "texto": "O tratamento deve ser feito com ferro oral administrado com as refeições."
+    },
+    {
+     "letra": "D",
+     "texto": "O índice de anisocitose geralmente está diminuído na deficiência de ferro."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000056418",
+   "codigo": "4000056418",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 78,
+   "temas": [
+    "Perf il de f erro na anemia f erropriva",
+    "Diagnóstico dif erencial das anemias microcíticas"
+   ],
+   "enunciado": "Mulher, 72 anos, em investigação de anemia. Hemoglobina = 8,0 g/dl; volume corpuscular médio = 68 fL; Leucócitos = 5.500 (segmentados = 73%; Linfócitos = 23%; Monócitos = 3%; Eosinó los = 1%); Plaquetas = 600 mil; Ferritina = 2,5; EFHb: A1 = 97% A2 = 2,5%; F = 0,5%. Em relação ao presente caso, assinale a CORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A paciente tem betatalassemia intermediária."
+    },
+    {
+     "letra": "B",
+     "texto": "A paciente tem Trombocitemia Essencial."
+    },
+    {
+     "letra": "C",
+     "texto": "Apenas com os dados acima não é possível afirmar que o diagnóstico é de anemia ferropriva, sendo obrigatória a avaliação dos estoques de ferro da medula óssea através da coloração pelo corante de Perls."
+    },
+    {
+     "letra": "D",
+     "texto": "O tratamento indicado é a reposição de ferro oral na dose de 180 mg -200 mg de ferro elementar/dia, que deve ser mantida até a normalização dos níveis de hemoglobina."
+    },
+    {
+     "letra": "E",
+     "texto": "Está indicada a investigação de perda de sangue pelo trato gastrintestinal, sítio mais frequente de perda crônica de sangue em mulheres na pós menopausa."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000049709",
+   "codigo": "4000049709",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 79,
+   "temas": [
+    "Perf il de f erro na anemia de doença crônica"
+   ],
+   "enunciado": "Paciente de 28 anos de idade procura atendimento por fadiga com 4 meses de evolução e piora progressiva. Entre os exames realizados você observa hemograma com Hb = 9 g/dl, VG = 27,3%, VCM = 80 152.000 plaquetas/mm³, ferro sérico 6 ng/ml (normal 29-248 ng/ml). Considerando os dados apresentados, analise as assertivas: I. A reposição intravenosa de ferro é adequada para correção dos níveis de hemoglobina, neste caso.; II. A reserva de ferro adequada não garante suprimento de ferro à medula óssea.; III. A hepcidina, que é sintetizada pelo fígado, atua aumentando a absorção de ferro na tentativa de corrigir a condição.; Estão corretas as assertivas: Harrison, 19ª edição P. 629-30.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I apenas."
+    },
+    {
+     "letra": "B",
+     "texto": "II apenas."
+    },
+    {
+     "letra": "C",
+     "texto": "III apenas."
+    },
+    {
+     "letra": "D",
+     "texto": "II e III apenas."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000039671",
+   "codigo": "4000039671",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 80,
+   "temas": [
+    "Tratamento da anemia f erropriva"
+   ],
+   "enunciado": "Paciente sexo masculino, 72 anos, hipertenso controlado, antecedente de cirurgia de vesícula há um ano, relata fraqueza progressiva há 4 meses, especialmente aos esforços. Nega outros sintomas associados. Apetite preservado. Ao exame, apresenta-se pálido (2+/4+), FC 98bpm, FR 18irm, PA 140×90 mmHg. Sem outras anormalidades no exame físico. Traz hemograma colhido na UBS há 1 semana: Hb 7,2; Ht 19; VCM 68; HCM 20; RDW 19. Leucograma e contagem plaquetária normais. Qual a abordagem inicial para o referido caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Reposição de ferro via preferencialmente oral e solicitar novo hemograma e reticulócitos de controle em 2 semanas."
+    },
+    {
+     "letra": "B",
+     "texto": "Reposição de vitamina B12 intra-muscular semanal associada a ácido fólico oral, com controle laboratorial em 2 semanas."
+    },
+    {
+     "letra": "C",
+     "texto": "Solicitar exames endoscópicos do trato gastrointestinal para excluir fonte de perda sanguínea crônica e iniciar reposição de ferro oral."
+    },
+    {
+     "letra": "D",
+     "texto": "Solicitar cinética do ferro e, caso confirme ferropenia, iniciar reposição de ferro via preferencialmente oral."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000030357",
+   "codigo": "4000030357",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 81,
+   "temas": [
+    "Perf il de f erro na anemia de doença crônica"
+   ],
+   "enunciado": "Em relação ao metabolismo do ferro na Anemia de Doença Crônica, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ferro sérico baixo, ferritina sérica baixa, transferrina sérica baixa."
+    },
+    {
+     "letra": "B",
+     "texto": "Ferro sérico baixo, ferritina sérica alta, transferrina sérica baixa."
+    },
+    {
+     "letra": "C",
+     "texto": "Ferro sérico normal, ferritina sérica baixa, transferrina sérica normal."
+    },
+    {
+     "letra": "D",
+     "texto": "Ferro sérico normal, ferritina sérica baixa, transferrina sérica baixa."
+    },
+    {
+     "letra": "E",
+     "texto": "Ferro sérico alto, ferritina sérica alta, transferrina sérica baixa."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000026636",
+   "codigo": "4000026636",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 82,
+   "temas": [
+    "Perf il de f erro na anemia de doença crônica"
+   ],
+   "enunciado": "A anemia microcítica caracterizada por ferro sérico diminuído, TIBC diminuído, ferritina normal ou aumentada e RDW normal é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Anemia ferropriva."
+    },
+    {
+     "letra": "B",
+     "texto": "Talassemia."
+    },
+    {
+     "letra": "C",
+     "texto": "Anemia de doença crônica."
+    },
+    {
+     "letra": "D",
+     "texto": "Anemia sideroblástica."
+    },
+    {
+     "letra": "E",
+     "texto": "Anemia falciforme."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000023397",
+   "codigo": "4000023397",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 83,
+   "temas": [
+    "Diagnóstico da anemia f erropriva"
+   ],
+   "enunciado": "Em todas as alternativas abaixo temos achados sugestivos de anemia ferropriva exceto na alternativa:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Pica."
+    },
+    {
+     "letra": "B",
+     "texto": "Coiloniquia."
+    },
+    {
+     "letra": "C",
+     "texto": "Baixa resposta dos reticulócitos."
+    },
+    {
+     "letra": "D",
+     "texto": "Diminuição da capacidade total de ligação do ferro."
+    },
+    {
+     "letra": "E",
+     "texto": "Diminuição da ferritina sérica."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000012786",
+   "codigo": "4000012786",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 84,
+   "temas": [
+    "Perf il de f erro na anemia f erropriva"
+   ],
+   "enunciado": "J.M.S., 65 anos de idade, comparece ao ambulatório de Clínica Médica com história de 5 meses de evolução de fraqueza e hiporexia. Emagrecimento de 16 kg nesse período. Ao exame físico, apresenta: palidez cutaneomucosa +++ / 4+, anictérico, eupneico e emagrecido. PA = 130/80 mmHg FC 100 bpm RCR2T com SS panfocal MV siológico simétrico Abdome: ácido, doloroso em FID onde se palpa tumoração endurecida e móvel de cerca de 5 cm. Edema MMII +. Seu hemograma de entrada mostra: Hb 7,5 g% Ht 20% VCM 64,51 HCM 24,1 pg Leucócitos 5.500 (65% segmentados, 30% linfócitos, 5% monócitos) Plaquetas 480.000/mm³. Qual dos perfis a seguir melhor se enquadra a esse caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ferro sérico baixo, transferrina livre elevada e ferritina sérica diminuída."
+    },
+    {
+     "letra": "B",
+     "texto": "Ferro sérico normal, Índice de saturação de transferrina normal e ferritina sérica diminuída"
+    },
+    {
+     "letra": "C",
+     "texto": "Ferro sérico e Índice de saturação de transferrina diminuídos e ferritina sérica normal."
+    },
+    {
+     "letra": "D",
+     "texto": "Não é esperada alteração significativa no perfil de ferro."
+    },
+    {
+     "letra": "E",
+     "texto": "O diagnóstico depende do achado de sideroblastos na medula óssea."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000001031",
+   "codigo": "4000001031",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 85,
+   "temas": [
+    "Quadro clínico da anemia f erropriva"
+   ],
+   "enunciado": "Os sintomas usuais da Anemia por De ciência de Ferro incluem fraqueza, cefaleia, irritabilidade, síndrome das pernas inquietas e vários graus de fadiga e intolerância aos exercícios ou pica (apetite pervertido por barro ou terra, papeis, amido). Sendo INCORRETO apenas que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "No entanto, muitos pacientes são assintomáticos, sem clínica típica e só reconhecem os sintomas retrospectivamente, após o tratamento."
+    },
+    {
+     "letra": "B",
+     "texto": "Pacientes com ferritina baixa e sem anemia podem ter os mesmos sintomas."
+    },
+    {
+     "letra": "C",
+     "texto": "Pode ainda ocorrer pica por gelo, que é considerada pouco específica para Deficiência de Ferro."
+    },
+    {
+     "letra": "D",
+     "texto": "Idosos costumam apresentar início insidioso com sintomas relacionados à exacerbação de suas comorbidades subjacentes (piora da angina, aumento da confusão mental, dispneia)."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000124974",
+   "codigo": "4000124974",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 86,
+   "temas": [
+    "Perda crônica de f erro"
+   ],
+   "enunciado": "Paciente do sexo feminino, 38 anos, tem queixa de fraqueza há dois meses. Relata sangramento menstrual excessivo por causa de um mioma. O resultado do hemograma demonstra anemia hipocrômica e microcítica com leucócitos normais e plaquetose. Qual a principal hipótese diagnóstica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Trombocitemia essencial."
+    },
+    {
+     "letra": "B",
+     "texto": "Anemia por deficiência de ferro."
+    },
+    {
+     "letra": "C",
+     "texto": "Anemia por deficiência de folato."
+    },
+    {
+     "letra": "D",
+     "texto": "Síndrome mieloproliferativa crônica."
+    },
+    {
+     "letra": "E",
+     "texto": "Anemia hiper-regenerativa."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000114603",
+   "codigo": "4000114603",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 87,
+   "temas": [
+    "Perf il de f erro na anemia de doença crônica"
+   ],
+   "enunciado": "Em portadores de anemia de doença crônica, é provável o encontro de aumento de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "ferro sérico."
+    },
+    {
+     "letra": "B",
+     "texto": "volume corpuscular médio."
+    },
+    {
+     "letra": "C",
+     "texto": "capacidade total de ligação de ferro."
+    },
+    {
+     "letra": "D",
+     "texto": "ferritina sérica."
+    },
+    {
+     "letra": "E",
+     "texto": "saturação de transferrina."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000112625",
+   "codigo": "4000112625",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 88,
+   "temas": [
+    "Perf il de f erro na anemia f erropriva"
+   ],
+   "enunciado": "A anemia por deficiência de ferro é caracterizada por:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ferro sérico baixo, saturação de transferrina diminuída, ferritina diminuída."
+    },
+    {
+     "letra": "B",
+     "texto": "Ferro sérico baixo, saturação de transferrina aumentada, ferritina normal."
+    },
+    {
+     "letra": "C",
+     "texto": "Ferro sérico alto, saturação de transferrina diminuída, ferritina diminuída."
+    },
+    {
+     "letra": "D",
+     "texto": "Ferro sérico alto, saturação de transferrina normal, ferritina normal."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000093124",
+   "codigo": "4000093124",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 89,
+   "temas": [
+    "Perf il de f erro na anemia de doença crônica"
+   ],
+   "enunciado": "Qual o perfil esperado para um paciente anêmico com doença inflamátoria crônica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ferro normal, ferritina baixa, saturação de transferrina alta."
+    },
+    {
+     "letra": "B",
+     "texto": "Ferro normal, ferritina alta, saturação de transferrina normal."
+    },
+    {
+     "letra": "C",
+     "texto": "Ferro baixo, ferritina alta, saturação de transferrina normal."
+    },
+    {
+     "letra": "D",
+     "texto": "Ferro baixo, ferritina baixa, saturação de transferrina baixa."
+    },
+    {
+     "letra": "E",
+     "texto": "Ferro alto, ferritina normal, saturação de transferrina alta."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000088022",
+   "codigo": "4000088022",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 90,
+   "temas": [
+    "Perf il de f erro na anemia de doença crônica"
+   ],
+   "enunciado": "Na anemia da doença crônica espera-se encontrar os achados abaixo, EXCETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Estoque de ferro na medula normal ou aumentado."
+    },
+    {
+     "letra": "B",
+     "texto": "Inabilidade da medula em aumentar a eritropoiese em resposta à anemia."
+    },
+    {
+     "letra": "C",
+     "texto": "Transferrina sérica e saturação de transferrina elevadas."
+    },
+    {
+     "letra": "D",
+     "texto": "Eritropoietina elevada, porém em níveis abaixo do que seria de se esperar para o nível de anemia."
+    },
+    {
+     "letra": "E",
+     "texto": "Hipoferremia."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000086500",
+   "codigo": "4000086500",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 91,
+   "temas": [
+    "Reposição oral de f erro",
+    "Avaliação de resposta ao tratamento da anemia f erropriva"
+   ],
+   "enunciado": "Sobre o manejo farmacológico de anemia por deficiência de ferro, analise as seguintes assertivas: I - A gravidade e a causa da anemia determinam a abordagem; II - A reposição oral de ferro na dose de 200 mg/dia é usualmente adequada nos pacientes assintomáticos; III - A contagem de reticulócitos começa a aumentar dentro de 4-7 dias do início do tratamento; IV - Com o objetivo de repor os estoques de ferro, o tratamento farmacológico deve ser mantido por 6-12 meses depois da correção da anemia. Quais estão CORRETAS?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Apenas I e II."
+    },
+    {
+     "letra": "B",
+     "texto": "Apenas I e III."
+    },
+    {
+     "letra": "C",
+     "texto": "Apenas II e IV."
+    },
+    {
+     "letra": "D",
+     "texto": "Apenas I, II e III."
+    },
+    {
+     "letra": "E",
+     "texto": "I, II, III e IV."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000085653",
+   "codigo": "4000085653",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 92,
+   "temas": [
+    "Diagnóstico dif erencial das anemias microcíticas",
+    "Quadro Clínico da anemia sideroblástica"
+   ],
+   "enunciado": "Mulher, 76 anos, com fadiga progressiva aos esforços e adinamia. Apresenta nos exames laboratoriais: Hematócrito (Ht) = 24%; Hemoglobina (Hb) = 6,2 g/dl; Volume Corpuscular Médio (VCM) = 72 mc/mm³; Concentração de Hemoglobina Corpuscular Média (CHCM) = 25 g/dl; Red Cell Distribution Width (RDW) = 17%; série branca e contagem plaquetária normais. Contagem de reticulócitos corrigida = 1,1%; LDH 3 vezes o valor normal; índice de saturação de transferrina e ferritina normais; BT = 2,7 mg/dl (Bl = 1,4 mg/dl e BD = 0,3 mg/dl). O diagnóstico mais provável é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Anemia de doença crônica."
+    },
+    {
+     "letra": "B",
+     "texto": "Anemia ferropriva."
+    },
+    {
+     "letra": "C",
+     "texto": "Anemia sideroblástica."
+    },
+    {
+     "letra": "D",
+     "texto": "Talassemia minor."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000081369",
+   "codigo": "4000081369",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 93,
+   "temas": [
+    "Diagnóstico dif erencial das anemias microcíticas",
+    "Quadro clínico da anemia megaloblástica"
+   ],
+   "enunciado": "Perf il de f erro na anemia de doença crônica Sobre anemias, considere as assertivas abaixo. I. A anemia da doença crônica cursa com nível sérico de ferro reduzido, porém o nível de ferro em estoque encontra-se elevado; II. Anemia com VCM inferior a 70 fl e RDW normal ou baixo está associada à deficiência de ferro; III. Na anemia megaloblástica, tanto a deficiência de folato quanto a de cobalamina estão associadas à desmielinização. Quais são corretas?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Apenas I"
+    },
+    {
+     "letra": "B",
+     "texto": "Apenas II"
+    },
+    {
+     "letra": "C",
+     "texto": "Apenas III"
+    },
+    {
+     "letra": "D",
+     "texto": "Apenas I e II"
+    },
+    {
+     "letra": "E",
+     "texto": "I, II e III"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000045345",
+   "codigo": "4000045345",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 94,
+   "temas": [
+    "Fisiopatologia da anemia de doença crônica"
+   ],
+   "enunciado": "A anemia da doença crônica ocorre associada com diversas condições, como doenças infecciosas, inflamatórias e neoplásicas, além de trauma, diabetes melito, entre outras. São afirmações INCORRETAS:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hepcidina e IL-6 desempenham relevante papel na sua fisiopatogenia."
+    },
+    {
+     "letra": "B",
+     "texto": "o padrão da anemia pode ser microcítica e hipocrômica na minoria dos casos."
+    },
+    {
+     "letra": "C",
+     "texto": "caracteriza-se por apresentar ferro medular ausente na biópsia de medula óssea."
+    },
+    {
+     "letra": "D",
+     "texto": "A anemia habitualmente é leve e com uma hemoglobina entre 10 e 11g/dl."
+    },
+    {
+     "letra": "E",
+     "texto": "A ferritina geralmente se encontra em níveis elevados ou normais."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000043777",
+   "codigo": "4000043777",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 95,
+   "temas": [
+    "Diagnóstico dif erencial das anemias microcíticas"
+   ],
+   "enunciado": "Uma paciente de 22 anos queixa-se de astenia e fadiga, além de leve dispneia aos esforços vigorosos. O hemograma revelou Hb - 8,0g/dl; VCM 70fL; RDW 22%; Leucócitos 6500/mm³ e Plaquetas 520.000/mm³. Nega comorbidades e doenças prévias. Qual é a opção terapêutica mais adequada para o caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Reposição parenteral de ferro."
+    },
+    {
+     "letra": "B",
+     "texto": "Tranfusão de concentrado de hemácias."
+    },
+    {
+     "letra": "C",
+     "texto": "Sulfato ferroso."
+    },
+    {
+     "letra": "D",
+     "texto": "Eritropoetina."
+    },
+    {
+     "letra": "E",
+     "texto": "Reposição de ácido fólico e vitamina B12."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000041653",
+   "codigo": "4000041653",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 96,
+   "temas": [
+    "Diagnóstico da anemia f erropriva"
+   ],
+   "enunciado": "Durante a investigação de uma anemia ferropriva em uma criança de 9 anos de idade, qual dos seguintes resultados EXCLUI de vez a deficiência de ferro?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Aspirado de medula óssea com reserva de ferro normal."
+    },
+    {
+     "letra": "B",
+     "texto": "Volume globular médio normal."
+    },
+    {
+     "letra": "C",
+     "texto": "Aumento do TIBC."
+    },
+    {
+     "letra": "D",
+     "texto": "Ferritina sérica normal."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000032431",
+   "codigo": "4000032431",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 97,
+   "temas": [
+    "Diagnóstico da anemia f erropriva"
+   ],
+   "enunciado": "Paciente de 54 anos, sexo masculino, negro, casado, lavrador, natural e procedente de Codó - MA. Desconhece comorbidades. Procurou o posto de saúde referindo cansaço aos esforços habituais, dificultando suas atividades laborativas há algumas semanas. Mais recentemente, notou perda de apetite, palpitações, sonolência excessiva e dores de cabeça recorrentes. Era previamente hígido e disposto. Realizou exames laboratoriais que evidenciaram: Hemoglobina = 7,2 VCM 68 RDW 15,3% Cr 1,1 Ur 42. Sinais vitais: PA = 140 x 90; FC 106; FR 17; Temperatura 36,5ºC. Qual a sua principal hipótese diagnóstica e recomendação?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Anemia da doença crônica. Investigar neoplasias malignas."
+    },
+    {
+     "letra": "B",
+     "texto": "Anemia ferropriva por déficit nutricional. Iniciar reposição parenteral de ferro imediata e orientar hábitos alimentares."
+    },
+    {
+     "letra": "C",
+     "texto": "Anemia falciforme. Eletroforese de hemoglobina e transfusão sanguínea."
+    },
+    {
+     "letra": "D",
+     "texto": "Hemólise por crise hipertensiva. Realização de MAPA e início de tratamento anti-hipertensivo."
+    },
+    {
+     "letra": "E",
+     "texto": "Anemia ferropriva por perda crônica. Realização de Endoscopia digestiva alta e colonoscopia."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000028548",
+   "codigo": "4000028548",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 98,
+   "temas": [
+    "Perf il de f erro na anemia f erropriva",
+    "Perf il de f erro na anemia de doença crônica"
+   ],
+   "enunciado": "Uma mulher de 76 anos apresenta-se no setor de emergência com piora na falta de ar. Ela tem uma história médica pregressa de Diabetes Mellitus e estenose aórtica. O exame físico identi ca palidez, além de um sopro compatível com estenose aórtica. A concentração de hemoglobina dessa paciente é de 7,4 g/dL. Considerando riscos da paciente de apresentar tanto anemia por de ciência de ferro como anemia inflamatória, quais dos valores laboratoriais a seguir serão mais úteis no diagnóstico da causa de sua anemia?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Capacidade Total de Ligação ao ferro e Nível de Ferro."
+    },
+    {
+     "letra": "B",
+     "texto": "Saturação de Transferrina e Nível de Ferritina."
+    },
+    {
+     "letra": "C",
+     "texto": "Nível de Ferritina e Capacidade Total de Ligação ao ferro."
+    },
+    {
+     "letra": "D",
+     "texto": "Nível de Ferro e Saturação de Transferrina."
+    },
+    {
+     "letra": "E",
+     "texto": "Nível de Ferro e Nível de Ferritina."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000008415",
+   "codigo": "4000008415",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 99,
+   "temas": [
+    "Diagnóstico da anemia f erropriva"
+   ],
+   "enunciado": "Paciente feminino, 20 anos, procura ambulatório queixando-se de fraqueza, mal-estar e dores ocasionais nas pernas há aproximadamente um mês. Ao exame físico, apresenta língua careca, palidez cutâneo-mucosa, frequência cardíaca de 88 batimentos por minuto, sem outras alterações. Ao hemograma, apresenta Hb = 7,0 g/dl; VCM = 62 ; RDW = 18%; leucócitos = 3.700; neutrófilos = 2.200; plaquetas = 615.000/mm³. Qual a conduta apropriada, além da revisão do esfregaço do sangue periférico e da contagem de reticulócitos?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Solicitar eletroforese de hemoglobina, iniciar ácido fólico e avaliar indicação de início de transfusão crônica."
+    },
+    {
+     "letra": "B",
+     "texto": "Solicitar Coombs direto, desidrogenase láctica, bilirrubina total e frações, e iniciar corticoide e ácido fólico."
+    },
+    {
+     "letra": "C",
+     "texto": "Solicitar proteína C-reativa, VHS, investigar doença de base e transfundir uma unidade de concentrado de hemácias."
+    },
+    {
+     "letra": "D",
+     "texto": "Solicitar ferro, ferritina e capacidade total de fixação do ferro, iniciar ferro oral e avaliar fonte de sangramento."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000007554",
+   "codigo": "4000007554",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 100,
+   "temas": [
+    "Diagnóstico dif erencial das anemias microcíticas"
+   ],
+   "enunciado": "Quanto ao diagnóstico laboratorial das anemias, o encontro de hemoglobina de 9,0 g/dl, VCM diminuído (< 80 ) e RDW elevado (> 14,5%) sugere anemia: Respostas: 1 12 23 34 45 56 67 78 89 100",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Megaloblástica."
+    },
+    {
+     "letra": "B",
+     "texto": "Falciforme."
+    },
+    {
+     "letra": "C",
+     "texto": "Ferropriva."
+    },
+    {
+     "letra": "D",
+     "texto": "Aplásica."
+    },
+    {
+     "letra": "E",
+     "texto": "Sideroblástica."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": [
+  {
+   "id": "4000068376",
+   "codigo": "4000068376",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 56,
+   "temas": [
+    "Def inição das síndromes talassêmicas",
+    "Diagnóstico dif erencial das anemias microcíticas"
+   ],
+   "enunciado": "Mulher de 25 anos com história de cansaço a grandes esforços, apresenta exame de rotina com os seguintes resultados: Hb = 12%, VCM = 58, CHCM = 28 e RDW = 12% (normal = 11,5 a 14,5%). Referiu uxo menstrual mais intenso ocasional. Exame físico sem alterações. A semiologia do sangue periférico revelou microcitose, hipocromia e hemácias em alvo. A dosagem do ferro sérico é de 150 ug/dl (norma = 50 a 150 ug/dl) e a capacidade total de ligação do ferro (TIBC) é de 320 ug/dl (normal = 300 a 360 ug/dl). Com base nesse caso. Determine o diagnóstico principal dessa paciente.",
+   "alternativas": [],
+   "gabarito": null,
+   "imagens": [],
+   "revisar": [],
+   "motivo_exclusao": "sem alternativas"
+  },
+  {
+   "id": "4000068366",
+   "codigo": "4000068366",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 57,
+   "temas": [
+    "Diagnóstico dif erencial das anemias microcíticas",
+    "Avaliação laboratorial do f erro"
+   ],
+   "enunciado": "Mulher de 25 anos com história de cansaço a grandes esforços, apresenta exame de rotina com os seguintes resultados: Hb = 12%, VCM = 58, CHCM = 28 e RDW = 12% (normal = 11,5 a 14,5%). Referiu uxo menstrual mais intenso ocasional. Exame físico sem alterações. A semiologia do sangue periférico revelou microcitose, hipocromia e hemácias em alvo. A dosagem do ferro sérico é de 150 ug/dl (normal = 50 a 150 ug/dl) e a capacidade total de ligação do ferro (TIBC) é de 320 ug/dl (normal = 300 a 360 ug/dl). Com base nesse caso. Considerando a mais comum das anemias citadas no item “a”, indique o resultado mais provável da dosagem de ferro sérico, ferritina, RDW e TIBC.",
+   "alternativas": [],
+   "gabarito": null,
+   "imagens": [],
+   "revisar": [],
+   "motivo_exclusao": "sem alternativas"
+  },
+  {
+   "id": "4000068358",
+   "codigo": "4000068358",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anemias Microciticas",
+   "numero": 58,
+   "temas": [
+    "Hematologia",
+    "Diagnóstico dif erencial das anemias microcíticas",
+    "Hemácias em alvo"
+   ],
+   "enunciado": "Mulher de 25 anos com história de cansaço a grandes esforços, apresenta exame de rotina com os seguintes resultados: Hb = 12%, VCM = 58, CHCM = 28 e RDW = 12% (normal = 11,5 a 14,5%). Referiu uxo menstrual mais intenso ocasional. Exame físico sem alterações. A semiologia do sangue periférico revelou microcitose, hipocromia e hemácias em alvo. A dosagem do ferro sérico é de 150 ug/dl (normal: 50 a 150 ug/dl) e a capacidade total de ligação do ferro (TIBC) é de 320 ug/dl (normal = 300 a 360 ug/dl). Com base nesse caso. Cite as quatro causas mais comuns de anemia que apresentam ao mesmo tempo as alterações do VCM e CHCM dessa paciente.",
+   "alternativas": [],
+   "gabarito": null,
+   "imagens": [],
+   "revisar": [],
+   "motivo_exclusao": "sem alternativas"
+  }
+ ]
+}

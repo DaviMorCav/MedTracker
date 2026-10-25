@@ -1,0 +1,3212 @@
+{
+ "questoes": [
+  {
+   "id": "4000124765",
+   "codigo": "4000124765",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 1,
+   "temas": [
+    "Tratamento",
+    "Diagnóstico",
+    "Quadro clínico"
+   ],
+   "enunciado": "Paciente, 40 anos, diabética, portadora do vírus HIV há dois anos, G4 P4, sexualmente ativa atendida na Unidade Básica de Saúde, apresentando há duas semanas quadro de prurido vulvar, corrimento vaginal e dispareunia. Nega uso de preservativos. Ao exame ginecológico, são observados edema e eritema de pequenos lábios, ssuras em região perineal. Exame especular evidencia secreção branca grumosa aderida às paredes vaginais. A principal hipótese diagnóstica e o melhor tratamento para o caso descrito são, respectivamente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "candidíase vulvovaginal não complicada / clotrimazol 1% creme vaginal de 7 a 14 dias ou fluconazol 150mg uma dose a cada 72 horas (total de três doses)."
+    },
+    {
+     "letra": "B",
+     "texto": "candidíase vulvovaginal complicada / clotrimazol 1% creme vaginal de 7 a 14 dias ou fluconazol 150mg, uma dose a cada 72 horas (total de três doses)."
+    },
+    {
+     "letra": "C",
+     "texto": "candidíase vulvovaginal complicada / fluconazol 150mg em dose única."
+    },
+    {
+     "letra": "D",
+     "texto": "tricomoníase / metronidazol 500mg duas vezes/dia durante 7 dias."
+    },
+    {
+     "letra": "E",
+     "texto": "vaginose bacteriana / metronidazol 2g via oral em dose única."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000124370",
+   "codigo": "4000124370",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 2,
+   "temas": [
+    "Tratamento",
+    "Tratamento",
+    "Tratamento"
+   ],
+   "enunciado": "Sobre tratamentos de vulvovaginites na gestação, é CORRETO.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Para candidíase sintomática, dar-se preferência ao uso de azólicos orais, em comparação aos imidazólicos tópicos."
+    },
+    {
+     "letra": "B",
+     "texto": "Para tricomoníase, o secnidazol ou tinidazol, 2g via oral, dose única, são considerados de primeira escolha."
+    },
+    {
+     "letra": "C",
+     "texto": "Segundo CDC, o metronidazol pode ser administrado com segurança na gestação pois é categoria B pela FDA."
+    },
+    {
+     "letra": "D",
+     "texto": "Mulheres com alto risco para parto prematuro devem realizar testes de rotina para pesquisa de vaginose bacteriana, tricomoníase e candidíase."
+    },
+    {
+     "letra": "E",
+     "texto": "Os casos sintomáticos de vaginose bacteriana podem ser tratados com metronidazol via oral ou geleia vaginal e o tratamento do parceiro é recomendado."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119983",
+   "codigo": "4000119983",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 3,
+   "temas": [
+    "Tipos de f lora vaginal"
+   ],
+   "enunciado": "Mulher de 32 anos apresenta corrimento vaginal persistente sem melhora após diversos tratamentos. Refere último tratamento há 40 dias, com creme vaginal que não sabe o nome, por sete dias. Nega mau odor genital e/ou prurido. Tem hábito de higienizar a região genital várias vezes ao dia com sabonetes perfumados. Exames microscópicos do conteúdo vaginal (imagens a seguir). O diagnóstico e a conduta são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "candidíase vaginal; isoconazol creme vaginal a 1% por 7 dias."
+    },
+    {
+     "letra": "B",
+     "texto": "vaginose citolítica; banho de assento com chá de camomila frio."
+    },
+    {
+     "letra": "C",
+     "texto": "vaginite descamativa inflamatória; clindamicina creme vaginal a 2% por 7 dias."
+    },
+    {
+     "letra": "D",
+     "texto": "conteúdo vaginal fisiológico; adequar higiene genital."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q003-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000115568",
+   "codigo": "4000115568",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 4,
+   "temas": [
+    "Etiologia",
+    "Abordagem da paciente com queixa de corrimento vaginal"
+   ],
+   "enunciado": "Mulher traz sua lha de 5 anos ao setor de emergência, relatando que esta iniciou há quatro dias quadro de dor pélvica e descarga vaginal sero-sanguinolenta, após quadro viral. O exame genital confirma o corrimento e o teste de amina é negativo. Considerando o caso descrito, assinale a etiologia PROVÁVEL:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Infecção oportunista por Cândida."
+    },
+    {
+     "letra": "B",
+     "texto": "Corrimento relacionado a corpo estranho."
+    },
+    {
+     "letra": "C",
+     "texto": "Caso de abuso e infecção por Trichomonas."
+    },
+    {
+     "letra": "D",
+     "texto": "Corrimento relacionado a infecção por Streptococcus."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000114647",
+   "codigo": "4000114647",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 5,
+   "temas": [
+    "Quadro clínico"
+   ],
+   "enunciado": "Paciente se queixa ao ginecologista de corrimento vaginal fétido, branco e leve irritação vulvovaginal. Ainda segundo a paciente, o odor se intensi ca após relações sexuais. O ginecologista após exame ginecológico informa à paciente que ela está com vaginose bacteriana provavelmente por Gardnerella vaginalis ou Mobiluncus. Diante deste quadro, é correto afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "é bem provável que o pH vaginal esteja acima de 4,5 e o teste das aminas (Whiff-test)seja positivo."
+    },
+    {
+     "letra": "B",
+     "texto": "só se pode finalizar o diagnóstico com o exame das glândulas de Bartholin e Skene."
+    },
+    {
+     "letra": "C",
+     "texto": "o diagnóstico está correto e deve-se rotineiramente tratar o casal pois a informação dapiora após relações sexuais, demonstra acometimento de ambos."
+    },
+    {
+     "letra": "D",
+     "texto": "deve ser solicitada bacterioscopia de conteúdo vaginal com critérios de Amsel."
+    },
+    {
+     "letra": "E",
+     "texto": "a pesquisa de células alvo é fundamental para se conhecer o agente causal, se Gardnerella ou Mobiluncus."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000114350",
+   "codigo": "4000114350",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 6,
+   "temas": [
+    "Diagnóstico",
+    "Quadro clínico"
+   ],
+   "enunciado": "Mulher de 25 anos de idade queixa-se de secreção vaginal aumentada, sempre com odor desagradável, que piora após relação sexual. Fez uso de vários cremes vaginais sem melhora. Nega dor ou ardor vaginal. Ao exame, observa-se corrimento vaginal discretamente aumentado, acinzentado, que libera odor desagradável quando se adiciona KOH a 10%. De acordo com a hipótese diagnóstica, qual seria o pH vaginal e as características microscópicas desse corrimento?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "pH>4,5 com poucos leucócitos"
+    },
+    {
+     "letra": "B",
+     "texto": "pH<4,5 com muitos leucócitos"
+    },
+    {
+     "letra": "C",
+     "texto": "pH entre 3 e 5 com coilocitose"
+    },
+    {
+     "letra": "D",
+     "texto": "pH <3 com células alvo"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000110927",
+   "codigo": "4000110927",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 7,
+   "temas": [
+    "Vulvovaginites"
+   ],
+   "enunciado": "Sobre as vulvovaginites, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Na vaginose bacteriana o Ph vaginal encontra-se < 4,5 e há aumento dos lactobacilos."
+    },
+    {
+     "letra": "B",
+     "texto": "A candidíase apresenta teste das aminas (wiff test) negativo e é mais frequente antes das menstruações."
+    },
+    {
+     "letra": "C",
+     "texto": "A vaginose bacteriana causa reação inflamatória, com vaginite importante."
+    },
+    {
+     "letra": "D",
+     "texto": "Mulheres assintomáticas com presença de Gardnerella vaginalis na colpocitologia oncótica devem ser tratadas."
+    },
+    {
+     "letra": "E",
+     "texto": "Na candidíase vaginal não recorrente, com prurido intenso, preconiza-se tratar o parceiro."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000108189",
+   "codigo": "4000108189",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 8,
+   "temas": [
+    "Vulvovaginites"
+   ],
+   "enunciado": "Considere a imagem abaixo. O esfregaço de células vaginais mostrado na imagem revela a presença de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "HPV."
+    },
+    {
+     "letra": "B",
+     "texto": "fungos."
+    },
+    {
+     "letra": "C",
+     "texto": "Clamidia trachomatis."
+    },
+    {
+     "letra": "D",
+     "texto": "Trichomonas."
+    },
+    {
+     "letra": "E",
+     "texto": "Gardnerella vaginalis."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q008-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000106086",
+   "codigo": "4000106086",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 9,
+   "temas": [
+    "Corrimento vaginal f isiológico",
+    "Ecossistema e mecanismos de def esa vaginal"
+   ],
+   "enunciado": "Em relação ao ambiente vulvo-vaginal, assinale a alternativa correta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O pH é normalmente alcalino."
+    },
+    {
+     "letra": "B",
+     "texto": "A cândida não existe na forma comensal, sendo sempre patológica."
+    },
+    {
+     "letra": "C",
+     "texto": "O lactobacilo não tem função bem definida no ambiente vaginal."
+    },
+    {
+     "letra": "D",
+     "texto": "O tricomonas deve ser considerado como infecção sexualmente transmitida."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000105222",
+   "codigo": "4000105222",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 10,
+   "temas": [
+    "Consequências da inf ecção"
+   ],
+   "enunciado": "Fabiana está grávida pela primeira vez, tem 32 semanas de gestação, e queixa-se a enfermeira Lizete que há 3 dias iniciou corrimento amarelado com odor fétido, sem prurido. É a primeira vez que isto ocorre em sua vida. No grupo de gestantes, na semana passada, a agente comunitária alertou sobre quando deveriam procurar ajuda, e citaram o corrimento. Assinale a alternativa correta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Vaginose bacteriana, que pode ser o diagnóstico de Fabiana, tem sido associada ao nascimento de crianças com baixo peso e parto prematuro e, portanto, deve ser tratada"
+    },
+    {
+     "letra": "B",
+     "texto": "Fabiana pode estar com mucorreia, condição comum na gravidez, e o aviso no grupo de gestantes pode ter desencadeado preocupação desnecessária"
+    },
+    {
+     "letra": "C",
+     "texto": "A vulvovaginite é uma condição comum na gestação e pode ser o diagnóstico de Fabiana, contudo o tratamento não poderá ser iniciado sem a identificação etiológica específica"
+    },
+    {
+     "letra": "D",
+     "texto": "Fabiana provavelmente tem vaginose bacteriana, porém pode esperar outros métodos diagnósticos para a confirmação etiológica, já que o tratamento não está relacionado à redução de risco de parto prematuro"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000099756",
+   "codigo": "4000099756",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 11,
+   "temas": [
+    "Vulvovaginites"
+   ],
+   "enunciado": "Mulher, 35a, vem com queixa de corrimento vaginal abundante há 30 dias. Exame ginecológico: secreção branco- acinzentado em pequena quantidade, pH=4,5, teste das aminas positivos e ausência de hiperemia de paredes vaginais. Bacterioscopia vaginal (ANEXO A): OS ACHADOS HISTOLÓGICOS QUE CONFIRMAM O DIAGNÓSTICO SÃO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hifas e leveduras."
+    },
+    {
+     "letra": "B",
+     "texto": "Excesso de lactobacilos e células-guia (clue cells)."
+    },
+    {
+     "letra": "C",
+     "texto": "Células-guia (clue cells) e ausência de leucócitos"
+    },
+    {
+     "letra": "D",
+     "texto": "Excesso de bactérias e de lactobacilos."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q011-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000093259",
+   "codigo": "4000093259",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 12,
+   "temas": [
+    "Candidíase vulvovaginal recorrente"
+   ],
+   "enunciado": "Qual o conceito de candidíase recorrente (CDC/2015 e Protocolos FEBRASGO/2019)?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Um novo episódio com intervalo inferior a dois meses."
+    },
+    {
+     "letra": "B",
+     "texto": "Dois ou três episódios em seis meses."
+    },
+    {
+     "letra": "C",
+     "texto": "Três episódios consecutivos com a mesma espécie."
+    },
+    {
+     "letra": "D",
+     "texto": "Três episódios com intervalos inferiores a três meses."
+    },
+    {
+     "letra": "E",
+     "texto": "Quatro ou mais episódios em 12 meses."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000089252",
+   "codigo": "4000089252",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 13,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Uma paciente com vaginose bacteriana apresenta alergia a metronidazol. Nesse caso, a melhor alternativa medicamentosa é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Fentizol."
+    },
+    {
+     "letra": "B",
+     "texto": "Miconazol."
+    },
+    {
+     "letra": "C",
+     "texto": "Doxiciclina."
+    },
+    {
+     "letra": "D",
+     "texto": "Clindamicina."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000084459",
+   "codigo": "4000084459",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 14,
+   "temas": [
+    "Teste das aminas"
+   ],
+   "enunciado": "O teste das aminas (Whiff) é positivo na presença de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Candidíase vaginal."
+    },
+    {
+     "letra": "B",
+     "texto": "Vaginose bacteriana."
+    },
+    {
+     "letra": "C",
+     "texto": "Vaginite atrófica."
+    },
+    {
+     "letra": "D",
+     "texto": "Gonorreia."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000084023",
+   "codigo": "4000084023",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 15,
+   "temas": [
+    "Candidíase nãocomplicada",
+    "Quadro clínico"
+   ],
+   "enunciado": "Gestante, 34 semanas, vem consultar por apresentar prurido vulvar e secreção aumentadas há uma semana. Refere boa movimentação fetal, nega contrações ou perdas vaginais. Ao exame físico, há edema de vulva, secreção esbranquiçada e grumosa. Na microscopia, se visualiza a presença de hifas. Sobre o diagnóstico e o tratamento nesse caso, está correto, respectivamente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Vaginose bacteriana e uso de metronidazol via oral."
+    },
+    {
+     "letra": "B",
+     "texto": "Candidíase vulvovaginal e uso de miconazol tópico."
+    },
+    {
+     "letra": "C",
+     "texto": "Tricomoníase e uso de metronidazol tópico."
+    },
+    {
+     "letra": "D",
+     "texto": "Infecção por clamídia e uso de doxiciclina."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000083372",
+   "codigo": "4000083372",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 16,
+   "temas": [
+    "Tratamento",
+    "Tratamento",
+    "Candidíase"
+   ],
+   "enunciado": "Sobre os corrimentos vaginais podemos afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Na vaginose bacteriana recomenda-se o tratamento do parceiro."
+    },
+    {
+     "letra": "B",
+     "texto": "O tratamento preconizado para a tricomoníase deve ser sistêmico."
+    },
+    {
+     "letra": "C",
+     "texto": "O uso tópico de lactobacilos é uma opção de tratamento da vaginose bacteriana."
+    },
+    {
+     "letra": "D",
+     "texto": "A candidíase é a principal causa de corrimento vaginal patogênico."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000073834",
+   "codigo": "4000073834",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 17,
+   "temas": [
+    "Diagnóstico",
+    "Quadro clínico"
+   ],
+   "enunciado": "Mulher, 27 anos, com corrimento vaginal e prurido vulvar. Ao exame: conteúdo vaginal branco, grumoso, aderente à parede vaginal. Assinale a alternativa CORRETA sobre o diagnostico mais provável:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "São esperados clue cells no exame a fresco."
+    },
+    {
+     "letra": "B",
+     "texto": "O teste das aminas estará negativo."
+    },
+    {
+     "letra": "C",
+     "texto": "Trata-se de uma infecção sexualmente transmissível."
+    },
+    {
+     "letra": "D",
+     "texto": "O pH estará aumentado."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000062713",
+   "codigo": "4000062713",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 18,
+   "temas": [
+    "Candidíase"
+   ],
+   "enunciado": "Em relação à vulvovaginite por cândida, atribua V (verdadeiro) ou F (falso) às afirmativas a seguir. ( ) Não há contraindicação médica à relação sexual durante o tratamento. ( ) Cândida glabrata tem alta virulência vaginal e, frequentemente, causa sintomas vaginais. ( ) Candidíase vulvovaginal recorrente é definida como quatro ou mais episódios de infecção sintomática dentro de um ano. ( ) Antifúngicos orais levam um ou dois dias a mais do que a terapia tópica para aliviar os sintomas. ( ) Tratamentos tópicos possuem mais efeitos colaterais em relação à via oral. Assinale a alternativa que contém, de cima para baixo, a sequência correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "V, V, F, F, F."
+    },
+    {
+     "letra": "B",
+     "texto": "V, F, V, V, F."
+    },
+    {
+     "letra": "C",
+     "texto": "F, V, V, F, V."
+    },
+    {
+     "letra": "D",
+     "texto": "F, V, F, F, V."
+    },
+    {
+     "letra": "E",
+     "texto": "F, F, V, V, F."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000056751",
+   "codigo": "4000056751",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 19,
+   "temas": [
+    "Tratamento",
+    "Quadro clínico"
+   ],
+   "enunciado": "Jovem, 15 anos de idade, nuligesta, deseja iniciar vida sexual. Vem para consulta solicitando orientação anticoncepcional. Refere ciclos regulares, com duração de 28-30 dias, com sangramento de duração de 4 dias. Nega antecedente pessoal ou familiar de trombose ou tabagismo. Refere enxaqueca com aura. Ao exame clínico: palpação abdominal sem alterações, inspeção vulvar dentro da normalidade. Seis meses após a primeira consulta, a paciente retorna após coitarca. Refere amenorreia, 3 meses após definição de anticoncepcional. Por ter relacionamento que considera sério, não faz uso de preservativos. Refere queixa de leucorreia amarelada de odor fétido, prurido vaginal e dispareunia. Ao exame especular: presença de leucorreia amarelada acompanhada de pequenas bolhas. Paredes vaginais e ectocérvice hiperemiados. Qual é a conduta adequada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Miconazol, coleta de sorologias, referenciar o parceiro para tratamento."
+    },
+    {
+     "letra": "B",
+     "texto": "Metronidazol, coleta de sorologias, orientar tratamento para o parceiro sexual."
+    },
+    {
+     "letra": "C",
+     "texto": "Anfotericina B, coleta de citopatológico, referenciar o parceiro para tratamento."
+    },
+    {
+     "letra": "D",
+     "texto": "Fluconazol, coleta de sorologias, orientar o parceiro sexual para tratamento."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047673",
+   "codigo": "4000047673",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 20,
+   "temas": [
+    "Vulvovaginites"
+   ],
+   "enunciado": "Mulher de 25 anos, com vida sexual ativa queixa-se de corrimento vaginal amarelo- esverdeado e prurido vulvar. Ao exame físico ginecológico: conteúdo vaginal abundante, amarelo-esverdeado e bolhoso; colpite difusa com aspecto de framboesa; teste de Schiller com aspecto tigróide. Com base no exame físico e principal hipótese diagnóstica e melhor medicamento dentre as opções abaixo a ser administrados é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "metronidazol"
+    },
+    {
+     "letra": "B",
+     "texto": "nistatina"
+    },
+    {
+     "letra": "C",
+     "texto": "isoconazol"
+    },
+    {
+     "letra": "D",
+     "texto": "ácido tricloroacético"
+    },
+    {
+     "letra": "E",
+     "texto": "fanciclovir"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000042686",
+   "codigo": "4000042686",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 21,
+   "temas": [
+    "Corrimento vaginal f isiológico",
+    "Ecossistema e mecanismos de def esa vaginal"
+   ],
+   "enunciado": "O pH vaginal ácido ocorre, pois o lactobacilo converte:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Glicogênio em acido sulfúrico."
+    },
+    {
+     "letra": "B",
+     "texto": "Nitrito em nitrato."
+    },
+    {
+     "letra": "C",
+     "texto": "Nitrogênio em nitrato."
+    },
+    {
+     "letra": "D",
+     "texto": "Glicogênio em acido lático."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000039412",
+   "codigo": "4000039412",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 22,
+   "temas": [
+    "Corrimento vaginal f isiológico",
+    "Vaginose bacteriana",
+    "Tricomoníase"
+   ],
+   "enunciado": "Associe o tipo de VULVOVAGINITE como quadro clínico e marque a resposta correta: I- Vaginose bacteriana; II-Tricomoníase; III- Candidíase; IV- Secreção fisiológica; A- Corrimento com grumos, branco, assocoado a prurido, disúria; B- Corrimento fino, branco-acinzentado, homogêneo, às vezes com microbolhas, piora o odor com o coito; C- Secreção clara, homogênia, sem odor, quantidade variável; D- Secreção amarelo-esverdeada, mal cheirosa, dispareunia",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "ID ; IIA; IIID; IVC"
+    },
+    {
+     "letra": "B",
+     "texto": "ID; IIB; IIIA; IV C"
+    },
+    {
+     "letra": "C",
+     "texto": "IB; IID; IIIA; IV C"
+    },
+    {
+     "letra": "D",
+     "texto": "ID; IIA; IIIB; IVC"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000037707",
+   "codigo": "4000037707",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 23,
+   "temas": [
+    "Diagnóstico"
+   ],
+   "enunciado": "Paciente com 21 anos fez um exame colpocitológico e tem-se o seguinte resultado: alterações reativas, ora cocobacilar, ausência de bacilos de Döderlein e presença de células-guias. Qual a hipótese diagnóstica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Infeçção por herpes genital."
+    },
+    {
+     "letra": "B",
+     "texto": "Infecção por clamídia."
+    },
+    {
+     "letra": "C",
+     "texto": "Infecção por papilomavírus humano."
+    },
+    {
+     "letra": "D",
+     "texto": "Vaginose bacteriana."
+    },
+    {
+     "letra": "E",
+     "texto": "Tricomoníase."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000036388",
+   "codigo": "4000036388",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 24,
+   "temas": [
+    "Corrimento vaginal f isiológico"
+   ],
+   "enunciado": "A mucorreia é definida pelo volume excessivo de secreção vaginal siológica, sendo um achado muito frequente na prática clínica. Diante de uma paciente com este diagnóstico, a conduta mais adequada é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "prescrever creme vaginal à base de antifúngicos"
+    },
+    {
+     "letra": "B",
+     "texto": "prescrever creme vaginal à base de metronidazol"
+    },
+    {
+     "letra": "C",
+     "texto": "prescrever tratamento combinado com creme vaginal e medicação oral"
+    },
+    {
+     "letra": "D",
+     "texto": "assegurar à paciente que, nesse caso, as secreções vaginais são normais"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000033091",
+   "codigo": "4000033091",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 25,
+   "temas": [
+    "Diagnóstico",
+    "Tratamento",
+    "Quadro clínico"
+   ],
+   "enunciado": "Mulher de 33 anos, secundigesta, com atraso menstrual de 15 dias, sexualmente ativa, sem uso de preservativo, procura a UBS relatando corrimento vaginal amarelado, com \"\"mau cheiro\"\", ardência vaginal e dispareunia há sete dias. Ao exame especular observa-se eritema vaginal, colo uterino com pontilhado avermelhados de aspecto semelhante a \"\"framboesa\"\", secreção amarelada bolhosa e com odor forte. A conduta MAIS ADEQUADA é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "prescrever azitromicina 1g via oral em dose única."
+    },
+    {
+     "letra": "B",
+     "texto": "prescrever metronidazol, 2g, via oral, em dose única."
+    },
+    {
+     "letra": "C",
+     "texto": "solicitar dosagem sérica de beta-hCG antes de iniciar tratamento."
+    },
+    {
+     "letra": "D",
+     "texto": "solicitar sorologias para infecção sexualmente transmissível (IST) antes de iniciar otratamento."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000031851",
+   "codigo": "4000031851",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 26,
+   "temas": [
+    "Tratamento",
+    "Diagnóstico",
+    "Quadro clínico"
+   ],
+   "enunciado": "V.M.B., de 35 anos, comparece à consulta com queixa de leucorreia clara, prurido e irritação vulvovaginal, além de odor desagradável, que piora após a relação sexual, há 5 dias. Ao exame a fresco da secreção vaginal, apresentou pH >4,5, com teste de Whiff positivo e >20% de clue cells. Quais são a hipótese diagnóstica e o tratamento recomendado?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "vaginose bacteriana; metronidazol 500 mg via oral a cada 12 horas, por 7 dias"
+    },
+    {
+     "letra": "B",
+     "texto": "tricomoníase; metronidazol 2 g via oral, em dose única"
+    },
+    {
+     "letra": "C",
+     "texto": "candidíase; fluconazol 150 mg via oral, em dose única"
+    },
+    {
+     "letra": "D",
+     "texto": "clamídia; azitromicina 1 g via oral; em dose única"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000030501",
+   "codigo": "4000030501",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 27,
+   "temas": [
+    "Diagnóstico"
+   ],
+   "enunciado": "Candidíase vulvovaginal complicada é um tipo recorrente da infecção por Cândida (quatro ou mais episódios por ano), apresentando-se em geral de maneira grave e sendo normalmente causada por Candida não albicans. Nestes casos, o exame que pode auxiliar o diagnóstico é a",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "colpocitologia oncoparasitária."
+    },
+    {
+     "letra": "B",
+     "texto": "bacterioscopia a fresco."
+    },
+    {
+     "letra": "C",
+     "texto": "bacterioscopia pelo Gram."
+    },
+    {
+     "letra": "D",
+     "texto": "polymerase chain reaction (PCR)."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000030387",
+   "codigo": "4000030387",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 28,
+   "temas": [
+    "Flora vaginal na criança",
+    "Flora vaginal em recémnascidas"
+   ],
+   "enunciado": "Criança de cinco anos, com corrimento e prurido. Ao exame físico, verifica-se corrimento amarelado e fétido associado a hiperemia e escoriações vulvar e perianal. Diante deste quadro, a principal hipótese diagnóstica e o tratamento são, respectivamente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "corpo estranho; retirada do corpo estranho e antibióticos."
+    },
+    {
+     "letra": "B",
+     "texto": "vulvovaginite inespecífica; medidas higiênicas e antibióticos."
+    },
+    {
+     "letra": "C",
+     "texto": "candidíase; medidas higiênicas e antibióticos."
+    },
+    {
+     "letra": "D",
+     "texto": "verminose; anti-helmínticos."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000030341",
+   "codigo": "4000030341",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 29,
+   "temas": [
+    "Diagnóstico",
+    "Tratamento",
+    "Quadro clínico"
+   ],
+   "enunciado": "Gestante com 16 semanas de gestação refere corrimento com prurido, ardência genital e odor fétido, que piora após os coitos. Ao exame físico, encontra-se corrimento amarelado, bolhoso e fétido associado e colpite focal. A hipótese diagnóstica mais provável e o tratamento são, respectivamente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "vaginose; derivados imidazólicos."
+    },
+    {
+     "letra": "B",
+     "texto": "candidíase; antifúngicos."
+    },
+    {
+     "letra": "C",
+     "texto": "vaginite inflamatória descamativa; corticoides."
+    },
+    {
+     "letra": "D",
+     "texto": "trichomoníase; derivados imidazólicos."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000028967",
+   "codigo": "4000028967",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 30,
+   "temas": [
+    "Abordagem da paciente com queixa de corrimento vaginal"
+   ],
+   "enunciado": "Paciente de 28 anos queixa-se de corrimento vaginal abundante, amarelo esverdeado, bolhoso e odor fétido. A propedêutica prática para complementar o diagnóstico a ser realizado é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "biópsia de mucosa vaginal."
+    },
+    {
+     "letra": "B",
+     "texto": "coloração de Gram."
+    },
+    {
+     "letra": "C",
+     "texto": "cultura."
+    },
+    {
+     "letra": "D",
+     "texto": "exame a fresco."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000027733",
+   "codigo": "4000027733",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 31,
+   "temas": [
+    "Abordagem da paciente com queixa de corrimento vaginal"
+   ],
+   "enunciado": "Lívia apresenta corrimento vaginal mais intenso que seu habitual nos últimos 15 dias. Está em um relacionamento monogâmico há 3 anos com seu namorado. Em relação aos corrimentos vaginais, MARQUE A CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O teste das aminas positivo exclui o diagnóstico de vaginite atrófica."
+    },
+    {
+     "letra": "B",
+     "texto": "Existe uma associação entre vaginose bacteriana e ruptura prematura de membranas em gestantes."
+    },
+    {
+     "letra": "C",
+     "texto": "Metronidazol tópico é o tratamento de primeira linha em gestantes que apresentem o diagnóstico de tricomoníase vaginal."
+    },
+    {
+     "letra": "D",
+     "texto": "As espécies de Candida como C. glabrata e C. tropicalis, costumam responder bem ao tratamento com Fluconazol dose única."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000024028",
+   "codigo": "4000024028",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 32,
+   "temas": [
+    "Vaginose bacteriana"
+   ],
+   "enunciado": "Uma paciente de 50 anos de idade vai a consulta em UBS com queixa de corrimento vaginal acinzentado e com odor fétido na última semana. Refere também que gostaria de realizar check-up, pois não se consulta com médico há mais de 10 anos e está preocupada, pois a própria mãe foi diagnosticada com câncer de mama quando tinha 68 anos de idade. História médica pregressa: G6P6A0, diagnóstico prévio de sí lis tratada recentemente e coitarca aos 14 anos de idade. Tabagista de um maço de cigarro ao dia desde os 15 anos de idade. Considerando esse caso clínico e os conhecimentos médicos relacionados à saúde da mulher, julgue o item a seguir. Considerando diagnóstico de vaginose bacteriana por Gardnerella vaginalis, o tratamento poderá ser feito com metronidazol via oral, devendo-se, ainda, convocar parceria sexual para tratamento adequado do casal.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000007193",
+   "codigo": "4000007193",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 33,
+   "temas": [
+    "Tratamento",
+    "Diagnóstico",
+    "Abordagem da paciente com queixa de corrimento vaginal"
+   ],
+   "enunciado": "Uma paciente com queixa de prurido vulvar apresenta exame de papanicolaou cujo laudo demonstra a presença de hifas. A melhor conduta nesse caso deve ser:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "somente orientar a realizar banho de assento com bicarbonato."
+    },
+    {
+     "letra": "B",
+     "texto": "tratar como vaginose bacteriana."
+    },
+    {
+     "letra": "C",
+     "texto": "tratar como candidíase."
+    },
+    {
+     "letra": "D",
+     "texto": "tratar somente com metronidazol via oral."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000003888",
+   "codigo": "4000003888",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 34,
+   "temas": [
+    "Quadro clínico"
+   ],
+   "enunciado": "A presença de petéquias no colo uterino sugere o diagnóstico de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Monilíase"
+    },
+    {
+     "letra": "B",
+     "texto": "Congestão pélvica"
+    },
+    {
+     "letra": "C",
+     "texto": "Tricomoniase vaginal"
+    },
+    {
+     "letra": "D",
+     "texto": "Púrpura trombocitopênica"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000118449",
+   "codigo": "4000118449",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 35,
+   "temas": [
+    "Vulvovaginites"
+   ],
+   "enunciado": "Considere as afirmações abaixo a respeito das características observadas em secreção vaginal. I. pH vaginal abaixo de 3,5. II. presença de Mobiluncus. III. diminuição acentuada de lactobacilos. IV. presença de filamentos ramificados e brotamentos. O diagnóstico de candidíase vaginal é compatível com o descrito APENAS em",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I, II e III."
+    },
+    {
+     "letra": "B",
+     "texto": "I e IV."
+    },
+    {
+     "letra": "C",
+     "texto": "II e III."
+    },
+    {
+     "letra": "D",
+     "texto": "II e IV."
+    },
+    {
+     "letra": "E",
+     "texto": "II, III e IV."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000113679",
+   "codigo": "4000113679",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 36,
+   "temas": [
+    "Tipos de f lora vaginal"
+   ],
+   "enunciado": "Constitui achado fisiológico na microbiota vaginal, predomínio de flora:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Aeróbica, principalmente bastonetes gram-negativos, com pH menor que cinco."
+    },
+    {
+     "letra": "B",
+     "texto": "Anaeróbica, principalmente bastonetes gram-positivos, com pH maior que cinco."
+    },
+    {
+     "letra": "C",
+     "texto": "Anaeróbica, principalmente bastonetes gram-positivos, com pH menor que cinco."
+    },
+    {
+     "letra": "D",
+     "texto": "Aeróbica, principalmente bastonetes gram-positivos, com pH menor que cinco."
+    },
+    {
+     "letra": "E",
+     "texto": "Aeróbica, principalmente bastonetes gram-negativos, com pH igual a sete."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000108445",
+   "codigo": "4000108445",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 37,
+   "temas": [
+    "Vulvovaginites",
+    "Doença Inf lamatória Pélvica",
+    "Úlceras genitais"
+   ],
+   "enunciado": "Alguns processos infecciosos e inflamatórios favorecem a transmissão do HIV, a exemplo, as doenças sexualmente transmissíveis não ulcerativas como:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cancro mole."
+    },
+    {
+     "letra": "B",
+     "texto": "Herpes."
+    },
+    {
+     "letra": "C",
+     "texto": "Sífilis."
+    },
+    {
+     "letra": "D",
+     "texto": "Tricomoníase"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000106731",
+   "codigo": "4000106731",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 38,
+   "temas": [
+    "Vulvovaginites"
+   ],
+   "enunciado": "Mulher de 47 anos está em consulta de rotina na unidade de saúde da família com queixa de corrimento via vaginal, com odor fétido e dor durante a relação sexual. Após o exame ginecológico e colpocitológico, recebeu o diagnóstico de vulvovaginite. Diante do exposto é correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Em 30% das mulheres saudáveis, assintomáticas, a Candidase. pode ser isolada na vagina."
+    },
+    {
+     "letra": "B",
+     "texto": "Há uma baixa ocorrência de vaginose bacteriana em mulheres homoafetivas, o que sugere a importância do coito nas alterações da flora vaginal normal."
+    },
+    {
+     "letra": "C",
+     "texto": "Durante a menstruação e o coito, o odor desagradável encontrado na vaginose bacteriana se agrava devido à acidificação do pH, o que facilita a volatização das aminas produzidas pelos patógenos."
+    },
+    {
+     "letra": "D",
+     "texto": "O efeito antabuse ocorre quando há consumo de álcool concomitante ao tratamento com tinidazol. Deve-se orientar a paciente a não ingerir álcool até o momento da ingestão do último comprimido deste medicamento."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000106410",
+   "codigo": "4000106410",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 39,
+   "temas": [
+    "Vulvovaginites"
+   ],
+   "enunciado": "Jovem de 18 comparece a consulta em UBS com queixa de dispareunia, disúria e sensação de calor e ardor vaginal e corrimento com odor fétido há 10 dias, sem dor abdominal. É nulípara, tem uxo menstrual regular, parceiro único assintomático e faz uso de contraceptivo hormonal combinado. Ao exame físico apresenta mucosa vaginal e colo com edema e hiperemia. Não há sangramento ou friabilidade cervical ou sinais de secreção mucopurulenta. A mobilização do colo é indolor. A medida de pH vaginal mostrou ser igual a 5,5. A figura apresenta o aspecto do colo do útero. Tendo em mente o agente etiológico causador desta afecção mais provável, assinale a alternativa que ofereça o melhor tratamento.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Miconazol creme vaginal a 2% tópico durante 7 dias."
+    },
+    {
+     "letra": "B",
+     "texto": "Doxiciclina 100 mg a cada 12 horas durante 7 dias."
+    },
+    {
+     "letra": "C",
+     "texto": "Azitromicina 1 g via oral + ceftriaxona 250 mg intramuscular, ambos dose única."
+    },
+    {
+     "letra": "D",
+     "texto": "Metronidazol 400 mg a cada 12 horas durante 7 dias"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q039-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000103215",
+   "codigo": "4000103215",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 40,
+   "temas": [
+    "Vulvovaginites"
+   ],
+   "enunciado": "Mulher com 44 anos procura a UBS com queixa de corrimento vaginal. A identi cação de suas características permite afirmar que se:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "tiver prurido, odor fétido, fluxo amarelado e hiperemia de colo, o corrimento vaginal é devido à candidíase."
+    },
+    {
+     "letra": "B",
+     "texto": "apresentar prurido, mas sem odor, aderente às paredes vaginais, edema e ardência às relações, o corrimento vaginal é devido à tricomoníase."
+    },
+    {
+     "letra": "C",
+     "texto": "apresentar odor e sem prurido, piorando com a relação sexual, cor branca ou amarelada e pH > 4,5; o corrimento vaginal é devido à vaginose bacteriana."
+    },
+    {
+     "letra": "D",
+     "texto": "apresentar odor e sem prurido, dor durante as relações sexuais e pH < 4,5, o corrimento vaginal é devido à vaginite atrófica."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000101741",
+   "codigo": "4000101741",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 41,
+   "temas": [
+    "Flora vaginal na criança"
+   ],
+   "enunciado": "Quanto ao corrimento genital na infância é INCORRETO afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A maior parte dos casos está associada a agentes infecciosos inespecíficos."
+    },
+    {
+     "letra": "B",
+     "texto": "A infecção por cândida sp é a principal causa de vulvovaginite na infância."
+    },
+    {
+     "letra": "C",
+     "texto": "Corpo estranho deve ser sempre considerado no diagnóstico diferencial."
+    },
+    {
+     "letra": "D",
+     "texto": "A infecção por enterobius vermicularis encontra-se entre os diagnósticos diferenciais."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000092291",
+   "codigo": "4000092291",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 42,
+   "temas": [
+    "Abordagem da paciente com queixa de corrimento vaginal",
+    "Tratamento",
+    "Quadro clínico"
+   ],
+   "enunciado": "Mulher, 30 anos, GIPI, relata corrimento vaginal abundante, amarelo-esverdeado e fétido. Qual a melhor conduta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Prescrever secnidazol 1 g associado à aplicação noturna de metronidazol gel vaginal."
+    },
+    {
+     "letra": "B",
+     "texto": "Prescrever metronidazol gel vaginal, uma aplicação noturna por 10 dias."
+    },
+    {
+     "letra": "C",
+     "texto": "Realizar exame de secreção vaginal."
+    },
+    {
+     "letra": "D",
+     "texto": "Realizar exame preventivo."
+    },
+    {
+     "letra": "E",
+     "texto": "Exame especular."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000091890",
+   "codigo": "4000091890",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 43,
+   "temas": [
+    "Tricomoníase"
+   ],
+   "enunciado": "Quanto à tricomoníase vaginal, assinale a alternativa CORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Os recém-nascidos de mães infectadas podem contrair infecção durante o parto e apresentarem febre e corrimento vaginal."
+    },
+    {
+     "letra": "B",
+     "texto": "Pode ser uma doença sexualmente transmitida, mas o parceiro deve ser tratado apenas se for sintomático."
+    },
+    {
+     "letra": "C",
+     "texto": "O Trichomonas vaginalis se desenvolve melhor no meio vaginal básico (pH entre 7 e 8), o que ajuda o diagnóstico."
+    },
+    {
+     "letra": "D",
+     "texto": "Devido ao tamanho do protozoário, a resposta terapêutica é melhor com a aplicação tópica do que com a administração oral do metronidazol."
+    },
+    {
+     "letra": "E",
+     "texto": "A maioria das mulheres infectadas são sintomáticas e a principal queixa é o prurido."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000091470",
+   "codigo": "4000091470",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 44,
+   "temas": [
+    "Vaginose bacteriana"
+   ],
+   "enunciado": "Sobre a vaginose bacteriana, assinale a alternativa CORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Caracteriza-se por uma mudança na flora vaginal normal, para espécies bacterianas mais diversas, incluindo anaeróbios facultativos."
+    },
+    {
+     "letra": "B",
+     "texto": "Geralmente ocorre uma alteração do microbioma, causando uma redução no pH vaginal e sintomas de intensidade variada."
+    },
+    {
+     "letra": "C",
+     "texto": "O exame de papanicolaou é confiável para o diagnóstico da vaginose bacteriana, com alta sensibilidade, mas baixa especificidade."
+    },
+    {
+     "letra": "D",
+     "texto": "A infecção assintomática deve ser sempre tratada, devido ao risco de desenvolvimento de doença inflamatória pélvica."
+    },
+    {
+     "letra": "E",
+     "texto": "A azitromicina e a amoxacilina são alternativas eficazes, quando houver intolerância aos imidazólicos."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000081128",
+   "codigo": "4000081128",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 45,
+   "temas": [
+    "Critérios de Amsel"
+   ],
+   "enunciado": "Alguns especialistas relatam que a vaginose bacteriana (VB) é \"a causa mais frequente dos sintomas vaginais que resultam em consultas médicas\". O diagnóstico dessa patologia é iminentemente clínico, mas nem sempre a descarga vaginal fétida e sem irritação característica está presente. Em 1993, foram propostos por Amsel alguns critérios, que são usados até hoje, para o diagnóstico desta patologia, EXCETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "whiff test positivo"
+    },
+    {
+     "letra": "B",
+     "texto": "teste com fita de pH vaginal > 4,5"
+    },
+    {
+     "letra": "C",
+     "texto": "citologia a fresco com solução salina evidenciando clue-cells"
+    },
+    {
+     "letra": "D",
+     "texto": "presença de dois ou mais morfotipos bacilares por campo de grande aumento"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000078961",
+   "codigo": "4000078961",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 46,
+   "temas": [
+    "Abordagem da paciente com queixa de corrimento vaginal"
+   ],
+   "enunciado": "Em atendimento no ambulatório de ginecologia a médica residente examinou quatro pacientes com as seguintes características de conteúdo da secreção vaginal: Em atendimento no ambulatório de ginecologia a médica residente examinou quatro pacientes com as seguintes características de conteúdo da secreção vaginal: Paciente A: corrimento branco, claro, sem sintomas. Paciente B: corrimento no, cinza, aderente, aumentado com odor fétido. Paciente C: corrimento branco tipo “queijo cottage” com sintoma de prurido e queimação. Paciente D: corrimento verde amarelado, espumoso, aderente, com sintoma de disúria e prurido. Assinale a opção que mostra a relação paciente/diagnóstico correto:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Paciente A: corrimento fisiológico; Paciente B: tricomoníase; Paciente C: candidíase; Paciente D: vaginose bacteriana."
+    },
+    {
+     "letra": "B",
+     "texto": "Paciente A: mucorreia; Paciente B: corrimento necrótico; Paciente C: tricomoníase; Paciente D: vaginose bacteriana."
+    },
+    {
+     "letra": "C",
+     "texto": "Paciente A: mucorreia; Paciente B: tricomoníase; Paciente C: candidíase; Paciente D: purulento."
+    },
+    {
+     "letra": "D",
+     "texto": "Paciente A: candidíase; Paciente B: purulento; paciente C: corrimento fisiológico; Paciente D: vaginose bacteriana."
+    },
+    {
+     "letra": "E",
+     "texto": "Paciente A: corrimento fisiológico; Paciente B: vaginose bacteriana; Paciente C: candidíase; Paciente D: tricomoníase."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000068484",
+   "codigo": "4000068484",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 47,
+   "temas": [
+    "Diagnóstico",
+    "Quadro clínico"
+   ],
+   "enunciado": "Paciente, 26 anos, apresenta queixa de prurido vulvar discreto. Ao exame especular: corrimento vaginal purulento, bolhoso e colpite focal. A microscopia a fresco da secreção vaginal mostra piócitos e corpos ovulares móveis, com teste das aminas e pH vaginal>5. O dignóstico é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "candidíase"
+    },
+    {
+     "letra": "B",
+     "texto": "tricomoníase"
+    },
+    {
+     "letra": "C",
+     "texto": "vaginose bacteriana."
+    },
+    {
+     "letra": "D",
+     "texto": "vaginose estreptocócica (descamativa)."
+    },
+    {
+     "letra": "E",
+     "texto": "vaginose citolítica."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000067372",
+   "codigo": "4000067372",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 48,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Mulher, 19 anos de idade, com corrimento vaginal branco-acinzentado, de aspecto bolhoso, com odor fétido, mais acentuado após a relação sexual sem o uso do preservativo e durante o período menstrual. Apresentou teste de Whi positivo e foi observada presença de clue cells na bacterioscopia corada por Gram. Diante da situação apresentada, qual é o tratamento adequado para a condição clínica em questão, segundo o Protocolo Clínico e Diretrizes Terapêuticas do Ministério da Saúde?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Nistatina 100.000 UI, aplicação única, via vaginal, à noite ao deitar, por 14 dias."
+    },
+    {
+     "letra": "B",
+     "texto": "Fluconazol 150 mg, VO, dose única."
+    },
+    {
+     "letra": "C",
+     "texto": "Itraconazol 100 mg, 2 comprimidos, VO, 2 vezes ao dia, por 1 dia."
+    },
+    {
+     "letra": "D",
+     "texto": "Metronidazol 250 mg, 2 comprimidos VO, 2 vezes ao dia, por 7 dias."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000061070",
+   "codigo": "4000061070",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 49,
+   "temas": [
+    "Vaginite inf lamatória descamativa"
+   ],
+   "enunciado": "Leia a descrição a seguir. É uma síndrome clínica caracterizada por vaginite exsudativa difusa, esfoliação de células epiteliais e secreção vaginal purulenta e profusa. A coloração Gram mostra ausência relativa de bacilos Gram-positivos longos normais (lactobacilos) e sua substituição por cocos Gram-positivos. A paciente apresenta secreção vaginal purulenta, ardência vulvovaginal e dispareunia. Assinale a alternativa que apresenta, corretamente, a situação clínica descrita.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Candidíase vulvovaginal crônica."
+    },
+    {
+     "letra": "B",
+     "texto": "Síndrome de Rokitansky-Kuster-Hauser."
+    },
+    {
+     "letra": "C",
+     "texto": "Vaginite inflamatória."
+    },
+    {
+     "letra": "D",
+     "texto": "Vaginose bacteriana."
+    },
+    {
+     "letra": "E",
+     "texto": "Tricomoníase vaginal."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000038729",
+   "codigo": "4000038729",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 50,
+   "temas": [
+    "Vaginose citolítica",
+    "Vulvovaginites"
+   ],
+   "enunciado": "Paciente M.A.S, 26 anos vem à consulta ginecológica com queixa de leucorreia esbranquiçada longa data associada a prurido e ardência com piora no período pré- menstrual, sensação de queimação e dispareunia com piora após ato sexual. Paciente se apresenta ansiosa, estressada, referindo já ter procurado alguns médicos e realizado vários exames e tratamentos, porém sem diagnóstico confirmado e principalmente sem melhora após tratamentos preconizados. Diante do quadro, a patologia e o tratamento indicados são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Vaginite inflamatória descamativa - clindamicina creme vaginal 2%, durante cinco dias; ou hidrocortisona 10% intravaginal durante duas a quatro semanas."
+    },
+    {
+     "letra": "B",
+     "texto": "Vaginose citolítica - alcalinizar o meio vaginal, fazer uso de duchas vaginais com bicarbonato de sódio no período pré-menstrual."
+    },
+    {
+     "letra": "C",
+     "texto": "Candidíase vaginal recorrente - tratamento tópico associado com fluconazol 150 mg de três em três dias a seguir mensal por seis meses."
+    },
+    {
+     "letra": "D",
+     "texto": "Vaginose bacteriana - metronidazol 500 mg 12/12 h por sete dias ou tinidazol 2 g dose única associando com metronidazol gel a clindamicina 2% vaginal."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000033172",
+   "codigo": "4000033172",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 51,
+   "temas": [
+    "Vaginose bacteriana",
+    "Abordagem da paciente com queixa de corrimento vaginal"
+   ],
+   "enunciado": "Paciente previamente assintomática, procura o consultório para rotina ginecológica e relata presença de corrimento amarelado, acinzentado, bolhoso e com odor fétido. O exame físico especular indicou ausência de in amação do colo uterino (colpite) e identi cou presença de muco cervical hialino, além da secreção descrita. Diante das características físicas da secreção vaginal e exame físico, o diagnóstico provável é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "vaginose bacteriana."
+    },
+    {
+     "letra": "B",
+     "texto": "candidíase vaginal."
+    },
+    {
+     "letra": "C",
+     "texto": "trichomoníase."
+    },
+    {
+     "letra": "D",
+     "texto": "infecção por clamídia."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000019632",
+   "codigo": "4000019632",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 52,
+   "temas": [
+    "Critérios de Amsel"
+   ],
+   "enunciado": "No diagnóstico de vaginose bacteriana, não é critério clínico de Amsel:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Coilocitose."
+    },
+    {
+     "letra": "B",
+     "texto": "PH vaginal > 4,5."
+    },
+    {
+     "letra": "C",
+     "texto": "Teste das aminas positivo"
+    },
+    {
+     "letra": "D",
+     "texto": "Corrimento branco-acinzentado, homogêneo, fino."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000011795",
+   "codigo": "4000011795",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 53,
+   "temas": [
+    "Teste das aminas"
+   ],
+   "enunciado": "Ao adicionar hidróxido de potássio a 10 % ao corrimento vaginal, a liberação de odor de peixe podre ocorre devido à liberação de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "amônia."
+    },
+    {
+     "letra": "B",
+     "texto": "cloreto de sódio."
+    },
+    {
+     "letra": "C",
+     "texto": "cadaverina e putrescina."
+    },
+    {
+     "letra": "D",
+     "texto": "ureia."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000011509",
+   "codigo": "4000011509",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 54,
+   "temas": [
+    "Vaginose bacteriana"
+   ],
+   "enunciado": "A vaginose bacteriana é uma entidade polimicrobiana causada: I. pela diminuição acentuada dos Lactobacillus sp e aumento nas concentrações das bactérias anaeróbias, principalmente Gardnerella vaginalis, Mobilluncus sp e micoplasmas; II. pelo aumento acentuado dos Lactobacillus sp e aumento nas concentrações das bactérias anaeróbias, principalmente Gardnerella vaginalis, Mobilluncus sp e micoplasmas; III. pelo aumento acentuado dos Lactobacillus sp e diminuição nas concentrações das bactérias anaeróbias, principalmente Gardnerella vaginalis, Mobilluncus sp e micoplasmas; IV. pela diminuição acentuada dos Lactobacillus sp e aumento nas concentrações das bactérias aeróbias, principalmente Gardnerella vaginalis, Mobilluncus sp e micoplasmas. Dos itens, verifica-se que está(ão) correto(s) apenas",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "II, III e IV."
+    },
+    {
+     "letra": "B",
+     "texto": "III e IV."
+    },
+    {
+     "letra": "C",
+     "texto": "I e IV."
+    },
+    {
+     "letra": "D",
+     "texto": "I e II."
+    },
+    {
+     "letra": "E",
+     "texto": "I."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000127563",
+   "codigo": "4000127563",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 55,
+   "temas": [
+    "Vulvovaginites"
+   ],
+   "enunciado": "Quadro clínico mais semelhante com a candidíase de repetição, caracterizado por prurido, dispareunia e corrimento pastoso:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Vaginite por trichomoniase."
+    },
+    {
+     "letra": "B",
+     "texto": "Vaginose bacteriana."
+    },
+    {
+     "letra": "C",
+     "texto": "Vaginose citolítica."
+    },
+    {
+     "letra": "D",
+     "texto": "Vaginite atrófica."
+    },
+    {
+     "letra": "E",
+     "texto": "Vaginite inespecífica."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000125970",
+   "codigo": "4000125970",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 56,
+   "temas": [
+    "Clamídia",
+    "Tratamento",
+    "Diagnóstico"
+   ],
+   "enunciado": "Sobre as infecções vulvovaginais, marque o que está INCORRETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Para o diagnóstico de corrimento por vaginose, a cultura não é recomendada, porém o Papanicolau é pouco sensível (clue cells)."
+    },
+    {
+     "letra": "B",
+     "texto": "Para o tratamento de vaginose bacteriana, o creme vaginal a base de metronidazol é menos efetivo quanto comparado ao oral, porém tem a vantagem de ausência de efeitos colaterais."
+    },
+    {
+     "letra": "C",
+     "texto": "A cultura é método mais específico, porém de pouco valor prático no diagnóstico de tricomoníase vaginal."
+    },
+    {
+     "letra": "D",
+     "texto": "A clínica clássica de vulvovaginite por cândida é prurido e desconforto vulvar, edema, escoriações, corrimento esbranquiçado, disúria e hiperemia."
+    },
+    {
+     "letra": "E",
+     "texto": "A secreção amarelo-esverdeada e purulenta tem como principais agentes etiológicos a Chamydia e Gonococo, sendo recomendado o tratamento conjunto."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120523",
+   "codigo": "4000120523",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 57,
+   "temas": [
+    "Diagnóstico"
+   ],
+   "enunciado": "Mulher de 37 anos refere corrimento vaginal amarelado e espesso, prurido vulvovaginal intenso e ardência miccional. Está no 24º dia do ciclo menstrual, nega uso de método contraceptivo e relata estar em pausa sexual há 6 meses. Exame ginecológico: vulvite intensa, conteúdo vaginal aumentado, bifásico, teste de aminas negativo e pH 4,4. Bacterioscopia do conteúdo vaginal mostrada a seguir: O diagnóstico é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Dermatose vulvar."
+    },
+    {
+     "letra": "B",
+     "texto": "Vaginose citolítica."
+    },
+    {
+     "letra": "C",
+     "texto": "Vaginite descamativa inflamatória."
+    },
+    {
+     "letra": "D",
+     "texto": "Candidíase vulvovaginal."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q057-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000120408",
+   "codigo": "4000120408",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 58,
+   "temas": [
+    "Vulvovaginites"
+   ],
+   "enunciado": "Os números (1), (2), (3) e (4) do fluxograma abaixo correspondem, respectivamente a corrimento vaginal por",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "(1) vaginose bacteriana ou tricomoníase, (2) secreção fisiológica, (3) candidíase, (4) vaginose bacteriana."
+    },
+    {
+     "letra": "B",
+     "texto": "(1) candidíase albicans ou não, (2) vaginose bacteriana, (3) herpes genital, (4) vaginose bacteriana."
+    },
+    {
+     "letra": "C",
+     "texto": "(1) tricomoníase ou vaginose citolítica, (2) vaginose bacteriána, (3) Candidiáse, (4) herpes genital."
+    },
+    {
+     "letra": "D",
+     "texto": "(1) secreção fisiológica, (2) vaginose bacteriana, (3) vaginose citolítica, (4) clamídia."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q058-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000110867",
+   "codigo": "4000110867",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 59,
+   "temas": [
+    "Corrimento vaginal f isiológico"
+   ],
+   "enunciado": "Nulípara, 25 anos, procura a UBS com queixa de corrimento vaginal branco, ínodoro, intermitente, há 1 ano. Nega prurido. Refere ser sexualmente ativa usando preservativo masculino como método anticoncepcional. Ao exame ginecológico apresenta pequena quantidade de conteúdo vaginal de coloração branca; pH vaginal= 4,5; Exame microscópico: leucócitos +/4+, presença de bacilos gram-positivos e raros cocos gram- positivos. O diagnóstico provável é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Conteúdo vaginal fisiológico."
+    },
+    {
+     "letra": "B",
+     "texto": "Vaginite por monília."
+    },
+    {
+     "letra": "C",
+     "texto": "Vaginite citolítica."
+    },
+    {
+     "letra": "D",
+     "texto": "Alergia ao látex."
+    },
+    {
+     "letra": "E",
+     "texto": "Tricomoníase."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000101722",
+   "codigo": "4000101722",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 60,
+   "temas": [
+    "Tricomoníase"
+   ],
+   "enunciado": "A melhor maneira de pesquisar a presença de trichomonas é colocar a secreção vagina em lâmina e adicionar",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "soro fisiológico."
+    },
+    {
+     "letra": "B",
+     "texto": "água destilada."
+    },
+    {
+     "letra": "C",
+     "texto": "NaCl."
+    },
+    {
+     "letra": "D",
+     "texto": "hidróxido de potássio a 10%."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000098761",
+   "codigo": "4000098761",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 61,
+   "temas": [
+    "Vulvovaginites"
+   ],
+   "enunciado": "Paciente de 20 anos de idade, com vida sexual ativa, usuária de método contraceptivo hormonal oral, vem ao ambulatório com diversas dúvidas sobre a vida sexual e doenças sexualmente transmissíveis. Dentre as patologias abaixo, é mandatório o tratamento do parceiro de pacientes com:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tricomoníase"
+    },
+    {
+     "letra": "B",
+     "texto": "Vaginite citolítica"
+    },
+    {
+     "letra": "C",
+     "texto": "Candidíase"
+    },
+    {
+     "letra": "D",
+     "texto": "Vaginose bacteriana"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000067229",
+   "codigo": "4000067229",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 62,
+   "temas": [
+    "Consequências da inf ecção"
+   ],
+   "enunciado": "A vaginose bacteriana (VB) é uma entidade que pode cursar com problemas quando associada à gestação. Em qual situação pode ocorrer a VB e qual a metodologia proposta para evitá-la?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Trabalho de parto prematuro (TPP) – rastrear VB em mulheres com história pregressa de TPP."
+    },
+    {
+     "letra": "B",
+     "texto": "Abortamento – realizar cerclagem nos casos associados com vaginose bacteriana."
+    },
+    {
+     "letra": "C",
+     "texto": "Ruptura prematura de membranas – evitar relacionamento sexual no pré-natal nas mulheres com VB."
+    },
+    {
+     "letra": "D",
+     "texto": "Transmissão perinatal para o recém-nato – tratar com creme vaginal nos casos positivos para VB após 36 semanas."
+    },
+    {
+     "letra": "E",
+     "texto": "Tansmissão perinatal do HIV – realizar tratamento das mulheres com VB mesmo assintomáticas nas gestantes com HIV."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000066339",
+   "codigo": "4000066339",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 63,
+   "temas": [
+    "Abordagem da paciente com queixa de corrimento vaginal"
+   ],
+   "enunciado": "Em relação ao diagnóstico das vulvovaginites, é CORRETO afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O exame a fresco da secreção vaginal com hidróxido de potássio a 10% promove uma lise celular, facilitando a identificação de hifas e micélios."
+    },
+    {
+     "letra": "B",
+     "texto": "A identificação da Candida através de cultura, na ausência de sinais e sintomas, é indicativa para tratamento."
+    },
+    {
+     "letra": "C",
+     "texto": "A sensibilidade do exame a fresco em amostras vaginais para diagnóstico da tricomoníase é alta."
+    },
+    {
+     "letra": "D",
+     "texto": "A utilização de cultura de secreção vaginal em meio específico de Diamond está indicada nas pacientes com clínica sugestiva de candidíase e com exame a fresco negativo."
+    },
+    {
+     "letra": "E",
+     "texto": "A vaginose bacteriana é mais frequente em pH vaginal abaixo de 4,5."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000062806",
+   "codigo": "4000062806",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 64,
+   "temas": [
+    "Tratamento",
+    "Diagnóstico",
+    "Quadro clínico"
+   ],
+   "enunciado": "Mulher com 18 anos de idade, portadora de diabetes mellitus tipo 1, procurou a emergência ginecológica relatando prurido vulvar intenso e disúria. Ao exame clínico foi verificada presença de hiperemia, ssuras e edema vulvar acompanhada de leucorreia grumosa com aspecto de \"leite coalhado\" com placas brancas envolvendo parte da vagina e colo. A hipótese diagnóstica e a terapêutica recomendada para o caso em questão são, respectivamente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tricomoníase e metronidazol 400 mg/5 comprimidos via oral, dose única"
+    },
+    {
+     "letra": "B",
+     "texto": "Candidíase vulvovaginal e miconazol 2% creme vaginais por 7 noites seguidas"
+    },
+    {
+     "letra": "C",
+     "texto": "Vaginose bacteriana e metronidazol gel vaginal 100 mg por 5 noites seguidas"
+    },
+    {
+     "letra": "D",
+     "texto": "Candidíase vaginal e clindamicina 300 mg/1 comprimido via oral 12/12h por 7 dias"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000056579",
+   "codigo": "4000056579",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 65,
+   "temas": [
+    "Tricomoníase"
+   ],
+   "enunciado": "Em relação à tricomoníase vaginal, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "As pacientes com infecção por tricomonas devem ser testadas para outras doenças sexualmente transmissíveis e os contatos sexuais devem ser avaliados."
+    },
+    {
+     "letra": "B",
+     "texto": "Cremes vaginais com derivados “azóis ” são uma opção de tratamento."
+    },
+    {
+     "letra": "C",
+     "texto": "É diagnosticada, principalmente, pelo exame em campo escuro ou pelo teste da imunofluorescência direta do líquido da lesão."
+    },
+    {
+     "letra": "D",
+     "texto": "É uma doença genital ulcerativa encontrada em grupos socioeconômicos desfavorecidos e entre indivíduos com múltiplos parceiros sexuais."
+    },
+    {
+     "letra": "E",
+     "texto": "É uma síndrome clínica comum relacionada com acidificação do pH vaginal e diminuição da população de lactobacilos vaginais."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000053617",
+   "codigo": "4000053617",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 66,
+   "temas": [
+    "Vaginose citolítica",
+    "Exame bacterioscópico"
+   ],
+   "enunciado": "Podemos considerar que as técnicas de biologia molecular são as mais precisas atualmente para o diagnóstico microbiológico. Muito se utiliza na prática clínica as características citológicas dos esfregaços vaginais como meios indiretos de inferir a presença de microrganismos patológicos. A presença de blastóforos e hifas é patognomônica de candidíase vaginal. Núcleos nus de células intermediárias, aumento do número de lactobacilos e fragmentação citoplasmática também são comuns na candidíase, mas devem apresentar importante diagnóstico diferencial para:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Vaginose citolítica."
+    },
+    {
+     "letra": "B",
+     "texto": "Vaginose bacteriana."
+    },
+    {
+     "letra": "C",
+     "texto": "Herpes simples 2."
+    },
+    {
+     "letra": "D",
+     "texto": "Sífilis."
+    },
+    {
+     "letra": "E",
+     "texto": "Tricomoníase."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000048943",
+   "codigo": "4000048943",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 67,
+   "temas": [
+    "Fatores de risco"
+   ],
+   "enunciado": "Fatores predisponentes para infecção e recidiva de candidíase vaginal são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Diabetes melito, gravidez."
+    },
+    {
+     "letra": "B",
+     "texto": "Uso de anticoncepcionais orais e antibioticoterapia"
+    },
+    {
+     "letra": "C",
+     "texto": "Deficiência imunitária e hábitos inadequados de higiene e vestuário"
+    },
+    {
+     "letra": "D",
+     "texto": "Todos acima"
+    },
+    {
+     "letra": "E",
+     "texto": "Nenhum acima"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000006366",
+   "codigo": "4000006366",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 68,
+   "temas": [
+    "Flora vaginal na criança"
+   ],
+   "enunciado": "Criança, 4 anos, apresentando corrimento amarelado com odor fétido e prurido vulvar. Qual a principal causa desse quadro nesta faixa etária?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Candidíase vaginal."
+    },
+    {
+     "letra": "B",
+     "texto": "Corpo estranho."
+    },
+    {
+     "letra": "C",
+     "texto": "Má higiene."
+    },
+    {
+     "letra": "D",
+     "texto": "Trichuris trichiura."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000118279",
+   "codigo": "4000118279",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 69,
+   "temas": [
+    "Quadro clínico"
+   ],
+   "enunciado": "Paciente de 29 anos, usuária de Dispositivo Intrauterino (DIU) medicado com levonorgestrel há 2 anos, procurou atendimento com queixa clínica de corrimento vaginal esbranquiçado, sem prurido, mas com odor desagradável que piora quando tem relações sexuais. Tem namorado e este não tem queixa clínica alguma. O exame ginecológico demonstrou DIU bem posicionado e conteúdo vaginal de aspecto leitoso, com poucas bolhas. Em relação a essa situação clínica, assinale a alternativa que apresenta a afirmação CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Deve se tratar de vaginose por Actinomyces sp., pois é usuária de DIU."
+    },
+    {
+     "letra": "B",
+     "texto": "O quadro clínico e o exame físico são sugestivos de vaginose bacteriana."
+    },
+    {
+     "letra": "C",
+     "texto": "Deve-se solicitar bacterioscópico e cultura de conteúdo vaginal, com coleta de conteúdo do fio do DIU."
+    },
+    {
+     "letra": "D",
+     "texto": "O quadro é sugestivo de vaginite mista (candidíase e vaginose bacteriana)."
+    },
+    {
+     "letra": "E",
+     "texto": "Trata-se de tricomoníase vaginal."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000116374",
+   "codigo": "4000116374",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 70,
+   "temas": [
+    "Corrimento vaginal f isiológico",
+    "Ecossistema e mecanismos de def esa vaginal",
+    "Tipos de f lora vaginal"
+   ],
+   "enunciado": "Detectado em exame vaginal de rotina na mulher saudável e assintomática no menacme, NÃO deve ser tratado:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Streptococcus agalactiae."
+    },
+    {
+     "letra": "B",
+     "texto": "Neisseria gonorreae."
+    },
+    {
+     "letra": "C",
+     "texto": "Clamydia trachomatis."
+    },
+    {
+     "letra": "D",
+     "texto": "Ureaplasma urealiticum."
+    },
+    {
+     "letra": "E",
+     "texto": "Micoplasma hominis."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000102438",
+   "codigo": "4000102438",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 71,
+   "temas": [
+    "Corrimento vaginal f isiológico",
+    "Ecossistema e mecanismos de def esa vaginal",
+    "Tipos de f lora vaginal"
+   ],
+   "enunciado": "O microambiente vaginal, decorrente da conversão de glicogênio em ácido lático, depende da presença de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Gardnerella vaginalis."
+    },
+    {
+     "letra": "B",
+     "texto": "Cândida albicans."
+    },
+    {
+     "letra": "C",
+     "texto": "Peptestreptococos."
+    },
+    {
+     "letra": "D",
+     "texto": "Bacilos de Doderlein."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000102295",
+   "codigo": "4000102295",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 72,
+   "temas": [
+    "Vulvovaginites"
+   ],
+   "enunciado": "Em relação aos principais corrimentos vaginais, é INCORRETO afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O tratamento de candidíase pode ser realizado com cetoconazol, itraconazol ou fluconazol."
+    },
+    {
+     "letra": "B",
+     "texto": "O tratamento do trichomonas pode ser feito com tinidazol e secnidazol 2 g, dose única."
+    },
+    {
+     "letra": "C",
+     "texto": "A vaginose bacteriana pode ser tratada com metronidazol 500 mg de 12/12h por 7 dias."
+    },
+    {
+     "letra": "D",
+     "texto": "No tratamento do trichomonas, a vaginose bacteriana e a candidíase, deve-se tratar também o parceiro."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000098252",
+   "codigo": "4000098252",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 73,
+   "temas": [
+    "Vulvovaginites",
+    "Tratamento",
+    "Candidíase"
+   ],
+   "enunciado": "Gestante de 28 semanas procura ambulatório com queixa de prurido vaginal e ardência ao urinar. Ao exame, veri cou-se vagina hiperemiada, presença de ssuras em fúrcula vaginal e secreção esbranquiçada aderida em paredes vaginais; colo epitelizado sem lesões aparentes. Uma opção terapêutica para o caso descrito é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "tinidazol"
+    },
+    {
+     "letra": "B",
+     "texto": "tioconazol"
+    },
+    {
+     "letra": "C",
+     "texto": "fluconazol"
+    },
+    {
+     "letra": "D",
+     "texto": "metronidazol"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000088122",
+   "codigo": "4000088122",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 74,
+   "temas": [
+    "Teste das aminas",
+    "Diagnóstico",
+    "Risco de inf ecção"
+   ],
+   "enunciado": "Sobre as principais vulvovaginites, considere as assertivas abaixo.; I - Vaginose bacteriana está relacionada com Ph vaginal < 4,5 e teste das aminas positivo.; II - Hidróxido de potássio é útil para a realização do exame a fresco em caso de vulvovaginite micótica.; III - O uso de dispositivo intrauterino pode estar associado à presença de Actinomyces ao exame citopatológico de colo uterino. Quais são corretas?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Apenas I."
+    },
+    {
+     "letra": "B",
+     "texto": "Apenas II."
+    },
+    {
+     "letra": "C",
+     "texto": "Apenas III."
+    },
+    {
+     "letra": "D",
+     "texto": "Apenas II e III."
+    },
+    {
+     "letra": "E",
+     "texto": "I, II e III."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000084070",
+   "codigo": "4000084070",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 75,
+   "temas": [
+    "Abordagem da paciente com queixa de corrimento vaginal"
+   ],
+   "enunciado": "As vulvovaginites são afecções comuns do trato genital, sobre sua investigação diagnóstica assinale a alternativa INCORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Num quadro clínico de corrimento vaginal grumos e prurido genital, o exame direto microscópico do conteúdo vaginal, onde visibilizamos hifas e blastoconídeos, nos permite concluir que o diagnóstico é de candidíase."
+    },
+    {
+     "letra": "B",
+     "texto": "No exame microscópico direto, ao encontrarmos células epiteliais com aspecto polvilhado, podemos suspeitar de vaginose causada, por exemplo pela Gardnerella vaginallis."
+    },
+    {
+     "letra": "C",
+     "texto": "Na avaliação GRAM do conteúdo vaginal, a vaginose é marcada pela ausência de bacilos médios GRAM + (lactobacilos), presença de coccos GRAM variados (Gardnerellas) e bacilos curvos GRAM - e variados."
+    },
+    {
+     "letra": "D",
+     "texto": "Independente do quadro clínico, o GRAM do conteúdo vaginal permite diagnosticar vaginose citolítica quando é encontrado: núcleos desnudos, restos de citoplasma, grande população de bacilos médios GRAM+ e poucas células inflamatórias."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000080908",
+   "codigo": "4000080908",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 76,
+   "temas": [
+    "Tricomoníase"
+   ],
+   "enunciado": "Como parasita extracelular da mucosa genital, o Trichomonas vaginalis tem que superar diversas barreiras além da resposta imune do hospedeiro para estabelecer uma infecção. Com relação a vaginite por Trichomonas, é correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o diagnóstico costuma ser feito por meio de identificação microscópica a fresco do parasita aeróbio, ovalado, móvel e com flagelo."
+    },
+    {
+     "letra": "B",
+     "texto": "tem período de incubação que varia entre 3 a 8 semanas, e o acometimento de vagina, uretra, cérvice e bexiga é frequente."
+    },
+    {
+     "letra": "C",
+     "texto": "o esquema terapêutico primário recomendado pelo CDC (2010b) consiste no uso de Secnidazol 2 gramas, em dose única."
+    },
+    {
+     "letra": "D",
+     "texto": "apresenta taxa de transmissão alta, e 70% dos homens podem contrair a doença após uma única exposição a uma mulher infectada."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000069311",
+   "codigo": "4000069311",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 77,
+   "temas": [
+    "Pediatria"
+   ],
+   "enunciado": "Um recém-nascido do sexo masculino pesando 2950g nasce a termo de parto normal. Doze horas após o parto, parece pálido e ictérico. Estudos laboratoriais revelam o seguinte: sangue materno tipo O Rh positivo; sangue do recém-nascido tipo A, Rh positivo; contagem de hematócrito 38%. Qual das seguintes é a causa mais provável da anemia?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Incompatibilidade ABO."
+    },
+    {
+     "letra": "B",
+     "texto": "Anemia fisiológica do recém-nascido."
+    },
+    {
+     "letra": "C",
+     "texto": "Anemia falciforme."
+    },
+    {
+     "letra": "D",
+     "texto": "Anemia por deficiência de ferro."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000059525",
+   "codigo": "4000059525",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 78,
+   "temas": [
+    "Vulvovaginites"
+   ],
+   "enunciado": "Paola, 28 anos, procura atendimento médico por estar apresentando um corrimento de odor desagradável. Apresenta vida sexual ativa. Parceiro não apresenta sintomas. Desse modo, pode-se afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Durante a gestação, antifúngicos orais estão contraindicados no tratamento de candidíase vaginal."
+    },
+    {
+     "letra": "B",
+     "texto": "Vaginose bacteriana e candidíase são consideradas as principais doenças sexualmente transmissíveis."
+    },
+    {
+     "letra": "C",
+     "texto": "Na mulher, a gonorreia é sintomática em 60-80% dos casos."
+    },
+    {
+     "letra": "D",
+     "texto": "A infecção por Chlamydia trachomatis não está relacionada com infertilidade."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000051197",
+   "codigo": "4000051197",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 79,
+   "temas": [
+    "Vulvovaginites"
+   ],
+   "enunciado": "Sobre o corrimento vaginal, que é uma queixa muito frequente nos atendimentos à população feminina, atribua V (verdadeiro) ou F (falso) às afirmativas a seguir. ( ) A vaginose bacteriana está associada com o declínio de Lactobacillus spp. ( ) A vaginose pelo Trichonomas vaginallis frequentemente se associa a Gardnerellose. ( ) A Clamydia trachomatis afeta o epitélio colunar cervical, mas não o escamoso. ( ) A Candida albicans pode estar presente na microbiota vaginal normal. ( ) Os estreptococos estão ausentes na vaginite inflamatória. Assinale a alternativa que contém, de cima para baixo, a sequência correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "V, V, V, F, F."
+    },
+    {
+     "letra": "B",
+     "texto": "V, V, F, F, F."
+    },
+    {
+     "letra": "C",
+     "texto": "V, F, V, V, F."
+    },
+    {
+     "letra": "D",
+     "texto": "F, V, V, F, V."
+    },
+    {
+     "letra": "E",
+     "texto": "F, F, F, V, V."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046688",
+   "codigo": "4000046688",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 80,
+   "temas": [
+    "Mudanças da f lora vaginal"
+   ],
+   "enunciado": "O teste de aminas, também conhecido como teste de WHIFF é um método muito e caz para auxiliar o diagnóstico de vaginites e vaginose bacteriana. Esse teste baseia-se na presença de aminas originadas da ora anaeróbia vaginal. Quando em pH ácido estas aminas encontram-se em estado sólido e em pH alcalino elas volatizam-se, o que ocorre com a aplicação de hidróxido de potássio 10% e em sua forma não protonada exalam odor característico de “peixe podre em decomposição”. Existem várias aminas no meio vaginal e quando volatizam-se podem provocar sintomas. Marque a única opção correta para a relação entre a amina citada e a sintomatologia correspondente. I - Fenitilamina. II - Isobutilamina. III - Histamina vaginal. ( ) Irritação e sensibilização da pele. ( ) Eritema. ( ) Formação de bolhas na mucosa. ( ) Aumento da permeabilidade da microcirculação.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I, III, II, III"
+    },
+    {
+     "letra": "B",
+     "texto": "I, II, II, III"
+    },
+    {
+     "letra": "C",
+     "texto": "II, III, I, III"
+    },
+    {
+     "letra": "D",
+     "texto": "II, I, II, III"
+    },
+    {
+     "letra": "E",
+     "texto": "II, I, I, III"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000038346",
+   "codigo": "4000038346",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 81,
+   "temas": [
+    "Vulvovaginites",
+    "Candidíase"
+   ],
+   "enunciado": "Paciente de 17 anos utiliza anticoncepcional hormonal combinado oral. No 24º dia do ciclo, após relacionamento sexual com preservativo, passou a apresentar prurido vulvar intenso e leucorreia, que se acentuaram há três dias. O diagnóstico mais provável e o tratamento são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Vulvite alérgica e tratamento local com hidrocortisona."
+    },
+    {
+     "letra": "B",
+     "texto": "Tricomoníase e tratamento específico, incluindo o do parceiro."
+    },
+    {
+     "letra": "C",
+     "texto": "Candidíase e uso definistatinas ou semelhantes."
+    },
+    {
+     "letra": "D",
+     "texto": "Infecção por Gardnerella vaginalis e tratamento específico."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000026305",
+   "codigo": "4000026305",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 82,
+   "temas": [
+    "Vulvovaginites"
+   ],
+   "enunciado": "As vulvovaginites constituem queixas frequentes no ambulatório do médico generalista e ginecologista. Acerca dessas doenças, analise as afirmativas abaixo: I - O diagnóstico realizado apenas pela avaliação clínica tem especi dade de quase 100%, logo geralmente dispensa testes adicionais como: exame a fresco, pH e KOH; II - É indicado rotineiramente o rastreio para vaginose bacteriana na gestação, devido a essa se relacionar com parto prematuro; III - Nos casos de candidíase e vaginose não há necessidade do tratamento do parceiro. Entretanto, se for diagnosticada tricomoníase, considerada uma Infecção Sexualmente Transmissível (IST), o tratamento do(s) parceiro(s) é indicado; IV - O tratamento da candidíase de repetição envolve o uso das antifúngicos orais por longo período, como por exemplo, o uso do Fluconazol semanal por até 6 meses. Assinale a alternativa que contenha as afirmativas CORRETAS:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Somente III."
+    },
+    {
+     "letra": "B",
+     "texto": "Somente IV."
+    },
+    {
+     "letra": "C",
+     "texto": "I,II,III."
+    },
+    {
+     "letra": "D",
+     "texto": "III e IV."
+    },
+    {
+     "letra": "E",
+     "texto": "II, III e IV."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000000060",
+   "codigo": "4000000060",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 83,
+   "temas": [
+    "Fatores de risco"
+   ],
+   "enunciado": "Dentre os fatores abaixo, qual NÃO é considerado um fator de risco para vaginose bacteriana?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tabagismo."
+    },
+    {
+     "letra": "B",
+     "texto": "Múltiplos ou novos parceiros."
+    },
+    {
+     "letra": "C",
+     "texto": "Uso de anticoncepcional oral hormonal."
+    },
+    {
+     "letra": "D",
+     "texto": "Raça negra."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000127277",
+   "codigo": "4000127277",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 84,
+   "temas": [
+    "Diagnóstico",
+    "Quadro clínico"
+   ],
+   "enunciado": "As imagens da cérvice reproduzidas abaixo pertencem a uma paciente de 24 anos. Qual o diagnóstico mais provável?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tricomoníase (cérvice em morango)."
+    },
+    {
+     "letra": "B",
+     "texto": "Neoplasia intraepitelial grau III."
+    },
+    {
+     "letra": "C",
+     "texto": "Infecção por gonococo."
+    },
+    {
+     "letra": "D",
+     "texto": "Condilomatose."
+    },
+    {
+     "letra": "E",
+     "texto": "Carcinoma avançado."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q084-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000118098",
+   "codigo": "4000118098",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 85,
+   "temas": [
+    "Candidíase"
+   ],
+   "enunciado": "A candidíase vulvovaginal não deve ser considerada uma Doença Sexualmente Transmissível (DST), apesar de frequentemente ser diagnosticada em pacientes imunossuprimidas e portadoras de DST's. Em relação à candidíase vulvovaginal, marque V para as afirmativas verdadeiras e F para as falsas. ( ) Durante a gestação, o tratamento de escolha para candidíase vulvovaginal são os azólicos tópicos, sendo os antifúngicos orais uma alternativa eficaz. ( ) A história natural e a patogênese da candidíase vulvovaginal recorrente não são totalmente conhecidas, mas alguns fatores estão relacionados à sua ocorrência: terapia frequente com antibióticos, uso de ACO, diabetes melittus descompensado, imunossupressão, uso de corticosteroides, atividade sexual e infecção pelo HIV. ( ) A principal queixa é a leucorreia branca em grumos acompanhada ou não de prurido vulvar e/ou vaginal intenso; disúria terminal pode estar presente. A sequência está correta em:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "F, V, F."
+    },
+    {
+     "letra": "B",
+     "texto": "F, V, V."
+    },
+    {
+     "letra": "C",
+     "texto": "V, V, V."
+    },
+    {
+     "letra": "D",
+     "texto": "V, F, V."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000117418",
+   "codigo": "4000117418",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 86,
+   "temas": [
+    "Flora vaginal no climatério"
+   ],
+   "enunciado": "Em relação com a menacme, a vagina na pós-menopausa apresenta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Menor ph e mais enterococos."
+    },
+    {
+     "letra": "B",
+     "texto": "Menor ph e mais hifas e esporos."
+    },
+    {
+     "letra": "C",
+     "texto": "Maior ph e menos lactobacilos."
+    },
+    {
+     "letra": "D",
+     "texto": "Maior ph e menos enterococos."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000095759",
+   "codigo": "4000095759",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 87,
+   "temas": [
+    "Vaginose citolítica"
+   ],
+   "enunciado": "Assinale a alternativa que responde CORRETAMENTE à pergunta abaixo. O que é vaginite citolítica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Inflamação determinada pela atrofia mucosa, decorrente do hipoestrogenismo."
+    },
+    {
+     "letra": "B",
+     "texto": "Aumento da população de lactobacilos, com pH vaginal muito ácido."
+    },
+    {
+     "letra": "C",
+     "texto": "Reação de hipersensibilidade, determinando lise celular da mucosa vaginal."
+    },
+    {
+     "letra": "D",
+     "texto": "Lesão descamativa da mucosa, associada ao líquen plano erosivo."
+    },
+    {
+     "letra": "E",
+     "texto": "Aquela causada por agente viral, que determina apoptose e processo inflamatório."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000077718",
+   "codigo": "4000077718",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 88,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Paciente refere corrimento vaginal branco, com grumos e prurido intenso. Teve cinco episódios em um ano, sendo detectada a presença de hifas no exame a fresco. Nega patologias prévias. O tratamento mais adequado para remissão, em longo prazo, é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Nistatina creme, via vaginal, diariamente por 1 mês."
+    },
+    {
+     "letra": "B",
+     "texto": "Fluconazol oral, uma dose semanal por 6 meses."
+    },
+    {
+     "letra": "C",
+     "texto": "Cetoconazol oral, uma dose semanal por 2 meses."
+    },
+    {
+     "letra": "D",
+     "texto": "Clotrimazol via vaginal, uma vez por semana por 4 meses."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000060874",
+   "codigo": "4000060874",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 89,
+   "temas": [
+    "Introdução"
+   ],
+   "enunciado": "Adolescente de 17 anos de idade chega ao consultório, queixando-se de prurido vaginal e corrimento malcheiroso. Ela é sexualmente ativa, tem vários parceiros e deseja se submeter a exames para doenças sexualmente transmissíveis. Ao exame microscópico, você identifica a presença de tricômonas. Com relação à tricomoníase, qual das alternativas é verdadeira?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A maioria das mulheres é assintomática."
+    },
+    {
+     "letra": "B",
+     "texto": "A doença é autolimitada e não requer tratamento."
+    },
+    {
+     "letra": "C",
+     "texto": "O parceiro sexual da paciente não necessita ser tratado."
+    },
+    {
+     "letra": "D",
+     "texto": "A tricomoníase é transmitida apenas por via sexual."
+    },
+    {
+     "letra": "E",
+     "texto": "A tricomoníase é 100% sensível ao metronidazol."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000058132",
+   "codigo": "4000058132",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 90,
+   "temas": [
+    "Corrimento vaginal f isiológico",
+    "Ecossistema e mecanismos de def esa vaginal"
+   ],
+   "enunciado": "Quanto ao ecossistema vaginal, assinale a alternativa incorreta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O pH vaginal normal em mulheres na menácme varia entre 4,0 e 4,5."
+    },
+    {
+     "letra": "B",
+     "texto": "O pH vaginal normal em mulheres na menácme varia entre 4,0 e 4,5."
+    },
+    {
+     "letra": "C",
+     "texto": "O pH vaginal de 6,0 a 7,5 na ausência de sintomas pode sugerir a menopausa."
+    },
+    {
+     "letra": "D",
+     "texto": "A antibioticoterapia sistêmica altera o pH vaginal."
+    },
+    {
+     "letra": "E",
+     "texto": "A alteração do ecossistema vaginal é uma das causas mais frequentes em consultas ginecólogicas."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000051796",
+   "codigo": "4000051796",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 91,
+   "temas": [
+    "Tricomoníase"
+   ],
+   "enunciado": "Sobre as vaginites por Trichomonas vaginalis, assinale a alternativa CORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O Trichomonas pode sobreviver em toalhas úmidas e outras superfícies e, assim, pode ser transmitido de maneira não sexual."
+    },
+    {
+     "letra": "B",
+     "texto": "O Trichomoníase tem período de incubação de três a sete dias."
+    },
+    {
+     "letra": "C",
+     "texto": "O exame a fresco pode revelar protozoário móvel flagelado com uma sensibilidade de cerca de 30%."
+    },
+    {
+     "letra": "D",
+     "texto": "Não há necessidade de tratar os parceiros sexuais, por não ocorrer alteração do curso ou taxa de recidiva da doença."
+    },
+    {
+     "letra": "E",
+     "texto": "O Trichomonas vaginalis é uma bactéria que se desenvolve em meio ácido, normalmente pH vaginal menor que 4,5."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000040513",
+   "codigo": "4000040513",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 92,
+   "temas": [
+    "Vulvovaginites",
+    "Vaginite atróf ica"
+   ],
+   "enunciado": "Paciente de 54 anos, menopausada há 4 anos, sem terapia hormonal, refere corrimento amarelo-esverdeado sem odor, associado a dispareunia. Ao exame físico, intenso eritema do canal vaginal e colo, o teste das aminas é negativo, pH maior que 4,5, bacterioscopia com aumento de leucócitos e cocos gram positivos, redução importante dos lactobacilos e presença de células parabasais com núcleos desnudos. Quanto ao quadro, assinale a afirmativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Trata-se de vaginite atrófica, tratamento com estrogênio local 2x por semana continuamente associado à clindamicina creme local por 10 dias."
+    },
+    {
+     "letra": "B",
+     "texto": "Trata-se de candidíase, tratamento com fluconazol VO e creme definistatina por 14 dias."
+    },
+    {
+     "letra": "C",
+     "texto": "Trata-se de tricomoníase, tratamento com metronidazol VO por 7 dias e VO para o parceiro em dose única."
+    },
+    {
+     "letra": "D",
+     "texto": "Trata-se de vaginite aeróbica, tratamento com clindamicina creme local por 10 dias."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000122372",
+   "codigo": "4000122372",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vulvovaginites",
+   "numero": 93,
+   "temas": [
+    "Diagnóstico",
+    "Tratamento",
+    "Quadro clínico"
+   ],
+   "enunciado": "Paciente de 40 anos veio com queixa de corrimento de odor fétido, com piora após relação sexual. Ao exame especular, tem corrimento abundante, amarelo-esverdeado, bolhoso. Whi test = positivo; pH > 4,5. Exame a fresco: protozoário flagelado. Sobre a situação clínica acima, marque a resposta CORRETA: Respostas: 1 12 23 34 45 56 67 78 89",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O diagnóstico padrão-ouro é feito pelos critérios de Nugent"
+    },
+    {
+     "letra": "B",
+     "texto": "O tratamento acima deve ser feito com fluconazol"
+    },
+    {
+     "letra": "C",
+     "texto": "O exame a fresco fornece o diagnóstico."
+    },
+    {
+     "letra": "D",
+     "texto": "Trata-se de uma vaginose bacteriana clássica."
+    },
+    {
+     "letra": "E",
+     "texto": "Candidíase é a principal suspeita clínica"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": []
+}

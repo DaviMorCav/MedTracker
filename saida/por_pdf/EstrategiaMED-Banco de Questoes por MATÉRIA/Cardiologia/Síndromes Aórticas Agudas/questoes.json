@@ -1,0 +1,2176 @@
+{
+ "questoes": [
+  {
+   "id": "4000185428",
+   "codigo": "4000185428",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 1,
+   "temas": [
+    "Diagnóstico dif erencial de dor torácica na emergência",
+    "Exames de imagem"
+   ],
+   "enunciado": "Aneurisma de Aorta Torácica Mulher de 67 anos comparece ao pronto atendimento devido a dor torácica com irradiação para o dorso. Refere quadro semelhante por 3 ocasiões nos últimos 3 meses, sem história de trauma prévio. A dor é de forte intensidade e sem fatores de melhora ou piora. Hipertensa, tabagista 40 maços/ano. Na sua primeira avaliação, solicitou- -se uma radiogra a de tórax (imagem demonstrada). Em relação ao quadro clínico e à imagem, pode-se afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "há presença de alargamento de mediastino, podendo sugerir aneurisma de aorta torácica."
+    },
+    {
+     "letra": "B",
+     "texto": "a radiografia foi bem realizada, com boa inspiração e boa penetração e sem rotação."
+    },
+    {
+     "letra": "C",
+     "texto": "o índice cardiotorácico medido foi de 0,4, sugerindo cardiomegalia importante."
+    },
+    {
+     "letra": "D",
+     "texto": "na avaliação do ar presente na traqueia, podemos afirmar que há desvio dessa estrutura."
+    },
+    {
+     "letra": "E",
+     "texto": "há forte indício de hemotórax à esquerda."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q001-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000191079",
+   "codigo": "4000191079",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 2,
+   "temas": [
+    "Dissecção aórtica aguda",
+    "Manif estações clínicas e complicações"
+   ],
+   "enunciado": "A presença, em um paciente, de dor torácica e/ou dorsal súbita e lancinante, acompanhada de hipotensão arterial e hipoperfusão periférica distal com deficit de pulsos distais devem levar à suspeita diagnóstica de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "hemotórax."
+    },
+    {
+     "letra": "B",
+     "texto": "dissecção aórtica."
+    },
+    {
+     "letra": "C",
+     "texto": "trombose de veia cava."
+    },
+    {
+     "letra": "D",
+     "texto": "ruptura de valva mitral."
+    },
+    {
+     "letra": "E",
+     "texto": "choque neurogênico."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000164376",
+   "codigo": "4000164376",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 3,
+   "temas": [
+    "Tratamento da dissecção aórtica tipo A",
+    "Cardiologia"
+   ],
+   "enunciado": "Paciente sexo masculino, 54 anos, hipertenso, tabagista importante, deu entrada no pronto-socorro com quadro de dor torácica intensa, associada a sudorese que começou há cerca de 3 horas. À avaliação, a PA: 160 × 100 mmHg, FC: 80 bpm, SatO2: 98% em ar ambiente, FR: 16 ipm, pulsos assimétricos. Realizou eletrocardiograma e radiogra a de tórax que seguem abaixo. Entre as condutas abaixo, a melhor para este paciente é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a trombólise química."
+    },
+    {
+     "letra": "B",
+     "texto": "controle da pressão e da frequência cardíaca."
+    },
+    {
+     "letra": "C",
+     "texto": "a angioplastia."
+    },
+    {
+     "letra": "D",
+     "texto": "heparina de baixo peso molecular."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q003-1.jpg",
+     "antes_das_alternativas": true
+    },
+    {
+     "arquivo": "imagens/q003-2.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000147014",
+   "codigo": "4000147014",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 4,
+   "temas": [
+    "Tratamento",
+    "Tratamento geral da crise hipertensiva",
+    "Cardiologia"
+   ],
+   "enunciado": "Paciente masculino, 70 anos, hipertenso, diabético e obeso, dá entrada no pronto atendimento com quadro de dor torácica de início súbito há cerca de 2 horas, de forte intensidade, com irradiação para região dorsal. Na admissão, está com PA:200/110, FC:95bpm, FR:16ipm, SO2:95%, com ausculta cardíaca mostrando sopro aórtico sistólico +++/IV, pulsos periféricos assimétricos, nos e palidez cutânea com pele fria. Foi realizada tomogra a da aorta com contraste com diagnóstico de dissecção aguda de aorta. Sobre esse quadro, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O controle da dor do paciente deve ser feito com anti-inflamatório não esteroidal, como dipirona."
+    },
+    {
+     "letra": "B",
+     "texto": "O uso definitroprussiato de sódio deve ser iniciado imediatamente para controle pressórico em monoterapia."
+    },
+    {
+     "letra": "C",
+     "texto": "Deve-se iniciar anticoagulação do paciente."
+    },
+    {
+     "letra": "D",
+     "texto": "Deve-se ter como alvo o betabloqueio efetivo do paciente, com a FC oscilando entre 60 e 75."
+    },
+    {
+     "letra": "E",
+     "texto": "O tratamento inicial deve ser com administração de betabloqueadores por via endovenosa, visando diminuir a frequência cardíaca e a pressão arterial."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000142150",
+   "codigo": "4000142150",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 5,
+   "temas": [
+    "Manif estações clínicas e complicações",
+    "Def inição e classif icação"
+   ],
+   "enunciado": "Um paciente de 65 anos de idade, com dor torácica súbita em facada, irradiada para as costas, sudorese, e com eletrocardiograma normal, foi submetido a exame físico, no qual se verificou que havia assimetria de pulsos. Qual o provável diagnóstico?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Pericardite"
+    },
+    {
+     "letra": "B",
+     "texto": "Infarto do miocárdio sem supra"
+    },
+    {
+     "letra": "C",
+     "texto": "Dissecção aórtica"
+    },
+    {
+     "letra": "D",
+     "texto": "Espasmo esofagiano"
+    },
+    {
+     "letra": "E",
+     "texto": "Cólica biliar"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000138110",
+   "codigo": "4000138110",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 6,
+   "temas": [
+    "Dissecção aórtica aguda"
+   ],
+   "enunciado": "As classificações de DeBakey e Stanford definem as dissecções aórticas com base na extensão anatômica. Sobre estas classificações, assinale a opção correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tipo | de DeBakey são limitadas à aorta ascendente."
+    },
+    {
+     "letra": "B",
+     "texto": "Tipo II de DeBakey envolvem a aorta ascendente e toracoabdominal."
+    },
+    {
+     "letra": "C",
+     "texto": "Tipo IIIa de DeBakey envolvem a aorta torácica descendente e aorta abdominal."
+    },
+    {
+     "letra": "D",
+     "texto": "Tipo IIIb de DeBakey são restritas à aorta torácica descendente."
+    },
+    {
+     "letra": "E",
+     "texto": "Tipo I e tipo II de DeBakey correspondem ao tipo A de Stanford."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000129922",
+   "codigo": "4000129922",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 7,
+   "temas": [
+    "Dissecção aórtica aguda"
+   ],
+   "enunciado": "Um haltero lista de 40 anos procura atendimento de emergência com quadro de dor torácica de forte intensidade, irradiada para lombar e abdome. Ao exame, apresentava-se com temperatura de 36,6oC; FC de 105 bpm e FR de 20 rpm; aparelho respiratório murmúrio vesicular uniformemente distribuído, sem ruídos adventícios; abdome depressível, doloroso a palpação difusa profunda, ruídos hidroaéreos presentes. De história pregressa, é hipertenso, com controle irregular. Referiu ainda o uso de substâncias ilícitas (cocaína). Sobre o caso acima, assinale a assertiva que contenha a principal hipótese diagnóstica e o exame complementar mais adequado para investigação?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Pielonefrite aguda / Ultrassom abdominal."
+    },
+    {
+     "letra": "B",
+     "texto": "Calculose renoureteral / Ultrassom abdominal."
+    },
+    {
+     "letra": "C",
+     "texto": "Angina mesentérica / Angiotomografia torácica."
+    },
+    {
+     "letra": "D",
+     "texto": "Dissecção de aorta / Tomografia computadorizada."
+    },
+    {
+     "letra": "E",
+     "texto": "Doença ulcerosa péptica / Endoscopia Digestiva Alta."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000114054",
+   "codigo": "4000114054",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 8,
+   "temas": [
+    "Manif estações clínicas e complicações",
+    "Sopros diastólicos"
+   ],
+   "enunciado": "Paciente de 50 anos, hipertenso, é admitido na emergência com dor torácica de forte intensidade, irradiada para a região interescapular, contínua e de início súbito. Apresentase agitado, com sudorese fria, PA: 180/100 mmHg, sopro diastólico em foco aórtico com irradiação para o bordo esternal direito e com sinais de insuficiência cardíaca. Esses sinais e sintomas estão relacionados à",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Estenose aórtica com ruptura de músculo papilar."
+    },
+    {
+     "letra": "B",
+     "texto": "Dissecção aórtica tipo III de DeBakey."
+    },
+    {
+     "letra": "C",
+     "texto": "Insuficiência mitral pós infarto agudo do miocárdio."
+    },
+    {
+     "letra": "D",
+     "texto": "Dissecção da aorta ascendente com insuficiência aórtica aguda."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000107512",
+   "codigo": "4000107512",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 9,
+   "temas": [
+    "Tratamento",
+    "Exames de imagem",
+    "Cardiologia"
+   ],
+   "enunciado": "Considere um paciente de 40 anos, com diagnóstico de Síndrome de Marfan que chega ao pronto-socorro com história de dor torácica aguda acompanhada de alargamento de mediastino visualizado em Rx de tórax, sugerindo dissecção aórtica. Assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Havendo dissecção envolvendo a aorta ascendente, o tratamento deve ser inicialmente conservador e a cirurgia postergada até melhora das condições clínicas do paciente."
+    },
+    {
+     "letra": "B",
+     "texto": "A angiorressonância nuclear magnética é superior a angiotomografia e deve ser o exame de escolha na fase aguda da dissecção se o paciente evoluir com instabilidade hemodinâmica."
+    },
+    {
+     "letra": "C",
+     "texto": "No caso de o paciente evoluir com instabilidade hemodinâmica, o ecocardiograma transesofágico é o exame mais adequado para a avaliação da dissecção."
+    },
+    {
+     "letra": "D",
+     "texto": "O esmolol devido sua meia-vida curta é contraindicado no manejo clínico desse paciente em sua fase aguda."
+    },
+    {
+     "letra": "E",
+     "texto": "O tratamento endovascular deve ser realizado na fase aguda se o paciente evoluir sem complicações."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000083818",
+   "codigo": "4000083818",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 10,
+   "temas": [
+    "Tratamento",
+    "Cardiologia"
+   ],
+   "enunciado": "Com relação à dissecção aórtica pode-se afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "cerca de dois terços das dissecções da aorta são classificados como tipo B"
+    },
+    {
+     "letra": "B",
+     "texto": "a ultrassonografia é o método pouco sensível e específico para o diagnóstico"
+    },
+    {
+     "letra": "C",
+     "texto": "para dissecção aguda do tipo B, recomenda-se reparo cirúrgico imediato para reduzir o risco de complicações (ruptura e acidente vascular cerebral"
+    },
+    {
+     "letra": "D",
+     "texto": "a terapia medicamentosa tem como meta redução da pressão arterial (<120mmHg e da frequência cardíaca (<60bpm, e a droga de escolha é o labetalol por via intravenosa"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000083788",
+   "codigo": "4000083788",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 11,
+   "temas": [
+    "Def inição e classif icação"
+   ],
+   "enunciado": "Uma das classificações utilizadas para avaliarmos dissecção de aorta é a de DeBakey. A dissecção do tipo IIIa afeta",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a aorta ascendente e a aorta descendente."
+    },
+    {
+     "letra": "B",
+     "texto": "somente a aorta ascendente."
+    },
+    {
+     "letra": "C",
+     "texto": "toda a aorta descendente (torácica e abdominal)."
+    },
+    {
+     "letra": "D",
+     "texto": "um segmento da aorta descendente (somente torácica)."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000082477",
+   "codigo": "4000082477",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 12,
+   "temas": [
+    "Manif estações clínicas",
+    "Dissecção aórtica aguda",
+    "Arterite de células gigantes ou arterite temporal"
+   ],
+   "enunciado": "Um senhor de 80 anos com história prévia de artrite de células gigantes tratada com sucesso há 7 anos apresenta quadro de dor torácica intensa. Sua história patológica pregressa somente é notável para a hipertensão limítrofe. Ele foi tratado com sucesso com um curso de esteróides durante 1 ano, mas está utilizando corticosteróides há 3 anos. Ele relatou se sentir bem até recentemente. Ele não procurou um médico nos últimos 2 anos. Qual das seguintes explicações para sua dor torácica é a preocupação principal?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Aneurisma torácico dissecante,"
+    },
+    {
+     "letra": "B",
+     "texto": "Pericardite aguda;"
+    },
+    {
+     "letra": "C",
+     "texto": "Infarto do miocárdio relacionado ao maior risco de aterosclerose devido a sua história anterior de ACG;"
+    },
+    {
+     "letra": "D",
+     "texto": "Coscocondrite relacionada a um surto de PMR;"
+    },
+    {
+     "letra": "E",
+     "texto": "Fratura de costelas;"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000078146",
+   "codigo": "4000078146",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 13,
+   "temas": [
+    "Ruptura contida de aneurisma aórtico",
+    "Síndromes aórticas agudas"
+   ],
+   "enunciado": "Entre os fatores de risco abaixo, qual não está associado com o desenvolvimento e expansão de um aneurisma de aorta, mas sim com o maior risco de ruptura?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "História familiar."
+    },
+    {
+     "letra": "B",
+     "texto": "Sexo feminino."
+    },
+    {
+     "letra": "C",
+     "texto": "Carga tabágica."
+    },
+    {
+     "letra": "D",
+     "texto": "Nível de atividade das metaloproteinases."
+    },
+    {
+     "letra": "E",
+     "texto": "Nenhuma das alternativas anteriores."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000115532",
+   "codigo": "4000115532",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 14,
+   "temas": [
+    "Tratamento da dissecção aórtica tipo A",
+    "Tratamento"
+   ],
+   "enunciado": "Paciente, sexo masculino, 56 anos, tabagista e hipertenso há 10 anos, em uso irregular das medicações, deu entrada no posto de soccoro com história de dor torácica há 15 minutos, com irradiação para região dorsal, de forte intensidadde, de início súbito, descrita pelo paciente como sensação de \"rasgamento\". Ao exame físico: pressão arterial em membro superior esquerdo 150 x 100 mmHg, pressão arterial em membro superior direito 100 x 60 mmHg, pulsos assimétricos e frequência cardíaca de 110 bpm. Baseado na principal hipótese diagnóstica, assinale a alternativa mais adequada:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Deve ser realizada trombólise imediatamente caso a hemodinâmica não esteja disponível, uma vez que a principal hipótese diagnóstica é infarto agudo do miocárdio."
+    },
+    {
+     "letra": "B",
+     "texto": "A assimetria de pulso não tem valor nesse caso."
+    },
+    {
+     "letra": "C",
+     "texto": "Betabloqueador intravenoso é a primeira linha de tratamento no manejo inicial desse paciente."
+    },
+    {
+     "letra": "D",
+     "texto": "Deve-se proceder imediatamente à realização de endoscopia digestiva alta de urgência e uso de bloqueador de bomba de prótons intravenoso."
+    },
+    {
+     "letra": "E",
+     "texto": "O quadro é altamente sugestivo de tromboembolismo pulmonar e, portanto, está indicada anticoagulação plena."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000106071",
+   "codigo": "4000106071",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 15,
+   "temas": [
+    "Tratamento da dissecção aórtica tipo A"
+   ],
+   "enunciado": "Homem, 60 anos de idade, apresenta dor torácica retroesternal de forte intensidade há cerca de 1 hora. Refere antecedente pessoal de hipertensão arterial. Ao exame clínico a ausculta pulmonar e cardíaca estão normais. Pressão arterial de 168 x 96 mmHg, frequência cardíaca de 80 bpm, frequência respiratória de 20 irpm, temperatura de 36,7ºC e saturação de 98%. Foram realizados eletrocardiograma e tomogra a de tórax, exibidos a seguir. Qual deve ser a conduta neste momento?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Trombólise"
+    },
+    {
+     "letra": "B",
+     "texto": "Troponina seriada."
+    },
+    {
+     "letra": "C",
+     "texto": "Cirurgia"
+    },
+    {
+     "letra": "D",
+     "texto": "Anticoagulação"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q015-1.jpg",
+     "antes_das_alternativas": true
+    },
+    {
+     "arquivo": "imagens/q015-2.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000105624",
+   "codigo": "4000105624",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 16,
+   "temas": [
+    "Exames complementares"
+   ],
+   "enunciado": "Homem de 58 anos apresentou dor súbita e intensa em face anterior do tórax irradiada para o pescoço com início há 2 horas e com pouca melhora 1 hora após uso de analgésico oral. Foi submetido a cineangiocoronariogra a para estrati cação de doença arterial coronariana aterosclerótica no dia anterior. Refere ser tabagista e hipertenso de longa data e nega outras comorbidades. A radiogra a de tórax e o eletrocardiograma feitos na sala de emergência do hospital são demonstrados nas figura abaixo. A pressão arterial é de 160 x 110 mmHg, e a frequência cardíaca de 98 bpm. Qual a conduta mais adequada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Angiotomografia de aorta."
+    },
+    {
+     "letra": "B",
+     "texto": "Fibrinolítico endovenoso."
+    },
+    {
+     "letra": "C",
+     "texto": "Cateterismo cardíaco."
+    },
+    {
+     "letra": "D",
+     "texto": "Ecocardiograma transtorácico."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q016-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000090112",
+   "codigo": "4000090112",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 17,
+   "temas": [
+    "Def inição e classif icação"
+   ],
+   "enunciado": "Na dissecção de aorta, a classificação de Stanfort B refere-se a:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "aorta ascendente."
+    },
+    {
+     "letra": "B",
+     "texto": "arco aórtico."
+    },
+    {
+     "letra": "C",
+     "texto": "aorta ascendente e descendente."
+    },
+    {
+     "letra": "D",
+     "texto": "aorta descendente."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000081093",
+   "codigo": "4000081093",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 18,
+   "temas": [
+    "Tratamento da dissecção aórtica tipo B"
+   ],
+   "enunciado": "Paciente apresentando diagnóstico de Dissecção de Aorta tipo B de Stanford.Conduta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "tratamento clínico quando não há evidência de complicação"
+    },
+    {
+     "letra": "B",
+     "texto": "toracotomia de urgência"
+    },
+    {
+     "letra": "C",
+     "texto": "laparotomia de urgência"
+    },
+    {
+     "letra": "D",
+     "texto": "toraco freno laparotomia"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000108715",
+   "codigo": "4000108715",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 19,
+   "temas": [
+    "Tratamento da dissecção aórtica tipo A"
+   ],
+   "enunciado": "Homem, 49 anos, é admitido em hospital terciário com quadro de dor torácica em região retroesternal de forte intensidade, com irradiação para o dorso, acompanhada de sudorese intensa, há cerca de 3 horas. Inicialmente, foi atendido em uma unidade básica, tendo recebido aspirina e nitrato sublingual, sem melhora do quadro. É tabagista e hipertenso de longa data e faz uso irregular das seguintes medicações: enalapril, anlodipina e clortalidona. O exame físico da admissão revela o paciente ansioso, sudoreico, com PA = 80 x 40 mmHg, pulsos periféricos regulares e nos. A ausculta cardíaca mostra ritmo cardíaco regular em 2 tempos com bulhas hipofonéticas e sopro diastólico aórtico. A ausculta pulmonar está limpa. Após expansão volêmica e estabilidade momentânea da pressão arterial, foram realizados exames complementares (eletrocardiograma e tomogra a de tórax) que estão ilustrados a seguir. Assinale a alternativa que apresenta a conduta correta a seguir.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cateterismo cardíaco seguido de angioplastia coronária primária."
+    },
+    {
+     "letra": "B",
+     "texto": "Pericardiocentese."
+    },
+    {
+     "letra": "C",
+     "texto": "Trombólise sistêmica com alteplase e enoxaparina."
+    },
+    {
+     "letra": "D",
+     "texto": "Cirurgia de emergência."
+    },
+    {
+     "letra": "E",
+     "texto": "Anticoagulação plena com heparina não fracionada."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q019-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000104884",
+   "codigo": "4000104884",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 20,
+   "temas": [
+    "Síndromes aórticas agudas"
+   ],
+   "enunciado": "Homem 82 anos, tabagista desde os 25 anos, diabético tipo II e hipertenso com uso irregular de captopril. Há 24 horas apresentou dor aguda de forte intensidade e progressiva em região torácica posterior, Nega dor semelhante prévia. Nega claudicação intermitente. Ao exame físico: consciente e orientado, pressão arterial de 200 x110 mmHg, frequência cardíaca de 77 bpm, pulsos palpáveis e simétricos em membros superiores, e em membros inferiores os pulsos distais estavam diminuídos, porém simétricos. O eletrocardiograma da admissão era sugestivo de sobrecarga ventricular esquerda. Foi internado, iniciada analgesia e otimizada a terapia anti-hipertensiva. A dor torácica persistia após 48 horas, com pressão arterial de 140x80 mmHg e frequência cardíaca de 55 bpm. A figura abaixo mostra a radiogra a de tórax e parte da tomografia. Qual o diagnóstico provável e a melhor conduta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Úlcera penetrante de aorta; Tratamento cirúrgico aberto"
+    },
+    {
+     "letra": "B",
+     "texto": "Úlcera penetrante de aorta; Tratamento endovascular"
+    },
+    {
+     "letra": "C",
+     "texto": "Dissecção de aorta; Tratamento cirúrgico aberto"
+    },
+    {
+     "letra": "D",
+     "texto": "Dissecção de aorta; Tratamento endovascular"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q020-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000099022",
+   "codigo": "4000099022",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 21,
+   "temas": [
+    "Manif estações clínicas e complicações"
+   ],
+   "enunciado": "Um paciente do sexo masculino e de 61 anos de idade foi atendido na emergência com dor precordial de forte intensidade, irradiada para o dorso, sudorese fria e palidez cutânea. Os pulsos periféricos eram palpáveis exceto os do membro inferior direito. A pressão arterial era de 190 x 110 mmHg. A ausculta revelou um sopro diastólico suave em foco aórtico acessório. A radiografia de tórax foi inconclusiva. A hipótese diagnóstica é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Infarto agudo do miocárdio."
+    },
+    {
+     "letra": "B",
+     "texto": "Dissecção aguda da aorta."
+    },
+    {
+     "letra": "C",
+     "texto": "Embolia arterial periférica."
+    },
+    {
+     "letra": "D",
+     "texto": "Infarto pulmonar."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000052093",
+   "codigo": "4000052093",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 22,
+   "temas": [
+    "Def inição e classif icação"
+   ],
+   "enunciado": "Com relação a dissecção aórtica é INCORRETO afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "frequentemente é associada à hipertensão arterial"
+    },
+    {
+     "letra": "B",
+     "texto": "a dissecção aórtica tipo A de Stanford é uma emergência cirúrgica"
+    },
+    {
+     "letra": "C",
+     "texto": "a insuficiência aórtica pode estar associada a dissecção aórtica"
+    },
+    {
+     "letra": "D",
+     "texto": "a dissecção aórtica tipo B de Stanford é aquela que se localiza na aorta ascendente"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000041315",
+   "codigo": "4000041315",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 23,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Paciente de 70 anos, hipertenso de longa data, em tratamento irregular, dá entrada no PS com dor aguda de forte intensidade em região anterior do tórax irradiando para região dorsal acompanhado de dispneia. Relata que a dor iniciou já de forte intensidade, ao exame PA 177 X 90 mmHg ,FC 102 BPM e ECG mostrou com padrão de sobrecarga das câmaras esquerdas. A conduta inicial a ser tomada é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "iniciar bloqueador de canais de cálcio SL para reduzir a PA."
+    },
+    {
+     "letra": "B",
+     "texto": "após ECG ,fazer TC de Tórax para descartar tamponamento cardíaco."
+    },
+    {
+     "letra": "C",
+     "texto": "diurético tiazídico +betabloqueador."
+    },
+    {
+     "letra": "D",
+     "texto": "trombolítico se tiver menos de 12 h de dor."
+    },
+    {
+     "letra": "E",
+     "texto": "nitroprussiato de sódio + Metoprolol."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000038825",
+   "codigo": "4000038825",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 24,
+   "temas": [
+    "Tratamento da dissecção aórtica tipo B",
+    "Cardiologia"
+   ],
+   "enunciado": "Trata-se do melhor tratamento para um paciente com dissecção de aorta torácica descendente não complicada. Assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Procedimento de tronco com reparação em estágios."
+    },
+    {
+     "letra": "B",
+     "texto": "Substituição da aorta envolvida por enxerto."
+    },
+    {
+     "letra": "C",
+     "texto": "Cateterização com colocação de stent aórtico."
+    },
+    {
+     "letra": "D",
+     "texto": "Monitoramento do paciente sem procedimento cirúrgico, a princípio."
+    },
+    {
+     "letra": "E",
+     "texto": "Internação em UTI com anti-hipertensivos e hidratação vigorosa."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000021396",
+   "codigo": "4000021396",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 25,
+   "temas": [
+    "Dissecção aórtica aguda"
+   ],
+   "enunciado": "Homem de 55 anos dá entrada no pronto-socorro com queixa de forte dor no peito, há 30 minutos, associada a mal-estar, sudorese e confusão mental. Ao exame sico, observam-se ritmo cardíaco regular, FC 65 bpm, PA 200x140mmHg no membro superior direito e PA 140x90mmHg no membro superior esquerdo, além de sopro sistólico em carótida direita. O diagnóstico mais provável é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "acidente vascular cerebral isquêmico."
+    },
+    {
+     "letra": "B",
+     "texto": "síndrome coronariana aguda."
+    },
+    {
+     "letra": "C",
+     "texto": "urgência hipertensiva."
+    },
+    {
+     "letra": "D",
+     "texto": "dissecção de aorta."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119466",
+   "codigo": "4000119466",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 26,
+   "temas": [
+    "Exames de imagem",
+    "Cardiologia"
+   ],
+   "enunciado": "Homem de 65 anos, refere forte dor nas costas, lipotimia e falta de ar há 6 horas. Nega traumas locais. AP: ex-tabagista, parou há 1 ano. EF: PA = 190 x 120 mmHg, descorado 3+/4. CK-MB e eletrólitos: normais. ECG: normal. AngioTC: imagem a seguir. (Conforme imagem do caderno de questões) O diagnóstico é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "listese de 8a vértebra torácica."
+    },
+    {
+     "letra": "B",
+     "texto": "rotura de aorta abdominal."
+    },
+    {
+     "letra": "C",
+     "texto": "rotura de aneurisma da aorta ascendente."
+    },
+    {
+     "letra": "D",
+     "texto": "dissecção de aorta abdominal."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q026-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000103237",
+   "codigo": "4000103237",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 27,
+   "temas": [
+    "Tratamento",
+    "Dissecção aórtica aguda"
+   ],
+   "enunciado": "Paciente com queixa de intensa dor torácica, rasgada e localizada em dorso, seu ECG não demonstra alterações. Foi medicado com opioide e ainda assim apresenta dor. Após suspeita de dissecção de aorta, foi realizado tomografia de tórax, o que confirmou o diagnóstico. A respeito desse quadro, marque a opção considerada INADEQUADA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A progressão da dissecção está relacionada ao valor de PA e à velocidade de ejeção ventricular."
+    },
+    {
+     "letra": "B",
+     "texto": "A PAS alvo (120 mmHg) deve ser alcançada em 20 minutos."
+    },
+    {
+     "letra": "C",
+     "texto": "Sempre considerar dissecção aguda de aorta em pacientes com dor precordial e elevação da PA."
+    },
+    {
+     "letra": "D",
+     "texto": "O uso isolado definitroprussiato é ideal, pois promove aumento da FC e da velocidade de ejeção aórtica."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000098460",
+   "codigo": "4000098460",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 28,
+   "temas": [
+    "Tratamento da dissecção aórtica tipo A",
+    "Classif icação e f isiopatologia",
+    "Dissecção aórtica aguda"
+   ],
+   "enunciado": "Homem, 45a, refere dor precordial de início súbito, de forte intensidade e com irradiação para as costas, há 2 horas. Antecedente pessoal: hipertensão arterial sistêmica, em uso irregular de enalapril 10 mg/dia. Exame físico: regular estado geral, pálido, PA = 184 x 114 mmHg; FC = 100 bpm; pulmões: murmúrio vesicular sem ruídos adventícios; coração: bulhas rítmicas normofonéticas sem sopros. Pulso femoral esquerdo diminuído. Eletrocardiograma: sobrecarga de ventrículo esquerdo. Tomografia de tórax. A conduta é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cirurgia de emergência."
+    },
+    {
+     "letra": "B",
+     "texto": "Punção de Marfan."
+    },
+    {
+     "letra": "C",
+     "texto": "Tratamento conservador."
+    },
+    {
+     "letra": "D",
+     "texto": "Cateterismo cardíaco."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q028-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000093023",
+   "codigo": "4000093023",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 29,
+   "temas": [
+    "Dissecção aórtica aguda"
+   ],
+   "enunciado": "Todas as assertivas abaixo relativas à dissecção aguda de aorta estão corretas, EXCETO uma. Assinale-a:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Homens são mais frequentemente afetados do que mulheres."
+    },
+    {
+     "letra": "B",
+     "texto": "Em geral, os pacientes apresentam hipotensão."
+    },
+    {
+     "letra": "C",
+     "texto": "Dor torácica é o sintoma mais comum."
+    },
+    {
+     "letra": "D",
+     "texto": "Deficit de pulso é mais comum em dissecções proximais do que em distais."
+    },
+    {
+     "letra": "E",
+     "texto": "Alguns pacientes podem apresentar elevação dos níveis de troponina ou alterações isquêmicas ao eletrocardiograma de repouso."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000087923",
+   "codigo": "4000087923",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 30,
+   "temas": [
+    "Tratamento",
+    "Exames de imagem"
+   ],
+   "enunciado": "Sobre a dissecção aórtica pode-se afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Todos os casos de dissecção aórtica tipo B devem ser considerados para cirurgia de urgência."
+    },
+    {
+     "letra": "B",
+     "texto": "O nitroprussiato de sódio deve ser evitado devido ao risco de hipotensão severa."
+    },
+    {
+     "letra": "C",
+     "texto": "Os betabloqueadores devem ser utilizados em doses moderadas, já que doses altas podem onerar o risco operatório pela depressão da função ventricular."
+    },
+    {
+     "letra": "D",
+     "texto": "O ecocardiograma transtorácico é de grande importância e é muito mais sensível e específico nas dissecções de aorta descendente."
+    },
+    {
+     "letra": "E",
+     "texto": "O tratamento inicial da dissecção aórtica tipo A pode ser clínico e de acompanhamento, levando-se em conta o controle de níveis tensionais de pressão arterial e da dor."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000086036",
+   "codigo": "4000086036",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 31,
+   "temas": [
+    "Dissecção aórtica aguda",
+    "Síndromes aórticas agudas"
+   ],
+   "enunciado": "NÃO É considerado fator de risco para o desenvolvimento de aneurisma de aorta abdominal:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipercolesterolemia."
+    },
+    {
+     "letra": "B",
+     "texto": "Tabagismo."
+    },
+    {
+     "letra": "C",
+     "texto": "Hipertensão arterial."
+    },
+    {
+     "letra": "D",
+     "texto": "Diabetes mellitus."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000085342",
+   "codigo": "4000085342",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 32,
+   "temas": [
+    "Manif estações clínicas e complicações"
+   ],
+   "enunciado": "Homem, 78 anos, hipertenso e tabagista, apresenta síncope, precedida de dor torácica de forte intensidade com irradiação anteroposterior. Encontra-se ansioso, com fácies de dor; sudoreico; Frequência Cardíaca (FC) = 110 bpm; Pressão Arterial (PA) = 160 x 100 mmHg no membro superior direito e 90 x 60 mmHg no esquerdo e Frequência Respiratória (FR) = 20 irpm. Ritmo cardíaco é regular e sem sopros. O diagnóstico mais provável é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Infarto agudo do miocárdio."
+    },
+    {
+     "letra": "B",
+     "texto": "Dissecção aórtica."
+    },
+    {
+     "letra": "C",
+     "texto": "Tromboembolismo pulmonar."
+    },
+    {
+     "letra": "D",
+     "texto": "Pneumotórax espontâneo."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000048606",
+   "codigo": "4000048606",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 33,
+   "temas": [
+    "Dissecção aórtica aguda",
+    "Cardiologia"
+   ],
+   "enunciado": "Homem de 64 anos, diabético, tabagista e hipertenso, admitido na emergência com quadro de precordialgia de forte intensidade com irradiação para dorso acompanhado de sudorese, tontura e vômitos. A dor iniciou há 50 minutos. Ao exame: agitação psicomotora, PA 180X90, PA no braço direito: 120x80; FC: 110, ECG: supradesnivelamento em DII, DII e AVF, assinale a alternativa CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Administrados após IAM, os inibidores de enzima conversora da angiotensina (IECA) conferem redução de mortalidade apenas nos pacientes com disfunção do ventrículo esquerdo."
+    },
+    {
+     "letra": "B",
+     "texto": "Em pacientes com taquicardia ventricular (T V) na fase aguda do IAM a lidocaína profilática deve ser utilizada de rotina"
+    },
+    {
+     "letra": "C",
+     "texto": "O uso definitratos no curto e em longo prazo no IAM mostrou benefício na diminuição da mortalidade."
+    },
+    {
+     "letra": "D",
+     "texto": "A pericardite pós- IAM precoce deve ser tratada com corticoide afim de evitar aneurisma de ventrículo esquerdo."
+    },
+    {
+     "letra": "E",
+     "texto": "Em pacientes com comprometimento significativo da função ventricular esquerda ou com alterações da condução AV, os antagonistas dos canais de cálcio devem ser evitados."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000043520",
+   "codigo": "4000043520",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 34,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Paciente hipertenso mal controlado de 60 anos de idade procura o hospital com intensa dor torácica com característica descrita de ser \"rasgada\", sendo bastante intensa. Existe diferença de pressão entre os membros superiores, sendo a maior de 210 x 120 mmHg. Como ECG estava inespecí co, foi realizada tomogra a torácica que demonstrou Dissecção de Aorta. Para esse tratamento clínico, assinale a alternativa considerada como INADEQUADA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Idealmente, a pressão sistólica alvo de 120 mmHg deve ser alcançada em 20 minutos."
+    },
+    {
+     "letra": "B",
+     "texto": "Potencialmente, o uso isolado do nitroprussiato de sódio pode piorar a dissecção da aorta."
+    },
+    {
+     "letra": "C",
+     "texto": "O uso isolado de Nitroprussiato pode promover aumento da Frequência Cardíaca."
+    },
+    {
+     "letra": "D",
+     "texto": "Nitroprussiato não deve ser associado ao beta bloqueador."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000043417",
+   "codigo": "4000043417",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 35,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Idoso hipertenso mal controlado e diabético evolui com dor torácica atípica de início súbito nesta manhã. Seu ECG não mostra alteração, contudo radiogra a torácica demonstrava alargamento mediastinal, o que levou à realização de tomografia de tórax, obtendo, como diagnóstico, Dissecção de Aorta. Nesse caso, podemos AFIRMAR que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Potencialmente, o uso isolado definitroprussiato de sódio pode piorar a dissecção"
+    },
+    {
+     "letra": "B",
+     "texto": "Não existe necessidade de terapia combinada para controle da Pressão Arterial, podendo utilizar nitrato isoladamente."
+    },
+    {
+     "letra": "C",
+     "texto": "Ocorre benefício do uso associado de beta bloqueador."
+    },
+    {
+     "letra": "D",
+     "texto": "Somente existe benefício na redução da PA caso esta exceda o nível de 180 x 110 mmHg"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000018613",
+   "codigo": "4000018613",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 36,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "A respeito da dissecção aguda da aorta, afecção cardiovascular frequentemente associada à hipertensão arterial sistêmica, julgue o item subsequente. No caso de pacientes jovens com dissecção aguda da aorta deve-se iniciar o tratamento clínico com a redução imediata da pressão arterial sistólica para valores não inferiores a 150 mmHg, por meio de agentes redutores da pós-carga de trabalho do coração, associada à administração de fármacos de efeito inotrópico positivo. Essas ações farmacológicas combinadas reduzem a tensão de cisalhamento aórtico e, por conseguinte, ajudam na proteção vascular contra a ruptura aórtica.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000018610",
+   "codigo": "4000018610",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 37,
+   "temas": [
+    "Manif estações clínicas e complicações"
+   ],
+   "enunciado": "A respeito da dissecção aguda da aorta, afecção cardiovascular frequentemente associada à hipertensão arterial sistêmica, julgue o item subsequente. As complicações clínicas associadas a essa moléstia aórtica incluem infarto do miocárdio, isquemia dos membros inferiores, acidente vascular cerebral, paraplegia, insu ciência renal aguda, infarto mesentérico, insu ciência aórtica, hemotórax e tamponamento cardíaco.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000122009",
+   "codigo": "4000122009",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 38,
+   "temas": [
+    "Epidemiologia",
+    "Def inição e classif icação"
+   ],
+   "enunciado": "Um homem de 55 anos apresenta dor torácica súbita, irradiada para membro superior esquerdo, que, após alguns minutos, migra para região abdominal e membro inferior esquerdo. No momento, está em regular estado geral, orientado, com fácies de dor. P: 120 bpm; pressão arterial no membro superior direito: 220 × 110 mmHg. Não tem pulso femoral à esquerda, tendo sinais de isquemia aguda na perna do mesmo lado. Sobre dissecções agudas de aorta, é INCORRETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Diferentemente do que ocorre nas dissecções do tipo A, a hipertensão arterial é um dos principais fatores de risco presentes nas dissecções do tipo B."
+    },
+    {
+     "letra": "B",
+     "texto": "O caráter migratório da dor está presente em menos de 20% dos casos, sendo a dortorácica irradiada para as costas a queixa mais comum nas dissecções do tipo B."
+    },
+    {
+     "letra": "C",
+     "texto": "O tratamento inicial é o controle da dor, da pressão arterial e da frequência cardíaca,que deve ser feito com vasodilatadores e betabloqueadores cardiosseletivos."
+    },
+    {
+     "letra": "D",
+     "texto": "A angiotomografia, no paciente estável hemodinamicamente, fornece dadossuficientes para o diagnóstico e o planejamento cirúrgico, quando necessário."
+    },
+    {
+     "letra": "E",
+     "texto": "A isquemia do membro deve ser tratada com embolectomia, pois se trata de obstruçãoarterial aguda de causa embólica, cuja provável fonte é o coração."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000107717",
+   "codigo": "4000107717",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 39,
+   "temas": [
+    "Tratamento da dissecção aórtica tipo A"
+   ],
+   "enunciado": "Paciente, 57 anos, hipertenso, obeso, tabagista e sedentário. É admitido na unidade de terapia intensiva com história de dor torácica, sudorese, taquicardia e hipotensão arterial há 30 minutos. O eletrocardiograma revelou bloqueio de ramo esquerdo de grau avançado com supra de segmento ST de 1 mm de V1 a V6 e a radiogra a de tórax mostrou provável alargamento de mediastino superior. Realizou a tomografia computadorizada de tórax. Após medidas iniciais de atendimento, a conduta subsequente é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cirurgia de urgência."
+    },
+    {
+     "letra": "B",
+     "texto": "Trombólise química."
+    },
+    {
+     "letra": "C",
+     "texto": "Toracocentese."
+    },
+    {
+     "letra": "D",
+     "texto": "Angioplastia primária de coronária."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q039-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000106701",
+   "codigo": "4000106701",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 40,
+   "temas": [
+    "Tratamento da dissecção aórtica tipo A"
+   ],
+   "enunciado": "Paciente feminina de 40 anos, com exame físico compatível com síndrome de Marfan, é admitida ao hospital com diagnóstico de dissecção aguda da aorta proximal. Exame físico: PA = 180 x 100 mmHg; FC = 110 bpm; eupneica; presença de sopro diastólico 3+/6+ em foco aórtico. Assinale a conduta mais adequada:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Metoprolol IV, nitroprussiato de sódio, cirurgia de emergência."
+    },
+    {
+     "letra": "B",
+     "texto": "Metoprolol IV, nitroprussiato de sódio, cirurgia em 48h, após estabilização clínica."
+    },
+    {
+     "letra": "C",
+     "texto": "Metoprolol IV, nitroprussiato de sódio e transição para tratamento conservador com betabloqueador e IECA via oral."
+    },
+    {
+     "letra": "D",
+     "texto": "Diazóxido, hidralazina, metoprolol IV, cirurgia de emergência."
+    },
+    {
+     "letra": "E",
+     "texto": "Verapamil IV, nitroprussiato de sódio, cirurgia de emergência."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000086524",
+   "codigo": "4000086524",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 41,
+   "temas": [
+    "Tratamento",
+    "Dissecção aórtica aguda"
+   ],
+   "enunciado": "Homem, 59 anos, obeso, com HAS de longa data, em tratamento irregular, chega à emergência com dor torácica intensa, com irradiação para o dorso. PA = 230 x 140 mmHg; FC = 112 bpm; hiperfonese de B2 em área aórtica. ECG em repouso demonstra hipertro a de VE. Troponina I: 0,1 ng/dl. A hipótese diagnóstica mais provável é a de _______________________eaconduta medicamentosa IV de imediato é usar ________________.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipertensão acelerada – nitroglicerina."
+    },
+    {
+     "letra": "B",
+     "texto": "Síndrome coronariana aguda – nitroglicerina."
+    },
+    {
+     "letra": "C",
+     "texto": "Aneurisma dissecante de aorta – metoprolol."
+    },
+    {
+     "letra": "D",
+     "texto": "Infarto agudo do miocárdio – metoprolol."
+    },
+    {
+     "letra": "E",
+     "texto": "Pericardite – cetoprofeno."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000079813",
+   "codigo": "4000079813",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 42,
+   "temas": [
+    "Manif estações clínicas e complicações"
+   ],
+   "enunciado": "Paciente do sexo masculino, 59 anos, é trazido ao pronto-socorro por apresentar dor súbita e lancinante inicialmente em região torácica anterior com irradiação para dorso, evoluindo em poucas horas para região abdominal. Considerando que o mesmo é tabagista 1maço/dia há 20 anos, hipertenso há 15 anos e as características da dor, qual diagnóstico seria o mais provável?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Pneumotórax hipertensivo."
+    },
+    {
+     "letra": "B",
+     "texto": "Trombose mesentérica ."
+    },
+    {
+     "letra": "C",
+     "texto": "Aneurisma dissecante de aorta."
+    },
+    {
+     "letra": "D",
+     "texto": "Refluxo gastroesofágico."
+    },
+    {
+     "letra": "E",
+     "texto": "Gastrite medicamentosa."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000070819",
+   "codigo": "4000070819",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 43,
+   "temas": [
+    "Exames complementares"
+   ],
+   "enunciado": "Paciente masculino, de 67 anos de idade, portador de Hipertensão Arterial Sistêmica (HAS) e doença articular degenerativa, queixa-se de dor torácica, em região posterior e interescapular, acompanhada de sudorese, dispneia, hipotensão e rouquidão. Ao exame físico, chama atenção a presença de sopro diastólico irradiado para a borda esternal direita. O paciente evoluiu com episódio de síncope. O ECG mostra Alterações de Repolarização Ventricular (ARV) inespecí cas e ausência de sinais de isquemia aguda. A principal hipótese diagnóstica e os exames complementares mais adequados para confirmá-la, são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Dissecção aórtica / ecocardiograma, TC e RM de tórax."
+    },
+    {
+     "letra": "B",
+     "texto": "Dissecção aórtica / RX de tórax e cintilografia pulmonar."
+    },
+    {
+     "letra": "C",
+     "texto": "IAM anterosseptal / curva enzimática e RM de tórax"
+    },
+    {
+     "letra": "D",
+     "texto": "Embolia pulmonar / gasometria arterial e espirometria."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000069167",
+   "codigo": "4000069167",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 44,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Paciente com Dissecção Aórtica do tipo III de DeBakey, evoluiu com PA= 200X120mmHg, e apresentou dor contínua e expansão do diâmetro da aorta avaliada pela tomogra a computadorizada. A conduta para o tratamento da doença aórtica é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Repouso e controle da pressão arterial nas próximas 24h usando hidralazina e enalapril"
+    },
+    {
+     "letra": "B",
+     "texto": "Iniciar betabloqueador intravenoso"
+    },
+    {
+     "letra": "C",
+     "texto": "Estabilização clínica com nitroprussiato de sódio e morfina"
+    },
+    {
+     "letra": "D",
+     "texto": "Correção cirúrgica imediata"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000057013",
+   "codigo": "4000057013",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 45,
+   "temas": [
+    "Manif estações clínicas e complicações"
+   ],
+   "enunciado": "Todas as afirmativas a seguir sobre as manifestações clínicas da dissecção aórtica estão corretas, EXCETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Os homens são mais frequentemente afetados do que as mulheres."
+    },
+    {
+     "letra": "B",
+     "texto": "A dor torácica é o sintoma mais comum."
+    },
+    {
+     "letra": "C",
+     "texto": "Pacientes com dissecção aórtica frequentemente apresentam hipotensão."
+    },
+    {
+     "letra": "D",
+     "texto": "A regurgitação aórtica é mais comum na dissecção do tipo A do que na tipo B (Sanford)."
+    },
+    {
+     "letra": "E",
+     "texto": "Os déficits do pulso são mais comuns na dissecção proximal do que na distal."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000052647",
+   "codigo": "4000052647",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 46,
+   "temas": [
+    "Tratamento da dissecção aórtica tipo A"
+   ],
+   "enunciado": "Em relação à dissecção aórtica, o tratamento cirúrgico está indicado para os pacientes:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tipo II de DeBakey, crônica, com aneurisma de 4,5 cm."
+    },
+    {
+     "letra": "B",
+     "texto": "Tipo B de Stanford, aguda, sem dor."
+    },
+    {
+     "letra": "C",
+     "texto": "Tipo A de Stanford, aguda, com insuficiência aórtica."
+    },
+    {
+     "letra": "D",
+     "texto": "Tipo B de Stanford, crônica, com aneurisma de 5,5 cm."
+    },
+    {
+     "letra": "E",
+     "texto": "Tipo A de Stanford, crônica, sem dilatação."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000028405",
+   "codigo": "4000028405",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 47,
+   "temas": [
+    "Dissecção aórtica aguda"
+   ],
+   "enunciado": "Homem de 74 anos, hipertenso e tabagista foi admitido por dor torácica retroesternal de forte intensidade, em pressão, há 1 hora. Ao exame clínico: pulso de 100 bpm, frequência respiratória 20 irpm, pressão arterial 180x100 mmHg em membro superior direito, pulsos assimétricos, bulhas cardíacas normofonéticas com sopro diastólico em foco aórtico 3+/6+. Eletrocardiograma mostrou infarto agudo do miocárdio com supradesnivelamento do segmento ST de parede inferior. Qual a conduta farmacológica necessária ao paciente neste momento na sala de emergência?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Betabloqueador endovenoso."
+    },
+    {
+     "letra": "B",
+     "texto": "Trombólise."
+    },
+    {
+     "letra": "C",
+     "texto": "Anticoagulação."
+    },
+    {
+     "letra": "D",
+     "texto": "Antiagregação plaquetária."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000025398",
+   "codigo": "4000025398",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 48,
+   "temas": [
+    "Tratamento da dissecção aórtica tipo A",
+    "Epidemiologia",
+    "Manif estações clínicas e complicações"
+   ],
+   "enunciado": "Sobre as dissecções da aorta podemos afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "As dissecções tipo A de Stanford não complicadas devem ser tratadas clinicamente."
+    },
+    {
+     "letra": "B",
+     "texto": "O RX de tórax pode se apresentar normal em até 40% dos pacientes."
+    },
+    {
+     "letra": "C",
+     "texto": "A dislipidemia e o tabagismo apresentam-se como os principais fatores de risco."
+    },
+    {
+     "letra": "D",
+     "texto": "As dissecções de aorta tipo B de Stanford geralmente envolvem a aorta ascendente."
+    },
+    {
+     "letra": "E",
+     "texto": "A localização interescapular sugere acometimento de aorta descendente em cerca de 90% dos casos."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000022482",
+   "codigo": "4000022482",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 49,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Paciente deu entrada no hospital com intensa dor torácica que irradiava para dorso. Seu Eletrocardiograma demonstrava alteração de repolarização, estando o paciente hipertenso com PA de 200x120 mm Hg. Foi iniciado Nitroglicerina, Atenolol VO e Captopril SL, mas como a dor não melhorava e a Radiogra a Torácica demonstrava uma imagem mediastinal que não era siológica, foi solicitada tomogra a torácica que diagnosticou uma dissecção aórtica. Então, é iniciado Nitroprussiato EV além de Metoprolol EV. Qual das medicações abaixo utilizadas apresenta interação tóxica com o metabolismo oxidativo?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Captopril."
+    },
+    {
+     "letra": "B",
+     "texto": "Metoprolol."
+    },
+    {
+     "letra": "C",
+     "texto": "Nitroprussiato de Sódio."
+    },
+    {
+     "letra": "D",
+     "texto": "Nitroglicerina."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000006291",
+   "codigo": "4000006291",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 50,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Um paciente de 62 anos de idade é atendido na unidade de emergência com história de dor lancinante, extremamente súbita em região precordial, irradiada ao dorso. Ao chegar, estava pálido, taquicárdico, pressão arterial de 180 x 110 mmHg; com sopro de regurgitação no foco aórtico e estertores subcrepitantes em base pulmonares. Pulsos periféricos diminuídos em MMIIS. Em relação ao caso, NÃO devemos introduzir imediatamente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Nitroprussiato de sódio."
+    },
+    {
+     "letra": "B",
+     "texto": "Derivados da morfina."
+    },
+    {
+     "letra": "C",
+     "texto": "Betabloqueadores."
+    },
+    {
+     "letra": "D",
+     "texto": "Nitratos."
+    },
+    {
+     "letra": "E",
+     "texto": "Bloqueadores da enzima conversora."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000124720",
+   "codigo": "4000124720",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 51,
+   "temas": [
+    "Tratamento da dissecção aórtica tipo B",
+    "Dissecção aórtica aguda"
+   ],
+   "enunciado": "Com relação à dissecção aórtica aguda distal ou do tipo B não complicada, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A cirurgia deve ser realizada imediatamente."
+    },
+    {
+     "letra": "B",
+     "texto": "O tratamento clínico para os pacientes estáveis não complicados deve ser utilizado já que a sobrevida em 30 dias é 92%."
+    },
+    {
+     "letra": "C",
+     "texto": "A hipertensão arterial é rara."
+    },
+    {
+     "letra": "D",
+     "texto": "Betabloqueador deve ser evitado."
+    },
+    {
+     "letra": "E",
+     "texto": "Outras drogas inotrópicas negativas (verapamil por exemplo) estão contraindicadas."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000106760",
+   "codigo": "4000106760",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 52,
+   "temas": [
+    "Tratamento da dissecção aórtica tipo A"
+   ],
+   "enunciado": "Homem, 37 anos, admitido no pronto atendimento de hospital terciário com dor retroesternal em opressão de forte intensidade há 3 horas. Recebeu aspirina, nitrato sublingual e propranolol em unidade básica de saúde. Nega outros sintomas. Hipertenso em uso de enalapril e tabagista ativo. Exame físico: ritmo cardíaco regular em dois tempos; bulhas hipofonéticas; sem sopros; PA: 80 x 30 mmHg; FC: 75 bpm; pulsos periféricos regulares; nos e simétricos; tempo de enchimento capilar de 6 segundos; murmúrio vesicular simétrico sem ruídos adventícios. Foi iniciada expansão volêmica com soro siológico. Qual é a conduta mais adequada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Angioplastia primária."
+    },
+    {
+     "letra": "B",
+     "texto": "Cirurgia."
+    },
+    {
+     "letra": "C",
+     "texto": "Alteplase."
+    },
+    {
+     "letra": "D",
+     "texto": "Pericardiocentese."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q052-1.jpg",
+     "antes_das_alternativas": true
+    },
+    {
+     "arquivo": "imagens/q052-2.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000089796",
+   "codigo": "4000089796",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 53,
+   "temas": [
+    "Exames de imagem"
+   ],
+   "enunciado": "Paciente do sexo feminino, 60 anos de idade, é atendida na emergência com queixa de dor subesternal de início súbito, com irradiação para pescoço e região dorsal persistente há cerca de 45 minutos. Hipertensa de longa data, tabagista (10 cigarros/dia), sem antecedentes de IAM ou insu ciência cardíaca. Ao exame, encontrava-se ansiosa, sudoreica. À ausculta cardíaca, ritmo regular em 2 tempos, presença de B4, PA: 150 x 100 mmHg, frequência de 94 bpm. O eletrocardiograma mostrava hipertro a ventricular esquerda com alteração difusa de repolarização. A radiogra a de tórax mostrava cardiomegalia e alargamento do mediastino. Qual a conduta inicial mais apropriada neste caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Iniciar trombolítico;"
+    },
+    {
+     "letra": "B",
+     "texto": "Iniciar heparina endovenosa;"
+    },
+    {
+     "letra": "C",
+     "texto": "Aguardar resultado de enzimas;"
+    },
+    {
+     "letra": "D",
+     "texto": "Solicitar ecocardiograma transesofágico;"
+    },
+    {
+     "letra": "E",
+     "texto": "Solicitar angiografia coronariana de urgência."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000073837",
+   "codigo": "4000073837",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 54,
+   "temas": [
+    "Manif estações clínicas e complicações"
+   ],
+   "enunciado": "Qual o diagnóstico mais provável de um paciente com dor torácica súbita e sopro cardíaco diastólico paraesternal direito iniciados há alguns minutos, que desenvolve edema agudo de pulmão?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "IAM com ruptura de septo interventricular"
+    },
+    {
+     "letra": "B",
+     "texto": "Dissecção aórtica com insuficiência aórtica"
+    },
+    {
+     "letra": "C",
+     "texto": "IAM com insuficiência mitral"
+    },
+    {
+     "letra": "D",
+     "texto": "Embolia pulmonar gordurosa"
+    },
+    {
+     "letra": "E",
+     "texto": "Tromboembolismo pulmonar"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000065723",
+   "codigo": "4000065723",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 55,
+   "temas": [
+    "Def inição e classif icação",
+    "Exames de imagem"
+   ],
+   "enunciado": "Paciente com dor torácica aguda e intensa realiza tomogra a computadorizada do tórax que demonstra aorta com descolamento da íntima, apresentando luz verdadeira e luz falsa, o que configura o diagnóstico de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "coarctação de aorta."
+    },
+    {
+     "letra": "B",
+     "texto": "aneurisma roto."
+    },
+    {
+     "letra": "C",
+     "texto": "dissecção aórtica."
+    },
+    {
+     "letra": "D",
+     "texto": "dilatação aneurismática sacular."
+    },
+    {
+     "letra": "E",
+     "texto": "aneurisma parcialmente trombosado."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000114133",
+   "codigo": "4000114133",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 56,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Homem, 72 anos de idade, com antecedente de hipertensão arterial em tratamento irregular desde os 40 anos de idade, procura o pronto-socorro por dor torácica de forte intensidade (10 em 10), de início súbito há meia hora, irradiada para dorso, sem náuseas ou vômitos e um episódio de síncope com duração menor do que 1 minuto no caminho até o hospital. Exame clínico inicial: mau estado geral; palidez cutânea; sudoreico; fácies de dor; ansioso; Glasgow: 15; glicemia capilar: 190 mg/dl; pressão arterial em membro superior direito: 220 x 120 mmHg e em membro superior esquerdo: 180 x 90 mmHg; FC: 120 bpm; FR: 28 irpm; SatO₂ em ar ambiente: 95%. Restante do exame normal. Paciente foi levado imediatamente à sala de emergência. A conduta terapêutica medicamentosa para o quadro agudo é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "AAS e clopidogrel."
+    },
+    {
+     "letra": "B",
+     "texto": "Diazepam e orientações quanto a ansiedade."
+    },
+    {
+     "letra": "C",
+     "texto": "Furosemida e morfina."
+    },
+    {
+     "letra": "D",
+     "texto": "Anticoagulação e oxigenoterapia."
+    },
+    {
+     "letra": "E",
+     "texto": "Nitroprussiato de sódio e metoprolol."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000114115",
+   "codigo": "4000114115",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 57,
+   "temas": [
+    "Exames de imagem"
+   ],
+   "enunciado": "Homem, 72 anos de idade, com antecedente de hipertensão arterial de tratamento irregular desde os 40 anos de idade, procura o pronto-socorro por dor torácica de forte intensidade (10 em 10), de início súbito há meia hora, irradiada para dorso, sem náuseas ou vômitos e um episódio de síncope com duração menor do que 1 minuto no caminho até o hospital. Exame clínico inicial: mau estado geral; palidez cutânea; sudoreico; fácies de dor; ansioso; Glasgow: 15; glicemia capilar: 190 mg/dl; pressão arterial membro superior direito: 220 × 120 mmHg e membro superior esquerdo: 180 × 90 mmHg; FC: 120 bpm; FR: 28 ipm; Sat O₂ em ar ambiente: 95%. Restante do exame normal. Paciente foi levado imediatamente à sala de emergência. Foram realizados radiografia de tórax (RX) no leito e eletrocardiograma (ECG). As descrições destes exames mais condizentes com o quadro clínico deste paciente são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "RX normal e ECG com supradesnivelamento do segmento ST em DII, DIII e aVF."
+    },
+    {
+     "letra": "B",
+     "texto": "RX com alargamento de mediastino e ECG com índice de Sokolow-Lion maior que 35 mm."
+    },
+    {
+     "letra": "C",
+     "texto": "RX com sinais de congestão pulmonar e ECG com área inativa em DII, DIII e aVF."
+    },
+    {
+     "letra": "D",
+     "texto": "RX normal e ECG com infradesnivelamento do ST."
+    },
+    {
+     "letra": "E",
+     "texto": "RX com infarto pulmonar e ECG com S1Q3T3."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000091792",
+   "codigo": "4000091792",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 58,
+   "temas": [
+    "Tratamento da dissecção aórtica tipo A"
+   ],
+   "enunciado": "Paciente masculino de 66 anos, hipertenso de longa data e com controle inadequado da pressão, chega à emergência com queixa de dor torácica intensa irradiada para região dorsal. A pressão arterial inicial era de 205/120 mmHg, e a frequência cardíaca de 98 bpm. ECG de repouso e marcadores de necrose excluíam síndrome coronariana aguda. Havia suspeita clínica de dissecção aórtica aguda, pois estudo radiológico revela aumento do mediastino. Tal diagnóstico foi confirmado por ecocardiografia. Analise as considerações abaixo: I. Não havendo contraindicações, betabloqueadores tipo esmolol ou labetalol EV são drogas de escolha inicialmente usados para controle pressórico. II. Pacientes com dissecção proximal tipo A são candidatos a tratamento cirúrgico. III. Pacientes com síndrome de Marfan, gestantes e presença de valva aórtica bicúspide apresentam maior risco de dissecção. Qual (is) assertiva (s) está (ão) CORRETA (S):",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Somente a assertiva I."
+    },
+    {
+     "letra": "B",
+     "texto": "Somente as assertivas I e II."
+    },
+    {
+     "letra": "C",
+     "texto": "Somente as assertivas I e III."
+    },
+    {
+     "letra": "D",
+     "texto": "Somente a assertiva II."
+    },
+    {
+     "letra": "E",
+     "texto": "Todas as assertivas."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000086988",
+   "codigo": "4000086988",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 59,
+   "temas": [
+    "Dissecção aórtica aguda"
+   ],
+   "enunciado": "Você está no PS quando adentra um paciente do sexo masculino, com 65 anos, referindo intensa dor precordial lancinante irradiada para região dorsal há mais de 60 min, palidez cutânea, sudorese fria e pegajosa, pulsos nos, pressão arterial 130 x 90mmHg, pulso 100bpm; ECG inespecí co. Você nota tratar-se de um homem alto, magro com envergadura desproporcional (aumentada). Diante disso você crer tratar-se de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Infarto agudo do miocárdio e faz nitrato sublingual, antiagregação plaquetária dupla, betabloqueador IV."
+    },
+    {
+     "letra": "B",
+     "texto": "Dissecção aórtica, e faria betabloqueador IV + nitroprussiato de sódio IV."
+    },
+    {
+     "letra": "C",
+     "texto": "Angina Instável, e faria nitrato sublingual, betabloqueador IV, antiagregação dupla."
+    },
+    {
+     "letra": "D",
+     "texto": "Miocardite aguda, faria corticoide venoso."
+    },
+    {
+     "letra": "E",
+     "texto": "Infarto agudo do miocárdio, encaminharia para angioplastia coronária percutânea."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000011882",
+   "codigo": "4000011882",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 60,
+   "temas": [
+    "Exames de imagem"
+   ],
+   "enunciado": "Paciente do sexo masculino, 70 anos, hipertenso e portador de dislipidemia, vem se queixando de forte dor retroesternal com irradiação para o dorso. Pressão arterial medida de 180/120 mmHg. Observa-se assimetria de pulso braquial. O ECG é normal e a radiogra a de tórax está abaixo (VER IMAGEM). Qual o exame mais indicado para confirmação diagnóstica, dentre as opções abaixo?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cintilografia do miocárdio."
+    },
+    {
+     "letra": "B",
+     "texto": "Ecocardiograma transtorácico."
+    },
+    {
+     "letra": "C",
+     "texto": "Cateterismo cardíaco com aortografia."
+    },
+    {
+     "letra": "D",
+     "texto": "Tomografia computadorizada do tórax."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q060-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000001320",
+   "codigo": "4000001320",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndromes Aórticas Agudas",
+   "numero": 61,
+   "temas": [
+    "Dissecção aórtica aguda",
+    "Dissecção aórtica aguda",
+    "Cardiologia"
+   ],
+   "enunciado": "Escolha a melhor droga ou combinação de drogas indicada no controle da hipertensão em vigência da dissecção de aorta: Respostas: 1 12 23 34 45 56",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Furosemida + betabloqueador."
+    },
+    {
+     "letra": "B",
+     "texto": "Nitropussiato de sódio + betabloqueador."
+    },
+    {
+     "letra": "C",
+     "texto": "Nitropussiato de sódio isoladamente."
+    },
+    {
+     "letra": "D",
+     "texto": "Betabloqueador isoladamente."
+    },
+    {
+     "letra": "E",
+     "texto": "Nitropussiato de sódio + nifedipina."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": []
+}

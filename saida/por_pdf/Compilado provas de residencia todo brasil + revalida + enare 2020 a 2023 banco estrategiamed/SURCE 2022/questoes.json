@@ -1,0 +1,3338 @@
+{
+ "questoes": [
+  {
+   "id": "4000163732",
+   "codigo": "4000163732",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 1,
+   "temas": [
+    "Rastreamento nas pacientes de alto risco"
+   ],
+   "enunciado": "Paciente, 35 anos, realizou biopsia mamária de nódulo compatível com hiperplasia ductal atípica. Não sabe referir história familiar pois foi adotada na infância. Procura ginecologista para realizar exames para prevenção do câncer de mama. Assinale a assertiva correta quanto à classificação de risco da paciente e adequada estratégia de rastreamento com as recomendações do Colégio Brasileiro de Radiologia e da Federação Brasileira de Ginecologia e Obstetrícia (Febrasgo).",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Risco intermediário: realizar mamografia anual + Ultrassonografia (USG) pode ser solicitada de maneira individualizada."
+    },
+    {
+     "letra": "B",
+     "texto": "Risco intermediário: realizar mamografia anual + Ultrassonografia e ressonância magnética complementares."
+    },
+    {
+     "letra": "C",
+     "texto": "Alto Risco: realizar mamografia anual + Ultrassonografia e ressonância magnética complementares."
+    },
+    {
+     "letra": "D",
+     "texto": "Alto Risco: Mamografia e ressonância magnética anuais a partir dos 30 anos."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163731",
+   "codigo": "4000163731",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 2,
+   "temas": [
+    "Tratamento",
+    "Ginecologia"
+   ],
+   "enunciado": "Mulher, 85 anos, com queixa de bola na vagina. Ao exame físico, apresenta prolapso uterino estadio 4. Paciente hipertensa e diabética em uso de insulina e não deseja procedimento cirúrgico. Qual melhor opção terapêutica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Pessário vaginal."
+    },
+    {
+     "letra": "B",
+     "texto": "Histerectomia total vaginal."
+    },
+    {
+     "letra": "C",
+     "texto": "Fisioterapia do assoalho pélvico."
+    },
+    {
+     "letra": "D",
+     "texto": "Colpoplastia anterior e posterior."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163730",
+   "codigo": "4000163730",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 3,
+   "temas": [
+    "Ginecologia",
+    "Tratamento"
+   ],
+   "enunciado": "Mulher, 45 anos, obesa, com queixa de perda de urina ao tossir, espirrar e ao caminhar. Realizou estudo urodinâmico que observou detrusor estável e pressão de perda à manobra de Valsalva de 42cmH2O. Qual a melhor opção terapêutica para tratamento da incontinência urinária?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Agente de preenchimento uretral."
+    },
+    {
+     "letra": "B",
+     "texto": "Colposuspensão retropúbica."
+    },
+    {
+     "letra": "C",
+     "texto": "Sling retropúbico."
+    },
+    {
+     "letra": "D",
+     "texto": "Colpoperineoplastia."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163729",
+   "codigo": "4000163729",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 4,
+   "temas": [
+    "Etiologia",
+    "Diagnóstico dif erencial"
+   ],
+   "enunciado": "Mulher, multípara de 65 anos, com menopausa aos 50 anos, assintomática desde então. Sem comorbidades. Realiza exames ginecológicos regulares sem alterações. Apresenta sangramento uterino anormal há 3 dias em pequena quantidade de aspecto descrito como em borra de café. Nega dores abdominais ou quaisquer outras queixas. Assinale a assertiva correta quanto ao diagnóstico mais provável para este caso de sangramento uterino anormal.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Neoplasia intraepitelial endometrial."
+    },
+    {
+     "letra": "B",
+     "texto": "Neoplasia intraepitelial cervical."
+    },
+    {
+     "letra": "C",
+     "texto": "Adenocarcinoma de endométrio."
+    },
+    {
+     "letra": "D",
+     "texto": "Atrofia endometrial."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163728",
+   "codigo": "4000163728",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 5,
+   "temas": [
+    "Classif icação FIGO",
+    "Adenomiose"
+   ],
+   "enunciado": "Mulher, 35 anos, G3P2A0, três cesáreas prévias, com história de sangramento uterino de 9 dias de duração, com intervalo cíclico mensal regular e de grande volume que extravasa do absorvente, desde última cesárea ha8 anos. Associado quadro de cólicas incapacitantes em baixo ventre, progressiva, que intensi ca nos primeiros 3 dias de uxo necessitando de AINEs. Refere anemia crônica e fraqueza. Realizou ultrassonogra a pélvica transvaginal que excluiu a possibilidade de leiomiomas e mostrou um útero aparentemente normal. Assinale a assertiva correta que corresponde à causa mais provável do sangramento uterino anormal.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Endometrite."
+    },
+    {
+     "letra": "B",
+     "texto": "Adenomiose."
+    },
+    {
+     "letra": "C",
+     "texto": "Coagulopatia."
+    },
+    {
+     "letra": "D",
+     "texto": "Anovulação crônica."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000163727",
+   "codigo": "4000163727",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 6,
+   "temas": [
+    "Endometriose"
+   ],
+   "enunciado": "Paciente 26 anos, nuligesta, refere ciclos menstruais regulares com dismenorreia, dor pélvica crônica progressiva desde menarca, além de dispareunia. Deseja engravidar mas está há dois anos sem métodos contraceptivos e não consegue. Realizou espermograma do companheiro que foi normal, Ao exame físico, encontra-se dor e espessamento bilateral em ligamentos úterossacrais e nodularidade dolorosa em fundo de saco vaginal. Fez ultrassonogra a pélvica transvaginal compatível com ovários aumentados de volume bilaterais, imóveis, centralizados e posteriorizados. Qual a principal hipótese diagnóstica mais provável para o fator causal dessa infertilidade primária.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Endometriose profunda."
+    },
+    {
+     "letra": "B",
+     "texto": "Falência ovaríana prematura."
+    },
+    {
+     "letra": "C",
+     "texto": "Sequela de Doença Inflamatória pélvica."
+    },
+    {
+     "letra": "D",
+     "texto": "Anovulação crônica por Síndrome de Ovários Policísticos."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163726",
+   "codigo": "4000163726",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 7,
+   "temas": [
+    "Gestação ectópica"
+   ],
+   "enunciado": "Mulher de 30 anos, nuligesta, comparece ao setor de emergência do hospital com quadro de atraso menstrual de dois meses, dor abdominal difusa, tontura e sangramento vaginal discreto. Ao exame, nota-se palidez cutâneo-mucosa, sudorese, PA: 90 x 50 mmHg, FC: 140bpm, abdome doloroso à descompressão brusca, principalmente em fossa ilíaca direita. Toque vaginal com abaulamento e dor em fundo de saco posterior. Realizou ultrassonogra a pélvica transvaginal não visualiza imagem de saco gestacional intrauterino e vê imagem anexial sugestiva de prenhez ectópica íntegra < 4 cm. Dosagem de ß-hCG = 2.500 UI/L. Hemogobina=7,0mg/dL e Hematócrito= 25%. Assinale a assertiva correta quanto à conduta mais adequada deste caso.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Laparoscopia ginecológica de urgência."
+    },
+    {
+     "letra": "B",
+     "texto": "Metotrexate 50 mg / m2 intramuscular dose única."
+    },
+    {
+     "letra": "C",
+     "texto": "Dosagens seriadas de ß-hCG sérico quantitativo e manter paciente internada."
+    },
+    {
+     "letra": "D",
+     "texto": "Metotrexate 1,0mg/Kg intramuscular (dia 1) + Ácido folínico 0,1mg/Kg via oral (dia 2)."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163725",
+   "codigo": "4000163725",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 8,
+   "temas": [
+    "Vaginose bacteriana",
+    "Ginecologia",
+    "Mudanças da f lora vaginal"
+   ],
+   "enunciado": "Mulher 30 anos, solteira, procura atendimento devido a queixa de conteúdo vaginal abundante com odor fétido há cerca de 5 dias. Relata novo parceiro há cerca de 2 meses, em uso de contraceptivo combinado oral. Nega outras queixas clínicas, como alterações menstruais ou disúria. Ao exame: Vulva sem alterações. Ao exame especular: conteúdo fluido algo bolhoso em moderada quantidade, de odor fétido. Colpite ausente. Colo com muco opaco, sem alterações. Teste de pH= 4,8 Resultado de bacterioscopia por Gram: Células escamosas +++ Leucócitos ++ Microbiota constituída por: Bacilos curtos Gram-negativos, cocobacilos Gram variáveis e cocos Gram-positivos. Escore de Nugent= 8. Qual tratamento é mais adequado nesta situação?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Azitromicina 1g via oral em dose única."
+    },
+    {
+     "letra": "B",
+     "texto": "Metronidazol 500mg, via oral, de 12/12 horas por 7 dias."
+    },
+    {
+     "letra": "C",
+     "texto": "Fluconazol 150 mg via oral em dose única e Metronidazol gel vaginal 7 dias."
+    },
+    {
+     "letra": "D",
+     "texto": "Ceftriaxona 500mg intramuscular, Azitromicina 1g em dose única e Metronidazol gel vaginal 7 dias."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163724",
+   "codigo": "4000163724",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 9,
+   "temas": [
+    "Contraindicações"
+   ],
+   "enunciado": "Mulher de 35 anos, casada, dois lhos de parto normal, procura atendimento na Unidade Básica de Saúde com desejo de reiniciar contraceptivo oral. Refere enxaqueca com aura, hipertensão em uso de medicação. Nega tabagismo. Informa ter ciclos menstruais regulares e nega outras queixas ou comorbidades. Ao exame: Obesa (IMC=30), PA: 130x90mmHg. Qual a melhor opção contraceptiva para esse caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Anel vaginal."
+    },
+    {
+     "letra": "B",
+     "texto": "Adesivo transdérmico."
+    },
+    {
+     "letra": "C",
+     "texto": "Dispositivo Intrauterino (DIU)."
+    },
+    {
+     "letra": "D",
+     "texto": "Contraceptivo oral combinado."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163723",
+   "codigo": "4000163723",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 10,
+   "temas": [
+    "Roteiro diagnóstico"
+   ],
+   "enunciado": "Menina de 16 anos vem ao posto de saúde com sua mãe com queixa de nunca ter menstruado. Refere ter tido telarca e pubarca aos 10 anos, nega dor. Ao exame físico, mamas Tunner IV, abdome, sem massas palpáveis ou pontos dolorosos, vulva com pili cação ginecoide, Tunner IV, com clítoris, pequenos e grandes lábios normais, porém o introito vaginal não permite a passagem de um cotonete. Qual o melhor exame para auxiliar no diagnóstico diferencial?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ultrassom pélvico."
+    },
+    {
+     "letra": "B",
+     "texto": "Dosagem sérica de FSH e LH."
+    },
+    {
+     "letra": "C",
+     "texto": "Dosagem sérica de Prolactina e TSH."
+    },
+    {
+     "letra": "D",
+     "texto": "Dosagem sérica de estrogênio e progesterona."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163722",
+   "codigo": "4000163722",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 11,
+   "temas": [
+    "Hemorragias pós parto HPP e rotura uterina",
+    "Assistência ao puerperio",
+    "Obstetrícia"
+   ],
+   "enunciado": "MSS, 38 anos, G5P4A0, IG 40 semanas, apresentando polidrâmnio é admitida no centro obstétrico com feto cefálico, 3 contrações 50 segundos em 10 minutos, colo com 7 cm dilatação, bolsa das águas íntegras. Com relação às medidas de prevenção da hemorragia pós-parto (HPP), nesta paciente, qual a afirmativa correta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Acesso venoso calibroso, reserva de sangue e ocitocina 10 unidades intramuscular, imediatamente após o nascimento."
+    },
+    {
+     "letra": "B",
+     "texto": "Amniotomia , metilergometrina 0,2 mg intramuscular, imediatamente após o nascimento, seguida de tração controlada do cordão umbilical."
+    },
+    {
+     "letra": "C",
+     "texto": "Expressão do fundo uterino, associada à tração controlada do cordão umbilical, ácido tranexâmico 1,0 g endovenoso e reserva de concentrado de hemáceas."
+    },
+    {
+     "letra": "D",
+     "texto": "Obtenção de acesso venoso calibroso, elevação dos membros inferiores, monitorização dos sinais vitais e tônus uterino a cada 15 minutos, durante a primeira hora pós-parto."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163721",
+   "codigo": "4000163721",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 12,
+   "temas": [
+    "Seguimento pós molar",
+    "Intercorrências obstétricas obstetrícia patológica",
+    "Diagnóstico"
+   ],
+   "enunciado": "Paciente de 22 anos, G1P0A1, comparece ao seu plantão em emergência obstétrica referindo sangramento transvaginal persistente desde curetagem uterina realizada há 45 dias por abortamento espontâneo. Ao exame, você percebe colo amolecido com orifício interno entreaberto. Ela traz exames realizados hoje: beta-hCG quantitativo de 12.000 mIU/ml e ultrassom transvaginal mostrando útero de 150cm³, endométrio de 4mm, imagem heterogênea de limites inde nidos em parede miometrial anterior, apresentando uxo vascular de baixa resistência ao doppler. Sua principal hipótese diagnóstica e conduta são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Mola hidatiforme parcial. Realizar aspiração manual intrauterina."
+    },
+    {
+     "letra": "B",
+     "texto": "Neoplasia trofoblástica gestacional (NTG). Realizar histerectomia."
+    },
+    {
+     "letra": "C",
+     "texto": "Mola hidatiforme completa. Realizar aspiração manual intrauterina."
+    },
+    {
+     "letra": "D",
+     "texto": "Neoplasia trofoblástica gestacional (NTG). Encaminhar para quimioterapia."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163720",
+   "codigo": "4000163720",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 13,
+   "temas": [
+    "Covid na gestação",
+    "Obstetrícia"
+   ],
+   "enunciado": "Primigesta, de 27 anos, comparece à emergência de maternidade em início da fase ativa do trabalho de parto. Apresenta RT-PCR para Covid-19 positivo do dia anterior. Informa quadro gripal há 6 dias, com adinamia, odinofagia, anosmia e febre baixa. Nega dispneia. Ao exame, saturação de oxigênio de 98%. Paciente solicita direito a acompanhante e apresenta plano de parto que deseja seguir. Suas orientações, levando em consideração a pandemia do Covid-19, são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A Covid-19 é indicação para alterar a via de parto, sendo o parto cesáreo a via de parto mais indicada nesse caso. Durante a realização da cesárea, o plano de parto da paciente deve ser seguido, com direito a acompanhante de sua escolha, bem como clampeamento oportuno do cordão umbilical."
+    },
+    {
+     "letra": "B",
+     "texto": "Não só a gestante, mas também seu recém-nascido e seu acompanhante deverão ser isolados, de preferência em um quarto de alojamento conjunto. Quando sozinhos no alojamento conjunto com o recém-nascido, o uso da máscara não se faz necessário pela puérpera e pelo seu acompanhante."
+    },
+    {
+     "letra": "C",
+     "texto": "Privilegiar o aleitamento natural, com liberação da prática da amamentação, desde que medidas que garantam a proteção, tanto da mãe quanto do recém-nascido, sejam seguidas. Puérperas com dispneia, podem retirar a máscara enquanto amamentam para conforto materno e melhora da saturação de oxigênio."
+    },
+    {
+     "letra": "D",
+     "texto": "Priorizar o parto vaginal, por ser mais seguro a gestantes com Covid-19. Deve-se explicar à paciente e aos seus familiares sobre risco de contaminação e orientar que o isolamento é a medida mais segura. No caso de o acompanhante permanecer, não deve circular nas demais áreas do hospital e precisa usar máscara quando o fizer."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163719",
+   "codigo": "4000163719",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 14,
+   "temas": [
+    "Dependência de Álcool",
+    "Doenças associadas à gestação",
+    "Maconha"
+   ],
+   "enunciado": "A.B.S., 16 anos, G1P0A0, moradora de rua, usuária de álcool, tabaco, maconha e crack é trazida ao pré-natal de adolescente pelo serviço social, para acompanhamento. Identi que a melhor opção acerca dos efeitos do uso de drogas durante a gestação e melhor maneira de abordagem dos sintomas de abstinência.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O uso de álcool durante a gestação está associado à maior ocorrência de parto prematuro, abortamento e natimortos. Uma abordagem multidisciplinar, com enfoque no tratamento psicossocial e comportamental, está indicada no intuito de cessar o uso durante o pré-natal, não sendo necessária a introdução de tratamento medicamentoso."
+    },
+    {
+     "letra": "B",
+     "texto": "O uso de crack durante a gestação está associado à maior ocorrência de parto prematuro, abortamento e fetos grandes para a idade gestacional. Uma abordagem multidisciplinar, com enfoque no tratamento psicossocial e comportamental, está indicada, sendo necessário o início de tratamento medicamentoso no intuito de cessar o uso durante a gravidez."
+    },
+    {
+     "letra": "C",
+     "texto": "O uso de tabaco durante a gestação está associado à maior ocorrência de baixo peso ao nascimento, parto prematuro, descolamento prematuro de placenta, abortamento, natimortos e malformações congênitas. Uma abordagem multidisciplinar, com enfoque no tratamento psicossocial e comportamental, está indicada no intuito de diminuir ou cessar o uso durante o pré-natal."
+    },
+    {
+     "letra": "D",
+     "texto": "O uso de maconha durante a gestação está associado à maior ocorrência de anemia durante a gestação, porém não demonstra interferência na prematuridade e no peso fetal, ao nascimento. Uma abordagem multidisciplinar, com enfoque no tratamento psicossocial e comportamental está indicada no intuito de cessar o uso durante o pré-natal, não sendo necessária a introdução de tratamento medicamentoso."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163718",
+   "codigo": "4000163718",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 15,
+   "temas": [
+    "Gestação múltipla gestação gemelar"
+   ],
+   "enunciado": "Gestante de 34 anos, G1P0A0, realizou fertilização in vitro, comparece à segunda consulta de pré-natal com ultrassom revelando gestação gemelar dicoriônica no curso da 8ª semana. Qual das a rmativas não é verdadeira em relação a esta gestação?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "70-75% das gestações gemelares são dizigóticas, sendo estas dicoriônicas e diamnióticas em 100% dos casos."
+    },
+    {
+     "letra": "B",
+     "texto": "O seguimento pré-natal desta gestação deve ser realizado de forma mensal, até a 28ª semana, a cada 2-3 semanas a partir da 28ª semana e, semanal, a partir da 36ª semana."
+    },
+    {
+     "letra": "C",
+     "texto": "Após a prematuridade, a complicação mais frequente da gravidez gemelar dicoriônica é a síndrome da transfusão feto fetal (STFF), sendo importante causa de morbimortalidade perinatal."
+    },
+    {
+     "letra": "D",
+     "texto": "O rastreamento ultrassonográfico da gestação gemelar dicoriônica, se faz entre a 11ª e 14ª semana para datação e rastreamento de cromossomopatias e entre a 20ª e 22ª semana para avaliação detalhada da anatomia fetal e comprimento do colo. Após a 24ª semana, realiza-se a cada 30 dias para avaliar o crescimento, o líquido amniótico e doppler fetal."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163717",
+   "codigo": "4000163717",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 16,
+   "temas": [
+    "Trabalho de parto prematuro TPP"
+   ],
+   "enunciado": "A prematuridade permanece, nos dias atuais, como sério problema perinatal, sendo responsável por cerca de 75% de toda a morbidade e mortalidade neonatais (Blencowe et al., 2013; ACOG, 2016). Com relação ao Trabalho de Parto Prematuro, é correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O nifedipino é o fármaco de primeira escolha para inibir o parto pré-termo, por apresentar as seguintes vantagens: via oral de administração, poucos efeitos colaterais e eficácia em reduzir as complicações neonatais. A indometacina também pode ser utilizada, especialmente após a 32ª semana."
+    },
+    {
+     "letra": "B",
+     "texto": "O uso de tocolítico visa prolongar a gestação por 48 h enquanto se aguardam os efeitos benéficos do corticoide e se transfere a paciente para maternidade de nível terciário. A manutenção do tratamento tocolítico acima de 48 h, também é eficaz em prevenir o parto prematuro e melhorar o prognóstico neonatal."
+    },
+    {
+     "letra": "C",
+     "texto": "O sulfato de magnésio (MgSO) utilizado para a neuroproteção fetal está indicado na gestação entre 23+0 e 31+6 semanas quando há risco de parto nos próximos 7 dias. A profilaxia antibiótica intraparto (PAI) contra estreptococo do grupo B (GBS) é obrigatória, a menos que a cultura vaginorretal tenha sido negativa nas últimas 5 semanas."
+    },
+    {
+     "letra": "D",
+     "texto": "O corticoide é capaz não só de reduzir a incidência de Síndrome da Angústia Respiratória (SAR) como também de outras complicações no recém-nascido, tais como hemorragia intraventricular, retinopatia da prematuridade, enterocolite necrosante, persistência do canal arterial e, o que é mais importante, a taxa de mortalidade neonatal. O repouso no leito e a hidratação de nada servem para a prevenção do parto prematuro."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163716",
+   "codigo": "4000163716",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 17,
+   "temas": [
+    "Métodos de alivio da dor no parto"
+   ],
+   "enunciado": "Paciente, 23 anos, G1P0A0, em seguimento pré-natal na Unidade Básica de Saúde, mostra-se preocupada acerca da dor durante o trabalho de parto e as formas mais adequadas de seu alívio e aborda seu prenatalista sobre a maneira mais indicada de se conduzir diante desta situação. Identifique a melhor orientação a ser dada.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A pré-hidratação, acesso venoso periférico e manutenção de decúbito lateral são obrigatórios durante todo o tempo em que a paciente estiver sob analgesia peridural."
+    },
+    {
+     "letra": "B",
+     "texto": "A solicitação materna por analgesia farmacológica de parto não compreende indicação suficiente para sua realização. Avaliação e prescrição conjunta, de obstetra e anestesista, deve ser sempre realizada e todos os métodos não farmacológicos devem ter sido esgotados previamente."
+    },
+    {
+     "letra": "C",
+     "texto": "Os métodos não farmacológicos de alívio da dor, tais como imersão em água, áudio-analgesia e aromaterapia, devem ser oferecidos à mulher antes da utilização de métodos farmacológicos, pois constituem intervenções não invasivas e sem descrição de efeitos colaterais."
+    },
+    {
+     "letra": "D",
+     "texto": "Os métodos não farmacológicos de alívio da dor tais como imersão em água, áudio-analgesia, aromaterapia, injeção de água estéril, estimulação elétrica transcutânea e acupuntura, devem ser sempre oferecidos à parturiente, já que se tratam de intervenções não invasivas e sem descrição de efeitos colaterais."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163715",
+   "codigo": "4000163715",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 18,
+   "temas": [
+    "Distúrbios hipertensivos na gestação DHEG"
+   ],
+   "enunciado": "A residente B.M.W. chega ao plantão obstétrico em hospital terciário recebendo de seu colega médico, em passagem de plantão, a história da paciente N.A.S.A., 16 anos, primigesta com idade gestacional de 34 semanas, apresentando quadro de elevação dos níveis pressóricos, PA: 160x100mmhg, Auscuta Fetal com BCF: 180bpm, dinâmica uterina ausente, em uso de sonda vesical de demora, sem apresentar diurese nas últimas 3 horas. No momento da passagem do caso, a paciente encontrava-se em uso da 2ª fase de sulfato de magnésio (MgSO4), iniciado no momento de sua internação, motivada pelo quadro descrito em associação com cefaleia occiptal, vômitos persistentes e alterações visuais (escotomas e amaurose). A conduta adequada a ser tomada é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Manter a infusão de sulfato de Magnésio 50%, visando prevenir crises convulsivas, AVC e edema agudo de pulmão."
+    },
+    {
+     "letra": "B",
+     "texto": "Administrar hidralazina 5 mg, EV, para tratar o pico pressórico e betametazona 12 mg, IM, para promoção da maturação pulmonar fetal."
+    },
+    {
+     "letra": "C",
+     "texto": "Confirmar a vitalidade fetal pela ultrassonografia obstétrica com doppler e resolver a gestação via vaginal, através de indução com misoprostol."
+    },
+    {
+     "letra": "D",
+     "texto": "Administrar nifedipina 20 mg, via oral, para tratar pico pressórico e solicitar hematócrito, hemoglobina, contagem de plaquetas, creatinina, TGO, LDH, TP, TTPa, fibrinogênio e relação proteína creatinina, para avaliar lesões de órgãos alvo."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163714",
+   "codigo": "4000163714",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 19,
+   "temas": [
+    "Diabetes na gestação DMG"
+   ],
+   "enunciado": "Os Centers for Disease Control and Prevention (CDC) de nem cuidado pré-concepcional como “um conjunto de intervenções que visam identi car e modi car riscos biomédicos, comportamentais e sociais para a saúde ou o resultado da gestac pré-natal destacam-se o rastreio para a Diabetes Mellitus e a profilaxia desta patologia. Desta maneira, é correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Estabelecer o diagnóstico do Diabetes Mellitus Gestacional (DMG) oferece a oportunidade de melhorar o prognóstico da gravidez, mas não reduz os fatores de risco associados ao desenvolvimento subsequente do diabetes tipo 2."
+    },
+    {
+     "letra": "B",
+     "texto": "O diabetes pré-gestacional merece ser identificado na 1ª consulta pré-natal, pois compromete a mãe e o feto. Mulheres diabéticas que desejam engravidar, devem ser avaliadas apenas se apresentarem história de mal passado obstétrico."
+    },
+    {
+     "letra": "C",
+     "texto": "Grávidas de alto risco para diabetes que apresentam no 1º trimestre valor da HbA1c ≥ 6% têm reduzido valor preditivo para Diabetes Mellitus Gestacional. Mulheres com diabetes tipo 1 que pretendam engravidar devem passar por avaliação da tireoide pela determinação do TSH e do anticorpo anti-tireoperoxidase (anti-TPO)."
+    },
+    {
+     "letra": "D",
+     "texto": "Toda mulher com Diabetes Mellitus Gestacional (DMG) deve ser rastreada entre 6 e 12 semanas após o parto pelo TOTG-75 g de 2h. Diabéticas que planejam a gravidez, devem ser aconselhadas a utilizar suplementação com ácido fólico 3 meses antes da concepção e por 12 semanas depois, para prevenir os defeitos do tubo neural (DTN)."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163713",
+   "codigo": "4000163713",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 20,
+   "temas": [
+    "Modif icações f isiológicas da gestação"
+   ],
+   "enunciado": "Gestante, de 29 anos, com 34 semanas de idade gestacional, comparece à emergência preocupada por achar estar com Covid-19, referindo adinamia, congestão nasal e dispneia leve, principalmente ao deitar. Seu exame mostrou saturação de oxigênio de 96% em ar ambiente, frequência respiratória de 23 irpm, temperatura axilar de 37,2 °C e ausculta pulmonar com murmúrios vesiculares diminuídos nas bases bilateralmente. Marque o item que contém sua hipótese diagnóstica e conduta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Síndrome gripal. Internamento hospitalar, monitorização e tratamento clínico até resultado de exames confirmatórios de Covid-19."
+    },
+    {
+     "letra": "B",
+     "texto": "Gestação fisiológica. Orientações a respeito de uso de máscara, distanciamento social e sintomas de alarme para doença respiratória."
+    },
+    {
+     "letra": "C",
+     "texto": "Síndrome gripal. Coleta de secreções respiratórias para PCR-RT de covid-19 e liberação para isolamento em domicílio usando oseltamivir."
+    },
+    {
+     "letra": "D",
+     "texto": "Síndrome respiratória aguda grave. Internamento para monitorização e interrupção da gestação por cesárea, após corticoide para maturação pulmonar."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163712",
+   "codigo": "4000163712",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 21,
+   "temas": [
+    "Sangramento uterino anormal"
+   ],
+   "enunciado": "Considere o caso clínico abaixo e os personagens nele ilustrados, para responder. Após ser aprovado e ingressar no Programa de Residência Médica em Medicina de Família e Comunidade, você é direcionado para uma Unidade de Atenção Primária à Saúde (UAPS) para ser recebido pelo médico preceptor da Unidade. Em sua primeira participação de reunião de equipe, uma das agentes comunitárias de saúde (ACS) da equipe do médico preceptor traz o relato de uma gestante de sua microárea que não procurou a Unidade de Saúde para começar o pré-natal. A gestante era Vanessa e ela era antiga conhecida da equipe, porque seu nado pai, Seu Odair, fora uma liderança comunitária e era muito querido por todos. Vanessa tinha a primeira consulta de pré-natal agendada para o primeiro horário depois da reunião de equipe. Dr. Marcos Júlio, seu preceptor, relata que Vanessa nunca teve boa relação com os pais e saiu de casa cedo, passando a morar, aos 14 anos, na casa de Ubiratan, seu primeiro parceiro. Após alguns anos morando juntos, Vanessa engravidou e chegou a ser acompanhada pela UAPS no pré-natal, mas teve perda gravídica com aproximadamente 12 semanas de seguimento. Durante esse acompanhamento pré-natal, a equipe cou ciente de que Vanessa vivia em contexto de violência doméstica, mas continuava vivendo com Ubiratan, porque não aceitava voltar para a casa dos pais. Por volta de seus 24 anos, Vanessa teve episódio de hemiplegia desproporcional em dimídio esquerdo, desvio de rima labial e disartria, enquanto trabalhava em uma casa como diarista. Foi levada à urgência e hospitalizada. Durante hospitalização, confirmou-se um infarto cerebral. A família de Vanessa possui histórico de AVCs em idades precoces: Vanusa apresentou episódio de AVC durante uma de suas gestações e dona Benzarina teria apresentado o primeiro AVC antes da menopausa. Segundo a Assistente Social do hospital em que Vanessa cou internada por quase dois meses, Ubiratan nunca teria realizado uma visita, mas Edberto, um ex-namorado, foi companhia assídua. Após a alta hospitalar, Vanessa descobriu que Ubiratan estava vivendo com outra mulher e se mudou para casa de Edberto, que a acolheu, a despeito da não-aceitação do pai de Edberto, Seu Eduardo. Depois de seis anos morando juntos, Vanessa engravidou novamente, mas não procurou a UAPS. A ACS fazia visitas domiciliares na mesma rua em que Edberto e Vanessa moram, quando viu Vanessa, já com barriga gravídica, varrendo a calçada. Após breve conversa, a ACS agenda atendimento para Vanessa na UAPS. Após o atendimento de dona Benzarina, Vanusa pergunta se voce ser a cuidadora principal de sua mãe, quase não podendo vir à UAPS, e pela própria história clínica de AVC precoce de Vanusa, você acolhe a solicitação dela. Vanusa vem com queixa de sangramento regular, mas intenso, desde menarca, que se intensi cou nos últimos 10 anos e passou a ser irregular. Consultando o prontuário, você vê que a USG pélvica transvaginal realizada há seis meses não evidenciou nenhuma alteração estrutural. Você realiza exame ginecológico, sem evidenciar nenhuma lesão vaginal e sem nenhuma alteração em exame especular. Qual opção terapêutica seria adequada para a queixa de sangramento uterino de Vanusa?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Anticoncepcional oral combinado."
+    },
+    {
+     "letra": "B",
+     "texto": "Dispositivo intrauterino (DIU) de cobre."
+    },
+    {
+     "letra": "C",
+     "texto": "Dispositivo intrauterino com sistema de liberação prolongada de levonorgestrel."
+    },
+    {
+     "letra": "D",
+     "texto": "Encaminhamento para ambulatório de ginecologia para programação de histerectomia eletiva."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000163711",
+   "codigo": "4000163711",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 22,
+   "temas": [
+    "Demências",
+    "Acidentes Vasculares Cerebrais AVC",
+    "Demência Vascular"
+   ],
+   "enunciado": "Considere o caso clínico abaixo e os personagens nele ilustrados, para responder. Após ser aprovado e ingressar no Programa de Residência Médica em Medicina de Família e Comunidade, você é direcionado para uma Unidade de Atenção Primária à Saúde (UAPS) para ser recebido pelo médico preceptor da Unidade. Em sua primeira participação de reunião de equipe, uma das agentes comunitárias de saúde (ACS) da equipe do médico preceptor traz o relato de uma gestante de sua microárea que não procurou a Unidade de Saúde para começar o pré-natal. A gestante era Vanessa e ela era antiga conhecida da equipe, porque seu nado pai, Seu Odair, fora uma liderança comunitária e era muito querido por todos. Vanessa tinha a primeira consulta de pré-natal agendada para o primeiro horário depois da reunião de equipe. Dr. Marcos Júlio, seu preceptor, relata que Vanessa nunca teve boa relação com os pais e saiu de casa cedo, passando a morar, aos 14 anos, na casa de Ubiratan, seu primeiro parceiro. Após alguns anos morando juntos, Vanessa engravidou e chegou a ser acompanhada pela UAPS no pré-natal, mas teve perda gravídica com aproximadamente 12 semanas de seguimento. Durante esse acompanhamento pré-natal, a equipe cou ciente de que Vanessa vivia em contexto de violência doméstica, mas continuava vivendo com Ubiratan, porque não aceitava voltar para a casa dos pais. Por volta de seus 24 anos, Vanessa teve episódio de hemiplegia desproporcional em dimídio esquerdo, desvio de rima labial e disartria, enquanto trabalhava em uma casa como diarista. Foi levada à urgência e hospitalizada. Durante hospitalização, confirmou-se um infarto cerebral. A família de Vanessa possui histórico de AVCs em idades precoces: Vanusa apresentou episódio de AVC durante uma de suas gestações e dona Benzarina teria apresentado o primeiro AVC antes da menopausa. Segundo a Assistente Social do hospital em que Vanessa cou internada por quase dois meses, Ubiratan nunca teria realizado uma visita, mas Edberto, um ex-namorado, foi companhia assídua. Após a alta hospitalar, Vanessa descobriu que Ubiratan estava vivendo com outra mulher e se mudou para casa de Edberto, que a acolheu, a despeito da não-aceitação do pai de Edberto, Seu Eduardo. Depois de seis anos morando juntos, Vanessa engravidou novamente, mas não procurou a UAPS. A ACS fazia visitas domiciliares na mesma rua em que Edberto e Vanessa moram, quando viu Vanessa, já com barriga gravídica, varrendo a calçada. Após breve conversa, a ACS agenda atendimento para Vanessa na UAPS. Em um turno de demanda programada na Unidade, Vanusa, irmã de Vanessa, traz dona Benzarina para atendimento. A consulta é para mostrar exames solicitados há seis meses. O registro no prontuário traz “si predominância de disfunc de marcha”. A ressonância nuclear magnética de crânio evidencia acometimento extenso de substância branca, no giro do cíngulo, no lobo temporal medial e no tálamo. Assinale a alternativa com o diagnóstico mais provável.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Demência vascular."
+    },
+    {
+     "letra": "B",
+     "texto": "Demência de Alzheimer."
+    },
+    {
+     "letra": "C",
+     "texto": "Demência frontotemporal (DFT)."
+    },
+    {
+     "letra": "D",
+     "texto": "Demência por corpúsculo de Lewy."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000163710",
+   "codigo": "4000163710",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 23,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Considere o caso clínico abaixo e os personagens nele ilustrados, para responder. Após ser aprovado e ingressar no Programa de Residência Médica em Medicina de Família e Comunidade, você é direcionado para uma Unidade de Atenção Primária à Saúde (UAPS) para ser recebido pelo médico preceptor da Unidade. Em sua primeira participação de reunião de equipe, uma das agentes comunitárias de saúde (ACS) da equipe do médico preceptor traz o relato de uma gestante de sua microárea que não procurou a Unidade de Saúde para começar o pré-natal. A gestante era Vanessa e ela era antiga conhecida da equipe, porque seu nado pai, Seu Odair, fora uma liderança comunitária e era muito querido por todos. Vanessa tinha a primeira consulta de pré-natal agendada para o primeiro horário depois da reunião de equipe. Dr. Marcos Júlio, seu preceptor, relata que Vanessa nunca teve boa relação com os pais e saiu de casa cedo, passando a morar, aos 14 anos, na casa de Ubiratan, seu primeiro parceiro. Após alguns anos morando juntos, Vanessa engravidou e chegou a ser acompanhada pela UAPS no pré-natal, mas teve perda gravídica com aproximadamente 12 semanas de seguimento. Durante esse acompanhamento pré-natal, a equipe cou ciente de que Vanessa vivia em contexto de violência doméstica, mas continuava vivendo com Ubiratan, porque não aceitava voltar para a casa dos pais. Por volta de seus 24 anos, Vanessa teve episódio de hemiplegia desproporcional em dimídio esquerdo, desvio de rima labial e disartria, enquanto trabalhava em uma casa como diarista. Foi levada à urgência e hospitalizada. Durante hospitalização, confirmou-se um infarto cerebral. A família de Vanessa possui histórico de AVCs em idades precoces: Vanusa apresentou episódio de AVC durante uma de suas gestações e dona Benzarina teria apresentado o primeiro AVC antes da menopausa. Segundo a Assistente Social do hospital em que Vanessa cou internada por quase dois meses, Ubiratan nunca teria realizado uma visita, mas Edberto, um ex-namorado, foi companhia assídua. Após a alta hospitalar, Vanessa descobriu que Ubiratan estava vivendo com outra mulher e se mudou para casa de Edberto, que a acolheu, a despeito da não-aceitação do pai de Edberto, Seu Eduardo. Depois de seis anos morando juntos, Vanessa engravidou novamente, mas não procurou a UAPS. A ACS fazia visitas domiciliares na mesma rua em que Edberto e Vanessa moram, quando viu Vanessa, já com barriga gravídica, varrendo a calçada. Após breve conversa, a ACS agenda atendimento para Vanessa na UAPS. Ainda na consulta de Edberto, foi verificada glicemia capilar em jejum de 158 mg/dl, e o mesmo questiona o significado clínico desse achado. Corretamente, você responde que a glicemia capilar ainda não está validada para diagnóstico, mas a glicemia capilar alterada sugere alteração no exame de glicemia sérica plasmática. Vendo que não constam exames prévios no prontuário de Edberto, você, então, solicita exames laboratoriais para avaliação metabólica e agenda o retorno. Após um mês, Edberto retorna com os exames complementares, que trazem glicemia de jejum de 160 mg/dl, HbA1c = 8,0%, Colesterol Total = 270 mg/dl, HDL = 30 mg/dl, Triglicerídeos séricos = 300 mg/dl. Não havia alterações em eletrólitos, nem alterações sugestivas de nefropatia diabética ou doença coronariana isquêmica. Assinale a alternativa que contempla a opção terapêutica adequada quanto à hiperglicemia.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Orientar mudanças de estilo de vida (MEVs) e retorno em seis meses com os mesmos exames laboratoriais para nova avaliação."
+    },
+    {
+     "letra": "B",
+     "texto": "Introduzir Metformina associada a MEVs. A associação de um segundo antidiabético pode ser considerada e pactuada individualmente."
+    },
+    {
+     "letra": "C",
+     "texto": "Iniciar a Insulinoterapia plena para o controle glicêmico precoce de imediato. Depois, descalonar para terapia oral associada a MEVs."
+    },
+    {
+     "letra": "D",
+     "texto": "Iniciar terapia farmacológica em esquema de Insulinoterapia Basal Plus: (Insulinoterapia Basal + Insulinoterapia Prandial + Hipoglicemiantes orais)."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000163709",
+   "codigo": "4000163709",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 24,
+   "temas": [
+    "Diagnóstico e classif icação"
+   ],
+   "enunciado": "Considere o caso clínico abaixo e os personagens nele ilustrados, para responder. Após ser aprovado e ingressar no Programa de Residência Médica em Medicina de Família e Comunidade, você é direcionado para uma Unidade de Atenção Primária à Saúde (UAPS) para ser recebido pelo médico preceptor da Unidade. Em sua primeira participação de reunião de equipe, uma das agentes comunitárias de saúde (ACS) da equipe do médico preceptor traz o relato de uma gestante de sua microárea que não procurou a Unidade de Saúde para começar o pré-natal. A gestante era Vanessa e ela era antiga conhecida da equipe, porque seu nado pai, Seu Odair, fora uma liderança comunitária e era muito querido por todos. Vanessa tinha a primeira consulta de pré-natal agendada para o primeiro horário depois da reunião de equipe. Dr. Marcos Júlio, seu preceptor, relata que Vanessa nunca teve boa relação com os pais e saiu de casa cedo, passando a morar, aos 14 anos, na casa de Ubiratan, seu primeiro parceiro. Após alguns anos morando juntos, Vanessa engravidou e chegou a ser acompanhada pela UAPS no pré-natal, mas teve perda gravídica com aproximadamente 12 semanas de seguimento. Durante esse acompanhamento pré-natal, a equipe cou ciente de que Vanessa vivia em contexto de violência doméstica, mas continuava vivendo com Ubiratan, porque não aceitava voltar para a casa dos pais. Por volta de seus 24 anos, Vanessa teve episódio de hemiplegia desproporcional em dimídio esquerdo, desvio de rima labial e disartria, enquanto trabalhava em uma casa como diarista. Foi levada à urgência e hospitalizada. Durante hospitalização, confirmou-se um infarto cerebral. A família de Vanessa possui histórico de AVCs em idades precoces: Vanusa apresentou episódio de AVC durante uma de suas gestações e dona Benzarina teria apresentado o primeiro AVC antes da menopausa. Segundo a Assistente Social do hospital em que Vanessa cou internada por quase dois meses, Ubiratan nunca teria realizado uma visita, mas Edberto, um ex-namorado, foi companhia assídua. Após a alta hospitalar, Vanessa descobriu que Ubiratan estava vivendo com outra mulher e se mudou para casa de Edberto, que a acolheu, a despeito da não-aceitação do pai de Edberto, Seu Eduardo. Depois de seis anos morando juntos, Vanessa engravidou novamente, mas não procurou a UAPS. A ACS fazia visitas domiciliares na mesma rua em que Edberto e Vanessa moram, quando viu Vanessa, já com barriga gravídica, varrendo a calçada. Após breve conversa, a ACS agenda atendimento para Vanessa na UAPS. Durante o exame físico de Edberto, você aferiu PA = 162x114mmHg, IMC = 38kg/m², circunferência abdominal = 110cm e glicemia capilar em jejum = 158mg/dl. A ausculta cardíaca evidenciou frequência cardíaca de repouso de 120bpm, ictus deslocado para o 6º espaço intercostal e com caráter propulsivo. Edberto cou surpreso com o valor de sua pressão arterial, referindo que, apesar de não lembrar quando fora a última vez que teve a pressão arterial aferida, nunca havia chegado a esse nível pressórico. Ele, então, pergunta qual significado clínico desse valor. Assinale a alternativa com a conduta correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Orientar que essa aferição isolada não implica diagnóstico de HAS, mas, em próximo atendimento, caso nível pressórico esteja maior que 140x90, será dado o diagnóstico de HAS."
+    },
+    {
+     "letra": "B",
+     "texto": "Orientar que essa aferição isolada não implica diagnóstico de HAS. Solicitar diário pressórico (MRPA) para diagnóstico de HAS em próximo atendimento."
+    },
+    {
+     "letra": "C",
+     "texto": "Diagnosticar e comunicar evento de Emergência hipertensiva e encaminhar a serviço de Urgência e Emergência para controle parenteral."
+    },
+    {
+     "letra": "D",
+     "texto": "Informar que mesmo com somente essa aferição isolada, considerando dados clínicos, o paciente tem diagnóstico de HAS em medição única."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000163708",
+   "codigo": "4000163708",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 25,
+   "temas": [
+    "Níveis de Prevenção e outros conceitos associados"
+   ],
+   "enunciado": "Considere o caso clínico abaixo e os personagens nele ilustrados, para responder. Após ser aprovado e ingressar no Programa de Residência Médica em Medicina de Família e Comunidade, você é direcionado para uma Unidade de Atenção Primária à Saúde (UAPS) para ser recebido pelo médico preceptor da Unidade. Em sua primeira participação de reunião de equipe, uma das agentes comunitárias de saúde (ACS) da equipe do médico preceptor traz o relato de uma gestante de sua microárea que não procurou a Unidade de Saúde para começar o pré-natal. A gestante era Vanessa e ela era antiga conhecida da equipe, porque seu nado pai, Seu Odair, fora uma liderança comunitária e era muito querido por todos. Vanessa tinha a primeira consulta de pré-natal agendada para o primeiro horário depois da reunião de equipe. Dr. Marcos Júlio, seu preceptor, relata que Vanessa nunca teve boa relação com os pais e saiu de casa cedo, passando a morar, aos 14 anos, na casa de Ubiratan, seu primeiro parceiro. Após alguns anos morando juntos, Vanessa engravidou e chegou a ser acompanhada pela UAPS no pré-natal, mas teve perda gravídica com aproximadamente 12 semanas de seguimento. Durante esse acompanhamento pré-natal, a equipe cou ciente de que Vanessa vivia em contexto de violência doméstica, mas continuava vivendo com Ubiratan, porque não aceitava voltar para a casa dos pais. Por volta de seus 24 anos, Vanessa teve episódio de hemiplegia desproporcional em dimídio esquerdo, desvio de rima labial e disartria, enquanto trabalhava em uma casa como diarista. Foi levada à urgência e hospitalizada. Durante hospitalização, confirmou-se um infarto cerebral. A família de Vanessa possui histórico de AVCs em idades precoces: Vanusa apresentou episódio de AVC durante uma de suas gestações e dona Benzarina teria apresentado o primeiro AVC antes da menopausa. Segundo a Assistente Social do hospital em que Vanessa cou internada por quase dois meses, Ubiratan nunca teria realizado uma visita, mas Edberto, um ex-namorado, foi companhia assídua. Após a alta hospitalar, Vanessa descobriu que Ubiratan estava vivendo com outra mulher e se mudou para casa de Edberto, que a acolheu, a despeito da não-aceitação do pai de Edberto, Seu Eduardo. Depois de seis anos morando juntos, Vanessa engravidou novamente, mas não procurou a UAPS. A ACS fazia visitas domiciliares na mesma rua em que Edberto e Vanessa moram, quando viu Vanessa, já com barriga gravídica, varrendo a calçada. Após breve conversa, a ACS agenda atendimento para Vanessa na UAPS. (TRECHO DA QUESTÃO ANTERIOR) \"Em sua consulta com Edberto, ele refere que o medo de desenvolver câncer de pulmão é uma das razões que o motiva a parar de fumar. Ele, então, pergunta se você pode solicitar algum exame de rastreio para câncer de pulmão nele. De acordo com recomendações nacionais para o rastreio do câncer de pulmão, assinale a alternativa com a conduta adequada.\" A abordagem adequada frente à demanda, ilustrada na questão anterior, de Edberto quanto a exames de rastreio de câncer de pulmão configura que nível de Prevenção?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Primária."
+    },
+    {
+     "letra": "B",
+     "texto": "Secundária."
+    },
+    {
+     "letra": "C",
+     "texto": "Terciária."
+    },
+    {
+     "letra": "D",
+     "texto": "Quaternária."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000163707",
+   "codigo": "4000163707",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 26,
+   "temas": [
+    "Rastreamento",
+    "Prevenção em Saúde",
+    "Rastreio populacional"
+   ],
+   "enunciado": "Considere o caso clínico abaixo e os personagens nele ilustrados, para responder. Após ser aprovado e ingressar no Programa de Residência Médica em Medicina de Família e Comunidade, você é direcionado para uma Unidade de Atenção Primária à Saúde (UAPS) para ser recebido pelo médico preceptor da Unidade. Em sua primeira participação de reunião de equipe, uma das agentes comunitárias de saúde (ACS) da equipe do médico preceptor traz o relato de uma gestante de sua microárea que não procurou a Unidade de Saúde para começar o pré-natal. A gestante era Vanessa e ela era antiga conhecida da equipe, porque seu nado pai, Seu Odair, fora uma liderança comunitária e era muito querido por todos. Vanessa tinha a primeira consulta de pré-natal agendada para o primeiro horário depois da reunião de equipe. Dr. Marcos Júlio, seu preceptor, relata que Vanessa nunca teve boa relação com os pais e saiu de casa cedo, passando a morar, aos 14 anos, na casa de Ubiratan, seu primeiro parceiro. Após alguns anos morando juntos, Vanessa engravidou e chegou a ser acompanhada pela UAPS no pré-natal, mas teve perda gravídica com aproximadamente 12 semanas de seguimento. Durante esse acompanhamento pré-natal, a equipe cou ciente de que Vanessa vivia em contexto de violência doméstica, mas continuava vivendo com Ubiratan, porque não aceitava voltar para a casa dos pais. Por volta de seus 24 anos, Vanessa teve episódio de hemiplegia desproporcional em dimídio esquerdo, desvio de rima labial e disartria, enquanto trabalhava em uma casa como diarista. Foi levada à urgência e hospitalizada. Durante hospitalização, confirmou-se um infarto cerebral. A família de Vanessa possui histórico de AVCs em idades precoces: Vanusa apresentou episódio de AVC durante uma de suas gestações e dona Benzarina teria apresentado o primeiro AVC antes da menopausa. Segundo a Assistente Social do hospital em que Vanessa cou internada por quase dois meses, Ubiratan nunca teria realizado uma visita, mas Edberto, um ex-namorado, foi companhia assídua. Após a alta hospitalar, Vanessa descobriu que Ubiratan estava vivendo com outra mulher e se mudou para casa de Edberto, que a acolheu, a despeito da não-aceitação do pai de Edberto, Seu Eduardo. Depois de seis anos morando juntos, Vanessa engravidou novamente, mas não procurou a UAPS. A ACS fazia visitas domiciliares na mesma rua em que Edberto e Vanessa moram, quando viu Vanessa, já com barriga gravídica, varrendo a calçada. Após breve conversa, a ACS agenda atendimento para Vanessa na UAPS. Em sua consulta com Edberto, ele refere que o medo de desenvolver câncer de pulmão é uma das razões que o motiva a parar de fumar. Ele, então, pergunta se você pode solicitar algum exame de rastreio para câncer de pulmão nele. De acordo com recomendações nacionais para o rastreio do câncer de pulmão, assinale a alternativa com a conduta adequada.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Informar que até o momento não existe diretriz nacional governamental para o rastreamento de câncer de pulmão, além de ele não ter indicação de realizar o exame."
+    },
+    {
+     "letra": "B",
+     "texto": "Solicitar exame de radiografia simples de tórax para acolher a demanda do paciente e avaliar seu risco de câncer de pulmão, sem recorrer a um exame oneroso e complexo."
+    },
+    {
+     "letra": "C",
+     "texto": "Solicitar exame de tomografia de tórax de baixa energia para acolher a demanda do paciente e condicionar a solicitação do exame à cessação do tabagismo de Edberto, ajudando na motivação da parada do tabagismo."
+    },
+    {
+     "letra": "D",
+     "texto": "Informar que a diretriz ministerial brasileira prevê que a tomografia de tórax de baixa energia está indicada no rastreamento de câncer de pulmão somente na população considerada de alto risco: idade entre 50 e 80 anos e carga tabágica de pelo menos 30 maços-ano."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000163706",
+   "codigo": "4000163706",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 27,
+   "temas": [
+    "Introdução e Conceitos Fundamentais"
+   ],
+   "enunciado": "Considere o caso clínico abaixo e os personagens nele ilustrados, para responder. Após ser aprovado e ingressar no Programa de Residência Médica em Medicina de Família e Comunidade, você é direcionado para uma Unidade de Atenção Primária à Saúde (UAPS) para ser recebido pelo médico preceptor da Unidade. Em sua primeira participação de reunião de equipe, uma das agentes comunitárias de saúde (ACS) da equipe do médico preceptor traz o relato de uma gestante de sua microárea que não procurou a Unidade de Saúde para começar o pré-natal. A gestante era Vanessa e ela era antiga conhecida da equipe, porque seu nado pai, Seu Odair, fora uma liderança comunitária e era muito querido por todos. Vanessa tinha a primeira consulta de pré-natal agendada para o primeiro horário depois da reunião de equipe. Dr. Marcos Júlio, seu preceptor, relata que Vanessa nunca teve boa relação com os pais e saiu de casa cedo, passando a morar, aos 14 anos, na casa de Ubiratan, seu primeiro parceiro. Após alguns anos morando juntos, Vanessa engravidou e chegou a ser acompanhada pela UAPS no pré-natal, mas teve perda gravídica com aproximadamente 12 semanas de seguimento. Durante esse acompanhamento pré-natal, a equipe cou ciente de que Vanessa vivia em contexto de violência doméstica, mas continuava vivendo com Ubiratan, porque não aceitava voltar para a casa dos pais. Por volta de seus 24 anos, Vanessa teve episódio de hemiplegia desproporcional em dimídio esquerdo, desvio de rima labial e disartria, enquanto trabalhava em uma casa como diarista. Foi levada à urgência e hospitalizada. Durante hospitalização, confirmou-se um infarto cerebral. A família de Vanessa possui histórico de AVCs em idades precoces: Vanusa apresentou episódio de AVC durante uma de suas gestações e dona Benzarina teria apresentado o primeiro AVC antes da menopausa. Segundo a Assistente Social do hospital em que Vanessa cou internada por quase dois meses, Ubiratan nunca teria realizado uma visita, mas Edberto, um ex-namorado, foi companhia assídua. Após a alta hospitalar, Vanessa descobriu que Ubiratan estava vivendo com outra mulher e se mudou para casa de Edberto, que a acolheu, a despeito da não-aceitação do pai de Edberto, Seu Eduardo. Depois de seis anos morando juntos, Vanessa engravidou novamente, mas não procurou a UAPS. A ACS fazia visitas domiciliares na mesma rua em que Edberto e Vanessa moram, quando viu Vanessa, já com barriga gravídica, varrendo a calçada. Após breve conversa, a ACS agenda atendimento para Vanessa na UAPS. Após você realizar as orientações de redução de risco, quanto ao fumo, durante o aleitamento, você explora as motivações de Vanessa de planejar voltar a fumar após o término da gravidez. Vanessa informa que fuma “para fazer companhia ao Edberto”. Após identi car Edberto como um personagem chave para abordar o tabagismo de Vanessa, você agenda uma consulta para Edberto. Durante a consulta com Edberto, através da entrevista motivacional, você identi ca que ele se encontra no estágio Contemplativo. Qual abordagem, a partir da entrevista motivacional, é a mais adequada nesse caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tirar dúvidas e ajudar na escolha de melhor estratégia em busca da mudança."
+    },
+    {
+     "letra": "B",
+     "texto": "Ajudar a perceber gatilhos para prevenir recaídas. Construir estratégias para enfrentar eventuais gatilhos."
+    },
+    {
+     "letra": "C",
+     "texto": "Levantar dúvidas sobre sintomas e queixas do paciente sobre possível relação com tabagismo e aumentar a percepção sobre riscos do hábito."
+    },
+    {
+     "letra": "D",
+     "texto": "Desfazer a postura de ambivalência, inclinando a balança ao evocar riscos de não mudar e numerar motivos para mudar. Fortalecer a autossuficiência."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000163705",
+   "codigo": "4000163705",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 28,
+   "temas": [
+    "Tabaco"
+   ],
+   "enunciado": "Considere o caso clínico abaixo e os personagens nele ilustrados, para responder. Após ser aprovado e ingressar no Programa de Residência Médica em Medicina de Família e Comunidade, você é direcionado para uma Unidade de Atenção Primária à Saúde (UAPS) para ser recebido pelo médico preceptor da Unidade. Em sua primeira participação de reunião de equipe, uma das agentes comunitárias de saúde (ACS) da equipe do médico preceptor traz o relato de uma gestante de sua microárea que não procurou a Unidade de Saúde para começar o pré-natal. A gestante era Vanessa e ela era antiga conhecida da equipe, porque seu nado pai, Seu Odair, fora uma liderança comunitária e era muito querido por todos. Vanessa tinha a primeira consulta de pré-natal agendada para o primeiro horário depois da reunião de equipe. Dr. Marcos Júlio, seu preceptor, relata que Vanessa nunca teve boa relação com os pais e saiu de casa cedo, passando a morar, aos 14 anos, na casa de Ubiratan, seu primeiro parceiro. Após alguns anos morando juntos, Vanessa engravidou e chegou a ser acompanhada pela UAPS no pré-natal, mas teve perda gravídica com aproximadamente 12 semanas de seguimento. Durante esse acompanhamento pré-natal, a equipe cou ciente de que Vanessa vivia em contexto de violência doméstica, mas continuava vivendo com Ubiratan, porque não aceitava voltar para a casa dos pais. Por volta de seus 24 anos, Vanessa teve episódio de hemiplegia desproporcional em dimídio esquerdo, desvio de rima labial e disartria, enquanto trabalhava em uma casa como diarista. Foi levada à urgência e hospitalizada. Durante hospitalização, confirmou-se um infarto cerebral. A família de Vanessa possui histórico de AVCs em idades precoces: Vanusa apresentou episódio de AVC durante uma de suas gestações e dona Benzarina teria apresentado o primeiro AVC antes da menopausa. Segundo a Assistente Social do hospital em que Vanessa cou internada por quase dois meses, Ubiratan nunca teria realizado uma visita, mas Edberto, um ex-namorado, foi companhia assídua. Após a alta hospitalar, Vanessa descobriu que Ubiratan estava vivendo com outra mulher e se mudou para casa de Edberto, que a acolheu, a despeito da não-aceitação do pai de Edberto, Seu Eduardo. Depois de seis anos morando juntos, Vanessa engravidou novamente, mas não procurou a UAPS. A ACS fazia visitas domiciliares na mesma rua em que Edberto e Vanessa moram, quando viu Vanessa, já com barriga gravídica, varrendo a calçada. Após breve conversa, a ACS agenda atendimento para Vanessa na UAPS. Durante a consulta de pré-natal, Vanessa informa que fuma tabaco, ocasionalmente, e que pretende parar de fumar durante a gestação, mas que vai voltar a fumar após o nascimento da criança. Considerando a redução de riscos, como orientar uma mulher que amamenta e que faz uso de tabaco?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Realizar abordagem cognitivo comportamental básica e orientar a reduzir o consumo o máximo possível. Se não for possível a cessação do tabagismo por completo, orientar procurar fumar pouco tempo antes da amamentação, para que o leite produzido não tenha vestígios definicotina."
+    },
+    {
+     "letra": "B",
+     "texto": "Realizar abordagem cognitivo comportamental básica e orientar a reduzir o consumo o máximo possível. Se não for possível a cessação do tabagismo por completo, orientar procurar fumar após a amamentação e não fumar no mesmo ambiente em que a criança se encontra."
+    },
+    {
+     "letra": "C",
+     "texto": "Informar que o tabagismo é contraindicação absoluta para a amamentação e, considerando a redução de riscos, orientar a oferta de leite artificial."
+    },
+    {
+     "letra": "D",
+     "texto": "Realizar abordagem cognitivo comportamental básica e contraindicar amamentação até que paciente cesse completamente o tabagismo."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000163704",
+   "codigo": "4000163704",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 29,
+   "temas": [
+    "Avaliação do risco gestacional"
+   ],
+   "enunciado": "Considere o caso clínico abaixo e os personagens nele ilustrados, para responder. Após ser aprovado e ingressar no Programa de Residência Médica em Medicina de Família e Comunidade, você é direcionado para uma Unidade de Atenção Primária à Saúde (UAPS) para ser recebido pelo médico preceptor da Unidade. Em sua primeira participação de reunião de equipe, uma das agentes comunitárias de saúde (ACS) da equipe do médico preceptor traz o relato de uma gestante de sua microárea que não procurou a Unidade de Saúde para começar o pré-natal. A gestante era Vanessa e ela era antiga conhecida da equipe, porque seu nado pai, Seu Odair, fora uma liderança comunitária e era muito querido por todos. Vanessa tinha a primeira consulta de pré-natal agendada para o primeiro horário depois da reunião de equipe. Dr. Marcos Júlio, seu preceptor, relata que Vanessa nunca teve boa relação com os pais e saiu de casa cedo, passando a morar, aos 14 anos, na casa de Ubiratan, seu primeiro parceiro. Após alguns anos morando juntos, Vanessa engravidou e chegou a ser acompanhada pela UAPS no pré-natal, mas teve perda gravídica com aproximadamente 12 semanas de seguimento. Durante esse acompanhamento pré-natal, a equipe cou ciente de que Vanessa vivia em contexto de violência doméstica, mas continuava vivendo com Ubiratan, porque não aceitava voltar para a casa dos pais. Por volta de seus 24 anos, Vanessa teve episódio de hemiplegia desproporcional em dimídio esquerdo, desvio de rima labial e disartria, enquanto trabalhava em uma casa como diarista. Foi levada à urgência e hospitalizada. Durante hospitalização, confirmou-se um infarto cerebral. A família de Vanessa possui histórico de AVCs em idades precoces: Vanusa apresentou episódio de AVC durante uma de suas gestações e dona Benzarina teria apresentado o primeiro AVC antes da menopausa. Segundo a Assistente Social do hospital em que Vanessa cou internada por quase dois meses, Ubiratan nunca teria realizado uma visita, mas Edberto, um ex-namorado, foi companhia assídua. Após a alta hospitalar, Vanessa descobriu que Ubiratan estava vivendo com outra mulher e se mudou para casa de Edberto, que a acolheu, a despeito da não-aceitação do pai de Edberto, Seu Eduardo. Depois de seis anos morando juntos, Vanessa engravidou novamente, mas não procurou a UAPS. A ACS fazia visitas domiciliares na mesma rua em que Edberto e Vanessa moram, quando viu Vanessa, já com barriga gravídica, varrendo a calçada. Após breve conversa, a ACS agenda atendimento para Vanessa na UAPS. A revisão do prontuário de atendimentos prévios da Vanessa mostra que exames de pesquisa de anticoagulante lúpico e anticorpo anticardiolipina foram solicitados duas vezes, em intervalo maior que 12 semanas, com resultados persistentemente elevados. A partir das informações coletadas, assinale a alternativa com risco gestacional de Vanessa.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Alto risco."
+    },
+    {
+     "letra": "B",
+     "texto": "Risco habitual."
+    },
+    {
+     "letra": "C",
+     "texto": "Risco habitual com vulnerabilidades."
+    },
+    {
+     "letra": "D",
+     "texto": "Não há informações suficientes para classificar o risco gestacional."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000163703",
+   "codigo": "4000163703",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 30,
+   "temas": [
+    "Genograma"
+   ],
+   "enunciado": "Considere o caso clínico abaixo e os personagens nele ilustrados, para responder. Após ser aprovado e ingressar no Programa de Residência Médica em Medicina de Família e Comunidade, você é direcionado para uma Unidade de Atenção Primária à Saúde (UAPS) para ser recebido pelo médico preceptor da Unidade. Em sua primeira participação de reunião de equipe, uma das agentes comunitárias de saúde (ACS) da equipe do médico preceptor traz o relato de uma gestante de sua microárea que não procurou a Unidade de Saúde para começar o pré-natal. A gestante era Vanessa e ela era antiga conhecida da equipe, porque seu nado pai, Seu Odair, fora uma liderança comunitária e era muito querido por todos. Vanessa tinha a primeira consulta de pré-natal agendada para o primeiro horário depois da reunião de equipe. Dr. Marcos Júlio, seu preceptor, relata que Vanessa nunca teve boa relação com os pais e saiu de casa cedo, passando a morar, aos 14 anos, na casa de Ubiratan, seu primeiro parceiro. Após alguns anos morando juntos, Vanessa engravidou e chegou a ser acompanhada pela UAPS no pré-natal, mas teve perda gravídica com aproximadamente 12 semanas de seguimento. Durante esse acompanhamento pré-natal, a equipe cou ciente de que Vanessa vivia em contexto de violência doméstica, mas continuava vivendo com Ubiratan, porque não aceitava voltar para a casa dos pais. Por volta de seus 24 anos, Vanessa teve episódio de hemiplegia desproporcional em dimídio esquerdo, desvio de rima labial e disartria, enquanto trabalhava em uma casa como diarista. Foi levada à urgência e hospitalizada. Durante hospitalização, confirmou-se um infarto cerebral. A família de Vanessa possui histórico de AVCs em idades precoces: Vanusa apresentou episódio de AVC durante uma de suas gestações e dona Benzarina teria apresentado o primeiro AVC antes da menopausa. Segundo a Assistente Social do hospital em que Vanessa cou internada por quase dois meses, Ubiratan nunca teria realizado uma visita, mas Edberto, um ex-namorado, foi companhia assídua. Após a alta hospitalar, Vanessa descobriu que Ubiratan estava vivendo com outra mulher e se mudou para casa de Edberto, que a acolheu, a despeito da não-aceitação do pai de Edberto, Seu Eduardo. Depois de seis anos morando juntos, Vanessa engravidou novamente, mas não procurou a UAPS. A ACS fazia visitas domiciliares na mesma rua em que Edberto e Vanessa moram, quando viu Vanessa, já com barriga gravídica, varrendo a calçada. Após breve conversa, a ACS agenda atendimento para Vanessa na UAPS. Em seu atendimento com Vanessa, com a nalidade de estabelecer um vínculo com uma paciente com contexto familiar e social tão complexo, você resolve confeccionar um Genograma de Vanessa. Considerando que o relato da Vanessa trouxe as mesmas informações previamente já passadas pelo Dr. Marcos Júlio, assinale a alternativa que traz uma informação não contemplada pelo Genograma ilustrado na Figura 1.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Histórico obstétrico de Vanessa."
+    },
+    {
+     "letra": "B",
+     "texto": "Relação conflituosa entre Vanessa e seus pais."
+    },
+    {
+     "letra": "C",
+     "texto": "Relação conflituosa entre Vanessa e Ubiratan."
+    },
+    {
+     "letra": "D",
+     "texto": "Histórico familiar de AVCs na família de Vanessa."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q030-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000163702",
+   "codigo": "4000163702",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 31,
+   "temas": [
+    "Tratamento sindrômico"
+   ],
+   "enunciado": "Considere o caso cli Durante seu turno de atendimento médico de demanda programada na sua UBS, a agente comunitária de saúde Edinancir, de uma de suas microáreas, vem falar com você. Edinancir pede que você abra uma vaga de atendimento extra, porque ela conseguiu convencer Edmilson a voltar para o Posto para reiniciar o tratamento de Tuberculose Pulmonar. Edmilson tem 30 anos, é auxiliar de pedreiro e solteiro. Ele é tabagista e também etilista diário, mas está motivado a mudar depois que conheceu Iraneide, há um mês. Edmilson abandonou um tratamento prévio de Tuberculose há 02 anos, após quatro meses de tratamento. Edmilson passou um ano e meio assintomático, mas há 06 meses as tosses voltaram e há 02 meses passou a ter episódios de febre. Você consulta Edmilson, solicita a baciloscopia de escarro, prescreve a RHZE para começar no dia seguinte, após a segunda coleta de escarro. Considerando o abandono prévio, você solicita um retorno quinzenal nos primeiros dois meses de tratamento. Em uma de suas consultas com Edmilson, ele pergunta se pode conversar sobre outro problema. Considerando o cuidado integral, você explora essa nova demanda. Edmilson relata que namora Iraneide há três meses, e estava tudo bem, porém sua ex-namorada o procurou há 1 semana, e ele acabou se relacionando sexualmente com a mesma. Desde então, evoluiu com corrimento uretral. Relata ainda que nesse período, não teve relação sexual com Iraneide. Você orienta quanto ao diagnóstico e riscos e Edmilson indaga sobre o tratamento. Assinale a alternativa com a opção terapêutica adequada.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Aciclovir 200mg, 2 comprimidos, VO, 3x/dia por 7 dias."
+    },
+    {
+     "letra": "B",
+     "texto": "Doxiciclina 100mg, VO, 1 comprimido, 2x/dia, por 21 dias."
+    },
+    {
+     "letra": "C",
+     "texto": "Ceftriaxona 500mg, IM, dose única + Azitromicina 500mg, 02 comprimidos, VO, dose única."
+    },
+    {
+     "letra": "D",
+     "texto": "Ceftriaxona 500mg, IM, dose única + Doxiciclina 100mg, VO, 2x/dia, por 14 dias + Metronidazol 250mg, 2 comprimidos, VO, 2x/dia, por 14 dias."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163701",
+   "codigo": "4000163701",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 32,
+   "temas": [
+    "Seguimento do tratamento",
+    "Esquema básico RIPE RHZE"
+   ],
+   "enunciado": "Considere o caso cli Durante seu turno de atendimento médico de demanda programada na sua UBS, a agente comunitária de saúde Edinancir, de uma de suas microáreas, vem falar com você. Edinancir pede que você abra uma vaga de atendimento extra, porque ela conseguiu convencer Edmilson a voltar para o Posto para reiniciar o tratamento de Tuberculose Pulmonar. Edmilson tem 30 anos, é auxiliar de pedreiro e solteiro. Ele é tabagista e também etilista diário, mas está motivado a mudar depois que conheceu Iraneide, há um mês. Edmilson abandonou um tratamento prévio de Tuberculose há 02 anos, após quatro meses de tratamento. Edmilson passou um ano e meio assintomático, mas há 06 meses as tosses voltaram e há 02 meses passou a ter episódios de febre. Você consulta Edmilson, solicita a baciloscopia de escarro, prescreve a RHZE para começar no dia seguinte, após a segunda coleta de escarro. Considerando o abandono prévio, você solicita um retorno quinzenal nos primeiros dois meses de tratamento. Durante seu acompanhamento com Edmilson, você nota que a baciloscopia antes de reiniciar a RHZE foi positiva (3+), que a baciloscopia com 15 dias após reinício de tratamento persistiu positiva (1+), mas que ele cou assintomático. A baciloscopia realizada após o primeiro mês de tratamento permaneceu positiva (1+). Em sua consulta, ao término do segundo mês de tratamento, você atende Edmilson, que está assintomático e com baciloscopia negativa. Assinale a alternativa correta em relação ao seguimento clínico.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Considerando a persistência de baciloscopia positiva até o término do primeiro mês de tratamento, estender a fase de ataque (RHZE) por um terceiro mês e solicitar baciloscopias quinzenais."
+    },
+    {
+     "letra": "B",
+     "texto": "Considerando que o paciente evoluiu assintomático e a baciloscopia está negativa, iniciar a fase de manutenção (RH) por quatro meses e solicitar baciloscopia de escarro em periodicidade mensal."
+    },
+    {
+     "letra": "C",
+     "texto": "Considerando que o paciente evoluiu assintomático e a baciloscopia está negativa, mas que o paciente tem histórico de abandono de tratamento prévio, estender a fase de ataque (RHZE) por um terceiro mês e solicitar baciloscopia mensal."
+    },
+    {
+     "letra": "D",
+     "texto": "Considerando que o paciente evoluiu assintomático e a baciloscopia está negativa, mas que o paciente tem histórico de abandono de tratamento prévio, estender a fase de manutenção (RH) por três meses adicionais, totalizando sete meses de fase RH."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163700",
+   "codigo": "4000163700",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 33,
+   "temas": [
+    "Vigilância epidemiológica"
+   ],
+   "enunciado": "Durante sua primeira semana de atendimento em sua Unidade de Saúde, você participa de uma reunião de equipe envolvendo todas as equipes e gestores. Dentre os pontos de fragilidade que são trazidos pela gestão, você percebe que não constam pacientes com Hanseníase nas microáreas das suas Agentes Comunitárias de Saúde. Posteriormente, em uma reunião somente com sua equipe (enfermeira e agentes comunitários de saúde), você decide reabordar a temática, trazendo algumas sugestões para a Investigação Epidemiológica para o diagnóstico precoce de casos. Assinale a alternativa que contempla um componente da Investigação Epidemiológica.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Busca ativa de todos os casos do território, incluindo antigos e novos casos."
+    },
+    {
+     "letra": "B",
+     "texto": "Vigilância de contatos somente de pacientes de classe operacional Multibacilar."
+    },
+    {
+     "letra": "C",
+     "texto": "Vigilância de contatos de pacientes independentemente de classe operacional: seja Paucibacilar ou Multibacilar."
+    },
+    {
+     "letra": "D",
+     "texto": "Realização de atendimento com exame dermatoneurológico para dermatoses e/ou neuropatias periféricas de todos os moradores da microárea."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163699",
+   "codigo": "4000163699",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 34,
+   "temas": [
+    "Determinação Social da SaúdeDeterminantes Sociais da Saúde DSS"
+   ],
+   "enunciado": "Considere o texto abaixo para responder à questão. “As mulheres são atingidas pela viole familiares, envolvendo agressões físicas, sexuais e também danos psíquicos. [...] [...] Estudos nacionais e internacionais apontam entre os usuais fatores associados à violência por parceiro íntimo o consumo de substâncias psicoativas. [...] Adicionalmente relevante se torna o consumo de medicamentos, realizado especialmente por mulheres, e sua relação com os episódios de violência entre parceiros íntimos, o que pode ser considerado um novo desa o para os pro ssionais de saúde, [...] devido ao risco de corroborar para uma medicalização excessiva. Na América Latina, [...] o uso de álcool pelo parceiro íntimo se insere entre as demais características apresentadas pelas mulheres agredidas, a saber: coabitação com o parceiro sem casamento formal; muitos lhos; não compartilhamento da tomada de decisão; disparidade no nível de instrução. Assim, o consumo de álcool, especi camente, está incluído entre os riscos para a violência doméstica, principalmente se o padrão de consumo for elevado. [...].” SILVA, Valéria Nanci. “Viole Atenção Primária à Saúde de São Paulo / Valéria Nanci Silva. – São Paulo, 2008. O texto faz referência a que fenômeno observado na saúde pública?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Carga de doença."
+    },
+    {
+     "letra": "B",
+     "texto": "Cascata de prescrição."
+    },
+    {
+     "letra": "C",
+     "texto": "Determinantes Sociais de Saúde."
+    },
+    {
+     "letra": "D",
+     "texto": "Barreiras geográficas da Atenção Primária."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163698",
+   "codigo": "4000163698",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 35,
+   "temas": [
+    "Diagnóstico do TOC",
+    "Transtorno ObsessivoCompulsivo TOC"
+   ],
+   "enunciado": "Durante seu atendimento na demanda espontânea em uma UBS, você atende Dona Marta, de 52 anos. Dona Marta vem com queixa de \"angústia\" e traz o seguinte relato: \"Doutor, desde agosto de 2019, quando minha lha terminou o namoro com um rapaz, eu não consigo superar o m do relacionamento dela, porque ela perdeu a virgindade com esse rapaz. Doutor, eu durmo e acordo pensando nisso, eu não consigo tirar esse problema da minha cabeça. Eu já perdi 7 quilos, desde o m desse relacionamento deles dois. Eu reconheço que isso é ridículo, que não faz sentido, que não me faz bem, mas eu não consigo nem mais ter relação com meu marido desde então. Eu não consigo tirar esses pensamentos da cabeça. Eu cheguei ao ponto de escrever cartas sobre como a vida dele e da minha lha poderia ser. Eu só consigo melhorar essa angústia se eu escrever. Eu já escrevi mais de 30 cartas.\" Considerando o relato de Dona Marta, assinale a alternativa com hipótese diagnóstica mais provável.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Fobia Social."
+    },
+    {
+     "letra": "B",
+     "texto": "Transtorno Esquizoafetivo."
+    },
+    {
+     "letra": "C",
+     "texto": "Transtorno Obsessivo Compulsivo."
+    },
+    {
+     "letra": "D",
+     "texto": "Transtorno de Ansiedade Generalizada."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163697",
+   "codigo": "4000163697",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 36,
+   "temas": [
+    "Política Nacional de Atenção Básica PNAB"
+   ],
+   "enunciado": "Os conceitos de Território e Territorialização estão intimamente relacionados às Diretrizes Organizacionais do SUS, tais como Hierarquização e Descentralização, sendo também uma das Diretrizes da Atenção Básica. Assinale a alternativa que traz um conceito de território e um exemplo prático.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Território-Distrito: Um paciente grave é atendido no setor de urgência de um hospital municipal de baixa complexidade e, após estabilização, é transferido para um hospital de referência de outro município."
+    },
+    {
+     "letra": "B",
+     "texto": "Território-Área: Durante uma reunião de uma equipe de saúde da família em uma UBS, uma agente comunitária traz a demanda de realizar uma atividade de educação em saúde com famílias acompanhadas por ela, pois há um surto de escabiose em uma determinada rua."
+    },
+    {
+     "letra": "C",
+     "texto": "Território-Microárea: Um médico programa uma visita domiciliar, para avaliar um caso de um paciente que abandonou o tratamento para Tuberculose Pulmonar por diversas vezes, para entender fatores que possam estar impactando na adesão ao tratamento."
+    },
+    {
+     "letra": "D",
+     "texto": "Território-Moradia: Durante a quadra chuvosa, médicos de uma UBS realizam atendimentos de demanda espontânea de pacientes de todas as equipes da estratégia saúde da família da unidade."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163696",
+   "codigo": "4000163696",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 37,
+   "temas": [
+    "Principais marcos legais do SUS",
+    "Política Nacional de Atenção Básica PNAB"
+   ],
+   "enunciado": "A Política Nacional de Atenção Básica (PNAB) foi formulada pela primeira vez em 2006, sendo considerada um marco histórico na Atenção Primária à Saúde no Brasil. Assinale a alternativa que contempla o principal objetivo da PNAB de 2006.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Consolidar e qualificar a Estratégia Saúde da Família (ESF) como modelo de atenção básica à saúde e centro ordenador das redes de atenção à saúde no SUS."
+    },
+    {
+     "letra": "B",
+     "texto": "Firmar compromisso entre os gestores do SUS, em torno de prioridades básicas que apresentam impacto sobre a situação de saúde da população brasileira."
+    },
+    {
+     "letra": "C",
+     "texto": "Garantir a universalidade do direito à atenção básica à saúde, oficializado na Constituição Federal de 1988, e com a criação do Sistema Único de Saúde (SUS)."
+    },
+    {
+     "letra": "D",
+     "texto": "Promover reformas institucionais, com pacto entre as três esferas (União, Estados e Municípios), para inovar processos e instrumentos de gestão da atenção básica à saúde e alcançar maior eficiência e qualidade no SUS."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163695",
+   "codigo": "4000163695",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 38,
+   "temas": [
+    "Lei n 81421990"
+   ],
+   "enunciado": "A Participação da Comunidade é uma das Diretrizes do SUS. A Lei N° 8142, de 28 de dezembro de 1990, dispôs sobre a participação da comunidade. Sobre Conselhos e Conferências de Saúde, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Os Conselhos e Conferências de Saúde terão sua organização e normas definidas pelo Poder Legislativo e autorizadas pelo Poder Executivo."
+    },
+    {
+     "letra": "B",
+     "texto": "Os Conselhos de Saúde têm poder consultivo e de vistas em relação à prestação de contas. Quaisquer vetos em relação a prestações de conta implicam a dissolução do Conselho e a formação de um novo, de modo que as contas possam ser aprovadas."
+    },
+    {
+     "letra": "C",
+     "texto": "Os Conselhos e Conferências de Saúde são formados por representantes de entidades e dos movimentos sociais dos usuários do SUS, de entidades de profissionais de saúde, do governo, de entidades de prestadores de serviços de saúde, do CONASS, do CONASEMS e de entidades empresariais com atividade na área da saúde. Todos esses membros em mesma proporção."
+    },
+    {
+     "letra": "D",
+     "texto": "Conferência de Saúde é instância colegiada que se reúne a cada quatro anos, com a representação dos vários segmentos sociais, para avaliar a situação de saúde e propor as diretrizes para a formulação da política de saúde nos níveis correspondentes."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163694",
+   "codigo": "4000163694",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 39,
+   "temas": [
+    "Atributos gerais da Atenção Primária à Saúde APS",
+    "Política Nacional de Atenção Básica PNAB"
+   ],
+   "enunciado": "Correlacione a Tabela A, com os Atributos Nucleares da Atenção Primária, e a Tabela B, com exemplos de situações vivenciadas pelo médico na Atenção Primária. Assinale a alternativa que traz a ordem correta, de cima para baixo.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "II; III; I; IV"
+    },
+    {
+     "letra": "B",
+     "texto": "II; III; IV; I"
+    },
+    {
+     "letra": "C",
+     "texto": "III; II; I; IV"
+    },
+    {
+     "letra": "D",
+     "texto": "III; II; IV; I"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q039-2.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000163693",
+   "codigo": "4000163693",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 40,
+   "temas": [
+    "Princípios e Diretrizes do SUS a serem operacionalizados pela Atenção Básica"
+   ],
+   "enunciado": "Princípios e Diretrizes do SUS na Lei n 80801990 Correlacione a Tabela A, com Princípios e Diretrizes do SUS, e a Tabela B, que traz situações típicas da atuação médica na Atenção Primária. Assinale a opção que traz a correlação correta, de cima para baixo.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I; IV; II; III"
+    },
+    {
+     "letra": "B",
+     "texto": "I; IV; III; II"
+    },
+    {
+     "letra": "C",
+     "texto": "II; I; III; IV"
+    },
+    {
+     "letra": "D",
+     "texto": "II; I; IV; III"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q040-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000163692",
+   "codigo": "4000163692",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 41,
+   "temas": [
+    "Pediatria",
+    "Quadro clínico"
+   ],
+   "enunciado": "Uma criança de 3 anos de idade chega ao ambulatório com relatos dos pais de que há cerca de três dias vem apresentado sintomas como como enurese, urgência urinária, polaciúria, disúria, incontinência urinária com urina fétida e turva. Qual o diagnóstico ao qual esses sintomas podem estar relacionados?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cistite aguda."
+    },
+    {
+     "letra": "B",
+     "texto": "Pielonefrite aguda."
+    },
+    {
+     "letra": "C",
+     "texto": "Presença de ureter ectópico."
+    },
+    {
+     "letra": "D",
+     "texto": "Balanopostites e vulvovaginites."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163691",
+   "codigo": "4000163691",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 42,
+   "temas": [
+    "Psiquiatria Inf antil",
+    "Transtorno de Oposição e Desaf io TOD"
+   ],
+   "enunciado": "Os pais de uma criança de seis anos de idade vêm ao ambulatório com queixas de que a criança está com posturas desa adoras; recusa em aceitar ordens ou solicitações de adultos, com os quais discute com frequência; e tendendo a responsabilizar os outros pelos seus atos. Esses sintomas ocorrem em casa e em outros espaços sociais. Diante desse relato, qual a principal hipótese diagnóstica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Transtorno de conduta."
+    },
+    {
+     "letra": "B",
+     "texto": "Transtorno explosivo intermitente."
+    },
+    {
+     "letra": "C",
+     "texto": "Transtorno de oposição desafiante."
+    },
+    {
+     "letra": "D",
+     "texto": "Transtorno da personalidade antissocial."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163690",
+   "codigo": "4000163690",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 43,
+   "temas": [
+    "Diagnóstico do Autismo",
+    "Transtorno do Espectro Autista TEA"
+   ],
+   "enunciado": "No ambulatório, uma criança de 30 meses de idade apresenta alterações compatíveis com Transtorno do Espectro Autista. Qual dos critérios abaixo certamente foram considerados como os mais importantes na definição da hipótese diagnóstica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Capacidade limitada para fazer amizade com seus pares assim como algum prejuízo na capacidade de iniciar ou manter uma conversação."
+    },
+    {
+     "letra": "B",
+     "texto": "Prejuízo limitado na espontaneidade de compartilhar prazer, interesses ou realizações com outras pessoas (p.ex., não mostrar, trazer ou apontar objetos de interesse)."
+    },
+    {
+     "letra": "C",
+     "texto": "Prejuízo acentuado no uso de múltiplos comportamentos não verbais, como contato visual direto, expressão facial, postura corporal e gestos para regular a interação social."
+    },
+    {
+     "letra": "D",
+     "texto": "Prejuízo limitado na atividade imaginativa, como representação de papéis de adultos, personagens de fantasia ou animais; falta de interesse em histórias sobre acontecimentos imaginários."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163689",
+   "codigo": "4000163689",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 44,
+   "temas": [
+    "Pediatria",
+    "Amamentação Aleitamento Materno"
+   ],
+   "enunciado": "Na Atenção Básica de Saúde você atende uma puérpera amamentando seu lho de 45 dias de vida. Ela informa suas dúvidas acerca do bem estar do lho por causa do ritmo de mamadas, do sono e do ganho de peso dele. Qual a alternativa correta em relação a tais aspectos?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Se a mãe estiver acima do peso é recomendável iniciar dieta para emagrecimento e aumentar a ingesta de líquidos."
+    },
+    {
+     "letra": "B",
+     "texto": "Se o bebê dorme bem, está ganhando peso (curva de crescimento revela percentil 15, a quantidade de leite deve estar sendo suficiente para ele."
+    },
+    {
+     "letra": "C",
+     "texto": "Essa puérpera deveria ter uma alimentação saudável, tomar líquidos em quantidade suficiente para saciar a sede e incluir alimentos hipercalóricos."
+    },
+    {
+     "letra": "D",
+     "texto": "Se após a mamada, a mãe percebe que o bebê está satisfeito, mas ela ainda tem muito leite, deveria continuar oferecendo a mama até sentir que elas esvaziaram."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163688",
+   "codigo": "4000163688",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 45,
+   "temas": [
+    "Síndrome de GuillainBarré",
+    "Neurologia"
+   ],
+   "enunciado": "Uma criança de sete anos de idade chega à sala de emergência com história de infecção intestinal há 2 semanas, e que após a melhora clínica passou a apresentar fraqueza muscular em ambos os membros inferiores acompanhados de dor e parestesia bem como de di culdades de deglutição e constipação intestinal. Os reflexos tendinosos estavam ausentes. Qual a hipótese diagnóstica mais provável?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Esclerose múltipla."
+    },
+    {
+     "letra": "B",
+     "texto": "Encefalite herpética."
+    },
+    {
+     "letra": "C",
+     "texto": "Polirradiculoneurite aguda."
+    },
+    {
+     "letra": "D",
+     "texto": "Encefalomielite disseminada aguda."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163687",
+   "codigo": "4000163687",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 46,
+   "temas": [
+    "Quadro clínico da leucemia linf oide aguda LLA",
+    "Hematologia"
+   ],
+   "enunciado": "Uma criança de cinco anos de idade chega ao ambulatório por apresentar dor óssea em membros inferiores, di cultando a deambulação e sem ceder facilmente aos analgésicos habituais. Também apresenta dor toracolombar e astenia. Ao exame físico, é identi cado febre e hepatomegalia, esplenomegalia e linfonodomegalias generalizadas. Qual a principal hipótese diagnóstica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Leucemia linfoide aguda."
+    },
+    {
+     "letra": "B",
+     "texto": "Leucemia mieloide aguda."
+    },
+    {
+     "letra": "C",
+     "texto": "Mononucleose infecciosa."
+    },
+    {
+     "letra": "D",
+     "texto": "Artrite reumatoide juvenil."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000163686",
+   "codigo": "4000163686",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 47,
+   "temas": [
+    "Alergia à proteína do leite de vaca"
+   ],
+   "enunciado": "Uma criança de três meses de idade, em aleitamento materno exclusivo, apresenta história de sangramento intestinal de pequena monta e diarreia com muco e sangue, estado geral satisfatório e ganho de peso adequado. De modo intermitente também apresenta cólica intestinal, irritabilidade e choro excessivo. Qual a principal hipótese diagnóstica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Gastroenteropatia eosinofílica."
+    },
+    {
+     "letra": "B",
+     "texto": "Proctite ou proctocolite alérgica."
+    },
+    {
+     "letra": "C",
+     "texto": "Enteropatia induzida por proteínas alimentares."
+    },
+    {
+     "letra": "D",
+     "texto": "Síndrome da enterocolite induzida por proteína alimentar (FPIES)."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163685",
+   "codigo": "4000163685",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 48,
+   "temas": [
+    "Hebiatria"
+   ],
+   "enunciado": "Na etapa inicial da anamnese do adolescente, com a presença dos pais ou responsáveis, devem ser abordados o motivo da consulta e informações sobre história pregressa e imunizações. A seguir, é importante pedir licença aos pais para conversar a sós com o jovem. Alguns instrumentos possibilitam a triagem de situações de risco nessa faixa etária. Quais as situações que devem ser rotineiramente pesquisadas atualmente, possíveis de avaliação através desses instrumentos padronizados de triagem?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Uso de substâncias psicoativas, orientação sexual e delinquência."
+    },
+    {
+     "letra": "B",
+     "texto": "Uso e abuso de meios eletrônicos, ações violentas e mau desempenho escolar."
+    },
+    {
+     "letra": "C",
+     "texto": "Envolvimento em ações violentas, preferências sexuais e mau desempenho escolar."
+    },
+    {
+     "letra": "D",
+     "texto": "Uso de substâncias psicoativas, uso e abuso de meios eletrônicos e internet e depressão."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163684",
+   "codigo": "4000163684",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 49,
+   "temas": [
+    "COVID 19",
+    "Pediatria"
+   ],
+   "enunciado": "A apresentação clínica do Covid-19 em criança guarda algumas peculiaridades que a diferenciam do quadro clínico dos adultos. Assinale abaixo a opção que apresenta uma situação comum nos quadros suspeitos de Covid-19 em crianças.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A febre sempre está presente e dura apenas 2 dias."
+    },
+    {
+     "letra": "B",
+     "texto": "Diarreia intensa acompanha praticamente todos os casos."
+    },
+    {
+     "letra": "C",
+     "texto": "A febre sempre está presente e ausência de sintomas gastrointestinais."
+    },
+    {
+     "letra": "D",
+     "texto": "A febre pode estar ausente e sintomas gastrointestinais podem estar presentes."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163683",
+   "codigo": "4000163683",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 50,
+   "temas": [
+    "Pediatria",
+    "Asma"
+   ],
+   "enunciado": "Uma menina de 6 anos é trazida à Unidade Básica de Saúde com tosse persistente e cansaço há 48 horas e febre há 24 horas. Os pais referem que é o terceiro episódio este ano. Fez uso de nebulizações com 2 gotas de salbutamol, xarope para tosse e amoxicilina, repetindo receita anterior. Pais com sintomas compatíveis com Rinite Alérgica. Qual o diagnóstico dessa paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Sinusite Aguda."
+    },
+    {
+     "letra": "B",
+     "texto": "Asma intermitente."
+    },
+    {
+     "letra": "C",
+     "texto": "Bronquite catarral aguda."
+    },
+    {
+     "letra": "D",
+     "texto": "Amigdalites de repetição."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163682",
+   "codigo": "4000163682",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 51,
+   "temas": [
+    "Inf ecções das Vias Aéreas Superiores"
+   ],
+   "enunciado": "Uma criança de três anos de idade vem ao ambulatório com relato materno de que nos últimos 12 meses teve seis infecções respiratórias, sendo que em vários destes episódios fez uso de antibióticos com resposta satisfatória. Ao examinar a criança, o médico constata boa evolução do desenvolvimento ponderoestatural e ausência de anormalidades ao exame físico. Qual a interpretação adequada para o problema que essa criança apresenta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Infecções respiratórias de repetição na infância, em sua maioria, estão associadas a falhas na resposta imunológica."
+    },
+    {
+     "letra": "B",
+     "texto": "São identificados como fatores de risco: ambiente de creche, número de irmãos, poluição ambiental e tabagismo passivo."
+    },
+    {
+     "letra": "C",
+     "texto": "Infecções respiratórias de repetição na infância refletem imaturidade imunológica e maior exposição a microrganismos infecciosos durante os primeiros anos de vida."
+    },
+    {
+     "letra": "D",
+     "texto": "Deve-se prosseguir investigação de doenças de base, seja de natureza aspirativa, doença cardíaca congênita, distúrbio neuromuscular, imunodeficiência ou malformação pulmonar."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163681",
+   "codigo": "4000163681",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 52,
+   "temas": [
+    "Manif estações clínicas",
+    "Epidemiologia"
+   ],
+   "enunciado": "Um rapaz de 16 anos que vive numa favela com precárias condições, sem instalações sanitárias, é atendido na Unidade Básica de Saúde. Seus pais relatam um episódio de crise convulsiva sem outros sintomas. Negam casos de epilepsia na família. Qual das opções abaixo apresenta o diagnóstico mais provável e compatível com esse caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Neurocisticercose."
+    },
+    {
+     "letra": "B",
+     "texto": "Abcesso cerebral."
+    },
+    {
+     "letra": "C",
+     "texto": "Encefalite aguda."
+    },
+    {
+     "letra": "D",
+     "texto": "Meningite bacteriana."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163680",
+   "codigo": "4000163680",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 53,
+   "temas": [
+    "Vacinas contra sarampo caxumba rubéola e varicela",
+    "Vigilância Epidemiológica"
+   ],
+   "enunciado": "Mãe trouxe para avaliação no posto de saúde um lactente com 6 meses de idade, que apresentava, há 3 dias, febre, tosse seca, prostrac abundante e hialina e os olhos hiperemiados. Na orofaringe apresentava-se hiperemiada com manchas branco-azuladas e pequenas. Mãe relata que um tio havia chegado de viagem e estava com sintomas semelhantes com suspeita de Sarampo. Como devemos proceder quanto ao bloqueio vacinal?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Caracterizando situação de surto, os contactantes gestantes e crianças abaixo dos 6 meses de idade também devem ser vacinados."
+    },
+    {
+     "letra": "B",
+     "texto": "A aplicação da vacina deve ser realizada no prazo máximo de 5 dias, nos contactantes, apenas no caso confirmado de sarampo."
+    },
+    {
+     "letra": "C",
+     "texto": "Contatos com idade a partir dos 3 meses até 11 meses e 29 dias devem receber uma dose da vacina tríplice viral válida para a rotina de vacinação."
+    },
+    {
+     "letra": "D",
+     "texto": "A vacinação de bloqueio deve ser realizada no prazo máximo de até 72 horas após o contato com o caso suspeito ou confirmado de sarampo."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163679",
+   "codigo": "4000163679",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 54,
+   "temas": [
+    "Alimentação Inf antil"
+   ],
+   "enunciado": "O Guia Alimentar para crianc uma Alimentac Qual recomendação é dada pelo Guia Alimentar para crianças brasileiras menores de 2 anos acerca da oferta da alimentação infantil?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Não deve ser oferecido açúcar nem preparações ou produtos que contenham açúcar à criança até 2 anos de idade."
+    },
+    {
+     "letra": "B",
+     "texto": "Podem ser oferecidos a"
+    },
+    {
+     "letra": "C",
+     "texto": "Produtos ultraprocessados que não contenham açúcar em suas preparações, podem ser oferecidos a partir de 1 ano de idade."
+    },
+    {
+     "letra": "D",
+     "texto": "Para uma alimentação variada, oferecer a"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163678",
+   "codigo": "4000163678",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 55,
+   "temas": [
+    "Calendário inf antil"
+   ],
+   "enunciado": "Criança de 1 ano e 4 meses vai iniciar atividades escolares e a creche solicitou à mãe que levasse o cartão de vacina, para verificação. Na avaliação, foi visto que tinha as seguintes vacinas administradas até aquela data: BCG e Hepatite B, 03 doses da poliomelite VIP, 02 doses da rotavírus, 03 doses da DTP+Hib+HB (Penta), 02 doses da Pneumocócica 10 valente, 02 doses da Meningocócica C (conjugada) e 01 dose da In uenza. De acordo com o calendário de vacinação do Sistema Único de Saúde (SUS), quais vacinas precisam ser administradas para que o cartão vacinal fique atualizado?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Febre Amarela 1ª dose; Pneumocócica conjugada reforço; Meningocócica C conjugada reforço; Tríplice Viral 1ª dose; DTP 1º reforço; Poliomielite 1º reforço (VOP); Hepatite A 1 dose; Tetra viral (Tríplice Viral 2ª dose + Varicela); Influenza 2ª dose."
+    },
+    {
+     "letra": "B",
+     "texto": "Febre Amarela 1ª dose; Pneumocócica conjugada 3ª dose e reforço; Meningocócica C conjugada 3ª dose e reforço; Tríplice Viral 1ª dose; Pentavalente 1º reforço; Poliomielite 2º reforço (VOP); Hepatite A 1 dose; Tetra viral (Tríplice Viral 2ª dose + Varicela); Influenza 2ª dose."
+    },
+    {
+     "letra": "C",
+     "texto": "Febre Amarela 1ª dose e 2ª dose; Pneumocócica conjugada 3ª dose; Meningocócica C conjugada 3ª dose; Tríplice Viral 1ª dose; Pentavalente 1º reforço; Poliomielite 1º reforço (VOP); Hepatite A 1 dose; Tetra viral (Tríplice Viral 2ª dose + Varicela); Influenza 3ª dose."
+    },
+    {
+     "letra": "D",
+     "texto": "Febre Amarela 1ª dose; Pneumocócica conjugada reforço; Meningocócica C conjugada reforço; Tríplice Viral 1ª dose e 2ª dose; DTP 1º reforço; Poliomielite 1º reforço (VOP); Hepatite A 1ª dose e 2ª dose; Tetra viral (Tríplice Viral 2ª dose + Varicela); Influenza 3ª dose."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163677",
+   "codigo": "4000163677",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 56,
+   "temas": [
+    "Tratamento",
+    "Dermatologia",
+    "Apresentação clínica"
+   ],
+   "enunciado": "Paciente lactente de 1 ano e dois meses foi levado ao ambulatório de Puericultura com quadro de lesões papulares eritematosas pruriginosas e vesi antebrac corporal há 3 semanas. Nega contato do paciente com animais. De acordo com o quadro clínico exposto, qual o diagnóstico e tratamento?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Pediculose / Ivermectina 200 mcg/kg em dose u"
+    },
+    {
+     "letra": "B",
+     "texto": "Escabiose / Permetrina em loc"
+    },
+    {
+     "letra": "C",
+     "texto": "Miíase / Aplicação de vaselina sólida e retirada com pinc"
+    },
+    {
+     "letra": "D",
+     "texto": "Larva migrans / Tiabendazol a 5%, 2x/dia, por 2 semanas."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163676",
+   "codigo": "4000163676",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 57,
+   "temas": [
+    "Comorbidades",
+    "Pediatria"
+   ],
+   "enunciado": "Criança de 8 anos de idade, masculino, com quadro clínico de obesidade com IMC acima de z-score +3, presença de acantose nigricans em região cervical, obesidade central com circunferência abdominal acima de P90 para idade e sexo, estrias claras em abdomen e membros inferiores, pressão sistólica acima de P90 para a idade, exames laboratoriais mostrando resistência à insulina e triglicerídeos acima de 110 mg/dL. Observando o quadro clínico descrito, qual a assertiva correta sobre os fatores associados à fisiopatologia da Síndrome Metabólica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipertensão arterial e dislipidemia correlacionam-se melhor com o próprio i"
+    },
+    {
+     "letra": "B",
+     "texto": "O aumento da circunfere"
+    },
+    {
+     "letra": "C",
+     "texto": "Os i"
+    },
+    {
+     "letra": "D",
+     "texto": "A resiste"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163675",
+   "codigo": "4000163675",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 58,
+   "temas": [
+    "DNPM Desenvolvimento NeuroPsicoMotor",
+    "Pediatria"
+   ],
+   "enunciado": "Um casal de adolescentes traz seu lho de 6 meses à Unidade de Saúde, preocupado se seu desenvolvimento está se dando de forma normal. O lactente nasceu a termo e está em aleitamento materno exclusivo. Ao examiná-lo, o médico orienta o casal em relação à aquisição de novas habilidades pelo bebê. Aos 6 meses, o que se espera que um lactente com desenvolvimento normal seja capaz de fazer?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Arrastar-se e dar \"tchau\"."
+    },
+    {
+     "letra": "B",
+     "texto": "Engatinhar e bater palmas."
+    },
+    {
+     "letra": "C",
+     "texto": "Ficar em pé com apoio e falar ao menos 1 palavra com sentido."
+    },
+    {
+     "letra": "D",
+     "texto": "Segurar um objeto com as duas mãos, levá-lo à boca e rolar no leito."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163674",
+   "codigo": "4000163674",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 59,
+   "temas": [
+    "Passos iniciais",
+    "Passos iniciais"
+   ],
+   "enunciado": "Diante de um recém-nascido conduzido à mesa de reanimação, deve-se iniciar os passos da estabilização na sequência adequada, com duração de no máximo 30 segundos. Qual das opções abaixo apresenta a sequência correta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Prover calor, fazer estímulo táctil, aspirar boca e narinas (se necessário) e enxugar."
+    },
+    {
+     "letra": "B",
+     "texto": "Fazer estimulação táctil, posicionar a cabeça em leve extensão, aspirar boca e narinas e secar."
+    },
+    {
+     "letra": "C",
+     "texto": "Prover calor, posicionar a cabeça em leve extensão, aspirar boca e narinas (se necessário) e secar."
+    },
+    {
+     "letra": "D",
+     "texto": "Enxugar e aquecer, posicionar a cabeça em extensão, aspirar boca e narinas (se necessário) e estimular."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163673",
+   "codigo": "4000163673",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 60,
+   "temas": [
+    "Sinais de alarme"
+   ],
+   "enunciado": "A fase crítica da infecção pelo vírus da Dengue pode se seguir à fase febril, em alguns pacientes, que podem evoluir para as formas graves. O aparecimento dos sinais de alarme deve ser rotineiramente pesquisados nos casos suspeitos. Dentre os principais sinais de alarme, destacam-se: dor abdominal intensa (referida ou à palpação) e contínua; vômitos persistentes; acúmulo de líquidos (ascite, derrame pleural, derrame pericárdico); hipotensão postural e/ou lipotimia; hepatomegalia > 2 cm abaixo do rebordo costal; sangramento de mucosa; letargia e/ou irritabilidade; aumento progressivo do hematócrito. O que traduzem esses sinais de alarme?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Esses sinais podem traduzir o aumento da pneumonia causada pelo vírus, edema agudo de pulmão e evolução para o agravamento clínico do paciente com derrame pleural."
+    },
+    {
+     "letra": "B",
+     "texto": "Esses sinais podem traduzir a instalação de insuficiência cardíaca e hipertensão arterial, permitindo a evolução para o agravamento clínico do paciente com o potencial de choque ou derrame pericárdico."
+    },
+    {
+     "letra": "C",
+     "texto": "Esses sinais podem traduzir o aumento da permeabilidade vascular acarretando hipertensão arterial, o agravamento clínico do paciente para o choque ou derrames cavitários pelo extravasamento plasmático."
+    },
+    {
+     "letra": "D",
+     "texto": "Esses sinais podem traduzir o aumento da permeabilidade vascular e evolução para o agravamento clínico do paciente, com o potencial de evoluir para o choque ou derrames cavitários pelo extravasamento plasmático."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163672",
+   "codigo": "4000163672",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 61,
+   "temas": [
+    "Complicações"
+   ],
+   "enunciado": "Mulher de 42 anos teve alta hospitalar há 5 semanas, após internamento por pancreatite aguda grave. Estava bem, clinicamente, quando voltou a apresentar dor abdominal, náuseas e vômitos, além de elevação das enzimas pancreáticas. Qual a complicação mais provável, nesse momento?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Pseudocisto pancreático."
+    },
+    {
+     "letra": "B",
+     "texto": "Coleções necróticas agudas."
+    },
+    {
+     "letra": "C",
+     "texto": "Trombose de veia esplênica."
+    },
+    {
+     "letra": "D",
+     "texto": "Abcessos peripancreáticos agudos."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163671",
+   "codigo": "4000163671",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 62,
+   "temas": [
+    "Tratamento e conduta"
+   ],
+   "enunciado": "Mulher, 52 anos, procura a Unidade Básica de Saúde, por apresentar lesão pigmentada assintomática em membro inferior, percebida há 8 meses (figura). A lesão possui 0.9 cm de diâmetro e está localizada na região lateral da coxa direita. Conferir figura correspondente com melhor resolução no anexo (FIGURA 3) Em relação ao próximo passo na abordagem da lesão em questão, marque a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Encaminhar para cirurgião para realizar excisão com margens de 1 cm."
+    },
+    {
+     "letra": "B",
+     "texto": "Acompanhar clinicamente a lesão com foto e visitas periódicas semestrais."
+    },
+    {
+     "letra": "C",
+     "texto": "Encaminhar para dermatologista para realizar dermatoscopia e biópsia excisional."
+    },
+    {
+     "letra": "D",
+     "texto": "Realizar biópsia incisional na própria unidade básica para elucidação diagnóstica."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q062-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000163670",
+   "codigo": "4000163670",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 63,
+   "temas": [
+    "Nef ropatia diabética x Nef ropatia não diabética"
+   ],
+   "enunciado": "Mulher, 24 anos, diagnóstico de diabetes mellitus tipo 1 aos 10 anos, em uso de insulina e losartana 50 mg/dia, e diagnóstico de lúpus eritematoso sistêmico aos 20 anos, em uso de hidroxicloroquina 400 mg/dia, prednisona 5 mg/dia, e vitamina D3 1000UI/dia, relata há 4 meses apresentar turvação visual, fadiga, dispneia aos médios esforços e ganho de peso. Ao exame: anasarca e PA 150 x 80 mmHg. Exames complementares: hemograma, PCR, TGO, TGP, TP: normais; VHS 28 mm/h (VR 20 mm na 1 hora); Cr 1.5 mg/dl (VR 1,2 mg/dl); Ur 60 mg/dl (VR 15-45 mg/dl); albumina 3.0 mg/dl (VR 3.5-4mg/dl); Hb Glicada 6.6%; Colesterol total 250mg/dl (VR < 200mg/dl), LDL 140mg/dl (VR< 100 mg/dl); Triglicerídeos 300 (VR< 150 mg/dl); SU: proteína 4+; proteinúria em 24h: 4g/24h; fator antinúcleo reagente 1:160 padrão pontilhado no denso. Sorologias HIV, anti- HBsAg, anti-HCV e VDRL: negativas. Que alteração na investigação complementar confirmaria o diagnóstico mais provável?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Dosagem sérica elevada de CH50, C3 e C4."
+    },
+    {
+     "letra": "B",
+     "texto": "Nódulos de Kimmelstiel-Wilson na biópsia renal."
+    },
+    {
+     "letra": "C",
+     "texto": "Depósitos imunes subendoteliais focais glomerulares na biópsia renal."
+    },
+    {
+     "letra": "D",
+     "texto": "Anticorpo anticitoplasma de neutrófilos reagente no padrão citoplasmático."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163669",
+   "codigo": "4000163669",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 64,
+   "temas": [
+    "Tratamento e prof ilaxia"
+   ],
+   "enunciado": "Homem de 22 anos queixa-se de febre baixa e tosse seca, há 2 semanas, e nos últimos dias tem tido expectoração mucoide discreta. Refere que ha 24 horas apresenta dispneia, mesmo em repouso. Ao exame: estado geral comprometido, anictérico, hipocorado 1+/4+, dispneico (frequência respiratória = 32 irpm). Presença de placas esbranquiçadas recobrindo palato e língua. Ausculta pulmonar: murmúrio vesicular universal sem ruídos adventícios. SatO2 em ar ambiente: 90%. Exames iniciais: Hb 10,0 g/dL Leucócitos 5.200/mm³ Plaquetas 165.000/mm3 Desidrogenase láctica 672 U/L (VR = 140-271 U/L) TGO 20 U/L TGP 32 U/L Rx de tórax: tênue infiltrado intersticial peri-hilar bilateral; Teste rápido para HIV: reagente. Qual a conduta terapêutica recomendada para a principal hipótese diagnóstica deste caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Anfotericina B."
+    },
+    {
+     "letra": "B",
+     "texto": "Anfotericina B + Prednisona."
+    },
+    {
+     "letra": "C",
+     "texto": "Sulfametoxazol-Trimetoprim."
+    },
+    {
+     "letra": "D",
+     "texto": "Sulfametoxazol-Trimetoprim + Prednisona."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163668",
+   "codigo": "4000163668",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 65,
+   "temas": [
+    "Enxaqueca",
+    "Tratamento Prof ilático",
+    "Neurologia"
+   ],
+   "enunciado": "Mulher de 30 anos procura atendimento no posto de saúde devido a episódios de cefaleia holocraniana em aperto, desde os 20 anos. Durante os episódios, a paciente deixa de fazer atividades cotidianas, assim como prefere car em seu quarto com janela fechada e sem barulho. Ao tentar fazer atividade física durante os episódios, relata piora dos sintomas com dor pulsátil em região temporal. Nega vômitos durante os episódios. Se não tomar analgésicos, a paciente refere que ca até dois dias com dor. Faz uso de paracetamol 1 grama durante os episódios e, em algumas ocasiões, faz uso deste medicamento mais de duas vezes ao dia . Nos últimos meses, apresenta em média 8 crises ao mês. É portadora de Asma e tem exame físico e neurológico normais. Qual das medicações a seguir deve ser utilizada na paciente acima para diminuir a ocorrência de crises de cefaleia?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Topiramato."
+    },
+    {
+     "letra": "B",
+     "texto": "Naratriptano."
+    },
+    {
+     "letra": "C",
+     "texto": "Propranolol."
+    },
+    {
+     "letra": "D",
+     "texto": "Dipiriona."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000163667",
+   "codigo": "4000163667",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 66,
+   "temas": [
+    "Fibrilação Atrial"
+   ],
+   "enunciado": "Mulher, 56 anos, hipertensa e diabética chegou na emergência referindo palpitação e taquicardia há 3 dias. Refere episódios semelhantes, esporadicamente, que costumam melhorar espontaneamente, porém o episódio atual não melhorou, procurando então a emergência. Chegou com pressão arterial = 120 x 80 mmHg, frequência cardíaca = 140 batimentos por minuto e o eletrocardiograma está abaixo. Conferir figura correspondente com melhor resolução no anexo (FIGURA 2) Qual é a melhor conduta para essa paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cloridrato de amiodarona endovenoso e ablação posterior."
+    },
+    {
+     "letra": "B",
+     "texto": "Cloridrato de amiodarona endovenoso e anticoagulação."
+    },
+    {
+     "letra": "C",
+     "texto": "Tartarato de metoprolol endovenoso e anticoagulação."
+    },
+    {
+     "letra": "D",
+     "texto": "Cardioversão elétrica com 100 J e anticoagulação."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q066-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000163666",
+   "codigo": "4000163666",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 67,
+   "temas": [
+    "Neuroanatomia Vascular",
+    "Neurologia",
+    "Investigação Etiológica e Prof ilaxia Secundária"
+   ],
+   "enunciado": "Homem, 70 anos, procura atendimento médico em Unidade Básica de Saúde devido a episódio de fraqueza em hemicorpo à direita e di culdade na fala, durante 1 hora, que aconteceram há duas semanas. Paciente procurou, naquela ocasião, emergência médica onde fez tomogra a de crânio e doppler de carótidas e vertebrais com laudos normais, exames de sangue que não mostraram alterações, e eletrocardiograma que mostrou brilação atrial. Paciente optou por não permanecer internado, saiu do hospital sem nenhuma prescrição médica e veio à consulta hoje, devido ao \"medo de sentir novamente os sintomas\" e querendo saber qual o melhor tratamento que deve fazer para evitar essa recorrência. Tem antecedente de febre reumática com necessidade de troca valvar (válvula metálica) há 5 anos, mas vinha em uso irregular de suas medicações. No momento está sem utilizar nenhuma. Pulso: 80bpm, PA:120x80mmHg. Exame neurológico sem alterações. Qual medicação está indicada para a profilaxia secundária, nesse paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ácido acetil salicílico."
+    },
+    {
+     "letra": "B",
+     "texto": "Clopidogrel."
+    },
+    {
+     "letra": "C",
+     "texto": "Apixabana."
+    },
+    {
+     "letra": "D",
+     "texto": "Varfarina."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163665",
+   "codigo": "4000163665",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 68,
+   "temas": [
+    "Avaliação dos pacientes com monoartrite"
+   ],
+   "enunciado": "Homem, 33 anos, obeso, etilista, hipertenso em uso de hidroclorotiazida, com história de alta hospitalar, há 24 horas, após colecistectomia, procura UPA com relato de dor intensa e alodínia em hálux esquerdo há 3 horas. Ao exame: Estado Geral Regular, fácies de dor, T:37,9º; abdome ácido e ferida operatória sem sinais ogísticos; sistema osteo-articular: edema, rubor e dor à movimentação de hálux (vide imagem). Conferir figura correspondente com melhor resolução no anexo (FIGURA 1) Que conduta está indicada neste momento?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Coleta de duas amostras de hemoculturas."
+    },
+    {
+     "letra": "B",
+     "texto": "Punção de metatarsofalangeana."
+    },
+    {
+     "letra": "C",
+     "texto": "Dosagem de ácido úrico sérico."
+    },
+    {
+     "letra": "D",
+     "texto": "Iniciar cefalexina."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q068-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000163664",
+   "codigo": "4000163664",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 69,
+   "temas": [
+    "Hemorragia Digestiva Alta Varicosa HDA Varicosa"
+   ],
+   "enunciado": "Paciente masculino, 45 anos, dá entrada na emergência com hematêmese volumosa, inédita, associada à lipotimia. O mesmo encontra-se em acompanhamento por cirrose de etiologia alcoólica e coronariopatia mas não vem em uso de medicações. A equipe de plantão iniciou ressuscitação volêmica e foi realizada endoscopia que mostrou varizes de médio calibre sangrantes. Qual das opções abaixo descreve a medida mais adequada a ser realizada nesse momento?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Realizar escleroterapia e prescrever carvedilol."
+    },
+    {
+     "letra": "B",
+     "texto": "Realizar ligadura de varizes e associar octreotide."
+    },
+    {
+     "letra": "C",
+     "texto": "Iniciar beta bloqueador e administrar somatostatina."
+    },
+    {
+     "letra": "D",
+     "texto": "Administrar plasma fresco congelado e terlipressina."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163663",
+   "codigo": "4000163663",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 70,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Mulher, 70 anos, é trazida por familiares à emergência com história de cinco dias de tosse seca e três dias de queda do apetite e apatia intensa. Tem história de insu ciência cardíaca congestiva. Apresenta-se alerta, sem taquidispneia e SpO2: 96% em ar ambiente. Normotensa e afebril. Ausculta cardíaca com ritmo regular em 2 tempos e Fc: 90 bpm. Ausculta respiratória com crepitações bibasais mais intensas, à direita. O hemograma não mostra anemia, nem plaquetopenia e leucograma com 12.000/mm³sem desvios. Proteína C reativa 6,0 (normal até 0,5), Glicemia 110 mg/dl, Ureia de 40 mg/dl , Creatinina 0,8 mg/dl, Sódio 133 mEq/L, Potássio 3,9 mEq/L Swab nasal com painel viral negativo (SARS-Cov 2, In uenza, VSR e Rinovírus). A radiografia de tórax em PA é mostrada na figura abaixo. Neste contexto, e considerando o diagnóstico mais provável, a abordagem de escolha para essa paciente seria:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cefepime + Azitromicina."
+    },
+    {
+     "letra": "B",
+     "texto": "Ceftriaxona + Claritromicina."
+    },
+    {
+     "letra": "C",
+     "texto": "Moxifloxacina + Azitromicina."
+    },
+    {
+     "letra": "D",
+     "texto": "Amoxicilina/Clavulanato + Claritromicina."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q070-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000163662",
+   "codigo": "4000163662",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 71,
+   "temas": [
+    "Demência com Corpos de Lewy",
+    "Demência com Corpos de Lewy",
+    "Neurologia"
+   ],
+   "enunciado": "ACR, 82 anos, advogado aposentado, há 6 meses passou a apresentar esquecimento para fatos recentes, tendo passado a esquecer de pagar as contas da casa e teve sua energia cortada pela companhia elétrica. Relata que no m da tarde é comum ver uma criança desconhecida brincando na varanda de sua casa. Relata também sono agitado com muitos pesadelos frequentes. A esposa informa que há dias em que ele está muito apático, cando isolado, sem se comunicar. O exame físico é normal exceto pela presença de rigidez em roda denteada em punho direito. Mini-exame do estado mental (MEEM) foi 25/30. Durante o MEEM respondeu que estava no consultório de seu dentista, lembrou duas das três palavras solicitadas na evocação e errou três cálculos. Os exames laboratoriais são normais, exceto por anemia leve observada no hemograma (Hb = 11g/dl; Ht 38%; VCM 100 ; HCM 31 pg). A dosagem de vitamina B12 foi 259 pg/ml (VR: 239 a 931 pg/ml). A Ressonância magnética de crânio mostrou atrofia global leve e escala de atrofia mesial temporal (MTA) de 1. Qual a principal hipótese diagnóstica para o caso clínico?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Doença de Alzheimer."
+    },
+    {
+     "letra": "B",
+     "texto": "Doença de Parkinson."
+    },
+    {
+     "letra": "C",
+     "texto": "Demência por corpúsculos de Lewy."
+    },
+    {
+     "letra": "D",
+     "texto": "Demência por deficiência de vitamina B12."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163661",
+   "codigo": "4000163661",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 72,
+   "temas": [
+    "Paciente adulto",
+    "Paciente adulto"
+   ],
+   "enunciado": "Homem de 18 anos é admitido na emergência com quadro de redução do nível de consciência, náuseas, vômitos e dor abdominal difusa. Apresenta glicemia capilar de 300mg/dL e gasometria com acidose metabólica. Com o objetivo de confirmar o diagnóstico da emergência clínica em questão, qual exame deveria ser solicitado?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hemoglobina glicada."
+    },
+    {
+     "letra": "B",
+     "texto": "Sumário de urina."
+    },
+    {
+     "letra": "C",
+     "texto": "Lactato sérico."
+    },
+    {
+     "letra": "D",
+     "texto": "Hemograma."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163660",
+   "codigo": "4000163660",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 73,
+   "temas": [
+    "Tratamento",
+    "Sinais de alarme"
+   ],
+   "enunciado": "Mulher de 50 anos, moradora de Fortaleza, sem comorbidades, procura pronto-socorro referindo quadro iniciado há 5 dias de febre alta, cefaleia, mialgia e dor retrorbitária. Embora a febre tenha desaparecido após o terceiro dia de doença, desde esta manhã relata exantema difuso e pruriginoso e dor abdominal mal definida, que não cede com analgésicos comuns. Ao exame: Estado geral regular; Peso: 75 Kg. Pele: exantema máculo-papular difuso com “ilhas\" de pele normal; Pressão arterial: deitada = 130 x 80 mmHg, sentada = 118 x 76 mmHg; Prova do laço: positiva; Abdome: semigloboso, ácido, moderadamente doloroso à palpação profunda em epigastro, mesogastro e hipocôndrio direito. Ruídos hidroaéreos presentes. Extremidades: boa perfusão periférica, sem edemas. Considerando a principal hipótese diagnóstica para o caso, que conduta terapêutica imediata deve ser tomada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Soro fisiológico a 0,9% 750 ml, endovenoso, em 1 hora."
+    },
+    {
+     "letra": "B",
+     "texto": "Soro fisiológico a 0,9% 1500 ml, endovenoso, em 20 minutos."
+    },
+    {
+     "letra": "C",
+     "texto": "Soro de reidratação oral 1500 ml + Líquidos diversos 3000 ml, por via oral, em 24 horas."
+    },
+    {
+     "letra": "D",
+     "texto": "Soro glicosado a 5% 3000 ml + Soro fisiológico a 0,9% 1500 ml, endovenoso, em 24 horas."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163659",
+   "codigo": "4000163659",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 74,
+   "temas": [
+    "Medicamentos utilizados",
+    "Pneumologia",
+    "Etapas do tratamento steps"
+   ],
+   "enunciado": "Paciente feminina, 25 anos, em acompanhamento por asma, desde a adolescência, no momento em uso de Budesonida inalatória 400 mcg duas vezes ao dia. Vem apresentando tosse e sibilância que cessam com o uso de salbutamol inalatório, pelo menos três vezes por semana, nos últimos quatro meses. Refere que neste período acordou 2 vezes à noite com crise de asma. Negou fatores precipitantes ou exposições ambientais relevantes ou novas. Neste contexto, a estratégia terapêutica preferencial seria:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Associar Montelucarste oral uma vez ao dia."
+    },
+    {
+     "letra": "B",
+     "texto": "Acrescentar Tiotrópio inalatório uma vez ao dia."
+    },
+    {
+     "letra": "C",
+     "texto": "Adicionar Formoterol inalatório duas vezes ao dia."
+    },
+    {
+     "letra": "D",
+     "texto": "Aumentar Budesonida inalatória para três vezes ao dia."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163658",
+   "codigo": "4000163658",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 75,
+   "temas": [
+    "Hematologia",
+    "Anemia perniciosa"
+   ],
+   "enunciado": "Paciente, 26 anos, procura Unidade Básica de Saúde com queixa de adinamia leve, gengivorragia durante escovação e parestesias em mãos e pés. Refere que os sintomas iniciaram há cerca de 6 semanas. Refere que há 2 anos faz reposição de levotiroxina pois \"tireoide deixou de funcionar\"(sic). Ao exame físico, apresentava palidez cutâneo-mucosa 2+/4+, língua despapilada, ausência de adenomegalias ou visceromegalias. Foi solicitado hemograma que evidenciou hemoglobina 7,8g/dL hematócrito 22% VCM 118 leucócitos 4800 (neutró los 1580) plaquetas 42000/mm³ reticulócitos 38000. Considerando a principal hipótese diagnóstica, que outros exames laboratoriais devem ser solicitados a m de confirmar o diagnóstico e qual alteração esperada nesses exames?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Desidrogenase láctica elevada, homocisteína diminuída e bilirrubina indireta elevada."
+    },
+    {
+     "letra": "B",
+     "texto": "Teste de antiglobulina direta positivo, bilirrubina direta elevada e homocisteína diminuída."
+    },
+    {
+     "letra": "C",
+     "texto": "Ácido metilmalônico elevado, bilirrubina indireta elevada e desidrogenase láctica elevada."
+    },
+    {
+     "letra": "D",
+     "texto": "Índice de saturação de transferrina diminuído, ferritina diminuída e desidrogenase láctica normal."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163657",
+   "codigo": "4000163657",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 76,
+   "temas": [
+    "Nef rologia",
+    "Tratamento da hiponatremia sintomática aguda"
+   ],
+   "enunciado": "Homem de 36 anos, portador de epilepsia, em uso de carbamazepina, chega ao departamento de emergência com episódio convulsivo, após mais de cinco anos sem crises dessa natureza. Está euvolêmico, ao exame físico. Seus exames evidenciam dosagem de sódio de 110mEq/L. Peso 60Kg. Qual a conduta imediata?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Restrição hídrica de 1000ml/dia."
+    },
+    {
+     "letra": "B",
+     "texto": "Reposição de 180ml de cloreto de sódio 3% em 3 horas."
+    },
+    {
+     "letra": "C",
+     "texto": "Expansão volêmica com 1000ml de soro fisiológico 0,9%."
+    },
+    {
+     "letra": "D",
+     "texto": "Infusão de 500ml de cloreto de sódio 20% em 30 minutos."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163656",
+   "codigo": "4000163656",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 77,
+   "temas": [
+    "Manejo inicial e pacotes",
+    "Tratamento"
+   ],
+   "enunciado": "Homem de 35 anos apresenta quadro de tosse produtiva com expectoração amarelada, há 2 dias, associada a febre. Ao exame físico, apresenta crepitações em base direita, estado confusional, pressão arterial 80x50mmHg e frequência respiratória de 26irpm. Radiogra a de tórax evidencia in ltrado alveolar em base direita. Qual o tratamento inicial mais adequado para esse caso clínico?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Expansão volêmica e antibioticoterapia."
+    },
+    {
+     "letra": "B",
+     "texto": "Hidrocortisona e expansão volêmica."
+    },
+    {
+     "letra": "C",
+     "texto": "Noradrenalina e antibioticoterapia."
+    },
+    {
+     "letra": "D",
+     "texto": "Noradrenalina e hidrocortisona."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163655",
+   "codigo": "4000163655",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 78,
+   "temas": [
+    "Edema Agudo Pulmonar",
+    "Cardiologia"
+   ],
+   "enunciado": "Homem de 70 anos, hipertenso de longa data, é admitido na emergência com dispneia aguda. Ao exame físico, apresenta pressão arterial de 220x120mmHg e crepitações pulmonares bilaterais em dois terços inferiores. Considerando o diagnóstico mais provável, quais medicamentos dentre os listados abaixo, devem ser prescritos, prioritariamente.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Morfina e Dobutamina."
+    },
+    {
+     "letra": "B",
+     "texto": "Morfina e Nitroglicerina."
+    },
+    {
+     "letra": "C",
+     "texto": "Furosemida e Dobutamina."
+    },
+    {
+     "letra": "D",
+     "texto": "Furosemida e Nitroglicerina."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163654",
+   "codigo": "4000163654",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 79,
+   "temas": [
+    "Suicídio",
+    "Psicof armacologia",
+    "Mitos e verdades sobre o suicídio"
+   ],
+   "enunciado": "Homem de 70 anos, viúvo, aposentado e alcoolista diário, vai à consulta médica para acompanhar Hipertensão Arterial Sistêmica e Diabetes anteriormente conhecidas e controladas. Durante a consulta, ca evidente humor deprimido constante, fala em volume baixo e pouco espontâneo. Relata perda do interesse na convivência com os netos e nos jogos de futebol que costuma acompanhar, insônia intermediária, perda de peso involuntária por redução do apetite, e ideias de que é um fardo para a família. Tem ideia de morte, achando que pode ser um alívio, inclusive com pensamentos sobre suicídio, mas sem planejamento no momento. Qual a opção correta em relação ao manejo do paciente no contexto descrito acima?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O uso de antidepressivo tricíclico deve ser evitado pelo risco de morte em caso de ingestão em grande quantidade."
+    },
+    {
+     "letra": "B",
+     "texto": "O médico deve evitar o uso de Inibidor de Recaptação de Serotonina, pela possibilidade do aumento de risco de suicídio."
+    },
+    {
+     "letra": "C",
+     "texto": "Como perguntar sobre ideias de suicídio pode induzir ou aumentar o risco de tentativa, tal questionamento deve ser evitado."
+    },
+    {
+     "letra": "D",
+     "texto": "O grau de preocupação é baixo e a intervenção médica deve ser pouco invasiva, pois o paciente está fora da faixa etária de maior incidência de suicídio."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163653",
+   "codigo": "4000163653",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 80,
+   "temas": [
+    "Tratamento f armacológico da insuf iciência cardíaca com f ração de ejeção preservada"
+   ],
+   "enunciado": "Homem, 70 anos, vem em consulta ambulatorial queixando-se de dispneia progressiva nos últimos 2 meses e, agora, em repouso. Relata também edema de membros inferiores e acorda com falta de ar durante a noite. É hipertenso e obeso. Fez um ECG, que revelou sinais de sobrecarga ventricular esquerda e um ecocardiograma, com FEVE = 65%, disfunção diastólica, pressão sistólica na artéria pulmonar de 40mmHg e sinais de aumento de pressões no enchimento do VE (E/e’ > 9). Está em uso de Losartana 50mg 2 vezes ao dia e Hidroclorotiazida 25mg cedo. Ao exame físico: PA = 150 x 90mmHg, FC = 80bpm, crepitações pulmonares em terço inferior bilateralmente, ausência de sopros cardíacos, edema de membros inferiores de 2+/4+. LEGENDA: VE = Ventrículo Esquerdo; FEVE = Fração de Ejeção do VE. Qual é sua conduta inicial?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Associar betabloqueador e diurético de alça e manter o restante dos medicamentos."
+    },
+    {
+     "letra": "B",
+     "texto": "Orientar perda de peso, associar hidralazina via oral e encaminhar ao pneumologista."
+    },
+    {
+     "letra": "C",
+     "texto": "Introduzir antagonista da aldosterona e diurético de alça e manter os outros remédios."
+    },
+    {
+     "letra": "D",
+     "texto": "Trocar tiazídico por diurético de alça e associar bloqueador de canal de cálcio à receita."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163652",
+   "codigo": "4000163652",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 81,
+   "temas": [
+    "Oclusão Arterial Crônica OAC",
+    "Cirurgia"
+   ],
+   "enunciado": "Homem de 64 anos, fumante, obeso (grau I), DM de longa data e hipertenso, queixas de dor e fadiga nos membros inferiores ao deambular, principalmente à esquerda. Atualmente, refere piora com bastante limitação de caminhada e dor até em repouso no pé e panturrilha esquerda alternando com dormência da região. Qual deve ser o próximo passo para esse paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Prescrever terapia farmacológica com Pentoxifilina."
+    },
+    {
+     "letra": "B",
+     "texto": "Realizar a amputação da perna esquerda acima do joelho."
+    },
+    {
+     "letra": "C",
+     "texto": "Realizar procedimento endovascular para colocação de Stent."
+    },
+    {
+     "letra": "D",
+     "texto": "Realizar angioressonância ou angiotomografia de membros inferiores."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163651",
+   "codigo": "4000163651",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 82,
+   "temas": [
+    "Disf agia Esof ágica Disf agia de Condução",
+    "Exames Endoscópicos"
+   ],
+   "enunciado": "Na investigação de um paciente com queixa de disfagia, qual exame serve para orientar condutas clínicas e cirúrgicas, demonstrando pontos de estenose, estase, aspecto da mucosa e coleta de fragmentos. Qual dos exames atende a essa necessidade?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Manometria de alta resolução."
+    },
+    {
+     "letra": "B",
+     "texto": "Endoscopia digestiva alta."
+    },
+    {
+     "letra": "C",
+     "texto": "Cintilografia esofágica."
+    },
+    {
+     "letra": "D",
+     "texto": "Esofagograma digital."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163650",
+   "codigo": "4000163650",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 83,
+   "temas": [
+    "Neoplasias do Pâncreas",
+    "Cirurgia"
+   ],
+   "enunciado": "Uma paciente de 47 anos é investigada por “desmaios”. Ela refere pouca tolerância ao jejum e sente necessidade de alimentar-se com frequência de alimentos doces. Na avaliação, foi detectada somente insulina alta e um nódulo no pâncreas de 1cm, vista a tomogra a. Demais exames sem alterações. Durante laparotomia, identi ca-se um nódulo avermelhado na superfície pancreática de 1cm à esquerda dos vasos mesentéricos sem relação com o ducto pancreático principal. Qual deve ser a estratégia cirúrgica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Enucleação do nódulo."
+    },
+    {
+     "letra": "B",
+     "texto": "Pancreatectomia central."
+    },
+    {
+     "letra": "C",
+     "texto": "Duodenopancreatectomia."
+    },
+    {
+     "letra": "D",
+     "texto": "Pancreatectomia corpo-caudal."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000163649",
+   "codigo": "4000163649",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 84,
+   "temas": [
+    "Cirurgia de Cabeça e Pescoço"
+   ],
+   "enunciado": "Uma paciente de 35 anos está na sala de recuperação após uma tiroidectomia total. A saturação está caindo abaixo de 80%, e a paciente apresenta voz rouca e estridulosa. Qual a conduta apropriada para reverter essa situação?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Aplicação de máscara laríngea."
+    },
+    {
+     "letra": "B",
+     "texto": "Sedação e entubação orotraqueal."
+    },
+    {
+     "letra": "C",
+     "texto": "Abertura da pele e planos musculares."
+    },
+    {
+     "letra": "D",
+     "texto": "Confecção de traqueostomia de urgência."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163648",
+   "codigo": "4000163648",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 85,
+   "temas": [
+    "Hemorragia Digestiva Alta Varicosa HDA Varicosa"
+   ],
+   "enunciado": "Um paciente cirrótico de 56 anos é admitido na emergência com hematêmese importante. Os exames detectaram uma queda de hemoglobina de 14g/dl (referência de exame realizado 1 mês atrás) para 6g/dl. Inicialmente, foi realizada a reposição volêmica e medicado com inibidor de bomba de prótons, vasopressina e vitamina K. Aparentemente, apresenta uma remissão do sangramento e uma endoscopia foi solicitada. Qual das seguintes fontes de sangramento apresenta maior risco de recorrência da hemorragia para esse paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Laceração de Mallory-Weiss."
+    },
+    {
+     "letra": "B",
+     "texto": "Varizes gastroesofágicas."
+    },
+    {
+     "letra": "C",
+     "texto": "Gastropatia hipertensiva."
+    },
+    {
+     "letra": "D",
+     "texto": "Úlcera Forrest IIb."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163647",
+   "codigo": "4000163647",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 86,
+   "temas": [
+    "Hérnia de Spiegel",
+    "Cirurgia"
+   ],
+   "enunciado": "Uma paciente de 54 anos queixa-se de dor e assimetria abdominal do lado direito, logo abaixo da linha da cintura e lateral ao músculo reto abdominal. Ao exame, percebe-se a dor à palpação dessa região e leve abaulamento. Uma tomogra a revela protrusão e conteúdo abdominal entre as camadas musculares da parede abdominal lateral, com aponeurose do músculo oblíquo externo íntegra. A paciente refere cirurgia cesariana prévia há 25 anos. Nega outras cirurgias. Qual a causa da dor dessa paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hérnia incisional."
+    },
+    {
+     "letra": "B",
+     "texto": "Tumor desmoide."
+    },
+    {
+     "letra": "C",
+     "texto": "Hérnia de Spiegel."
+    },
+    {
+     "letra": "D",
+     "texto": "Implante endometrial."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163646",
+   "codigo": "4000163646",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 87,
+   "temas": [
+    "Pneumotórax Hipertensivo",
+    "Cirurgia"
+   ],
+   "enunciado": "Um homem de 64 anos sofre queda do telhado enquanto realizava um conserto elétrico na sua casa. Uma ambulância foi acionada e o paciente levado para um centro de trauma. O paciente referia dor torácica à direita, na projeção de escoriações da pele. Ao exame, estava com estado geral comprometido, cianótico, fácies de dor, dispneico, sudoreico, hipotenso, com sensação de crepitação subcutânea torácica e ruídos abolidos em hemotórax direito. O que o emergentista deve fazer, nesse momento?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Solicitar o desfibrilador e avaliar arritmia cardíaca."
+    },
+    {
+     "letra": "B",
+     "texto": "Solicitar tomografia de tórax, para mensurar contusão pulmonar."
+    },
+    {
+     "letra": "C",
+     "texto": "Infundir cristaloides e sangue total e oferecer oxigênio em máscara."
+    },
+    {
+     "letra": "D",
+     "texto": "Descomprimir o tórax com agulha, seguida de drenagem em selo d’água."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163645",
+   "codigo": "4000163645",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 88,
+   "temas": [
+    "Manejo inicial e pacotes",
+    "Pielonef rite"
+   ],
+   "enunciado": "Paciente de 27 anos vem evoluindo há 3 dias com disúria e hematúria. Há cerca de 24h, houve piora do quadro com febre elevada, e calafrios. Deu entrada na emergência com os seguintes parâmetros: PA 80x50mmHg, FC: 120bpm. Qual a melhor conduta, nesse caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Solicitar exames de sangue, sumário de urina e urinocultura para orientar terapêutica."
+    },
+    {
+     "letra": "B",
+     "texto": "Prescrever antibiótico empírico (quinolonas) por 7 dias e acompanhamento ambulatorial."
+    },
+    {
+     "letra": "C",
+     "texto": "Indicar internamento hospitalar, antibiótico venoso, seguido de tomografia ou ultrassonografia."
+    },
+    {
+     "letra": "D",
+     "texto": "Administrar antitérmicos e hidratação, se obtiver boa resposta, iniciar antibiótico e programar retorno."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163644",
+   "codigo": "4000163644",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 89,
+   "temas": [
+    "Princípios da Anestesiologia",
+    "Cirurgia"
+   ],
+   "enunciado": "Qual das seguintes características abaixo sugere uma via aérea difícil de ventilar/entubar?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Abertura da boca de 6 cm."
+    },
+    {
+     "letra": "B",
+     "texto": "Cirurgia de artrodese cervical."
+    },
+    {
+     "letra": "C",
+     "texto": "Distância tireomentoniana aumentada."
+    },
+    {
+     "letra": "D",
+     "texto": "Visualização da úvula, no teste de Mallampati."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163643",
+   "codigo": "4000163643",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 90,
+   "temas": [
+    "Tratamento",
+    "Cirurgia"
+   ],
+   "enunciado": "Um paciente de 85 anos apresenta dor abdominal aguda há 48h. A dor é difusa porém mais intensa em fossa ilíaca direita (FID). HPP: DM e HAS compensadas com medicações. A tomogra a sem contraste sugere apêndice espessado, liquido em FID e pelve compatível com apendicite. Qual deve ser a conduta para esse paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Apendicectomia videolaparoscópica."
+    },
+    {
+     "letra": "B",
+     "texto": "Apendicectomia aberta infra-umbilical."
+    },
+    {
+     "letra": "C",
+     "texto": "Drenagem percutânea e apendicectomia em 4 semanas."
+    },
+    {
+     "letra": "D",
+     "texto": "Colonoscopia, para avaliar neoplasia de base apendicular."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163642",
+   "codigo": "4000163642",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 91,
+   "temas": [
+    "Complicações Gastrointestinais",
+    "Cirurgia"
+   ],
+   "enunciado": "Um homem submetido a duodenopancreatectomia por neoplasia de pâncreas encontra-se no 6º pós-operatório e está com dieta oral líquida 50 ml a cada 3h, associada à nutrição enteral 1500ml/d. O paciente refere dor abdominal. Ao examinar o paciente, o médico percebe dor abdominal difusa e eliminação de secreção esverdeada em ferida operatória. Diante do quadro, qual deve ser a conduta médica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Solicitar tomografia para avaliar a necessidade de drenagem de coleções."
+    },
+    {
+     "letra": "B",
+     "texto": "Abrir protocolo sepse e indicar laparotomia exploradora de urgência."
+    },
+    {
+     "letra": "C",
+     "texto": "Alimentar o paciente por sonda nasoenteral com dieta oligomérica."
+    },
+    {
+     "letra": "D",
+     "texto": "Suspender a dieta, iniciar NPT e antibióticos e reavaliar após 24h."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163641",
+   "codigo": "4000163641",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 92,
+   "temas": [
+    "Inf ecção de Ferida Operatória Inf ecção de Sítio Cirúrgico ISC",
+    "Cirurgia"
+   ],
+   "enunciado": "Um jovem de 28 anos, atleta de natação, será submetido a abdominoplastia após perder 45 kg por cirurgia bariátrica, há 3 anos, e mudança em hábitos de vida. Qual das seguintes medidas apresenta maior impacto na prevenção de infecção do sítio cirúrgico para esse paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Uso de drenos de sucção e remoção de pelos abdominais."
+    },
+    {
+     "letra": "B",
+     "texto": "Tempo cirúrgico abreviado e uso criterioso do eletrocautério."
+    },
+    {
+     "letra": "C",
+     "texto": "Uso de antibiótico profilaxia 1 h antes da realização da incisão."
+    },
+    {
+     "letra": "D",
+     "texto": "Suplementação preoperatória hipocalórica e com alto teor de proteína."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163640",
+   "codigo": "4000163640",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 93,
+   "temas": [
+    "Escroto Agudo",
+    "Cirurgia"
+   ],
+   "enunciado": "Na emergência, um cirurgião atende menino de 10 anos com dor testicular, há cerca de 4 horas, de início súbito. Ao exame da hemibolsa escrotal esquerda, há pouca mobilidade a palpação e desaparecimento do reflexo cremastérico. Não há disponível ultrassonografia na região. Qual o diagnóstico provável?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Torção testicular."
+    },
+    {
+     "letra": "B",
+     "texto": "Hidrocele escrotal."
+    },
+    {
+     "letra": "C",
+     "texto": "Hematoma testicular."
+    },
+    {
+     "letra": "D",
+     "texto": "Orquiepidimite infecciosa."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163639",
+   "codigo": "4000163639",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 94,
+   "temas": [
+    "Colecistectomia",
+    "Cirurgia"
+   ],
+   "enunciado": "Homem de 56 anos portador de hepatopatia crônica devido ao consumo diário de bebidas alcoólicas é acompanhado no ambulatório de gastroenterologia por ascite recorrente. O paciente apresenta sintomas relacionados a “má digestão” e em certas ocasiões apresenta dor abdominal e vômitos. Ultrassonogra a abdominal de rotina revela cálculos na vesícula biliar de aproximadamente 0,5 a 1 cm e fígado de aspecto cirrótico. O gastroenterologista encaminha o paciente para avaliação do cirurgião. Qual deve ser a conduta em relação ao cálculo da vesícula biliar?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Classificar o paciente para transplante e então indicar a colecistectomia."
+    },
+    {
+     "letra": "B",
+     "texto": "Observar o desenvolvimento de uma colecistite, para indicar a cirurgia."
+    },
+    {
+     "letra": "C",
+     "texto": "Indicar a colecistectomia aberta, para melhor controle de hemorragia."
+    },
+    {
+     "letra": "D",
+     "texto": "Indicar a colecistectomia por videolaparoscopia, para prevenir hérnias."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163638",
+   "codigo": "4000163638",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 95,
+   "temas": [
+    "Pessoas com asplenia"
+   ],
+   "enunciado": "Uma paciente com púrpura trombocitopênica idiopática irá ser submetida a esplenectomia videoparoscópica. O médico orienta a aplicação de uma vacina 20 dias antes da retirada do baço. Qual doença deve ser prevenida através dessa vacina?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tétano."
+    },
+    {
+     "letra": "B",
+     "texto": "Hepatite."
+    },
+    {
+     "letra": "C",
+     "texto": "Pneumonia"
+    },
+    {
+     "letra": "D",
+     "texto": "Coronavirus."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163637",
+   "codigo": "4000163637",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 96,
+   "temas": [
+    "Suporte Nutricional Perioperatório",
+    "Cirurgia"
+   ],
+   "enunciado": "A suplementação com líquidos sem resíduos, ricos em carboidratos (líquidos claros), apresenta vantagem quando ingeridos no preparo de pacientes para cirurgias eletivas. Até quanto tempo antes da cirurgia é seguro a ingesta desse tipo de substância para um paciente eutrófico ASA I que será submetido a uma cirurgia ortopédica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "2h antes da cirurgia."
+    },
+    {
+     "letra": "B",
+     "texto": "6h antes da cirurgia."
+    },
+    {
+     "letra": "C",
+     "texto": "8h antes da cirurgia."
+    },
+    {
+     "letra": "D",
+     "texto": "12h antes da cirurgia."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163636",
+   "codigo": "4000163636",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 97,
+   "temas": [
+    "Tratamento do Adenocarcinoma Gástrico",
+    "Estadiamento"
+   ],
+   "enunciado": "Após tratamento neoadjuvante, uma paciente de 54 anos, com diagnóstico de adenocarcinoma tipo intestinal de 2 cm no antro gástrico, realiza tomogra a que demonstra adenopatias em tronco celíaco, ausência de metástases hepáticas ou ascite. Atualmente, apresenta-se com bom estado geral e sem outras comorbidades. Para essa paciente, qual o próximo passo para o seu tratamento?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Gatrectomia parcial com linfadenectomia D1 e reconstrução a BII."
+    },
+    {
+     "letra": "B",
+     "texto": "Gatrectomia parcial com linfadenectomia D2 e reconstrução a BII."
+    },
+    {
+     "letra": "C",
+     "texto": "Gatrectomia total com linfadenectomia D2 e reconstrução em Y de Roux."
+    },
+    {
+     "letra": "D",
+     "texto": "Gatrectomia subtotal com linfadenectomia D2 e reconstrução em Y de Roux."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163635",
+   "codigo": "4000163635",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 98,
+   "temas": [
+    "Quadro clínico",
+    "Reposição de solução hipotônica",
+    "Nef rologia"
+   ],
+   "enunciado": "Na Unidade de Pronto Atendimento (UPA), uma mulher de 65 anos é admitida com quadro de vômitos por obstrução neoplásica pré-pilórica, desidratação e ingesta oral zero, aguarda transferência para um hospital terciário. Vem recebendo hidratação e suporte calórico por meio de soro glicosado a 5%. Após três dias de espera, queixando-se de cefaleia refratária a dipirona, apresenta episódio de convulsão. Qual a causa provável da crise convulsiva dessa paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hiponatremia."
+    },
+    {
+     "letra": "B",
+     "texto": "Hiperglicemia."
+    },
+    {
+     "letra": "C",
+     "texto": "Metátase em SNC."
+    },
+    {
+     "letra": "D",
+     "texto": "Alcalose metabólica."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163634",
+   "codigo": "4000163634",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 99,
+   "temas": [
+    "Choque",
+    "Cirurgia"
+   ],
+   "enunciado": "Um paciente de 25 anos, vítima de politrauma grave com TCE e choque hipovolêmico por fratura pélvica, é submetido à cirurgia para controle de hemorragia. Durante a cirurgia, o anestesista opta por utilizar uidos aquecidos para infundir no doente. Qual a principal vantagem dessa conduta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Preservar tecido cerebral por evitar hipotermia extrema."
+    },
+    {
+     "letra": "B",
+     "texto": "Diminuir o metabolismo e resposta inflamatória exagerada."
+    },
+    {
+     "letra": "C",
+     "texto": "Aquecer o paciente para evitar tremores e consequente perda de energia."
+    },
+    {
+     "letra": "D",
+     "texto": "Prevenir distúrbios de coagulação em consequência de ação fibrinolítica."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163633",
+   "codigo": "4000163633",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "SURCE 2022",
+   "numero": 100,
+   "temas": [
+    "Colelitíase",
+    "Câncer da Vesícula Biliar"
+   ],
+   "enunciado": "Durante uma consulta, um paciente assintomático, de 32 anos, apresenta um ultrassom abdominal revelando um cálculo da vesícula biliar de 3 cm. Qual deve ser a conduta do cirurgião? Respostas: 1 12 23 34 45 56 67 78 89 100",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Solicitar tomografia para avaliar vesícula em porcelana ou vegetação intravesicular, e assim, decidir quanto a necessidade de colecistectomia."
+    },
+    {
+     "letra": "B",
+     "texto": "Programar a cirurgia, já que esta apresenta poucos riscos, ao contrário do alto risco de desenvolvimento de câncer a que esse paciente está exposto."
+    },
+    {
+     "letra": "C",
+     "texto": "Descrever ao paciente os riscos potenciais da colecistectomia, bem como da preservação da vesícula com o cálculo, e ouvir a opinião do paciente quanto à conduta cirúrgica."
+    },
+    {
+     "letra": "D",
+     "texto": "Sugerir ao paciente que por se tratar de um cálculo assintomático em paciente jovem, ele deve aguardar apresentar os primeiros sintomas, antes de ser submetido à colecistectomia."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": []
+}

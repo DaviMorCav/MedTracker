@@ -1,0 +1,3367 @@
+{
+ "questoes": [
+  {
+   "id": "4000183599",
+   "codigo": "4000183599",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 1,
+   "temas": [
+    "Rastreamento do câncer de mama"
+   ],
+   "enunciado": "Sobre os exames de mamas:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A sensibilidade da ressonância magnética das mamas é maior do que o da mamografia, porém a especificidade é menor."
+    },
+    {
+     "letra": "B",
+     "texto": "A dopplerfluxometria das mamas tem como vantagem a sensibilidade maior que a ultrassonografia e ter boa reprodutibilidade."
+    },
+    {
+     "letra": "C",
+     "texto": "A ultrassonografia das mamas tem achados comparáveis com a mamografia com a vantagem de não ter radioexposição."
+    },
+    {
+     "letra": "D",
+     "texto": "A mamografia tem baixo custo e boa acurácia, porém depende da densidade mamária para boa interpretação."
+    },
+    {
+     "letra": "E",
+     "texto": "O melhor exame para avaliação de nódulos palpáveis é a ressonância magnética das mamas, por não ter radioexposição."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000183349",
+   "codigo": "4000183349",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 2,
+   "temas": [
+    "Rastreamento mamográf ico"
+   ],
+   "enunciado": "Sobre as formas de rastreamento do câncer de mama, é correto afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O Autoexame Mensal da Mama (AEM) ainda é recomendado. Apesar das poucas evidências, o AEM demonstrou melhorar a sobrevida das pacientes."
+    },
+    {
+     "letra": "B",
+     "texto": "A maioria dos grupos de especialistas recomenda a tomada de decisão compartilhada em relação à triagem com mamografia para as mulheres na faixa etária de 40 a 49 anos."
+    },
+    {
+     "letra": "C",
+     "texto": "A ressonância magnética da mama deve ser anual, a partir dos 50 anos, para mulheres com BRCA positivo."
+    },
+    {
+     "letra": "D",
+     "texto": "Tomografia por emissão de pósitrons e Ki-67, um marcador tumoral sérico, são formas promissoras para o rastreamento do câncer de mama."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000183154",
+   "codigo": "4000183154",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 3,
+   "temas": [
+    "BIRADS"
+   ],
+   "enunciado": "Mulher, 42 anos de idade, assintomática retorna ao ambulatório com resultado de mamogra a (4 incidências básicas): BI- RADS 0, mamas lipossubstituídas e microcalcificações agrupadas em área de 8mm). Qual é o complemento de imagem que deve ser solicitado?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ampliação."
+    },
+    {
+     "letra": "B",
+     "texto": "Compressão."
+    },
+    {
+     "letra": "C",
+     "texto": "Ultrassom."
+    },
+    {
+     "letra": "D",
+     "texto": "Ressonância magnética."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000182644",
+   "codigo": "4000182644",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 4,
+   "temas": [
+    "Ressonância magnética"
+   ],
+   "enunciado": "O câncer de mama ainda se caracteriza como o câncer ginecológico mais prevalente em todo mundo. Assim sendo, a propedêutica é fundamental para o tratamento precoce. Assinale a alternativa que contém o método de maior sensibilidade para o rastreamento do câncer de mamas.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ressonância magnética."
+    },
+    {
+     "letra": "B",
+     "texto": "Mamografia."
+    },
+    {
+     "letra": "C",
+     "texto": "Ultrassonografia mamária."
+    },
+    {
+     "letra": "D",
+     "texto": "Auto-exame das mamas."
+    },
+    {
+     "letra": "E",
+     "texto": "Exame clínico realizado por especialista."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000182278",
+   "codigo": "4000182278",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 5,
+   "temas": [
+    "Rastreamento mamográf ico"
+   ],
+   "enunciado": "Idosa de 76 anos comparece à consulta, solicitando informações de quando deve realizar nova mamogra a. A última foi há dois anos. Deve-se explicar que nessa faixa etária, em relação ao rastreamento para câncer de mama, a recomendação do Ministério da Saúde é de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "aumentar o intervalo de rastreamento"
+    },
+    {
+     "letra": "B",
+     "texto": "fazer rastreamento por ressonância"
+    },
+    {
+     "letra": "C",
+     "texto": "oferecer rastreamento opcional"
+    },
+    {
+     "letra": "D",
+     "texto": "interromper o rastreamento"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000181850",
+   "codigo": "4000181850",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 6,
+   "temas": [
+    "Rastreamento mamográf ico"
+   ],
+   "enunciado": "Os métodos existentes para a detecção precoce do câncer de mama não reduzem a incidência, mas podem reduzir a mortalidade pela doença. Nesse sentido, o Ministério da Saúde preconiza que, na população de risco padrão para o câncer de mama, o rastreio seja realizado pela mamografia,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "em intervalos bianuais, em mulheres entre 50 e 69 anos."
+    },
+    {
+     "letra": "B",
+     "texto": "em intervalos anuais, em mulheres entre 40 e 69 anos."
+    },
+    {
+     "letra": "C",
+     "texto": "em grupo familiar menor que 40 anos, com antecedente positivo para o câncer de mama, em mulheres com idade menor que 40 anos."
+    },
+    {
+     "letra": "D",
+     "texto": "em meio familiar, com antecedente familiar positivo para o câncer de mama, em mulheres com idade superior a 70 anos."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000181515",
+   "codigo": "4000181515",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 7,
+   "temas": [
+    "BIRADS"
+   ],
+   "enunciado": "O American College of Radiology recomendou o Breast Imaging Reporting and Data System (BI- -RADS) como esquema padrão para a descrição de lesões mamográ cas. Qual é o BI-RADS numa paciente com achado suspeito e que deve ser considerada a biópsia?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1."
+    },
+    {
+     "letra": "B",
+     "texto": "2."
+    },
+    {
+     "letra": "C",
+     "texto": "3."
+    },
+    {
+     "letra": "D",
+     "texto": "4."
+    },
+    {
+     "letra": "E",
+     "texto": "0."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000177444",
+   "codigo": "4000177444",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 8,
+   "temas": [
+    "Rastreamento do câncer de mama"
+   ],
+   "enunciado": "O câncer de mama é, na atualidade, uma questão de saúde pública mundial. O rastreamento deve contemplar populações de risco padrão para desenvolvimento do câncer de mama, chamado risco populacional. Quanto ao rastreamento do câncer de mama, analise as afirmações abaixo. Das afirmações, estão corretas",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I, II e IV."
+    },
+    {
+     "letra": "B",
+     "texto": "II, III e IV."
+    },
+    {
+     "letra": "C",
+     "texto": "I, III e IV."
+    },
+    {
+     "letra": "D",
+     "texto": "I, II e III."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q008-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000169429",
+   "codigo": "4000169429",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 9,
+   "temas": [
+    "Rastreamento mamográf ico"
+   ],
+   "enunciado": "O diagnóstico precoce do câncer de mama faz com que o tratamento seja feito na fase inicial da doença, melhorando sobremaneira o prognóstico. Segundo a Federação Brasileira de Ginecologia e Obstetrícia (FEBRASGO) e a Sociedade Brasileira de Mastologia (SBM), esse rastreamento deve ser feito",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "em todas as mulheres, com mamografia a partir de quarenta anos de idade, associada à dosagem sérica do CA 15.3."
+    },
+    {
+     "letra": "B",
+     "texto": "por meio de mamografia com cintilografia (mamocintilografia), a partir de quarenta anos de idade."
+    },
+    {
+     "letra": "C",
+     "texto": "por meio de ressonância magnética das mamas a partir de quarenta anos de idade, porém seu resultado é alterado se as mamas forem densas."
+    },
+    {
+     "letra": "D",
+     "texto": "por meio de mamografia anual, a partir de quarenta anos de idade, em paciente de baixo risco."
+    },
+    {
+     "letra": "E",
+     "texto": "por meio de tomografia de superfície, a partir de quarenta anos de idade."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000168624",
+   "codigo": "4000168624",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 10,
+   "temas": [
+    "BIRADS"
+   ],
+   "enunciado": "Uma mulher de 40 anos com histórico familiar de câncer de mama materno (mãe teve câncer aos 70 anos) realiza mamogra a de rastreio. 0 laudo da mamogra a foi BI-RADS 2. Segundo as orientações do Ministério da Saúde acerca da realização e resultado do exame, é correto afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Foi realizado no momento correto / Requer realização de Core biopsy;"
+    },
+    {
+     "letra": "B",
+     "texto": "Foi realizado de forma precoce / Deve-se complementar com ultrassonografia;."
+    },
+    {
+     "letra": "C",
+     "texto": "Não seguiu as orientações do Ministério da Saúde / Complementar com ressonância;"
+    },
+    {
+     "letra": "D",
+     "texto": "Seguiu as orientações do Ministério da Saúde / Repetir o exame em seis meses;"
+    },
+    {
+     "letra": "E",
+     "texto": "Não seguiu as orientações do Ministério da Saúde / Repetir o exame aos 50 anos."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000166410",
+   "codigo": "4000166410",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 11,
+   "temas": [
+    "Diagnóstico e Exames Complementares"
+   ],
+   "enunciado": "Segundo a Organização Mundial da Saúde, o climatério compreende o período de vida da mulher entre o nal da fase reprodutiva e a senilidade. Em geral, varia dos 40 aos 65 anos. Nesse período, ocorre a menopausa, definida como a interrupção permanente da menstruação após 12 meses de amenorreia. Sobre o climatério, sabe-se que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o diagnóstico deve ser confirmado com as dosagens de prolactina e LH."
+    },
+    {
+     "letra": "B",
+     "texto": "os fogachos são sensações transitórias súbitas de calor que se iniciam nos pés e sobem em direção às pernas e joelhos."
+    },
+    {
+     "letra": "C",
+     "texto": "dentre os exames complementares para sua propedêutica, a RNM de tórax e cintilografia óssea são mandatórias."
+    },
+    {
+     "letra": "D",
+     "texto": "a mamografia e a colpocitologia oncoparasitária são fundamentais na propedêutica básica do climatério."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000166248",
+   "codigo": "4000166248",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 12,
+   "temas": [
+    "Biópsias da mama",
+    "BIRADS"
+   ],
+   "enunciado": "Mulher, 52 anos de idade, realizou mamogra a de rotina que identi cou grupo de microcalci cações pleomór cas, com extensão de 0,7 cm, localizadas em quadrante superolateral de mama direita. Qual é a melhor estratégia para o diagnóstico histopatológico?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Biópsia por agulha grossa ("
+    },
+    {
+     "letra": "B",
+     "texto": "Biópsia assistida a vácuo (mamotomia) guiada por ultrassonografia."
+    },
+    {
+     "letra": "C",
+     "texto": "Biópsia por agulha grossa ("
+    },
+    {
+     "letra": "D",
+     "texto": "Biópsia assistida a vácuo (mamotomia) guiada por mamografia."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000165110",
+   "codigo": "4000165110",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 13,
+   "temas": [
+    "BIRADS"
+   ],
+   "enunciado": "Em uma mamografia classificada como categoria 3 ( BI-RADS ) , qual a conduta a ser seguida?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Controle anual."
+    },
+    {
+     "letra": "B",
+     "texto": "Biópsia cirúrgica."
+    },
+    {
+     "letra": "C",
+     "texto": "Controle trimestral."
+    },
+    {
+     "letra": "D",
+     "texto": "Controle semestral."
+    },
+    {
+     "letra": "E",
+     "texto": "Biópsia percutânea."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000164958",
+   "codigo": "4000164958",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 14,
+   "temas": [
+    "Rastreamento mamográf ico"
+   ],
+   "enunciado": "Mulher, 35 anos, sem histórico familiar de câncer de mama ou ginecológico, sem queixas mamárias, comparece ao consultório, pois está com medo de ter câncer de mama após ter visto reportagem sobre o caso “ De acordo com as recomendações publicadas pela FEBRASGO e pela Sociedade Brasileira de Mastologia de 2017, a conduta mais adequada é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "realizar apenas US de mamas nesse momento e mamografia anual após os 40 anos"
+    },
+    {
+     "letra": "B",
+     "texto": "apesar da paciente estar assintomática, iniciar rastreio mamográfico anual imediatamente"
+    },
+    {
+     "letra": "C",
+     "texto": "realizar mamografia anual a partir dos 40 anos e complementar com US apenas se necessário"
+    },
+    {
+     "letra": "D",
+     "texto": "iniciar rastreio anual com mamografia nesse momento e US de mamas a partir dos 40 anos"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000164436",
+   "codigo": "4000164436",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 15,
+   "temas": [
+    "Rastreamento do câncer de mama",
+    "Câncer de mama"
+   ],
+   "enunciado": "Em mamogra a diagnóstica, mulher de 66 anos apresenta linfoadenopatia (LAP) regional unilateral. A paciente relata aplicação de vacina Pfizer-BioNTech contra Covid-19 na semana anterior. Neste caso,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "não há estudos mostrando correlação entre vacinação contra Covid-19 e aparecimento de LAP."
+    },
+    {
+     "letra": "B",
+     "texto": "a LAP tem pouco valor diagnóstico no câncer de mama e, portanto, está associada à vacinação contra Covid-19."
+    },
+    {
+     "letra": "C",
+     "texto": "a LAP pode ser relacionada à vacina, se for ipsilateral à aplicação, mas deve-se seguir investigação de caso suspeito de câncer de mama."
+    },
+    {
+     "letra": "D",
+     "texto": "a LAP está, frequentemente associada sempre ao câncer de mama e é necessário realizar biópsia para esclarecimento diagnóstico."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000164075",
+   "codigo": "4000164075",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 16,
+   "temas": [
+    "Biópsias da mama",
+    "BIRADS"
+   ],
+   "enunciado": "Mulher de 58 anos realizou mamogra a de rastreamento, com laudo BI-RADS 5, evidenciando nódulo espiculado de limites imprecisos de aproximadamente 2cm. Ao exame, apresenta nódulo endurecido com retração do complexo areolopapilar. A conduta proposta é a realização de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "ressonância nuclear magnética"
+    },
+    {
+     "letra": "B",
+     "texto": "biópsia por agulha grossa"
+    },
+    {
+     "letra": "C",
+     "texto": "tumorectomia"
+    },
+    {
+     "letra": "D",
+     "texto": "mastectomia"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163732",
+   "codigo": "4000163732",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 17,
+   "temas": [
+    "Rastreamento nas pacientes de alto risco"
+   ],
+   "enunciado": "Paciente, 35 anos, realizou biopsia mamária de nódulo compatível com hiperplasia ductal atípica. Não sabe referir história familiar pois foi adotada na infância. Procura ginecologista para realizar exames para prevenção do câncer de mama. Assinale a assertiva correta quanto à classificação de risco da paciente e adequada estratégia de rastreamento com as recomendações do Colégio Brasileiro de Radiologia e da Federação Brasileira de Ginecologia e Obstetrícia (Febrasgo).",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Risco intermediário: realizar mamografia anual + Ultrassonografia (USG) pode ser solicitada de maneira individualizada."
+    },
+    {
+     "letra": "B",
+     "texto": "Risco intermediário: realizar mamografia anual + Ultrassonografia e ressonância magnética complementares."
+    },
+    {
+     "letra": "C",
+     "texto": "Alto Risco: realizar mamografia anual + Ultrassonografia e ressonância magnética complementares."
+    },
+    {
+     "letra": "D",
+     "texto": "Alto Risco: Mamografia e ressonância magnética anuais a partir dos 30 anos."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163473",
+   "codigo": "4000163473",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 18,
+   "temas": [
+    "Fatores de risco"
+   ],
+   "enunciado": "Parte do programa de rastreamento de câncer de mama é identi car mulheres com maior chance de desenvolver a doença. Pessoas com risco vitalício maior ou igual a 20% (RR > 2,5) são consideradas de alto risco. Considerando apenas parentes de primeiro grau, qual dos seguintes antecedentes familiares aumenta o risco relativo para câncer de mama?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Carcinoma espinocelular de colo uterino."
+    },
+    {
+     "letra": "B",
+     "texto": "Adenocarcinoma de pulmão."
+    },
+    {
+     "letra": "C",
+     "texto": "Carcinoma papilífero de tireoide."
+    },
+    {
+     "letra": "D",
+     "texto": "Carcinoma neuroendocrino de pâncreas."
+    },
+    {
+     "letra": "E",
+     "texto": "Adenocarcinoma de ovário."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163470",
+   "codigo": "4000163470",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 19,
+   "temas": [
+    "BIRADS"
+   ],
+   "enunciado": "O Breast Image Reporting and Data System (BIRADS) auxilia na padronização e divide os achados em categorias. A categoria que se refere a achados provavelmente benignos é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "0."
+    },
+    {
+     "letra": "B",
+     "texto": "1."
+    },
+    {
+     "letra": "C",
+     "texto": "2."
+    },
+    {
+     "letra": "D",
+     "texto": "3."
+    },
+    {
+     "letra": "E",
+     "texto": "6."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163469",
+   "codigo": "4000163469",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 20,
+   "temas": [
+    "Diretrizes do rastreamento mamográf ico",
+    "Mamograf ia digital"
+   ],
+   "enunciado": "Devido à sua prevalência, o câncer de mama determina um grande empenho da comunidade cientí ca em definir as melhores condições de rastreamento e detecção da doença. A mamogra a exerce um papel fundamental na detecção precoce do câncer de mama, cuja incidências mínimas preconizadas são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Póstero-anterior (PA) e perfil."
+    },
+    {
+     "letra": "B",
+     "texto": "Crânio-caudal (CC) e médio lateral oblíqua (MLO)."
+    },
+    {
+     "letra": "C",
+     "texto": "Elkund."
+    },
+    {
+     "letra": "D",
+     "texto": "Magnificação e compressão focal."
+    },
+    {
+     "letra": "E",
+     "texto": "Crânio-caudal (CC) e perfil."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000145915",
+   "codigo": "4000145915",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 21,
+   "temas": [
+    "Rastreamento mamográf ico"
+   ],
+   "enunciado": "Segundo a Febrasgo, nas mulheres sem fatores de risco, a mamogra a, com propósito de detectar lesões precursoras do câncer de mama ou câncer de mama em estádios iniciais, deve ser realizada",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "anualmente, dos quarenta aos 49 anos de idade, e, a cada dois anos, dos cinquenta aos 74 anos de idade."
+    },
+    {
+     "letra": "B",
+     "texto": "anualmente, dos 45 aos 54 anos de idade, e, a cada dois anos, a partir dos 55 anos de idade."
+    },
+    {
+     "letra": "C",
+     "texto": "anualmente, dos quarenta aos setenta anos de idade."
+    },
+    {
+     "letra": "D",
+     "texto": "a cada dois anos, dos cinquenta aos 74 anos de idade."
+    },
+    {
+     "letra": "E",
+     "texto": "a cada três anos, dos cinquenta aos 69 anos de idade."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000145699",
+   "codigo": "4000145699",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 22,
+   "temas": [
+    "Rastreamento mamográf ico"
+   ],
+   "enunciado": "De acordo com as diretrizes do Ministério da Saúde/INCA para a detecção precoce do câncer de mama no Brasil, pode- se afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "alterações no formato do mamilo e retração de pele devem ser acompanhadas por ultrassonografia mamária."
+    },
+    {
+     "letra": "B",
+     "texto": "a mamografia é o exame de rastreio do câncer de mama e deve ser realizada anualmente entre 45 e 65 anos, no intuito de identificar a doença em fase assintomática."
+    },
+    {
+     "letra": "C",
+     "texto": "nódulos mamários em mulheres acima de 50 anos devem ser referenciados para serviço de diagnóstico."
+    },
+    {
+     "letra": "D",
+     "texto": "os métodos existentes para a detecção precoce do câncer de mama reduzem a incidência e a mortalidade pela doença."
+    },
+    {
+     "letra": "E",
+     "texto": "a ultrassonografia é utilizada na diferenciação de cistos e nódulos sólidos na mama, na avaliação de nódulos palpáveis e é considerada método de rastreio para detecção precoce de câncer de mama em qualquer faixa etária."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000145497",
+   "codigo": "4000145497",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 23,
+   "temas": [
+    "BIRADS"
+   ],
+   "enunciado": "Paciente de 61 anos, sem queixas ginecológicas, comparece à Unidade Básica de Saúde para trazer resultado da mamogra a realizada em agosto de 2020 e que pode ser vista abaixo. No exame clínico das mamas não havia nódulos palpáveis. Menopausa aos 52 anos, G4P3A 1 e nega uso de terapia hormonal. Qual a conduta MAIS ADEQUADA para essa paciente após avaliar a mamografia?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Encaminhar para realização de biópsia e estudo histopatológico da mama direita"
+    },
+    {
+     "letra": "B",
+     "texto": "Encaminhar para punção aspirativa por agulha fina na mama esquerda"
+    },
+    {
+     "letra": "C",
+     "texto": "Solicitar ampliação de imagem da mama esquerda devido à calcificação presente"
+    },
+    {
+     "letra": "D",
+     "texto": "Solicitar ultrassonografia das mamas e axilas para complementar a propedêutica"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q023-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000144310",
+   "codigo": "4000144310",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 24,
+   "temas": [
+    "Rastreamento mamográf ico"
+   ],
+   "enunciado": "Mulher com 43 anos, G2P2, em consulta na Unidade de Saúde da Família, informa estar bem e que veio apenas pegar pedido para realizar um exame de mamogra a para rastreamento do câncer de mama. Nega quaisquer antecedentes pessoais e familiares de alterações mamárias benignas ou malignas. Informa ter engravidado aos 27 e aos 30 anos e ter amamentado seus lhos por 15 meses cada um. Nega uso de qualquer medicação no momento ou no passado. O exame clínico das mamas é normal. Como você orientaria esta mulher de acordo com as diretrizes do SUS?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Forneceria os pedidos de mamografia seguindo a estratégia breast awareness (consciência da mama), uma vez que a mulher demonstra estar consciente para a saúde das mamas."
+    },
+    {
+     "letra": "B",
+     "texto": "Forneceria o pedido de mamografia, considerando o rastreamento oportunístico, que oferece o exame a quem busca a unidade de saúde."
+    },
+    {
+     "letra": "C",
+     "texto": "Orientaria que, neste momento, o rastreamento mamográfico não estaria indicado para sua faixa etária e seu perfil."
+    },
+    {
+     "letra": "D",
+     "texto": "Orientaria que com 45 anos seria ofertado o rastreamento na modalidade organizado que convida formalmente as mulheres para o rastreamento."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000144258",
+   "codigo": "4000144258",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 25,
+   "temas": [
+    "BIRADS"
+   ],
+   "enunciado": "Mulher de 51 anos, nulípara, menopausa há 1 ano, retorna à consulta na unidade básica de saúde para checar mamogra a de rastreamento. Tem como antecedente uma tia avó com história de câncer de mama e fez uso de contraceptivo hormonal combinado por 20 anos. Há um ano retirou o sistema intrauterino de levonorgestrel que vinha usando como método contraceptivo nos últimos 5 anos. Não apresenta alteração detectável no exame físico. O laudo da mamogra a vem descrito como B1-RADS® 3 e apresenta a imagem abaixo. Considerando a história clínica e a imagem, assinale a alternativa que contenha a conduta mais adequada, segundo orientações do Ministério da Saúde.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Manter seguimento rotineiro com mamografia anual."
+    },
+    {
+     "letra": "B",
+     "texto": "Solicitar ultrassonografia mamária complementar."
+    },
+    {
+     "letra": "C",
+     "texto": "Encaminhar para realização de análise histopatológica."
+    },
+    {
+     "letra": "D",
+     "texto": "Realizar nova mamografia em seis meses."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q025-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000143255",
+   "codigo": "4000143255",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 26,
+   "temas": [
+    "Rastreamento mamográf ico",
+    "BIRADS"
+   ],
+   "enunciado": "Mulher de 40 anos relata que sua mãe teve câncer de mama aos 72 anos. Realiza mamogra a e procura o médico de família para orientação. O resultado da mamogra a foi BI-RADS 1. Quanto à realização e o resultado da mamogra a, respectivamente, é correto afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "não seguiu as recomendações do Ministério da Saúde / normal"
+    },
+    {
+     "letra": "B",
+     "texto": "seguiu as recomendações do Ministério da Saúde / inconclusivo"
+    },
+    {
+     "letra": "C",
+     "texto": "seguiu as recomendações do Ministério da Saúde / indeterminado"
+    },
+    {
+     "letra": "D",
+     "texto": "não seguiu as recomendações do Ministério da Saúde / mostra alterações benignas"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000141022",
+   "codigo": "4000141022",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 27,
+   "temas": [
+    "BIRADS"
+   ],
+   "enunciado": "A categoria 3 da classificação BI-RADS® ( Radiology,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "“Anormalidade suspeita”: probabilidade intermediária de câncer, entre 3% e 94%, o que justifica a estratificação das lesões em baixo, intermediário ou alto grau de suspeição."
+    },
+    {
+     "letra": "B",
+     "texto": "“Achados provavelmente benignos”: apresentam risco de malignidade inferior a 2%."
+    },
+    {
+     "letra": "C",
+     "texto": "“Incompleta”: necessária avaliação complementar dos achados por outro método de imagem ou por incidências especiais na mamografia."
+    },
+    {
+     "letra": "D",
+     "texto": "“Achados benignos”: nenhuma característica sugestiva de malignidade."
+    },
+    {
+     "letra": "E",
+     "texto": "“Altamente sugestivo de malignidade”: a probabilidade de malignidade é superior à 95%, e a indicação é de estudo anatomopatológico."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000140760",
+   "codigo": "4000140760",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 28,
+   "temas": [
+    "BIRADS"
+   ],
+   "enunciado": "O termo BI-RADS é uma sistematização internacional para a avaliação mamária, interpretação do exame e confecção dos laudos de exames de imagem especi camente da mama. Uma paciente de 51 anos de idade apresenta laudo mamográ co de assimetria focal à direita, palpável no exame físico mamário. Considera-se tal achado como BI-RADS de categoria",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "2."
+    },
+    {
+     "letra": "B",
+     "texto": "3."
+    },
+    {
+     "letra": "C",
+     "texto": "4."
+    },
+    {
+     "letra": "D",
+     "texto": "5."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000140563",
+   "codigo": "4000140563",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 29,
+   "temas": [
+    "Ginecologia",
+    "BIRADS 2"
+   ],
+   "enunciado": "Mulher de 50 anos procura o consultório médico com queixa de nódulo palpável em mama direita há 1 mês. Relata que sua tia materna teve histórico de câncer de mama aos 60 anos. Ao exame físico, apresenta nódulo em mama direita, no quadrante inferomedial, regular, broelástico, móvel aos planos profundos, medindo 2,5 cm. Realizou mamogra a com achado de nódulo isodenso em mama direita, medindo 2,5 cm, BIRADS 0. Realizada uma ultrassonogra a mamária, cou comprovado tratar-se de um nódulo classificado como BIRADS 2. O achado que corresponde ao BIRADS 2 ultrassonográfico é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "cisto oval, com conteúdo espesso."
+    },
+    {
+     "letra": "B",
+     "texto": "nódulo hipoecoico, circunscrito."
+    },
+    {
+     "letra": "C",
+     "texto": "cisto oval, com conteúdo anecoico."
+    },
+    {
+     "letra": "D",
+     "texto": "nódulo sólido-cístico, com fluxo ao Doppler."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000140518",
+   "codigo": "4000140518",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 30,
+   "temas": [
+    "Rastreamento mamográf ico"
+   ],
+   "enunciado": "As recomendações do Ministério da Saúde para rastreamento do câncer de mama incluem",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "estímulo ao ensino do autoexame como método de rastreamento do câncer de mama."
+    },
+    {
+     "letra": "B",
+     "texto": "mamografia bienal em mulheres com menos de 50 anos."
+    },
+    {
+     "letra": "C",
+     "texto": "mamografia anual em mulheres com 75 anos ou mais."
+    },
+    {
+     "letra": "D",
+     "texto": "mamografia bienal em mulheres com idade entre 50 e 69 anos."
+    },
+    {
+     "letra": "E",
+     "texto": "mamografia bienal em mulheres com idade entre 60 e 69 anos."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000140483",
+   "codigo": "4000140483",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 31,
+   "temas": [
+    "Rastreamento do câncer de mama"
+   ],
+   "enunciado": "Paciente de 39 anos queixa-se de nódulo na mama esquerda. Ao exame, o nódulo é palpável, com consistência fibroelástica medindo 1,5 cm. O achado ultrassonográfico que sugere benignidade:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Formato redondo com até 3 lobulações."
+    },
+    {
+     "letra": "B",
+     "texto": "Presença de microcalcificações puntiformes isoladas."
+    },
+    {
+     "letra": "C",
+     "texto": "Altura maior que largura."
+    },
+    {
+     "letra": "D",
+     "texto": "Tamanho visível maior que 2 cm."
+    },
+    {
+     "letra": "E",
+     "texto": "Margens não identificadas em relação ao parênquima mamário adjacente."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000131224",
+   "codigo": "4000131224",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 32,
+   "temas": [
+    "Mamograf ia digital"
+   ],
+   "enunciado": "O rastreioe o diagnóstico precoce de neoplasias fazem parte do atendimento na Rede de Atenção Primária. Considerando isso, suponha que uma mulher de 53 anos de idade procure uma unidade básica de saúde para realização de exames de rotina, e o médico da Atenção Primária perceba, na face dela, uma pequena lesão papulosa, de cor rósea, aspecto “perolado”, com nos vasos em sua superfície. Ao ser questionada, a paciente informa que essa lesão apresentou crescimento lento e progressivo. Com base nesse caso clínico e nos conhecimentos médicos correlatos, julgue os itens a seguir. Na faixa etária dessa paciente, segundo o Ministério da Saúde, está indicada a realização de mamografia a cada dois anos.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000131157",
+   "codigo": "4000131157",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 33,
+   "temas": [
+    "Diretrizes do rastreamento mamográf ico"
+   ],
+   "enunciado": "Uma paciente de 56 anos de idade comparece à consulta com o ginecologista para revisão. Refere realizar exames ginecológicos de rastreamento, conforme orientação do médico clínico geral que a atendia até então. Informa que faz uso de cálcio, vitamina D e sinvastatina, por histórico de osteoporose identi cada em densitometria óssea (DMO) prévia, e dislipidemia. Recentemente recebeu diagnóstico de nefrolitíase após crise de dor renal. Relata ser tabagista e etilista desde os 23 anos de idade, e o peso atual dela é 54 kg. Teve dois partos vaginais prévios, menarca aos 12 anos e menopausa aos 38 anos de idade. Nega ter realizado terapia de reposição hormonal. Considerando esse caso clínico e com base nas recomendações do Ministério da Saúde para exames de rastreamento e nos conhecimentos médicos correlatos, julgue os itens a seguir. A paciente deve realizar a mamografia anualmente.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000129861",
+   "codigo": "4000129861",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 34,
+   "temas": [
+    "BIRADS"
+   ],
+   "enunciado": "Paciente com 50 anos de idade percebe nódulo em sua mama direita com aproximadamente 2cm, indolor, móvel e bem delimitado, com mamografia mostrando Birads III e a ecografia IV. Qual a melhor conduta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Indicar punção biópsia."
+    },
+    {
+     "letra": "B",
+     "texto": "Solicitar ressonância magnética e Pet Scan."
+    },
+    {
+     "letra": "C",
+     "texto": "Realizar punção aspirativa para citologia oncótica."
+    },
+    {
+     "letra": "D",
+     "texto": "Realizar a exerese ampla da lesão para diagnóstico definitivo e tratamento."
+    },
+    {
+     "letra": "E",
+     "texto": "Devido às características benignas pela descrição dos exames, aguardar 6 a 12 meses e repetir exame."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000129814",
+   "codigo": "4000129814",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 35,
+   "temas": [
+    "Rastreamento mamográf ico"
+   ],
+   "enunciado": "Em uma consulta médica na atenção primária à saúde, uma mulher de 55 anos relata nunca ter feito mamogra a, que não tem antecedentes familiares de câncer de mama e que não tem opinião formada sobre fazer ou não o exame. Embora haja polêmica na literatura científica sobre o tema, e por causa dela, assinale a conduta mais indicada para o médico:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Mostrar a necessidade urgente da realização do exame."
+    },
+    {
+     "letra": "B",
+     "texto": "Mostrar o amplo balanço danos × benefícios favorável aos benefícios desse rastreamento, sugerindo que o realize."
+    },
+    {
+     "letra": "C",
+     "texto": "Mostrar o balanço danos × benefícios desfavorável ou duvidoso desse rastreamento sugerindo que não o realize."
+    },
+    {
+     "letra": "D",
+     "texto": "Mostrar o balanço danos × benefícios fracamente favorável desse rastreamento sugerindo que o realize."
+    },
+    {
+     "letra": "E",
+     "texto": "Mostrar para ela os danos e benefícios potenciais do rastreamento para que ela decida de forma informada."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000129742",
+   "codigo": "4000129742",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 36,
+   "temas": [
+    "BIRADS"
+   ],
+   "enunciado": "Mulher na menopausa, com 53 anos, realiza uma mamogra a de rotina que apresenta um laudo com “microcalci cac pleomo superior externo da mama esquerda”. Em sua última mamografia, realizada há dois anos, não apresentava essas alterações. Utilizando o método BI-RADS™ (Breast Imaging Reporting and Data System), o achado na mamogra a dessa paciente e mais compatível com classificação:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "0"
+    },
+    {
+     "letra": "B",
+     "texto": "3"
+    },
+    {
+     "letra": "C",
+     "texto": "4"
+    },
+    {
+     "letra": "D",
+     "texto": "5"
+    },
+    {
+     "letra": "E",
+     "texto": "6"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000129656",
+   "codigo": "4000129656",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 37,
+   "temas": [
+    "Rastreamento mamográf ico"
+   ],
+   "enunciado": "Em relação ao rastreamento de câncer de mama na rede pública, o Ministério da Saúde recomenda a realização da mamografia em mulheres com idade",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "entre 40 e 65 anos, anualmente."
+    },
+    {
+     "letra": "B",
+     "texto": "entre 50 e 65 anos, anualmente."
+    },
+    {
+     "letra": "C",
+     "texto": "entre 50 e 69 anos, a cada dois anos."
+    },
+    {
+     "letra": "D",
+     "texto": "acima de 50 anos, a cada dois anos."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000129566",
+   "codigo": "4000129566",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 38,
+   "temas": [
+    "BIRADS"
+   ],
+   "enunciado": "Mulher de 30 anos, nuligesta, apresenta nódulo de mama direita, palpável, indolor e que persiste após 1 ciclo menstrual. Relata que uma tia teve câncer de mama aos 60 anos. O ultrassom de mamas evidenciou nódulo sólido de 1,8 cm - BI- RADS-3. Qual seria a melhor conduta, de acordo com as diretrizes de conduta para diagnóstico e terapêutica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Em mulheres com nódulos palpáveis BI-RADS-3 deve ser indicada exérese da lesão, independentemente dos sintomas."
+    },
+    {
+     "letra": "B",
+     "texto": "As lesões BI-RADS 3 podem ter seguimento semestral por até três anos, não sendo indicada a biópsia para esta conduta."
+    },
+    {
+     "letra": "C",
+     "texto": "A exérese cirúrgica de lesões mamárias BI-RADS-3 deve ser priorizada aos casos assintomáticos e com história familiar, pois apresentam maior risco para câncer de mama."
+    },
+    {
+     "letra": "D",
+     "texto": "Até a terceira década de vida, a maioria dos nódulos sólidos da mama não necessita de investigação; no entanto, quando o nódulo é palpável, recomenda-se mamografia de rastreamento."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000127802",
+   "codigo": "4000127802",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 39,
+   "temas": [
+    "Diretrizes do rastreamento mamográf ico"
+   ],
+   "enunciado": "“O Canadian Radiographic Breast Screening Study: randomised screening trial ” chegou à conclusão de que o screening por mamogra a não reduz a mortalidade por câncer de mama nas faixas etárias de 40- 49 anos e de 50-69 anos, após um seguimento de 25 anos de suas 89.835 participantes. Em revisão sistemática de oito estudos randomizados, em 2013, incluindo 600.000 mil mulheres entre 39 e 74 anos, Gøetzche conclui que o malefício causado pelo sobrediagnóstico sobrepõe-se ao benefício da detecção precoce: de 2.000 mulheres submetidas ao rastreamento por 10 anos, uma vai evitar a morte por câncer de mama, mas 10 mulheres saudáveis serão tratadas desnecessariamente e 200 mulheres experimentarão estresse psicolo Sobre o rastreamento de câncer de mama, considerando riscos e benefícios envolvidos, assinale a alternativa correta em relação às recomendações atuais do Ministério da Saúde e Instituto Nacional do Câncer:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Mamografia anual a partir dos 40 anos"
+    },
+    {
+     "letra": "B",
+     "texto": "Mamografia bienal para mulheres entre 50 e 69 anos"
+    },
+    {
+     "letra": "C",
+     "texto": "Mamografia bienal a partir dos 40 anos"
+    },
+    {
+     "letra": "D",
+     "texto": "Mamografia anual para mulheres entre 50 e 69 anos"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000123429",
+   "codigo": "4000123429",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 40,
+   "temas": [
+    "BIRADS 4"
+   ],
+   "enunciado": "Paciente de 45 anos trouxe à consulta mamogra a mostrando lesão nodular à esquerda categorizada como BIRADS 4B. A ultrassonogra a mamária revelou uma lesão de 2 cm, hipoecogênica, com bordas mal delimitadas, crescimento anteroposterior, com 1,5 cm de diâmetro, localizada no quadrante inferomedial da mama esquerda, classificada também como BIRADS 4B. Ao exame físico, não foram palpados linfonodos axilares ou em fossa supraclavicular suspeitos. Na mama esquerda, em local correspondente ao do nódulo, foi palpado nódulo mal definido, não aderido à pele ou a planos profundos. Com base no quadro, a conduta mais adequada é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "realização de biópsia percutânea com agulha grossa."
+    },
+    {
+     "letra": "B",
+     "texto": "realização de mamografia com compressão focada."
+    },
+    {
+     "letra": "C",
+     "texto": "realização de ressonância magnética."
+    },
+    {
+     "letra": "D",
+     "texto": "realização de biópsia excisional."
+    },
+    {
+     "letra": "E",
+     "texto": "reavaliação em 6 meses com nova ultrassonografia."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120734",
+   "codigo": "4000120734",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 41,
+   "temas": [
+    "Diretrizes do rastreamento mamográf ico"
+   ],
+   "enunciado": "O médico de família e comunidade recebeu Cláudia, de 43 anos de idade, que foi a seu consultório por indicação de um amigo. Nega comorbidades, uso de medicamentos ou histórico familiar de doenças. Faz uso de álcool (um copo de caipirinha aos nais de semana), não fuma e pratica atividade física três vezes por semana. Nega doenças na família. Gostaria de fazer todos os exames que têm direito pelo plano e sempre teve o hábito de fazer exames anuais, mas os últimos foram há dois anos e estavam normais (Papanicolau, mamogra a, ultrassonogra a transvaginal e de tireoide e exame de sangue). Ao exame físico, sem alterações, pressão arterial de 108 x 72 mmHg e IMC de 28. Com base nessa situação hipotética, nas orientações de rastreamento do Ministério da Saúde e nas revisões do US Task Force, assinale a alternativa incorreta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A mamografia não está indicada nesse momento para o rastreamento de câncer de mama em Cláudia."
+    },
+    {
+     "letra": "B",
+     "texto": "A ultrassonografia transvaginal está indicada como forma de rastreamento de câncer de ovário, com ou sem dosagem de CEA e CEA 125."
+    },
+    {
+     "letra": "C",
+     "texto": "O Papanicolau não está indicado para Cláudia nesse momento."
+    },
+    {
+     "letra": "D",
+     "texto": "O Papanicolau é contraindicado em pacientes com menos de 21 anos de idade sem histórico de HIV e(ou) aumento de risco para câncer cervical."
+    },
+    {
+     "letra": "E",
+     "texto": "A ultrassonografia de tireoide não está indicada para rastreamento de câncer de tireoide."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000114480",
+   "codigo": "4000114480",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 42,
+   "temas": [
+    "BIRADS 3"
+   ],
+   "enunciado": "Paciente de 41 anos procurou ginecologista com queixa de nódulo em mama direita há 30 dias sem dor. O exame ginecológico foi normal, inclusive o exame das mamas. Foi solicitada mamogra a cujo resultado foi BI-RADS 3 com achado de microcalci cações tipo \"\"cálcio de leite\"\" no quadrante superior externo da mama direita. Diante desses achados, a conduta deve ser:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "repetir a mamografia em 6 meses."
+    },
+    {
+     "letra": "B",
+     "texto": "fazer punção biópsia com agulha fina."
+    },
+    {
+     "letra": "C",
+     "texto": "fazer punção biópsia com agulha grossa."
+    },
+    {
+     "letra": "D",
+     "texto": "fazer mamotomia."
+    },
+    {
+     "letra": "E",
+     "texto": "fazer exérese cirúrgica da lesão com linfonodo sentinela."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000114100",
+   "codigo": "4000114100",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 43,
+   "temas": [
+    "BIRADS 3"
+   ],
+   "enunciado": "Mulher com 41 anos, G2P2, lactou duas vezes por até um ano, refere que fez a primeira mamogra a de rastreamento há quinze dias. Como o laudo mostrou BI- RADS®3, veio à consulta para esclarecer algumas dúvidas. Deseja nova gestação e gostaria de engravidar novamente o mais breve possível, pois teme ter di culdades e está preocupada com possível gestação de risco. Qual orientação dar a esta paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Pede para retornar em um ano com nova mamografia e, também, ultrassonografia mamária."
+    },
+    {
+     "letra": "B",
+     "texto": "Prossegue a investigação com novos exames de imagens e até biópsia se necessário, antes da gravidez"
+    },
+    {
+     "letra": "C",
+     "texto": "Pede para a paciente aguardar dois anos, mantendo seguimento semestral com mamografia."
+    },
+    {
+     "letra": "D",
+     "texto": "Tentar engravidar, pois na classificação BI-RADS®3 o risco malignidade é baixo."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000109433",
+   "codigo": "4000109433",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 44,
+   "temas": [
+    "Rastreamento",
+    "Indicações de rastreio da osteoporose",
+    "Conf irmação Diagnóstica"
+   ],
+   "enunciado": "Mulher de 67 anos de idade, cozinheira, vem para consulta, com demanda de prevenção de doenças e promoção da saúde. Nega doenças prévias. É tabagista 30 maços-ano e tem hábitos sedentários. Nega etilismo ou uso de drogas ilícitas. Ao exame clínico: dentes em mal estado de conservação, IMC= 32kg/m², circunferência abdominal 108 cm, PA= 136x70 mmHg, frequência cardíaca= 76bpm, sem outras alterações. Dentre as alternativas abaixo, qual delas apresenta dois exames que devem ser solicitados para esta paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Densitometria óssea e colesterol total e frações."
+    },
+    {
+     "letra": "B",
+     "texto": "Mamografia e angiotomografia de coronárias."
+    },
+    {
+     "letra": "C",
+     "texto": "Ultrassonografia de abdome e glicemia de jejum."
+    },
+    {
+     "letra": "D",
+     "texto": "Pesquisa de sangue oculto nas fezes e teste ergométrico."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000108111",
+   "codigo": "4000108111",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 45,
+   "temas": [
+    "BIRADS 3"
+   ],
+   "enunciado": "Mulher de 41 anos realizou sua primeira mamogra a e levou-a ao ginecologista. O exame apontou para um nódulo regular, arredondado com 0,6 cm no quadrante inferior externo da mama direita – BI-RADS 3. Assinale a alternativa que apresenta a interpretação e a conduta corretas frente a esse achado.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Suspeita moderada de malignidade – repetir o exame mamográfico a cada 6 meses."
+    },
+    {
+     "letra": "B",
+     "texto": "Grande suspeita de malignidade – realizar biópsia excisional."
+    },
+    {
+     "letra": "C",
+     "texto": "Achado provavelmente benigno – repetir exames mamográficos anualmente."
+    },
+    {
+     "letra": "D",
+     "texto": "Achado provavelmente benigno – repetir exame mamográfico a cada seis meses."
+    },
+    {
+     "letra": "E",
+     "texto": "Suspeita moderada de malignidade – realizar biópsia excisional."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000099686",
+   "codigo": "4000099686",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 46,
+   "temas": [
+    "BIRADS 5"
+   ],
+   "enunciado": "Mulher, 55a, procura atendimento médico por alteração de exames de rotina. Mamogra a: nódulo na mama esquerda, irregular e microlobulado, medindo 18mm. Ultrassonogra a: nódulo hipoecóico, irregular e microlobulado, BIRADS® 5. A CONDUTA É:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Punção aspirativa por agulha fina."
+    },
+    {
+     "letra": "B",
+     "texto": "Biópsia percutânea de fragmento “core-biopsy”."
+    },
+    {
+     "letra": "C",
+     "texto": "Biópsia incisional com avaliação intra-operatória"
+    },
+    {
+     "letra": "D",
+     "texto": "Biópsia excisional seguida de congelação"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000094274",
+   "codigo": "4000094274",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 47,
+   "temas": [
+    "Diretrizes do rastreamento mamográf ico"
+   ],
+   "enunciado": "Cada vez mais se exigem transparência, clareza, objetividade e simplicidade sobre os benefícios e danos potenciais nas orientações profissionais e institucionais sobre os rastreamentos. Dentre as orientações a uma mulher de 51 anos que nunca fez rastreamento mamográ co e pergunta sobre ele, é correto orientar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Para cada morte evitada por câncer de mama (benefício), cerca de 3 ou 4 mulheres são diagnosticadas e tratadas sem necessidade (dano), pois seu câncer não se manifestaria."
+    },
+    {
+     "letra": "B",
+     "texto": "O tratamento permitido pelo diagnóstico precoce salva vida (benefício) e os danos principais são os falso- positivos, que serão minimizados com o resultado da biópsia."
+    },
+    {
+     "letra": "C",
+     "texto": "O benefício é evitar mortes tratando precocemente o câncer se detectado e os danos principais são os falso- positivos e as biópsias desnecessárias, que porém são temporárias."
+    },
+    {
+     "letra": "D",
+     "texto": "O benefício é reduzir de 15 a 20% a mortalidade por esse câncer (de 5 para 4 mortas em mil mulheres, nos ensaios clínicos), e os danos principais são a dor do exame e os falso-positivos."
+    },
+    {
+     "letra": "E",
+     "texto": "O benefício é reduzir em 30% a mortalidade por esse câncer e os danos são: falso positivos, biópsias desnecessárias, sobrediagnósticos e aumento da mortalidade cardiovascular."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000076730",
+   "codigo": "4000076730",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 48,
+   "temas": [
+    "BIRADS",
+    "BIRADS 0"
+   ],
+   "enunciado": "Paciente realizou mamogra a que não definiu uma lesão adequadamente, sendo considerada um exame incompleto. A classificação de BI-Rads e a conduta referente a esse exame, respectivamente, são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "BI-Rads 0 / complementar com ultrassonografia mamária"
+    },
+    {
+     "letra": "B",
+     "texto": "BI-Rads 1 / complementar com ressonância mamária"
+    },
+    {
+     "letra": "C",
+     "texto": "BI-Rads 5 / repetir exame em 1 ano"
+    },
+    {
+     "letra": "D",
+     "texto": "BI-Rads 0 / realizar biópsia mamária"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000076272",
+   "codigo": "4000076272",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 49,
+   "temas": [
+    "BIRADS 4"
+   ],
+   "enunciado": "Mulher, 28 anos, com massa palpável em mama direita, indolor, móvel de cerca 3cm. Ultrassonogra a: BI-RADS 3. Mamografia complementar: BI-RADS 4. A conduta mais adequada para esta paciente é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "acompanhamento clínico"
+    },
+    {
+     "letra": "B",
+     "texto": "ressonância nuclear magnética"
+    },
+    {
+     "letra": "C",
+     "texto": "core biopsia"
+    },
+    {
+     "letra": "D",
+     "texto": "segmentectomia com linfonodo sentinela"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000073255",
+   "codigo": "4000073255",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 50,
+   "temas": [
+    "BIRADS 5"
+   ],
+   "enunciado": "Mulher de 61 anos realizou mamogra a que evidenciou nódulo espiculado medindo cerca de 3cm, categoria 5 no sistema BI-RADS. Qual a conduta mais adequada para o caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Repetir mamografia em 6 meses."
+    },
+    {
+     "letra": "B",
+     "texto": "Biópsia percutânea (core biopsy) guiada por ultra-sonografia."
+    },
+    {
+     "letra": "C",
+     "texto": "Quadrantectomia com esvaziamento axilar."
+    },
+    {
+     "letra": "D",
+     "texto": "Biópsia cirúrgica com marcação por estereotaxia."
+    },
+    {
+     "letra": "E",
+     "texto": "Punção aspirativa por agulha fina."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000053142",
+   "codigo": "4000053142",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 51,
+   "temas": [
+    "Rastreamento do câncer de colo do útero",
+    "Rastreamento do câncer de mama"
+   ],
+   "enunciado": "Vem para consulta uma mulher de 50 anos com o seguinte histórico: quatro gestações, todas terminaram em parto por via vaginal, ainda menstrua regularmente. Seu esposo e único parceiro sexual da vida foi submetido a vasectomia logo após o nascimento de seu último lho há 15 anos e está impotente há 1 ano por complicações de um Diabete. A paciente faz acompanhamento com um clínico e seus exames laboratoriais, recentes estão normais. A rma não ter realizado nenhuma consulta com ginecologista nos últimos sete anos. Nega casos de câncer de ovário ou de mama em familiares de primeiro grau. Assinale a alternativa que descreve os exames que devem ser solicitados para prevenção do câncer. I - Citologia oncótica, mamografia, ecografia mamaria, ecografia pélvica transvaginal. II - Citologia oncótica, colonoscopia, mamografia, rastreamento da pele para lesões cutâneas. III - Citologia oncótica, mamografia, CA-125, CA 19-9. IV - Colonoscopia, mamografia, rastreamento de pele para lesões cutâneas e pesquisa de CA-125.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A afirmativa II é a única correta."
+    },
+    {
+     "letra": "B",
+     "texto": "A afirmativa IV é a única correta."
+    },
+    {
+     "letra": "C",
+     "texto": "As afirmativas I e III estão corretas."
+    },
+    {
+     "letra": "D",
+     "texto": "As afirmativas II e III estão corretas."
+    },
+    {
+     "letra": "E",
+     "texto": "As afirmativas III e IV estão corretas."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000053127",
+   "codigo": "4000053127",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 52,
+   "temas": [
+    "BIRADS 3",
+    "BIRADS 4"
+   ],
+   "enunciado": "Paciente com 50 anos de idade percebe nódulo em sua mama direita com aproximadamente 2cm, indolor, móvel e bem delimitado com mamografia mostrando Birads III e a ecografia IV. Qual a melhor conduta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Devido às características benignas pela descrição dos exames, aguardar 6 a 12 meses erepetir exame."
+    },
+    {
+     "letra": "B",
+     "texto": "Realizar a exerese ampla da lesão para diagnóstico definitivo e tratamento."
+    },
+    {
+     "letra": "C",
+     "texto": "Realizar punção aspirativa para citologia oncótica."
+    },
+    {
+     "letra": "D",
+     "texto": "Solicitar ressonância magnética e Pet Scan."
+    },
+    {
+     "letra": "E",
+     "texto": "Indicar punção biópsia por agulha grossa."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000036584",
+   "codigo": "4000036584",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 53,
+   "temas": [
+    "BIRADS 4"
+   ],
+   "enunciado": "Paciente de 45 anos, assintomática, submetida a exames de rastreamento mamográ co com os seguintes achados: \"\"Mamas heterogeneamente densas, apresentando microcalci cações pleomór cas agrupadas no quadrante supero lateral da mama direita, linfonodos nos prolongamentos axilares com características radiológicas normais\"\". A correta classificação BIRADS dessa mamografia e a melhor conduta frente ao achado são respectivamente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "BIRADS 0 / Complementação com ultrassonografia mamária devido a alta densidade do parênquima."
+    },
+    {
+     "letra": "B",
+     "texto": "BIRADS 3 / Acompanhamento semestral por imagem das microcalcificações."
+    },
+    {
+     "letra": "C",
+     "texto": "BIRADS 4 / Core biópsia guiada por estereotaxia na área de microcalcificações."
+    },
+    {
+     "letra": "D",
+     "texto": "BIRADS 4 / Ressecção com marcação pré-cirúrgica na área de microcalcificações."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000033077",
+   "codigo": "4000033077",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 54,
+   "temas": [
+    "Diretrizes do rastreamento mamográf ico"
+   ],
+   "enunciado": "Mulher de 35 anos procura a UBS preocupada porque sua vizinha de 40 anos está com câncer de mama e quer orientação sobre o rastreamento. No momento está assintomática e informa G1P1A0, que amamentou seu lho, agora com cinco anos, por sete meses, é sexualmente ativa e o último exame preventivo do colo uterino foi em março de 2019, com laudo negativo para malignidade. Usa DIU T de cobre há três anos e seus ciclos menstruais são regulares. Nega casos de câncer de mama ou ovário na sua família e não é tabagista. Não foram evidenciadas alterações no exame das mamas. Das seguintes condutas, a que NÃO ESTÁ INDICADA para essa paciente é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "informar que ela não é considerada de alto risco para câncer de mama, já que o examedas mamas está normal e a história clínica (pessoal e familiar) não é positiva."
+    },
+    {
+     "letra": "B",
+     "texto": "orientar sobre a limitação da mamografia em mulheres jovens e a recomendação doinício do rastreamento aos 50 anos, segundo o Ministério da Saúde, compartilhando a decisão com ela."
+    },
+    {
+     "letra": "C",
+     "texto": "orientar sobre ações de prevenção primária do câncer de mama: manter o peso numafaixa saudável e a praticar atividade física, além de evitar consumo de álcool."
+    },
+    {
+     "letra": "D",
+     "texto": "solicitar ultrassonografia das mamas por causa da idade da paciente, após término demenstruação, para investigar possível câncer."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000024035",
+   "codigo": "4000024035",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 55,
+   "temas": [
+    "Rastreamento mamográf ico",
+    "Diretrizes do rastreamento mamográf ico"
+   ],
+   "enunciado": "Rastreamento nas pacientes de alto risco Uma paciente de 50 anos de idade vai a consulta em UBS com queixa de corrimento vaginal acinzentado e com odor fétido na última semana. Refere também que gostaria de realizar check-up, pois não se consulta com médico há mais de 10 anos e está preocupada, pois a própria mãe foi diagnosticada com câncer de mama quando tinha 68 anos de idade. História médica pregressa: G6P6A0, diagnóstico prévio de sí lis tratada recentemente e coitarca aos 14 anos de idade. Tabagista de um maço de cigarro ao dia desde os 15 anos de idade. Considerando esse caso clínico e os conhecimentos médicos relacionados à saúde da mulher, julgue o item a seguir. Deverá ser solicitada mamogra a de rastreamento para a paciente. A história descrita de câncer na mãe, aos 68 anos de idade, não indicaria o rastreamento da paciente em idade mais precoce que a população de baixo risco.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000019915",
+   "codigo": "4000019915",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 56,
+   "temas": [
+    "Diretrizes do rastreamento mamográf ico"
+   ],
+   "enunciado": "Mulher de 35 anos, assintomática, história familiar negativa para câncer de mama, procura a Unidade Básica de Saúde para solicitação de mamogra a de rastreamento. De acordo com as recomendações do Ministério da Saúde, sobre o rastreamento e estratégias de diagnóstico precoce do câncer de mama, qual alternativa é considerada adequada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A mamografia é recomendada a partir dos 40 anos de idade, pois em faixas etárias menores as mamas são mais densas e a sensibilidade da mamografia é reduzida, aumentando a taxa de exames falsos negativos."
+    },
+    {
+     "letra": "B",
+     "texto": "O rastreamento mamográfico pode identificar cânceres de comportamento indolente, que não ameaçariam a vida da mulher e que resultam em sobrediagnóstico e sobretratamento, expondo-a a riscos e danos associados."
+    },
+    {
+     "letra": "C",
+     "texto": "Estratégias para redução da mortalidade por câncer de mama envolvem o acesso à ultrassonografia mamária de rastreamento, além do controle de fatores de riscos e efetividade da rede assistencial."
+    },
+    {
+     "letra": "D",
+     "texto": "Não é recomendada a realização de estratégias de conscientização, devido sua muito baixa efetividade e possíveis danos associados às pacientes."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000018964",
+   "codigo": "4000018964",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 57,
+   "temas": [
+    "BIRADS"
+   ],
+   "enunciado": "Uma mulher de 57 anos, assintomática, comparece para consulta na atenção primária. Trouxe consigo uma mamogra a, a primeira que realizou na vida. Após avaliação, o médico decide solicitar retorno e uma nova mamogra a com intervalo de seis meses. A paciente não possui histórico familiar e pessoal relevante. Segundo as diretrizes do Ministério da Saúde / Instituto Nacional de Câncer, o que o médico deve ter evidenciado nos resultados dessa mamografia?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "BI-RADS 0"
+    },
+    {
+     "letra": "B",
+     "texto": "BI-RADS 1"
+    },
+    {
+     "letra": "C",
+     "texto": "BI-RADS 3"
+    },
+    {
+     "letra": "D",
+     "texto": "BI-RADS 5"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000010673",
+   "codigo": "4000010673",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 58,
+   "temas": [
+    "BIRADS 2"
+   ],
+   "enunciado": "Mulher de 55 anos, sem antecedentes patológicos, nuligesta, com laudo de mamogra a BI-RADS 2. A conduta nesse caso é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "complementar com ultrassom."
+    },
+    {
+     "letra": "B",
+     "texto": "biópsia dirigida por ultrassom caso o nódulo não seja palpável."
+    },
+    {
+     "letra": "C",
+     "texto": "complementar com ressonância magnética."
+    },
+    {
+     "letra": "D",
+     "texto": "mamografia de rotina anual.mamografia de rotina anual."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000123177",
+   "codigo": "4000123177",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 59,
+   "temas": [
+    "Diretrizes do rastreamento mamográf ico",
+    "Rastreamento nas pacientes de alto risco"
+   ],
+   "enunciado": "Mulher de 30 anos de idade, com história familiar de câncer de mama da irmã de 35 anos. Qual melhor conduta preventiva a ser realizada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tranquilizar paciente pois o risco só aumenta quando há 2 casos na família"
+    },
+    {
+     "letra": "B",
+     "texto": "Orientar exame clínico a cada seis meses e ultrassonografia mamária."
+    },
+    {
+     "letra": "C",
+     "texto": "Iniciar uso oral de Tamoxifeno."
+    },
+    {
+     "letra": "D",
+     "texto": "Realizar ressonância ou mamografia de início imediato"
+    },
+    {
+     "letra": "E",
+     "texto": "Realizar Salpingoooforectomia bilateral e mastectomia bilateral"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120185",
+   "codigo": "4000120185",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 60,
+   "temas": [
+    "BIRADS 2"
+   ],
+   "enunciado": "Mulher de 53 anos procura UBS com queixa de mastalgia, mais localizada em mama esquerda. AF: mãe e uma irmã com câncer de mama antes dos 50 anos. Exame físico: mamas sem nódulos palpáveis. Mamogra a: mamas lipossubstituídas, nódulo pouco denso, regular, medindo cerca de 0,5 cm de diâmetro em quadrante superior externo da mama direita (compatível com linfonodo intramamário) = BIRADS 2. A conduta é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "nova mamografia em um ano."
+    },
+    {
+     "letra": "B",
+     "texto": "nova mamografia em dois anos."
+    },
+    {
+     "letra": "C",
+     "texto": "ultrassonografia das mamas para complementar a mamografia."
+    },
+    {
+     "letra": "D",
+     "texto": "nova mamografia em 6 meses."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000106430",
+   "codigo": "4000106430",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 61,
+   "temas": [
+    "BIRADS"
+   ],
+   "enunciado": "Mulher de 52 anos de idade realizou mamogra a de rastreamento (imagem abaixo). O exame físico é normal. Qual a melhor conduta para o caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Biópsia cirúrgica."
+    },
+    {
+     "letra": "B",
+     "texto": "Aspiração com agulha fina."
+    },
+    {
+     "letra": "C",
+     "texto": "Biópsia percutânea com agulha grossa."
+    },
+    {
+     "letra": "D",
+     "texto": "Ressonância magnética."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q061-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000100352",
+   "codigo": "4000100352",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 62,
+   "temas": [
+    "BIRADS 0"
+   ],
+   "enunciado": "Paciente de 45 anos, realiza mamogra a de rotina e tem a classificação BI-RADS 0 (American College of Radiology Breast Imaging Reporting and Data System). A designação 0 (zero) quer dizer:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Necessita de avaliação adicional"
+    },
+    {
+     "letra": "B",
+     "texto": "Lesão benigna"
+    },
+    {
+     "letra": "C",
+     "texto": "Suspeita de malignidade"
+    },
+    {
+     "letra": "D",
+     "texto": "Lesão provavelmente benigna"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000098187",
+   "codigo": "4000098187",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 63,
+   "temas": [
+    "BIRADS 4"
+   ],
+   "enunciado": "Mulher, 36a, G3P2C0A1, procura Unidade Básica de Saúde por nódulo indolor em mama direita percebido há quatro meses, retorna com exames solicitados. Refere que não menstrua há 3 anos, em uso trimestral de acetato de medroxiprogesterona de depósito. Antecedentes oncológicos familiares: tia materna com câncer de mama tratado na pré-menopausa (viva) e avó paterna com câncer de mama tratado pós-menopausa (falecida). Mamogra a: BIRADS® = 0 e ultrassonogra a de mamas: lesão 15 mm hipoecoide, microlobulada e irregular em mama esquerda, BIRADS® = 4. Exame das mamas: pequeno volume, ptose grau 1, levemente assimétricas, sendo a esquerda de menor tamanho. Mama esquerda com discreto abaulamento da pele na junção dos quadrantes superiores à inspeção estática; à palpação, identi cada nodulação única de aproximadamente 20 mm de diâmetro; mama direita semiologicamente normal; expressão das árvores ductais negativas bilateralmente. Axilas e fossas supraclaviculares bilateralmente livres. A CONDUTA É:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Repetir ultrassonografia de mama em 6 meses."
+    },
+    {
+     "letra": "B",
+     "texto": "Solicitar tomografia computadorizada de mamas."
+    },
+    {
+     "letra": "C",
+     "texto": "Repetir mamografia com magnificação em 3 meses."
+    },
+    {
+     "letra": "D",
+     "texto": "Encaminhar ao centro de referência."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000091578",
+   "codigo": "4000091578",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 64,
+   "temas": [
+    "BIRADS"
+   ],
+   "enunciado": "Uma mulher de 42 anos, ao investigar nodulação palpável em quadrante superior externo da mama esquerda, realizou exame de ultrassonografia com achado de imagem anecoica, ovalada e homogênea, medindo 1,5 cm de diâmetro médio. Qual a classificação BI-RADS (Breast Imaging-Reporting and Data System) do exame e qual a conduta recomendada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "BI-RADS 1. Controle anual com mamografia."
+    },
+    {
+     "letra": "B",
+     "texto": "BI-RADS 2. Controle semestral com ultrassonografia."
+    },
+    {
+     "letra": "C",
+     "texto": "BI-RADS 2. Não é necessária investigação adicional."
+    },
+    {
+     "letra": "D",
+     "texto": "BI-RADS 3. Punção aspirativa para citologia."
+    },
+    {
+     "letra": "E",
+     "texto": "BI-RADS 3. Avaliação histológica."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000085318",
+   "codigo": "4000085318",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 65,
+   "temas": [
+    "BIRADS"
+   ],
+   "enunciado": "Paciente de 35 anos veio à consulta, encaminhada da Unidade Básica de Saúde, por ter palpado um nódulo na mama esquerda. Trouxe ultrassonogra a mostrando nódulos hipoecogênicos, com sombra acústica posterior, de limites definidos e crescimento paralelo ao tecido subcutâneo. Dois nódulos foram visualizados na mama direita, no quadrante inferomedial, com 0,8 e 1 cm de diâmetro, e eram impalpáveis. O outro nódulo, com 3 cm de diâmetro, localizava-se no quadrante superolateral da mama esquerda. À palpação, era móvel, fibroelástico e com limites definidos. Qual a hipótese diagnóstica mais provável e qual a conduta mais adequada para investigar o nódulo da mama esquerda?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Nódulo cístico - biópsia percutânea por agulha grossa"
+    },
+    {
+     "letra": "B",
+     "texto": "Fibroadenoma - biópsia percutânea por agulha grossa"
+    },
+    {
+     "letra": "C",
+     "texto": "Carcinoma ductal infiltrante - biópsia excisional e exame anatomopatológico por congelação"
+    },
+    {
+     "letra": "D",
+     "texto": "Tumor filodes - biópsia percutânea por agulha grossa"
+    },
+    {
+     "letra": "E",
+     "texto": "Carcinoma lobular - punção aspirativa por agulha fina"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000085303",
+   "codigo": "4000085303",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 66,
+   "temas": [
+    "BIRADS 4"
+   ],
+   "enunciado": "Paciente veio encaminhada da Unidade Básica de Saúde por mamogra a classificada como BI-RADS 4C devido à presença de microcalcificações pleomórficas. Ao exame físico, não foram encontradas alterações. Qual a conduta mais adequada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Encaminhar a paciente para biópsia guiada por mamografia (agulhamento)."
+    },
+    {
+     "letra": "B",
+     "texto": "Repetir a mamografia em 6 meses."
+    },
+    {
+     "letra": "C",
+     "texto": "Repetir a mamografia anualmente."
+    },
+    {
+     "letra": "D",
+     "texto": "Realizar ressonância magnética."
+    },
+    {
+     "letra": "E",
+     "texto": "Realizar tomossíntese."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000082990",
+   "codigo": "4000082990",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 67,
+   "temas": [
+    "Rastreamento do câncer de mama"
+   ],
+   "enunciado": "Para mamas extremamente densas à mamogra a, que podem diminuir a sensibilidade para 40 a 50% é recomendado que se complemente com outro exame que, na maioria dos casos, é o(a):",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tomografia computadorizada."
+    },
+    {
+     "letra": "B",
+     "texto": "Ultrassonografia mamária bilateral."
+    },
+    {
+     "letra": "C",
+     "texto": "Autoexame das mamas."
+    },
+    {
+     "letra": "D",
+     "texto": "Mamotomia (core biopsy a vácuo)."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000079359",
+   "codigo": "4000079359",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 68,
+   "temas": [
+    "Diretrizes do rastreamento mamográf ico"
+   ],
+   "enunciado": "Segundo o Ministério da Saúde, o rastreamento do câncer de mama deve ser realizado nas mulheres entre 50 e 69 anos através de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "autoexame e mamografia a cada ano, se normais"
+    },
+    {
+     "letra": "B",
+     "texto": "autoexame e mamografia a cada dois anos, se normais"
+    },
+    {
+     "letra": "C",
+     "texto": "exame clínico das mamas anual e mamografia a cada um ano, se normais"
+    },
+    {
+     "letra": "D",
+     "texto": "exame clínico das mamas anual e mamografia, a cada dois anos, se normais"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000079050",
+   "codigo": "4000079050",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 69,
+   "temas": [
+    "BIRADS 4"
+   ],
+   "enunciado": "Os achados encontrados nos exames mamográ cos devem ser descritos como nódulos, calci cações ou distorção de arquitetura, além de alterações associadas, como espessamento de pele e retração cutânea. O achado mamográfico mais comum do carcinoma ductal in situ é a presença de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "nódulos com calcificações “em pipoca”."
+    },
+    {
+     "letra": "B",
+     "texto": "calcificações em anel, com o centro radiotransparente."
+    },
+    {
+     "letra": "C",
+     "texto": "nódulos com densidade de gordura."
+    },
+    {
+     "letra": "D",
+     "texto": "microcalcificações com morfologia arboriforme ou pleomórficas."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000078972",
+   "codigo": "4000078972",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 70,
+   "temas": [
+    "BIRADS 0"
+   ],
+   "enunciado": "M.M.H.I., sexo feminino, 54 anos, casada, GIIPIIA0, doméstica, sem história prévia de enfermidades, vem ao ambulatório para consulta de rotina depois de car 5 anos sem avaliação médica. Durante a entrevista, relatou que vem observando certa sensação de cansaço, desânimo para com as tarefas diárias, insônia, e “um calor exagerado”. A menstruação está irregular há aproximadamente 6 meses. Nega uso de medicamentos. Nega tabagismo e etilismo. História familiar positiva para câncer de mama (mãe que faleceu aos 57 anos de idade), diabetes e hipertensão arterial. Dentre outros exames, foi solicitada a mamogra a bilateral (MMG). Duas semanas depois, a paciente retorna ao ambulatório para mostrar o resultado dos exames, em que se observa BI-RADS 0 (ZERO) como resultado de sua MMG. Na terminologia BI-RADS (American College of Radiology Breast Imaging Reporting and Data System), a designação 0 (ZERO) significa",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "necessidade de avaliação adicional."
+    },
+    {
+     "letra": "B",
+     "texto": "mamografia normal."
+    },
+    {
+     "letra": "C",
+     "texto": "suspeita de malignidade."
+    },
+    {
+     "letra": "D",
+     "texto": "lesão provavelmente benigna."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000072080",
+   "codigo": "4000072080",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 71,
+   "temas": [
+    "BIRADS 2",
+    "BIRADS"
+   ],
+   "enunciado": "Paciente, G4P2A2, 61 anos procurou o ambulatório de mastologia apresentando mamogra a classificada como BI-RADS 2. Qual a melhor conduta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "biópsia cirúrgica com marcação por estereotaxia"
+    },
+    {
+     "letra": "B",
+     "texto": "mamotomia"
+    },
+    {
+     "letra": "C",
+     "texto": "Seguimento clínico"
+    },
+    {
+     "letra": "D",
+     "texto": "core biopsy guiada por ultrassonografia"
+    },
+    {
+     "letra": "E",
+     "texto": "quadrantectomia com esvaziamento axilar"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000071010",
+   "codigo": "4000071010",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 72,
+   "temas": [
+    "Diretrizes do rastreamento mamográf ico",
+    "BIRADS 3"
+   ],
+   "enunciado": "Viúva de 75 anos, sem atividade sexual desde os 50 anos, faz exames de rastreio para câncer de colo, mama e ovário desde os 40 anos. Ela realiza anualmente mamogra a, exame Papanicolau e ultrassonogra a de pelve. A paciente procurou o médico muito assustada, pois sua mamogra a apresentou resultado BIRADS 3. Os rastreios realizados por essa paciente e o resultado da última mamografia, respectivamente, evidenciam que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "foram seguidas as orientações do Ministério da Saúde e há sólidas evidências desse benefício / alta probalidade de câncer de mama"
+    },
+    {
+     "letra": "B",
+     "texto": "foram seguidas as orientações do Ministério da Saúde e há dúvidas importantes sobre esse benefício / alta probabilidade de câncer de mama"
+    },
+    {
+     "letra": "C",
+     "texto": "não foram seguidas as orientações do Ministério da Saúde e há sólidas evidências desse benefício / baixa probalidade de câncer de mama"
+    },
+    {
+     "letra": "D",
+     "texto": "não foram seguidas as orientações do Ministério da Saúde e há dúvidas importantes sobre esse benefício / baixa probabilidade de câncer de mama"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000068439",
+   "codigo": "4000068439",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 73,
+   "temas": [
+    "BIRADS 5"
+   ],
+   "enunciado": "Mulher, 59 anos, assintomática, comparece ao ambulatório para exames de prevenção. O exame físico mamário é normal. É submetida à mamogra a, cujo laudo mostra microcalci cações agrupadas no quadrante súpero-lateral, categoria 5 do sistema BI-RADS. A melhor conduta a seguir é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "acompanhamento semestral."
+    },
+    {
+     "letra": "B",
+     "texto": "punção aspirativa por agulha fina"
+    },
+    {
+     "letra": "C",
+     "texto": "biópsia de congelação."
+    },
+    {
+     "letra": "D",
+     "texto": "biópsia guiada por mamografia"
+    },
+    {
+     "letra": "E",
+     "texto": "punção por agulha grossa ambulatorial."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000059866",
+   "codigo": "4000059866",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 74,
+   "temas": [
+    "Exames complementares",
+    "Ressonância magnética",
+    "BIRADS 3"
+   ],
+   "enunciado": "Paciente de 60 anos de idade, gesta 1, para 0, aborto 1, menopausada há 10 anos, vem a consulta no ambulatório de climatério. PA: 130x80 mmHg. Nega uso de terapia hormonal. Antecedentes pessoais: hipotireoidismo em uso de levotiroxina 75 mcg/dia. IMC: 35. Traz os seguintes exames: lipidograma dentro dos parâmetros da normalidade. Glicemia de jejum: 99 mg/dL. TSH: 2,1 mU/L. Mamogra a e ecogra a mamária BIRADS 3. Ecogra a endovaginal: volume uterino 92 cm³. Endométrio 7 mm. Duas imagens intracavitárias hipo e hiperecoicas mescladas dentro do endométrio medindo 20x25 mm a primeira e 25x28 mm a segunda. Paciente está assintomática. Com base no quadro apresentado, deve-se:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Repetir mamografia e ecografia mamária em 12 meses."
+    },
+    {
+     "letra": "B",
+     "texto": "Repetir mamografia e ecografia mamária em 6 meses e indicar histeroscopia."
+    },
+    {
+     "letra": "C",
+     "texto": "Solicitar ressonância magnética nuclear das mamas e indicar dilatação e curetagem uterina."
+    },
+    {
+     "letra": "D",
+     "texto": "Repetir mamografia em 3 meses associada a ressonância magnética nuclear e indicar histeroscopia."
+    },
+    {
+     "letra": "E",
+     "texto": "Solicitar ressonância magnética nuclear das mamas e indicar histeroscopia."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000052057",
+   "codigo": "4000052057",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 75,
+   "temas": [
+    "BIRADS 3"
+   ],
+   "enunciado": "A mamogra a é um exame de rastreio por imagem, que tem como nalidade estudar o tecido mamário. Em uma mamografia classificada como categoria 3 (BI-RADS), qual a conduta a ser seguida?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Controle anual."
+    },
+    {
+     "letra": "B",
+     "texto": "Biópsia cirúrgica."
+    },
+    {
+     "letra": "C",
+     "texto": "Controle trimestral."
+    },
+    {
+     "letra": "D",
+     "texto": "Controle semestral."
+    },
+    {
+     "letra": "E",
+     "texto": "Biópsia percutânea."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000023348",
+   "codigo": "4000023348",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 76,
+   "temas": [
+    "BIRADS 0"
+   ],
+   "enunciado": "Determinada paciente de 55 anos de idade apresenta, em exame físico, nódulo mamário em quadrante superior externo de mama esquerda, redondo, de margem circunscrita, de aproximadamente 1 cm x 1 cm, sem outros sintomas associados. A pressão arterial na consulta era de 120 mmHg x 80 mmHg, FC de 75 bpm e 18 irpm, saturando 99% em ar ambiente. Ela então comparece ao exame levando o resultado da mamogra a que foi solicitada em última consulta. Nega mamogra as prévias. Em laudo, consta classificação de BI-RADS 0 (zero). A respeito desse caso clínico e com base nos conhecimentos médicos correlatos, julgue o item a seguir. Uma conduta apropriada é realizar biópsia guiada por ultrassonografia.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000023343",
+   "codigo": "4000023343",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 77,
+   "temas": [
+    "BIRADS 0"
+   ],
+   "enunciado": "Determinada paciente de 55 anos de idade apresenta, em exame físico, nódulo mamário em quadrante superior externo de mama esquerda, redondo, de margem circunscrita, de aproximadamente 1 cm x 1 cm, sem outros sintomas associados. A pressão arterial na consulta era de 120 mmHg x 80 mmHg, FC de 75 bpm e 18 irpm, saturando 99% em ar ambiente. Ela então comparece ao exame levando o resultado da mamogra a que foi solicitada em última consulta. Nega mamogra as prévias. Em laudo, consta classificação de BI-RADS 0 (zero). A respeito desse caso clínico e com base nos conhecimentos médicos correlatos, julgue o item a seguir. BI-RADS 0 é um achado de bom prognóstico.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000023337",
+   "codigo": "4000023337",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 78,
+   "temas": [
+    "BIRADS 0"
+   ],
+   "enunciado": "Determinada paciente de 55 anos de idade apresenta, em exame físico, nódulo mamário em quadrante superior externo de mama esquerda, redondo, de margem circunscrita, de aproximadamente 1 cm x 1 cm, sem outros sintomas associados. A pressão arterial na consulta era de 120 mmHg x 80 mmHg, FC de 75 bpm e 18 irpm, saturando 99% em ar ambiente. Ela então comparece ao exame levando o resultado da mamogra a que foi solicitada em última consulta. Nega mamogra as prévias. Em laudo, consta classificação de BI-RADS 0 (zero). A respeito desse caso clínico e com base nos conhecimentos médicos correlatos, julgue o item a seguir. É importante solicitar ecografia mamária para complementar investigação.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000019977",
+   "codigo": "4000019977",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 79,
+   "temas": [
+    "BIRADS"
+   ],
+   "enunciado": "Mulher de 41 anos realizou mamogra a e ultrassonogra a mamária de rotina que evidenciaram imagem nodular sólida de 10 mm de diâmetro, orientação não paralela à pele, margens anguladas e sombra posterior. Tem histórico de tia materna com câncer de mama e de intestino aos 65 anos. Qual a orientação para essa paciente, de acordo com o Ministério da Saúde?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Realizar quadrantectomia para exérese da lesão apresentada, diante do tamanho e do aspecto descritos."
+    },
+    {
+     "letra": "B",
+     "texto": "Fazer seguimento da lesão a cada 6 meses por um período de 2 ou 3 anos devido à imagem do nódulo apresentada."
+    },
+    {
+     "letra": "C",
+     "texto": "Solicitar ressonância magnética das mamas como parte do rastreamento devido ao elevado risco de câncer de mama hereditário."
+    },
+    {
+     "letra": "D",
+     "texto": "Indicar biópsia de fragmento para esclarecimento diagnóstico devido às características BIRADS 4 (suspeito de malignidade) do nódulo descrito."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000006652",
+   "codigo": "4000006652",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 80,
+   "temas": [
+    "BIRADS"
+   ],
+   "enunciado": "Mulher, 47 anos de idade, assintomática, realizou uma Ultrassonogra a (US) de mamas que detectou nódulo de forma redonda, margens não-circunscritas, com reforço posterior e medindo 1,7 cm no maior eixo. Qual é a hipótese diagnóstica mais provável e a conduta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Câncer de mama, biopsia tipo core (agulha grossa) guiada por US."
+    },
+    {
+     "letra": "B",
+     "texto": "Fibroadenoma, biopsia a vácuo guiada por mamografia."
+    },
+    {
+     "letra": "C",
+     "texto": "Cisto complexo, biopsia tipo core (agulha grossa) guiada por US."
+    },
+    {
+     "letra": "D",
+     "texto": "Câncer de mama, biópsia a vácuo guiada por mamografia"
+    },
+    {
+     "letra": "E",
+     "texto": "Fibroadenoma, punção com agulha fina guiada por US."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000125374",
+   "codigo": "4000125374",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 81,
+   "temas": [
+    "BIRADS 4"
+   ],
+   "enunciado": "Mulher, 50 anos, realiza exame mamográ co que apresenta como conclusão BI-RADS 4A. Qual a interpretação e qual a conduta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Mamografia incompleta; necessita magnificação."
+    },
+    {
+     "letra": "B",
+     "texto": "Baixa suspeita para malignidade; avaliação histológica."
+    },
+    {
+     "letra": "C",
+     "texto": "Moderada suspeita para malignidade; core biopsy."
+    },
+    {
+     "letra": "D",
+     "texto": "Malignidade confirmada, mas restrita à mama; mastectomia."
+    },
+    {
+     "letra": "E",
+     "texto": "Alta suspeita para malignidade; tumorectomia."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000104945",
+   "codigo": "4000104945",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 82,
+   "temas": [
+    "Diretrizes do rastreamento mamográf ico",
+    "Rastreio Câncer Colorretal"
+   ],
+   "enunciado": "Senhora de 70 anos procura consulta para check-up. É assintomática, sem história familiar ou pessoal de risco para patologias. Nega morbidades e nega tabagismo. Exames complementares indicados para rastreio de morbidades segundo a US Preventive Task Force incluem glicemia,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "mamografia, densitometria mineral óssea, ultrassonografia de tireoide, colonoscopia eurocultura."
+    },
+    {
+     "letra": "B",
+     "texto": "mamografia, densitometria mineral óssea, ultrassonografia de aorta abdominal eultrassonografia de tireoide."
+    },
+    {
+     "letra": "C",
+     "texto": "mamografia, ultrassonografia de tireoide, densitometria mineral óssea e colonoscopia."
+    },
+    {
+     "letra": "D",
+     "texto": "mamografia, densitometria mineral óssea e colonoscopia."
+    },
+    {
+     "letra": "E",
+     "texto": "densitometria mineral óssea, colonoscopia e urocultura."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000104861",
+   "codigo": "4000104861",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 83,
+   "temas": [
+    "Rastreamento",
+    "Rastreamento do câncer de mama"
+   ],
+   "enunciado": "Mulher de 42 anos, cuja avó materna apresentou câncer de mama aos 80 anos, realizou mamogra a com resultado de BI- RADS 3. Em relação ao rastreamento para câncer de mama, é correto afirmar que o(a):",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "mamografia, como teste de rastreamento, tem benefícios inquestionáveis"
+    },
+    {
+     "letra": "B",
+     "texto": "rastreamento foi bem indicado nesse caso, porque a paciente apresenta alto risco para o câncer de mama"
+    },
+    {
+     "letra": "C",
+     "texto": "aconselhamento pré-teste informando os riscos e o seu significado é indicado, dando autonomia à paciente para realizá-lo ou não"
+    },
+    {
+     "letra": "D",
+     "texto": "biopsia está indicada nesse caso, porque o resultado da mamografia demonstrou uma lesão de alta probabilidade para câncer de mama"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000078744",
+   "codigo": "4000078744",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 84,
+   "temas": [
+    "Rastreamento do câncer de mama"
+   ],
+   "enunciado": "A USG mamária é indicada para:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Detectar nódulos em mamas muito adiposas."
+    },
+    {
+     "letra": "B",
+     "texto": "Rastrear câncer de mama."
+    },
+    {
+     "letra": "C",
+     "texto": "Detectar microcalcificações."
+    },
+    {
+     "letra": "D",
+     "texto": "Avaliar achado duvidoso na mamografia. ida oib pr ed"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000071497",
+   "codigo": "4000071497",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 85,
+   "temas": [
+    "BIRADS"
+   ],
+   "enunciado": "Paciente, G2P2A0, 63 anos, procurou ambulatório de mastologia, apresentando nódulo palpável em quadrante superior da mama esquerda, na mamografia, sendo classificado como BI-RADS 3. Qual é a melhor conduta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "biópsia cirúrgica com marcação por estereotaxia."
+    },
+    {
+     "letra": "B",
+     "texto": "mamotomia."
+    },
+    {
+     "letra": "C",
+     "texto": "repetir mamografia em 6 meses."
+    },
+    {
+     "letra": "D",
+     "texto": "core biopsy guiada por ultrassonografia."
+    },
+    {
+     "letra": "E",
+     "texto": "quadrantectomia com esvaziamento axilar."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000037688",
+   "codigo": "4000037688",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 86,
+   "temas": [
+    "Diretrizes do rastreamento mamográf ico",
+    "BIRADS"
+   ],
+   "enunciado": "As patologias de mamas são frequentes e o diagnóstico diferencial com as lesões malignas devem sempre estar na linha de atenção. Sobre as patologias e propedêuticas mamárias, é correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A detecção precoce do câncer de mama está apoiada na avaliação dos fatores de risco, no exame clínico mamografia de rastreamento e na ressonância magnética em algumas pacientes."
+    },
+    {
+     "letra": "B",
+     "texto": "A idade não é um fator importante na avaliação do risco de câncer de mama."
+    },
+    {
+     "letra": "C",
+     "texto": "Pelo sistema de Breast Imaging and Data System (BI-RADS), a classificação 2 indica um achado suspeito, devendo-se considerar a biópsia"
+    },
+    {
+     "letra": "D",
+     "texto": "A ultrassonografia mamária tem substituído a mamografia como exame de rastreamento do câncer de mama, com vantagens para avaliação de calcificações mamárias."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000018504",
+   "codigo": "4000018504",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 87,
+   "temas": [
+    "Rastreamento mamográf ico"
+   ],
+   "enunciado": "Paciente de 45 anos de idade comparece a uma Unidade Básica de Saúde (UBS) para fazer exames da mama, pois está preocupada, uma vez que sua mãe teve diagnóstico de câncer mamário aos 60 anos de idade. Considerando essa situação e os conhecimentos médicos a ela relacionados, julgue o item a seguir. Mamas densas são um fator de risco para câncer de mama e estão associadas à redução da sensibilidade da mamografia.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000018502",
+   "codigo": "4000018502",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 88,
+   "temas": [
+    "Rastreamento do câncer de mama"
+   ],
+   "enunciado": "Paciente de 45 anos de idade comparece a uma Unidade Básica de Saúde (UBS) para fazer exames da mama, pois está preocupada, uma vez que sua mãe teve diagnóstico de câncer mamário aos 60 anos de idade. Considerando essa situação e os conhecimentos médicos a ela relacionados, julgue o item a seguir. A mamogra a é o único método de rastreamento comprovadamente e caz para reduzir a mortalidade por câncer de mama.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000018491",
+   "codigo": "4000018491",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 89,
+   "temas": [
+    "Fatores de risco",
+    "Rastreamento nas pacientes de alto risco"
+   ],
+   "enunciado": "Paciente de 45 anos de idade comparece a uma Unidade Básica de Saúde (UBS) para fazer exames da mama, pois está preocupada, uma vez que sua mãe teve diagnóstico de câncer mamário aos 60 anos de idade. Considerando essa situação e os conhecimentos médicos a ela relacionados, julgue o item a seguir. Há risco aumentado em mulheres com casos da doença em parentes de primeiro grau, sendo o risco maior quando o câncer de mama ocorreu antes da menopausa.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000017554",
+   "codigo": "4000017554",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 90,
+   "temas": [
+    "Diretrizes para o rastreamento",
+    "Rastreamento do câncer de mama"
+   ],
+   "enunciado": "J.S.A., de 55 anos de idade, negra, viúva, com três lhos, hígida, com alimentação saudável, assídua praticante de exercício físico, vai à consulta para a realização de exames de rotina. Refere menopausa há 15 anos. Ao exame físico completo, não se encontra nenhuma alteração, exceto palidez de mucosas. Apresenta hemograma realizado em pronto atendimento por queixas gripais, há 2 semanas, com anemia microcítica e índice de anisocitose aumentado. Com relação à avaliação desse quadro, julgue o item a seguir. A paciente ainda deve ser incluída nos programas de rastreamento de neoplasia de colo do útero e de mama.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000016339",
+   "codigo": "4000016339",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 91,
+   "temas": [
+    "Diretrizes do rastreamento mamográf ico"
+   ],
+   "enunciado": "Mulher de 32 anos de idade, com história familiar fortemente positiva de câncer de mama (mãe e irmã em idade pré- menopausa). Qual estratégia de prevenção secundária deve ser recomendada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Orientar avaliação pré-operatória para cirurgia de mastectomia profilática/redutora de risco."
+    },
+    {
+     "letra": "B",
+     "texto": "Orientar uso oral de Tamoxifeno (modulador seletivo de receptores de estrogênio) por 5 anos."
+    },
+    {
+     "letra": "C",
+     "texto": "Orientar acompanhamento assíduo (exame clínico e exames de imagem) início 10 anos antes da menor idade de diagnóstico de câncer de mama na família."
+    },
+    {
+     "letra": "D",
+     "texto": "Orientar exame clínico a cada seis meses e ultrassonografia mamária e, após os 40 anos, indicar mamografia e Ressonância Magnética das Mamas."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119883",
+   "codigo": "4000119883",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 92,
+   "temas": [
+    "Diretrizes do rastreamento mamográf ico",
+    "Rastreamento nas pacientes de alto risco"
+   ],
+   "enunciado": "Dentre os métodos disponíveis para rastreamento do câncer de mama, é CORRETO afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Em mulheres de risco com mais de 25 anos, a mamografia é o padrão-ouro."
+    },
+    {
+     "letra": "B",
+     "texto": "Em pacientes com menos de 30 anos, a ultrassonografia mamária apresenta maior sensibilidade que a ressonância nuclear magnética."
+    },
+    {
+     "letra": "C",
+     "texto": "A ressonância magnética está indicada em mulheres de risco alto, pois apresenta grande sensibilidade e baixa especificidade."
+    },
+    {
+     "letra": "D",
+     "texto": "Em mulheres jovens, o rastreamento deve ser feito com ultrassonografia mamária."
+    },
+    {
+     "letra": "E",
+     "texto": "Após os 60 anos, a cintilografia passa a ter uma indicação importante no rastreio do câncer de mama."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000117173",
+   "codigo": "4000117173",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 93,
+   "temas": [
+    "Rastreamento",
+    "Rastreamento do câncer de mama",
+    "Câncer de mama"
+   ],
+   "enunciado": "Segundo o documento “Estimativa 2016: Incidência do câncer no Brasil”, do Instituto Nacional de Câncer José Alencar Gomes da Silva, do Ministério da Saúde do Brasil, sobre o câncer de mama, é correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "As mulheres consideradas de alto risco são as que têm história familiar da doença emparentes até terceiro grau."
+    },
+    {
+     "letra": "B",
+     "texto": "A prática de atividade física e a alimentação saudável com a manutenção do peso corporal estão associadas à diminuição de, aproximadamente, 70% do risco de desenvolver a doença."
+    },
+    {
+     "letra": "C",
+     "texto": "A obesidade pós-menopausa não é considerada um fator de risco para desenvolvimento da doença."
+    },
+    {
+     "letra": "D",
+     "texto": "As taxas de mortalidade estão em decréscimo, situando-se em 2015 em 1 óbito a cada100 mil mulheres."
+    },
+    {
+     "letra": "E",
+     "texto": "A mamografia para mulheres entre 50 e 69 anos é a estratégia recomendada pelo Ministério da Saúde do Brasil para seu rastreamento."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000116236",
+   "codigo": "4000116236",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 94,
+   "temas": [
+    "Diretrizes do rastreamento mamográf ico"
+   ],
+   "enunciado": "Segundo as Diretrizes para a Detecção Precoce do Câncer de Mama no Brasil, realizado pelo INCA e pelo Ministério da Saúde, o programa de rastreamento de câncer de mama indicado é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "mamografia bienal para mulheres entre 50 e 69 anos e sem recomendação específica para o exame clínico das mamas."
+    },
+    {
+     "letra": "B",
+     "texto": "mamografia bianual dos 35 aos 40 anos, anual a partir dos 40 anos e autoexame das mamas a partir dos 35 anos."
+    },
+    {
+     "letra": "C",
+     "texto": "mamografia anual a partir dos 40 anos e exame clínico das mamas a partir do menacme."
+    },
+    {
+     "letra": "D",
+     "texto": "mamografia bianual a partir dos 40 anos e ultrassonografia das mamas a partir dos 35anos."
+    },
+    {
+     "letra": "E",
+     "texto": "mamografia anual entre 50 e 69 anos e bianual a partir dos 70 anos e exame clínico das mamas anual a partir dos 40 anos."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000103605",
+   "codigo": "4000103605",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 95,
+   "temas": [
+    "BIRADS 0"
+   ],
+   "enunciado": "Paciente do sexo feminino, 51 anos de idade, gesta 2, para 2. Nega sintomas. Refere que uma irmã de 55 anos está com câncer de mama. O exame clínico da mama é normal. A mamografia revela categoria bi rads 0. Qual a melhor conduta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Repetir a mamografia em dois anos."
+    },
+    {
+     "letra": "B",
+     "texto": "Repetir a mamografia em seis meses."
+    },
+    {
+     "letra": "C",
+     "texto": "Indicar biópsia estereotáxica."
+    },
+    {
+     "letra": "D",
+     "texto": "Complementar o exame com ultrassom."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000099311",
+   "codigo": "4000099311",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 96,
+   "temas": [
+    "BIRADS 3"
+   ],
+   "enunciado": "Mulher, 57a, comparece em consulta de retorno com médico da Estratégia de Saúde da Família, trazendo mamogra a com laudo pelo Breast Imaging-Reporting and Data System — BI-RADS® = 3. Sem antecedentes oncológicos relevantes na família. A conduta é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Repetir mamografia em 1 ano na própria UBS."
+    },
+    {
+     "letra": "B",
+     "texto": "Repetir mamografia em 6 meses na própria UBS."
+    },
+    {
+     "letra": "C",
+     "texto": "Complementar propedêutica."
+    },
+    {
+     "letra": "D",
+     "texto": "Encaminhar para serviço de referência para biópsia."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000091195",
+   "codigo": "4000091195",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 97,
+   "temas": [
+    "BIRADS"
+   ],
+   "enunciado": "Paciente de 55 anos, assintomática, veio à consulta por alteração em exame mamográ co. A análise das imagens revelou calci cações com até 0,5 mm, agrupadas, irregulares e pleomór cas. A paciente trouxe exame mamográ co do ano anterior, com resultado BIRADS 1. Neste momento, a nova mamografia seria classificada como:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "BIRADS 0."
+    },
+    {
+     "letra": "B",
+     "texto": "BIRADS 2."
+    },
+    {
+     "letra": "C",
+     "texto": "BIRADS 3."
+    },
+    {
+     "letra": "D",
+     "texto": "BIRADS 5."
+    },
+    {
+     "letra": "E",
+     "texto": "BIRADS 6."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000079374",
+   "codigo": "4000079374",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 98,
+   "temas": [
+    "Rastreamento do câncer de mama"
+   ],
+   "enunciado": "Paciente de 70 anos procurou o ambulatório de mastologia apresentando nódulo palpável em quadrante superior da mama direita, que evidenciou nódulo espiculado medindo 3,3 cm na mamogra a, sendo classificado como BI-RADS 5. Qual a sua conduta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Biópsia cirúrgica com marcação por estereotaxia."
+    },
+    {
+     "letra": "B",
+     "texto": "Punção aspirativa por agulha fina."
+    },
+    {
+     "letra": "C",
+     "texto": "Repetir mamografia em 6 meses."
+    },
+    {
+     "letra": "D",
+     "texto": "Core biopsy guiada por ultrassonografia."
+    },
+    {
+     "letra": "E",
+     "texto": "Quadrantectomia com esvaziamento axilar."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000074685",
+   "codigo": "4000074685",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 99,
+   "temas": [
+    "Rastreamento do câncer de mama",
+    "Introdução"
+   ],
+   "enunciado": "Em relação à prevenção do câncer de mama, é CORRETO afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A ultrassonografia é o exame de escolha para pacientes jovens."
+    },
+    {
+     "letra": "B",
+     "texto": "Após os 60 anos, a cintilografia mamária é padrão-ouro."
+    },
+    {
+     "letra": "C",
+     "texto": "Em mulheres de alto risco, pode-se utilizar a ressonância magnética, que tem grande sensibilidade e baixa especificidade."
+    },
+    {
+     "letra": "D",
+     "texto": "A mamografia é o melhor exame para rastreamento de câncer de mama a partir dos25 anos de idade."
+    },
+    {
+     "letra": "E",
+     "texto": "Em se tratando de mulheres jovens, a ultrassonografia tem maior sensibilidade que a ressonância magnética"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000063031",
+   "codigo": "4000063031",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Rastreamento do câncer de mama",
+   "numero": 100,
+   "temas": [
+    "BIRADS 4"
+   ],
+   "enunciado": "Paciente com 54 anos de idade procura consulta no ambulatório de ginecologia queixando-se de nódulo na mama esquerda que percebeu há mais ou menos 6 meses. Gesta 2, cesárea 2. Menopausada há 5 anos. Não utiliza terapia hormonal na pós- menopausa. Paciente não tem histórico familiar de câncer de mama. IMC de 34. Exame físico geral sem alterações. No exame da mama, palpa-se nódulo algo endurecido, pouco móvel, medindo aproximadamente 2,5 x 2,0 cm no quadrante superior externo da mama esquerda. Você solicita mamografia e ecografia mamária e demais exames da rotina do climatério. A mamogra a revela nódulo irregular, medindo 1,8 x 2 cm no quadrante superior externo da mama esquerda. Laudo BI-RADS 4A. Ecogra a mamária demonstra nódulo sólido com as mesmas características do laudo mamográ co: BI- RADS ultrassonográfico 4. A partir do exposto, assinale a alternativa que apresenta melhor conduta. Respostas: 1 12 23 34 45 56 67 78 89 100",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Repetir mamografia e ecografia mamária em 6 meses."
+    },
+    {
+     "letra": "B",
+     "texto": "Core biopsy."
+    },
+    {
+     "letra": "C",
+     "texto": "Solicitar ressonância magnética nuclear da mama."
+    },
+    {
+     "letra": "D",
+     "texto": "Punção aspirativa com agulha fina."
+    },
+    {
+     "letra": "E",
+     "texto": "Indicar setorectomia no quadrante superior externo da mama esquerda."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  }
+ ],
+ "fora_do_modo_resolucao": []
+}

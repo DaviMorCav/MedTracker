@@ -1,0 +1,1057 @@
+{
+ "questoes": [
+  {
+   "id": "4000046851",
+   "codigo": "4000046851",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores Hepáticos",
+   "numero": 1,
+   "temas": [
+    "Tratamento cirúrgico curativo",
+    "Hepatocarcinoma CHC ou HCC Carcinoma Hepatocelular"
+   ],
+   "enunciado": "O hepatocarcinoma é o tumor hepático maligno primário mais comum. Existe uma gama de possíveis tratamentos para esse tipo de tumor: ressecção cirúrgica, transplante hepático, quimioembolização, ablação por radiofrequência e quimioterapia. Qual dos casos clínicos abaixo seria o paciente ideal para se indicar ressecção cirúrgica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Homem, 59 anos, Child A e tumor de 6cm no lobo esquerdo. Plaquetas: 130.000/mm³."
+    },
+    {
+     "letra": "B",
+     "texto": "Mulher, 38 anos, MELD 15 e 02 tumores no lobo esquerdo de 1,5 cm, usando TIPS."
+    },
+    {
+     "letra": "C",
+     "texto": "Homem, 47 anos. Lesão de 3cm em lobo direito e envolvimento da veia porta direita."
+    },
+    {
+     "letra": "D",
+     "texto": "Mulher, 61 anos. Lesão de 2cm em segmento III. Varizes de fino calibre e Child B."
+    },
+    {
+     "letra": "E",
+     "texto": "Homem, 29 anos, Child B e tumor de 4cm em lobo direito e esplenomegalia."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000042737",
+   "codigo": "4000042737",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores Hepáticos",
+   "numero": 2,
+   "temas": [
+    "Alf af etoproteína AFP",
+    "Tomograf ia computadorizada TC e ressonância nuclear magnética RNM"
+   ],
+   "enunciado": "Rastreamento O diagnóstico do hepatocarcinoma pode ser feito preferencialmente por meio de métodos radiológicos dinâmicos, não invasivos, tais como tomogra a computadorizada (TC), ressonância magnética (RM) ou ultrassonogra a com contraste (US). Podemos apenas aceitar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Recomenda-se o rastreamento do hepatocarcinoma por ultrassonografia de abdome a cada seis meses, associada ou não à dosagem de alfa-fetoproteína AFP, entre pacientes com diagnóstico de cirrose hepática que possam se beneficiar do tratamento curativo do tumor."
+    },
+    {
+     "letra": "B",
+     "texto": "Recomenda-se o rastreamento do hepatocarcinoma por ultrassonografia de abdome a cada dois meses, associada ou não à dosagem de alfa-fetoproteína AFP, entre pacientes com diagnóstico de cirrose hepática que possam se beneficiar do tratamento curativo do tumor."
+    },
+    {
+     "letra": "C",
+     "texto": "Recomenda-se o rastreamento do hepatocarcinoma por ultrassonografia de abdome a cada doze meses, associada ou não à dosagem de alfa-fetoproteína AFP, entre pacientes com diagnóstico de cirrose hepática que possam se beneficiar do tratamento curativo do tumor."
+    },
+    {
+     "letra": "D",
+     "texto": "Recomenda-se o rastreamento do hepatocarcinoma por ultrassonografia de abdome a cada seis meses, nunca associada à dosagem de alfa-fetoproteína AFP, entre pacientes com diagnóstico de cirrose hepática que possam se beneficiar do tratamento curativo do tumor."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000040339",
+   "codigo": "4000040339",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores Hepáticos",
+   "numero": 3,
+   "temas": [
+    "Metástases hepáticas",
+    "Tratamento das Metástases Hepáticas do CCR"
+   ],
+   "enunciado": "Paciente do sexo masculino, de 65 anos apresenta quadro de dor em hipocôndrio direito ha 2 meses. Na Ressonância Magnética de abdome, foi evidenciada Lesão sólida de cerca de 10 cm em lobo direito , apresentando hipoatenuação em relação ao parenquima hepático após infusão de contraste.O diagnóstico mais provável é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hemangioma hepático"
+    },
+    {
+     "letra": "B",
+     "texto": "Carcinoma Hepatocelular"
+    },
+    {
+     "letra": "C",
+     "texto": "Colangiocarcinoma periférico"
+    },
+    {
+     "letra": "D",
+     "texto": "Metástase Hepática de Câncer do Aparelho Digestivo"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000040226",
+   "codigo": "4000040226",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores Hepáticos",
+   "numero": 4,
+   "temas": [
+    "Situações especiais para inclusão na lista de transplante hepático",
+    "Transplante hepático"
+   ],
+   "enunciado": "Paciente de anos de idade, com histórico de hemorragia digestiva vultuosa há um mês. Nega etilismo. Relata antecedente de hepatite aos 20 anos de idade. Apresenta em exames laboratoriais : Bilirrubinas totais=3,5 ,Creatinina=1,5 e INR= 1,75. A tomogra a apresenta fígado de heterogeneidade multinodular ,com nódulo periférico de 3 cm de diâmetro em lobo esquerdo, apresentando realce em fase arterial da infusão de contraste, desaparecendo nas fases portal e de equilíbrio. Qual conduta mais indicada:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Biópsia do nódulo"
+    },
+    {
+     "letra": "B",
+     "texto": "Ressecção hepática com biópsia de congelação"
+    },
+    {
+     "letra": "C",
+     "texto": "Transplante hepático"
+    },
+    {
+     "letra": "D",
+     "texto": "Acompanhamento clínico/radiológico"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000031693",
+   "codigo": "4000031693",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores Hepáticos",
+   "numero": 5,
+   "temas": [
+    "Situações especiais para inclusão na lista de transplante hepático",
+    "Indicações do transplante hepático"
+   ],
+   "enunciado": "Transplante hepático Um paciente de 50 anos com cirrose hepática por hepatite C, Child B, com varizes esofágicas de médio calibre, apresenta à ultra-sonogra a abdominal um hepatocarcinoma de 3,5 cm de diâmetro em segmento 5 hepático. A melhor conduta terapêutica é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Transplante hepático."
+    },
+    {
+     "letra": "B",
+     "texto": "Ressecção hepática regrada: hepatectomia direita."
+    },
+    {
+     "letra": "C",
+     "texto": "Ressecção hepática não regrada: nodulectomia."
+    },
+    {
+     "letra": "D",
+     "texto": "Quimioembolização."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000022783",
+   "codigo": "4000022783",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores Hepáticos",
+   "numero": 6,
+   "temas": [
+    "Hepatectomia",
+    "Tratamento cirúrgico curativo"
+   ],
+   "enunciado": "Paciente dinâmico lesão hipervascular com washout precoce e diâmetro de 6,5 cm localizada em segmento III do fígado. A dosagem de alfa-feto-proteína foi de 1900 ng/ml. Qual a melhor conduta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Indicar transplante hepático"
+    },
+    {
+     "letra": "B",
+     "texto": "Ablação por radiofrequência"
+    },
+    {
+     "letra": "C",
+     "texto": "Segmentectomia do segmento III"
+    },
+    {
+     "letra": "D",
+     "texto": "Alcoolização percutânea"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120801",
+   "codigo": "4000120801",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores Hepáticos",
+   "numero": 7,
+   "temas": [
+    "Transplante hepático"
+   ],
+   "enunciado": "Homem de 64 anos apresenta nódulo hepático de 4,3 cm, no segmento VIII, identi cado em tomogra a de abdome. AP: ex-etilista (parou há 5 anos), tabagista (50 anos-maço) e cirrótico por álcool. Exames laboratoriais: alfafetoproteína 520 ng/mL. Escore MELD: 18. A melhor conduta para terapêutica curativa é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "cirurgia para ressecção da lesão."
+    },
+    {
+     "letra": "B",
+     "texto": "transplante hepático."
+    },
+    {
+     "letra": "C",
+     "texto": "quimioembolização."
+    },
+    {
+     "letra": "D",
+     "texto": "radiofrequência."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000113615",
+   "codigo": "4000113615",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores Hepáticos",
+   "numero": 8,
+   "temas": [
+    "Alf af etoproteína AFP",
+    "Tomograf ia computadorizada TC e ressonância nuclear magnética RNM"
+   ],
+   "enunciado": "Paciente de 52 anos de idade, sexo masculino, com histórico de hepatopatia crônica por Infecção pelo vírus da hepatite C, compareceu ao ambulatório trazendo tomogra a computadorizada de abdome que evidencia imagem nodular hepática medindo 3,0 cm em segmento VII, com realce pelo contrastre na fase arterial e rápida atenuação nas fases portal e tardia (wash-out). Diante do caso apresentado, o provável diagnóstico é de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "hiperplasia nodular focal."
+    },
+    {
+     "letra": "B",
+     "texto": "carcinoma hepatocelular."
+    },
+    {
+     "letra": "C",
+     "texto": "adenoma hepático."
+    },
+    {
+     "letra": "D",
+     "texto": "hemangioma."
+    },
+    {
+     "letra": "E",
+     "texto": "tumor metastatico"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000091747",
+   "codigo": "4000091747",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores Hepáticos",
+   "numero": 9,
+   "temas": [
+    "Cirrose",
+    "Rastreamento"
+   ],
+   "enunciado": "Durante acompanhamento de um paciente cirrótico, é de fundamental importância o rastreio de neoplasia primária hepática. Assinale a alternativa que contém a neoplasia primária e o melhor método utilizado para rastreio.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Carcinoma hepatocelular, com USG de 6/6 meses."
+    },
+    {
+     "letra": "B",
+     "texto": "Carcinoma hepatocelular, com TC de 6/6 meses."
+    },
+    {
+     "letra": "C",
+     "texto": "Carcinoma hepatocelular, com USG de 3/3 meses."
+    },
+    {
+     "letra": "D",
+     "texto": "Colangiocarcinoma, com USG de 3/3 meses."
+    },
+    {
+     "letra": "E",
+     "texto": "Colangiocarcinoma, com RM de 6/6 meses."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000068638",
+   "codigo": "4000068638",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores Hepáticos",
+   "numero": 10,
+   "temas": [
+    "Carcinoma f ibrolamelar"
+   ],
+   "enunciado": "Paciente de 20 anos com tumoração de 3,0cm em lobo E do fígado,encapsulada, com área brótica central, alfafetoproteina normal e com dosagem de neurotensina sérica aumentada. A hipótese diagnóstica mais provável é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "carcinoma hepatocelular fibrolamelar."
+    },
+    {
+     "letra": "B",
+     "texto": "metástase de tumor de colo."
+    },
+    {
+     "letra": "C",
+     "texto": "Colangiocarcinoma."
+    },
+    {
+     "letra": "D",
+     "texto": "metástase de tumor de pâncreas."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000053791",
+   "codigo": "4000053791",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores Hepáticos",
+   "numero": 11,
+   "temas": [
+    "Metástases hepáticas"
+   ],
+   "enunciado": "Em consulta de rotina, paciente masculino, 65 anos, assintomático, evidencia enzimas hepáticas hepatocelulares e colestáticas) levemente alteradas com função (bilirrubina, coagulograma e albumina) normais. Ultrassonogra a de abdome demonstra massa de 5 cm em lobo hepático direito e outras duas lesões em outros segmentos, sem dilatação biliar. RMN de abdome contrastado e CT de tórax confirmam as três lesões no fígado, sem realce arterial, hipovasculares, sem outras anormalidades que, submetida a biópsia, evidenciou adenocarcinoma. Qual a MELHOR conduta nesse momento?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Radioterapia com diagnóstico de colangiocarcinoma intra-hepático irressecável."
+    },
+    {
+     "letra": "B",
+     "texto": "Avaliação para transplante de fígado."
+    },
+    {
+     "letra": "C",
+     "texto": "Rastreio com endoscopia digestiva alta e baixa."
+    },
+    {
+     "letra": "D",
+     "texto": "Imunoterapia com Pembrolizumab."
+    },
+    {
+     "letra": "E",
+     "texto": "Quimioembolização de carcinoma hepatocelular, sem critérios para transplante."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000041963",
+   "codigo": "4000041963",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores Hepáticos",
+   "numero": 12,
+   "temas": [
+    "Alf af etoproteína AFP",
+    "Tomograf ia computadorizada TC e ressonância nuclear magnética RNM"
+   ],
+   "enunciado": "Fatores de risco Paciente do sexo feminino, 55 anos de idade, chega ao hospital oncológico para tratamento de uma doença maligna encontrada no fígado da paciente. Considerando que o diagnóstico precoce é condição importante para o tratamento, assinale a alternativa correta em relação as neoplasias malignas do fígado. I - O carcinoma hepatocelular é o tumor maligno primário mais frequente do fígado e sua distribuição geográ ca está relacionada a incidência de infecção pelo vírus da hepatite B. II - O carcinoma hepatocelular está relacionado com a hepatite B em 75 a 80% dos casos e com a hepatite C em 25 a 30% dos casos. III - O consumo crônico de álcool e do fumo está associado ao risco elevado de carcinoma hepatocelular, embora o álcool não ocasione ou estimule a atividade carcinogênica dos hepatócitos, agindo provavelmente como cocarcinógeno. IV - Os pacientes com fatores de risco e características radiológicas sugestivas, com ou sem nível elevado de alfa feto proteína, candidatos a terapia cirúrgica potencialmente curativa não requerem biópsia pré operatória, exceto se o diagnóstico for duvidoso.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Todas estão corretas."
+    },
+    {
+     "letra": "B",
+     "texto": "Somente I e II estão corretas."
+    },
+    {
+     "letra": "C",
+     "texto": "Somente II e III estão corretas."
+    },
+    {
+     "letra": "D",
+     "texto": "Somente III e IV estão corretas."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000039136",
+   "codigo": "4000039136",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores Hepáticos",
+   "numero": 13,
+   "temas": [
+    "Hepatocarcinoma CHC ou HCC Carcinoma Hepatocelular",
+    "Terapia Sistêmica"
+   ],
+   "enunciado": "Paciente sexo masculino, 58 anos, com cirrose hepática causada por infecção crônica pelo vírus C. Tem, na avaliação clinicolaboratorial, escala de Child-Pugh B9 e Meld 20. Tem hipertensão portal com varizes de esôfago já controladas com ligadura elástica. A tomogra a computadorizada do abdome revela lesão sólida com 6 cm de diâmetro no segmento V do fígado com características clássicas de carcinoma hepatocelular. Considerando o caso descrito, assinale a alternativa de tratamento MAIS INDICADA para esse paciente.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hepatectomia direita."
+    },
+    {
+     "letra": "B",
+     "texto": "Ressecção do tumor com margens livres de 1cm."
+    },
+    {
+     "letra": "C",
+     "texto": "Transplante hepático."
+    },
+    {
+     "letra": "D",
+     "texto": "Tratamento clínico com sorafenibe."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000006502",
+   "codigo": "4000006502",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores Hepáticos",
+   "numero": 14,
+   "temas": [
+    "Cirrose",
+    "Carcinoma f ibrolamelar"
+   ],
+   "enunciado": "Assinale a alternativa correta sobre o carcinoma hepatocelular.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O carcinoma do tipo fibrolamelar, na maioria das vezes, não está associado à cirrose."
+    },
+    {
+     "letra": "B",
+     "texto": "No ocidente, o principal fator de risco para a doença é a cirrose por álcool"
+    },
+    {
+     "letra": "C",
+     "texto": "O rastreamento padrão da doença é ressonância magnética semestralmente."
+    },
+    {
+     "letra": "D",
+     "texto": "Pacientes Child B são os melhores candidatos à ressecção hepática."
+    },
+    {
+     "letra": "E",
+     "texto": "Hipertensão portal não contraindica ressecção em lesões grandes."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000000938",
+   "codigo": "4000000938",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores Hepáticos",
+   "numero": 15,
+   "temas": [
+    "Alf af etoproteína AFP"
+   ],
+   "enunciado": "O marcador tumoral mais específico para o carcinoma hepatocelular é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "CA 19-9."
+    },
+    {
+     "letra": "B",
+     "texto": "CA 125-5."
+    },
+    {
+     "letra": "C",
+     "texto": "Alfa-fetoproteína."
+    },
+    {
+     "letra": "D",
+     "texto": "Antígeno Carcinogênico Embrionário (CEA)."
+    },
+    {
+     "letra": "E",
+     "texto": "Anticorpos anti-mitocôndria."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120195",
+   "codigo": "4000120195",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores Hepáticos",
+   "numero": 16,
+   "temas": [
+    "Transplante hepático"
+   ],
+   "enunciado": "Paciente do sexo masculino, 58 anos de idade, portador de hepatopatia crônica pelo vírus C (HCV), genótipo I, tratado com interferon peguilhado e ribavirina há cinco anos, sem resposta virológica. Tinha biópsia hepática com atividade inflamatória moderada e brose grave (A3 F4 de Matavir) à época do tratamento. Em seguimento ambulatorial, apresenta nódulo hepático de 3 cm, hipercaptante de contraste na fase arterial e com washout na fase tardia da TC com estudo dinâmico. Ultrassonogra a de abdome com Doppler revela essa mesma lesão hipervascular, além de esplenomegalia. Apresentava alfafetoproteina de 115ng/ml e plaquetopenia de 95000/mm³. Como interpretar a lesão e qual é a conduta sequencial para o caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Caracterizar como carcinoma hepatocelular (CHC) e indicar quimioembolização arterial."
+    },
+    {
+     "letra": "B",
+     "texto": "Biopsiar para confirmar CHC e, em caso de confirmação, indicar o transplante hepático."
+    },
+    {
+     "letra": "C",
+     "texto": "Caracterizar como CHC e optar pela ressecção cirúrgica curativa."
+    },
+    {
+     "letra": "D",
+     "texto": "Biopsiar para confirmar CHC, e, em caso de confirmação, indicar radioablação definitiva."
+    },
+    {
+     "letra": "E",
+     "texto": "Caracterizar como CHC e avaliar o transplante hepático como opção terapêutica ideal, conforme estado clínico global do paciente."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000098937",
+   "codigo": "4000098937",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores Hepáticos",
+   "numero": 17,
+   "temas": [
+    "Tomograf ia computadorizada TC e ressonância nuclear magnética RNM",
+    "Transplante hepático"
+   ],
+   "enunciado": "Homem de 60 anos e história de cirrose hepática por vírus da hepatite C e álcool há cinco anos. Ele se encontra em bom estado geral, nega doenças associadas e refere abstinência do álcool há 10 meses. Durante exames de rotina apresentou alfa fetoproteína de 400 ng/mL e tomogra a com imagem nodular de 2,5 cm em lobo direito do fígado e outro de 2,8 cm n o lobo esquerdo com captação rápida do contraste na fase arterial e saída rápida do contraste na fase venosa (washout rápido). Os exames para investigação de metástases foram negativos. Os exames físico e laboratoriais resultaram na classificação de Child-Pugh B e a endoscopia digestiva alta mostrou varizes de esôfago de médio calibre. Diante deste quadro, assinale a alternativa CORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Os nódulos descritos são hepatocarcinoma e o melhor tratamento é a quimioterapia sistêmica."
+    },
+    {
+     "letra": "B",
+     "texto": "Os nódulos descritos são hepatocarcinomas e o melhor tratamento é a quimioembolização, pois é preciso aguardar mais dois meses de abstinência do álcool, tempo exigido pela legislação brasileira para indicação de transplante."
+    },
+    {
+     "letra": "C",
+     "texto": "Os nódulos descritos são hepatocarcinomas e o melhor tratamento é o transplante de fígado."
+    },
+    {
+     "letra": "D",
+     "texto": "Não podemos afirmar com exames de imagem e bio-marcador sérico qual o tipo de tumor. Neste caso a indicação é realizar biópsias destes nódulos."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000098923",
+   "codigo": "4000098923",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores Hepáticos",
+   "numero": 18,
+   "temas": [
+    "Rastreamento"
+   ],
+   "enunciado": "Paciente de 50 anos vai a unidade básica de saúde (UBS) e o médico faz diagnóstico de cirrose, sem etiologia definitiva ainda. A ele é dada a orientação para fazer um exame de ultrassom com doppler de seis em seis meses. O objetivo deste médico é detectar precocemente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O início da hipertensão portal."
+    },
+    {
+     "letra": "B",
+     "texto": "O aparecimento de icterícia."
+    },
+    {
+     "letra": "C",
+     "texto": "O aparecimento de nódulo hepático."
+    },
+    {
+     "letra": "D",
+     "texto": "O aparecimento de ascite."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000066265",
+   "codigo": "4000066265",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores Hepáticos",
+   "numero": 19,
+   "temas": [
+    "Metástases hepáticas",
+    "Tumores Hepáticos Malignos"
+   ],
+   "enunciado": "O tumor maligno que mais acomete o fígado é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "colangiocarcinoma"
+    },
+    {
+     "letra": "B",
+     "texto": "carcinóide"
+    },
+    {
+     "letra": "C",
+     "texto": "hepatocarcinoma"
+    },
+    {
+     "letra": "D",
+     "texto": "tumor metastático"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000060570",
+   "codigo": "4000060570",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores Hepáticos",
+   "numero": 20,
+   "temas": [
+    "Hepatite B",
+    "Alf af etoproteína AFP"
+   ],
+   "enunciado": "Tomograf ia computadorizada TC e ressonância nuclear magnética RNM Paciente de 45 anos de idade, boêmio, com passado de vida promíscua, deu entrada no hospital com quadro de dor abdominal em região do hipocôndrio direito e hipogástrica, associada a distensão abdominal e discreta icterícia. Na HPP, havia relato de ser usuário de drogas, além de possuir hepatite B. Na história social, havia relato de etilismo crônico e tabagismo. Exames trazidos pelo paciente evidenciavam: ultrassonogra a abdominal com lesão sólida, mal definida, no lobo direito do fígado, e presença de ascite; e hematócrito = 32%. Foram realizados novos exames laboratoriais na Unidade de Emergência, sendo detectada elevação significativa da fosfatase alcalina sérica e discreto aumento das concentrações séricas de bilirrubinas e transaminases, além de elevação da alfa-fetoproteína no sangue. Diante do quadro apresentado, qual é o diagnóstico mais provável?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cirrose hepática"
+    },
+    {
+     "letra": "B",
+     "texto": "Metástase hepática"
+    },
+    {
+     "letra": "C",
+     "texto": "Hepatocarcinoma"
+    },
+    {
+     "letra": "D",
+     "texto": "Colangiocarcinoma"
+    },
+    {
+     "letra": "E",
+     "texto": "Esquistossomose hepatoesplênica"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000050362",
+   "codigo": "4000050362",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores Hepáticos",
+   "numero": 21,
+   "temas": [
+    "Rastreamento"
+   ],
+   "enunciado": "Quanto à triagem do carcinoma hepatocelular (CHC), é correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Paciente com hepatite C crônica com fibrose leve e moderada (F1 e F2) deve ser triado com um exame de imagem, trimestral."
+    },
+    {
+     "letra": "B",
+     "texto": "Paciente portador inativo da hepatite B deve ser acompanhado com ultrassonografia e alfafetoproteína, semestral."
+    },
+    {
+     "letra": "C",
+     "texto": "Paciente cirrótico child A e B deve ser triado para o CHC com ultrassonografia e alfafetoproteína, anual."
+    },
+    {
+     "letra": "D",
+     "texto": "Paciente com hepatite C crônica com fibrose avançada (F3 e F4) deve ser triado com ultrassonografia, semestral."
+    },
+    {
+     "letra": "E",
+     "texto": "Paciente cirrótico child C com nódulo menor que 1 cm deve ser triado com ultrassonografia, trimestral."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000043974",
+   "codigo": "4000043974",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores Hepáticos",
+   "numero": 22,
+   "temas": [
+    "Transplante hepático"
+   ],
+   "enunciado": "Paciente masculino com 55 anos, portador de cirrose por vírus c, performance status 1, Child B, varizes de esôfago de médio calibre, apresenta-se como nódulo único de 4 cm no segmento 2 do fígado. Qual a melhor conduta para o caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Transplante Hepático com doador cadáver"
+    },
+    {
+     "letra": "B",
+     "texto": "Quimioembolização isolada"
+    },
+    {
+     "letra": "C",
+     "texto": "Radiofrequência"
+    },
+    {
+     "letra": "D",
+     "texto": "Usar sorafenib"
+    },
+    {
+     "letra": "E",
+     "texto": "Segmentectomia Hepática"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000038466",
+   "codigo": "4000038466",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores Hepáticos",
+   "numero": 23,
+   "temas": [
+    "Rastreamento"
+   ],
+   "enunciado": "Uma paciente do sexo feminino, branca, 40 anos, com diagnóstico prévio de cirrose hepática há cerca de 4 anos está sendo monitorizada para hepatocarcinoma. A melhor estratégia de screening é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ressonância magnética de abdome e provas de função hepática."
+    },
+    {
+     "letra": "B",
+     "texto": "Ultrassonografia de abdome superior e alfafetoproteína."
+    },
+    {
+     "letra": "C",
+     "texto": "Provas de função hepática."
+    },
+    {
+     "letra": "D",
+     "texto": "CA 19-9."
+    },
+    {
+     "letra": "E",
+     "texto": "Cintilografia hepática com tecnécio marcado."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000028390",
+   "codigo": "4000028390",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores Hepáticos",
+   "numero": 24,
+   "temas": [
+    "Cirrose",
+    "Hepatite B",
+    "Rastreamento"
+   ],
+   "enunciado": "Homem negro de 56 anos, etilísta pesado, procura atendimento médico preocupado após ter lido um artigo em jornal de grande circulação sobre carcinoma hepatocelular. Em que situações este paciente terá indicação de rastreio periódico para esta patologia com US abdominal e alfafetoproteína?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Apenas se for portador de cirrose hepática"
+    },
+    {
+     "letra": "B",
+     "texto": "Caso seja portador de hapatite B crônica ou cirrose hepática"
+    },
+    {
+     "letra": "C",
+     "texto": "Na eventualidade de apresentar hepatites crônicas de quaisquer etiologias"
+    },
+    {
+     "letra": "D",
+     "texto": "Por ser etilista pesado, o paciente játem indicação de rastreio para hepatocarcinoma"
+    },
+    {
+     "letra": "E",
+     "texto": "Apenas se for portador de hapatite B ou C crônica"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000124870",
+   "codigo": "4000124870",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores Hepáticos",
+   "numero": 25,
+   "temas": [
+    "Hepatite B"
+   ],
+   "enunciado": "Assinale a alternativa que corresponde ao fator de risco mais forte para o desenvolvimento do hepatocarcinoma:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hemocromatose."
+    },
+    {
+     "letra": "B",
+     "texto": "Infecção pelo vírus da hepatite C."
+    },
+    {
+     "letra": "C",
+     "texto": "HBeAg do vírus da hepatite B positivo."
+    },
+    {
+     "letra": "D",
+     "texto": "Etilismo."
+    },
+    {
+     "letra": "E",
+     "texto": "Ingestão de aflatoxinas."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000105195",
+   "codigo": "4000105195",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores Hepáticos",
+   "numero": 26,
+   "temas": [
+    "Manif estações clínicas",
+    "Fatores de risco",
+    "Rastreamento"
+   ],
+   "enunciado": "Com relação ao carcinoma hepatocelular (CHC), é incorreto:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O vírus B pode provocar CHC mesmo sem evoluir antes para cirrose."
+    },
+    {
+     "letra": "B",
+     "texto": "Pacientes cirróticos devem fazer rastreamento semestral com USG e alfa-fetoproteína."
+    },
+    {
+     "letra": "C",
+     "texto": "São fatores de risco para CHC: doença hepática alcoólica, vírus B e C, hemocromatose, cirrose."
+    },
+    {
+     "letra": "D",
+     "texto": "O CHC pode ser assintomático ou ter manifestações como dor, aumento do volume abdominal e perda de peso."
+    },
+    {
+     "letra": "E",
+     "texto": "O rastreamento do CHC com vírus B deve ser feito com USG e CEA."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000098273",
+   "codigo": "4000098273",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores Hepáticos",
+   "numero": 27,
+   "temas": [
+    "Alf af etoproteína AFP",
+    "Tomograf ia computadorizada TC e ressonância nuclear magnética RNM"
+   ],
+   "enunciado": "Mulher, 55a, com diagnóstico de cirrose alcoólica realizou estudo tomográ co que evidenciou nódulo hipervascularizado na fase arterial, em segmento hepático VIII, medindo 4cm de diâmetro, com trombose portal associada. Alfafetoproteína= 1230ng/mL. A hipótese diagnóstica é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Doença metastática de origem colorretal."
+    },
+    {
+     "letra": "B",
+     "texto": "Colangiocarcinoma."
+    },
+    {
+     "letra": "C",
+     "texto": "Hepatoblastoma."
+    },
+    {
+     "letra": "D",
+     "texto": "Hepatocarcinoma."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000070063",
+   "codigo": "4000070063",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores Hepáticos",
+   "numero": 28,
+   "temas": [
+    "Tratamento cirúrgico curativo",
+    "Hepatocarcinoma CHC ou HCC Carcinoma Hepatocelular"
+   ],
+   "enunciado": "A abordagem em pacientes portadores de carcinoma hepatocelular é complexa por tratar-se, na maioria dos casos, de duas doenças hepáticas concomitantes: a cirrose e o carcinoma. Sendo assim, a avaliação minuciosa estabelecendo a gravidade de cada uma delas é fundamental para definição da estratégia terapêutica. Podemos dizer que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Pacientes com invasão vascular e múltiplas lesões não são candidatos à abordagem cirúrgica."
+    },
+    {
+     "letra": "B",
+     "texto": "Cirróticos em estágio C de Child são candidatos a ressecção da área afetada."
+    },
+    {
+     "letra": "C",
+     "texto": "Pacientes com múltiplas lesões e envolvimento vascular devem ser submetidos à ressecção das lesões e crioablação sobre a área vascular acometida."
+    },
+    {
+     "letra": "D",
+     "texto": "A indicação de transplante do órgão é a melhor opção em todos os casos de carcinoma hepatocelular em função da gravidade e alto risco de óbito."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000064836",
+   "codigo": "4000064836",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores Hepáticos",
+   "numero": 29,
+   "temas": [
+    "Transplante hepático"
+   ],
+   "enunciado": "Um paciente 54 anos, masculino, cirrose por NASH. Status Performance 1, Child B. Possui 3 lesões hepáticas sugestivas de hepatocarcinoma, (1) localizado segmento II de 2,8 cm, (2) no segmento VII 2,2 cm e (3) no segmento IVa 1,8 cm. A melhor conduta para este caso seria:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Resseccão laparoscópica."
+    },
+    {
+     "letra": "B",
+     "texto": "Ressecção por laparotomia."
+    },
+    {
+     "letra": "C",
+     "texto": "Ressecção associada a radioablação."
+    },
+    {
+     "letra": "D",
+     "texto": "Radioablação."
+    },
+    {
+     "letra": "E",
+     "texto": "Transplante hepático."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000056058",
+   "codigo": "4000056058",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tumores Hepáticos",
+   "numero": 30,
+   "temas": [
+    "Alf af etoproteína AFP",
+    "Exames de imagem",
+    "Introdução"
+   ],
+   "enunciado": "A assertiva INCORRETA que diz respeito ao tumor maligno mais comum do fígado, o Carcinoma Hepatocelular (CHC), é: Respostas: 1 12 23",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "As biópsias percutâneas por agulha das lesões do fígado suspeitas de serem CHC são sempre necessárias nos doentes onde está sendo considerada terapia cirúrgica."
+    },
+    {
+     "letra": "B",
+     "texto": "O CHC é 2 a 8 vezes mais comum em homens que em mulheres."
+    },
+    {
+     "letra": "C",
+     "texto": "São fatores de risco: infecção por Vírus da Hepatite B (VHB) e VHC, cirrose, fumo, abuso de álcool e a elevada síntese de DNA hepático na cirrose."
+    },
+    {
+     "letra": "D",
+     "texto": "Frequentemente os pacientes com CHC estão entre 50 a 60 anos de idade com queixas de dor abdominal no quadrante superior direito, perda de peso e massa palpável."
+    },
+    {
+     "letra": "E",
+     "texto": "Doentes com cirrose Child B ou C ou hipertensão portal não toleram ressecção."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": []
+}

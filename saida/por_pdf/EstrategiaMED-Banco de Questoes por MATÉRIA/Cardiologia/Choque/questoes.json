@@ -1,0 +1,1607 @@
+{
+ "questoes": [
+  {
+   "id": "4000190729",
+   "codigo": "4000190729",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Choque",
+   "numero": 1,
+   "temas": [
+    "Tratamento do choque hipovolêmico"
+   ],
+   "enunciado": "Paciente 70 anos, admitido em terapia intensiva após esofagectomia subtotal transhiatal convencional por carcinoma espinocelular de terço médio. Está sedado, em ventilação mecânica, com doses de analgésico otimizadas apresentando frequência cardíaca de 135 bpm, pressão arterial média de 55 mmHg, Sat O2 99% com FiO₂ a 40%. Pressão venosa central de 3 cmH₂0. Gasometria arterial: pH: 7,30; pO₂: 90; pCO₂: 35; HCO₃: 14; Sat 99%. A melhor conduta neste caso é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Expansão com albumina humana 10%."
+    },
+    {
+     "letra": "B",
+     "texto": "Prescrever noradrenalina (0,3 mcg/kg/min)."
+    },
+    {
+     "letra": "C",
+     "texto": "Administrar bicarbonato de sódio 8,4%."
+    },
+    {
+     "letra": "D",
+     "texto": "Expansão volêmica com Ringer Lactato ou Cloreto de Sódio 0,9%."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000190064",
+   "codigo": "4000190064",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Choque",
+   "numero": 2,
+   "temas": [
+    "Classif icação do Choque"
+   ],
+   "enunciado": "Causado por uma diminuição crítica do volume intravascular. O retorno venoso (précarga) diminuído resulta em diminuição do preenchimento ventricular e redução do volume de ejeção. Se não for compensado por aumento da frequência cardíaca, o débito cardíaco diminui. São características de.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Choque anafilático."
+    },
+    {
+     "letra": "B",
+     "texto": "Choque cardiogênico."
+    },
+    {
+     "letra": "C",
+     "texto": "Choque hipovolêmico."
+    },
+    {
+     "letra": "D",
+     "texto": "Choque distributivo."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000184063",
+   "codigo": "4000184063",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Choque",
+   "numero": 3,
+   "temas": [
+    "Choque"
+   ],
+   "enunciado": "Caso 1 Mulher, 65 anos, queixa-se de dor crônica em joelhos quando anda, com piora ao longo do dia. Nega febre ou perda de peso. Apresenta antecedente de diabetes, dislipidemia e hipertensão, em controle clínico regular. No exame clínico, encontra-se com índice de massa corpórea de 32 kg/m² e hipotrofia dos quadríceps bilateralmente. Há aumento de volume dos joelhos com crepitações na exão ativa e discreto varismo. No joelho direito, há leve aumento de temperatura e derrame discreto. Exames complementares mostraram hemograma sem alterações e proteína C-Reativa de 8 mg/L. Três meses após a consulta, a paciente foi atendida em pronto atendimento municipal e encaminhada ao pronto-socorro de hospital terciário por disúria, dor lombar e febre há 3 dias. Não tem antecedentes relevantes. O exame clínico inicial apresentou regular estado geral, PA 80x42 mmHg, FC 120 bpm, T axilar 38,4ºC. Encontrava-se confusa, com pontuação na escala de coma de Glasgow de 12 e má perfusão periférica. Semiologia pulmonar normal. Apresentava posição antálgica e dor à punho-percussão lombar. Posteriormente, a paciente foi transferida à Unidade de Terapia Intensiva. Durante as primeiras horas de evolução, foi sedada, entubada e foram locados cateter venoso central e monitorização invasiva da pressão arterial. Após uma hora da introdução de tratamento específico adequado e expansão volêmica, apresentou PA 84x50 mmHg e FC 108 bpm. Permanece com má perfusão periférica. Semiologia pulmonar normal. Teve débito urinário de 30 mL nas últimas duas horas. O eletrocardiograma e a monitorização estão apresentados. Considerando os dados de monitorização, qual é a conduta mais adequada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O volume corrente deve diminuir pelo risco de barotrauma."
+    },
+    {
+     "letra": "B",
+     "texto": "A expansão volêmica deve continuar para elevar o débito cardíaco."
+    },
+    {
+     "letra": "C",
+     "texto": "A punção para alívio do derrame pericárdico deve ser realizada."
+    },
+    {
+     "letra": "D",
+     "texto": "A droga vasoativa de escolha é a dopamina, pelo maior efeito miocárdico."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q003-1.jpg",
+     "antes_das_alternativas": true
+    },
+    {
+     "arquivo": "imagens/q003-2.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000183317",
+   "codigo": "4000183317",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Choque",
+   "numero": 4,
+   "temas": [
+    "Choque"
+   ],
+   "enunciado": "Analise as assertivas abaixo e assinale V, se verdadeiras, ou F, se falsas. ( ) A principal característica do choque é a hipoperfusão, e não um nível específico de pressão sanguínea arterial sistêmica. ( ) O vasopressor de escolha para início da ressuscitação é a epinefrina. ( ) A antibioticoterapia deve ser iniciada após estabilização do paciente. ( ) Para pacientes com nível sérico de lactato elevado, a terapêutica deve ser direcionada para redução desse marcador. A ordem correta de preenchimento dos parênteses, de cima para baixo, é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "F – V – V – F."
+    },
+    {
+     "letra": "B",
+     "texto": "V – F – F – V."
+    },
+    {
+     "letra": "C",
+     "texto": "V – V – F – F."
+    },
+    {
+     "letra": "D",
+     "texto": "F – F – V – V."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000191312",
+   "codigo": "4000191312",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Choque",
+   "numero": 5,
+   "temas": [
+    "Avaliação inicial do paciente em choque",
+    "Parâmetros hemodinâmicos no choque"
+   ],
+   "enunciado": "Considera-se uidorresponsivo o paciente com uma variação acima de 13% por meio da mensuração da variação da pressão de pulso (VPP). Entretanto, existem inúmeras limitações para essa mensuração. Sendo correto que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Esse método só está validado em pacientes sem ritmo sinusal, nem sob ventilação mecânica, em modos não espontâneos, com volume corrente em 8 ml/Kg de peso predito pela altura."
+    },
+    {
+     "letra": "B",
+     "texto": "Esse método só está validado em pacientes em ritmo sinusal, sob ventilação mecânica, em modos espontâneos, com volume corrente em 8 ml/Kg de peso predito pela altura."
+    },
+    {
+     "letra": "C",
+     "texto": "Esse método só está validado em pacientes em ritmo sinusal, sob ventilação mecânica, em modos não espontâneos, com volume corrente em 8 ml/Kg de peso predito pela altura."
+    },
+    {
+     "letra": "D",
+     "texto": "Esse método só está validado em pacientes em ritmo sinusal, sob ventilação mecânica, em modos não espontâneos, com volume corrente em 20 ml/Kg de peso predito pela altura."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000167945",
+   "codigo": "4000167945",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Choque",
+   "numero": 6,
+   "temas": [
+    "Tratamento do choque séptico",
+    "Choque séptico"
+   ],
+   "enunciado": "A Tabela a seguir, demonstra as características hemodinâmicas dos pacientes em choque séptico. Baseado nisso, assinale V (verdadeiro) e F (falso) sobre o tratamento do choque séptico. [ ] Faça cultura dos líquidos corporais relevantes, incluindo o sangue [ ] Insira cateter venoso central ou de artéria pulmonar [ ] Infunda solução de eletrólitos balanceada de 500ml/15 minutos. [ ] Se após bolus de 500ml de solução salina, o paciente continuar hipotenso e PVC (pressão venosa central) >15 ou a PEAP (pressão encunhada de artéria pulmonar) <15-20 o paciente permaneça hipotenso (PAM <65 mmHg), deve-se iniciar a administração de substância inotrópica - dobutamina ou dopamina. O objetivo é obter pressão arterial >65 mmHg e Pulso > 120 bpm (batimentos por minuto) [ ] Se após a administração de volume e substância inotrópica, a RVS (resistência vascular sistêmica) for >600, deve-se administrar vasopressor – norepinefrina ou vasopressina – para diminuir a RVS",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "V, V, V, V, F"
+    },
+    {
+     "letra": "B",
+     "texto": "V, V, V, F, F"
+    },
+    {
+     "letra": "C",
+     "texto": "V, F, V, F, V"
+    },
+    {
+     "letra": "D",
+     "texto": "V, V, F, F, F"
+    },
+    {
+     "letra": "E",
+     "texto": "V, V, V, F, V"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q006-1.jpg",
+     "antes_das_alternativas": true
+    },
+    {
+     "arquivo": "imagens/q006-2.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000167936",
+   "codigo": "4000167936",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Choque",
+   "numero": 7,
+   "temas": [
+    "Choque"
+   ],
+   "enunciado": "O choque pode ser classificado de acordo com sua etiologia e o padrão hemodinâmico predominante, com estes critérios, relacione a coluna da direita com a da esquerda e procure nas alternativas a sequência correta. I. Hipovolêmico II. Obstrutivo III. Distributivo IV. Cardiogênico [ ] Miocardite [ ] Anafilaxia [ ] Coarctação aórtica [ ] Desidratação",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "III, II, I, IV"
+    },
+    {
+     "letra": "B",
+     "texto": "II, I, IV, III"
+    },
+    {
+     "letra": "C",
+     "texto": "I, IV, III, II"
+    },
+    {
+     "letra": "D",
+     "texto": "IV, III, II, I"
+    },
+    {
+     "letra": "E",
+     "texto": "Nenhuma das alternativas acima está correta"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000167915",
+   "codigo": "4000167915",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Choque",
+   "numero": 8,
+   "temas": [
+    "Tratamento do choque hipovolêmico"
+   ],
+   "enunciado": "Pacientes com diversos tipos de choque chegam rotineiramente nas emergências dos prontos atendimentos e o conhecimento das diferentes causas e suas consequências é fundamental para o tratamento adequado. Assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O choque hipovolêmico pode ser causado por desidratação, perda sanguínea ou diarreia e cursa com diminuição do débito cardíaco e do índice cardíaco."
+    },
+    {
+     "letra": "B",
+     "texto": "O choque cardiogênico pode ser causado por insuficiência coronariana ou arritmias e tem como alterações principais a vasoplegia periférica e o aumento da pré-carga e do débito cardíaco."
+    },
+    {
+     "letra": "C",
+     "texto": "O choque neurogênico é mais frequentemente ocasionado por anestesia geral e cursa com aumento no tônus vasomotor periférico."
+    },
+    {
+     "letra": "D",
+     "texto": "Na fase tardia do choque séptico, os índices cardíacos são hiperdinâmicos e há adequada liberação de oxigênio para a periferia."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000166227",
+   "codigo": "4000166227",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Choque",
+   "numero": 9,
+   "temas": [
+    "Choque"
+   ],
+   "enunciado": "Mulher, 39 anos de idade, com insu ciência renal crônica dialítica, com fração de ejeção do ventrículo esquerdo de 55%, foi submetida à troca valvar mitral por endocardite bacteriana subaguda, sem intercorrências. No pós-operatório imediato, apresenta-se hipotensa e com baixo débito pelo dreno torácico, pressão venosa central e pressão capilar pulmonar normais, índice cardíaco aumentado. Qual é o diagnóstico mais provável e a conduta mais adequada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tamponamento cardíaco; re-exploração cirúrgica."
+    },
+    {
+     "letra": "B",
+     "texto": "Hipovolemia pós-operatória; reposição volêmica."
+    },
+    {
+     "letra": "C",
+     "texto": "Disfunção ventricular; dobutamina."
+    },
+    {
+     "letra": "D",
+     "texto": "Vasoplegia pós-circulação extracorpórea; noradrenalina."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000164838",
+   "codigo": "4000164838",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Choque",
+   "numero": 10,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Sobre as drogas vasoativas, assinale a alternativa abaixo que contém uma droga sem efeitos Inotrópicos.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Adrenalina"
+    },
+    {
+     "letra": "B",
+     "texto": "Vasopressina"
+    },
+    {
+     "letra": "C",
+     "texto": "Dobutamina"
+    },
+    {
+     "letra": "D",
+     "texto": "Dopamina"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163243",
+   "codigo": "4000163243",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Choque",
+   "numero": 11,
+   "temas": [
+    "Choque hipovolêmico",
+    "Parâmetros hemodinâmicos no choque"
+   ],
+   "enunciado": "Paciente em pós-operatório imediato de esplenectomia, por trauma abdominal fechado, é admitido no CTI. Após 12 horas, evolui instável hemodinamicamente com pressão arterial de 80/60 mmHg e frequência cardíaca de 130 bpm. Apresenta nível de hemoglobina de 12,8 g/dL e não há sinais de sangramento no dreno abdominal. Acerca da ressuscitação hemodinâmica, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A estabilidade hemodinâmica deverá ser atingida através do uso de vasopressores, preferencialmente a noradrenalina."
+    },
+    {
+     "letra": "B",
+     "texto": "A ultrassonografia da veia cava pode auxiliar a reposição volêmica caso apresente colabamento acima de 50% durante a respiração."
+    },
+    {
+     "letra": "C",
+     "texto": "Deverá ser realizada expansão volêmica com base apenas na pressão venosa central."
+    },
+    {
+     "letra": "D",
+     "texto": "O paciente certamente apresenta coagulopatia secundária a sangramento, que deverá ser corrigida com transfusão na proporção de 1:1:1."
+    },
+    {
+     "letra": "E",
+     "texto": "Trata-se de sangramento oculto não diagnosticado, e a equipe cirúrgica deve ser imediatamente comunicada para reabordagem."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000174331",
+   "codigo": "4000174331",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Choque",
+   "numero": 12,
+   "temas": [
+    "Choque Distributivo",
+    "Etiologia do Choque",
+    "Tratamento do choque distributivo"
+   ],
+   "enunciado": "Uma paciente com história de alergia a camarão é submetida a uma tomogra a com contraste para investigação de uma massa anexial à esquerda. Logo no início do exame a paciente ca agitada e reclama de falta de ar. Ao exame físico a paciente apresentava intenso rash cutâneo, edema palpebral e labial, frequência cardíaca de 130 bpm e pressão arterial de 80 x 45 mmHg. À monitoração hemodinâmica, qual dos seguintes padrões você esperaria encontrar?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Choque obstrutivo: débito cardíaco baixo e resistência vascular periférica alta."
+    },
+    {
+     "letra": "B",
+     "texto": "Choque cardiogênico: débito cardíaco baixo e resistência vascular periférica alta."
+    },
+    {
+     "letra": "C",
+     "texto": "Choque hipovolêmico: débito cardíaco baixo e resistência vascular periférica alta."
+    },
+    {
+     "letra": "D",
+     "texto": "Choque distributivo: débito cardíaco alto e resistência vascular periférica baixa."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000173902",
+   "codigo": "4000173902",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Choque",
+   "numero": 13,
+   "temas": [
+    "Vasopressores",
+    "Tratamento"
+   ],
+   "enunciado": "Em relação às drogas vasoativas, frequentemente utilizadas em terapia intensiva, podemos afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A dopamina, precursora natural da noradrenalina e da adrenalina na via de síntese das catecolaminas, tem efeito inotrópico negativo e cronotrópico e dromotrópico positivos."
+    },
+    {
+     "letra": "B",
+     "texto": "O efeito dopaminérgico da dopamina é indicado para a nefroproteção nos pacientes com lesão renal aguda, se utilizado nas doses baixas (1"
+    },
+    {
+     "letra": "C",
+     "texto": "A adrenalina é um fármaco com afinidade para se ligar aos receptores"
+    },
+    {
+     "letra": "D",
+     "texto": "A vasopressina, ao se ligar aos recetores V1, causa vasoconstrição pela contração do músculo liso vascular, e pela ligação aos recetores V2 promove a reabsorção de água ao nível do sistema excretor renal."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000171829",
+   "codigo": "4000171829",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Choque",
+   "numero": 14,
+   "temas": [
+    "Tratamento do choque distributivo"
+   ],
+   "enunciado": "Homem de 23 anos é levado ao Pronto-Socorro com a queixa de dispneia e chieira torácica iniciados subitamente 10 minutos antes, logo após tomar 1 comprimido de dipirona para dor de cabeça. Desconhece doenças prévias ou alergias medicamentosas. Ao exame físico, PA: 120x78mmHg, FC: 102bpm, FR: 26ipm, SpO2 93% (em ar ambiente). A pele apresenta placas eritematosas pruriginosas nos membros. Há edema na pálpebra superior esquerda. O exame respiratório revela taquipneia, uso de musculatura acessória da respiração e sibilos expiratórios difusamente. O restante do exame físico não apresenta anormalidades. Após receber 3 doses do tratamento inicial, houve melhora respiratória, entretanto, o paciente apresentou confusão mental. Os dados vitais eram: PA: 70x46mmHg, FC: 120bpm, FR: 21ipm, SpO₂ 97% (em ar ambiente). Assinale a alternativa que NÃO apresenta uma conduta terapêutica indicada nesse momento.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Elevação dos membros inferiores."
+    },
+    {
+     "letra": "B",
+     "texto": "Epinefrina intravenosa em infusão contínua."
+    },
+    {
+     "letra": "C",
+     "texto": "Infusão de cristaloides pela via intravenosa."
+    },
+    {
+     "letra": "D",
+     "texto": "Vasopressina intravenosa em infusão contínua."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000145006",
+   "codigo": "4000145006",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Choque",
+   "numero": 15,
+   "temas": [
+    "Classif icação do Choque",
+    "Tratamento do choque distributivo"
+   ],
+   "enunciado": "Podemos definir como choque um estado de hipoperfusão tecidual. Dentre os parâmetros hemodinâmicos abaixo relacionados, qual das alternativas abaixo é CORRETA?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Choque cardiogênico: resistência vascular sistêmica baixa e índice cardíaco baixo"
+    },
+    {
+     "letra": "B",
+     "texto": "Choque hipovolêmico: pressão venosa central baixa, pressão de oclusão capilar alta"
+    },
+    {
+     "letra": "C",
+     "texto": "Choque distributivo: pressões de enchimento dependem do \"\"status volêmico\"\" do paciente, resistência vascular sistêmica baixa"
+    },
+    {
+     "letra": "D",
+     "texto": "Choque obstrutivo: Índice cardíaco normal e pressão de oclusão capilar baixa"
+    },
+    {
+     "letra": "E",
+     "texto": "Nenhuma das alternativas anteriores."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000144707",
+   "codigo": "4000144707",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Choque",
+   "numero": 16,
+   "temas": [
+    "Choque"
+   ],
+   "enunciado": "Mulher, 68 anos de idade, foi admitida no PS com PA = 80/30 mmHg, FC = 120 bpm, FR = 30 ipm, SpO₂; = 88%, temperatura = 39º C e tempo de enchimento capilar (TEC) = 4 s. Qual das medidas abaixo é a mais adequada para reduzir a VO2 do paciente.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ringer lactato 30 ml/kg IV."
+    },
+    {
+     "letra": "B",
+     "texto": "Iniciar noradrenalina precoce."
+    },
+    {
+     "letra": "C",
+     "texto": "Dipirona 1g IV."
+    },
+    {
+     "letra": "D",
+     "texto": "Iniciar dobutamina."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000144517",
+   "codigo": "4000144517",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Choque",
+   "numero": 17,
+   "temas": [
+    "Fisiopatologia do Choque",
+    "Manif estações clínicas"
+   ],
+   "enunciado": "O sinal clínico mais precoce do choque hipovolêmico é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Rebaixamento do nível de consciência."
+    },
+    {
+     "letra": "B",
+     "texto": "Palidez cutâneo-mucosa."
+    },
+    {
+     "letra": "C",
+     "texto": "Falha do preenchimento capilar."
+    },
+    {
+     "letra": "D",
+     "texto": "Taquicardia."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000143182",
+   "codigo": "4000143182",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Choque",
+   "numero": 18,
+   "temas": [
+    "Choque séptico",
+    "Fisiopatologia do Choque"
+   ],
+   "enunciado": "O manuseio farmacológico do choque circulatório é baseado em inúmeros aspectos, tendo como pilares a utilização de uidos e drogas com ação vasopressora e inotrópica. Considerando as particularidades desses fármacos, assinale a alternativa",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A noradrenalina possui ação alfa e beta-adrenérgica, possuindo ação vasopressora e inotrópica positiva."
+    },
+    {
+     "letra": "B",
+     "texto": "A dobutamina é uma droga beta-adrenérgica, possuindo efeitos cronotrópicos e inotrópicos positivos."
+    },
+    {
+     "letra": "C",
+     "texto": "O Levosimedan é uma droga inotrópica que atua com base na sensibilização dos canais de cálcio."
+    },
+    {
+     "letra": "D",
+     "texto": "O milrinone atua na inibição da fosfotidil-esterase, levando a efeitos inotrópicos positivos."
+    },
+    {
+     "letra": "E",
+     "texto": "A dopamina possui ação beta e alfa-adrenérgica linear e constante, independente da dose."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000142745",
+   "codigo": "4000142745",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Choque",
+   "numero": 19,
+   "temas": [
+    "Choque"
+   ],
+   "enunciado": "Choque é definido como falência circulatória aguda, uma situação na qual a circulação é incapaz de ofertar oxigênio su ciente para a demanda metabólica tecidual. Em relação aos tipos de choque, julgue os itens que seguem em V (verdadeiro) ou F (falso), e assinale a alternativa que apresenta a sequência CORRETA. ( ) Choque distributivo a uma consequente hipovolemia relativa. É o único tipo de choque com débito cardíaco aumentado. Além do choque séptico, outras etiologias podem causar choque distributivo, como pancreatite, ana laxia, grandes queimados, politrauma, choque neurogênico e pós-operatório de cirurgias de grande porte. ( ) vasoconstrição, diminuição de retorno venoso e consequente comprometimento de débito cardíaco. Pode ser hemorrágico: quando há perda de sangue (p. ex., hemorragia digestiva, lesões vasculares, hemorragias obstétricas, etc.); ou não hemorrágico: diarreia, vômitos, desidratação. Seu manejo demanda correção da hipovolemia e abordagem da causa. ( ) Choque cardiogênico cardíaco, com consequente aumento das pressões de enchimento cardíacas e aumento de resistência periférica. A etiologia mais comum é o IAM. Outras causas são insu ciência cardíaca crônica descompensada, arritmias, miocardiopatias e valvopatias.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "V, V, V."
+    },
+    {
+     "letra": "B",
+     "texto": "V, F, F."
+    },
+    {
+     "letra": "C",
+     "texto": "F, F, V."
+    },
+    {
+     "letra": "D",
+     "texto": "V, F, V."
+    },
+    {
+     "letra": "E",
+     "texto": "F, V, V."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000141123",
+   "codigo": "4000141123",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Choque",
+   "numero": 20,
+   "temas": [
+    "Tratamento do choque séptico",
+    "Choque séptico"
+   ],
+   "enunciado": "Mulher, 62a, procura atendimento com disúria há uma semana e febre há três dias. Antecedente pessoal: diabete melito. Exame físico: FC= 108 bpm, FR= 24 irpm, PA= 72x50 mmHg, T= 37,2°C, oximetria de pulso (ar ambiente)= 95%; corada, desidratada ++/4+, pulsos regulares e simétricos; ausculta cardiopulmonar sem alterações; abdome normotenso, demonstra desconforto à palpação profunda de anco esquerdo, sem sinais de peritonite; neurológico: sonolenta, responde a estímulos verbais, sem dé cits neurológicos focais. Glicemia capilar= 128 mg/dL. Solicitada a dosagem de lactato sérico e a coleta de duas hemoculturas por sítios diferentes de punção. Prescritas ceftriaxona intravenosa e expansão volêmica com solução salina isotônica (30ml/kg= 2.100ml). Após a infusão de 800 ml em 40 minutos, apresenta melhora da sonolência e FC= 94 bpm, FR= 22 irpm, PA= 80x52 mmHg. A CONDUTA EM RELAÇÃO AO MANEJO HEMODINÂMICO É:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Prescrever hidrocortisona."
+    },
+    {
+     "letra": "B",
+     "texto": "Manter apenas a infusão de soro fisiológico."
+    },
+    {
+     "letra": "C",
+     "texto": "Prescrever dobutamina e suspender a expansão volêmica."
+    },
+    {
+     "letra": "D",
+     "texto": "Prescrever noradrenalina e manter a expansão volêmica."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000114163",
+   "codigo": "4000114163",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Choque",
+   "numero": 21,
+   "temas": [
+    "Cirurgia",
+    "Manif estações clínicas"
+   ],
+   "enunciado": "Um paciente tem pressão arterial de 70/50 mmHg e lactato sérico de 30 mg/100 mL (normal: 6-16). O débito cardíaco é de 1,9 L/min e a pressão venosa central é de 2 cm H2O. O diagnóstico mais provável é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Insuficiência cardíaca congestiva."
+    },
+    {
+     "letra": "B",
+     "texto": "Tamponamento cardíaco."
+    },
+    {
+     "letra": "C",
+     "texto": "Choque hipovolêmico."
+    },
+    {
+     "letra": "D",
+     "texto": "Choque séptico."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000076980",
+   "codigo": "4000076980",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Choque",
+   "numero": 22,
+   "temas": [
+    "Avaliação inicial do paciente em choque",
+    "Pneumotórax Hipertensivo"
+   ],
+   "enunciado": "Em caso de choque obstrutivo, em que o exame físico apresente dispneia, diminuição ou ausência de sons no hemitórax e hipertimpanismo local, o diagnóstico mais adequado é de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "pneumotórax hipertensivo"
+    },
+    {
+     "letra": "B",
+     "texto": "hematoma de cava"
+    },
+    {
+     "letra": "C",
+     "texto": "derrame pericárdio"
+    },
+    {
+     "letra": "D",
+     "texto": "hemotórax"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000041820",
+   "codigo": "4000041820",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Choque",
+   "numero": 23,
+   "temas": [
+    "Parâmetros hemodinâmicos no choque",
+    "Monitorização do paciente com IC aguda"
+   ],
+   "enunciado": "Um dos parâmetros que auxilia a monitoração do estado de choque é a aferição da pressão venosa central, que deve ser aferida com o:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Posicionamento de cateter venoso central no átrio esquerdo."
+    },
+    {
+     "letra": "B",
+     "texto": "Posicionamento de cateter de marcapasso periférico."
+    },
+    {
+     "letra": "C",
+     "texto": "Posicionamento de cateter venoso central na veia cava superior."
+    },
+    {
+     "letra": "D",
+     "texto": "Posicionamento de transdutor intraesofágico próximo a área cardíaca."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000073904",
+   "codigo": "4000073904",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Choque",
+   "numero": 24,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Sobre o tratamento do choque, NÃO se pode afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Soluções eletrolíticas balanceadas são as preferidas como líquido de reanimação para os pacientes em choque."
+    },
+    {
+     "letra": "B",
+     "texto": "Em pacientes com hemoglobina equivalente a 7g/dl ou menos a transfusão de hemácias está indicada."
+    },
+    {
+     "letra": "C",
+     "texto": "Substâncias vasoativas estão sempre indicadas em pacientes em choque."
+    },
+    {
+     "letra": "D",
+     "texto": "Existem 4 categorias de substâncias hemodinamicamente ativas: agentes inotrópicos; substâncias inotrópicas e vasoconstritoras; agentes vasoconstritores e agentes vasodilatadores."
+    },
+    {
+     "letra": "E",
+     "texto": "São exemplos de agentes inotrópicos: dopamina, dobutamina e epinefrina."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000072598",
+   "codigo": "4000072598",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Choque",
+   "numero": 25,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "\"Os fármacos desempenham função vital no tratamento dos pacientes em choque\". (Sabiston, 18ª edição). Sobre essa afirmativa, assinale a alternativa INCORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tanto a epinefrina quanto a dobutamina aumentam a contratilidade cardíaca por meio de mecanismos beta- adrenérgicos."
+    },
+    {
+     "letra": "B",
+     "texto": "A dopamina funciona como agente intrópico dependendo da dose infundida."
+    },
+    {
+     "letra": "C",
+     "texto": "A dopamina e epinefrina, em doses maiores, não apresentam combinação de efeito inotrópico e vasoconstritivo arteriolar por se ligarem a agentes alfa-adrenérgicos."
+    },
+    {
+     "letra": "D",
+     "texto": "A norepinefrina apresenta efeito alfa-adrenérgico poderoso."
+    },
+    {
+     "letra": "E",
+     "texto": "São substâncias usadas apenas para vasoconstrição: fenilefrina e vasopressina."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000071121",
+   "codigo": "4000071121",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Choque",
+   "numero": 26,
+   "temas": [
+    "Fisiopatologia do Choque"
+   ],
+   "enunciado": "A resposta hemodinâmica no choque hipovolêmico levando-se em conta os valores normais de Pressão de Oclusão da Artéria Pulmonar (POAP), Débito Cardíaco (DC) e Resistência Vascular Sistêmica (RVS), caracteriza-se por:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "POAP baixo, DC baixo e RVS elevado."
+    },
+    {
+     "letra": "B",
+     "texto": "POAP baixo, DC elevado e RVS baixo."
+    },
+    {
+     "letra": "C",
+     "texto": "POAP elevado, DC baixo e RVS elevado."
+    },
+    {
+     "letra": "D",
+     "texto": "POAP elevado, DC baixo e RVS baixo."
+    },
+    {
+     "letra": "E",
+     "texto": "POAP baixo, DC elevado e RVS elevado."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000041313",
+   "codigo": "4000041313",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Choque",
+   "numero": 27,
+   "temas": [
+    "Tratamento do choque séptico"
+   ],
+   "enunciado": "Paciente apresenta-se com febre, dor abdominal, icterícia, pressão arterial sistólica = 90 mmHg, frequência respiratória = 24 e rebaixamento do sensório (Glasgow 13). Após infusão de cristaloides 50 mL/Kg o paciente permanece com pressão arterial média= 60 mmHg e a dosagem de lactato = 40 mg/dL. A saturação venosa central é de 80% e a hemoglobina é de 9,5 g/dL. Nesta situação a conduta, adequada é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Infusão de vasopressina."
+    },
+    {
+     "letra": "B",
+     "texto": "Infusão de noradrenalina."
+    },
+    {
+     "letra": "C",
+     "texto": "Infusão de dobutamina."
+    },
+    {
+     "letra": "D",
+     "texto": "Infusão de coloides."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000016342",
+   "codigo": "4000016342",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Choque",
+   "numero": 28,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Em relação à noradrenalina, é CORRETO afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "É droga de primeira escolha nas bradiarritimias."
+    },
+    {
+     "letra": "B",
+     "texto": "É considerado um fármaco principalmente inotrópico."
+    },
+    {
+     "letra": "C",
+     "texto": "Tem como efeito colateral bradicardia."
+    },
+    {
+     "letra": "D",
+     "texto": "Atual no receptor alfa-1 levando a vasoconstrição."
+    },
+    {
+     "letra": "E",
+     "texto": "Alternativa A e D estão corretas."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000101181",
+   "codigo": "4000101181",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Choque",
+   "numero": 29,
+   "temas": [
+    "Tratamento do choque séptico"
+   ],
+   "enunciado": "Paciente idoso, portador de Pneumonia Lobar Bilateral, evoluindo com instabilidade hemodinâmica, com Índice Cardíaco (IC) 4L/min/m2 , Índice de Resistência Vascular Sistêmica (IRVS) 400dyn/s/cm2 e Pressão de Enchimento Ventricular normal. Foi iniciado infusão de Noradrenalina (NORA), com rápida melhora da Pressão Arterial Sistêmica. Das alternativas a seguir, qual a que melhor expressa os efeitos benéficos da NORA?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A NORA aumenta o IRVS e o IC, diminui o Ritmo de Filtração Glomerular (RFG) e causa vasodilatação coronariana."
+    },
+    {
+     "letra": "B",
+     "texto": "A NORA aumenta o IRVS, o IC permanece inalterado ou diminui, geralmente mantém o RFG e causa vasodilatação coronariana."
+    },
+    {
+     "letra": "C",
+     "texto": "A NORA diminui o IRVS, aumenta o IC, diminui o RFG e causa severa vasoconstricção coronariana."
+    },
+    {
+     "letra": "D",
+     "texto": "A NORA aumenta o IRVS, o IC permanece inalterado ou diminui, geralmente mantém o RFG e causa vasoconstricção coronariana."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000070546",
+   "codigo": "4000070546",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Choque",
+   "numero": 30,
+   "temas": [
+    "Parâmetros hemodinâmicos no choque"
+   ],
+   "enunciado": "Choque é caracterizado pelo desequilíbrio entre a oferta e o consumo de oxigênio. Com relação aos estados de choque no departamento de emergência assinale a alternativa correta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O choque pode ocorrer na presença de pressão arterial sistólica (PAS) > 90 mmHg."
+    },
+    {
+     "letra": "B",
+     "texto": "Dos tipos de choque (hipovolêmico, distributivo, cardiogênico e obstrutivo) o obstrutivo é o mais frequente."
+    },
+    {
+     "letra": "C",
+     "texto": "O débito urinário não é bom parâmetro de perfusão tecidual adequada."
+    },
+    {
+     "letra": "D",
+     "texto": "A ativação da resposta inflamatória, com consequente piora da hipoperfusão ocorre apenas no choque séptico."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000001412",
+   "codigo": "4000001412",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Choque",
+   "numero": 31,
+   "temas": [
+    "Parâmetros hemodinâmicos no choque",
+    "Monitorização minimamente invasiva"
+   ],
+   "enunciado": "Parâmetros que devemos analisar na monitorização Assinale a alternativa que representa o débito cardíaco.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Força exercida no miocárdio no final da diástole."
+    },
+    {
+     "letra": "B",
+     "texto": "Produto do volume sistólico pela frequência cardíaca."
+    },
+    {
+     "letra": "C",
+     "texto": "Mede a pós carga ou a resistência do ventrículo esquerdo."
+    },
+    {
+     "letra": "D",
+     "texto": "Pressão exercida pelo sangue contra a parede das artérias."
+    },
+    {
+     "letra": "E",
+     "texto": "Resistência, impedância ou pressão que os ventrículos têm que exercer para ejetar seu volume sanguíneo."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000127438",
+   "codigo": "4000127438",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Choque",
+   "numero": 32,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Considere as afirmativas a seguir, relacionadas ao tratamento das fases iniciais do choque: I. Em geral a ressuscitação volêmica é iniciada para todos os pacientes com 1 a 1,5 litros de solução de ringer com lactato e volumes adicionais são realizados com solução fisiológica (NaCl a 0.9%).; II. A dobutamina é uma catecolamina sintética utilizada como primeira opção para pacientes em choque.; III. A noradrenalina por causar vasoconstricção renal e diminuição da ltração glomerular não é recomendada como primeira opção para pacientes que permanecem hipotensos após reposição volêmica.; IV. O uso de dopamina se associa a maior incidência de taquiarritmias e maior mortalidade quando comparada com a noradrenalina, não sendo mais a primeira opção para restauração rápida da PAM.; V. A vasopressina pode ser indicada no choque séptico, nos pacientes que persistem hipotensos com doses moderadas de noradrenalina e iniciaram a hidrocortisona. A alternativa que contém todas as afirmativas CORRETAS é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I e II."
+    },
+    {
+     "letra": "B",
+     "texto": "I e IV."
+    },
+    {
+     "letra": "C",
+     "texto": "II e V."
+    },
+    {
+     "letra": "D",
+     "texto": "III e V."
+    },
+    {
+     "letra": "E",
+     "texto": "IV e V."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000091348",
+   "codigo": "4000091348",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Choque",
+   "numero": 33,
+   "temas": [
+    "Parâmetros hemodinâmicos no choque"
+   ],
+   "enunciado": "Constituem alterações hemodinâmicas frequentes no choque cardiogênico:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Pressão venosa central alta e frequência cardíaca elevada."
+    },
+    {
+     "letra": "B",
+     "texto": "Pressão arterial sistêmica normal e resistência pulmonar diminuída."
+    },
+    {
+     "letra": "C",
+     "texto": "Pressão capilar pulmonar baixa e volume sistólico aumentado."
+    },
+    {
+     "letra": "D",
+     "texto": "Resistência sistêmica normal e débito cardíaco reduzido."
+    },
+    {
+     "letra": "E",
+     "texto": "Débito cardíaco normal e resistência periférica normal."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000069695",
+   "codigo": "4000069695",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Choque",
+   "numero": 34,
+   "temas": [
+    "Fisiopatologia do Choque"
+   ],
+   "enunciado": "Paciente de 56 anos, masculino, tabagista, comparece ao hospital devido a quadro de adinamia associado a tosse produtiva há 03 dias. Ao exame encontra-se sonolento, desidratado, normocorado, acianótico, taquidispneico em ar ambiente. Sinais vitais: PA: 70 x 50 mmHg; FC: 135 bpm; FR: 28 irpm; SatO2 90%; Tax 38,5° C. Ausculta pulmonar com estertores crepitantes em base esquerda e sibilos difusos. Exame cardiovascular com ritmo cardíaco regular, bulhas normofonéticas e palidez cutânea das extremidades. Foi instalado um cateter de monitorização hemodinâmica invasiva (swan-ganz) para melhor avaliação e acompanhamento do quadro. Quais são os parâmetros observados? (RVS - Resistência Vascular Periférica; DO2 - consumo de O2, PVC - Pressão Venosa Central, IC - Índice Cardíaco).",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "RVS normal, DO2 aumentado, PVC reduzida, IC diminuído."
+    },
+    {
+     "letra": "B",
+     "texto": "RVS diminuída, DO2 aumentado, PVC reduzida, IC aumentado."
+    },
+    {
+     "letra": "C",
+     "texto": "RVS alta, DO2 diminuído, PVC normal, IC aumentado."
+    },
+    {
+     "letra": "D",
+     "texto": "RVS alta, DO2 aumentado, PVC reduzida, IC aumentado."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000060248",
+   "codigo": "4000060248",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Choque",
+   "numero": 35,
+   "temas": [
+    "Choque"
+   ],
+   "enunciado": "Em relação aos tipos de choque, assinale a alternativa CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "no choque hipovolêmico há aumento da pré-carga e redução do débito cardiaco"
+    },
+    {
+     "letra": "B",
+     "texto": "os estados de choque podem ser classificados em hipovolêmico, distributivo, séptico e obstrutivo"
+    },
+    {
+     "letra": "C",
+     "texto": "São causas comuns de choque obstrutivo tamponamento cardiaco, infarto agudo do miocárdio, tromboembolismo pulmonar e pneumotórax hipertensivo"
+    },
+    {
+     "letra": "D",
+     "texto": "no choque séptico existe a possibilidade de o débito cardíaco estar reduzido"
+    },
+    {
+     "letra": "E",
+     "texto": "no choque relacionado à infarto agudo do miocárdio com comprometimento importante da função ventricular esquerda, a droga de escolha para aumentar o inotropismo cardiaco é a dopamina"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000032288",
+   "codigo": "4000032288",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Choque",
+   "numero": 36,
+   "temas": [
+    "Classif icação do Choque",
+    "Choque séptico"
+   ],
+   "enunciado": "Choque circulatório é definido como uma condição clínica na qual o sistema circulatório não é capaz de fornecer oxigênio aos tecidos. Do ponto de vista fisiopatológico, o choque séptico é classificado como do tipo:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipovolêmico."
+    },
+    {
+     "letra": "B",
+     "texto": "Distributivo."
+    },
+    {
+     "letra": "C",
+     "texto": "Obstrutivo."
+    },
+    {
+     "letra": "D",
+     "texto": "Hipoxêmico."
+    },
+    {
+     "letra": "E",
+     "texto": "Cardiogênico."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000097237",
+   "codigo": "4000097237",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Choque",
+   "numero": 37,
+   "temas": [
+    "Etiologia do Choque",
+    "Fisiopatologia do Choque"
+   ],
+   "enunciado": "Homem, 42a, procura pronto atendimento com queixa de cansaço há 1 dia, acompanhado de tosse seca e dor em hemitórax esquerdo. Evoluiu com piora nas últimas 2 horas com intensa falta de ar. Antecedentes pessoais: artroscopia do joelho direito há 7 dias. Exame físico: mau estado geral, cianótico, dispneico, com batimento de asas do nariz, sudorese fria profusa; PA = 82 x 44 mmHg; FC = 136 bpm; FR = 32 irpm; T = 37,4°C; oximetria de pulso = 85% (ar ambiente); coração: bulhas normofonéticas, taquicárdicas, sem sopros; pulmões: murmúrio vesicular presente, simétrico, com estertores crepitantes em base direita. Radiograma do tórax: proeminência dos hilos pulmonares. Na siopatogenia do tipo de choque apresentado, estão envolvidos os fatores:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Elevação da pós-carga do ventrículo direito secundária à extensão da área arterial comprometida e reatividade vascular pulmonar aos mediadores liberados."
+    },
+    {
+     "letra": "B",
+     "texto": "Elevação da pré-carga do ventrículo esquerdo e vasoconstrição sistêmica secundária à ativação dos receptores alfa."
+    },
+    {
+     "letra": "C",
+     "texto": "Queda da resistência vascular sistêmica e elevação do débito cardíaco pela liberação de mediadores inflamatórios."
+    },
+    {
+     "letra": "D",
+     "texto": "Vasoconstrição pulmonar por ativação dos receptores beta-agonistas e vasodilatação sistêmica por liberação de citocinas."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000074641",
+   "codigo": "4000074641",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Choque",
+   "numero": 38,
+   "temas": [
+    "Fisiopatologia do Choque"
+   ],
+   "enunciado": "Para reverter um quadro de choque, deve-se assegurar a adequada perfusão dos tecidos. Assinale, dentre as alternativas a seguir, a que relaciona os fatores que determinam essa perfusão:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Teor de CO2 no sangue, a função pulmonar e o tônus da vasculatura."
+    },
+    {
+     "letra": "B",
+     "texto": "Teor de bicarbonato no sangue, a função de bombeamento do coração e a resistência vascular periférica."
+    },
+    {
+     "letra": "C",
+     "texto": "O pH sanguíneo, a concentração de hemoglobina no sangue e a pressão parcial de O2."
+    },
+    {
+     "letra": "D",
+     "texto": "Saturação de O2 no sangue, o débito cardíaco e a perfusão pulmonar."
+    },
+    {
+     "letra": "E",
+     "texto": "Teor de O2 no sangue, a função de bombeamento do coração e o tônus da vasculatura."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000058810",
+   "codigo": "4000058810",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Choque",
+   "numero": 39,
+   "temas": [
+    "Tratamento do choque hipovolêmico"
+   ],
+   "enunciado": "Assinale a alternativa que apresenta a conduta mais apropriada para o atendimento inicial de um paciente com diagnóstico de choque hipovolêmico na sala de emergência:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A reposição volêmica inicial deve ser feita por meio de acessos venosos periféricos calibrosos, com soluções cristaloides."
+    },
+    {
+     "letra": "B",
+     "texto": "Deve ser puncionada veia central para infusão de hemoderivados."
+    },
+    {
+     "letra": "C",
+     "texto": "Se hemorragia grave estiver presente considerar precocemente a transfusão de plasma, concentrado de hemácias e concentrado de plaquetas, sempre associados a coloides."
+    },
+    {
+     "letra": "D",
+     "texto": "Iniciar ressuscitação volêmica agressiva com cristaloide, albumina e norepinefrina."
+    },
+    {
+     "letra": "E",
+     "texto": "Se os sinais de hipoperfusão persistirem apesar da reposição volêmica, considerar a utilização de corticoide e inotrópico."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000099356",
+   "codigo": "4000099356",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Choque",
+   "numero": 40,
+   "temas": [
+    "Classif icação do Choque"
+   ],
+   "enunciado": "O choque é classificado em:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "choque cardiogênico, hipovolêmico, séptico e obstrutivo."
+    },
+    {
+     "letra": "B",
+     "texto": "choque cardiogênico, hipovolêmico, distributivo e séptico."
+    },
+    {
+     "letra": "C",
+     "texto": "choque séptico, hipovolêmico, distributivo e obstrutivo."
+    },
+    {
+     "letra": "D",
+     "texto": "choque cardiogênico, hipovolêmico, distributivo e obstrutivo."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000069906",
+   "codigo": "4000069906",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Choque",
+   "numero": 41,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Marque a alternativa que melhor correlaciona os seguintes agentes vasopressores com a ação sobre o sistema cardiovascular: 1. Dobutamina 2. Dopamina em baixas doses (2-4 µg/kg/min) 3. Norepinefrina 4. Fenilefrina. a) Age somente nos receptores alfa- adrenérgico, causando vasoconstrição b) Age nos receptores beta-1-adrenégicos e dopaminérgicos, aumentando a contratilidade e frequência cardíacas, também provoca vasodilatação e aumento na circulação esplênica e renal c) Age nos receptores beta-1 e, numa menor proporção, nos beta-2-adrenérgicos, aumentando a contratilidade e frequência cardíacas, e provocando vasodilatação d) Age nos receptores alfa e beta-1- adrenérgicos, aumentando a frequência e contratilidade cardíacas, e provoca vasoconstrição.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1-a, 2-b, 3-c, 4-d."
+    },
+    {
+     "letra": "B",
+     "texto": "4-a, 3-b, 2-c, 1-d."
+    },
+    {
+     "letra": "C",
+     "texto": "2-a, 1-b, 3-c, 4-d."
+    },
+    {
+     "letra": "D",
+     "texto": "4-a, 2-b. 1-c, 3-d."
+    },
+    {
+     "letra": "E",
+     "texto": "3-a, 2-b, 1- c, 4-d."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000064945",
+   "codigo": "4000064945",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Choque",
+   "numero": 42,
+   "temas": [
+    "Classif icação do Choque",
+    "Etiologia do Choque",
+    "Manif estações clínicas"
+   ],
+   "enunciado": "O choque que causa um profundo decréscimo na resistência vascular periférica é o:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Oliguêmico"
+    },
+    {
+     "letra": "B",
+     "texto": "Distributivo"
+    },
+    {
+     "letra": "C",
+     "texto": "Cardiogênico"
+    },
+    {
+     "letra": "D",
+     "texto": "Obstrutivo extracardíaco"
+    },
+    {
+     "letra": "E",
+     "texto": "Hipovolêmico"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000063547",
+   "codigo": "4000063547",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Choque",
+   "numero": 43,
+   "temas": [
+    "Classif icação do Choque",
+    "Manif estações clínicas"
+   ],
+   "enunciado": "Choque hipovolêmico pode ser definido como uma síndrome caracterizada:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Pela diminuição do débito cardíaco decorrente da redução do volume sanguíneo."
+    },
+    {
+     "letra": "B",
+     "texto": "Pelo aumento do débito cardíaco decorrente do aumento do volume sanguíneo."
+    },
+    {
+     "letra": "C",
+     "texto": "Pela diminuição do débito cardíaco decorrente do aumento do volume sanguíneo."
+    },
+    {
+     "letra": "D",
+     "texto": "Pelo aumento do débito cardíaco decorrente da diminuição do volume sanguíneo."
+    },
+    {
+     "letra": "E",
+     "texto": "Pelo aumento do retorno venoso decorrente do aumento do volume sanguíneo."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000049639",
+   "codigo": "4000049639",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Choque",
+   "numero": 44,
+   "temas": [
+    "Tratamento do choque séptico"
+   ],
+   "enunciado": "Mulher de 63 anos, com tosse, expectoração amarelada, febre e falta de ar há 2 dias. Exame físico: PA = 62 x 40 mmHg; FC = 102 bpm; FR = 32 irpm; T = 38,6ºC; diminuição da contactação, ausculta pulmonar com crepitações grossas em 1/3 inferior D e roncos difusos. Realizada reposição volêmica inicial de 30 ml/kg, sem aumento da PA. Após a passagem de cateter venoso central, a medida da PVC foi de 11 cmH2O. A próxima conduta é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Iniciar noradrenalina."
+    },
+    {
+     "letra": "B",
+     "texto": "Iniciar dopamina."
+    },
+    {
+     "letra": "C",
+     "texto": "Iniciar dobutamina."
+    },
+    {
+     "letra": "D",
+     "texto": "Reposição volêmica com cristaloide."
+    },
+    {
+     "letra": "E",
+     "texto": "Mensurar saturação venosa central."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000089944",
+   "codigo": "4000089944",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Choque",
+   "numero": 45,
+   "temas": [
+    "Parâmetros hemodinâmicos no choque"
+   ],
+   "enunciado": "São critérios para o diagnóstico hemodinâmico de CHOQUE CARDIOGÊNICO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "PAS < 100 mmHg; índice cardíaco < 1,0L/min/m²; Frequência Cardíaca (FC) > 90 bpm."
+    },
+    {
+     "letra": "B",
+     "texto": "Pressão Arterial Sistólica (PAS) < 90 mmHg ou 30 mmHg menor que a basal; índice cardíaco < 2,2 L/mim/m²; pressão de oclusão de artéria pulmonar > 18 mmHg."
+    },
+    {
+     "letra": "C",
+     "texto": "Pressão Arterial Diastólica (PAD) < 50 mmHg; índice cardíaco < 10,0 L/min/m²; frequência cardíaca > 100 bpm."
+    },
+    {
+     "letra": "D",
+     "texto": "Diferença arteriovenosa de O2 < 5,5 ml/dl; PAS < 120 mmHg; PAD < 80 mmHg; FC > 100 bpm."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000063888",
+   "codigo": "4000063888",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Choque",
+   "numero": 46,
+   "temas": [
+    "Parâmetros hemodinâmicos no choque",
+    "Tratamento"
+   ],
+   "enunciado": "Em relação aos quadros de choque, assinale a opção correta. Respostas: 1 12 23 34 45",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A maioria dos pacientes apresenta tendência a bradipneia e acidose respiratória nas fases iniciais"
+    },
+    {
+     "letra": "B",
+     "texto": "A dosagem elevada de lactato se associa à melhora da perfusão tecidual"
+    },
+    {
+     "letra": "C",
+     "texto": "Sempre se usam infusões de dopamina para melhorar a perfusão renal"
+    },
+    {
+     "letra": "D",
+     "texto": "A presença de embotamento do sensório é um sinal precoce de perda volêmica inferior a 20%"
+    },
+    {
+     "letra": "E",
+     "texto": "A restauração volêmica com soluções cristaloides faz parte das medidas terapêuticas iniciais"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": []
+}

@@ -1,0 +1,571 @@
+{
+ "questoes": [
+  {
+   "id": "4000073252",
+   "codigo": "4000073252",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndrome Pré Menstrual",
+   "numero": 1,
+   "temas": [
+    "Síndrome prémenstrual"
+   ],
+   "enunciado": "Qual a medicação indicada no tratamento da tensão pré-menstrual com disforia?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Fluoxetina."
+    },
+    {
+     "letra": "B",
+     "texto": "Clomifeno."
+    },
+    {
+     "letra": "C",
+     "texto": "Tibolona."
+    },
+    {
+     "letra": "D",
+     "texto": "Cabergolina."
+    },
+    {
+     "letra": "E",
+     "texto": "Fenitoína."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000125659",
+   "codigo": "4000125659",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndrome Pré Menstrual",
+   "numero": 2,
+   "temas": [
+    "Conceito",
+    "Tratamento"
+   ],
+   "enunciado": "Sobre a tensão pré-menstrual e síndrome disfórica pré-menstrual, assinale a opção incorreta",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O tratamento com inibidores seletivos da recaptação da serotonina (IRSS) deve resultar em melhora dos sintomas dentro de 24 a 48 horas."
+    },
+    {
+     "letra": "B",
+     "texto": "Os níveis de FSH, LH, TSH e prolactina são normais nas pacientes com tensão prémenstrual, por isso essa patologia ainda tem origem incerta."
+    },
+    {
+     "letra": "C",
+     "texto": "O bloqueio do eixo hipotálamo-hipófise-ovário com anticoncepcionais orais pode ser uma alternativa terapêutica, principalmente se não houver sangramento de privação."
+    },
+    {
+     "letra": "D",
+     "texto": "A diferença entre tensão pré-menstrual e síndrome disfórica está no fato de a última cursar com comprometimento das funções sociais e laborais da paciente."
+    },
+    {
+     "letra": "E",
+     "texto": "O tratamento da síndrome distfórica deve ser feito com inibidores da recepção seletiva de serotonina (IRSS) conjuntamente com estabilizadores do humor, já que existe um risco de atitudes de agressão interpessoal."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000025504",
+   "codigo": "4000025504",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndrome Pré Menstrual",
+   "numero": 3,
+   "temas": [
+    "Quadro clínico",
+    "Tratamento"
+   ],
+   "enunciado": "Mulher de 35 anos, com queixa de sintomas pré- menstruais intensos, com início há cerca de 10 dias antes da menstruação, que melhoram com o uxo menstrual, caracterizados por ansiedade, depressão, insônia, falta de energia, cansaço e dores pelo corpo. Diante deste quadro, o tratamento de escolha é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "acetato de medroxiprogesterona."
+    },
+    {
+     "letra": "B",
+     "texto": "sertralina."
+    },
+    {
+     "letra": "C",
+     "texto": "danazol."
+    },
+    {
+     "letra": "D",
+     "texto": "noretisterona."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000103513",
+   "codigo": "4000103513",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndrome Pré Menstrual",
+   "numero": 4,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Mulher de 19 anos de idade queixa-se de intensa irritabilidade, alterações abruptas de humor e fome incontrolável nos 7 dias que antecedem cada menstruação. Tem ciclos menstruais mensais e regulares. Usa diafragma para contracepção. Não tem antecedentes mórbidos, pessoais ou familiares relevantes. Qual é o tratamento mais adequado para o caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Inibidor de prostaglandina."
+    },
+    {
+     "letra": "B",
+     "texto": "Inibidor de recaptação de serotonina."
+    },
+    {
+     "letra": "C",
+     "texto": "Bromoergocriptina."
+    },
+    {
+     "letra": "D",
+     "texto": "Fitoestrogênios."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000088209",
+   "codigo": "4000088209",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndrome Pré Menstrual",
+   "numero": 5,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "A variação hormonal cíclica que caracteriza a siologia feminina no menacme, além dos seus efeitos siológicos, pode acarretar um conjunto de afecções decorrentes desse ciclo hormonal da mulher, causando transtornos em sua qualidade de vida, como por exemplo, a síndrome da tensão pré-menstrual (TPM). Considerando o tratamento medicamentoso para a TPM, analise as assertivas abaixo: I- Os inibidores seletivos de recaptação da serotonina no tratamento da TPM agem principalmente por causa de suas propriedades antidepressivas e ansiolíticas. II- O uso dos inibidores seletivos de recaptação da serotonina deve ser contínuo, sendo indicado em casos leves e graves, tendo eficácia de 95% deles. III- Entre os ansiolíticos, a melhor escolha é a buspirona, uma vez que o alprazolam pode acarretar dependência.; IV- Os diuréticos melhoram a mastalgia, diminuem o inchaço abdominal e o edema de membros inferiores, sendo indicada para esse efeito a espironolactona. Estão corretas as afirmativas",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "II e IV."
+    },
+    {
+     "letra": "B",
+     "texto": "I e II."
+    },
+    {
+     "letra": "C",
+     "texto": "II e III."
+    },
+    {
+     "letra": "D",
+     "texto": "III e IV."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000042853",
+   "codigo": "4000042853",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndrome Pré Menstrual",
+   "numero": 6,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "A Síndrome pré-menstrual, mais conhecida como tensão pré-menstrual é responsável por afetar o cotidiano, às vezes de modo grave, de milhares de mulheres. Paciente de 22 nos procura unidade de saúde queixando-se de irritabilidade, cefaléia e dor nas mamas, próximo ao período menstrual, em todos os ciclos, desde quando sua menstruação regularizou aos 15 anos. Não apresenta outras queixas. Nega doenças, tabagismo e alega ser sedentária. Assinale a alternativa CORRETA",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Anticoncepcional hormonal com etinilestradiol e drosperinona é uma opção de tratamento para essa paciente"
+    },
+    {
+     "letra": "B",
+     "texto": "Esta paciente tem um Transtorno disfórico pré-menstrual"
+    },
+    {
+     "letra": "C",
+     "texto": "A deficiência da vitamina C está relacionada ao aparecimento dessa condição"
+    },
+    {
+     "letra": "D",
+     "texto": "Os inibidores seletivos da recaptação de serotonina não devem ser utilizados pois não existe comprovação científica de benefício"
+    },
+    {
+     "letra": "E",
+     "texto": "Mudanças no estilo de vida, incluindo-se a prática de exercícios aeróbicos e modificações na dieta não trará benefícios a essa paciente"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000032379",
+   "codigo": "4000032379",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndrome Pré Menstrual",
+   "numero": 7,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "A síndrome de tensão pré-menstrual (STPM) é composta por um conjunto de sintomas físicos, psicológicos e comportamentais cíclicos e recorrentes que ocorrem na segunda fase do ciclo menstrual e desaparecem com o início do fluxo menstrual. Em relação ao tratamento da STPM, marque a alternativa CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Recomenda-se a suplementação de Boro na dose de 1.2 g ao dia por um período de três ciclos para redução dos sintomas relacionados à retenção hídrica."
+    },
+    {
+     "letra": "B",
+     "texto": "A fluoxetina reduziu significativamente os sintomas de tensão, irritabilidade e disforia."
+    },
+    {
+     "letra": "C",
+     "texto": "O óleo de prímula demonstrou importante redução dos sintomas gastrointestinais e da compulsão alimentar por doces."
+    },
+    {
+     "letra": "D",
+     "texto": "Os progestágenos, como a nortisterona e o levonorgestrel, apresentam reconhecido potencial terapêutico principalmente no alívio da mastalgia e retenção hídrica."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000023771",
+   "codigo": "4000023771",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndrome Pré Menstrual",
+   "numero": 8,
+   "temas": [
+    "Síndrome prémenstrual"
+   ],
+   "enunciado": "A síndrome pré-menstrual ocorre com maior frequência em mulheres de 25 a 35 anos, e é caracterizada por:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "predominância de sintomas psíquicos e comportamentais que ocorrem no início da fase lútea."
+    },
+    {
+     "letra": "B",
+     "texto": "predominância de sintomas físicos que ocorrem antes e depois da menstruação."
+    },
+    {
+     "letra": "C",
+     "texto": "sintomas físicos, psíquicos e comportamentais que se iniciam na fase folicular, continuam na fase lútea e terminam com a menstruação."
+    },
+    {
+     "letra": "D",
+     "texto": "sintomas físicos, psíquicos e comportamentais que se iniciam na fase lútea, podem desaparecer com o fluxo menstrual ou continuar até a fase folicular."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000080047",
+   "codigo": "4000080047",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndrome Pré Menstrual",
+   "numero": 9,
+   "temas": [
+    "Diagnóstico"
+   ],
+   "enunciado": "A forma mais severa da síndrome pré-menstrual é a disfórica. A definição dessa variante requer a presença de cinco de uma série de manifestações clínicas. Entre elas, não se inclui:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ansiedade ou tensão exacerbada."
+    },
+    {
+     "letra": "B",
+     "texto": "Dificuldade de concentração."
+    },
+    {
+     "letra": "C",
+     "texto": "Hipersônia ou insônia."
+    },
+    {
+     "letra": "D",
+     "texto": "Polidpsia."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000044766",
+   "codigo": "4000044766",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndrome Pré Menstrual",
+   "numero": 10,
+   "temas": [
+    "Síndrome prémenstrual"
+   ],
+   "enunciado": "A Síndrome Pré-Menstrual (SPM) consiste em um conjunto de sintomas físicos psíquicos e comportamentais, que envolvem um complexo mecanismo neuroendócrino. Sobre a SPM, é correto afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ocorre, principalmente, em ciclos anovulatórios."
+    },
+    {
+     "letra": "B",
+     "texto": "Está associada aos níveis baixos de estradiol."
+    },
+    {
+     "letra": "C",
+     "texto": "A progesterona é o tratamento de escolha."
+    },
+    {
+     "letra": "D",
+     "texto": "Distúrbios serotoninérgicos é a etiologia provável."
+    },
+    {
+     "letra": "E",
+     "texto": "A faixa etária mais prevalente é a adolescência."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000039877",
+   "codigo": "4000039877",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndrome Pré Menstrual",
+   "numero": 11,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Sobre a Tensão Pré-Menstrual (TPM) e o Transtorno Disfórico Pré-Menstrual (TDPM) podemos afirmar: I. As pacientes com tensão pré-menstrual têm seus sintomas exacerbados em relação a TDPM uma semana antes da menstruação ( ). II. Em geral, mudanças no estilo de vida, alimentar-se com uma dieta rica em bras e exercícios físicos melhoram os sintomas ( ). III. Apresentam melhora com a utilização de métodos anticonceptivos que suprimem o ciclo menstrual e impedem as oscilações hormonais ( ). IV. A piora dos sintomas ocorre na fase folicular devido ao aumento da progesterona e do hormônio folículo estimulante ( ). Assinale Falso (F) ou Verdadeiro (V):",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "F, V, V, F."
+    },
+    {
+     "letra": "B",
+     "texto": "V, F, F, V."
+    },
+    {
+     "letra": "C",
+     "texto": "V, F, V, F."
+    },
+    {
+     "letra": "D",
+     "texto": "V, V, V, F."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000033911",
+   "codigo": "4000033911",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndrome Pré Menstrual",
+   "numero": 12,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "O tratamento de primeira linha baseado em evidências para pacientes com síndrome de tensão pré-menstrual acarretando sintomas moderados/graves com impacto socioeconômico ou desconforto importante para a mulher é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Uso de anticoncepcionais hormonais orais."
+    },
+    {
+     "letra": "B",
+     "texto": "Uso de análogos do GnRH."
+    },
+    {
+     "letra": "C",
+     "texto": "Suplementação de vitamina B6 e cálcio."
+    },
+    {
+     "letra": "D",
+     "texto": "Ooferectomia bilateral."
+    },
+    {
+     "letra": "E",
+     "texto": "Uso de inibidores de recaptação da serotonina."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000098859",
+   "codigo": "4000098859",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndrome Pré Menstrual",
+   "numero": 13,
+   "temas": [
+    "Fisiopatologia"
+   ],
+   "enunciado": "Etiologia da Tensão Pré-menstrual, assinale afirmativa correta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Determinada pela alteração da imunidade."
+    },
+    {
+     "letra": "B",
+     "texto": "Marcador biológico elevação brusca do estradiol."
+    },
+    {
+     "letra": "C",
+     "texto": "Flutuação estro/progestacional no ciclo menstrual."
+    },
+    {
+     "letra": "D",
+     "texto": "Níveis aumentado da SHBG."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000077295",
+   "codigo": "4000077295",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndrome Pré Menstrual",
+   "numero": 14,
+   "temas": [
+    "Síndrome prémenstrual"
+   ],
+   "enunciado": "Mulheres em idade reprodutiva podem apresentar, no nal da fase lútea, queixas físicas e psiquiátricas que constituem a Síndrome Pré-Menstrual (SPM). Com relação a essa entidade clínica, é correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "As causas exatas da SPM não são completamente conhecidas, porém existem evidências que demonstram uma desregulação no sistema serotonérgico, em virtude do aumento da atividade deste na fase lútea."
+    },
+    {
+     "letra": "B",
+     "texto": "Conforme os critérios do American College of Obstetricians and Ginecologists (2000), os sintomas da SPM devem começar, no mínimo, cindo dias antes da menstruação."
+    },
+    {
+     "letra": "C",
+     "texto": "As propriedades antimineralocorticoides e a possível inibição do sistema Renina- Angiotensina-Aldosterona, ocasionada pela ação do estrogênio, podem explicar sintomas como o inchaço e o ganho de peso na SPM."
+    },
+    {
+     "letra": "D",
+     "texto": "A piridoxina (Vitamina B6), que é um cofator da cisteína-hidroxilase, atua na síntese na serotonina e pode ser usada no tratamento da SPM, preconizando-se doses mínimas de 800 mg ao dia."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000040012",
+   "codigo": "4000040012",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndrome Pré Menstrual",
+   "numero": 15,
+   "temas": [
+    "Quadro clínico"
+   ],
+   "enunciado": "Em relação a síndrome pré-menstrual marque as a rmativas com \"V\" para verdadeiro ou \"F\" para falso e depois assinale a sequência CORRETA. ( ) Os sinais e sintomas são físicos e psicológicos ou comportamentais, apresentando relação temporal com o período pré-menstrual e com características de repetição a cada novo ciclo; ( ) Estão entre os sinais e sintomas frequentes: aumento do tamanho e da sensibilidade das mamas; ganho de peso; irritabilidade; depressão; mudanças de humor e do paladar; ( ) É importante diferenciar a síndrome pré-menstrual de outras doenças com sintomas similares, como depressão, ansiedade e psicoses; ( ) É indicado a dosagem de hormônios esteroides ovarianos para o diagnóstico etiológico de síndrome pré-menstrual devido a associação a anormalidades na produção desses hormônios.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "V, V, V, F"
+    },
+    {
+     "letra": "B",
+     "texto": "V, F, V, F"
+    },
+    {
+     "letra": "C",
+     "texto": "F, V, F, V"
+    },
+    {
+     "letra": "D",
+     "texto": "V, F, F, V"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000048330",
+   "codigo": "4000048330",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndrome Pré Menstrual",
+   "numero": 16,
+   "temas": [
+    "Diagnóstico"
+   ],
+   "enunciado": "Mulher de 30 anos apresentando todos os meses antes da menstruação quadro grave de alteração de humor, instabilidade afetiva, irritabilidade e cefaleia, com prejuízo na relação com o cônjuge e no desempenho no trabalho, tem como principal hipótese diagnóstica:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Síndrome pré-menstrual."
+    },
+    {
+     "letra": "B",
+     "texto": "Transtorno bipolar."
+    },
+    {
+     "letra": "C",
+     "texto": "Dismenorréia."
+    },
+    {
+     "letra": "D",
+     "texto": "Transtorno disfórico pré-menstrual."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000101522",
+   "codigo": "4000101522",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Síndrome Pré Menstrual",
+   "numero": 17,
+   "temas": [
+    "Síndrome prémenstrual"
+   ],
+   "enunciado": "Paciente, 24 anos de idade, procurou atendimento médico queixando-se de nervosismo intenso, di culdade de concentração, incapacidade para trabalhar, distensão abdominal, cefaleia e tensão mamária, que se iniciam cerca de cinco dias antes da menstruação, persistindo por mais ou menos oito a nove dias. Refere ciclos menstruais regulares e negou uso de medicações. Não se recorda o inicio da sintomatologia, mas relatou que o quadro clínico intensi cou-se no último ano, ocorrendo mensalmente. Considerando a hipótese diagnóstica mais provável, qual a melhor abordagem terapêutica? Respostas: 1 12",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cianocobalamina e hidroclorotiazida."
+    },
+    {
+     "letra": "B",
+     "texto": "Cloridrato de sertralina e espironolactona."
+    },
+    {
+     "letra": "C",
+     "texto": "Contraceptivos orais combinados e magnésio."
+    },
+    {
+     "letra": "D",
+     "texto": "Acetato de medroxiprogesterona e cálcio."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": []
+}

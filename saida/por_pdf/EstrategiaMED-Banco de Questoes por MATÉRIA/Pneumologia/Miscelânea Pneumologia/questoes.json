@@ -1,0 +1,2306 @@
+{
+ "questoes": [
+  {
+   "id": "4000187463",
+   "codigo": "4000187463",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 1,
+   "temas": [
+    "Pneumonite de Hipersensibilidade PH"
+   ],
+   "enunciado": "Mulher de 25 anos de idade, previamente hígida, comparece ao ambulatório por dispneia aos moderados esforços, iniciada há dois anos. Ela refere episódios recorrentes de febre, mialgia, sibilos e piora da dispneia basal, que ocorrem sempre que ela volta de viagem da fazenda de seus pais. Nega tabagismo ou exposição a outras drogas. Ao exame físico, está eupneica e com estertores nos em bases bilateralmente. Apresentou tomogra a de tórax sem contraste (imagem a seguir), realizada há três semanas, durante um dos episódios de piora respiratória. Qual é o diagnóstico?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Asma não controlada"
+    },
+    {
+     "letra": "B",
+     "texto": "Pneumonite de hipersensibilidade"
+    },
+    {
+     "letra": "C",
+     "texto": "Histoplasmose pulmonar"
+    },
+    {
+     "letra": "D",
+     "texto": "Fibrose pulmonar idiopática"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q001-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000184110",
+   "codigo": "4000184110",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 2,
+   "temas": [
+    "Pneumologia",
+    "Pneumonite de Hipersensibilidade PH"
+   ],
+   "enunciado": "Homem de 50 anos, portador de melanoma metastático para pulmão, fígado e linfonodos, procura atendimento por quadro de 1 semana de dispneia progressiva e tosse; sem febre. Relata estar em uso de imunoterapia com anticorpo monoclonal anti-PDL-1 há cerca de 3 meses, tendo feito a última aplicação há 2 semanas. Ao exame clínico, o paciente apresenta-se taquidispneico, com frequência cardíaca 117 bpm, pressão arterial 110x60 mmHg, frequência respiratória de 32 irpm, saturação de oxigênio em ar ambiente de 85%. Tomografia computadorizada de tórax apresentada. Além da oferta de oxigênio suplementar, qual é a conduta para o caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Internação em unidade de terapia intensiva; pesquisa de vírus respiratórios; corticoterapia em alta dose; antibioticoterapia."
+    },
+    {
+     "letra": "B",
+     "texto": "Internação em enfermaria; avaliação da oncologia para radioterapia; antibioticoterapia."
+    },
+    {
+     "letra": "C",
+     "texto": "Internação em unidade de terapia intensiva; avaliação da oncologia para radioterapia; corticoterapia em baixa dose."
+    },
+    {
+     "letra": "D",
+     "texto": "Internação em enfermaria; pesquisa de vírus respiratórios; corticoterapia em baixa dose e antibioticoterapia."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q002-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000183187",
+   "codigo": "4000183187",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 3,
+   "temas": [
+    "Pneumopatias Intersticiais Hipertensão Pulmonar Bronquiectasias e Pneumotórax Espontâneo"
+   ],
+   "enunciado": "Homem, 18 anos de idade, previamente hígido, chega ao PS com queixa de falta de ar iniciada há 1 hora. Exame físico: Escala de Coma de Glasgow = 14, pupilas isocóricas fotorreagentes, FR = 30 irpm, SpO₂ = 70%, ausculta respiratória abolida em hemitórax direito, PA= 80/40 mmHg, FC = 133 bpm, tempo de enchimento capilar = 4 segundos, ausculta cardíaca sem alterações. Qual é o achado esperado na ultrassonografia à beira leito?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Sinal do código de barras em hemitórax direito."
+    },
+    {
+     "letra": "B",
+     "texto": "Sobrecarga de câmaras direitas."
+    },
+    {
+     "letra": "C",
+     "texto": "Linhas B em todo hemitórax direito."
+    },
+    {
+     "letra": "D",
+     "texto": "Líquido no espaço pericárdico."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000183105",
+   "codigo": "4000183105",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 4,
+   "temas": [
+    "Pneumotórax espontâneo",
+    "Cirurgia Torácica",
+    "Cirurgia"
+   ],
+   "enunciado": "Homem, 28 anos de idade, previamente hígido, foi submetido a drenagem pleural no 5º espaço intercostal por pneumotórax espontâneo. No momento imediato após a drenagem pleural já apresentava escape aéreo pelo dreno. No 8º dia de internação hospitalar ainda mantinha fístula aérea. Em relação aos dados apresentados na história clínica, Como isso se mostra no frasco de drenagem e qual é a melhor conduta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Oscilação ampla da coluna de líquido do sêlo d’a"
+    },
+    {
+     "letra": "B",
+     "texto": "Borbulhamento do líquido no frasco do dreno; cirurgia."
+    },
+    {
+     "letra": "C",
+     "texto": "Borbulhamento do líquido no frasco de drenagem; realizar a pleurose.com talco."
+    },
+    {
+     "letra": "D",
+     "texto": "Oscilação intermitente da coluna de líquido; cirurgia."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000182536",
+   "codigo": "4000182536",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 5,
+   "temas": [
+    "Pneumotórax espontâneo",
+    "Pneumotórax Simples"
+   ],
+   "enunciado": "Homem de 38 anos, obeso mórbido, dá entrada no Pronto-Socorro por descompensação diabética, e após avaliação inicial, recebe indicação de internação para hidratação por via intravenosa por desidratação moderada e tratamento clínico adequado. Após as condutas iniciais tomadas na sala de emergência, apresenta dispneia intensa súbita e o médico solicita o rX demonstrado a seguir. Em face do exposto, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Trata-se de pneumotórax à direita devido a complicações de acesso venoso central."
+    },
+    {
+     "letra": "B",
+     "texto": "Além do acesso venoso central em subclávia direita, também apresenta tubo orotraqueal."
+    },
+    {
+     "letra": "C",
+     "texto": "Há presença de condensação pulmonar em área peri-hilar à direita."
+    },
+    {
+     "letra": "D",
+     "texto": "Paciente apresenta calcificação do botão aórtico com provável aneurisma."
+    },
+    {
+     "letra": "E",
+     "texto": "O índice cardiotorácico do paciente é 0,7, o que indica normalidade da área cardíaca."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q005-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000181539",
+   "codigo": "4000181539",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 6,
+   "temas": [
+    "Cirurgia",
+    "Fatores de Risco"
+   ],
+   "enunciado": "Paciente masculino, 28 anos, dá entrada no pronto socorro apresentando raio X de tórax realizado na UPA com pneumotórax a direita. Relata queixa de dor torácica e dispneia. Nega história de trauma. No exame físico mostra-se estável hemodinamicamente, com FR 28 mpm e saturação O2 88%. Na ausculta torácica apresenta diminuição do murmúrio no hemitórax direito, com finos sibilos. Em relação a este caso clínico, assinale a assertiva correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A bulectomia com pleurodese é indicada somente após recorrência do quadro."
+    },
+    {
+     "letra": "B",
+     "texto": "A tomografia computadorizada de tórax deve ser realizada antes de se definir o tratamento."
+    },
+    {
+     "letra": "C",
+     "texto": "A toracocentese é o tratamento definitivo mais empregado no tratamento do pneumotórax espontâneo."
+    },
+    {
+     "letra": "D",
+     "texto": "O pneumotórax espontâneo primário é mais comumente visto em mulheres jovens (20-30 anos) e no hemitórax esquerdo."
+    },
+    {
+     "letra": "E",
+     "texto": "A doença mais comumente associada ao pneumotórax espontâneo secundário é a doença pulmonar obstrutiva crônica."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000181099",
+   "codigo": "4000181099",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 7,
+   "temas": [
+    "Doenças relacionadas ao asbesto Asbestose",
+    "Asbestose",
+    "Pneumologia"
+   ],
+   "enunciado": "Um paciente de 71 anos de idade, procurou a unidade de saúde da família com queixa de cansaço aos esforços, presente há vários meses, mas com piora nas últimas semanas. Nega tabagismo, etilismo ou uso de medicações. Refere estar aposentado há cinco anos, tendo trabalhado por 20 anos em uma fábrica de telhas de brocimento (telhas de cimento e bras de amianto). Ao exame, apresenta estertores crepitantes em bases pulmonares e baqueteamento digital. Solicitado radiogra a de tórax que revela pequenas opacidades irregulares em campos médios e inferiores de ambos os pulmões. Com base nesse caso, qual o diagnóstico mais provável?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Asma ocupacional."
+    },
+    {
+     "letra": "B",
+     "texto": "Asbestose."
+    },
+    {
+     "letra": "C",
+     "texto": "Sarcoidose."
+    },
+    {
+     "letra": "D",
+     "texto": "Silicose."
+    },
+    {
+     "letra": "E",
+     "texto": "Pneumonia por SARS-COV2."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000170046",
+   "codigo": "4000170046",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 8,
+   "temas": [
+    "Sarcoidose",
+    "Sarcoidose",
+    "Pneumologia"
+   ],
+   "enunciado": "Mulher de 37 anos apresenta dispneia progressiva, tosse seca, calafrios, febre baixa diária há 6 meses, evoluiu c o m desorientação, fraqueza muscular e apatia. Exame físico: PA 100/60 mmHg, FC 105 bpm, SatO₂ 94%, desidratada 3+/4+; hiperemia, aumento de temperatura e dor em 2ª e 3ª articulações interfalangianas proximais da mão direita; lesões hiperpigmentadas nos membros (imagem 1). Exames laboratoriais: escarro negativo para BAAR; sorologias para HIV, histoplasmose, paracoccidioidomicose e apergilose negativas; hemograma normal, PCR 7 mg/dL, Na 135 mEq/L, K 4.5 mEq/L, Cr 2.0 mg/dL, Ur 102 mg/dL, cálcio corrigido 11.8 mg/dL, 1,25 (OH)2 vitD3 = 200 pg/mL. Radiogra a de tórax (imagem 2). A principal hipótese diagnóstica, mecanismo fisiopatológico e manejo inicial são, respectivamente,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "neoplasia pulmonar; hipercalcemia relacionada com secreção ectópica de PTH; pamidronato 60 – 90 mg IV e furosemida IV."
+    },
+    {
+     "letra": "B",
+     "texto": "neoplasia pulmonar; hipercalcemia por produção de proteína PTH-like; hidratação IV vigorosa."
+    },
+    {
+     "letra": "C",
+     "texto": "sarcoidose; hipercalcemia por aumento da expressão de 1"
+    },
+    {
+     "letra": "D",
+     "texto": "sarcoidose; hipercalcemia por secreção ectópica de PTH pelos granulomas; hidratação vigorosa, pamidronato 60 – 90 mg IV e furosemida IV."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q008-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000164767",
+   "codigo": "4000164767",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 9,
+   "temas": [
+    "Pneumologia"
+   ],
+   "enunciado": "Um paciente de 72 anos, sexo masculino, ex tabagista, apresenta queixa de dispneia ha 5 anos, associado a tosse seca. Nega sibilância. Ao exame físico, apresentava baqueteamento digital em mãos e pés. Realizou exame tomográ co, com evidência de cistos de faveolamento empilhadas, que predominavam nos terços inferiores e em região subpleural, além de bronquiectasias de tração. Realizou prova de função pulmonar (abaixo). De acordo com o quadro clínico exposto, o diagnóstico mais provável é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "DPOC"
+    },
+    {
+     "letra": "B",
+     "texto": "Combinação fibrose com enfisema pulmonar"
+    },
+    {
+     "letra": "C",
+     "texto": "Pneumonite por hipersensibilidade"
+    },
+    {
+     "letra": "D",
+     "texto": "Fibrose pulmonar idiopática"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000164373",
+   "codigo": "4000164373",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 10,
+   "temas": [
+    "Doenças relacionadas ao asbesto Asbestose",
+    "Asbestose",
+    "Pneumologia"
+   ],
+   "enunciado": "O mesotelioma pleural está, normalmente, associado a",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Silicose."
+    },
+    {
+     "letra": "B",
+     "texto": "Tuberculose."
+    },
+    {
+     "letra": "C",
+     "texto": "Asbestose."
+    },
+    {
+     "letra": "D",
+     "texto": "Sarcoidose."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000164047",
+   "codigo": "4000164047",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 11,
+   "temas": [
+    "Distúrbio ventilatório restritivo",
+    "Pneumonia Intersticial Não Específ ica PINE",
+    "Pneumologia"
+   ],
+   "enunciado": "Mulher de 55 anos, com história prévia de doença pulmonar quando mais jovem, vem apresentando, há alguns meses, episódios de tosse seca, associados a períodos de dispneia aos esforços. Existe história de tabagismo com consumo de 35 maços/ano e etilismo social. O exame físico mostra obesidade, IMC = 34kg/m², taquipneia, murmúrio vesicular diminuído principalmente em bases, crepitações e alguns sibilos. A prova de função respiratória mostra capacidade vital forçada (CVF) = 2,00 (normal: 3,31), volume expiratório no primeiro segundo (VEF1s) = 1,70 (normal: 2,86) e, após o uso de broncodilatador, CVF = 2,10 e VEF1s = 1,74. Em relação ao caso apresentado, a melhor definição do tipo de distúrbio ventilatório e de uma doença a ele relacionada, respectivamente, são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "restritivo reversível / sarcoidose"
+    },
+    {
+     "letra": "B",
+     "texto": "obstrutivo reversível / asma brônquica"
+    },
+    {
+     "letra": "C",
+     "texto": "obstrutivo não reversível / enfisema pulmonar"
+    },
+    {
+     "letra": "D",
+     "texto": "restritivo não reversível / pneumonia intersticial não específica"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163428",
+   "codigo": "4000163428",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 12,
+   "temas": [
+    "Pneumopatias Intersticiais Hipertensão Pulmonar Bronquiectasias e Pneumotórax Espontâneo"
+   ],
+   "enunciado": "O pneumotórax espontâneo secundário é assim classificado quando as lesões evidenciadas na radiogra a de tórax ou na tomogra a computadorizada podem ser identi cadas como responsáveis pela sua ocorrência. A condição clínica mais frequentemente relacionada a essa complicação é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "neoplasia maligna primária."
+    },
+    {
+     "letra": "B",
+     "texto": "metástase pulmonar secundária."
+    },
+    {
+     "letra": "C",
+     "texto": "fibrose pulmonar."
+    },
+    {
+     "letra": "D",
+     "texto": "doença pulmonar intersticial."
+    },
+    {
+     "letra": "E",
+     "texto": "doença pulmonar obstrutiva crônica."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000145882",
+   "codigo": "4000145882",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 13,
+   "temas": [
+    "Tratamento Cirúrgico"
+   ],
+   "enunciado": "Um homem de vinte anos de idade deu entrada no pronto-socorro, com pneumotórax espontâneo de grande volume à direita. Foi indicada uma drenagem pleural. Com base nesse caso hipotético, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A causa mais provável é a ruptura espontânea do esôfago."
+    },
+    {
+     "letra": "B",
+     "texto": "O dreno deve ser inserido na região torácica mais caudal possível, em torno do 10.o espaço intercostal, para facilitar a drenagem de sangue, eventualmente presente na cavidade."
+    },
+    {
+     "letra": "C",
+     "texto": "Durante a realização do procedimento, deve-se evitar a exploração digital da cavidade pleural, devido ao risco de lesão pulmonar ou de órgãos mediastinais."
+    },
+    {
+     "letra": "D",
+     "texto": "A aspiração contínua com pressão negativa de 15 a 20 cmH2O é de fundamental importância para a reexpansão pulmonar e deverá ser instalada o mais cedo possível."
+    },
+    {
+     "letra": "E",
+     "texto": "Para que o dreno possa ser retirado, o pulmão deverá estar adequadamente expandido e não deverá haver borbulhamento no frasco coletor durante a tosse."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000145472",
+   "codigo": "4000145472",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 14,
+   "temas": [
+    "Cintilograf ia ventilaçãoperf usão",
+    "Fluxograma de investigação"
+   ],
+   "enunciado": "Mulher de 41 anos queixa-se de dispneia ao andar menos de 2 quarteirões no plano e ao varrer a casa, há 5 meses. Teve tromboembolismo pulmonar no puerpério há 6 meses e está em uso de apixabana desde então. Desconhece outras comorbidades e nega o uso de outros medicamentos. Ao exame, PA 120/76mmHg, FR 1 Sipm, SpO2 93% (em ar ambiente). O exame respiratório é normal. O ictus cordis é palpado no 4° EIC na linha hemiclavicular (LHC) esquerda, possui extensão e duração normais. Palpa-se movimento na região paraesternal esquerda inferior. A segunda bulha apresenta desdobramento contínuo, mais amplo à inspiração, audível ao longo da borda paraesternal esquerda e no ápice, com hiperfonese do segundo componente. Ausculta-se sopro sistólico inicial, que abafa a primeira bulha, suave, na borda paraesternal esquerda, com acentuação inspiratória. Considerando a causa MAIS provável, a propedêutica MAIS BEM INDICADA para a pesquisa da etiologia neste caso é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cateterismo do coração direito"
+    },
+    {
+     "letra": "B",
+     "texto": "Cintilografia de ventilação e perfusão pulmonar"
+    },
+    {
+     "letra": "C",
+     "texto": "Espirometria com prova broncodilatadora"
+    },
+    {
+     "letra": "D",
+     "texto": "Tomografia computadorizada do tórax"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000143560",
+   "codigo": "4000143560",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 15,
+   "temas": [
+    "Sarcoidose",
+    "Sarcoidose"
+   ],
+   "enunciado": "A relação de linfócitos TCD4/TCD8 além da aids é utilizada em que doença?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Leucemia mieloide crônica."
+    },
+    {
+     "letra": "B",
+     "texto": "Doença mista do tecido conjuntivo."
+    },
+    {
+     "letra": "C",
+     "texto": "Doença de Gaucher."
+    },
+    {
+     "letra": "D",
+     "texto": "Sarcoidose."
+    },
+    {
+     "letra": "E",
+     "texto": "Espondilite anquilosante."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000137547",
+   "codigo": "4000137547",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 16,
+   "temas": [
+    "Pneumoconioses",
+    "Pneumoconioses"
+   ],
+   "enunciado": "Homem, 63 anos, trabalhou com jateamento de areia no porto até a aposentadoria aos 60 anos. Radiogra a (RX) do tórax de rotina: pequenas opacidades nodulares em lobos superiores e calcificações em hilo direito. Considerando se a principal hipótese diagnóstica, pode afirmar -se que.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "mesotelioma é complicação frequente desta doença."
+    },
+    {
+     "letra": "B",
+     "texto": "a forma aguda da doença pode ser grave e progressiva."
+    },
+    {
+     "letra": "C",
+     "texto": "esses pacientes tem maior risco de infecção por"
+    },
+    {
+     "letra": "D",
+     "texto": "esse paciente não tem maior risco de desenvolver tuberculose pulmonar."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000137415",
+   "codigo": "4000137415",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 17,
+   "temas": [
+    "Pneumotórax espontâneo",
+    "Radiograf ia de Tórax",
+    "História Clínica"
+   ],
+   "enunciado": "Homem, 25 anos, com síndrome de Marfan foi admitido na emergência com dor torácica esquerda e dispneia. Pode-se afirmar que o RX simples de tórax é compatível com o diagnóstico de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "pneumotórax."
+    },
+    {
+     "letra": "B",
+     "texto": "pneumomediastino."
+    },
+    {
+     "letra": "C",
+     "texto": "consolidação na base pulmonar esquerda."
+    },
+    {
+     "letra": "D",
+     "texto": "enfisema de partes moles."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q017-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000131419",
+   "codigo": "4000131419",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 18,
+   "temas": [
+    "Pneumologia"
+   ],
+   "enunciado": "Paciente do sexo feminino, 28 anos, refere há cerca de dois anos dispneia progressiva até moderados esforços e tosse seca esporádica. Nega tabagismo. Nega patologias prévias. Nega uso de medicações contínuas. Trouxe resultados de exames já realizados, conforme apresentados a seguir. Dosagem VEGF-D: maior que 800pg/ml FAN NÃO REAGENTE. Espirometria: distúrbio ventilatório restritivo leve, sem variação significativa ao broncodilatador. Tomografia de abdômen: angiolipoma renal direito Tomografia de tórax: Qual é o diagnóstico dessa paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Linfangiomiomatose pulmonar."
+    },
+    {
+     "letra": "B",
+     "texto": "Síndrome de Birt-Hogg-Dubé."
+    },
+    {
+     "letra": "C",
+     "texto": "Pneumonia intersticial linfocítica."
+    },
+    {
+     "letra": "D",
+     "texto": "Histiocitose pulmonar de células de Langerhans."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q018-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000129901",
+   "codigo": "4000129901",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 19,
+   "temas": [
+    "Def iciência de Alf a1antitripsina",
+    "Pneumopatias intersticiais associadas a colagenoses"
+   ],
+   "enunciado": "Sistema Respiratório Paciente de 48 anos de idade procura seu consultório para investigação de tosse e expectoração crônicas. Nega tabagismo ou comorbidades. Nega uso de medicamentos. Ao exame apresenta FR=18 mrm, Sat O2=96% em ar ambiente e ausculta com estertores discretos em bases pulmonares. Traz radiogra a de tórax que demonstra sinal do “trilho de trem” bilateralmente. Considerando o caso apresentado, analise as assertivas: I. A doença pode estar associada a doenças inflamatórias como a artrite reumatóide, síndrome de Sjögren e doença inflamatória intestinal. II. Deve-se considerar causas genéticas, como a deficiência de alfa-1 antitripsina. III. A presença de envolvimento difuso deve levantar a suspeita de aspiração de corpo estranho. IV. A distribuição da doença nos campos pulmonares inferiores é mais comum na fibrose cística. Estão corretas as assertivas",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I e II apenas."
+    },
+    {
+     "letra": "B",
+     "texto": "I e III apenas."
+    },
+    {
+     "letra": "C",
+     "texto": "II e III apenas."
+    },
+    {
+     "letra": "D",
+     "texto": "II e IV apenas."
+    },
+    {
+     "letra": "E",
+     "texto": "III e IV apenas."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000129740",
+   "codigo": "4000129740",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 20,
+   "temas": [
+    "Pneumologia",
+    "Bronquiectasias"
+   ],
+   "enunciado": "Identifique abaixo as afirmativas verdadeiras ( V ) e as falsas ( F ) em relação às bronquiectasias. ( ) O diagnóstico é realizado pela Tomografia Computadorizada de Alta Resolução. ( ) Na prova de função pulmonar (espirometria) habitualmente encontramos redução significativa da Capacidade Vital Forçada (CVF). ( ) A Difusão de CO (DLCO) encontra-se diminuída na quase totalidade dos casos e constitui marcador de gravidade da doença. ( ) É recomendada a realização de cultura de escarro para bactérias potencialmente pato- gênicas no monitoramento. ( ) O acompanhamento da perda da função pulmonar deve ser realizado com método de imagem (Tomogra a Computadorizada de Alta Resolução) que evidencia a progressão da doença. ( ) Em se tratando de doença estrutural, habitualmente sequela de processos infecciosos prévios, não se identi ca evolução da doença após estabelecido o diagnóstico, sendo por- tanto desnecessário acompanhamento funcional destes pacientes. Assinale a alternativa que indica a sequência correta, de cima para baixo.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "V • V • F • F • F • F"
+    },
+    {
+     "letra": "B",
+     "texto": "V • F • V • V • V • F"
+    },
+    {
+     "letra": "C",
+     "texto": "V • F • F • V • F • F"
+    },
+    {
+     "letra": "D",
+     "texto": "F • V • V • V • F • V"
+    },
+    {
+     "letra": "E",
+     "texto": "F • F • F • V • V • F"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000129469",
+   "codigo": "4000129469",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 21,
+   "temas": [
+    "Doenças relacionadas ao asbesto Asbestose",
+    "Asbestose",
+    "Pneumologia"
+   ],
+   "enunciado": "Paciente de 52 anos foi encaminhado ao Ambulatório para investigação de doença pulmonar ocupacional. Relatou apresentar dispneia aos grandes esforços e tosse seca há 6 meses. Negou outros sintomas sistêmicos ou respiratórios. O exame físico foi normal. A radiogra a de tórax mostrou opacidades reticulares periféricas sem faveolamento nos lobos pulmonares inferiores e placas pleurais calcificadas. Qual a hipótese diagnóstica mais provável?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Silicose"
+    },
+    {
+     "letra": "B",
+     "texto": "Asbestose"
+    },
+    {
+     "letra": "C",
+     "texto": "Beriliose"
+    },
+    {
+     "letra": "D",
+     "texto": "Pulmão do minerador de carvão"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000137305",
+   "codigo": "4000137305",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 22,
+   "temas": [
+    "Pneumotórax espontâneo",
+    "Medicina Preventiva",
+    "Pneumologia"
+   ],
+   "enunciado": "Você atende uma paciente de 25 anos, no quarto pós-operatório de colecistectomia videolaparoscópica, usuária de anticoncepcional oral, com queixa de dispneia associada à dor torácica ventilatório-dependente. Realizou uma radiogra a de tórax em outro serviço (imagem abaixo), foi de alta e retorna para seu atendimento. Qual é sua conduta quanto ao diagnóstico da paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A paciente é de alta probabilidade pré-teste pelos critérios de Wells, por isso deve ser submetida imediatamente a uma angiotomografia de tórax."
+    },
+    {
+     "letra": "B",
+     "texto": "O diagnóstico da doença da paciente é clínico-radiográfico."
+    },
+    {
+     "letra": "C",
+     "texto": "A paciente é de baixa probabilidade pré-teste pelos critérios de Wells, por isso deve ser solicitado o d-dímero."
+    },
+    {
+     "letra": "D",
+     "texto": "Antes mesmo de prosseguir investigação, devemos administrar 30 ml/kg de SF 0,9% e a primeira dose de antibiótico de amplo espectro."
+    },
+    {
+     "letra": "E",
+     "texto": "A paciente deve ser submetida à inalação com beta-2-agonista, imediatamente."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q022-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000137302",
+   "codigo": "4000137302",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 23,
+   "temas": [
+    "Medicina Preventiva",
+    "Silicose",
+    "Pneumoconiose devida à Poeira de Sílica Silicose"
+   ],
+   "enunciado": "A tomografia de tórax a seguir está relacionada a que tipo de exposição ocupacional?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Fabricação de telhas e tubulações."
+    },
+    {
+     "letra": "B",
+     "texto": "Jateamento de areia."
+    },
+    {
+     "letra": "C",
+     "texto": "Indústria de algodão."
+    },
+    {
+     "letra": "D",
+     "texto": "Confecção de silos para compostagem."
+    },
+    {
+     "letra": "E",
+     "texto": "Afiação de ferramentas."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q023-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000112124",
+   "codigo": "4000112124",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 24,
+   "temas": [
+    "Tratamento",
+    "História Clínica",
+    "Cirurgia"
+   ],
+   "enunciado": "Homem, 18 anos, procura atendimento médico por dor pleurítica súbita à direita e dispneia aos moderados/grandes esforços. Não há antecedentes pessoais de comorbidades e não é tabagista. Ao exame físico, saturação 92% em ar ambiente, afebril, FC = 90 bpm e PA = 118 x 82 mmHg. Hipertimpanismo à percursão e ausência de murmúrio vesicular à direita. Uma radiografia de tórax é solicitada (figura). Qual o diagnóstico e conduta adequados?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Colapso pulmonar completo por pneumotórax extenso e com quadro descrito há o diagnóstico de pneumotórax hipertensivo. Indicação de toracocentese descompressiva seguida de drenagem pleural."
+    },
+    {
+     "letra": "B",
+     "texto": "Pneumotórax completo à direita indica drenagem pleural tubular, seguida de investigação com tomografia de tórax."
+    },
+    {
+     "letra": "C",
+     "texto": "Atelectasia completa do pulmão direito levando a pneumotórax extenso, inicialmente indicaria broncofibroscopia para excluir causa endobrônquica."
+    },
+    {
+     "letra": "D",
+     "texto": "Pneumotórax importante, porém, em paciente sem insuficiência respiratória, indicaria drenagem pleural aberta e investigação com ressonância magnética."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q024-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000110054",
+   "codigo": "4000110054",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 25,
+   "temas": [
+    "Pneumopatia Intersticial Usual PIU Fibrose Pulmonar Idiopática FPI"
+   ],
+   "enunciado": "Mulher de 69 anos de idade, natural e procedente de São Paulo é dentista. Tabagista de 20 maços-ano, apresenta dispneia e tosse seca há 2 anos, sem outras queixas. No exame clínico apresenta saturação de oxigênio de 90% em ar ambiente e estertores em velcro bilaterais, sendo o restante do exame clínico normal. A radiogra a e tomogra a de tórax estão a seguir. A espirometria mostra VEF1 e CVF diminuídos com relação VEF1/CVF preservada. Qual é a principal hipótese diagnóstica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Fibrose intersticial pulmonar idiopática."
+    },
+    {
+     "letra": "B",
+     "texto": "Doença pulmonar obstrutiva crônica."
+    },
+    {
+     "letra": "C",
+     "texto": "Pneumoconíose."
+    },
+    {
+     "letra": "D",
+     "texto": "Tuberculose pulmonar."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q025-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000075238",
+   "codigo": "4000075238",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 26,
+   "temas": [
+    "Bronquiectasias"
+   ],
+   "enunciado": "Homem, 25 anos, com tosse produtiva crônica há cinco anos, infecção pulmonar de repetição, internado quatro vezes nesse período, apresenta exacerbação do quadro com piora da quantidade e da coloração (agora esverdeada) do escarro. TC de tórax é mostrada a seguir. A antibioticoterapia empírica inicial deve contemplar os seguintes agentes etiológicos, comumente isolados:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Pneumocystis jiroveci e Candida sp"
+    },
+    {
+     "letra": "B",
+     "texto": "Haemophilus influenzae e Pneumocystis jiroveci"
+    },
+    {
+     "letra": "C",
+     "texto": "Haemophilus influenzae e Pseudomonas aeruginosa"
+    },
+    {
+     "letra": "D",
+     "texto": "Pseudomonas aeruginosa e Candida sp"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q026-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000061974",
+   "codigo": "4000061974",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 27,
+   "temas": [
+    "Diagnóstico dif erencial",
+    "Achados clínicos",
+    "Manif estações clínicas"
+   ],
+   "enunciado": "Uma mulher de 57 anos apresenta tosse oligoprodutiva, com escarro claro, dispneia progressiva e perda de 6kg em 2 meses. Nega doenças atuais ou prévias conhecidas. É tabagista há 30 anos. O exame físico não revela anormalidades. Exames de laboratório: Hg: 11,2g/dL; LG: 7.540/mm³; plq: 219.000/mm³; Ca: 13,3mg/dL; albumina: 4,0g/dL; cr: 1,3mg/dL. Radiogra a do tórax: Biópsia de linfonodo mediastinal: granulomas epitelioides sem necrose, contendo células gigantes tipo Langhans. Não foram identi cados agentes infecciosos nas diversas colorações (Ziehl-Neelsen, PAS, metenamina de prata de Grocott). Considerando o caso descrito, assinale a alternativa que apresenta o diagnóstico MAIS PROVÁVEL para esse paciente.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Adenocarcinoma pulmonar."
+    },
+    {
+     "letra": "B",
+     "texto": "Paracoccidioidomicose."
+    },
+    {
+     "letra": "C",
+     "texto": "Sarcoidose."
+    },
+    {
+     "letra": "D",
+     "texto": "Tuberculose."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q027-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000053932",
+   "codigo": "4000053932",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 28,
+   "temas": [
+    "Silicose",
+    "Pneumoconiose devida à Poeira de Sílica Silicose",
+    "Pneumologia"
+   ],
+   "enunciado": "Paciente de 58 anos de idade, com história de dispneia com 2 anos de evolução e piora progressiva procura seu consultório para avaliação. Nega tabagismo, nega etilismo, nega comorbidades ou uso de medicamentos. Trabalha com jateamento de areia. Ao exame apresenta FR=20, Sat O2 em ar ambiente de 90%, MV com redução difusa. Traz RX de tórax com nódulos pouco definidos e de tamanho variável, predominando em lobos superiores. Considerando o diagnóstico mais provável, avalie as asserções a seguir e a relação causal proposta entre elas. I – O paciente tem risco aumentado de contrair infecções por Mycobacterium tuberculosis, micobacterioses atípicas e fungos. PORQUE; II – O agente ao qual o paciente foi exposto é citotóxico para os macrófagos pulmonares, que são defesas primárias.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "As asserções I e II são proposições verdadeiras, e a segunda é uma justificativa daprimeira."
+    },
+    {
+     "letra": "B",
+     "texto": "As asserções I e II são proposições verdadeiras, mas a segunda não é uma justificativada primeira."
+    },
+    {
+     "letra": "C",
+     "texto": "A asserção I é uma proposição verdadeira e a asserção II é uma proposição falsa."
+    },
+    {
+     "letra": "D",
+     "texto": "A asserção I é uma proposição falsa e a asserção II é uma proposição verdadeira."
+    },
+    {
+     "letra": "E",
+     "texto": "As asserções I e II são proposições falsas."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046961",
+   "codigo": "4000046961",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 29,
+   "temas": [
+    "Pneumopatia Intersticial Usual PIU Fibrose Pulmonar Idiopática FPI"
+   ],
+   "enunciado": "Paciente N.S.R. feminino, 50 anos, foi atendido e relatou inchaço das pernas e falta de ar com evolução de 5 meses. Encontra-se afebril, com estertores difusos à ausculta em base pulmonar. Frequência cardíaca de 80 bpm, regular, com divisão ampliada de S2. O RX de tórax mostra aumento da borda direita do coração com sinais de derrames pleurais bilaterais. A troponina sérica é I <0,4 ng/mL. O diagnóstico que mais se adequa ao quadro clínico acima é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Fibrose pulmonar intersticial"
+    },
+    {
+     "letra": "B",
+     "texto": "Miocardite viral"
+    },
+    {
+     "letra": "C",
+     "texto": "Cardiopatia alcoólica"
+    },
+    {
+     "letra": "D",
+     "texto": "Pericardite constritiva"
+    },
+    {
+     "letra": "E",
+     "texto": "Valva bicúspide"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000033851",
+   "codigo": "4000033851",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 30,
+   "temas": [
+    "Asbestose"
+   ],
+   "enunciado": "Homem de 67 anos é encaminhado da UBS ao pneumologista do Centro de Especialidades Médicas devido a queixas de dor no hemitórax direito, dispneia, tosse e emagrecimento. Informa que, devido à fadiga, interrompeu a realização diária de caminhada. Relata ser hipertenso em uso regular de losartana (50mg/2xdia). Na história pregressa, relata ter trabalhado como pedreiro na construção civil por 15 anos e, posteriormente, como trabalhador em indústria de brocimento, na produção de caixas d'água e telhas onduladas, por 25 anos até aposentar-se há sete anos. Nega tabagismo. A radiogra a de tórax revelou massas lobuladas na parede torácica à direita. O diagnóstico MAIS PROVÁVEL está relacionado à exposição:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "ao asbesto."
+    },
+    {
+     "letra": "B",
+     "texto": "ao benzeno."
+    },
+    {
+     "letra": "C",
+     "texto": "à radiação solar."
+    },
+    {
+     "letra": "D",
+     "texto": "às radiações ionizantes."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000030805",
+   "codigo": "4000030805",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 31,
+   "temas": [
+    "Hemorragia alveolar Vasculites pulmonares",
+    "Hemoptise"
+   ],
+   "enunciado": "Paciente masculino, 59 anos, dá entrada na emergência com hemorragia alveolar difusa. Assinale o achado esperado no lavado broncoalveolar desse paciente.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Corpos ferruginosos"
+    },
+    {
+     "letra": "B",
+     "texto": "Macrófagos com hemossiderina"
+    },
+    {
+     "letra": "C",
+     "texto": "Macrófagos espumosos"
+    },
+    {
+     "letra": "D",
+     "texto": "Pneumócitos do tipo II, atípicos"
+    },
+    {
+     "letra": "E",
+     "texto": "Linfocitose com razão CD4-CD8 aumentada"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000013475",
+   "codigo": "4000013475",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 32,
+   "temas": [
+    "Pneumopatias Intersticiais Idiopáticas",
+    "Investigação diagnóstica",
+    "Distúrbio ventilatório restritivo"
+   ],
+   "enunciado": "Homem de 54 anos se queixa de tosse seca e dispneia ao andar 2 quarteirões no plano. Os sintomas iniciaram há 1 ano, e apresentaram piora lenta e progressiva. Nega outras queixas, doenças prévias, uso de medicamentos, tabagismo ou etilismo. É trabalhador rural e cuida dos animais da fazenda, preparando a ração e limpando os espaços das galinhas e dos cavalos. Faz queimadas na fazenda. Ao exame físico, PA: 120 X 70mmHg, FC 87bpm, FR 23ipm, SpO₂ 91%. A ausculta respiratória revela crepitações nas teleinspiratórias em ambas as bases dos hemitórax. O restante do exame clínico é normal. As dosagens de fator reumatoide, fator antinuclear, anti-Ro, anti-La, anca, anti-HIV, HBsAg e anti-HCV resultaram negativas. Espirometria: VEF1/CVF 0,8, CVF 55%, VEF1 60%. Tomogra a do tórax: espessamento septal intralobular e interlobular, alguns focos de vidro fosco peribroncovascular e nódulos centrolobulares esparsos com predomínio nas porções superiores e médias de ambos os campos pulmonares. Os hilos pulmonares e o mediastino não apresentam anormalidades. Considerando o caso descrito, assinale a alternativa que apresenta a hipótese diagnóstica MAIS PROVÁVEL para esse paciente.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Doença pulmonar obstrutiva crônica."
+    },
+    {
+     "letra": "B",
+     "texto": "Fibrose pulmonar idiopática."
+    },
+    {
+     "letra": "C",
+     "texto": "Pneumonia de hipersensibilidade."
+    },
+    {
+     "letra": "D",
+     "texto": "Sarcoidose pulmonar."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000011125",
+   "codigo": "4000011125",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 33,
+   "temas": [
+    "Drenagem Pleural Fechada"
+   ],
+   "enunciado": "Homem, 65 anos de idade, com história prévia de blebs, apresenta quadro de pneumotórax. Qual é o posicionamento ideal do paciente para a realização da drenagem pleural?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Em decúbito dorsal horizontal com o membro superior, do lado correspondente à drenagem, em abdução."
+    },
+    {
+     "letra": "B",
+     "texto": "Semi-sentado com o membro superior, do lado correspondente à drenagem, em abdução."
+    },
+    {
+     "letra": "C",
+     "texto": "Em decúbito lateral, com o lado a ser drenado para cima e com o membro superior, do lado correspondente à drenagem, em abdução."
+    },
+    {
+     "letra": "D",
+     "texto": "Em qualquer posição, pois o posicionamento do paciente não influencia no resultado da drenagem pleural."
+    },
+    {
+     "letra": "E",
+     "texto": "Em posição de Trendelenburg, com o membro superior, do lado correspondente à drenagem, em abdução."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000105261",
+   "codigo": "4000105261",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 34,
+   "temas": [
+    "Def inição",
+    "Edema Agudo Pulmonar",
+    "Radiograf ia de tórax"
+   ],
+   "enunciado": "Mulher de 19 anos, admitida na sala de emergência com falta de ar, que se iniciou há algumas horas, relata dor ventilatório dependente e tosse, que se iniciou nos últimos 4 dias. Nega febre, expectoração ou quaisquer outras queixas. Está na 21ª semana de gestação. Nega tabagismo ou comorbidades. Agitação da paciente di culta a realização do exame físico. Sinais vitais: PA = 100 × 60 mmHg, FC = 134 bpm, Sat O₂ de 96% com máscara de O₂ a 100% e taquipneica (34 irpm). Realizada a radiografia abaixo: Sobre o quadro clínico descrito acima, é CORRETO afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Os achados clínicos e radiológicos são compatíveis com a Síndrome de Ortner e aangiotomografia é o exame indicado para confirmação diagnóstica."
+    },
+    {
+     "letra": "B",
+     "texto": "As linhas B de Kerley indicam edema agudo pulmonar como etiologia mais provável epreconiza-se o tratamento com diuréticos e ventilação não invasiva."
+    },
+    {
+     "letra": "C",
+     "texto": "Observa-se a Corcova de Hampton que indica TEP como etiologia mais provável epreconiza-se o tratamento com anti-coagulantes em regime de internação."
+    },
+    {
+     "letra": "D",
+     "texto": "Observa-se o sinal de Westermark que indica TEP como etiologia mais provável epreconiza-se o tratamento com trombolíticos, pelo importante comprometimento respiratório."
+    },
+    {
+     "letra": "E",
+     "texto": "O comprometimento do retorno venoso com redução da pré-carga justifica o quadroclínico; o tratamento com ventilação invasiva pode resultar em deterioração do quadro."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [
+    {
+     "arquivo": "imagens/q034-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000102491",
+   "codigo": "4000102491",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 35,
+   "temas": [
+    "Tuberculose TB",
+    "Silicose",
+    "Pneumoconiose devida à Poeira de Sílica Silicose"
+   ],
+   "enunciado": "Pacientes com silicose, pneumoconiose provocada pela inalação de partículas de sílica cristalina, têm o risco aumentado de desenvolver:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Asbestose."
+    },
+    {
+     "letra": "B",
+     "texto": "Beriliose."
+    },
+    {
+     "letra": "C",
+     "texto": "Placas pleurais."
+    },
+    {
+     "letra": "D",
+     "texto": "Tuberculose."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000090932",
+   "codigo": "4000090932",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 36,
+   "temas": [
+    "Def inição",
+    "História natural",
+    "Quadro clínico"
+   ],
+   "enunciado": "Considere um paciente masculino, 65 anos, encaminhado à consulta ambulatorial com queixa de dispneia aos esforços progressiva. No último mês procurou atendimento duas vezes em emergências por quadro de dispneia associada à tosse produtiva, sendo medicado com antibióticos. Fora desses momentos de crise nega tosse, expectoração, perda de peso. Relata mais duas visitas à emergência com os mesmos sintomas respiratórios no último ano. Nega outros problemas de saúde, alergias ou história de asma na infância. Não pratica atividade física regular, relata tabagismo 30 maços/ano, sendo que está há uma semana sem fumar. Ao exame físico mostra-se eutró co, sem dispneia de repouso, SpO₂ 92% ar ambiente, ausculta cardíaca e pulmonar sem alterações, sinais vitais dentro da normalidade. Considerando o quadro clínico, é CORRETO afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A história clínica com presença de agudizações exclui a possibilidade de tromboembolismo pulmonar."
+    },
+    {
+     "letra": "B",
+     "texto": "A presença de tabagismo associado a crises de dispneia afasta a possibilidade diagnóstica de doença pulmonar intersticial."
+    },
+    {
+     "letra": "C",
+     "texto": "Linfangioleiomiomatose é uma forte possibilidade diagnóstica, considerando os dados clínicos do paciente."
+    },
+    {
+     "letra": "D",
+     "texto": "A hipótese diagnóstica mais provável é de bronquiectasias, sendo necessário confirmação através de espirometria e RX tórax."
+    },
+    {
+     "letra": "E",
+     "texto": "A hipótese diagnóstica mais provável é DPOC, sendo necessário solicitar espirometria para definição diagnóstica."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000082024",
+   "codigo": "4000082024",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 37,
+   "temas": [
+    "Manejo terapêutico"
+   ],
+   "enunciado": "Homem de 47 anos, com sequela de tuberculose pulmonar, mostra raio-x de tórax com bronquiectasias cilíndricas em ambos os lobos superiores, além de algumas áreas de retrações bróticas adjacentes. Analise as assertivas abaixo em relação a esse caso: I. É recomendada vacinação de proteção contra Influenza e Pneumococo. II. A presença, em escarro, de pseudomonas aeruginosa aumenta o risco de exacerbação e piora o prognóstico. III. Em relação à imagem torácica, a tomogra a computadorizada do tórax é o padrão-ouro para o diagnóstico de bronquiectasias. Quais estão corretas?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Apenas I."
+    },
+    {
+     "letra": "B",
+     "texto": "Apenas II."
+    },
+    {
+     "letra": "C",
+     "texto": "Apenas I e III."
+    },
+    {
+     "letra": "D",
+     "texto": "I, II e III."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000074102",
+   "codigo": "4000074102",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 38,
+   "temas": [
+    "Semiologia",
+    "Quadro clínico",
+    "Exame Físico"
+   ],
+   "enunciado": "Ao exame físico, o diagnóstico diferencial entre derrame pleural e pneumotórax é feito através de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ausculta."
+    },
+    {
+     "letra": "B",
+     "texto": "Percussão."
+    },
+    {
+     "letra": "C",
+     "texto": "Frêmito toracovocal."
+    },
+    {
+     "letra": "D",
+     "texto": "Inspeção."
+    },
+    {
+     "letra": "E",
+     "texto": "Frequência respiratória."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000066876",
+   "codigo": "4000066876",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 39,
+   "temas": [
+    "Tratamento",
+    "Radiograf ia de Tórax",
+    "Radiograf ia de tórax"
+   ],
+   "enunciado": "Homem, 35 anos, com desconforto respiratório há dois dias, com tosse seca, espirros frequentes e rinite. Dá entrada no PS, com dor pleurítica em hemitórax esquerdo. Apresenta febre de 39ºC, saturação de oxigênio de 94%, pressão arterial de 134 x 76 mmHg, pulso de 120 bpm e frequência respiratória de 24 por minuto. Após fazer o exame de Raio X abaixo, você decide:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Drenar o tórax esquerdo."
+    },
+    {
+     "letra": "B",
+     "texto": "Pedir TC de tórax."
+    },
+    {
+     "letra": "C",
+     "texto": "Pedir broncoscopia com lavado broncoalveolar."
+    },
+    {
+     "letra": "D",
+     "texto": "Antibiótico com claritromicina e rocefin."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q039-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000042954",
+   "codigo": "4000042954",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 40,
+   "temas": [
+    "Semiologia",
+    "Def inição",
+    "Diagnóstico dif erencial de dor torácica na emergência"
+   ],
+   "enunciado": "Homem, 36 anos, tabagista (18 maços/ano), queixa-se de dor torácica súbita em hemitórax esquerdo, com piora com a inspiração profunda. Ao exame: dispneico, sudoreico, acianótico, com murmúrio vesicular reduzido em hemitórax à esquerda e com hipertimpanismo à percussão. A principal hipótese diagnóstica é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "pneumotórax espontâneo."
+    },
+    {
+     "letra": "B",
+     "texto": "infarto agudo do miocárdio."
+    },
+    {
+     "letra": "C",
+     "texto": "atelectasia pulmonar."
+    },
+    {
+     "letra": "D",
+     "texto": "neoplasia pulmonar."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000036757",
+   "codigo": "4000036757",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 41,
+   "temas": [
+    "Pneumopatias Intersticiais Hipertensão Pulmonar Bronquiectasias e Pneumotórax Espontâneo",
+    "Cirurgia"
+   ],
+   "enunciado": "Jogador de futebol de 24 anos, previamente hígido e sem comorbidades, apresentou durante o jogo dispneia súbita e dor torácica. Foi levado pelo SAMU imediatamente ao PS, apresentando saturação de oxigênio de 80%, sem melhora com máscara de oxigênio. Ao exame físico, apresentava estase jugular, murmúrio vesicular abolido à direita, com timpanismo à percussão do mesmo lado. Taquicárdico e hipotenso. Nesse caso, qual a hipótese diagnóstica e a conduta corretas?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tromboembolismo pulmonar - Angiotomografia e fibrinólise."
+    },
+    {
+     "letra": "B",
+     "texto": "Pneumotórax espontâneo - Raios-X de tórax AP e P, e punção no 2º espaço intercostal direito."
+    },
+    {
+     "letra": "C",
+     "texto": "Tromboembolismo pulmonar - Intubação orotraqueal e ventilação mecânica."
+    },
+    {
+     "letra": "D",
+     "texto": "Pneumotórax espontâneo - Punção no 2º espaço intercostal direito."
+    },
+    {
+     "letra": "E",
+     "texto": "Pneumotórax espontâneo - Drenagem torácica no 5º espaço intercostal direito linha axilar média."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000024724",
+   "codigo": "4000024724",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 42,
+   "temas": [
+    "Epidemiologia",
+    "Exame Físico",
+    "História Clínica"
+   ],
+   "enunciado": "Leia o caso clínico a seguir. Paciente do sexo masculino, de 25 anos, composição física de fenótipo longilíneo, hígido até então, embora tabagista, apresenta quadro de dor torácica de início súbito à direita, controlada com analgésicos, tosse e dispneia transitória com melhora, eupneico no momento. Neste caso,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o quadro clínico é compatível com pneumotórax espontâneo hipertensivo."
+    },
+    {
+     "letra": "B",
+     "texto": "a conduta inicial independe do achado radiológico."
+    },
+    {
+     "letra": "C",
+     "texto": "a etiologia provável está associada à ruptura de blebs pulmonares."
+    },
+    {
+     "letra": "D",
+     "texto": "a tuberculose primária seria um diagnóstico provável."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000016706",
+   "codigo": "4000016706",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 43,
+   "temas": [
+    "Hipertensão Pulmonar"
+   ],
+   "enunciado": "Assinale a alternativa que apresenta o achado ao exame clínico que NÃO se deve à hipertensão arteriolar pulmonar idiopática grave.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Movimento paraesternal esquerdo."
+    },
+    {
+     "letra": "B",
+     "texto": "Baqueteamento digital."
+    },
+    {
+     "letra": "C",
+     "texto": "Desdobramento contínuo e variável da segunda bulha com hiperfonese do componente pulmonar."
+    },
+    {
+     "letra": "D",
+     "texto": "Sopro holossistólico suave, mais audível na inspiração, na borda esternal inferior esquerda."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000011369",
+   "codigo": "4000011369",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 44,
+   "temas": [
+    "Doenças relacionadas ao asbesto Asbestose",
+    "Asbestose"
+   ],
+   "enunciado": "A doença ocupacional relacionada ao mesotelioma é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a silicose."
+    },
+    {
+     "letra": "B",
+     "texto": "a beriliose."
+    },
+    {
+     "letra": "C",
+     "texto": "a asbestose."
+    },
+    {
+     "letra": "D",
+     "texto": "o saturnismo."
+    },
+    {
+     "letra": "E",
+     "texto": "o hidrargirismo."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000011338",
+   "codigo": "4000011338",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 45,
+   "temas": [
+    "Outras beriliose siderose e bissinose"
+   ],
+   "enunciado": "A bissinose é uma doença ocupacional que ocorre no pulmão de trabalhadores que em sua prática laboral têm um contato intenso com o",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "mica."
+    },
+    {
+     "letra": "B",
+     "texto": "talco."
+    },
+    {
+     "letra": "C",
+     "texto": "caolim."
+    },
+    {
+     "letra": "D",
+     "texto": "algodão."
+    },
+    {
+     "letra": "E",
+     "texto": "feldspato."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000010630",
+   "codigo": "4000010630",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 46,
+   "temas": [
+    "Diagnóstico dif erencial",
+    "Achados clínicos",
+    "Manif estações clínicas"
+   ],
+   "enunciado": "Uma paciente de 22 anos de idade, sem antecedentes de tabagismo, evolui há seis semanas, com piora de uma tosse seca e dispneia que não melhoraram após uso de antibioticoterapia e broncodilatadores. Apresenta nível sérico de cálcio de 12,5 mg\\dl (VR: 8,0 mg\\dl a 11,0 mg\\dl), e os raios X de tórax mostram linfadenopatia peri-hilar bilateral. Apresenta eritema nodoso em pernas bilateralmente. Acerca desse caso clínico, assinale a alternativa que apresenta o diagnóstico mais provável dessa paciente.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Sarcoidose."
+    },
+    {
+     "letra": "B",
+     "texto": "Pneumonia por germes atípicos."
+    },
+    {
+     "letra": "C",
+     "texto": "Embolia pulmonar."
+    },
+    {
+     "letra": "D",
+     "texto": "Lúpus eritematoso sistêmico."
+    },
+    {
+     "letra": "E",
+     "texto": "Carcinoma epidermoide de pulmão."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000130141",
+   "codigo": "4000130141",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 47,
+   "temas": [
+    "Diagnóstico"
+   ],
+   "enunciado": "Um médico legista faz necropsia de uma mulher não identi cada que aparenta ter entre 35 e 40 anos e com história clínica desconhecida. Ao exame dos pulmões são evidenciados ateromas nas artérias pulmonares. A doença pré-existente compatível com o achado é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hemossiderose pulmonar idiopática."
+    },
+    {
+     "letra": "B",
+     "texto": "Hipertensão pulmonar."
+    },
+    {
+     "letra": "C",
+     "texto": "Granulomatose de Wegener."
+    },
+    {
+     "letra": "D",
+     "texto": "Síndrome de Goodpasture."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000127500",
+   "codigo": "4000127500",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 48,
+   "temas": [
+    "Def inição"
+   ],
+   "enunciado": "Em relação à bronquiectasia, é correto afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A reabilitação pulmonar, importante no tratamento do DPOC, não tem benefício nabronquiectasia."
+    },
+    {
+     "letra": "B",
+     "texto": "O diagnóstico de exacerbação é clínico. Radiografia de tórax deve ser realizada naemergência para diagnóstico diferencial."
+    },
+    {
+     "letra": "C",
+     "texto": "Antibiótico profilático para exacerbação não é indicado dada a crescente preocupaçãocom o advento de resistência bacteriana."
+    },
+    {
+     "letra": "D",
+     "texto": "O tratamento clínico com broncodilatadores e corticoide inalatórios é efetivo emreverter a inflamação das vias aéreas."
+    },
+    {
+     "letra": "E",
+     "texto": "Em geral a etiologia da bronquiectasia é identificada e passível de ser tratada, levandoa reversão da inflamação das vias aéreas através do controle da doença de base."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000125368",
+   "codigo": "4000125368",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 49,
+   "temas": [
+    "Exames de Imagem",
+    "Nãof ibrocística",
+    "Lavado broncoalveolar LBA"
+   ],
+   "enunciado": "Em relação à fibrose pulmonar idiopática (FPI), é correto afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a biópsia pulmonar a céu aberto não é indicada para o estabelecimento do diagnóstico de FPI, mesmo quando a tomografia computadorizada de alta resolução não defina padrão de pneumonia intersticial usual."
+    },
+    {
+     "letra": "B",
+     "texto": "a presença de faveolamento com bronquiectasias de tração difusas à tomografia computadorizada de alta resolução de tórax estabelece padrão radiológico de pneumonia intersticial usual, característica da FPI."
+    },
+    {
+     "letra": "C",
+     "texto": "o achado histopatológico na biópsia pulmonar a céu aberto de áreas extensas de pneumonia em organização, embora não definitivo, fortalece a hipótese de pneumonia intersticial usual."
+    },
+    {
+     "letra": "D",
+     "texto": "o tratamento rotineiro de refluxo gastroesofágico (RGE) não é recomendado em pacientes com FPI, apenas nos casos com investigação diagnóstica comprovada."
+    },
+    {
+     "letra": "E",
+     "texto": "o diagnóstico de FPI é baseado na ausência de causa conhecida de fibrose pulmonar, associada à presença de padrão histológico e/ou radiológico de pneumonia intersticial usual."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000122932",
+   "codigo": "4000122932",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 50,
+   "temas": [
+    "Pneumopatias Intersticiais",
+    "Cuidados paliativos em pneumologia",
+    "Pneumonite Aspirativa"
+   ],
+   "enunciado": "Mulher de 94 anos, internada em casa de repouso há 5 anos, não consegue mais deambular. Após 3º episódio de AVE, alimenta-se e comunica-se com di culdade. Faz uso frequente de óleo mineral, devido à constipação, o que a deixa mais suscetível a desenvolver",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "pneumonia lipoídica."
+    },
+    {
+     "letra": "B",
+     "texto": "alteração na lipase pancreática."
+    },
+    {
+     "letra": "C",
+     "texto": "esteatose hepática."
+    },
+    {
+     "letra": "D",
+     "texto": "alteração dos sais biliares."
+    },
+    {
+     "letra": "E",
+     "texto": "disfagia."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000110868",
+   "codigo": "4000110868",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 51,
+   "temas": [
+    "Tratamento",
+    "Pneumotórax Simples",
+    "Cirurgia"
+   ],
+   "enunciado": "Em qual situação o pneumotórax pode ser tratado clinicamente, sem intervenção?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "de tamanho grande, porém pouco sintomático"
+    },
+    {
+     "letra": "B",
+     "texto": "de tamanho grande, porém primeiro episódio"
+    },
+    {
+     "letra": "C",
+     "texto": "primeiro episódio e pouco sintomático, independente do tamanho"
+    },
+    {
+     "letra": "D",
+     "texto": "tamanho pequeno, poucos sintomas e primeiro episódio"
+    },
+    {
+     "letra": "E",
+     "texto": "tamanho pequeno, independente dos sintomas ou dos episódios prévios"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000107058",
+   "codigo": "4000107058",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 52,
+   "temas": [
+    "Semiologia",
+    "Def inição",
+    "Epidemiologia"
+   ],
+   "enunciado": "Enfermo jovem, 25 anos, tabagista, chega à emergência dispnéico, com história de dor súbita, tipo pleurítica à direita, após reforço. Ao exame físico evidenciou-se murmúrio vesicular e frêmito toracovocal ausentes à direita, com hipersonoridade neste local. O provável diagnostico é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Consolidação pulmonar;"
+    },
+    {
+     "letra": "B",
+     "texto": "Pneumotórax;"
+    },
+    {
+     "letra": "C",
+     "texto": "Derrame pleural;"
+    },
+    {
+     "letra": "D",
+     "texto": "Atelectasia;"
+    },
+    {
+     "letra": "E",
+     "texto": "Hiperinsuflação pulmonar."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000104732",
+   "codigo": "4000104732",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 53,
+   "temas": [
+    "Tratamento",
+    "Radiograf ia de Tórax",
+    "Cirurgia"
+   ],
+   "enunciado": "Homem, 24 anos, é atendido na Unidade de Emergência de um hospital terciário com queixa de dor súbita em hemitórax direito e dispnéia progressiva durante caminhada há 2 horas. Refere já ter apresentado pneumotórax a esquerda, tendo sido submetido a drenagem pleural, há 2 anos. Ao exame físico: paciente calmo, frequência respiratória de 18 ipm, pressão arterial 130x90 mmHg, frequência cardíaca de 90bpm, hiperssonoridade à percussão do hemitórax direito e ausência de murmúrio vesicular. A figura abaixo mostra a radiografia de tórax da admissão hospitalar. Qual a abordagem mais apropriada para esta afecção?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Drenagem pleural apenas"
+    },
+    {
+     "letra": "B",
+     "texto": "Tratamento cirúrgico"
+    },
+    {
+     "letra": "C",
+     "texto": "Tratamento conservador"
+    },
+    {
+     "letra": "D",
+     "texto": "Drenagem pleural associada a pleurodese química"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q053-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000083287",
+   "codigo": "4000083287",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 54,
+   "temas": [
+    "Pneumologia",
+    "Síndromes pulmonares eosinof ílicas"
+   ],
+   "enunciado": "O diagnóstico de pneumonia eosinofílica aguda é determinado pela presença de radiografia pulmonar com:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Infiltrado intersticial e hemograma com eosinofilia."
+    },
+    {
+     "letra": "B",
+     "texto": "Foco de consolidação e hemograma com eosinofilia."
+    },
+    {
+     "letra": "C",
+     "texto": "Infiltrado intersticial, hemograma sem eosinofilia e lavado broncoalveolar com eosinofilia."
+    },
+    {
+     "letra": "D",
+     "texto": "Foco de consolidação, hemograma com eosinofilia e biópsia pulmonar inespecífica."
+    },
+    {
+     "letra": "E",
+     "texto": "Bronquiectasias, hemograma sem eosinofilia e exame parasitológico de fezes com estrongiloides."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000077712",
+   "codigo": "4000077712",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 55,
+   "temas": [
+    "Pneumonite de Hipersensibilidade PH"
+   ],
+   "enunciado": "Homem, 45 anos, com tosse seca, cansaço progressivo, atualmente aos pequenos esforços, e perda de 8 kg nos últimos dois anos. Nega tabagismo. Exame físico: taquipneico; presença de estertorações bilaterais e baqueteamento digital. TC de tórax de alta resolução: in ltrado intersticial, brose poupando as bases, presença de significativo aprisionamento de ar e nódulos centrolobulares. Lavado broncoalveolar: mais de 50% de linfócitos. Biópsia pulmonar: granulomas não caseosos, malformados. A hipótese diagnóstica mais provável é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Pneumonia eosinofílica."
+    },
+    {
+     "letra": "B",
+     "texto": "Sarcoidose."
+    },
+    {
+     "letra": "C",
+     "texto": "Proteinose alveolar."
+    },
+    {
+     "letra": "D",
+     "texto": "Pneumonia de hipersensibilidade."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000077282",
+   "codigo": "4000077282",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 56,
+   "temas": [
+    "Tratamento",
+    "Def inição",
+    "Drenagem Pleural Fechada"
+   ],
+   "enunciado": "O médico examina um homem jovem que apresenta intensa dispneia, taquicardia, sudorese, turgência de jugulares, extremidades frias e cianóticas. A ausculta respiratória mostra murmúrio vesicular presente à esquerda e ausente à direita. Um acompanhante diz que o paciente começou a sentir “falta de ar” quando ensaiava, tocando saxofone, com seus amigos. Diante deste quadro, a sua hipótese diagnóstica e a conduta terapêutica imediata seriam, respectivamente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Pneumotórax espontâneo e toracocentese."
+    },
+    {
+     "letra": "B",
+     "texto": "Infarto agudo do miocárdio e assistência respiratória mecânica."
+    },
+    {
+     "letra": "C",
+     "texto": "Embolia pulmonar e anticoagulante."
+    },
+    {
+     "letra": "D",
+     "texto": "Pericardite constritiva e pericardiocentese"
+    },
+    {
+     "letra": "E",
+     "texto": "Empiema pleural e drenagem tubular fechada."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000039097",
+   "codigo": "4000039097",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 57,
+   "temas": [
+    "Pneumopatia Intersticial Usual PIU Fibrose Pulmonar Idiopática FPI"
+   ],
+   "enunciado": "No ano de 2016 foi aprovado pela ANVISA dois medicamentos anti bróticos capazes de desacelerar a progressão da Fibrose Pulmonar Idiopática. Sobre a doença assinale a alternativa correta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "É uma doença pulmonar intersticial difusa de etiologia genética que se manifesta em adultos jovens;"
+    },
+    {
+     "letra": "B",
+     "texto": "Apresenta espirometria com VEF1/CVF reduzida e CVF (Capacidade Vital Forçada) aumentada;"
+    },
+    {
+     "letra": "C",
+     "texto": "O achado tomográfico/anatomopatológico característico é de Pneumonia Intersticial Usual (PIU);"
+    },
+    {
+     "letra": "D",
+     "texto": "Hipocratismo digital é observado em 60% dos casos."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000033206",
+   "codigo": "4000033206",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 58,
+   "temas": [
+    "Pneumotórax espontâneo",
+    "Dissecção aórtica aguda",
+    "Exame Físico"
+   ],
+   "enunciado": "Trata-se de paciente 20 anos, longilíneo, iniciou com quadro de dor torácica súbita, ventilatório-dependente associado a dispneia. Nega trauma. Relata ser o primeiro episódio. Nega co-morbidades. Ao exame físico notava-se: murmúrio vesicular abolido HTX Esquerdo e timpanismo à percussão torácica. FR: 24 irpm. FC: 80 bpm PA: 120x80 mmhg. Ausência de cianose de extremidades. Baseado na principal hipótese diagnóstica são alterações possíveis de encontrar no RX de tórax, exceto:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Aumento do espaço intercostal esquerdo"
+    },
+    {
+     "letra": "B",
+     "texto": "Deslocamento do mediastino para o lado direito."
+    },
+    {
+     "letra": "C",
+     "texto": "Rebaixamento do diafragma esquerdo"
+    },
+    {
+     "letra": "D",
+     "texto": "Apagamento do botão aórtico"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000026469",
+   "codigo": "4000026469",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 59,
+   "temas": [
+    "Epidemiologia",
+    "Tomograf ia de Tórax",
+    "Fatores de Risco"
+   ],
+   "enunciado": "A principal causa de pneumotórax espontâneo é o(a):",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "trauma torácico fechado."
+    },
+    {
+     "letra": "B",
+     "texto": "carcinoma epidermoide."
+    },
+    {
+     "letra": "C",
+     "texto": "pneumonia bacteriana."
+    },
+    {
+     "letra": "D",
+     "texto": "ruptura de bronquiectasias."
+    },
+    {
+     "letra": "E",
+     "texto": "ruptura de bolhas subpleurais."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000103032",
+   "codigo": "4000103032",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 60,
+   "temas": [
+    "Avaliação f uncional"
+   ],
+   "enunciado": "Homem, 70 anos, tabagista de 40 anos/maço. Há seis meses com tosse seca e dispneia progressiva, atualmente aos moderados esforços. Exame físico: Bom estado geral, corado, acianótico. Presença de baqueteamento digital. Murmúrio vesicular presente com estertores nos em velcro em terço inferior de ambos hemitóraces; FR: 28 irpm. RCR 2T; bulhas normofonéticas sem sopros. FC: 88 bpm; PA: 130 x 80 mmHg. Realizou tomografia computadorizada de tórax. Qual é o parâmetro MAIS sensível para detectar alteração funcional?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Difusão de monóxido de carbono."
+    },
+    {
+     "letra": "B",
+     "texto": "Pressão parcial de O2 na gasometria arterial."
+    },
+    {
+     "letra": "C",
+     "texto": "Capacidade pulmonar total."
+    },
+    {
+     "letra": "D",
+     "texto": "Volume expiratório forçado no primeiro segundo."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q060-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000032004",
+   "codigo": "4000032004",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 61,
+   "temas": [
+    "Diagnóstico",
+    "Manif estações clínicas",
+    "Diagnóstico"
+   ],
+   "enunciado": "Mulher de 34 anos procurou auxílio médico com queixa de dispneia aos mínimos esforços. A anamnese revelou que dispneia havia se iniciado há cerca de um ano aos esforços maiores e piorou progressivamente. Negou febre, tosse ou dor torácica. Ao exame físico, as jugulares estavam ingurgitadas; havia impulsões sistólicas no segundo espaço intercostal esquerdo próximo à borda external, ao nível da borda esternal esquerda inferior e epigástrico; a segunda bulha cardíaca era hiperfonética no foco pulmonar; o fígado estava palpável 3cm abaixo do rebordo costal direito e era doloroso à palpação. O restante do exame físico estava dentro da normalidade. Dentre as opções abaixo, qual é o diagnóstico MAIS PROVÁVEL?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cardiopatia isquêmica descompensada"
+    },
+    {
+     "letra": "B",
+     "texto": "Forma cardiopulmonar da esquistossomose"
+    },
+    {
+     "letra": "C",
+     "texto": "Hipertensão pulmonar primária e cor pulmonale"
+    },
+    {
+     "letra": "D",
+     "texto": "Miocardiopatia chagásica descompensada"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000126371",
+   "codigo": "4000126371",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 62,
+   "temas": [
+    "Diagnóstico",
+    "Alterações eletrocardiográf icas mais comuns"
+   ],
+   "enunciado": "Os achados que podem ser comumente encontrados no eletrocardiograma de um portador de Hipertensão Arterial Pulmonar (HAP) são os seguintes, EXCETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Sobrecarga atrial direita."
+    },
+    {
+     "letra": "B",
+     "texto": "Bloqueio de ramo direito."
+    },
+    {
+     "letra": "C",
+     "texto": "s1q3t3."
+    },
+    {
+     "letra": "D",
+     "texto": "Alteração de repolarização ventricular."
+    },
+    {
+     "letra": "E",
+     "texto": "Bloqueio divisional anterossuperior."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000103243",
+   "codigo": "4000103243",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Miscelânea Pneumologia",
+   "numero": 63,
+   "temas": [
+    "Inf ectologia"
+   ],
+   "enunciado": "Paciente sem história pregressa de asma e em uso de macrodantina inicia quadro de tosse, febre e dispneia aos esforços, com estertoração crepitante difusa na ausculta pulmonar. Oximetria de pulso demonstra leve hipoxemia e tomogra a de tórax, áreas de condensação dos espaços aéreos, opacidades “em vidro fosco” bilateralmente e difusas. A principal hipótese diagnóstica para o caso é: Respostas: 1 12 23 34 45 56",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Granulomatose linfomatoide."
+    },
+    {
+     "letra": "B",
+     "texto": "Pneumonia criptogênica em organização."
+    },
+    {
+     "letra": "C",
+     "texto": "Linfangioleiomiomatose pulmonar."
+    },
+    {
+     "letra": "D",
+     "texto": "Proteinose alveolar pulmonar."
+    },
+    {
+     "letra": "E",
+     "texto": "Síndrome de Goodpasture."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": []
+}

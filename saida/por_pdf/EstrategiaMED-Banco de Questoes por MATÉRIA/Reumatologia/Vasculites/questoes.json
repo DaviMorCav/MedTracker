@@ -1,0 +1,3522 @@
+{
+ "questoes": [
+  {
+   "id": "4000190391",
+   "codigo": "4000190391",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 1,
+   "temas": [
+    "Tratamento",
+    "Diagnóstico"
+   ],
+   "enunciado": "Homem de 58 anos de idade comparece em consulta ambulatorial com queixa de que, há cerca de um mês, apresenta cefaleia unilateral em peso, intermitente, de moderada intensidade, que piora ao se alimentar e irradia para a mandíbula. Refere ainda fadiga e sensação de febre, não aferida. Exame físico sem alterações. Os exames evidenciaram: proteína C reativa 45mg/L (VR < 5mg/L); velocidade de hemossedimentação 110mm/h (VR < 15mm/h); creatinina 1,0mg/dL (VR 0,7 - 1,2mg/dL); ureia 42mg/dL (VR 10 - 50mg/dL); sódio 138mEq/L (VR 135 - 145mEq/L); potássio 4,2mEq/L (VR 3,5 - 5,0mEq/L); hemoglobina 11,0g/dL (VR 13,5 - 17,5g/dL); leucócitos 9mil/mm (VR 4,00 - 11,00mil/mm³) e plaquetas 350mil/mm³ (VR 150 - 400mil/mm³). Tomogra a computadorizada do crânio sem alterações. Quais são as condutas diagnóstica e terapêutica que devem ser adotadas neste momento?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tomografia computadorizada de seios da face e iniciar antibioticoterapia."
+    },
+    {
+     "letra": "B",
+     "texto": "Biopsia de artéria temporal unilateral e iniciar corticoterapia."
+    },
+    {
+     "letra": "C",
+     "texto": "Ressonância magnética da coluna cervical e iniciar anti-inflamatório não esteroidal."
+    },
+    {
+     "letra": "D",
+     "texto": "Ressonância magnética do crânio, além de iniciar antiagregante plaquetário e estatina."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000187741",
+   "codigo": "4000187741",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 2,
+   "temas": [
+    "Manif estações clínicas"
+   ],
+   "enunciado": "Úlceras orais recorrentes, úlceras genitais recorrentes, uveíte, eritema nodoso e teste de patergia positivo são achados típicos na:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Granulomatose eosinofílica com poliangiite (GEP"
+    },
+    {
+     "letra": "B",
+     "texto": "Granulomatose com poliangiite (GP"
+    },
+    {
+     "letra": "C",
+     "texto": "Lupus eritematoso sistêmico (LES)"
+    },
+    {
+     "letra": "D",
+     "texto": "Doença de Behçet"
+    },
+    {
+     "letra": "E",
+     "texto": "Artrite Reumatoide com manifestações extra articulares"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000187456",
+   "codigo": "4000187456",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 3,
+   "temas": [
+    "Diagnóstico"
+   ],
+   "enunciado": "Mulher de 35 anos de idade, previamente hígida, comparece ao ambulatório com queixa de artralgias nos joelhos e punhos, sensação de febre não aferida intermitente, cefaleia bitemporal e aftas orais recorrentes há 5 meses. Também apresentou lesões descritas como sendo \"similares à acne\" no seu tronco e nos braços, autolimitadas, que agora não estão presentes. Também teve alguns episódios de diarreia, que foram tratados com uso de antibióticos e loperamida, após atendimento em unidade de pronto atendimento. Hoje, tem queixa também de úlceras genitais dolorosas, sendo este o terceiro episódio apresentado neste período. Ao exame físico, apresenta lesões genitais rasas, de fundo limpo e sem linfonodos inguinais alterados. Sem outras alterações. Em diferentes oportunidades, fez uso de paracetamol, dipirona, cetoprofeno, diclofenaco e bicarbonato de sódio por conta desses sintomas. Os exames complementares evidenciam apenas uma anemia discreta, sem ferropenia. Sem alterações de aminotransferases, enzimas canaliculares, função renal, eletrólitos, fator antinuclear (FAN), fator reumatoide ou complemento. Qual é o exame que estará alterado e auxiliará no diagnóstico desta paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "PCR para HSV"
+    },
+    {
+     "letra": "B",
+     "texto": "Teste de patergia"
+    },
+    {
+     "letra": "C",
+     "texto": "Anti-transglutaminase"
+    },
+    {
+     "letra": "D",
+     "texto": "PCR para monkeypox"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000187252",
+   "codigo": "4000187252",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 4,
+   "temas": [
+    "Manif estações clínicas"
+   ],
+   "enunciado": "Mulher, 30 anos, queixando-se de dor em membro superior esquerdo após esforços, de início há 6 meses. Associa ao mesmo período episódios de febre, diária, não aferida e cefaleias esporádicas de resolução espontânea. Neste intervalo apresentou crises hipertensivas importantes. Nega comorbidades. Nega tabagismo/etilismo. Ao exame físico encontra-se em bom estado geral, bulhas rítmicas em 2 tempos, sem sopros audíveis, pressão arterial sistólica em repouso de 160 mmHg, ausculta pulmonar sem alterações. Ao exame: Perfusão lenti cada no antebraço esquerdo, sem lesões de pele e fâneros, com pulso liforme da a. braquial. Após coleta de exames séricos, notou-se aumento de provas inflamatórias. A principal hipótese diagnóstica é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Esclerodermia vascular."
+    },
+    {
+     "letra": "B",
+     "texto": "Doença de Buerguer."
+    },
+    {
+     "letra": "C",
+     "texto": "Embolia arterial crônica."
+    },
+    {
+     "letra": "D",
+     "texto": "Arterite de Takayasu."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000187251",
+   "codigo": "4000187251",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 5,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Mulher, 30 anos, queixando-se de dor em membro superior esquerdo após esforços, de início há 6 meses. Associa ao mesmo período episódios de febre, diária, não aferida e cefaleias esporádicas de resolução espontânea. Neste intervalo apresentou crises hipertensivas importantes. Nega comorbidades. Nega tabagismo/etilismo. Ao exame físico encontra-se em bom estado geral, bulhas rítmicas em 2 tempos, sem sopros audíveis, pressão arterial sistólica em repouso de 160 mmHg, ausculta pulmonar sem alterações. Ao exame: Perfusão lenti cada no antebraço esquerdo, sem lesões de pele e fâneros, com pulso liforme da a. braquial. Após coleta de exames séricos, notou-se aumento de provas inflamatórias. Das alternativas abaixo, a terapia mais adequada é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Corticoterapia e antiagregação plaquetária"
+    },
+    {
+     "letra": "B",
+     "texto": "Trombólise química"
+    },
+    {
+     "letra": "C",
+     "texto": "Trombólise mecânica"
+    },
+    {
+     "letra": "D",
+     "texto": "Anticoagulação"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186403",
+   "codigo": "4000186403",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 6,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Sobre a arterite de Takayasu, é correto afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "é uma doença inflamatória e estenosante de artérias de médio e pequeno calibre."
+    },
+    {
+     "letra": "B",
+     "texto": "é mais prevalente em adolescentes do sexo masculino e homens jovens."
+    },
+    {
+     "letra": "C",
+     "texto": "o tratamento é realizado com glicocorticoides e, em casos refratários, com metotrexato."
+    },
+    {
+     "letra": "D",
+     "texto": "acomete, com grande frequência, as artérias temporais."
+    },
+    {
+     "letra": "E",
+     "texto": "apesar do comprometimento arterial, não há alteração de pulsos nos vasos envolvidos."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186253",
+   "codigo": "4000186253",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 7,
+   "temas": [
+    "Manif estações clínicas",
+    "Diagnóstico",
+    "Tratamento"
+   ],
+   "enunciado": "Mulher de 19 anos apresenta febre de longa duração, astenia, perda de peso, evolui com claudicação intermitente no braço esquerdo após pequenos esforços e aumento da pressão arterial no braço direito. Exames revelam leucocitose moderada, VHS 100 mm/h e PCR 21 mg/L. O diagnóstico mais provável e o exame complementar mais indicado para elucidar o caso são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Doença de Takayasu/ angioRM."
+    },
+    {
+     "letra": "B",
+     "texto": "Arterite temporal/ angioRM."
+    },
+    {
+     "letra": "C",
+     "texto": "Aortite infecciosa/ arteriografia."
+    },
+    {
+     "letra": "D",
+     "texto": "Displasia fibromuscular/ arteriografia."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000185892",
+   "codigo": "4000185892",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 8,
+   "temas": [
+    "Manif estações clínicas",
+    "Polimialgia reumática",
+    "Diagnóstico"
+   ],
+   "enunciado": "Mulher de 72 anos, com queixa de dores de forte intensidade em cintura escapular, pélvica e dorso de início há 2 meses, associadas a inapetência, fadiga e emagrecimento de 3 kg. Nega quaisquer outras queixas. Ao exame físico, apresenta dores em cintura escapular e pélvica, sem artrite ou bloqueio articular. Não há redução de força muscular. Com base em sua principal hipótese diagnóstica, qual exame deve ser solicitado?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Antipeptídeo citrulinado cíclico."
+    },
+    {
+     "letra": "B",
+     "texto": "Aldolase."
+    },
+    {
+     "letra": "C",
+     "texto": "Velocidade de hemossedimentação."
+    },
+    {
+     "letra": "D",
+     "texto": "Anti-Jo1."
+    },
+    {
+     "letra": "E",
+     "texto": "Fator reumatoide"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000185350",
+   "codigo": "4000185350",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 9,
+   "temas": [
+    "Arterite de Células Gigantes",
+    "Manif estações clínicas"
+   ],
+   "enunciado": "Mulher, 70 anos de idade, procura atendimento clínico por quadro de cefaleia intensa em região temporal, há 4 meses. Queixa-se ainda de fadiga importante, perda da acuidade visual e perda ponderal não aferida. Ao exame, apresentase em regular estado geral, emagrecida, subfebril; demais sinais vitais estáveis. Apresenta alodínia em região de couro cabeludo e claudicação de mandíbula. Considerando o caso clínico descrito, indique o diagnóstico mais provável para o paciente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Neuromielite óptica."
+    },
+    {
+     "letra": "B",
+     "texto": "Arterite de células gigantes"
+    },
+    {
+     "letra": "C",
+     "texto": "Cefaleia em salvas."
+    },
+    {
+     "letra": "D",
+     "texto": "Nevralgia do nervo trigêmeo."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000185349",
+   "codigo": "4000185349",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 10,
+   "temas": [
+    "Diagnóstico"
+   ],
+   "enunciado": "Mulher, 70 anos de idade, procura atendimento clínico por quadro de cefaleia intensa em região temporal, há 4 meses. Queixa-se ainda de fadiga importante, perda da acuidade visual e perda ponderal não aferida. Ao exame, apresentase em regular estado geral, emagrecida, subfebril; demais sinais vitais estáveis. Apresenta alodínia em região de couro cabeludo e claudicação de mandíbula. Indique o exame padrão-ouro para o diagnóstico mais provável:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ressonância magnética de crânio."
+    },
+    {
+     "letra": "B",
+     "texto": "Tomografia computadorizada de crânio."
+    },
+    {
+     "letra": "C",
+     "texto": "Biópsia da artéria temporal."
+    },
+    {
+     "letra": "D",
+     "texto": "Eletroencefalograma."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000185348",
+   "codigo": "4000185348",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 11,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Mulher, 70 anos de idade, procura atendimento clínico por quadro de cefaleia intensa em região temporal, há 4 meses. Queixa-se ainda de fadiga importante, perda da acuidade visual e perda ponderal não aferida. Ao exame, apresentase em regular estado geral, emagrecida, subfebril; demais sinais vitais estáveis. Apresenta alodínia em região de couro cabeludo e claudicação de mandíbula. Frente ao caso, indique a opção terapêutica mais adequada:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tramadol e oxigenioterapia."
+    },
+    {
+     "letra": "B",
+     "texto": "Analgésico comum e escalonar para opioides, conforme resposta."
+    },
+    {
+     "letra": "C",
+     "texto": "Carbamazepina, oxcarbamazepina ou gabapentina."
+    },
+    {
+     "letra": "D",
+     "texto": "Corticoterapia, imunossupressores e/ou imunobiológicos."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000183672",
+   "codigo": "4000183672",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 12,
+   "temas": [
+    "Reumatologia",
+    "Vasculite crioglobulinêmica"
+   ],
+   "enunciado": "Mulher de 38 anos desenvolve artralgia, púrpura e fraqueza por meses tendo sido diagnosticada com síndrome de crioglobulinemia mista. A causa mais comum desta síndrome é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "dermatomiosite/polimiosite."
+    },
+    {
+     "letra": "B",
+     "texto": "lúpus eritematoso sistêmico."
+    },
+    {
+     "letra": "C",
+     "texto": "tuberculose pulmonar."
+    },
+    {
+     "letra": "D",
+     "texto": "hepatite C."
+    },
+    {
+     "letra": "E",
+     "texto": "linfoma de Hodgkin."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000183404",
+   "codigo": "4000183404",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 13,
+   "temas": [
+    "Reumatologia",
+    "Polimialgia reumática"
+   ],
+   "enunciado": "Uma paciente de 72 anos, previamente hígida e sicamente ativa, procurou o médico com queixas de dores em ombros e pescoço há 40 dias. Refere que a dor piora durante a noite, chegando a acordá-la de madrugada, além de apresentar rigidez matinal, quando só consegue tirar a camisola cerca de uma hora após o despertar. Ao exame físico, as provas para avaliação de força muscular são normais, mas há dificuldade para abdução e elevação passiva dos ombros. Qual dos exames abaixo será mais útil para a elucidação diagnóstica deste caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "CPK"
+    },
+    {
+     "letra": "B",
+     "texto": "Aldolase"
+    },
+    {
+     "letra": "C",
+     "texto": "Fator reumatoide"
+    },
+    {
+     "letra": "D",
+     "texto": "Eletroneuromiografia"
+    },
+    {
+     "letra": "E",
+     "texto": "Velocidade de hemossedimentação"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000183184",
+   "codigo": "4000183184",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 14,
+   "temas": [
+    "Reumatologia",
+    "Polimialgia reumática",
+    "Arterite de células gigantes ou arterite temporal"
+   ],
+   "enunciado": "Mulher, 75 anos de idade, apresenta dor, limitação aos movimentos e rigidez matinal em ombros e quadris há um mês, com pouca melhora com dipirona e diclofenaco. Refere febre baixa não aferida e inapetência, sem perda de peso. Extensa investigação evidenciou anemia normocítica e normocrômica (hemoglobina:10,2g/dL);VHS=102mm/1ª hora e PCR= 78mg/L. O PET-CT com 18F-FDG mostrou captação intensa em aorta torácica e abdominal, artérias axilares e ombros e quadris. Quais são os diagnósticos mais prováveis?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Polimialgia reumática e arterite de células gigantes."
+    },
+    {
+     "letra": "B",
+     "texto": "Doença aterosclerótica e osteoartrite de ombros e quadris."
+    },
+    {
+     "letra": "C",
+     "texto": "Aortite isolada e osteoartrite de ombros e quadris."
+    },
+    {
+     "letra": "D",
+     "texto": "Arterite de Takayasu e artropatia microcristalina."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000182893",
+   "codigo": "4000182893",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 15,
+   "temas": [
+    "Reumatologia",
+    "Arterite de Takayasu"
+   ],
+   "enunciado": "Mulher de 34 anos, refere dor e formigamento no membro superior esquerdo há cerca de 2 anos, principalmente ao esforço intenso. Não há limitação a atividades habituais ou surgimento de lesões espontâneas. AP: nega tabagismo e hipertensão. Exame físico: pulsos radial e ulnar palpáveis em membro superior direito, não palpáveis no esquerdo; dor e m antebraço esquerdo à elevação dos membros e manobras repetidas de preensão palmar; perfusão lenti cada em M SE em relação ao MSD; pulsos femorais, poplíteos, tibiais anteriores e posteriores palpáveis bilateralmente; ausência de edema em extremidades. A provável hipótese e a conduta são, respectivamente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Doença de Kawasaki; iniciar corticóide em altas doses e indicar internação hospitalar para realizar coronariografia."
+    },
+    {
+     "letra": "B",
+     "texto": "Tromboangeíte obliterante sem necrose; anticoagulação."
+    },
+    {
+     "letra": "C",
+     "texto": "Arterite de Takayasu; realizar desobstrução a fogarty."
+    },
+    {
+     "letra": "D",
+     "texto": "Arterite de Takayasu; tratamento medicamentoso e acompanhamento periódico."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000181367",
+   "codigo": "4000181367",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 16,
+   "temas": [
+    "Manif estações clínicas",
+    "Vasculites associadas ao ANCA"
+   ],
+   "enunciado": "Granulomatose com poliangiíte GPA ou granulomatose de Wegener Mulher, 40 anos, há 1 ano apresenta episódios recorrentes de rinorreia purulenta. Há 5 meses com adinamia, perda ponderal, artralgia difusa e, há 2 semanas, hiperemia conjuntival e tosse com hemoptoicos. Exame físico: episclerite bilateral, estertores em terço superior de hemitórax direito e artrite em cotovelos. Exames: HB 10,7 (VR HB > 12-14.5), leucócitos 11 mil (VR 4-10 mil), plaquetas 500 mil (VR 150-450 mil); PCR 8.6 mg/dl (VR < 0,6 mg/dl); Cr 1.4 mg/dl (VR 0.5-1.1 mg/dl) Ur 70 mg/dl (VR 10-50 mg/dl); hematúria e proteinúria 400 mg em 24h; fator reumatoide 15 UI/ml (VR < 20 UI/ml); tomogra a de tórax: nódulo cavitado em terço superior de hemitórax direito. Considerando a principal hipótese diagnóstica, que alteração laboratorial a corroboraria?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Anticorpo anticitoplasma de neutrófilo padrão perinuclear."
+    },
+    {
+     "letra": "B",
+     "texto": "Anticorpo anticitoplasma de neutrófilo padrão citoplasmático."
+    },
+    {
+     "letra": "C",
+     "texto": "Fator antinúcleo padrão pontilhado fino denso com título 1:80."
+    },
+    {
+     "letra": "D",
+     "texto": "Anticorpo contra peptídeo cíclico citrulinado com título 40 UI /ml (VR < 20UI)."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000173518",
+   "codigo": "4000173518",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 17,
+   "temas": [
+    "Doença de Behçet",
+    "Síndrome de Behçet",
+    "Reumatologia"
+   ],
+   "enunciado": "Uma paciente de 28 anos apresenta úlceras orais dolorosas há dois anos e mais recentemente passou a se queixar de borramento visual, lesões em membros inferiores e episódios de hemoptise. A investigação detectou panuveíte, eritema nodoso e aneurismas em ramos da artéria pulmonar. Qual o diagnóstico mais provável para esse caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Doença de Goodpasture (doença antimembrana basal glomerular)"
+    },
+    {
+     "letra": "B",
+     "texto": "Granulomatose com poliangeíte (Granulomatose de Wegener)"
+    },
+    {
+     "letra": "C",
+     "texto": "Doença de Behçet"
+    },
+    {
+     "letra": "D",
+     "texto": "Sífilis"
+    },
+    {
+     "letra": "E",
+     "texto": "Crioglobulinemia"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169374",
+   "codigo": "4000169374",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 18,
+   "temas": [
+    "Reumatologia",
+    "Classif icação"
+   ],
+   "enunciado": "Assinale a alternativa que apresenta a enfermidade que exemplifica a vasculite que compromete, predominantemente, vasos de pequeno calibre.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "arterite temporal"
+    },
+    {
+     "letra": "B",
+     "texto": "arterite de Takayasu"
+    },
+    {
+     "letra": "C",
+     "texto": "doença de Kawasaki"
+    },
+    {
+     "letra": "D",
+     "texto": "síndrome de Takotsubo"
+    },
+    {
+     "letra": "E",
+     "texto": "púrpura de Henoch-Schönlein"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000168765",
+   "codigo": "4000168765",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 19,
+   "temas": [
+    "Vasculites associadas ao ANCA",
+    "Doença de Goodpasture",
+    "Poliarterite nodosa PAN"
+   ],
+   "enunciado": "Homem de 24 anos queixa-se de astenia, hiporexia e perda de 5kg em três meses. Há 15 dias, apresenta tosse oligoprodutiva com escarro hemoptoico e dispneia aos esforços. Desconhece doenças prévias. Ao exame físico: PA 150/94 mmHg, FC 86bpm, FR 22ipm, SpO2 92% (em ar ambiente). Exames de laboratório: Hemoglobina: 8,3g/dL; Leucócitos totais: 10.450/mm³; Plaquetas: 210.000/mm³; Proteína C reativa: 45mg/L; Creatinina: 2,3mg/dL; Ureia: 26mg/dL; albumina sérica: 2,9g/dL; FAN: positivo até título 1:80 com padrão nuclear pontilhado no; ANCA: reagente com padrão perinuclear; exame de urina: proteína 3+, 34 hemácias/campo, 12 piócitos/campo. Presença de cilindros hemáticos. Radiografia do tórax: Assinale a alternativa que apresenta um diagnóstico diferencial INADEQUADO para esse paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Lupus eritematoso sistêmico"
+    },
+    {
+     "letra": "B",
+     "texto": "Poliangeíte microscópica"
+    },
+    {
+     "letra": "C",
+     "texto": "Poliarterite nodosa"
+    },
+    {
+     "letra": "D",
+     "texto": "Síndrome de Goodpasture"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q019-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000168199",
+   "codigo": "4000168199",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 20,
+   "temas": [
+    "Granulomatose eosinof ílica com poliangiíte GEPA ou síndrome de ChurgStrauss"
+   ],
+   "enunciado": "Um paciente de 40 anos foi admitido ao hospital com queixas de febre, perda de peso, surgimento de lesões cutâneas e dor neuropática de forte intensidade, há três meses. Relatava história de asma e rinossinusite há seis anos, de difícil controle, requerendo cursos frequentes de corticoide oral. Ao exame físico, observam-se lesões purpúricas elevadas e dolorosas em membros inferiores, e o exame neurológico foi compatível com mononeurite multiplex. Qual dos achados abaixo não seria compatível com o caso descrito?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Eosinofilia >1500/mm³."
+    },
+    {
+     "letra": "B",
+     "texto": "Níveis reduzidos de complemento."
+    },
+    {
+     "letra": "C",
+     "texto": "ANCA positivo."
+    },
+    {
+     "letra": "D",
+     "texto": "Tomografia de tórax mostrando infiltrados e nódulos pulmonares não cavitários."
+    },
+    {
+     "letra": "E",
+     "texto": "Biópsia cutânea, mostrando vasculite necrotizante com infiltrado eosinofílicocolectomia."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000167979",
+   "codigo": "4000167979",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 21,
+   "temas": [
+    "Poliarterite nodosa PAN"
+   ],
+   "enunciado": "Homem, 47 anos, caucasiano, refere que há 02 meses vem apresentando quadro de febre, emagrecimento, artralgias, dor torácica pleurítica e dor mesogástrica. Uma semana antes, ele notou parestesia e paresia da mão esquerda. A pressão arterial é de 150/95 mmHg, (era previamente normotenso) e os exames laboratoriais revelam anemia da doença crônica, aumento do VHS e PCR e leucocitose polimorfonuclear. O diagnóstico mais provável é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Arterite de células gigantes"
+    },
+    {
+     "letra": "B",
+     "texto": "Poliarterite Nodosa"
+    },
+    {
+     "letra": "C",
+     "texto": "Granulomatose de Wegener"
+    },
+    {
+     "letra": "D",
+     "texto": "Sarcoidose"
+    },
+    {
+     "letra": "E",
+     "texto": "Vasculite Cutânea Leucocitoclástica"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000167123",
+   "codigo": "4000167123",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 22,
+   "temas": [
+    "Epidemiologia",
+    "Arterite de células gigantes ou arterite temporal"
+   ],
+   "enunciado": "Em relação à arterite temporal (ou arterite de células gigantes), é correto afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o uso de anti-inflamatórios não esteroidais (AINE) está indicado."
+    },
+    {
+     "letra": "B",
+     "texto": "o uso de glicocorticoides em altas doses pode aumentar o risco de perda visual permanente."
+    },
+    {
+     "letra": "C",
+     "texto": "quase nunca ocorre antes dos 50 anos de idade."
+    },
+    {
+     "letra": "D",
+     "texto": "é mais comum na população afrodescendente."
+    },
+    {
+     "letra": "E",
+     "texto": "o tratamento é diferente nos casos em que a biópsia é inconclusiva."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000147005",
+   "codigo": "4000147005",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 23,
+   "temas": [
+    "Tromboangiíte obliterante ou doença de Buerger"
+   ],
+   "enunciado": "Dentre as seguintes doenças, assinale aquela que tem mais importante relação com tabagismo, com alta prevalência nos doentes.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Acidente vascular cerebral."
+    },
+    {
+     "letra": "B",
+     "texto": "Infarto agudo do miocárdio."
+    },
+    {
+     "letra": "C",
+     "texto": "Trombose mesentérica."
+    },
+    {
+     "letra": "D",
+     "texto": "Trombose de seio cavernoso."
+    },
+    {
+     "letra": "E",
+     "texto": "Tromboangeíte obliterante."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000146624",
+   "codigo": "4000146624",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 24,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Paciente homem, 40 anos, apresenta fadiga, hiporexia, perda de peso, febre, sudorese noturna, calafrios, poliartralgia migratória e fraqueza muscular, presença de púrpura palpável; entre os sintomas neurológicos há neuropatia periférica. Considerando o diagnóstico na forma grave, quanto ao tratamento é CORRETO afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tratar com pulso de corticosteroides e ciclofosfamida, com possibilidade de uso de plasmaférese e imunoglobulina para casos selecionados."
+    },
+    {
+     "letra": "B",
+     "texto": "Tratar com metotrexato ou azatioprina e corticosteroides em baixas doses."
+    },
+    {
+     "letra": "C",
+     "texto": "Na fase inicial, utilizar azatioprina, metotrexato ou leflunomida."
+    },
+    {
+     "letra": "D",
+     "texto": "Na fase inicial, utilizar micofenolato de mofetila, imunoglobulina EV, hidroxiureia (como utilizada em outras síndromes hipereosinofílicas, rituximabe, interferona-alfa, terapia anti-lgE, anti-lL-5 ou plasmaférese."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000145862",
+   "codigo": "4000145862",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 25,
+   "temas": [
+    "Granulomatose eosinof ílica com poliangiíte GEPA ou síndrome de ChurgStrauss"
+   ],
+   "enunciado": "Um homem de 35 anos de idade, com antecedente de asma de difícil controle, mantendo-se sintomático, mesmo com múltiplas tentativas terapêuticas, chegou ao serviço de emergência com nova crise sintomática. Durante internação para a compensação do quadro, evoluiu com febre, astenia e piora do padrão respiratório. Realizou broncoscopia com biópsia, visando à investigação de diagnósticos diferenciais. Com base nesse caso hipotético, assinale a alternativa que apresenta a alteração anatomopatológica mais provável de ser encontrada.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "vasculite de pequenos vasos, com presença de granulomas infiltrados por eosinófilos"
+    },
+    {
+     "letra": "B",
+     "texto": "vasculite necrotizante de vasos pequenos e médios, com pouco depósito de imunocomplexos"
+    },
+    {
+     "letra": "C",
+     "texto": "vasculite necrotizante de pequenos vasos, com granulomas que invadem os tecidos subjacentes"
+    },
+    {
+     "letra": "D",
+     "texto": "vasculite de vasos médios, com necrose segmentar das camadas musculares, principalmente nas ramificações dos vasos"
+    },
+    {
+     "letra": "E",
+     "texto": "panarterite com infiltrado mononuclear, apresentando hiperplasia e fibrose da camada íntima, além de ruptura da lâmina elástica e aumento da vascularização da camada média"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000144249",
+   "codigo": "4000144249",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 26,
+   "temas": [
+    "Polimialgia reumática"
+   ],
+   "enunciado": "Mulher, 70 anos, queixa se de dor muscular difusa há 4 meses, mais importante na região cervical, ombros e quadris, associada a rigidez matinal superior a 45 minutos. Refere que no último mês evoluiu com limitação da amplitude de movimentos do quadril e di culdade para realizar suas atividades domésticas habituais. Refere ainda hiporexia e perda ponderai de 2 kg nesse período. Ao exame físico, apresenta força muscular apendicular preservada. Exames laboratoriais: VHS: 70 mm/1 ºhora (VR: até 15), Fator reumatoide: 7,1 IU/ml (VR: < 10,8). Qual é o diagnóstico mais provável?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Artrite reumatoide."
+    },
+    {
+     "letra": "B",
+     "texto": "Polimiosite."
+    },
+    {
+     "letra": "C",
+     "texto": "Polimialgia reumática."
+    },
+    {
+     "letra": "D",
+     "texto": "Fibromialgia."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000143428",
+   "codigo": "4000143428",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 27,
+   "temas": [
+    "Síndrome de Behçet"
+   ],
+   "enunciado": "Paciente de 23 anos com quadro de ulcerações bucais e genitais recorrentes, muito dolorosas e profundas, com base necrótica central amarelada. Após 10 dias com uso de sintomáticos as lesões desapareceram sem deixar cicatrizes. Assinale a Síndrome que corresponde a este quadro clínico.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Doença de Kawasaki"
+    },
+    {
+     "letra": "B",
+     "texto": "Síndrome do arco aórtico"
+    },
+    {
+     "letra": "C",
+     "texto": "Síndrome de superposição da poliangiite"
+    },
+    {
+     "letra": "D",
+     "texto": "Síndrome de Behçet"
+    },
+    {
+     "letra": "E",
+     "texto": "Síndrome de Reiter"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000142091",
+   "codigo": "4000142091",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 28,
+   "temas": [
+    "Granulomatose com poliangiíte GPA ou granulomatose de Wegener"
+   ],
+   "enunciado": "Homem 42 anos, com queixa de poliartrite simétrica de mãos, punhos e joelhos há 3 meses associado a emagrecimento de 10 kg e astenia; há 3 semanas iniciou quadro de tosse seca com hemoptoicos. Refere que iniciou quadro de sinusopatia de repetição desde a adolescência com períodos de melhora, outros de piora, mas sempre em uso de antibiótico. Em uma das pernas havia sinais clínicos de TVP (trombose venosa profunda) confirmada pelo doppler vascular. Os exames laboratoriais apresentavam anemia, leucocitose e plaquetose; VHS e PCR aumentados. Diante do caso clínico, qual sua hipótese diagnóstica e exame a ser solicitado?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Vasculite por IgA e dosagem de IgA sérica."
+    },
+    {
+     "letra": "B",
+     "texto": "Poliangeíte granulomatosa eosinofilica e dosagem de ANCA."
+    },
+    {
+     "letra": "C",
+     "texto": "Lúpus Eritematoso Sistêmico e dosagem de FAN."
+    },
+    {
+     "letra": "D",
+     "texto": "Poliangeíte granulomatosa e dosagem de ANCA."
+    },
+    {
+     "letra": "E",
+     "texto": "Artrite Reumatoide e dosagem de antiCCP."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000141447",
+   "codigo": "4000141447",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 29,
+   "temas": [
+    "Polimialgia reumática",
+    "Arterite de células gigantes ou arterite temporal"
+   ],
+   "enunciado": "Assinale a afirmativa CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A arterite de células gigantes é historicamente conhecida como arterite temporal e hoje, é também denominada polimialgia reumática"
+    },
+    {
+     "letra": "B",
+     "texto": "A arterite de células gigantes caracterizase por cefaleia, aumento do VHS, anemia e instalação antes dos 50 anos de idade"
+    },
+    {
+     "letra": "C",
+     "texto": "O diagnóstico de certeza da arterite de células gigantes pode ser realizado através de biópsia da artéria temporal"
+    },
+    {
+     "letra": "D",
+     "texto": "A polimialgia reumática caracteriza-se por intensa dor na cintura escapular e pélvica e elevação do VHS, porém não há anemia"
+    },
+    {
+     "letra": "E",
+     "texto": "O tratamento inicial de escolha da polimialgia reumática são os antiinflamatórios não hormonais"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000138375",
+   "codigo": "4000138375",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 30,
+   "temas": [
+    "Granulomatose com poliangiíte GPA ou granulomatose de Wegener"
+   ],
+   "enunciado": "Homem, 47 anos, branco, refere dor articular, lesões cutâneas em membros inferiores e parestesias nas mãos há 02 meses. Tem queixa de dispneia importante e escarros hemoptoicos há 02 dias. HMP: Hipertensão arterial e sinusite crônica. Ao ex. físico: regular estado geral, taquidispneico, FR: 32 irpm, SatO2: 86% ar ambiente, púrpura em membros inferiores (MMII). Exames complementares revelam Hb: 8,4 mg/dl, VHS: 110 (V.R: 20), PCR 40 (VR<5,0) e urina tipo 1 com hematúria, proteinúria e cilindros. RX de tórax com infiltrado alveolar difuso e nódulos com cavitação. Baseado no caso descrito, assinale a alternativa CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Os primeiros sintomas (dor articular, púrpura de MMII e neuropatia periférica) sugerem a fase inflamatória de vasculite cutânea leucocitoclástica."
+    },
+    {
+     "letra": "B",
+     "texto": "O diagnóstico é de PAN (poliarterite nodosa), com a associação de hipertensão arterial e nefrite, o que sugere o acometimento de pequenos vasos de pequeno calibre."
+    },
+    {
+     "letra": "C",
+     "texto": "O paciente apresenta clínica sugestiva de Granulomatose de Wegener (sinusite, nódulos com cavitação e acometimento renal)."
+    },
+    {
+     "letra": "D",
+     "texto": "A pesquisa de p-ANCA (perinuclear) provavelmente será positiva."
+    },
+    {
+     "letra": "E",
+     "texto": "A púrpura de MMII e a neuropatia periférica são características exclusivas da Síndrome de Churg- Strauss e provavelmente os níveis séricos de IgE estão elevados."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000138074",
+   "codigo": "4000138074",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 31,
+   "temas": [
+    "Granulomatose eosinof ílica com poliangiíte GEPA ou síndrome de ChurgStrauss"
+   ],
+   "enunciado": "A condição clínica definida como granulomatose eosinofílica com poliangeite e caracterizada por asma, eosino lia periférica e tecidual, formação de granulomas extravasculares e vasculite de múltiplos órgãos é a:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "poliarterite nodosa."
+    },
+    {
+     "letra": "B",
+     "texto": "síndrome de Henoch-Schólen."
+    },
+    {
+     "letra": "C",
+     "texto": "doença de Kawasaki."
+    },
+    {
+     "letra": "D",
+     "texto": "síndrome de Churg-Strauss."
+    },
+    {
+     "letra": "E",
+     "texto": "arterite de Takayasu."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000137944",
+   "codigo": "4000137944",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 32,
+   "temas": [
+    "Poliarterite nodosa PAN"
+   ],
+   "enunciado": "Vasculite de pequenos e médios vasos, que acomete predominantemente homens, entre 40 e 60 anos. Febre é a manifestação clínica inicial mais comum e a poliartrite é assimétrica, não deformante, das grandes articulações de membros inferiores. Sem tratamento, a doença é progressiva com hipertensão grave e insu ciência renal crônica. Até 30% dos casos apresentam positividade sérica para os antígenos de superfície HbSAg e Anti-Hbs do vírus da hepatite B. As características descritas são relativas a.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "crioglobulinemia."
+    },
+    {
+     "letra": "B",
+     "texto": "púrpura Henoch-Schönlein."
+    },
+    {
+     "letra": "C",
+     "texto": "poliarterite nodosa."
+    },
+    {
+     "letra": "D",
+     "texto": "arterite de Takayasu."
+    },
+    {
+     "letra": "E",
+     "texto": "granulomatose de Wegener."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000133697",
+   "codigo": "4000133697",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 33,
+   "temas": [
+    "Arterite de Takayasu"
+   ],
+   "enunciado": "Mulher de 32 anos, com história de febre vespertina, astenia, cefaleia, sudorese, perda de peso e diminuição da acuidade visual à esquerda, evolui com diminuição dos pulsos e claudicação intermitente no braço esquerdo após pequenos esforços e aumento da pressão arterial no braço direito. O exame de sangue apresenta leucocitose, VHS = 100mm/h e PCR = 20mg/L. O diagnóstico mais provável e o exame complementar para elucidação diagnóstica, respectivamente, são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "arterite temporal / angioRM."
+    },
+    {
+     "letra": "B",
+     "texto": "aortite infecciosa / arteriografia ."
+    },
+    {
+     "letra": "C",
+     "texto": "doença de Takayasu / angioRM."
+    },
+    {
+     "letra": "D",
+     "texto": "displasia fibromuscular / arteriografia."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000124276",
+   "codigo": "4000124276",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 34,
+   "temas": [
+    "Vasculites"
+   ],
+   "enunciado": "Qual Vasculite Sistêmica tem associação com infecções de vias aéreas superiores + Glomerulonefrites + ANCA C positivo?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Churgg Straus."
+    },
+    {
+     "letra": "B",
+     "texto": "Poliangeite Granulomatosa."
+    },
+    {
+     "letra": "C",
+     "texto": "Arterite de Takayassu."
+    },
+    {
+     "letra": "D",
+     "texto": "Arterite temporal."
+    },
+    {
+     "letra": "E",
+     "texto": "Poliarterite nodosa."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120357",
+   "codigo": "4000120357",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 35,
+   "temas": [
+    "Tromboangiíte obliterante ou doença de Buerger",
+    "Diagnóstico"
+   ],
+   "enunciado": "Homem de 35 anos apresenta dor, hiperemia e enduração nos trajetos venosos super ciais, inicialmente nas pernas e atualmente em região lateral das coxas. Há 3 meses, ele apresenta necrose em pododáctilos e úlceras digitais de difícil cicatrização na mão direita. Exame físico: perfusão lenti cada nos pés bilateralmente e na mão direita, úlceras com crostas necróticas e fundo pálido e ausência de pulsos distais nos MMII e de pulsos radial e ulnar no MSD, demais pulsos 4+/4, sem sopros, presença de tromboflebite superficial nos membros inferiores. AP: tabagista e hipertenso. A hipótese diagnostica é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "arterite de Takayasu."
+    },
+    {
+     "letra": "B",
+     "texto": "tromboangeíte obliterante."
+    },
+    {
+     "letra": "C",
+     "texto": "síndrome do anticorpo antifosfolípide."
+    },
+    {
+     "letra": "D",
+     "texto": "doença aterosclerótica periférica."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000106128",
+   "codigo": "4000106128",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 36,
+   "temas": [
+    "Diagnóstico",
+    "Púrpura de HenochSchöinleinVasculite por IgA"
+   ],
+   "enunciado": "Vasculite por IgA ou púrpura de HenochSchönlein PHS Homem de 20 anos apresenta quadro de poliartrite, dor abdominal aguda, púrpuras palpáveis nas pernas e hematúria micros- cópica. Hemograma, coagulograma, creatinina e complemento sérico são normais. O diagnóstico mais provável é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "doença de Goodpasture."
+    },
+    {
+     "letra": "B",
+     "texto": "granulomatose de Wegener."
+    },
+    {
+     "letra": "C",
+     "texto": "síndrome de Reiter."
+    },
+    {
+     "letra": "D",
+     "texto": "lúpus eritematoso sistêmico."
+    },
+    {
+     "letra": "E",
+     "texto": "vasculite por IgA."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000099898",
+   "codigo": "4000099898",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 37,
+   "temas": [
+    "Vasculites",
+    "Granulomatose com poliangiíte GPA ou granulomatose de Wegener"
+   ],
+   "enunciado": "Arterite de Takayasu Em relação às vasculites sistêmicas, qual a associação correta? COLUNA 1 1. Takayasu; 2. Kawasaki; 3. Poliarterite nodosa; 4. Arterite temporal; 5. Granulomatose com poliangeíte; COLUNA 2 a. Angina; b. Cefaleia temporal; c. Linfadenopatia; d. Úlceras orais; e. Mononeuropatia multiplex.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1c, 2b, 3a, 4e, 5d."
+    },
+    {
+     "letra": "B",
+     "texto": "1a, 2c, 3e, 4b, 5d."
+    },
+    {
+     "letra": "C",
+     "texto": "1d, 2e, 3c, 4b, 5a."
+    },
+    {
+     "letra": "D",
+     "texto": "1a, 2d, 3c, 4b, 5e."
+    },
+    {
+     "letra": "E",
+     "texto": "1b, 2a, 3e, 4c, 5d."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000082731",
+   "codigo": "4000082731",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 38,
+   "temas": [
+    "Manif estações clínicas",
+    "Xantomas",
+    "Úlcera diabética"
+   ],
+   "enunciado": "No que se refere às manifestações cutâneas das doenças sistêmicas, assinale a alternativa considerada INCORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A acantose nigricante em crianças está fortemente vinculada à resistência a insulina e à diabetes, e no adulto pode estar associada a adenocarcinoma gástrico;"
+    },
+    {
+     "letra": "B",
+     "texto": "No paciente diabético as manifestações cutâneas são necrobiose lipoidica, dermopatia diabética, bullosis diabeticorum, granuloma anular, escleredema, dermatose perfurante adquirida, xantoma eruptivo e úlcera neuropática da perna;"
+    },
+    {
+     "letra": "C",
+     "texto": "Na síndrome de Behçet o comprometimento mucoso é considerado raro, ao contrário das manifestações articulares caracterizadas pela artrite/sinovite e oculares determinadas pela presença de uveíte anterior e posterior;"
+    },
+    {
+     "letra": "D",
+     "texto": "São manifestações do hipertireoidismo: mixedema, aumento das incidências de alopecia areata e vitiligo, hiperpigmentação, prurido, hiper- hidrose, onicólise, coiloniquia e mixedemapré-tibial;"
+    },
+    {
+     "letra": "E",
+     "texto": "Algumas das manifestações cutâneas podem ser o reflexo de malignidades internas provocadas ação de fatores imunológicas, metabólicas ou metastáticas das células neoplásicas;"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000082697",
+   "codigo": "4000082697",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 39,
+   "temas": [
+    "Vasculites"
+   ],
+   "enunciado": "Sobre as vasculites, assinale a alternativa INCORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "As vasculites quando associadas ao lúpus eritematoso sistêmico ocorrem durante os surtos de agudização, podem comprometer qualquer vaso, e o espectro clínico das manifestações dermatológicas inclui desde a púrpura palpável, urticária, microinfartos digitais até ulcerações profundas;"
+    },
+    {
+     "letra": "B",
+     "texto": "As vasculites cutâneas de pequenos podem estar associadas a síndrome de Sweet, pioderma gangrenoso, doença de Behcet, picadasde artrópodes, púrpura hipergama globulinêmica de Waldenstrom e doenças inflamatórias intestinais;"
+    },
+    {
+     "letra": "C",
+     "texto": "A granulomatose de Wegener caracteriza- se por granuloma necrotizante do trato respiratório,vasculite cutânea necrotizante,glomerulonefrite e pesquisa de anticorpos contra o citoplasma de neutrófilos negativos."
+    },
+    {
+     "letra": "D",
+     "texto": "A síndrome de Churg-Strauss é um quadro granulomatoso rico em eosinófilos envolvendo o trato respiratório e vasculite necrotizante de vaso de médio e pequeno calibre, podendo ser desencadeada por suspensão abrupta de corticosteróides;"
+    },
+    {
+     "letra": "E",
+     "texto": "Nas vasculites induzidas por droga associadas ao Anca há fortes evidências da ocorrência de vasculite relacionada ao uso da hidralazina, propiltiouracil e derivados, minociclina, penicilamina, alopurinol ou sulfasalazina."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000082477",
+   "codigo": "4000082477",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 40,
+   "temas": [
+    "Manif estações clínicas",
+    "Dissecção aórtica aguda",
+    "Arterite de células gigantes ou arterite temporal"
+   ],
+   "enunciado": "Um senhor de 80 anos com história prévia de artrite de células gigantes tratada com sucesso há 7 anos apresenta quadro de dor torácica intensa. Sua história patológica pregressa somente é notável para a hipertensão limítrofe. Ele foi tratado com sucesso com um curso de esteróides durante 1 ano, mas está utilizando corticosteróides há 3 anos. Ele relatou se sentir bem até recentemente. Ele não procurou um médico nos últimos 2 anos. Qual das seguintes explicações para sua dor torácica é a preocupação principal?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Aneurisma torácico dissecante,"
+    },
+    {
+     "letra": "B",
+     "texto": "Pericardite aguda;"
+    },
+    {
+     "letra": "C",
+     "texto": "Infarto do miocárdio relacionado ao maior risco de aterosclerose devido a sua história anterior de ACG;"
+    },
+    {
+     "letra": "D",
+     "texto": "Coscocondrite relacionada a um surto de PMR;"
+    },
+    {
+     "letra": "E",
+     "texto": "Fratura de costelas;"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000074210",
+   "codigo": "4000074210",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 41,
+   "temas": [
+    "Tromboangiíte obliterante ou doença de Buerger",
+    "Diagnóstico"
+   ],
+   "enunciado": "Indique a alternativa que contenha, respectivamente, um critério maior e um menor para o diagnóstico de Tromboangeíte Obliterante:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Fenômeno de Raynaud, ausência de diabete."
+    },
+    {
+     "letra": "B",
+     "texto": "Ausência de hipertensão, tabagismo importante."
+    },
+    {
+     "letra": "C",
+     "texto": "Sexo masculino, Fenômeno de Raynaud."
+    },
+    {
+     "letra": "D",
+     "texto": "Tabagismo importante, sexo masculino."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000074113",
+   "codigo": "4000074113",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 42,
+   "temas": [
+    "Granulomatose com poliangiíte GPA ou granulomatose de Wegener",
+    "Diagnóstico"
+   ],
+   "enunciado": "Homem, 45 anos, em consulta médica, refere congestão nasal e sinusite recorrentes, além de dispnéia, tosse com hemoptise e emagrecimento de oito quilos no último ano. Os exames laboratoriais mostraram anemia normocrômica e normocítica, trombocitose, velocidade de hemossedimentação (VHS) elevada, aumento nos níveis de uréia e creatinina e sedimento urinário comproteinúria e leucocitúria. Frente a este quadro clínico o diagnóstico é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Granulomatose de Wegener."
+    },
+    {
+     "letra": "B",
+     "texto": "Poliarterite nodosa."
+    },
+    {
+     "letra": "C",
+     "texto": "Arterite de Takayasu."
+    },
+    {
+     "letra": "D",
+     "texto": "Arterite de células gigantes."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000063256",
+   "codigo": "4000063256",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 43,
+   "temas": [
+    "Epidemiologia",
+    "Manif estações clínicas",
+    "Diagnóstico"
+   ],
+   "enunciado": "Assinale a afirmativa CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A arterite de células gigantes é historicamente conhecida como arterite temporal e hoje, é também denominada polimialgia reumática"
+    },
+    {
+     "letra": "B",
+     "texto": "A arterite de células gigantes caracteriza-se por cefaleia, aumento do VHS, anemia e instalação antes dos 50 anos de idade"
+    },
+    {
+     "letra": "C",
+     "texto": "O diagnóstico de certeza da arterite de células gigantes pode ser realizado através de biópsia da artéria temporal"
+    },
+    {
+     "letra": "D",
+     "texto": "A polimialgia reumática caracteriza-se por intensa dor na cintura escapular e pélvica e elevação do VHS, porém não há anemia"
+    },
+    {
+     "letra": "E",
+     "texto": "O tratamento inicial de escolha da polimialgia reumática são os anti-inflamatórios não hormonais"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000063076",
+   "codigo": "4000063076",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 44,
+   "temas": [
+    "Vasculites associadas ao ANCA",
+    "Glomerulonef rite rapidamente progressiva"
+   ],
+   "enunciado": "Homem, 60 anos, procura é encaminhado para internamento hospitalar devido a náuseas e vômitos associado a quadro de astenia de início recente. Na unidade de pronto atendimento é diagnosticada insu ciência renal. Durante o internamento evolui com dispneia, tosse e desconforto torácico com piora progressiva, evoluindo com episódios de hemoptise. Na história pregressa, refere dois episódios de sinusite no último ano. Ex-tabagista há 5 anos, carga tabágica de 10 anos/maço. Achados positivos na revisão de sistemas: perda ponderal não intencional de cerca de 8kg, urina mais escura nos últimos dias e redução do volume urinário. Exames laboratoriais iniciais demonstraram: Hb 10g/dL; Ht 30%; VCM 84fL; HCM 28pg; Leucócitos 12.300 (30%linfócitos, 2% Bastões, 58% Neutró los); 450.000plaquetas. Na 140mg/dL; K 3,8mg/dL; Creatinina 4,5,0mg/dL; U 165mg/dL; Parcial de Urina: Proteína +++/4; Nitrito negativo; Leucócitos 70.000/mL; Hemácias 100.000/mL; VHS 58mm; PCR ultrassensível 8mg/L; Baseado na história clínica e achados laboratoriais iniciais, assinale a alternativa que contém apenas afirmações corretas.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O diagnóstico de Granulomatose com Poliangeíte deve ser considerado caso haja consumo de complemento."
+    },
+    {
+     "letra": "B",
+     "texto": "O diagnóstico de Granulomatose com Poliangeíte deve ser considerado, a positividade de anticorpos anticitoplasma de neutrófilos (ANCA corrobora esse diagnóstico."
+    },
+    {
+     "letra": "C",
+     "texto": "Os sintomas de astenia, perda ponderal, anemia e aumento de provas inflamatórias são sugestivos de processo neoplásico pulmonar."
+    },
+    {
+     "letra": "D",
+     "texto": "Em biópsia renal espera-se lesão túbulo intersticial difusa com pouco ou nenhum acometimento glomerular e imunofluorescência positiva para IgG com padrão granular."
+    },
+    {
+     "letra": "E",
+     "texto": "O tratamento imunossupressor não altera o curso da doença e deve ser retardado até estabilidade clínica."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000052511",
+   "codigo": "4000052511",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 45,
+   "temas": [
+    "Vasculites de pequenos vasos",
+    "Vasculites",
+    "Vasculites associadas ao ANCA"
+   ],
+   "enunciado": "Qual das vasculites abaixo apresenta ANCA positivo?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Poliarterite nodosa;"
+    },
+    {
+     "letra": "B",
+     "texto": "Granulomatose de Wegener;"
+    },
+    {
+     "letra": "C",
+     "texto": "Vasculite lúpica;"
+    },
+    {
+     "letra": "D",
+     "texto": "Vasculite leucocitoclástica."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000030437",
+   "codigo": "4000030437",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 46,
+   "temas": [
+    "Manif estações clínicas",
+    "Diagnóstico",
+    "Arterite de células gigantes ou arterite temporal"
+   ],
+   "enunciado": "Paciente de 72 anos, sexo feminino, refere episódio de perda súbita da visão em olho esquerdo com posterior melhora, porém mantendo escotoma visual, cefaleia hemicraniana esquerda contínua, rigidez de predomínio proximal em membros e cervical, perda ponderal e episódios febris. Exame laboratorial mostra VHS maior que 100 mm/h. De acordo com o quadro clínico, assinale a alternativa CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A arterite temporal leva ao acometimento exclusivo do sistema nervoso central."
+    },
+    {
+     "letra": "B",
+     "texto": "A arterite temporal não aumenta o risco de acidente vascular isquêmico."
+    },
+    {
+     "letra": "C",
+     "texto": "A arterite temporal pode levar ao acometimento sistêmico: aneurisma de aorta e artérias mesentéricas e derrame pericárdico."
+    },
+    {
+     "letra": "D",
+     "texto": "A biópsia de artéria temporal negativa exclui o diagnóstico de arterite temporal."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000023967",
+   "codigo": "4000023967",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 47,
+   "temas": [
+    "Etiopatogenia",
+    "Epidemiologia",
+    "Manif estações clínicas"
+   ],
+   "enunciado": "Qual característica abaixo condiz com o diagnóstico de arterite temporal?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Mulher 70 anos."
+    },
+    {
+     "letra": "B",
+     "texto": "Vasculite não granulomatosa."
+    },
+    {
+     "letra": "C",
+     "texto": "VHS normal e consumo de complemento"
+    },
+    {
+     "letra": "D",
+     "texto": "Contraindicação ao uso de AAS."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000004741",
+   "codigo": "4000004741",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 48,
+   "temas": [
+    "Diagnóstico",
+    "Arterite de células gigantes ou arterite temporal"
+   ],
+   "enunciado": "Paciente de 65 anos, feminina com cefaleia crônica em região temporal direita e há 6 semanas com piora da dor associado a claudicação de mandíbula dor temporal e alterações visuais homolateral. Em exames laboratoriais apresenta VHS muito elevado (maior 100). O diagnóstico mais provável a ser pensado é?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Amaurose fugaz"
+    },
+    {
+     "letra": "B",
+     "texto": "Dissecção de carótida"
+    },
+    {
+     "letra": "C",
+     "texto": "Migrane"
+    },
+    {
+     "letra": "D",
+     "texto": "Arterite temporal"
+    },
+    {
+     "letra": "E",
+     "texto": "Ansiedade"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000002206",
+   "codigo": "4000002206",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 49,
+   "temas": [
+    "Vasculites de grandes vasos",
+    "Vasculites",
+    "Classif icação"
+   ],
+   "enunciado": "As vasculites são doenças sistêmicas caracterizadas por in amação e necrose de vasos de qualquer calibre, na infância ou na adolescência, com consequente lesão tecidual. É exemplo de vasculite com acometimento predominantemente de vasos de grande calibre:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "doença de Kawasaki."
+    },
+    {
+     "letra": "B",
+     "texto": "síndrome de Wegener."
+    },
+    {
+     "letra": "C",
+     "texto": "púrpura de Henoch-Schönlein."
+    },
+    {
+     "letra": "D",
+     "texto": "arterite de Takayasu."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000128214",
+   "codigo": "4000128214",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 50,
+   "temas": [
+    "Manif estações clínicas",
+    "Granulomatose com poliangiíte GPA ou granulomatose de Wegener"
+   ],
+   "enunciado": "Exames complementares Diante de um paciente com sintomas resultantes do acometimento de vias aéreas altas e baixas, sem melhora após uso de antimicrobianos, associados a glomerulonefrite e anticorpo anticitoplasma de leucócito (ANCA) positivo, está INCORRETO afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A maioria dos pacientes apresenta anemia discreta, leucocitose leve e elevação de proteínas de fase aguda"
+    },
+    {
+     "letra": "B",
+     "texto": "Assim como infiltrados, nódulos, massas e cavitações pulmonares, derrame pleural e adenopatia hilar são achados radiográficos comuns"
+    },
+    {
+     "letra": "C",
+     "texto": "Granulomas são raramente observados em biópsia renais, mas são mais comumente evidenciados em biópsia pulmonares"
+    },
+    {
+     "letra": "D",
+     "texto": "Vários subtipos de ANCA são reconhecidos, mas os dois mais relevantes para vasculite sistêmica reagem contra proteinase-3 (PR3) e mieloperoxidase (MPO)"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000117740",
+   "codigo": "4000117740",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 51,
+   "temas": [
+    "Granulomatose eosinof ílica com poliangiíte GEPA ou síndrome de ChurgStrauss"
+   ],
+   "enunciado": "Vasculites associadas ao ANCA Considere os seguintes diagnósticos: I. Poliangeíte microscópica; II. Síndrome de Churg-Strauss; III. Doença de Berger; IV. Síndrome de Goodpasture. Anticorpos anticitoplasma de neutrófilos serão encontrados com maior probabilidade em:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "II e IV."
+    },
+    {
+     "letra": "B",
+     "texto": "I e IV."
+    },
+    {
+     "letra": "C",
+     "texto": "III e IV."
+    },
+    {
+     "letra": "D",
+     "texto": "I e II."
+    },
+    {
+     "letra": "E",
+     "texto": "I e III."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000105351",
+   "codigo": "4000105351",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 52,
+   "temas": [
+    "Tromboangiíte obliterante ou doença de Buerger",
+    "Diagnóstico"
+   ],
+   "enunciado": "Um homem de 32 anos, tabagista de dois maços de cigarro por dia há 15 anos, sem outros antecedentes médicos relevantes, apresenta gangrena seca de 1º e 3º pododáctilos à direita, há 1 mês. Há 15 dias, foi atendido em outro serviço por ebite ascendente de veia cefálica em membro superior esquerdo, que está tratando com anti-inflamatório não hormonal. A angiotomogra a revelou lesões obstrutivas segmentares em artérias tibiais e bulares de ambos os membros inferiores, com rica rede colateral. Os exames laboratoriais são normais. Diagnóstico:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Doença cística das artérias."
+    },
+    {
+     "letra": "B",
+     "texto": "Lúpus eritematoso sistêmico."
+    },
+    {
+     "letra": "C",
+     "texto": "Embolia paradoxal."
+    },
+    {
+     "letra": "D",
+     "texto": "Tromboangeíte obliterante."
+    },
+    {
+     "letra": "E",
+     "texto": "Arterite de Takayasu."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000102557",
+   "codigo": "4000102557",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 53,
+   "temas": [
+    "Etiopatogenia",
+    "Arterite de Takayasu",
+    "Epidemiologia"
+   ],
+   "enunciado": "Sobre a Doença de Takayasu é INCORRETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A fase aguda é caracterizada pela presença de infiltrado inflamatório, com presença de linfócitos, histiócitos, plasmócitos e polimorfonucleares."
+    },
+    {
+     "letra": "B",
+     "texto": "A fase crônica é caracterizada por obliteração do vaso com formação de densa fibrose local."
+    },
+    {
+     "letra": "C",
+     "texto": "O tratamento das fases aguda com corticóides é eficiente para o alívio dos sintomas sistêmicos em mais de 75% dos pacientes."
+    },
+    {
+     "letra": "D",
+     "texto": "É mais comum em mulheres com mais de 40 anos, com presença da doença em artéria subclávia direita ou esquerda."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000101470",
+   "codigo": "4000101470",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 54,
+   "temas": [
+    "Etiopatogenia",
+    "Arterite de Takayasu",
+    "Epidemiologia"
+   ],
+   "enunciado": "Doença sem etiologia definida, mais frequente em mulheres jovens, compromete a aorta e seus ramos, cursando com estenoses e oclusão de troncos supra-aórticos, que podem levar a sintomas isquêmicos no território carotídeo, vertebrobasilar e de membros superiores. Esta descrição refere-se à",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tromboangeíte obliterante."
+    },
+    {
+     "letra": "B",
+     "texto": "Doença de Behçet."
+    },
+    {
+     "letra": "C",
+     "texto": "Doença de Kawasaki."
+    },
+    {
+     "letra": "D",
+     "texto": "Arterite de Takayasu."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000100389",
+   "codigo": "4000100389",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 55,
+   "temas": [
+    "Tromboangiíte obliterante ou doença de Buerger",
+    "Tratamento"
+   ],
+   "enunciado": "Homem de 39 anos foi encaminhado pela equipe de Medicina de Família ao ambulatório do Hospital Municipal de Santo André (FMABC) para tratamento de Tromboangeíte Obliterante (Doença de Leo Buerger). Qual das alternativas abaixo representa o melhor tratamento inicial deste paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Revascularização"
+    },
+    {
+     "letra": "B",
+     "texto": "Arteriografia armada"
+    },
+    {
+     "letra": "C",
+     "texto": "Anticoagulação"
+    },
+    {
+     "letra": "D",
+     "texto": "Suspensão do tabagismo"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000095437",
+   "codigo": "4000095437",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 56,
+   "temas": [
+    "Tromboangiíte obliterante ou doença de Buerger",
+    "Epidemiologia",
+    "Manif estações clínicas"
+   ],
+   "enunciado": "Assinale a alternativa INCORRETA com relação à Tromboangeíte Obliterante ou doença de Buerger:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Afeta predominantemente homens jovens, fumantes, com cerca de 30 anos, apresentando isquemia distal de membro e gangrena digital localizada."
+    },
+    {
+     "letra": "B",
+     "texto": "Tem havido incidência crescente em mulheres, provavelmente por aumento do habito de fumar."
+    },
+    {
+     "letra": "C",
+     "texto": "Os elementos diagnósticos incluem início da doença antes dos 45 anos, exposição ao fumo, ausência de lesões arteriais proximal ao joelho ou cotovelo e ausência de outros fatores de risco aterosclerótico."
+    },
+    {
+     "letra": "D",
+     "texto": "As lesões oclusivas são vistas apenas em artérias de pequeno calibre."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000068674",
+   "codigo": "4000068674",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 57,
+   "temas": [
+    "Vasculites"
+   ],
+   "enunciado": "Um senhor de 40 anos procura atendimento médico por mal estar geral, edema palpebral, edema dos memobros inferiores, dispneia e hemoptise com início 2 semanas após quadro sugestivo de infecção respiratória. HIstória patológica pregressiva: asma e rinite alérgica em uso regular de budesonida 100 microgramas/formoterol 6 microgramas inalatório 2x/dia e montelucaste de sódio 10mg/dia. Ao exame físico encontra-se hipocorado 1+/4+, com pressão arterial de 170 x 100 mmHg e com presença de edema 2+/4+ nos membros inferiores. Exames laboratoriais (sangue): Hemoglobina 12g/dl; Leucócito 15.000/mm3, segmentados 40%, linfócitos 25%, eosinófilos 30%, monócitos 3%, bastões 2%, plaquetas 200.00/mm3. TSH = 1,2 mU/L (normal: 0,4-4,0); T4 livre - 1,4 ng.dl; hemoglobina glicada = 5,7 %; Sódio = 140mEq/L; Potássio: 6,0 mEq/L; Uréia: = 88mg/dl; Creatinina: 2,5 mg/dl; EAS: Proteín 1+, hemácias 20/campo e cilindros hemáticos. Assinale a alternativa que contém o provável diagnóstico e sua respectiva alteração laboratorial.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Granulomatose de Wegener e presença de anticorpos C-ANCA."
+    },
+    {
+     "letra": "B",
+     "texto": "Sindrome de Churg Strauss e presença de anticorpus C-ANCA."
+    },
+    {
+     "letra": "C",
+     "texto": "Granulomatose de Wegener e presença de anticorpos P-ANCA."
+    },
+    {
+     "letra": "D",
+     "texto": "Sindrome de Churg Strauss e presença de anticorpos P-ANCA."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000058224",
+   "codigo": "4000058224",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 58,
+   "temas": [
+    "Manif estações clínicas",
+    "Síndrome de Behçet",
+    "Diagnóstico"
+   ],
+   "enunciado": "Homem, 32 anos, caucasoide, referindo episódios de artrite envolvendo joelhos e tornozelos há 2 anos. Há um ano passou a apresentar episódios recorrentes de turvação visual com comprometimento da acuidade. Antecedentes pessoais: trombose venosa profunda em membro inferior direito e lesões ulceradas orais há 6 meses. Exame físico: úlceras e lesões acneiformes cutâneas em tronco. Exame oftamológico: uveíte posterior bilateral. A hipótese diagnóstica mais provável:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "artrite reumatoide"
+    },
+    {
+     "letra": "B",
+     "texto": "gota"
+    },
+    {
+     "letra": "C",
+     "texto": "espondilite anquilosante"
+    },
+    {
+     "letra": "D",
+     "texto": "arterite de células gigantes"
+    },
+    {
+     "letra": "E",
+     "texto": "doença de Behçet"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000056825",
+   "codigo": "4000056825",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 59,
+   "temas": [
+    "Manif estações clínicas",
+    "Síndrome de Behçet",
+    "Tratamento"
+   ],
+   "enunciado": "Mulher de 24 anos apresenta história recorrente de aftas dolorosas orais e genitais, além de lesões acneiformes em tronco e membros superiores e artrite em punhos e tornozelos. Ontem iniciou quadro de dor ocular à direita de forte intensidade, com turvação visual, eritema conjuntival e fotofobia. A medicação que deverá compor o esquema terapêutico da doença de base é a:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tacrolimus."
+    },
+    {
+     "letra": "B",
+     "texto": "Ciclobenzaprina."
+    },
+    {
+     "letra": "C",
+     "texto": "Tofacitinib."
+    },
+    {
+     "letra": "D",
+     "texto": "Abatacepte."
+    },
+    {
+     "letra": "E",
+     "texto": "Colchicina."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000055922",
+   "codigo": "4000055922",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 60,
+   "temas": [
+    "Manif estações clínicas",
+    "Tratamento",
+    "Exames complementares"
+   ],
+   "enunciado": "O diagnóstico de Arterite de Células Gigantes não é comum, mas o conhecimento do seu quadro clínico para pronta identi cação e manejo inicial é muito importante pelo fato de se tratar de uma doença séria, com possibilidade de acometer a visão, levando à cegueira, a qual pode ser irreversível. Com grande impacto em qualidade de vida e funcionalidade dos pacientes. Assinale a alternativa correta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O diagnóstico de arterite de células gigantes é essencialmente clínico, não sendo necessária a biópsia da artéria temporal para sua confirmação."
+    },
+    {
+     "letra": "B",
+     "texto": "A pulsoterapia com metilprednisolona 1000mg/dia por 3 dias tem como objetivo, além da melhora dos sintomas, a prevenção da perda da visão remanescente."
+    },
+    {
+     "letra": "C",
+     "texto": "Marcadores inflamatórios como a velocidade de hemossedimentação estão em geral normais."
+    },
+    {
+     "letra": "D",
+     "texto": "Trata-se de uma arterite de médios vasos."
+    },
+    {
+     "letra": "E",
+     "texto": "O tratamento é suportivo."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000053816",
+   "codigo": "4000053816",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 61,
+   "temas": [
+    "Vasculites"
+   ],
+   "enunciado": "Sobre as vasculites, assinale a alternativa ERRADA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Constituem grupo heterogêneo de doenças caracterizadas por inflamação de parede dos vasos sanguíneos, geralmente produzindo sua ruptura ou oclusão, com o consequente prejuízo da irrigação dos tecidos e órgãos acometidos."
+    },
+    {
+     "letra": "B",
+     "texto": "Podem ser classificadas de acordo com o tamanho dos vasos acometidos, por exemplo, vasculites de pequenos vasos (arterite de Takayasu e arterite de células gigantes), arterite de médios vasos (vasculites ligadas ao ANCA como a granulomatose de Wegener, poliangeíte microscópica e síndrome de Churg-Strauss) e finalmente vasculite de pequenos vasos (poliarterite nodosa, e vasculites primarias do sistema nervoso central)."
+    },
+    {
+     "letra": "C",
+     "texto": "A granulomatose de Wegener é uma vasculite granulomatosa caracterizada pelo acometimento de vias aéreas superiores e inferiores, bem como os rins. Pode cursar com inflamação e infecções recorrentes, resistentes aos antibióticos, sinusites com secreção purulenta, ulceração nasal e/ou epistaxe."
+    },
+    {
+     "letra": "D",
+     "texto": "A Poliangeíte microscópica é a causa mais comum da síndrome pulmão-rim, frequentemente com hemorragia alveolar por capilarite pulmonar com hemoptóicos e dispnéia."
+    },
+    {
+     "letra": "E",
+     "texto": "A síndrome de Churg-Strauss cursa com rinite alérgica, pólipos nasais, doença obstrutiva de vias aéreas, eosinofilia, glomerulonefrite e neuropatia periférica."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000038518",
+   "codigo": "4000038518",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 62,
+   "temas": [
+    "Granulomatose com poliangiíte GPA ou granulomatose de Wegener",
+    "Diagnóstico"
+   ],
+   "enunciado": "Paciente com as seguintes manifestações de vasculite: sinusopatia, queda do dorso nasal, nódulos pulmonares, disfunção renal com sedimento renal ativo. Qual é a principal hipótese diagnóstica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Granulomatose com Poliangeíte (Wegener)"
+    },
+    {
+     "letra": "B",
+     "texto": "Poliangeíte Microscópica"
+    },
+    {
+     "letra": "C",
+     "texto": "Arterite de Células Gigantes"
+    },
+    {
+     "letra": "D",
+     "texto": "Granulomatose Eosinofílica com Poliangeíte (Schurg Strauss)"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000027037",
+   "codigo": "4000027037",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 63,
+   "temas": [
+    "Granulomatose com poliangiíte GPA ou granulomatose de Wegener",
+    "Diagnóstico"
+   ],
+   "enunciado": "Paciente do sexo masculino, 55 anos, procura atendimento referindo secreção nasal sanguinolenta, tosse, hemoptise e dispneia. Ao exame físico, apresenta púrpura e nódulos subcutâneos em membros inferiores e conjuntivite. Exames mostram aumento importante da ureia e creatinina, aumento do VHS e ANCA antiproteinase 3 positivo.Radiogra a de tórax mostra infiltrados pulmonares difusos. O diagnóstico mais provável é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Síndrome de Churg-Strauss."
+    },
+    {
+     "letra": "B",
+     "texto": "Arterite de Takayasu."
+    },
+    {
+     "letra": "C",
+     "texto": "Granulomatose de Wegener."
+    },
+    {
+     "letra": "D",
+     "texto": "Arterite de células gigantes."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000018747",
+   "codigo": "4000018747",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 64,
+   "temas": [
+    "Diagnóstico dif erencial",
+    "Reumatologia",
+    "Tratamento"
+   ],
+   "enunciado": "Uma mulher de 54 anos evolui há 3 meses com fadiga e anorexia, acompanhadas de dor e rigidez, principalmente matinal, que acomete a musculatura do pescoço e da cintura escapular e perdura por cerca de 45 minutos. Exames laboratoriais solicitados revelam Hb: 9,6g/dL, com hemácias microcíticas e hipocrômicas; VHS: 96mm/h; FAN: reativo e ferritina normal. A anamnese dirigida identi cou apenas artralgia de cotovelos e emagrecimento de 4kg no período. Ausculta cardíaca, pulmonar e palpação do abdome sem achados anormais. Kerning, Brudzinsky e Lasegue negativos. Considerando a hipótese diagnóstica mais provável, a conduta MAIS ADEQUADA, dentre as oferecidas é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tomografia computadorizada de tórax e abdome;"
+    },
+    {
+     "letra": "B",
+     "texto": "Biópsia de artéria temporal;"
+    },
+    {
+     "letra": "C",
+     "texto": "Punção lombar para análise liquórica;"
+    },
+    {
+     "letra": "D",
+     "texto": "Prednisona 20mg pela manhã;"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000009870",
+   "codigo": "4000009870",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 65,
+   "temas": [
+    "Vasculites",
+    "Classif icação"
+   ],
+   "enunciado": "Conforme o Consenso de Chapel Hill de 2012, sobre as vasculites, é correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Arterite de Takayasu é uma inflamação não granulomatosa da aorta e grandes ramos que ocorre geralmente em pacientes acima dos 50 anos."
+    },
+    {
+     "letra": "B",
+     "texto": "Granulomatose de Wegner é uma inflamação granulomatosa necrotizante que acomete pequenos vasos, envolvendo vias aéreas superiores e inferiores, além da glomerulonefrite crescêntica."
+    },
+    {
+     "letra": "C",
+     "texto": "Púrpura de Henoch-Schölein é uma inflamação granulomatosa e eosinofílica de pequenos vasos, onde os pacientes podem apresentar história de asma antecedendo o quadro vasculítico."
+    },
+    {
+     "letra": "D",
+     "texto": "Doença de Kawasaki é uma arterite que acomete vasos de médios e pequenos calibres, sendo também frequente o acometimento das artérias coronarianas; por isso, ocorre em pacientes acima dos 50 anos."
+    },
+    {
+     "letra": "E",
+     "texto": "Síndrome de Churg-Strauss é uma vasculite com depósitos predominantes de IgA que acomete pequenos vasos, podendo apresentar envolvimento cutâneo, comprometimento gastrointestinal e artrite não deformante."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000125934",
+   "codigo": "4000125934",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 66,
+   "temas": [
+    "Vasculites"
+   ],
+   "enunciado": "Sobre vasculites sistêmicas, marque a associação CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Arterite de Takayassu ------------------------ dor testicular"
+    },
+    {
+     "letra": "B",
+     "texto": "PAN ----------------------------------------------- cefaleia temporal"
+    },
+    {
+     "letra": "C",
+     "texto": "Kawasaki ----------------------------------------- dor abdominal."
+    },
+    {
+     "letra": "D",
+     "texto": "Granulomatose de Wegener ---------------- lesões cavitárias nasofaríngeas."
+    },
+    {
+     "letra": "E",
+     "texto": "Arterite temporal ------------------------------ ausência de pulsos."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000122938",
+   "codigo": "4000122938",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 67,
+   "temas": [
+    "Tratamento",
+    "Granulomatose com poliangiíte GPA ou granulomatose de Wegener"
+   ],
+   "enunciado": "Homem, 40 anos, apresenta edema e parestesia em membros inferiores, acompanhado de dispneia e cefaleia diária há 4 semanas. Ao exame, PA = 220 x 160 mmHg e congestão pulmonar. Apresenta hemoglobina = 5 g/dl; ureia = 230 mg/dl; creatinina = 6 mg/dl e sedimento urinário com hematúria dismór ca. Em 24h, evoluiu com insu ciência respiratória e hemoptise, mesmo após hemodiálise e hemotransfusão. Quais são as principais hipóteses diagnósticas e condutas nesse caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Granulomatose com poliangiite – pulsoterapia com Metilprednisolona (MP) 1 g por 3 dias e ciclofosfamida e, se possível, plasmaférese."
+    },
+    {
+     "letra": "B",
+     "texto": "Poliangiite microscópica ou vasculite de Churg-Strauss – pulsoterapia com MP 1 g por 5 dias e rituximabe."
+    },
+    {
+     "letra": "C",
+     "texto": "Glomerulonefrite rapidamente progressiva e hemorragia alveolar – imunoglobulina endovenosa, corticosteroide 1 mg/kg/dia e ciclofosfamida."
+    },
+    {
+     "letra": "D",
+     "texto": "Síndrome de Evans – pulsoterapia com MP 1 g por 3 dias e prednisona 1 mg/kg/dia."
+    },
+    {
+     "letra": "E",
+     "texto": "Poliarterite nodosa – pulsoterapia com MP 1 g por 3 dias e ciclofosfamida e, se possível, imunoglobulina endovenosa."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000120468",
+   "codigo": "4000120468",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 68,
+   "temas": [
+    "Arterite de Takayasu",
+    "Diagnóstico"
+   ],
+   "enunciado": "Homem, 28 anos, professor, queixa-se de adormecimento em braço direito ao realizar movimentos repetitivos, como apagar a lousa, há 4 meses. Refere que o quadro clínico vem se acentuando e, no último mês, notou zumbido contínuo em ouvido direito associado a tonturas frequentes. Nega outras queixas. Exame físico: paciente em bom estado geral, corado, afebril. Ausculta cardíaca com ritmo cardíaco regular em 2 tempos, com bulhas normofonéticas, sem sopros, FC = 88 bpm. Nota-se pulso carotídeo reduzido à direita, pulso radial não palpável à direita e diminuído à esquerda. Pressão arterial aferida em membro superior esquerdo = 60 x 20 mmHg. Há sopro carotídeo audível à direita. Exames laboratoriais: Hb = 11,1 g/dL; Ht = 34%; leucócitos = 11500/mm³; plaquetas = 260000/mm³ ; proteína C-reativa = 7,1 (referência < 0,5 mg/dL); VHS 80 mm/1h. Assinale a alternativa que contém o diagnóstico mais provável.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Arterite temporal."
+    },
+    {
+     "letra": "B",
+     "texto": "Poliarterite nodosa."
+    },
+    {
+     "letra": "C",
+     "texto": "Doença de Takayasu."
+    },
+    {
+     "letra": "D",
+     "texto": "Síndrome de Kawasaki."
+    },
+    {
+     "letra": "E",
+     "texto": "Lúpus eritematoso sistêmico."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000117713",
+   "codigo": "4000117713",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 69,
+   "temas": [
+    "Síndrome de Behçet",
+    "Diagnóstico"
+   ],
+   "enunciado": "Uma paciente de 21 anos de idade, branca, sem comorbidades, há três meses apresenta, de maneira recorrente, aftas dolorosas na boca e, nas duas últimas semanas, ulceração na vulva, bem mais dolorosa que as da boca. Acompanhando o quadro, notou perda da acuidade visual à direita. Em recente consulta com oftalmologista, foi diagnosticada uveíte anterior. Com base nessa situação hipotética, assinale a alternativa que apresenta a melhor hipótese diagnóstica para a paciente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Doença de Behçet"
+    },
+    {
+     "letra": "B",
+     "texto": "Tuberculose ocular."
+    },
+    {
+     "letra": "C",
+     "texto": "Uveíte herpética."
+    },
+    {
+     "letra": "D",
+     "texto": "Citomegalovirose."
+    },
+    {
+     "letra": "E",
+     "texto": "Paracoccidioidomicose"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000110659",
+   "codigo": "4000110659",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 70,
+   "temas": [
+    "Síndrome de Behçet",
+    "Diagnóstico",
+    "Exames complementares"
+   ],
+   "enunciado": "Mulher, 26 anos, sem doenças prévias, relata que há 5 meses vem apresentando aftas e úlceras genitais, extremamente dolorosas, que duram cerca de 1 semana, com regressão espontânea. No último mês vem apresentando lesões eritematosas, elevadas, dolorosas em membros inferiores. Nega alterações oftalmológicas ou neurológicas. A doença em questão está associada ao:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "HLA B51"
+    },
+    {
+     "letra": "B",
+     "texto": "HLA B27"
+    },
+    {
+     "letra": "C",
+     "texto": "Anti peptídeo citrulinado cíclico"
+    },
+    {
+     "letra": "D",
+     "texto": "Anti músculo liso"
+    },
+    {
+     "letra": "E",
+     "texto": "Anti SS-A"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000110033",
+   "codigo": "4000110033",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 71,
+   "temas": [
+    "Vasculites de pequenos vasos",
+    "Vasculites"
+   ],
+   "enunciado": "Vasculite predominantemente de pequenos vasos ocorre na:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "poliarterite nodosa."
+    },
+    {
+     "letra": "B",
+     "texto": "doença de Buerger."
+    },
+    {
+     "letra": "C",
+     "texto": "arterite de Takayasu"
+    },
+    {
+     "letra": "D",
+     "texto": "granulomalose com poliangite (granulomatose de Wegener)."
+    },
+    {
+     "letra": "E",
+     "texto": "angiite primária do sistema nervoso central."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000107009",
+   "codigo": "4000107009",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 72,
+   "temas": [
+    "Diagnóstico",
+    "Arterite de células gigantes ou arterite temporal"
+   ],
+   "enunciado": "Enferma, 70 anos, etnia branca, é admitida no serviço de clínica médica para investigação de febre de origem obscura. Os exames laboratoriais mostram velocidade de hemossedimentação (VHS) elevada e leucograma sem alterações dignas de menção. Evolutivamente, apresenta cegueira súbita de olho esquerdo. A principal hipótese diagnóstica é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Arterite de células gigantes;"
+    },
+    {
+     "letra": "B",
+     "texto": "Síndrome de imunodeficiência adquirida;"
+    },
+    {
+     "letra": "C",
+     "texto": "Granulomatose de Wegener;"
+    },
+    {
+     "letra": "D",
+     "texto": "Poliarterite nodosa;"
+    },
+    {
+     "letra": "E",
+     "texto": "Poliangiite microscópica."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000105231",
+   "codigo": "4000105231",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 73,
+   "temas": [
+    "Etiopatogenia",
+    "Arterite de Takayasu",
+    "Epidemiologia"
+   ],
+   "enunciado": "Doença sem etiologia definida, mais frequente em mulheres jovens, compromete a aorta e seus ramos, cursando com estenoses e oclusão de troncos supra aórticos, que podem levar a sintomas isquêmicos no território carotídeo, vertebro basilar e de membros superiores. Esta descrição refere-se à:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tromboangeíte obliterante."
+    },
+    {
+     "letra": "B",
+     "texto": "Doença de Behçet."
+    },
+    {
+     "letra": "C",
+     "texto": "Doença de Kawasaki."
+    },
+    {
+     "letra": "D",
+     "texto": "Arterite de Takayasu."
+    },
+    {
+     "letra": "E",
+     "texto": "Poliarterite nodosa."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000087096",
+   "codigo": "4000087096",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 74,
+   "temas": [
+    "Arterite de Takayasu",
+    "Manif estações clínicas",
+    "Diagnóstico"
+   ],
+   "enunciado": "A Arterite de Takayasu é uma vasculite crônica de grandes vasos de etiologia desconhecida cujo diagnóstico é necessário a demonstração radiográfica de vasculite de vasos maiores e um dos critérios abaixo exceto:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Pulso arterial diminuído e/ou claudicação de membros."
+    },
+    {
+     "letra": "B",
+     "texto": "Diferença de pressão sanguínea entre braços e pernas maior que 10mmHg."
+    },
+    {
+     "letra": "C",
+     "texto": "Artralgia ou atrite de grandes articulações."
+    },
+    {
+     "letra": "D",
+     "texto": "Sopros sobre a aorta e/ou suas principais ramificações."
+    },
+    {
+     "letra": "E",
+     "texto": "Hipertensão (definida por dados normativos na infância)."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000079695",
+   "codigo": "4000079695",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 75,
+   "temas": [
+    "Tromboangiíte obliterante ou doença de Buerger",
+    "Manif estações clínicas"
+   ],
+   "enunciado": "A Tromboangeíte obliterante (TAO), também conhecida como doença de Buerger, é uma doença vascular inflamatória oclusiva. Um dos sinais iniciais que ocorre no quadro de tromboangeíte obliterante é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Febre"
+    },
+    {
+     "letra": "B",
+     "texto": "Edema perimaleolar"
+    },
+    {
+     "letra": "C",
+     "texto": "Adenomegalia inguinal"
+    },
+    {
+     "letra": "D",
+     "texto": "Flebite migratória"
+    },
+    {
+     "letra": "E",
+     "texto": "Ausência de pulsos periféricos"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000069999",
+   "codigo": "4000069999",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 76,
+   "temas": [
+    "Vasculites",
+    "Vasculites de médios vasos",
+    "Poliarterite nodosa PAN"
+   ],
+   "enunciado": "Homem de 50 anos procura assistência médica em razão de hipertensão arterial sistêmica de difícil controle, parestesias em membros inferiores (MMII) e sintomas constitucionais (febre intermitente, anorexia, astenia, mialgias e artralgias). Ao exame físico encontra-se hipocorado (+/4+), hidratado, acianótico, anictérico e afebril; PA = 180 x 110 mmHg; FC = 78 bpm; RCR 3T (B4); BNF; sem sopros; pulmões limpos; abdome sem alterações; sinais de orquite à direita; MMII com lesões cutâneas nodulares. O exame neurológico sugere mononeurite múltipla nos MMII. Exames complementares iniciais revelam aumento da velocidade de hemossedimentação, anemia normocítica/normocrômica, trombocitose leve e moderada retenção de escórias nitrogenadas (ureia = 88 mg/dl; creatinina = 3,2 mg/dl). Em exame trazido à consulta pelo paciente, marcadores virais da hepatite revelam apenas positividade à pesquisa do HBsAg. O exame complementar que poderá sustentar a hipótese diagnóstica mais provável para o adoecimento do paciente é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Pesquisa de FAN com título 1:640, padrão salpicado fino."
+    },
+    {
+     "letra": "B",
+     "texto": "Arteriografia renal, revelando pequenos aneurismas."
+    },
+    {
+     "letra": "C",
+     "texto": "Hemoculturas positivas para Streptococcus viridans."
+    },
+    {
+     "letra": "D",
+     "texto": "Hemoglobina glicada com valor superior a 7,5%."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000069869",
+   "codigo": "4000069869",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 77,
+   "temas": [
+    "Granulomatose eosinof ílica com poliangiíte GEPA ou síndrome de ChurgStrauss",
+    "Vasculites"
+   ],
+   "enunciado": "Paciente portador de asma brônquica de controle difícil passa a se queixar de piora da dispneia e aparecimento de púrpura palpável em MMII semanas após a associação de montelucaste ao tratamento com beta2-agonista de ação prolongada e corticoide inalatório. Seus exames complementares revelam eosino lia significativa, hematúria glomerular (presença de dismor smo eritrocitário), VHS elevada e pesquisa de ANCA positiva (padrão p-ANCA). Uma tomogra a de tórax de alta resolução mostra nódulos subpleurais e áreas de “vidro fosco” no parênquima; não há bronquiectasias centrais. Um resultado de exame complementar que pode confirmar a provável causa da evolução do paciente é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Detecção de Aspergillus sp na secreção traqueal."
+    },
+    {
+     "letra": "B",
+     "texto": "Dosagem sérica elevada de IgE."
+    },
+    {
+     "letra": "C",
+     "texto": "Existência de abscesso cerebral."
+    },
+    {
+     "letra": "D",
+     "texto": "Vasculite eosinofílica em biópsia."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000069063",
+   "codigo": "4000069063",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 78,
+   "temas": [
+    "Arterite de células gigantes ou arterite temporal"
+   ],
+   "enunciado": "Paciente feminina, 57 anos, apresenta cefaléia associada a amaurose fugaz e claudicação de mandíbula. Qual hipótese diagnostica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cefaléia em salvas."
+    },
+    {
+     "letra": "B",
+     "texto": "Arterite temporal."
+    },
+    {
+     "letra": "C",
+     "texto": "Hemicrania Paróxistica."
+    },
+    {
+     "letra": "D",
+     "texto": "Neuralgia do Trigemio."
+    },
+    {
+     "letra": "E",
+     "texto": "Cefaléia do tipo tensional."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000069017",
+   "codigo": "4000069017",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 79,
+   "temas": [
+    "Vasculites de grandes vasos",
+    "Vasculites de pequenos vasos",
+    "Vasculites"
+   ],
+   "enunciado": "As vasculites são um grupo heterogêneo de doenças, ligados por clínica, laboratório e fatores patofísiológicos comuns, que lesam os vasos sanguíneos. Frente a estas afirmações, qual resposta abaixo podemos assinalar como verdadeira.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O p-ANCA é sempre mais associada com a Polimialgia Reumática."
+    },
+    {
+     "letra": "B",
+     "texto": "A Poliarterite Nodosa é uma vasculite clássica, que atinge os grandes vasos."
+    },
+    {
+     "letra": "C",
+     "texto": "São classificadas de acordo com o localização dos vasos."
+    },
+    {
+     "letra": "D",
+     "texto": "A púrpura de Henoch-Schõnlein é uma vasculite de grandes vasos."
+    },
+    {
+     "letra": "E",
+     "texto": "São classificadas de acordo com o calibre dos vasos"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000066201",
+   "codigo": "4000066201",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 80,
+   "temas": [
+    "Etiopatogenia",
+    "Manif estações clínicas",
+    "Diagnóstico"
+   ],
+   "enunciado": "Mulher, 43 anos, em acompanhamento por hepatopatia secundária ao vírus da hepatite C, desenvolve quadro de púrpura palpável, artralgia e neuropatia periférica. O exame laboratorial mais útil para auxiliar o diagnóstico desse quadro é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Pesquisa do ANCA."
+    },
+    {
+     "letra": "B",
+     "texto": "Pesquisa de fator reumatoide."
+    },
+    {
+     "letra": "C",
+     "texto": "Pesquisa de anticorpo antimembrana basal."
+    },
+    {
+     "letra": "D",
+     "texto": "Dosagem do fator antinuclear."
+    },
+    {
+     "letra": "E",
+     "texto": "Dosagem de crioglobulinas."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000064177",
+   "codigo": "4000064177",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 81,
+   "temas": [
+    "Vasculites",
+    "Vasculites associadas ao ANCA"
+   ],
+   "enunciado": "Granulomatose com poliangiíte GPA ou granulomatose de Wegener Vasculite é um processo clinicopatológico caracterizado por in amação e dano aos vasos sanguíneos. Um grupo amplo e heterogêneo de vasculites pode resultar desse processo. Com relação às vasculites e suas respectivas alterações clinicolaboratoriais, numere a coluna de baixo de acordo com sua correspondência com a coluna de cima. 1. Poliarterite nodosa; 2. Poliangiite com granulomatose (Wegener); 3. Poliangiite microscópica; 4. Takayasu; 5. Vasculite por IgA (Henoch-Schönlein). ( ) Vasculite necrotizante acometendo pequenos vasos (capilares, vênulas e arteríolas); glomerulonefrite e capilarite pulmonar; ANCA antimieloperoxidase positivo. ( ) Vasculite de pequenos vasos caracterizada por púrpura palpável (mais comumente localizada nas nádegas e membros inferiores), artralgias, sinais e sintomas gastrointestinais e glomerulonefrite. ( ) Vasculite granulomatosa com envolvimento do trato respiratório alto e baixo associada com glomerulonefrite; ANCA antiproteinase 3 positivo. ( ) Arteriogra a com a presença de aneurismas de artérias de pequeno e médio calibre no rim, fígado e vasculatura visceral. ( ) Estenose de artérias de médio e grande calibre com forte predileção pela aorta e seus ramos. Assinale a alternativa que apresenta a numeração CORRETA na coluna da direita, de cima para baixo.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "5 – 3 – 1 – 4 – 2."
+    },
+    {
+     "letra": "B",
+     "texto": "3 – 5 – 1 – 2 – 4."
+    },
+    {
+     "letra": "C",
+     "texto": "4 – 3 – 5 – 1 – 2."
+    },
+    {
+     "letra": "D",
+     "texto": "3 – 5 – 2 – 1 – 4."
+    },
+    {
+     "letra": "E",
+     "texto": "5 – 1 – 2 – 4 – 3."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000043434",
+   "codigo": "4000043434",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 82,
+   "temas": [
+    "Granulomatose eosinof ílica com poliangiíte GEPA ou síndrome de ChurgStrauss",
+    "Diagnóstico"
+   ],
+   "enunciado": "Um paciente de 40 anos foi admitido ao hospital com queixas de febre, perda de peso, surgimento de lesões cutâneas e dor neuropática de forte intensidade, há três meses. Relatava história de asma e rinossinusite há seis anos, de difícil controle, requerendo cursos frequentes de corticoide oral. Ao exame físico, observam-se lesões purpúricas elevadas e dolorosas em membros inferiores, e o exame neurológico foi compatível com mononeurite multiplex. Qual dos achados abaixo NÃO seria compatível com o caso descrito?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Eosinofilia >1500/mm³."
+    },
+    {
+     "letra": "B",
+     "texto": "Níveis reduzidos de complemento."
+    },
+    {
+     "letra": "C",
+     "texto": "p-ANCA positivo."
+    },
+    {
+     "letra": "D",
+     "texto": "Tomografia de tórax mostrando infiltrados e nódulos pulmonares não cavitários."
+    },
+    {
+     "letra": "E",
+     "texto": "Biópsia cutânea, mostrando vasculite necrotizante com infiltrado eosinofílico."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000034919",
+   "codigo": "4000034919",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 83,
+   "temas": [
+    "Epidemiologia",
+    "Manif estações clínicas",
+    "Exames complementares"
+   ],
+   "enunciado": "Em relação à arterite de células gigantes. marque a alternativa FALSA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Um achado característico é o aumento importante do VHS."
+    },
+    {
+     "letra": "B",
+     "texto": "É mais comum em homens, entre 20 e 40 anos."
+    },
+    {
+     "letra": "C",
+     "texto": "É comum o aumento da fosfatase alcalina."
+    },
+    {
+     "letra": "D",
+     "texto": "É comum o achado de cefaleia e claudicação da mandíbula."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000032535",
+   "codigo": "4000032535",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 84,
+   "temas": [
+    "Vasculites",
+    "Artrite séptica",
+    "Púrpura de HenochSchöinleinVasculite por IgA"
+   ],
+   "enunciado": "Relacione a segunda coluna de acordo com a primeira sobre os achados clínicos das patologias enumeradas na primeira coluna, e ao final responda o que se pede: 1. Artrite Gonocócica; 2. Crioglobulinemia; 3. Henoch Scholein; 4. Gota; ( ) Habitualmente inicia acometendo uma articulação como a primeira metatarsofalangeana. Alguns pacientes podem ter um único episódio, porém a maioria deles terá episódios recorrentes com intervalos sem sintomas.; ( ) Uma única articulação é acometida (quadril, joelho, tornozelo e punho), mas pode apesentar quadro de artrite migratória na sua forma disseminada assim como rash e alterações cutâneas típicas.; ( ) Apresenta-se com quadro de purpura palpável, frequentemente associado a positividade do vírus C, podendo ter alteração do sedimento urinário; ( ) Apresenta se com quadro de púrpura palpável em membros inferiores simétrica associado a dor abdominal e hematúria. Marque a alternativa que contenha a sequência CORRETA de respostas, na ordem de cima para baixo:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1, 4, 2, 3"
+    },
+    {
+     "letra": "B",
+     "texto": "4, 1, 3, 2"
+    },
+    {
+     "letra": "C",
+     "texto": "4, 3, 1, 2"
+    },
+    {
+     "letra": "D",
+     "texto": "4, 1, 2, 3"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000031600",
+   "codigo": "4000031600",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 85,
+   "temas": [
+    "Vasculites de pequenos vasos",
+    "Vasculites",
+    "Vasculites associadas ao ANCA"
+   ],
+   "enunciado": "As Vasculites associadas ao Anticorpo Anticitoplasma de Neutró lo (ANCA) se caracterizam por um grupo de doenças que se caracterizam pelos seguintes achados etiopatogênicos, EXCETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Histologicamente por vasculite necrotizantes de vasos de pequeno calibre."
+    },
+    {
+     "letra": "B",
+     "texto": "Por frequentes depósitos de imunocomplexos nas paredes dos vasos afetados."
+    },
+    {
+     "letra": "C",
+     "texto": "Acometem predominantemente adultos."
+    },
+    {
+     "letra": "D",
+     "texto": "A fração C5a do complemento participam do processo inflamátório."
+    },
+    {
+     "letra": "E",
+     "texto": "Tal inflamação acontece principalmente no trato respiratório superior e inferior e os rins."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000030323",
+   "codigo": "4000030323",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 86,
+   "temas": [
+    "Etiopatogenia",
+    "Exames complementares",
+    "Poliarterite nodosa PAN"
+   ],
+   "enunciado": "A poliartrite nodosa (PAN) pode estar associada ao vírus da hepatite B. Qual, dos seguintes exames, se apresentaria positivo?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Anti-HBe."
+    },
+    {
+     "letra": "B",
+     "texto": "HBeAg."
+    },
+    {
+     "letra": "C",
+     "texto": "Anti-Hbs."
+    },
+    {
+     "letra": "D",
+     "texto": "Anti-HBc."
+    },
+    {
+     "letra": "E",
+     "texto": "ANCA."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000029807",
+   "codigo": "4000029807",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 87,
+   "temas": [
+    "Polimialgia reumática",
+    "Diagnóstico"
+   ],
+   "enunciado": "Paciente do sexo feminino, 66 anos, hipertensa em tratamento regular com losartana, sem outras comorbidades. Informa que há 3 semanas iniciou quadro de lombalgia, após esforço, sem irradiação para membros inferiores. Informa ainda que as dores estão se agravando, principalmente à noite, e que \"subiram\" até os ombros. Informa perda funcional dos ombros e quadril e, há 1 semana, tem apresentado rigidez matinal do quadril com duração de 1 hora. Não apresenta qualquer outro sintoma sistêmico. Solicitados exames laboratoriais e de imagem com os seguintes resultados: Tomogra a computadorizada de coluna lombar - discopatia degenerativa sem compressão radicular; Tomogra a computadorizada dos ombros - osteoartrose; Laboratorais - anemia (HB: 10,1) normocítica normocrômica, VHS aumentado (106 mm/h), PCR aumentada, FAN negativo, fator reumatoide negativo, sorologias virais negativas. Qual o diagnóstico mais provável para essa paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Doença neoplásica."
+    },
+    {
+     "letra": "B",
+     "texto": "Arterite de células gigantes."
+    },
+    {
+     "letra": "C",
+     "texto": "Artrite reumatoide."
+    },
+    {
+     "letra": "D",
+     "texto": "Polimialgia reumática."
+    },
+    {
+     "letra": "E",
+     "texto": "Fibromialgia."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000002515",
+   "codigo": "4000002515",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 88,
+   "temas": [
+    "Síndrome de Behçet",
+    "Síndrome de Behçet"
+   ],
+   "enunciado": "A doença de Behçet, é CORRETO afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Homens e mulheres são igualmente afetados na população japonesa."
+    },
+    {
+     "letra": "B",
+     "texto": "Uma das características menores da doença é o eritema nodoso."
+    },
+    {
+     "letra": "C",
+     "texto": "O envolvimento unilocular é visto em 50% dos casos."
+    },
+    {
+     "letra": "D",
+     "texto": "Neovascularização pode estar associada com vasculite retiniana."
+    },
+    {
+     "letra": "E",
+     "texto": "Associado com uveítes tem um bom prognóstico visual."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000000240",
+   "codigo": "4000000240",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 89,
+   "temas": [
+    "Angiíte leucocitoclástica cutânea ou vasculite leucocitoclástica",
+    "Outras vasculites"
+   ],
+   "enunciado": "Manif estações clínicas Assinale a afirmativa correta sobre as vasculites.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A granulomatose de Wegener apresenta associação com asma e eosinofilia maior que 10%."
+    },
+    {
+     "letra": "B",
+     "texto": "Arterite Temporal e Arterite de Takayasu representam vasculites de vasos de médio calibre."
+    },
+    {
+     "letra": "C",
+     "texto": "A maioria dos casos de vasculite crioglobulinêmica, anteriormente denominada idiopática, pode ser atribuída ao vírus da Hepatite B."
+    },
+    {
+     "letra": "D",
+     "texto": "A vasculite cutânea de pequenos vasos pode associar-se a malignidades, especialmente a tumores sólidos."
+    },
+    {
+     "letra": "E",
+     "texto": "A vasculite cutânea de pequenos vasos é caracterizada por variado espectro de lesões cutâneas, sendo a púrpura palpável a lesão dermatológica mais comum."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000126297",
+   "codigo": "4000126297",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 90,
+   "temas": [
+    "Arterite de Takayasu",
+    "Manif estações clínicas",
+    "Diagnóstico"
+   ],
+   "enunciado": "As vasculites acometem vasos de diferentes calibres. As manifestações são proteiformes: se o vaso acometido se destina aos pulmões, temos manifestação pulmonar; ao nervo, manifestação neurológica. Apresentamos uma paciente de 30 ANOS, com claudicação de extremidades, ou seja, manifesta cansaço muscular após demanda daquele segmento. Ao verificar a pressão arterial, observa-se um decréscimo de mais que 10 mmHg, da pressão sistólica, entre os braços. Assinale a alternativa mais apropriada.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Vasculite de grandes vasos, conhecida como arterite de Takayasu."
+    },
+    {
+     "letra": "B",
+     "texto": "Vasculite de médios vasos, conhecida como arterite de Kawasaki."
+    },
+    {
+     "letra": "C",
+     "texto": "Vasculite de grandes vasos, conhecida como arterite de células gigantes."
+    },
+    {
+     "letra": "D",
+     "texto": "Vasculite de médios vasos, conhecida como poliarterite nodosa."
+    },
+    {
+     "letra": "E",
+     "texto": "Vasculite de médios vasos, conhecida como granulomatose de Wegener."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119504",
+   "codigo": "4000119504",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 91,
+   "temas": [
+    "Trombose Venosa Prof unda TVP",
+    "Cirurgia"
+   ],
+   "enunciado": "Qual das doenças reumatológicas abaixo está mais relacionada à doença trombótica venosa?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Artrite reumatoide."
+    },
+    {
+     "letra": "B",
+     "texto": "Espondilose anquilosante."
+    },
+    {
+     "letra": "C",
+     "texto": "Lúpus eritematoso sistêmico."
+    },
+    {
+     "letra": "D",
+     "texto": "Doença de Behçet."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119484",
+   "codigo": "4000119484",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 92,
+   "temas": [
+    "Granulomatose eosinof ílica com poliangiíte GEPA ou síndrome de ChurgStrauss",
+    "Manif estações clínicas"
+   ],
+   "enunciado": "Homem de 56 anos de idade foi admitido na UTI com quadro de insu ciência respiratória. Ele desenvolveu dispneia e tosse há 3 dias, depois apresentou dormência, formigamento e fraqueza no seu pé. Na admissão, a creatinina era 4,4 e o leucograma era 18.400 com 60% de eosinó los. A radiogra a de tórax demonstrava os múltiplos nódulos pulmonares. A esposa falou que ele tinha história prévia de asma e que voltou às crises há 1 mês. O ANCA é 253 IV (aumentado). A sua suspeita inicial é granulomatose eosinofílica com poliangeíte (Churg-Strauss) ou Wegener. Qual dos achados abaixo favorece o diagnóstico de Churg-Strauss, granulomatose eosinofílica com poliangeíte?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Asma."
+    },
+    {
+     "letra": "B",
+     "texto": "Eosinofilia."
+    },
+    {
+     "letra": "C",
+     "texto": "Neuropatia periférica."
+    },
+    {
+     "letra": "D",
+     "texto": "Nódulos pulmonares."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000107733",
+   "codigo": "4000107733",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 93,
+   "temas": [
+    "Tratamento",
+    "Diagnóstico",
+    "Arterite de células gigantes ou arterite temporal"
+   ],
+   "enunciado": "Homem, 75 anos, vem ao pronto-socorro com cefaleia temporal esquerda há 2 meses, associado a fadiga. Relata que há 2 dias apresentou episódio de amaurose fugaz. Ao exame físico apresentava-se normotenso, sem alterações neurológicas focais, com desconforto à palpação de região temporal direita. Aparelhos respiratório, cardiovascular e abdome sem alterações. Sem linfonodos palpáveis. Exames laboratoriais evidenciaram anemia normocítica normocrômica leve, discreta plaquetose. Velocidade de hemossedimentação de 100 mm/h na primeira hora (VR < 20). Qual a principal hipótese e conduta imediata?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Acidente vascular encefálico hemorrágico, avaliação da neurocirurgia."
+    },
+    {
+     "letra": "B",
+     "texto": "Enxaqueca, analgesia simples e propanolol."
+    },
+    {
+     "letra": "C",
+     "texto": "Arterite de células gigantes, glicocorticoide."
+    },
+    {
+     "letra": "D",
+     "texto": "Arterite de Takayasu, ciclofosfamida."
+    },
+    {
+     "letra": "E",
+     "texto": "Metástase SNC, tomografia de crânio, tórax e abdome."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000098182",
+   "codigo": "4000098182",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 94,
+   "temas": [
+    "Síndrome de Behçet",
+    "Diagnóstico"
+   ],
+   "enunciado": "Um médico legista faz uma necropsia em uma mulher não identi cada, com óbito secundário à hemoptise maciça. Ela aparenta ter entre 35 a 40 anos. Ao exame do tórax, observam-se aneurismas de artérias pulmonares, com rotura. Qual o provável diagnóstico?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Síndrome de Goodpasture."
+    },
+    {
+     "letra": "B",
+     "texto": "Hipertensão pulmonar."
+    },
+    {
+     "letra": "C",
+     "texto": "Poliangiite com granulomatose."
+    },
+    {
+     "letra": "D",
+     "texto": "Doença de Behçet."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000096758",
+   "codigo": "4000096758",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 95,
+   "temas": [
+    "Glomerulonef rite rapidamente progressiva",
+    "Hemoptise"
+   ],
+   "enunciado": "JBS, 65 anos, trabalhador rural, previamente hígido. Há uma semana, encontra-se com seu estado geral comprometido, hipertenso, com artralgias, dormência de membros inferiores, febrículas e manchas pelo corpo, além de diminuição da diurese. Há um dia, apresentou episódio de hemoptoicos. A diurese medida nas últimas 12h foi de 100ml. O laboratório mostrou os seguintes resultados: Creatinina=6,0mg/dl; Ureia=150,0mg/dl Potássio=5,0mEq/l; Hemoglobina=12g/dl; Hematócrito=38%; EQU com Proteínas ++, Hemácias + e Leucócitos 2/campo; Proteinúria/Creatininúria em amostra=1,5g; C3 e C4 normais; DHL=100,0mg/dl. Além desses resultados, as sorologias virais foram todas negativas, e alguns resultados de exames imunológicos ainda não estavam disponíveis. Ecogra a de rins e vias urinárias mostrou rins de tamanho normal. Sobre o diagnóstico e conduta imediatos, é correto afirmar que o quadro clínico descrito é compatível com:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Lúpus Eritematoso Sistêmico, devendo-se proceder à terapia imunossupressora com ciclofosfamida e corticosteroides."
+    },
+    {
+     "letra": "B",
+     "texto": "Glomerulopatia membranoproliferativa, devendo-se proceder à biopsia renal para confirmação diagnóstica."
+    },
+    {
+     "letra": "C",
+     "texto": "Vasculite por crioglobulinemia, devendo-se proceder à biopsia renal para confirmação diagnóstica."
+    },
+    {
+     "letra": "D",
+     "texto": "Glomerulopatia rapidamente progressiva, devendo-se iniciar tratamento com corticosteroides e plasmaferese."
+    },
+    {
+     "letra": "E",
+     "texto": "Vasculite pulmão-rim (Síndrome de Goodpasture), devendo-se proceder à biópsia renal para confirmação diagnóstica."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000095743",
+   "codigo": "4000095743",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 96,
+   "temas": [
+    "Síndrome de Behçet"
+   ],
+   "enunciado": "Um paciente de 35 anos apresentou úlceras dolorosas na cavidade oral, artrite de joelhos e tornozelos, hiperemia ocular bilateral, lesões acneiformes no tronco e eritema nodoso. A hipótese diagnóstica mais provável para esse caso é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "vasculite crioglobulinêmica"
+    },
+    {
+     "letra": "B",
+     "texto": "poliarterite nodosa"
+    },
+    {
+     "letra": "C",
+     "texto": "doença de Behçet"
+    },
+    {
+     "letra": "D",
+     "texto": "doença de Still"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000085236",
+   "codigo": "4000085236",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 97,
+   "temas": [
+    "Vasculites"
+   ],
+   "enunciado": "Dentre as vasculites que acometem vasos médios, aquela que manifesta-se com dor abdominal, insu ciência renal aguda e dor testicular é chamada de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Poliangiite microscópica"
+    },
+    {
+     "letra": "B",
+     "texto": "Púrpura de Henoch-Schönlein"
+    },
+    {
+     "letra": "C",
+     "texto": "Poliarterite nodosa."
+    },
+    {
+     "letra": "D",
+     "texto": "Doença de Behçet."
+    },
+    {
+     "letra": "E",
+     "texto": "Vasculite crioglobulinêmica."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000078731",
+   "codigo": "4000078731",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 98,
+   "temas": [
+    "Vasculites"
+   ],
+   "enunciado": "Um homem de 54 anos, motorista de ônibus, tabagista (2 maços de cigarros/dia) com história de trombo ebite super cial vai à clínica da família com queixa de dor em ambas as regiões plantares há 3 dias. Nos últimos seis meses ele relata vários episódios de queimação nos pés e dedos. A dor persiste em repouso e o está impedindo de trabalhar. Ao exame físico percebe-se paciente emagrecido, com pés eritematosos e frios, com lesões ulceradas distais (ambos os pés). Os pulsos femorais são amplos e simétricos, mas os pulsos das artérias tibiais posteriores são ausentes. A distribuição de pelos nas pernas é normal. A dor não piora a compressão. Qual o diagnóstico?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Fasciíte plantar."
+    },
+    {
+     "letra": "B",
+     "texto": "Artrite gotosa."
+    },
+    {
+     "letra": "C",
+     "texto": "Doença de Buerger."
+    },
+    {
+     "letra": "D",
+     "texto": "Doença aterosclerótica."
+    },
+    {
+     "letra": "E",
+     "texto": "Arterite de células gigantes."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000048706",
+   "codigo": "4000048706",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vasculites",
+   "numero": 99,
+   "temas": [
+    "Tratamento",
+    "Polimialgia reumática",
+    "Diagnóstico"
+   ],
+   "enunciado": "Paciente feminino, 70 anos, hipertensa controlada com enalapril, refere episódios de dores articulares acompanhado de rigidez nas mãos e ombros principalmente pela manhã, perda de peso (2Kg), claudicação de mandíbula, sintomas depressivos, diminuição da força muscular ao nível da cintura escapular há três meses. Sem outras queixas. Ao exame apresentava discreta palidez cutânea e diminuição da amplitude dos movimentos na cintura escapular e pélvica. Exames laboratoriais: HB 11g/dL, Ht 35%, VCM 80, VHS 105, FAN (-), FR (-), CPK 78, Ferritina 250 (VN:22-300), sumario de urina normal, PCR 2,85, função renal e hepática normal, RX de tórax sem alteração. Em relação ao diagnóstico provável e tratamento: Respostas: 1 12 23 34 45 56 67 78 89",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipotireoidismo, levotiroxina"
+    },
+    {
+     "letra": "B",
+     "texto": "Lúpus eritematoso sistêmico com FAN (-), prednisona"
+    },
+    {
+     "letra": "C",
+     "texto": "Artrite reumatoide com FR (-), metotrexato"
+    },
+    {
+     "letra": "D",
+     "texto": "Dermatopolimiosite, prednisona"
+    },
+    {
+     "letra": "E",
+     "texto": "Polimialgia reumática, prednisona"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": []
+}

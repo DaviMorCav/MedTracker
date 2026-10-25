@@ -1,0 +1,1938 @@
+{
+ "questoes": [
+  {
+   "id": "4000046236",
+   "codigo": "4000046236",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UFPB 2020",
+   "numero": 1,
+   "temas": [
+    "Nomenclatura citológica brasileira"
+   ],
+   "enunciado": "Para que a amostra da Citologia Cérvico-Vaginal seja considerada satisfatória na sua análise de prevenção do câncer de colo uterino, o que deve ser observado?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Índice colposcópico de Reid."
+    },
+    {
+     "letra": "B",
+     "texto": "Índice de maturação estrogênica."
+    },
+    {
+     "letra": "C",
+     "texto": "A presença de componentes da ZT (células metaplásicas endocervicais ou escamosas, ou ambas)."
+    },
+    {
+     "letra": "D",
+     "texto": "Presença de Células-chave."
+    },
+    {
+     "letra": "E",
+     "texto": "Uso de \"CellSaver\"."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/4000046236-1.jpg",
+     "antes_das_alternativas": false
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000046214",
+   "codigo": "4000046214",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UFPB 2020",
+   "numero": 2,
+   "temas": [
+    "Exame bacterioscópico"
+   ],
+   "enunciado": "No exame a fresco da secreção vaginal, quais organismos de interesse clínico podem ser vistos?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Candida, Gardnerella vaginalis, Estreptococos do Grupo B."
+    },
+    {
+     "letra": "B",
+     "texto": "Klebsiella, Gardnerella vaginalis, Trichomonas vaginalis."
+    },
+    {
+     "letra": "C",
+     "texto": "Candida, Neisseria gonorrhoeae, Trichomonas vaginalis."
+    },
+    {
+     "letra": "D",
+     "texto": "Candida, Gardnerella vaginalis, Trichomonas vaginalis."
+    },
+    {
+     "letra": "E",
+     "texto": "Chlamydia trachomatis, Gardnerella vaginalis, Trichomonas vaginalis."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046196",
+   "codigo": "4000046196",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UFPB 2020",
+   "numero": 3,
+   "temas": [
+    "Histeroscopia",
+    "Quadro clínico",
+    "Quadro clínico"
+   ],
+   "enunciado": "Qual exame deve ser feito diante de espessamento endometrial em uma mulher menopausada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Histerectomia extrafascial."
+    },
+    {
+     "letra": "B",
+     "texto": "Vídeo-histeroscopia com biópsia dirigida."
+    },
+    {
+     "letra": "C",
+     "texto": "Histerectomia tipo II."
+    },
+    {
+     "letra": "D",
+     "texto": "Histerectomia simples."
+    },
+    {
+     "letra": "E",
+     "texto": "Histerectomia tipo III."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046183",
+   "codigo": "4000046183",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UFPB 2020",
+   "numero": 4,
+   "temas": [
+    "Tratamento excisional"
+   ],
+   "enunciado": "Qual a conduta frente a um resultado de \"Lesão de Alto Grau\" em uma biopsia de Colo Uterino?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Colposcopia."
+    },
+    {
+     "letra": "B",
+     "texto": "Histeroscopia."
+    },
+    {
+     "letra": "C",
+     "texto": "Histerectomia."
+    },
+    {
+     "letra": "D",
+     "texto": "Conização."
+    },
+    {
+     "letra": "E",
+     "texto": "Amputação do colo uterino."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046169",
+   "codigo": "4000046169",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UFPB 2020",
+   "numero": 5,
+   "temas": [
+    "Histerossalpingograf ia"
+   ],
+   "enunciado": "Qual exame pode visualizar a permeabilidade das tubas uterinas?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Histeroscopia."
+    },
+    {
+     "letra": "B",
+     "texto": "Histerossalpingografia."
+    },
+    {
+     "letra": "C",
+     "texto": "Laparoscopia."
+    },
+    {
+     "letra": "D",
+     "texto": "Salpingostomia."
+    },
+    {
+     "letra": "E",
+     "texto": "Ultrassonografia transvaginal."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q005-1.jpg",
+     "antes_das_alternativas": false
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000046145",
+   "codigo": "4000046145",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UFPB 2020",
+   "numero": 6,
+   "temas": [
+    "Obstetrícia"
+   ],
+   "enunciado": "No estudo da vitalidade fetal através da dopplervelocimetria, considere os itens abaixo: a) O uxo diastólico ausente ou reverso na artéria umbilical ocorre quando pelo menos 70% da vasculatura placentária encontra-se lesionada. b) Alteração no espectro de fluxo no ducto venoso é considerado um marcador de acidose ao nascimento. c) A velocidade máxima do fluxo da artéria cerebral média não é preditiva de anemia fetal. É(são) incorreto(s) o(s) item(ns):",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Apenas a."
+    },
+    {
+     "letra": "B",
+     "texto": "Apenas a e c."
+    },
+    {
+     "letra": "C",
+     "texto": "Apenas b."
+    },
+    {
+     "letra": "D",
+     "texto": "Apenas c."
+    },
+    {
+     "letra": "E",
+     "texto": "Apenas b e c."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046132",
+   "codigo": "4000046132",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UFPB 2020",
+   "numero": 7,
+   "temas": [
+    "Obstetrícia"
+   ],
+   "enunciado": "No estudo dopplervelocimétrico obstétrico, considere os itens abaixo: a) A obtenção do índice de pulsatilidade da artéria umbilical é resultado da equação: sístole - diástole / velocidade média. b) A avaliação do sonograma da artéria umbilical deve, preferencialmente, ser realizada próximo à inserção do cordão umbilical. c) A função placentária pode ser investigada por meio do sonograma das artérias uterinas. É(são) correto(s) o(s) item(ns):",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Apenas a."
+    },
+    {
+     "letra": "B",
+     "texto": "Apenas b e c."
+    },
+    {
+     "letra": "C",
+     "texto": "a, b e c."
+    },
+    {
+     "letra": "D",
+     "texto": "Apenas a e b."
+    },
+    {
+     "letra": "E",
+     "texto": "Apenas c."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/4000046132-1.jpg",
+     "antes_das_alternativas": false
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000046115",
+   "codigo": "4000046115",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UFPB 2020",
+   "numero": 8,
+   "temas": [
+    "Apresentação"
+   ],
+   "enunciado": "Para a avaliação fetal durante o trabalho de parto, o toque vaginal permite identi car a apresentação fetal e seus pontos de reparo. Em qual dos itens essa correlação está incorreta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cefálica defletida de 1º grau = Ângulo anterior do bregma."
+    },
+    {
+     "letra": "B",
+     "texto": "Cefálica defletida de 3º grau = Queixo."
+    },
+    {
+     "letra": "C",
+     "texto": "Cefálica defletida de 2º grau = Raiz do nariz."
+    },
+    {
+     "letra": "D",
+     "texto": "Cefálica fletida = Lambda."
+    },
+    {
+     "letra": "E",
+     "texto": "Pélvica = Acrômio."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046102",
+   "codigo": "4000046102",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UFPB 2020",
+   "numero": 9,
+   "temas": [
+    "Obstetrícia"
+   ],
+   "enunciado": "Na assistência ao parto pélvico, considere os itens: a) A manobra de Mauriceau está indicada para o despreendimento do polo cefálico. b) Existem três formas de apresentação pélvica: forma completa, modo de nádegas e a forma incompleta, sendo a mais frequente a forma de nádegas. c) São condições predisponentes: polidrâmnia, prematuridade e óbito fetal. É(são) correto(s) o(s) item(ns):",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a, b e c."
+    },
+    {
+     "letra": "B",
+     "texto": "Apenas b e c."
+    },
+    {
+     "letra": "C",
+     "texto": "Apenas a e c."
+    },
+    {
+     "letra": "D",
+     "texto": "Apenas a e b."
+    },
+    {
+     "letra": "E",
+     "texto": "Apenas a."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046078",
+   "codigo": "4000046078",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UFPB 2020",
+   "numero": 10,
+   "temas": [
+    "Avaliação do colo uterino"
+   ],
+   "enunciado": "Sobre a maturação do colo uterino, utiliza-se, frequentemente, o índice de Bishop para a sua avaliação clínica. Fazem parte desta avaliação os itens abaixo, exceto:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Dilatação cervical."
+    },
+    {
+     "letra": "B",
+     "texto": "Altura da apresentação fetal."
+    },
+    {
+     "letra": "C",
+     "texto": "Esvaecimento cervical."
+    },
+    {
+     "letra": "D",
+     "texto": "Linhas de orientação da apresentação fetal."
+    },
+    {
+     "letra": "E",
+     "texto": "Consistência cervical."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q010-1.jpg",
+     "antes_das_alternativas": false
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000046066",
+   "codigo": "4000046066",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UFPB 2020",
+   "numero": 11,
+   "temas": [
+    "Cirurgia",
+    "Trauma Abdominal e Pélvico",
+    "Fraturas e Luxações da Bacia e Acetábulo"
+   ],
+   "enunciado": "Homem, 55 anos, vítima de queda de moto, dá entrada no Hospital de Trauma, com vias aéreas pérvias, ventilando bem. FC 110bpm e PA 100x 60mmHg (após 2000ml de soro ringe lactato) e Glasgow de 14. Refere dor em região hipogástrica. Radiogra a do tórax normal e da bacia com fratura dos elementos posteriores da pelve. Sobre este caso, marque a alternativa correta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "De imediato, deverá ser passado sonda vesical para avaliação do débito urinário."
+    },
+    {
+     "letra": "B",
+     "texto": "Fratura dos elementos posteriores da pelve estão frequentemente associados aos sangramentos de origem venosos, dificilmente controlados com embolização."
+    },
+    {
+     "letra": "C",
+     "texto": "Devido à alta incidência de lesões intra-abdominais associadas, deve ser realizada uma ultrassonografia FAST ou um LPD infraumbilical."
+    },
+    {
+     "letra": "D",
+     "texto": "Se houver indicação clara para a exploração abdominal, o hematoma pélvico não deve ser explorado."
+    },
+    {
+     "letra": "E",
+     "texto": "Se houver indicação de laparotomia exploradora e for identificado sangramento ativo da pelve, os ramos ilíacos deverão ser explorados, a fim de identificar a fonte do sangramento."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046053",
+   "codigo": "4000046053",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UFPB 2020",
+   "numero": 12,
+   "temas": [
+    "Gastroenterologia"
+   ],
+   "enunciado": "Um homem de 48 anos é admitido com dor em faixa no andar superior do abdômen e vômitos. A amilase sérica é de 1200 U/L. Quatro dias após a admissão, a TC mostra necrose em 50% do parênquima pancreático, com extensão para o parênquima peripancreático. Sobre o tratamento cirúrgico da necrose pancreática associada à pancreatite aguda, é incorreto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A pancreatite aguda grave é definida como a pancreatite aguda complicada por falência de órgãos persistentes (>48 horas) e ocorre em 15%-20% dos pacientes."
+    },
+    {
+     "letra": "B",
+     "texto": "Os pacientes com pancreatite aguda grave que desenvolvem falência orgânica dentro da fase precoce, correm um risco de 36% a 50% de morte."
+    },
+    {
+     "letra": "C",
+     "texto": "Paciente com indicativo de laparotomia exploradora precoce para desbridamento do pâncreas e drenagem da cavidade."
+    },
+    {
+     "letra": "D",
+     "texto": "Em pacientes sintomáticos - com necrose infectada, métodos minimamente invasivos de necrosectomia são preferíveis - à cirurgia convencional."
+    },
+    {
+     "letra": "E",
+     "texto": "Em paciente que tem pancreatite aguda grave, especialmente com necrose pancreática, a colecistectomia deverá ser retardada."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046038",
+   "codigo": "4000046038",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UFPB 2020",
+   "numero": 13,
+   "temas": [
+    "Cirurgia"
+   ],
+   "enunciado": "Alterações que ocorrem durante a execução do pneumoperitônio na Colecistectomia Videolaparoscópica, exceto:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Arritmias transitórias."
+    },
+    {
+     "letra": "B",
+     "texto": "Aumento da P.V.C."
+    },
+    {
+     "letra": "C",
+     "texto": "Aumento da frequência cardíaca."
+    },
+    {
+     "letra": "D",
+     "texto": "Aumento do pH."
+    },
+    {
+     "letra": "E",
+     "texto": "Aumento da pCO₂."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q013-1.jpg",
+     "antes_das_alternativas": false
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000046026",
+   "codigo": "4000046026",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UFPB 2020",
+   "numero": 14,
+   "temas": [
+    "Hemorragia por Úlcera Péptica HDA por DUP"
+   ],
+   "enunciado": "A maioria dos casos de hemorragia gastrointestinal alta maciça é secundária a uma úlcera posterior duodenal em que penetrou um dos ramos ou a artéria:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Gástrica esquerda."
+    },
+    {
+     "letra": "B",
+     "texto": "Gastroduodenal."
+    },
+    {
+     "letra": "C",
+     "texto": "Pancreaticoduodenal superior."
+    },
+    {
+     "letra": "D",
+     "texto": "Gastroepiplóica esquerda."
+    },
+    {
+     "letra": "E",
+     "texto": "Gastroepiplóica direita."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046013",
+   "codigo": "4000046013",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UFPB 2020",
+   "numero": 15,
+   "temas": [
+    "Idosos",
+    "Cirurgia"
+   ],
+   "enunciado": "Paciente, 76 anos, hipertenso e cardiopata, com dor abdominal em fossa ilíaca direita, há 3 dias, de fraca intensidade que piora com a alimentação associado à febre de 38,5ºC e disúria. Negava alteração do hábito intestinal. Ao exame, apresentava-se taquicárdico, afebril com abdômen distendido e doloroso difusamente à palpação. Os resultados de exames laboratoriais iniciais foram: leucograma de 11300 células/mL; leucocitúria de 14500 células/mL; creatinina de 1,2 mg/dL; AST de 18 U/L; ALT de 21 U/L; amilase de 58 U/L e proteína C reativa de 19,5 mg/dL. A conduta mais apropriada é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Realizar laparotomia de urgência por se tratar de caso obviamente cirúrgico."
+    },
+    {
+     "letra": "B",
+     "texto": "Solicitar tomografia abdominal com contraste VO e EV para elucidação diagnóstica."
+    },
+    {
+     "letra": "C",
+     "texto": "Solicitar ultrassom abdominal para elucidação diagnóstica por ser método de imagem inicial menos invasivo que a tomografia abdominal com contraste."
+    },
+    {
+     "letra": "D",
+     "texto": "Colher cultura de urina e iniciar antibioticoterapia de amplo espectro para o tratamento da infecção urinária."
+    },
+    {
+     "letra": "E",
+     "texto": "Iniciar jejum, antibioticoterapia de amplo espectro, analgesia e acompanhamento intensivo do caso."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000045994",
+   "codigo": "4000045994",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UFPB 2020",
+   "numero": 16,
+   "temas": [
+    "Cirurgia"
+   ],
+   "enunciado": "Paciente homem, 24 anos, vítima de atropelamento é atendido na Emergência. A avaliação neurológica demonstra abertura ocular aos estímulos dolorosos, emissão de sons incompreensíveis e movimentos de retirada. De acordo com a classificação pela escala de coma de Glasgow, o valor que corresponde a este paciente, neste caso, é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "6."
+    },
+    {
+     "letra": "B",
+     "texto": "7."
+    },
+    {
+     "letra": "C",
+     "texto": "8."
+    },
+    {
+     "letra": "D",
+     "texto": "9."
+    },
+    {
+     "letra": "E",
+     "texto": "10."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q016-1.jpg",
+     "antes_das_alternativas": false
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000045982",
+   "codigo": "4000045982",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UFPB 2020",
+   "numero": 17,
+   "temas": [
+    "Reparo Aberto Livre de Tensão"
+   ],
+   "enunciado": "Um paciente portador de hérnia inguinal do tipo Nyhus III A é submetido a tratamento cirúrgico pelo método de Lichtenstein. Podemos afirmar que a principal característica deste procedimento é a utilização de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tela sem tensão."
+    },
+    {
+     "letra": "B",
+     "texto": "Sutura monofilamentar."
+    },
+    {
+     "letra": "C",
+     "texto": "Incisão de relaxamento."
+    },
+    {
+     "letra": "D",
+     "texto": "Abordagem pré-peritoneal."
+    },
+    {
+     "letra": "E",
+     "texto": "Via de acesso por videolaparoscopia."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000045968",
+   "codigo": "4000045968",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UFPB 2020",
+   "numero": 18,
+   "temas": [
+    "Fatores de Fisco",
+    "Tratamento"
+   ],
+   "enunciado": "O esôfago de Barrett costuma ser diagnosticado em pessoas que sofrem com a doença do re uxo gastroesofágico (DRGE) por muito tempo, entretanto, persiste a dúvida sobre o tratamento cirúrgico. Sobre esta patologia marque a alternativa ERRADA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O tratamento do Barrett limita a progressão e promove regressão, prevenindo, assim, o desenvolvimento do adenocarcinoma."
+    },
+    {
+     "letra": "B",
+     "texto": "A Cirurgia anti-refluxo deve ser considerada de forma obrigatória, pois é uma medida antineoplásica."
+    },
+    {
+     "letra": "C",
+     "texto": "Indicações são as mesmas que em pacientes com indicações cirúrgicas para DRGE."
+    },
+    {
+     "letra": "D",
+     "texto": "As indicações da cirurgia do refluxo tem maior prevalência em dependentes do tratamento clínico - 70% a 75%."
+    },
+    {
+     "letra": "E",
+     "texto": "Os fatores de risco para o desenvolvimento de neoplasia são: idade avançada, obesidade tabagismo e falha de tratamento."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000045959",
+   "codigo": "4000045959",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UFPB 2020",
+   "numero": 19,
+   "temas": [
+    "Hemocomponentes"
+   ],
+   "enunciado": "Sobre as indicações clínicas para o uso de componentes sanguíneos, marque a alternativa incorreta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Está indicado transfusão de hemácias em pacientes com hemoglobina < 8 g/dL ou perda aguda de sangue em paciente saudável, com sinais ou sintomas de diminuição de oferta de oxigênio."
+    },
+    {
+     "letra": "B",
+     "texto": "Está indicado transfusão de hemácias em pacientes com hemoglobina < 10 g/dL em pacientes que sabidamente tem risco aumentado de doença arterial coronariana que tiveram ou esperam que venham a ter hemorragia significativa."
+    },
+    {
+     "letra": "C",
+     "texto": "Transfusão de hemácias em pacientes assintomáticos, estáveis, com hemoglobina entre 7 g/dL e 10 g/dL, apresenta indicação questionável ou sem fundamento."
+    },
+    {
+     "letra": "D",
+     "texto": "Deveremos usar transfusão de plaquetas (para profilaxia) em pacientes com contagem recente (menos de 24 horas) < 50.000/mm³."
+    },
+    {
+     "letra": "E",
+     "texto": "Transfusão de plasma não é justificada para reposição de volume, suplementação nutricional e hipoalbuminemia."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q019-1.jpg",
+     "antes_das_alternativas": false
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000045944",
+   "codigo": "4000045944",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UFPB 2020",
+   "numero": 20,
+   "temas": [
+    "Hiponatremia"
+   ],
+   "enunciado": "A hiponatremia é definida como uma concentração plasmática de sódio menor que 136 mEq/L, e, apesar de frequentemente representar um estado de hipotonicidade plasmática, pode também estar associado à tonicidade plasmática normal ou alta. Sobre o tema, marque a alternativa ERRADA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "É o distúrbio eletrolítico mais comum em pacientes hospitalizados, com incidência que varia de 15% - 30%."
+    },
+    {
+     "letra": "B",
+     "texto": "A hiponatremia pode ser secundária a dois mecanismos: diminuição da excreção renal ou entrada em excesso de água livre no fluído extracelular."
+    },
+    {
+     "letra": "C",
+     "texto": "Na ausência de alterações de volemia, a hiponatremia pode ser secundária à secreção inapropriada de hormônio antidiurético ou a um reajuste - dos osmorreceptores."
+    },
+    {
+     "letra": "D",
+     "texto": "Na hiponatremia aguda, o paciente pode evoluir com manifestações neurológicas que podem variar desde náusea, vômito, cefaleia e letargia, até convulsão, coma e parada respiratória."
+    },
+    {
+     "letra": "E",
+     "texto": "No tratamento, a elevação na concentração do sódio deve ser calculada acima de 7mEq/L por 3 horas, em pacientes com sintomas graves."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000045928",
+   "codigo": "4000045928",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UFPB 2020",
+   "numero": 21,
+   "temas": [
+    "Síndrome nef rótica"
+   ],
+   "enunciado": "Sobre a Síndrome Nefrótica, é correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A retinopatia ocorre em aproximadamente 60% dos diabéticos tipo 1 com nefropatia."
+    },
+    {
+     "letra": "B",
+     "texto": "A amiloidose primária é uma das causas de síndrome nefrótica e, classicamente, provoca hepatomegalia, esplenomegalia e redução do volume do coração, ocasionando, mais comumente, insuficiência cardíaca sistólica."
+    },
+    {
+     "letra": "C",
+     "texto": "A albuminúria da nefropatia diabética, normalmente, sucede o declíneo da taxa de filtração glomerular."
+    },
+    {
+     "letra": "D",
+     "texto": "Os inibidores da enzima conversora de angiotensina são benéficos para inibir a perda de proteínas pelos rins e nunca desencadeiam piora da função renal."
+    },
+    {
+     "letra": "E",
+     "texto": "As complicações da Síndrome Nefrótica podem incluir trombose da veia renal e outros eventos tromboembólicos, infecção, deficiência de vitamina D, desnutrição proteica e toxicidade de algumas drogas devido à diminuição das suas ligações às proteínas."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000045915",
+   "codigo": "4000045915",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UFPB 2020",
+   "numero": 22,
+   "temas": [
+    "Etiologias"
+   ],
+   "enunciado": "Sobre a Insuficiência Renal Aguda, é correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A fração de excreção de sódio renal é maior que 1% na IRA pré-renal e menor que 1% na IRA intrínseca."
+    },
+    {
+     "letra": "B",
+     "texto": "A síndrome hepatorenal é uma das causas de insuficiência renal aguda, que comumente responde à expansão volêmica com cristaloide."
+    },
+    {
+     "letra": "C",
+     "texto": "A normalização da pressão arterial na Hipertensão Arterial Maligna nas primeiras 4h evita a instalação da insuficiência renal aguda."
+    },
+    {
+     "letra": "D",
+     "texto": "Pacientes com azotemia pré-renal e ICC (\"\"síndrome cardiorrenal\"\") podem apresentar distensão venosa jugular, ritmo de galope, S3 e edema periférico e pulmonar."
+    },
+    {
+     "letra": "E",
+     "texto": "Os pacientes com azotemia pré-renal devido à depleção de volume, geralmente, demonstram hipotensão ortostática, taquicardia, baixa pressão venosa jugular e membranas mucosas ressecadas e edema pulmonar."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q022-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000045901",
+   "codigo": "4000045901",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UFPB 2020",
+   "numero": 23,
+   "temas": [
+    "Gradiente de albumina soroascite GASA",
+    "Ascite tuberculosa",
+    "Tuberculose extrapulmonar"
+   ],
+   "enunciado": "Sobre a ascite, é correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A terminologia, Barriga D'água, é atribuída às consequências da doença hepática da esquistossomose, em que a maioria dos casos cursa com ascite."
+    },
+    {
+     "letra": "B",
+     "texto": "A descompensação da insuficiência cardíaca direita cursa com congestão pulmonar e ascite."
+    },
+    {
+     "letra": "C",
+     "texto": "A Síndrome de Arnold Chiari cursa com ascite, cujo gradiente de albumina (GASA) é maior que 1,1."
+    },
+    {
+     "letra": "D",
+     "texto": "Um paciente com uma dosagem de albumina na ascite de 3,0mg/dl e uma albumina sérica de 3,9mg/dl tem a possibilidade diagnóstica de uma tuberculose peritoneal."
+    },
+    {
+     "letra": "E",
+     "texto": "O surgimento da Peritonite Bacteriana Espontânea não tem correlação com o sangramento de varizes de esôfago."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000045840",
+   "codigo": "4000045840",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UFPB 2020",
+   "numero": 24,
+   "temas": [
+    "Def inição",
+    "Fisiopatologia e alterações inf lamatórias"
+   ],
+   "enunciado": "Sobre a sepse, é correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Acredita-se que a lesão vascular endotelial generalizada seja o principal mecanismo para a disfunção de múltiplos órgãos."
+    },
+    {
+     "letra": "B",
+     "texto": "Na fase inicial da sepse, o paciente apresenta uma hiperventilação que leva a uma acidose metabólica."
+    },
+    {
+     "letra": "C",
+     "texto": "A hipotensão, na sepse, caracteriza-se por um débito cardíaco normal ou aumentado com a diminuição da resistência vascular sistêmica, tornando-se indistinguível do choque hipovolêmico."
+    },
+    {
+     "letra": "D",
+     "texto": "Na sepse, comumente, os pacientes apresentam acidose metabólica, anion gap reduzido e níveis elevados de lactato."
+    },
+    {
+     "letra": "E",
+     "texto": "O diagnóstico definitivo de sepse independe do isolamento do microrganismo do sangue ou local de infecção."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000045825",
+   "codigo": "4000045825",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UFPB 2020",
+   "numero": 25,
+   "temas": [
+    "Drogas antidiabéticas não insulina",
+    "Critérios diagnósticos",
+    "Tratamento medicamentoso"
+   ],
+   "enunciado": "Sobre o Diabetes Mellitus tipo II, é correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A gordura abdominal subcutânea parece ter mais associação com a resistência à insulina do que à gordura visceral."
+    },
+    {
+     "letra": "B",
+     "texto": "Um dos seus critérios diagnósticos é uma HBA (hemoglobin glicada) maior ou igual a 6,5%."
+    },
+    {
+     "letra": "C",
+     "texto": "Alguns pacientes podem ter acanthosis nigricans, que está associado à resistência insulínica significativa, em que a pele do abdômen e lateral da coxa é hiperpigmentada e hiperceratótica."
+    },
+    {
+     "letra": "D",
+     "texto": "A metformina é uma das drogas de primeira linha para tratamento do diabetes mellitus tipo II, pois ajuda a controlar a glicemia através do aumento da insulina sérica."
+    },
+    {
+     "letra": "E",
+     "texto": "As incretinas são drogas mais poderosas para o controle glicêmico do que as sulfoniureias, logo, são mais propensas a desencadear episódios de hipoglicemia nos pacientes."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q025-1.jpg",
+     "antes_das_alternativas": false
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000045810",
+   "codigo": "4000045810",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UFPB 2020",
+   "numero": 26,
+   "temas": [
+    "Epidemiologia",
+    "Manif estações clínicas",
+    "Etiologia"
+   ],
+   "enunciado": "Sobre a Meningite Bacteriana Aguda, é correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A tríade clínica clássica da meningite é febre, dor de cabeça e rigidez da nuca (\"rigidez do pescoço\"), sendo o Streptococcus pneumoniae o agente infeccioso mais comum da meningite bacteriana aguda nos pacientes imunocompetentes."
+    },
+    {
+     "letra": "B",
+     "texto": "A erupção da meningococemia começa como uma lesão maculopapular difusa semelhante a um exantema viral, mas rapidamente se torna petequial no tronco e nas extremidades inferiores, membranas mucosas e conjuntiva, sempre polpando as palmas das mãos e solas dos pés."
+    },
+    {
+     "letra": "C",
+     "texto": "O líquido cefalorraquidiano tem, tipicamente, mais de 1000 glóbulos brancos por microlitro, dos quais, mais de 60% são leucócitos mononucleares; e a concentração de glicose é inferior a 40 mg / dL."
+    },
+    {
+     "letra": "D",
+     "texto": "Com a suspeita diagnóstica de meningite, mesmo quando não é possível a coleta do líquor, inicia-se, empiricamente, ceftriaxone mais vancomicina, postergando a administração da dexametasona para 48h depois do início da antibioticoterapia."
+    },
+    {
+     "letra": "E",
+     "texto": "A Neisseria meningitidis é o principal agente da meningite infecciosa aguda relacionada a procedimentos neurocirúrgicos, principalmente as derivações ventrículo- peritoneais."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000045784",
+   "codigo": "4000045784",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UFPB 2020",
+   "numero": 27,
+   "temas": [
+    "Cardiologia"
+   ],
+   "enunciado": "Em relação à insuficiência Cardíaca (IC), é correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A espironolactona é uma droga que altera a sobrevida na IC, portanto, está indicada sempre que a fração de ejeção cardíaca for menor que 50%."
+    },
+    {
+     "letra": "B",
+     "texto": "A digoxina está bem indicada na IC, sendo capaz de reduzir as hospitalizações e melhorar a sobrevida."
+    },
+    {
+     "letra": "C",
+     "texto": "A combinação de um d urético e um inibidor da enzima conversora de angiotensina (ECA) deve ser o tratamento inicial na maioria dos pacientes sintomáticos com insuficiência cardíaca e Fração de Ejeção Ventricular Esquerda (FEVE) reduzida, com a adição precoce de um beta-bloqueador."
+    },
+    {
+     "letra": "D",
+     "texto": "A combinação sacubitril com valsartana é uma das novas opções terapêuticas iniciais para substituir os inibidores da ECA, beta-bloqueadores e espironolactona na IC."
+    },
+    {
+     "letra": "E",
+     "texto": "Tanto a ivabradina quanto o bisoprolol são medicamentos de primeira escolha para o tratamento da insuficiência Cardíaca."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/4000045784-1.jpg",
+     "antes_das_alternativas": false
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000045773",
+   "codigo": "4000045773",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UFPB 2020",
+   "numero": 28,
+   "temas": [
+    "Etiologia e f atores de risco",
+    "Endocardite"
+   ],
+   "enunciado": "Sobre a endocardite infecciosa, é correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Nos usuários de drogas injetáveis, o Streptococcus viridans é o agente etiológico responsável por 80% a 90% dos casos de endocardite de valva tricúspide."
+    },
+    {
+     "letra": "B",
+     "texto": "Os nódulos de Roth são lesões que ocorrem nos pés e nas mãos, e as manchas de Osler são lesões exsudativas na retina de pacientes com endocardite."
+    },
+    {
+     "letra": "C",
+     "texto": "O tratamento da endorcadite infecciosa por Staphylococcus é feito com vancomicina e gentamicina por seis semanas."
+    },
+    {
+     "letra": "D",
+     "texto": "O ecocardiograma transtorácico tem uma alta acurácia para estabelecer o diagnóstico de endorcadite."
+    },
+    {
+     "letra": "E",
+     "texto": "A ecocardiografia de rotina (preferencialmente, Ecocardiograma Transesofágico) é recomendada em pacientes com Bacteremia por S. aureus."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000045734",
+   "codigo": "4000045734",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UFPB 2020",
+   "numero": 29,
+   "temas": [
+    "Manejo clínico e diagnóstico",
+    "Derrame pleural tuberculoso",
+    "Exsudato X Transudato"
+   ],
+   "enunciado": "Sobre o derrame pleural, é correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Os exsudatos apresentam, pelo menos, um dos três critérios seguintes: relação da proteína total do líquido pleural sobre a proteína total sérica maior que 0,5; desidrogenase láctica (DHL) do líquido pleural superior a dois terços do limite superior da normalidade da DHL sérica ou relação da DHL pleural sobre a sérica maior que 0,6."
+    },
+    {
+     "letra": "B",
+     "texto": "A toracocentese diagnóstica deve ser realizada sempre, pois é fundamental para definir a intervenção terapêutica."
+    },
+    {
+     "letra": "C",
+     "texto": "Um hemotórax é definido por uma relação do hematócrito do líquido pleural sobre o hematócrito sérico maior que 0,8."
+    },
+    {
+     "letra": "D",
+     "texto": "A cultura do líquido pleural tem uma acurácia diagnóstica elevada para o diagnóstico de tuberculose pleural."
+    },
+    {
+     "letra": "E",
+     "texto": "O pH do líquido pleural, normalmente, não é um parâmetro que define a necessidade de drenagem torácica."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000045720",
+   "codigo": "4000045720",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UFPB 2020",
+   "numero": 30,
+   "temas": [
+    "Manif estações Clínicas",
+    "Epidemiologia",
+    "Indicações de Pesquisa e Tratamento"
+   ],
+   "enunciado": "Sobre a Doença Ulcerosa Péptica, é correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "H. pylori é um organismo produtor de urease que coloniza a mucosa do antro gástrico em quase 100% das pessoas com úlcera gástrica e 80% daqueles com úlcera duodenal."
+    },
+    {
+     "letra": "B",
+     "texto": "Estresse, café e álcool são fatores amplamente relacionados à doença ulcerosa péptica, diferentemente dos anti- inflamatórios não-hormonais que não têm qualquer comprovação."
+    },
+    {
+     "letra": "C",
+     "texto": "Os sintomas ulcerosos são caracterizados por ritmicidade e periodicidade."
+    },
+    {
+     "letra": "D",
+     "texto": "Celecoxibe, ibuprofeno e naproxeno estão igualmente associados ao risco de eventos gastrointestinais sérios e eventos cardiovasculares desfavoráveis."
+    },
+    {
+     "letra": "E",
+     "texto": "A pesquisa do H. pylori é desnecessária nos pacientes com história de doença ulcerosa péptica e que estão usando dupla anti-agregação plaquetária."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/4000045720-1.jpg",
+     "antes_das_alternativas": false
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000045710",
+   "codigo": "4000045710",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UFPB 2020",
+   "numero": 31,
+   "temas": [
+    "Endocrinologia"
+   ],
+   "enunciado": "Paciente pediátrico quando admitido no pronto-socorro, com quadro de cetoacidose diabética, apresenta, comumente, na gasometria arterial, em relação ao ânion gap:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Elevação do ânion gap com hipocloremia."
+    },
+    {
+     "letra": "B",
+     "texto": "Elevação do ânion gap com hipercloremia."
+    },
+    {
+     "letra": "C",
+     "texto": "Elevação do ânion gap com hipercalemia."
+    },
+    {
+     "letra": "D",
+     "texto": "Elevação do ânion gap com normocloremia."
+    },
+    {
+     "letra": "E",
+     "texto": "Elevação do ânion gap com hipercalcemia."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000045700",
+   "codigo": "4000045700",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UFPB 2020",
+   "numero": 32,
+   "temas": [
+    "Diagnóstico Dif erencial",
+    "Diagnóstico",
+    "Classif icação"
+   ],
+   "enunciado": "Em paciente do sexo masculino, de 8 anos de idade, com relato de dor persistente em locais de inserção de tendões, dor em coluna lombosacral, positividade ao antígeno HLAB27 e uveíte anterior aguda, tem como principal diagnóstico:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Artrite idiopática juvenil poliarticular fator reumatoide negativo."
+    },
+    {
+     "letra": "B",
+     "texto": "Artrite indiferenciada."
+    },
+    {
+     "letra": "C",
+     "texto": "Espondilite anquilosante."
+    },
+    {
+     "letra": "D",
+     "texto": "Artrite idiopática juvenil oligoarticular."
+    },
+    {
+     "letra": "E",
+     "texto": "Artrite relacionada à entesite."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000045687",
+   "codigo": "4000045687",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UFPB 2020",
+   "numero": 33,
+   "temas": [
+    "6 meses"
+   ],
+   "enunciado": "Ao exame de lactente com seis meses de idade, espera-se encontrar na análise do desenvolvimento neuropsicomotor a seguinte habilidade:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ficar de pé sozinho."
+    },
+    {
+     "letra": "B",
+     "texto": "Preensão com pinça delicada usando as pontas dos dedos ou unha, articulação do polegar fletida."
+    },
+    {
+     "letra": "C",
+     "texto": "Repetição de sons que ela mesma iniciou."
+    },
+    {
+     "letra": "D",
+     "texto": "Responder à rotina verbal tal como bater palmas, dar \"tchau- tchau\"."
+    },
+    {
+     "letra": "E",
+     "texto": "Não localização de sons quando estimulada."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000045671",
+   "codigo": "4000045671",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UFPB 2020",
+   "numero": 34,
+   "temas": [
+    "Etiologia e Epidemiologia"
+   ],
+   "enunciado": "Em crianças menores de três anos, são comuns nos consultórios de pediatria afecções da faringe, no caso faringite e amigdalite. Nesta faixa etária, o agente causador mais prevalente é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Streptococcus"
+    },
+    {
+     "letra": "B",
+     "texto": "Haemophilus influenzae."
+    },
+    {
+     "letra": "C",
+     "texto": "Moraxela catarrhalis."
+    },
+    {
+     "letra": "D",
+     "texto": "Adenovírus."
+    },
+    {
+     "letra": "E",
+     "texto": "Vírus Sincicial respiratório."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q034-1.jpg",
+     "antes_das_alternativas": false
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000045658",
+   "codigo": "4000045658",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UFPB 2020",
+   "numero": 35,
+   "temas": [
+    "Indicações",
+    "Indicação",
+    "Calendário dos adolescentes"
+   ],
+   "enunciado": "O que devemos administrar a um adolescente que refere nunca ter recebido vacina DPT (Difteria, Pertussis e Tétano), DT (Difteria e Tétano) ou dT (Difteria e Tétano) ou essa informação é impossível de ser obtida:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Três doses da vacina DPT com intervalo de 60 dias ou intervalo mínimo de 30 dias. Reforço a cada 10 anos com a vacina dT ou dTpa."
+    },
+    {
+     "letra": "B",
+     "texto": "Uma dose da vacina dT. Reforço a cada 10 anos com a mesma vacina."
+    },
+    {
+     "letra": "C",
+     "texto": "Uma dose da DPT e duas doses de dT com intervalo de 60 dias entre elas. Reforço a cada 10 anos com a vacina dT."
+    },
+    {
+     "letra": "D",
+     "texto": "Três doses de vacina dT com intervalo de 60 dias ou mínimo de 30 dias. Não é necessário reforço."
+    },
+    {
+     "letra": "E",
+     "texto": "Três doses de vacina dT com intervalo de 60 dias ou intervalo mínimo de 30 dias. Reforço a cada 10 anos com a mesma vacina (dT) ou com a dTpa (Difteria, Tétano e Pertussis Acelular)."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000045645",
+   "codigo": "4000045645",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UFPB 2020",
+   "numero": 36,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Criança de 2 anos de idade, sexo masculino, procura o atendimento em pronto socorro com relato de episódios recorrente de vômitos, apatia, palidez, diarreia evoluindo evoluindo rapidamente para desidratação com acidose metabólica, tendo, em um dos atendimentos, apresentado choque hipovolêmico. O diagnóstico aventado pelo médico assistente foi de Síndrome de Enteropatia induzida por proteína alimentar. Considerando- se estar o diagnóstico correto, a conduta deve abordar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Dosagem de IgE sérica para proteínas alimentares."
+    },
+    {
+     "letra": "B",
+     "texto": "Realização de Pricktest para diagnóstico de possível alergia à proteína."
+    },
+    {
+     "letra": "C",
+     "texto": "Orientação familiar quanto à possibilidade do quadro ser desencadeado exclusivamente pela proteína do leite."
+    },
+    {
+     "letra": "D",
+     "texto": "Eliminar os possíveis antígenos da dieta com base em dados de história alimentar, tais como: soja, leite e derivados, arroz, peixe e frango."
+    },
+    {
+     "letra": "E",
+     "texto": "Solicitar sempre a endoscopia digestiva alta e colonoscopia para excluir doença celíaca."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000045636",
+   "codigo": "4000045636",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UFPB 2020",
+   "numero": 37,
+   "temas": [
+    "Sindrome Turner",
+    "Causas Genéticas e Cormossômicas"
+   ],
+   "enunciado": "Durante consulta cuja queixa principal foi baixa estatura em uma menina de 3 anos de idade, o pediatra observou a presença de baixa implantação das orelhas e cabelo, cubitus valgo, palato ogival e quarto metacarpo curto. Tais dados o zeram solicitar, dentre outros exames, o cariótipo por bandeamento GTG. Para o quadro citado, a principal hipótese diagnóstica a ser aventada é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Síndrome de Down."
+    },
+    {
+     "letra": "B",
+     "texto": "Síndrome de Turner."
+    },
+    {
+     "letra": "C",
+     "texto": "Pan-hipopituitarismo familiar."
+    },
+    {
+     "letra": "D",
+     "texto": "Síndrome de Russel-Silver."
+    },
+    {
+     "letra": "E",
+     "texto": "Síndrome de Seckel."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q037-1.jpg",
+     "antes_das_alternativas": false
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000045622",
+   "codigo": "4000045622",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UFPB 2020",
+   "numero": 38,
+   "temas": [
+    "Cardiopediatria e Cardiopatias congênitas",
+    "Pediatria"
+   ],
+   "enunciado": "Em paciente nascida a termo, durante avaliação clínica com quinze dias de vida, foi detectado sopro contínuo com hiperfonese de segunda bulha, pulsos periféricos amplos sem cianose. A principal hipótese diagnóstica, para a provável cardiopatia com os dados descritos, é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Comunicação interatrial."
+    },
+    {
+     "letra": "B",
+     "texto": "Comunicação interventricular."
+    },
+    {
+     "letra": "C",
+     "texto": "Síndrome de Eisenmenger."
+    },
+    {
+     "letra": "D",
+     "texto": "Persistência do canal arterial."
+    },
+    {
+     "letra": "E",
+     "texto": "Coarctação da aorta grave."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000045610",
+   "codigo": "4000045610",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UFPB 2020",
+   "numero": 39,
+   "temas": [
+    "Segurança da casa"
+   ],
+   "enunciado": "Na prevenção de acidentes na infância, no que se refere à casa segura, são importantes medidas educativas familiares tais como:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Não usar talco perto das crianças; guardar armas de fogo em armário trancado, reutilizar frascos de produtos de higiene."
+    },
+    {
+     "letra": "B",
+     "texto": "Ligar vários aparelhos eletrônicos em uma mesma tomada manter baldes, bacias ou tanques com água abertos; usar andadores para facilitar o andar de crianças."
+    },
+    {
+     "letra": "C",
+     "texto": "Instalar portões com tranca em escadas, não fumar dentro de casa; conhecer bem plantas ornamentais da casa e dos jardins."
+    },
+    {
+     "letra": "D",
+     "texto": "Manter costela-de-adão em casa; usar talco na higiene da criança; cortar alimentos em pedaços pequenos."
+    },
+    {
+     "letra": "E",
+     "texto": "Manter chupeta sempre em presilha ao redor do pescoço frequentar piscinas com vigilância contínua; evitar o uso de grãos de cereais muito pequenos."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000045593",
+   "codigo": "4000045593",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UFPB 2020",
+   "numero": 40,
+   "temas": [
+    "Escalas"
+   ],
+   "enunciado": "Com relação ao desenvolvimento motor fino da criança. É correto afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Apenas pode ser realizado com a aplicação com uso de método sistematizado."
+    },
+    {
+     "letra": "B",
+     "texto": "As escalas de Gesell, Denver II e de Bayley são exemplos de testes ou escalas a serem utilizadas na avaliação sistematizada do desenvolvimento infantil."
+    },
+    {
+     "letra": "C",
+     "texto": "A habilidade motora grosseira não faz parte da análise do desenvolvimento infantil."
+    },
+    {
+     "letra": "D",
+     "texto": "O termo desenvolvimento refere-se a aspectos independentes da evolução dinâmica do ser humano a partir da sua concepção."
+    },
+    {
+     "letra": "E",
+     "texto": "Os fatores ambientais influenciam no desenvolvimento humano, independente do fator genético."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q040-1.jpg",
+     "antes_das_alternativas": false
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000045583",
+   "codigo": "4000045583",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UFPB 2020",
+   "numero": 41,
+   "temas": [
+    "Obstetrícia"
+   ],
+   "enunciado": "Luciana está com 33 anos e está na sua primeira gestação. Realizou sua primeira consulta de pré-natal com 12 semanas de idade gestacional estando com IMC de 32 e pressão normal. Retorna na sua terceira consulta de pré-natal na vigésima terceira consulta de gestação com seus exames do primeiro trimestre: glicemia de jejum 80 mg/dl, tipagem sanguínea O+, sorologias para HIV, toxoplasmose, hepatite B e teste rápido para sí lis negativos. Nesta consulta, foi realizada verificação da pressão arterial que foi de 160/90 mmHg e teste rápido com ta de urianálise que demonstrou proteinúria. A partir dos dados apresentados acima, qual seria a alternativa com o diagnóstico e condutas corretas para o caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Pré eclâmpsia - encaminhar para serviço de urgência obstétrica para avaliação clínico laboratorial."
+    },
+    {
+     "letra": "B",
+     "texto": "Eclâmpsia - encaminhar para serviço de urgência obstétrica para avaliação clínico laboratorial."
+    },
+    {
+     "letra": "C",
+     "texto": "Pré eclâmpsia - iniciar medidas não farmacológicas e metildopa 500mg, 1 comprimido 2 x ao dia, para controle de hipertensão."
+    },
+    {
+     "letra": "D",
+     "texto": "Hipertensão gestacional - iniciar medidas não farmacológicas e metildopa 500mg, 1 comprimido 2 x ao dia, para controle de hipertensão."
+    },
+    {
+     "letra": "E",
+     "texto": "Hipertensão crônica - iniciar medidas não farmacológicas e metildopa 500mg, 1 comprimido 2 x ao dia, para controle de hipertensão."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000045573",
+   "codigo": "4000045573",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UFPB 2020",
+   "numero": 42,
+   "temas": [
+    "Tratamento medicamentoso",
+    "Abordagem das dislipidemias e estratif icação de risco cardiovascular"
+   ],
+   "enunciado": "Biguanida metf ormina Antônia é uma senhora negra que tem 40 anos apresenta hipertensão e diabetes em uso de captopril 25 mg 1 x ao dia e metformina 850 mg antes do almoço. Nega eventos cardiovasculares prévios, tabagismo e não apresenta lesões em órgão alvo. Antônia relata boa adesão à dieta, entretanto, apresenta di culdade de realizar atividade física em virtude de sua vida pro ssional. Ela vem à consulta médica com exames solicitados na visita anterior. Hemograma sem alterações, triglicerídeos de 320 mg/dl, glicemia de jejum 188 mg/dl, hemoglobina glicosilada 9,0%, colesterol total de 210 mg/dl, HDL de 65mg/dl e creatinina de 0,9 mg/dl. Ao exame físico, a pressão arterial foi de 145/90 mmHg. A partir da análise destes dados, escolha a alternativa com a melhor opção terapêutica, que deve ser a de orientar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A realização de atividade física por pelo menos 150 minutos por semana, usar sinvastatina associada a fibrato, aumentar a dose de metformina e substituir o captopril por anlodipina em virtude da não resposta do IECA em pessoas negras."
+    },
+    {
+     "letra": "B",
+     "texto": "A realização de atividade física por pelo menos 100 minutos por semana, prescrever sinvastatina e AAS, aumentar a dose de metformina e aumentar a dose do captopril, fracionando a dose em pelo menos duas tomadas ao dia."
+    },
+    {
+     "letra": "C",
+     "texto": "A realização de atividade física por pelo menos 100 minutos por semana, prescrever AAS, aumentar a dose de metformina e aumentar a dose do captopril, fracionando a dose em pelo menos duas tomadas ao dia."
+    },
+    {
+     "letra": "D",
+     "texto": "A realização de atividade física por pelo menos 150 minutos por semana, prescrever fibrato e AAS, substituir a metformina por glimepirida e aumentar a dose do captopril, fracionando a dose em pelo menos duas tomadas ao dia."
+    },
+    {
+     "letra": "E",
+     "texto": "A realização de atividade física por pelo menos 150 minutos por semana, aumentar a dose de metformina e aumentar a dose do captopril, fracionando a dose em pelo menos duas tomadas ao dia."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [
+    {
+     "arquivo": "imagens/q042-1.jpg",
+     "antes_das_alternativas": false
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000045565",
+   "codigo": "4000045565",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UFPB 2020",
+   "numero": 43,
+   "temas": [
+    "Política Nacional de Atenção Básica PNAB"
+   ],
+   "enunciado": "Tomando como base os princípios elencados no Relatório Mundial da Saúde de 2008 - Atenção Primária à Saúde (APS), mais necessária do que nunca - é correto afirmar que a APS deve ser: I. Adequada às mudanças do per l demográ co e epidemiológico, especialmente voltada para o cuidado de doenças crônicas ( ). II. Coordenadora de uma resposta integral em todos os níveis de atenção, não mais como antítese do hospital, e concentrada na saúde materno-infantil e doenças infecciosas ( ). III. Voltada para a ação de coordenação Intersetorial com foco em ações de reabilitação ( ). IV. Acessível a todos, através da definição da porta de entrada aberta e resolutiva, como parte de um sistema integrado de saúde ( ). V. Subordinada ao desenvolvimento econômico, situação que permite um baixo investimento, permitindo mesmo assim uma atenção de qualidade e o consequente impacto sobre os determinantes sociais de saúde ( ). A sequência correta de respostas, considerando que V a premissa é verdadeira e F a premissa é falsa, é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "V-F-F-F-V."
+    },
+    {
+     "letra": "B",
+     "texto": "V-V-F-V-F."
+    },
+    {
+     "letra": "C",
+     "texto": "V-F-V-F-V."
+    },
+    {
+     "letra": "D",
+     "texto": "F-V-F-V-F."
+    },
+    {
+     "letra": "E",
+     "texto": "V-F-V-V-F."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000045548",
+   "codigo": "4000045548",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UFPB 2020",
+   "numero": 44,
+   "temas": [
+    "Método Clínico Centrado na Pessoa"
+   ],
+   "enunciado": "Paciente masculino de 23 anos de idade chega assintomático na unidade de saúde e requisita exames de check up. Você verifica que não há fatores de risco para doenças crônicas e que medidas antropométricas estão normais. Considerando a incorporação da promoção da saúde e prevenção de doenças conforme o método clínico centrado na pessoa, a medida que não deveria ser oferecida para esse paciente é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Aferição da pressão arterial."
+    },
+    {
+     "letra": "B",
+     "texto": "Aconselhamento sobre uso de álcool."
+    },
+    {
+     "letra": "C",
+     "texto": "Aconselhamento sobre uso de tabaco."
+    },
+    {
+     "letra": "D",
+     "texto": "Solicitação de glicemia de jejum."
+    },
+    {
+     "letra": "E",
+     "texto": "Aconselhamento sobre infecções sexualmente transmissíveis."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q044-1.jpg",
+     "antes_das_alternativas": false
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000045541",
+   "codigo": "4000045541",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UFPB 2020",
+   "numero": 45,
+   "temas": [
+    "Prevenção Quaternária"
+   ],
+   "enunciado": "Paciente de 25 anos chega à unidade de saúde com lombalgia há três dias após movimento diferente que fez no trabalho. A dor é localizada. O exame físico não evidencia red ags. O paciente quer fazer uma ressonância magnética da coluna porque está preocupado. Após explicação da sua impressão diagnóstica, você constrói um plano conjunto com o paciente que contempla analgesia, repouso relativo, afastamento do trabalho por três dias, orientação para passar pela avaliação da sioterapia do NASF e para retornar caso haja qualquer modi cação do caso. Após seis semanas, caso não haja melhora, pode-se pensar em modi car a abordagem. Na medicina ambulatorial, o fato de não ter solicitado a ressonância magnética na primeira consulta e de aguardar seis semanas observando a evolução do quadro representa o uso do conceito de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Demanda reprimida."
+    },
+    {
+     "letra": "B",
+     "texto": "Contenção de recursos."
+    },
+    {
+     "letra": "C",
+     "texto": "Priorização de problemas."
+    },
+    {
+     "letra": "D",
+     "texto": "Redução de danos."
+    },
+    {
+     "letra": "E",
+     "texto": "Demora permitida."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000045530",
+   "codigo": "4000045530",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UFPB 2020",
+   "numero": 46,
+   "temas": [
+    "Método Clínico Centrado na Pessoa"
+   ],
+   "enunciado": "Analise o diálogo entre o médico de família e comunidade (MFC) e a pessoa durante uma consulta para responder a questão: MFC: Bom dia, D. Lúcia! Em que posso ajudá-la hoje? PESSOA: Bom dia, doutora! Vim aqui por causa da minha dor na coluna que não me deixa. MFC: Entendi. A senhora já havia falado dessa dor na última consulta. Melhorou algo com a medicação que passei? PESSOA: Muito pouco, doutora, não estou aguentando mais. Não tenho posição pra ficar. MFC: Passou pela sua cabeça o que pode estar acontecendo? PESSOA: Eu tenho uma vizinha que tem hérnia de disco, então fiquei pensando que poderia ser isso. MFC: E o que isso tem prejudicado no seu dia-a-dia? PESSOA: Não tenho conseguido trabalhar e, às vezes, é difícil até para dormir. MFC: E o que a senhora pensou que poderíamos fazer hoje? PESSOA: Acho que a senhora poderia pedir um exame para ver se tenho hérnia de disco mesmo. MFC: Nós podemos examinar? PESSOA: Claro, doutora! Após o exame físico. PESSOA: Ninguém nunca havia feito tantos exames em mim numa consulta. MFC: É porque é importante analisarmos bem, já que a senhora está preocupada. Pelos exames que z, não há sinais de que o problema seja por causa de hérnia de disco, nem que seja algo grave. Parece uma dor lombar inespecí ca mesmo. Assim, normalmente não pedimos exame para esse tipo de problema, mas é importante fazer fisioterapia. PESSOA: Então, nem precisa do exame, né? E a senhora vai me mandar para fisioterapia? MFC: Isso mesmo, D. Lúcia! PESSOA: Ótimo! MFC: Aqui está o encaminhamento e, qualquer coisa, retorne. PESSOA: Tem mais uma coisa, doutora! A senhora poderia pedir uns exames de check up pra mim? Considerando o desenvolvimento de habilidades de comunicação e entrevista clínica, o trecho \"Tem mais uma coisa, doutora! A senhora poderia pedir uns exames de check up pra mim?\" demonstra que houve, na consulta, o que se chama de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Sinal da maçaneta ou a não prevenção de demandas aditivas."
+    },
+    {
+     "letra": "B",
+     "texto": "Identificação de demanda oculta após revisão de sistemas."
+    },
+    {
+     "letra": "C",
+     "texto": "Priorização da lista de problemas conforme registro orientador."
+    },
+    {
+     "letra": "D",
+     "texto": "Elaboração da patobiografia pregressa anterior da pessoa."
+    },
+    {
+     "letra": "E",
+     "texto": "Construção conjunta do plano terapêutico singular humanizado."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q046-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000045499",
+   "codigo": "4000045499",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UFPB 2020",
+   "numero": 47,
+   "temas": [
+    "Método Clínico Centrado na Pessoa"
+   ],
+   "enunciado": "Analise o diálogo entre o médico de família e comunidade (MFC) e a pessoa durante uma consulta para responder a questão: MFC: Bom dia, D. Lúcia! Em que posso ajudá-la hoje? PESSOA: Bom dia, doutora! Vim aqui por causa da minha dor na coluna que não me deixa. MFC: Entendi. A senhora já havia falado dessa dor na última consulta. Melhorou algo com a medicação que passei? PESSOA: Muito pouco, doutora, não estou aguentando mais. Não tenho posição pra ficar. MFC: Passou pela sua cabeça o que pode estar acontecendo? PESSOA: Eu tenho uma vizinha que tem hérnia de disco, então fiquei pensando que poderia ser isso. MFC: E o que isso tem prejudicado no seu dia-a-dia? PESSOA: Não tenho conseguido trabalhar e, às vezes, é difícil até para dormir. MFC: E o que a senhora pensou que poderíamos fazer hoje? PESSOA: Acho que a senhora poderia pedir um exame para ver se tenho hérnia de disco mesmo. MFC: Nós podemos examinar? PESSOA: Claro, doutora! Após o exame físico. PESSOA: Ninguém nunca havia feito tantos exames em mim numa consulta. MFC: É porque é importante analisarmos bem, já que a senhora está preocupada. Pelos exames que z, não há sinais de que o problema seja por causa de hérnia de disco, nem que seja algo grave. Parece uma dor lombar inespecí ca mesmo. Assim, normalmente não pedimos exame para esse tipo de problema, mas é importante fazer fisioterapia. PESSOA: Então, nem precisa do exame, né? E a senhora vai me mandar para fisioterapia? MFC: Isso mesmo, D. Lúcia! PESSOA: Ótimo! MFC: Aqui está o encaminhamento e, qualquer coisa, retorne. PESSOA: Tem mais uma coisa, doutora! A senhora poderia pedir uns exames de check up pra mim? As perguntas feitas pela médica: - \"Passou pela sua cabeça o que pode estar acontecendo?\"; - \"E o que isso tem prejudicado no seu dia-a-dia?\"\"; - \"E o que a senhora pensou que poderíamos fazer hoje?\" Correspondem á aplicação do:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Segundo componente do Método Clínico Centrado na Pessoa, que é abordar a saúde, a doença e a experiência da pessoa com a doença."
+    },
+    {
+     "letra": "B",
+     "texto": "Primeiro componente do Método Clínico Centrado na Pessoa, que é abordar a saúde, a doença e a experiência da pessoa com a doença."
+    },
+    {
+     "letra": "C",
+     "texto": "Primeiro componente do Método Clínico Centrado na Pessoa, que é entendendo a pessoa como um todo."
+    },
+    {
+     "letra": "D",
+     "texto": "Segundo componente do Método Clínico Centrado na Pessoa, que é entendendo a pessoa como um todo."
+    },
+    {
+     "letra": "E",
+     "texto": "Quarto componente do Método Clínico Centrado na Pessoa, que é intensificando a relação entre a pessoa e o médico."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q047-1.jpg",
+     "antes_das_alternativas": true
+    },
+    {
+     "arquivo": "imagens/q047-2.jpg",
+     "antes_das_alternativas": false
+    }
+   ],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000045439",
+   "codigo": "4000045439",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UFPB 2020",
+   "numero": 48,
+   "temas": [
+    "Prevenção Quaternária"
+   ],
+   "enunciado": "A sobrecarga de exames e medicamentos desnecessários vêm encarecendo e, às vezes, inviabilizando sistemas de saúdes que convivem historicamente com dé cits de orçamento. Ao utilizar conceitos de epidemiologia clínica, é possível otimizar diversas condutas, que estarão corretas ao considerar-se o seguinte conceito:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A atenção primária à saúde atende a maior parte da população, com isso, mesmo as doenças de baixa prevalência neste nível têm testes diagnósticos com alto valor preditivo positivo."
+    },
+    {
+     "letra": "B",
+     "texto": "O médico generalista, ao desenvolver uma função de filtro, piora o valor preditivo positivo das intervenções do médico especialista focal, apesar de baixar o custo dos exames."
+    },
+    {
+     "letra": "C",
+     "texto": "A curva"
+    },
+    {
+     "letra": "D",
+     "texto": "A razão de probabilidades consegue minimizar o efeito da prevalência no valor preditivo de um teste diagnóstico, possibilitando que mais exames se tornem padrão- ouro."
+    },
+    {
+     "letra": "E",
+     "texto": "Os testes diagnósticos de boa acurácia, quando realizados em situações de baixa probabilidade de doença, podem contribuir para aumentar a chance de iatrogenias."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000045428",
+   "codigo": "4000045428",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UFPB 2020",
+   "numero": 49,
+   "temas": [
+    "Abstinência de Hipnossedativos",
+    "Dependência de Hipnossedativos"
+   ],
+   "enunciado": "Laura procura a Unidade Básica de Saúde para a renovação da receita de diazepam. A médica de família e comunidade, Cíntia, conversa com ela no acolhimento e descobre que a medicação foi prescrita por um psiquiatra há anos, e desde então vinha sendo renovada pela equipe de outra UBS onde a senhora consultava. Na consulta, não se identi ca nenhum quadro que justifique o uso de medicação. Com base nisso, Cíntia deve:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Elaborar um encaminhamento para o psiquiatra, sem o qual não é possível avaliar a suspensão do uso de benzodiazepínico."
+    },
+    {
+     "letra": "B",
+     "texto": "Substituir o diazepam por um benzodiazepínico de meia-vida mais curta, a fim de iniciar a sua retirada na próxima consulta."
+    },
+    {
+     "letra": "C",
+     "texto": "Propor a retirada gradual do benzodiazepínico, tendo como meta inicial garantir a retirada de 50% da dose em duas semanas."
+    },
+    {
+     "letra": "D",
+     "texto": "Ofertar para Dona Laura um breve período de internação, a fim de realizar a retirada total da medicação e manejar a abstinência."
+    },
+    {
+     "letra": "E",
+     "texto": "Renovar a medicação, considerando que após um ano de uso de diazepam não há melhora de desempenho cognitivo ao retirá-lo."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000045397",
+   "codigo": "4000045397",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UFPB 2020",
+   "numero": 50,
+   "temas": [
+    "Violência contra o idoso"
+   ],
+   "enunciado": "O médico da família e comunidade, Pedro, foi avaliar em visita domiciliar a situação de Dona Zezinha, 82 anos, a pedido do Agente Comunitário de Saúde que vinha tendo di culdade de conversar com os seus lhos. Logo ao entrar na casa, percebeu o forte odor de urina e fezes, e constatou que a senhora apresenta dermatite de fralda extensa e hematomas em membros superiores. Apesar de acamada, ela estava lúcida e orientada. Com base nesse quadro, espera-se que, nessa visita, Pedro: Respostas: 1 12 23 34 45",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Avise a Dona Zezinha que ela está sendo vítima de negligência e que deve procurar o Conselho do Idoso."
+    },
+    {
+     "letra": "B",
+     "texto": "Evite conversar com o filho responsável por ela e faça a denúncia para a delegacia mais próxima da casa."
+    },
+    {
+     "letra": "C",
+     "texto": "Pergunte para a paciente porque ela permitiu que isso acontecesse e oriente a melhor forma de trocar as fraldas."
+    },
+    {
+     "letra": "D",
+     "texto": "Busque se vincular com a família, evitando juízo de valor sobre a situação antes de pensar em uma intervenção."
+    },
+    {
+     "letra": "E",
+     "texto": "Indique o deslocamento de Dona Zezinha para uma instituição de longa permanência, mesmo que não seja o seu desejo."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q050-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": []
+}

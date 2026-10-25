@@ -1,0 +1,5467 @@
+{
+ "questoes": [
+  {
+   "id": "4000127764",
+   "codigo": "4000127764",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 1,
+   "temas": [
+    "Anticoagulação",
+    "Medidas Iniciais",
+    "Cirurgia"
+   ],
+   "enunciado": "Mulher de 24 anos, gestante, com 19 semanas de idade gestacional. Relata dor em perna esquerda. Ao exame físico apresenta pulsos presentes e simétricos em membros inferiores, varizes de grossos calibres em ambas pernas. Apresenta edema de 3+/4+ apenas em membro inferior esquerdo, com dor a dorsi exão de pé esquerdo. De acordo com o quadro clínico, qual a melhor alternativa:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Trata-se de quadro de trombose venosa profunda aguda, portanto, deve-se iniciar anticoagulação com heparina."
+    },
+    {
+     "letra": "B",
+     "texto": "Trata-se de quadro de tromboflebite aguda, portanto, deve-se iniciar anticoagulação com varfarina."
+    },
+    {
+     "letra": "C",
+     "texto": "Trata-se de quadro de trombose venosa profunda, portanto, deve-se iniciar anticoagulação com clopidogrel."
+    },
+    {
+     "letra": "D",
+     "texto": "Trata-se de quadro de trombose arterial, portanto, deve-se iniciar anticoagulação com heparina."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000127319",
+   "codigo": "4000127319",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 2,
+   "temas": [
+    "Apresentação Clínica",
+    "Diagnóstico",
+    "Cirurgia"
+   ],
+   "enunciado": "Paciente do sexo masculino, 78 anos, procurou uma UPA com queixa de dor em todo o pé esquerdo, de moderada intensidade, além de pequeno ferimento que ocorreu há cerca de 20 dias após um pequeno incidente doméstico (esbarrou na quina de um móvel) e ainda não cicatrizou. Faz uso de medicações para tratamento clínico para dislipidemia e hipertensão arterial sistêmica. É tabagista há 30 anos, com um consumo estimado de 10 cigarros ao dia. Nega tratamento para diabetes. Nega sintomas de claudicação intermitente. Ao exame, apresentava-se com taquicardia leve e pulso irregular, os pulsos femoral e poplíteo à esquerda não eram palpáveis e havia um ferimento super cial de 0,5 cm em dorso do 4o pododáctilo esquerdo, sem sinais de gangrena. Com base na situação clínica exposta, qual dos achados abaixo é indicativo de encaminhamento a um serviço de cirurgia vascular?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Taquicardia com frequência cardíaca irregular."
+    },
+    {
+     "letra": "B",
+     "texto": "Ausência de pulsos femoral e poplíteo em MIE."
+    },
+    {
+     "letra": "C",
+     "texto": "Dor localizada em todo o pé esquerdo."
+    },
+    {
+     "letra": "D",
+     "texto": "Ferimento no dorso do 4° pododáctilo."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000123442",
+   "codigo": "4000123442",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 3,
+   "temas": [
+    "Medidas Iniciais",
+    "Cirurgia"
+   ],
+   "enunciado": "Assinale a assertiva correta sobre tratamento de oclusão arterial aguda.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Anticoagulação sistêmica com heparina não fracionada deve ser iniciada imediatamente, para diminuir o risco de propagação dos trombos e prevenir a trombose da microcirculação."
+    },
+    {
+     "letra": "B",
+     "texto": "Analgesia intravenosa não deve ser realizada por poder mascarar os sintomas e dificultar o diagnóstico."
+    },
+    {
+     "letra": "C",
+     "texto": "Fasciotomia após revascularização só deve ser realizada em pacientes com isquemia aguda, com anestesia e perda de motricidade do membro."
+    },
+    {
+     "letra": "D",
+     "texto": "Somente 10% dos pacientes com isquemia aguda de membro superior não tratados evoluem com complicações tardias, como dor crônica."
+    },
+    {
+     "letra": "E",
+     "texto": "Tratamento endovascular não deve ser realizado em pacientes com oclusão arterial aguda."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120379",
+   "codigo": "4000120379",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 4,
+   "temas": [
+    "Classif icação Clínica CEAP",
+    "Cirurgia"
+   ],
+   "enunciado": "A respeito da classificação CEAP para insuficiência venosa crônica (IVC), assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Pacientes com classe clínica C2 são portadores de telangectasias ou veias reticulares."
+    },
+    {
+     "letra": "B",
+     "texto": "A classificação fisiopatológica divide os pacientes com IVC em causas congênita, indeterminada/primária e conhecida/secundária."
+    },
+    {
+     "letra": "C",
+     "texto": "Pacientes com classe clínica C4 apresentam alterações tróficas da pele comohiperpigmentação, eczema e lipodermatoesclerose."
+    },
+    {
+     "letra": "D",
+     "texto": "Pacientes com classe clínica C5 apresentam úlcera em atividade."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119357",
+   "codigo": "4000119357",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 5,
+   "temas": [
+    "Manif estações Clínicas",
+    "Tromboembolismo Arterial",
+    "Cirurgia"
+   ],
+   "enunciado": "Mulher, 60 anos de idade, com antecedente de brilação atrial crônica em uso de varfarina sódica, é admitida no pronto socorro com quadro de dor súbita em membro inferior esquerdo de forte intensidade há 1 hora. Ao exame físico, evidencia- se ausência de pulso em artérias tibiais e pediosa esquerda, além de diminuição importante de temperatura no membro referido. Não há edema em membros inferiores. Qual é a hipótese diagnóstica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Flegmasia cerúlea dolens."
+    },
+    {
+     "letra": "B",
+     "texto": "Obstrução arterial aguda."
+    },
+    {
+     "letra": "C",
+     "texto": "Trombose venosa profunda."
+    },
+    {
+     "letra": "D",
+     "texto": "Linfedema."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119352",
+   "codigo": "4000119352",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 6,
+   "temas": [
+    "Cirurgia",
+    "Tratamento Cirúrgico do Aneurisma de Aorta Abdominal e Complicações Pósoperatórias"
+   ],
+   "enunciado": "Com relação ao aneurisma de aorta abdominal, é correto afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O exame físico abdominal normal exclui a necessidade de investigação complementar."
+    },
+    {
+     "letra": "B",
+     "texto": "Indica-se intervenção nos aneurismas maiores que 5,5 cm de diâmetro."
+    },
+    {
+     "letra": "C",
+     "texto": "O exame padrão ouro para o diagnóstico é a aortografia."
+    },
+    {
+     "letra": "D",
+     "texto": "A associação entre aneurisma de aorta abdominal e doença arterial coronária é baixa."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000118776",
+   "codigo": "4000118776",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 7,
+   "temas": [
+    "Fatores de Risco",
+    "Apresentação Clínica",
+    "Cirurgia"
+   ],
+   "enunciado": "A tríade de Virchow para trombose venosa profunda compreende:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Estase venosa, hipercoagulabilidade e lesão endotelial."
+    },
+    {
+     "letra": "B",
+     "texto": "Hipercoagulabilidade, edema e baixa perfusão tecidual."
+    },
+    {
+     "letra": "C",
+     "texto": "Edema, assimetria e dor em panturrilha."
+    },
+    {
+     "letra": "D",
+     "texto": "Assimetria, estase venosa e baixa perfusão tecidual."
+    },
+    {
+     "letra": "E",
+     "texto": "Nenhuma das alternativas."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000118672",
+   "codigo": "4000118672",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 8,
+   "temas": [
+    "Tratamento Cirúrgico",
+    "Cirurgia"
+   ],
+   "enunciado": "Homem de 75 anos diabético e hipertenso há 41 anos, teve ferimento perfurante em pé direito há 15 dias. Evoluiu com gangrena seca do 3º pododáctilo direito. Foi submetido à arteriogra a que mostrou estenose segmentar crítica de artéria ilíaca comum direita. A melhor conduta para o paciente em questão é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Amputação do 5º pododáctilo."
+    },
+    {
+     "letra": "B",
+     "texto": "Angioplastia com stent de artéria ilíaca comum direita."
+    },
+    {
+     "letra": "C",
+     "texto": "Enxerto aorto-ilíaco direito"
+    },
+    {
+     "letra": "D",
+     "texto": "Endarterectomia de artéria ilíaca comum direita."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000116652",
+   "codigo": "4000116652",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 9,
+   "temas": [
+    "Anticoagulação",
+    "Seguimento póstratamento",
+    "Cirurgia"
+   ],
+   "enunciado": "Paciente com neoplasia de colo de útero, em tratamento com radioquimioterapia, apresentando sangramento vaginal, evoluiu com dor e edema no membro inferior direito. Qual a sua conduta para tratamento no caso clínico da questão anterior?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Filtro de veia cava."
+    },
+    {
+     "letra": "B",
+     "texto": "Anticoagulação plena com enoxeparina."
+    },
+    {
+     "letra": "C",
+     "texto": "Amputação da perna."
+    },
+    {
+     "letra": "D",
+     "texto": "Aumento da ingesta via oral de proteínas."
+    },
+    {
+     "letra": "E",
+     "texto": "Revascularização de perna direita por angioplastia."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000116621",
+   "codigo": "4000116621",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 10,
+   "temas": [
+    "Anticoagulação",
+    "Seguimento póstratamento",
+    "Cirurgia"
+   ],
+   "enunciado": "Paciente com neoplasia de colo de útero, em tratamento com radioquimioterapia, apresentando sangramento vaginal, evoluiu com dor e edema no membro inferior direito. Qual a sua hipótese diagnóstica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Varizes de MMII."
+    },
+    {
+     "letra": "B",
+     "texto": "Edema por desproteinemia devido a neoplasia."
+    },
+    {
+     "letra": "C",
+     "texto": "Úlcera de perna direita."
+    },
+    {
+     "letra": "D",
+     "texto": "Trombose venosa profunda."
+    },
+    {
+     "letra": "E",
+     "texto": "Isquemia crítica."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000113979",
+   "codigo": "4000113979",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 11,
+   "temas": [
+    "Conduta nos Aneurismas de Aorta Abdominal",
+    "Cirurgia"
+   ],
+   "enunciado": "Um paciente do sexo masculino, 66 anos de idade, comparece ao ambulatório de cirurgia vascular encaminhado pelo médico da unidade básica de saúde após realizar uma ultrassonogra a de abdome de rotina sendo encontrado um aneurisma de aorta abdominal fusiforme, abaixo das artérias renais, com diâmetro máximo de 42 mm. O paciente é assintomático, portador de hipertensão arterial controlada, em uso de valsartana. Sobre o caso, assinale a correta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Aneurismas fusiformes sempre devem ser abordados cirurgicamente, independente do diâmetro."
+    },
+    {
+     "letra": "B",
+     "texto": "No exame físico desse paciente, encontraremos o sinal de DeBakey positivo."
+    },
+    {
+     "letra": "C",
+     "texto": "Esse paciente deverá realizar acompanhamento para monitorização do diâmetro do aneurisma."
+    },
+    {
+     "letra": "D",
+     "texto": "O paciente deverá ser abordado cirurgicamente em regime de urgência."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000111797",
+   "codigo": "4000111797",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 12,
+   "temas": [
+    "Manif estações Clínicas",
+    "Medidas Iniciais",
+    "Cirurgia"
+   ],
+   "enunciado": "Homem, 78 anos, com queixa de dor à deambulação bilateral, porém mais intensa em membro inferior esquerdo há 20 anos. Há 4 horas apresentou dor súbita em pé direito, frialdade e parestesia. É portador de hipertensão arterial sistêmica e tabagismo ativo. Ao exame físico: bom estado geral, corado e hidratado. Ritmo cardíaco regular, sem sopros, PA: 180 x 100 mmHg e frequência cardíaca de 67 bpm. Exame físico vascular: presença de pulsos femorais bilaterais, porém ausência de pulsos poplíteos ou mais distais bilateralmente. O pé direito está frio, com perda sensitiva, porém sem fraqueza muscular e sinal doppler arterial ausente neste pé. Apresenta ainda cianose não xa de pododáctilos em pé direito. Não há lesões tróficas. Qual o diagnóstico e a melhor conduta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Obstrução arterial crônica agudizada. Deve-se iniciar anticoagulação e, se não houver melhora em 24 horas, está indicada exploração arterial."
+    },
+    {
+     "letra": "B",
+     "texto": "Obstrução arterial crônica com isquemia crítica. Paciente deve ser internado e solicitado inicialmente um ultrassom arterial que auxiliará na estratégia cirúrgica."
+    },
+    {
+     "letra": "C",
+     "texto": "Obstrução arterial aguda de provável origem trombótica em paciente com doença arterial crônica subjacente. Deve ser iniciado antiagregação e anticoagulação imediatas e realizado um exame de imagem inicialmente."
+    },
+    {
+     "letra": "D",
+     "texto": "Doença arterial obstrutiva periférica com claudicação limitante e embolia aguda sobrejacente em membro mais sadio. Está indicado trombólise e exploração cirúrgica para realização de tromboembolectomia à Fogarty."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000111617",
+   "codigo": "4000111617",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 13,
+   "temas": [
+    "Conduta nos Aneurismas de Aorta Abdominal",
+    "Conf irmação Diagnóstica",
+    "Cirurgia"
+   ],
+   "enunciado": "Homem, 80 anos, assintomático, com achado em ultrassom de rotina de aneurisma de aorta abdominal infra-renal de 4,2 x 4,1 cm de diâmetros e 9,0 cm de extensão. Realizou então angiotomogra a que confirmou achados do ultrassom mostrando ainda colo de 2,0 cm de extensão, lumem de 2,5 cm de diâmetro e saco aneurismático com trombos até próximo a bifurcação das ilíacas. Qual a conduta atual mais adequada para este caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tratamento endovascular minimamente invasivo."
+    },
+    {
+     "letra": "B",
+     "texto": "Cirurgia aberta convencional."
+    },
+    {
+     "letra": "C",
+     "texto": "Seguimento com exames de imagem a cada 6 meses."
+    },
+    {
+     "letra": "D",
+     "texto": "Cirurgia robótica transperitoneal."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000110196",
+   "codigo": "4000110196",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 14,
+   "temas": [
+    "Tratamento Clínico",
+    "Cirurgia"
+   ],
+   "enunciado": "Paciente de 62 anos, hipertenso, diabético e tabagista com história de claudicaçāo limitante de membros inferiores, chega para primeira consulta ambulatorial após encaminhamento do pronto-socorro. Qual a melhor conduta a ser adotada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Controlar fatores de risco e prescrição de antiagregante plaquetário."
+    },
+    {
+     "letra": "B",
+     "texto": "Controlar fatores de risco, estimular a deambulação e prescrever cilostazol."
+    },
+    {
+     "letra": "C",
+     "texto": "Indicar by pass arterial após investigação do nível da obstrução."
+    },
+    {
+     "letra": "D",
+     "texto": "Iniciar anticoagulação com controle ambulatorial do INR."
+    },
+    {
+     "letra": "E",
+     "texto": "Indicar cirurgia endovascular (stent)."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000108325",
+   "codigo": "4000108325",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 15,
+   "temas": [
+    "Conf irmação Diagnóstica",
+    "Cirurgia"
+   ],
+   "enunciado": "Qual o exame mais indicado para investigação de paciente com suspeita de aneurisma da aorta abdominal não complicado?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Eco-Doppler arterial."
+    },
+    {
+     "letra": "B",
+     "texto": "Angiotomografia computadorizada."
+    },
+    {
+     "letra": "C",
+     "texto": "Arteriografia."
+    },
+    {
+     "letra": "D",
+     "texto": "Ressonância magnética."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000108301",
+   "codigo": "4000108301",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 16,
+   "temas": [
+    "Filtro de Veia Cava",
+    "Cirurgia"
+   ],
+   "enunciado": "São indicações para implante de filtro de veia cava, EXCETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "tromboembolismo recorrente apesar da anticoagulação."
+    },
+    {
+     "letra": "B",
+     "texto": "trombose venosa profunda e contraindicação à anticoagulação."
+    },
+    {
+     "letra": "C",
+     "texto": "trombose venosa profunda de membro superior."
+    },
+    {
+     "letra": "D",
+     "texto": "complicações da anticoagulação."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000107739",
+   "codigo": "4000107739",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 17,
+   "temas": [
+    "Manif estações Clínicas",
+    "Cirurgia",
+    "Conf irmação Diagnóstica"
+   ],
+   "enunciado": "Homem, 58 anos, com antecedentes pessoais de tabagismo e hipertensão arterial sistêmica, vem ao Pronto-Socorro com queixa de dor em membro inferior direito há 2 dias, de forte intensidade, associada a esfriamento local. Ao exame físico, apresenta hipotermia e palidez deste membro em relação ao contralateral. O pulso femoral está presente. Todos os outros pulsos estão ausentes no membro inferior direito. Qual é o diagnóstico principal para este paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Oclusão arterial aguda."
+    },
+    {
+     "letra": "B",
+     "texto": "Síndrome Compartimental."
+    },
+    {
+     "letra": "C",
+     "texto": "Aneurisma da artéria poplítea."
+    },
+    {
+     "letra": "D",
+     "texto": "Trombose venosa profunda."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000107160",
+   "codigo": "4000107160",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 18,
+   "temas": [
+    "Filtro de Veia Cava",
+    "Cirurgia"
+   ],
+   "enunciado": "Mulher, 62 anos de idade, é admitida em pronto-socorro por quadro de trombose venosa profunda em sistema ilíaco- femoral. Apresenta, como antecedente, quadro de acidente vascular encefálico hemorrágico há 2 semanas, sem sequelas. Qual é a conduta mais adequada neste cenário?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Anticoagulação com inibidores de vitamina K."
+    },
+    {
+     "letra": "B",
+     "texto": "Filtro de veia cava inferior."
+    },
+    {
+     "letra": "C",
+     "texto": "Anticoagulação com rivaroxabana."
+    },
+    {
+     "letra": "D",
+     "texto": "Antiagregação plaquetária."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000106284",
+   "codigo": "4000106284",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 19,
+   "temas": [
+    "Conduta nos Aneurismas de Aorta Abdominal",
+    "Cirurgia"
+   ],
+   "enunciado": "Tratamento Cirúrgico do Aneurisma de Aorta Abdominal e Complicações Pósoperatórias Um homem de 65 anos, tabagista de 1 maço de cigarros ao dia há 40 anos, sem DPOC (doença pulmonar obstrutiva crônica) ou outras comorbidades, é portador de aneurisma fusiforme da aorta abdominal infrarrenal, assintomático, descoberto em exame de rotina. Está indicada correção cirúrgica do aneurisma desse paciente, se o aneurisma tiver diâmetro a partir de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "5,5 cm."
+    },
+    {
+     "letra": "B",
+     "texto": "6,0 cm."
+    },
+    {
+     "letra": "C",
+     "texto": "4,0 cm."
+    },
+    {
+     "letra": "D",
+     "texto": "4,5 cm."
+    },
+    {
+     "letra": "E",
+     "texto": "5,0 cm."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000095926",
+   "codigo": "4000095926",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 20,
+   "temas": [
+    "Conf irmação Diagnóstica",
+    "Cirurgia"
+   ],
+   "enunciado": "Sobre DIAGNÓSTICO na TVP, qual destas ações NÃO está indicada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Flebografia"
+    },
+    {
+     "letra": "B",
+     "texto": "Scan Duplex Venoso"
+    },
+    {
+     "letra": "C",
+     "texto": "D-dímero"
+    },
+    {
+     "letra": "D",
+     "texto": "Escore de Wells"
+    },
+    {
+     "letra": "E",
+     "texto": "ECO-TT"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000094757",
+   "codigo": "4000094757",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 21,
+   "temas": [
+    "Oclusão Arterial Aguda OAA",
+    "Tromboembolismo Arterial",
+    "Cirurgia"
+   ],
+   "enunciado": "Mulher, 60 anos de idade, com antecedente de brilação atrial crônica em uso de varfarina sódica, é admitida no pronto socorro com quadro de dor súbita em membro inferior esquerdo de forte intensidade há 1 hora. Ao exame físico, evidencia- se ausência de pulso em artérias tibiais e pediosa esquerda, além de diminuição importante de temperatura no membro referido. Não há edema em membros inferiores. Qual é a hipótese diagnóstica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Flegmasia cerúlea dolens."
+    },
+    {
+     "letra": "B",
+     "texto": "Obstrução arterial aguda."
+    },
+    {
+     "letra": "C",
+     "texto": "Trombose venosa profunda."
+    },
+    {
+     "letra": "D",
+     "texto": "Linfedema."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000082422",
+   "codigo": "4000082422",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 22,
+   "temas": [
+    "Cirurgia",
+    "Tratamento"
+   ],
+   "enunciado": "Um homem de 74 anos dá entrada no pronto-atendimento apresentando dor súbita há 5 horas com diminuição de temperatura do pé direito, anestesiado, impedindo-o de deambular. O exame clínico vascular demonstra pulsos normais no membro inferior esquerdo e ausência de pulsos poplíteo distal à direita. Sofreu infarto agudo do miocárdio há 4 meses. Para a situação, a conduta apropriada é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "empregar analgésico, heparina e/ou fibrinolítico endovenoso."
+    },
+    {
+     "letra": "B",
+     "texto": "administrar heparina em bomba e preparar para intervenção cirúrgica."
+    },
+    {
+     "letra": "C",
+     "texto": "aquecer o pé e realizar analgesia."
+    },
+    {
+     "letra": "D",
+     "texto": "heparinizar o paciente e preparar para arteriografia."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000075672",
+   "codigo": "4000075672",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 23,
+   "temas": [
+    "Cirurgia",
+    "Tratamento Cirúrgico do Aneurisma de Aorta Abdominal e Complicações Pósoperatórias"
+   ],
+   "enunciado": "Homem, 68 anos, tabagista é submetido à correção de aneurisma de aorta abdominal. No segundo dia de pós-operatório apresenta dor e distensão abdominal, com quadro de sepse de evolução rápida. A hipótese diagnóstica mais provável para este quadro é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "atelectasia pós operatória"
+    },
+    {
+     "letra": "B",
+     "texto": "infecção da prótese da aorta"
+    },
+    {
+     "letra": "C",
+     "texto": "colite isquêmica com necrose do cólon"
+    },
+    {
+     "letra": "D",
+     "texto": "pielonefrite por baixo fluxo renal"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000075598",
+   "codigo": "4000075598",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 24,
+   "temas": [
+    "Apêndice Anatomia",
+    "Cirurgia"
+   ],
+   "enunciado": "Compõem o sistema venoso profundo dos membros inferiores:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "veia femoral, veia poplitea, veia gastrocnêmia"
+    },
+    {
+     "letra": "B",
+     "texto": "veia gastrocnêmia, veia poplitea, veia basilar"
+    },
+    {
+     "letra": "C",
+     "texto": "veia safena, magna, veia gastrocnêmia, veia femoral"
+    },
+    {
+     "letra": "D",
+     "texto": "veia poplitea, veia safena magna, veia basilar"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000075511",
+   "codigo": "4000075511",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 25,
+   "temas": [
+    "Cirurgia",
+    "Trombof lebite"
+   ],
+   "enunciado": "Mulher, 42 anos, internada apresenta área de vermelhidão, edema e induração no antebraço esquerdo. Relata que há dois dias estava em soroterapia. O diagnóstico mais provável e o tratamento mais adequado são, respectivamente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "trombose de artéria sub-clávia / heparinização plena"
+    },
+    {
+     "letra": "B",
+     "texto": "tromboflebite / anti-inflamatório"
+    },
+    {
+     "letra": "C",
+     "texto": "picada de mosquito / anti-histamínico"
+    },
+    {
+     "letra": "D",
+     "texto": "trombose de veia sub-clávia / antiagregante plaquetário"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000074610",
+   "codigo": "4000074610",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 26,
+   "temas": [
+    "Tratamento Clínico",
+    "Cirurgia"
+   ],
+   "enunciado": "Homem, 67 anos de idade, em seguimento na Unidade Básica de Saúde próxima à sua residência com os diagnósticos de hipertensão arterial sistêmica, diabetes mellitus tipo 2 e dislipidemia. Refere também ser tabagista desde os 20 anos de idade, cerca de 1 maço por dia. Procura atendimento com queixa de dor nas panturrilhas há cerca de 6 meses, que se inicia após caminhar por volta de 3 quarteirões (300 metros). Refere inclusive que necessita interromper a atividade, ocorrendo melhora da dor. Em relação ao tratamento proposto, assinale a alternativa correta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O tratamento deve ser inicialmente clínico, com controle das comorbidades, cessação do tabagismo e caminhadas frequentes."
+    },
+    {
+     "letra": "B",
+     "texto": "O tratamento cirúrgico é sempre a primeira opção, podendo ser realizado por via cirúrgica convencional ou minimamente invasiva (angioplastia."
+    },
+    {
+     "letra": "C",
+     "texto": "Trata-se de um paciente com oclusão arterial aguda e, dessa forma, as medidas clínicas são pouco eficazes."
+    },
+    {
+     "letra": "D",
+     "texto": "Em caso de cirurgia, trata-se de procedimento de baixo risco e sem chance de complicações, tanto clínicas quanto cirúrgicas."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000074207",
+   "codigo": "4000074207",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 27,
+   "temas": [
+    "Conf irmação Diagnóstica",
+    "Cirurgia"
+   ],
+   "enunciado": "Tratamento Cirúrgico do Aneurisma de Aorta Abdominal e Complicações Pósoperatórias Diante da suspeita de aneurisma de aorta abdominal, qual o exame que fornece a maior quantidade de informações necessárias para programação de correção cirúrgica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ultrassonografia de abdome."
+    },
+    {
+     "letra": "B",
+     "texto": "Tomografia computadorizada de abdome com contraste."
+    },
+    {
+     "letra": "C",
+     "texto": "Aortografia."
+    },
+    {
+     "letra": "D",
+     "texto": "Radiografia simples de abdome."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000065419",
+   "codigo": "4000065419",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 28,
+   "temas": [
+    "Fisiopatologia",
+    "Cirurgia"
+   ],
+   "enunciado": "Há mais de 150 anos atrás Rudolf Virchowapud Merli descreveu a tríade de fatores responsáveis pela trombogênese, que incluem:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Estase venosa, dano endotelial e hipercoagulação"
+    },
+    {
+     "letra": "B",
+     "texto": "Hipocoagulação, estase arterial e dano epitelial"
+    },
+    {
+     "letra": "C",
+     "texto": "Estase arterial, hipocoagulação e dano endotelial"
+    },
+    {
+     "letra": "D",
+     "texto": "Estase arterial, dano endotelial e hipercoagulação"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000064433",
+   "codigo": "4000064433",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 29,
+   "temas": [
+    "Manif estações Clínicas",
+    "Cirurgia"
+   ],
+   "enunciado": "A DAOP, Doença Arterial Oclusiva Periférica é uma patologia grave presente em pacientes com doenças crônicas com mal controle e responde por sequelas que reduzem a qualidade de vida dos pacientes e eleva os custos em saúde. Por isso o foco atual do sistema de saúde é otimizar o cuidado as doenças crônicas não transmissíveis. Assinale a alternativa correta sobre a descompensação aguda da DAOP.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Empastamento e edema assimétrico do membro inferior, associado a pulso distal filiforme é sinal de alerta para insuficiência arterial."
+    },
+    {
+     "letra": "B",
+     "texto": "A ausência de pulso distal associada a paresia, parestesia, frialdade e cianose são os sinais de alerta para oclusão arterial aguda."
+    },
+    {
+     "letra": "C",
+     "texto": "Frente a um paciente com ausência de pulso distal bilateral e cianose de um dedo do pé unilateral com mumificação, devemos proceder á internação e trombólise."
+    },
+    {
+     "letra": "D",
+     "texto": "A DAOP com descompensação aguda se manifesta com trombose venosa e a ausência de pulso distal está presente na flegmasia cerulea dolens."
+    },
+    {
+     "letra": "E",
+     "texto": "A oclusão arterial aguda é a complicação mais temida e com maiores efeitos deletérios, e se manifesta por rubor, calor e dor à palpação do trajeto da safena."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000053584",
+   "codigo": "4000053584",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 30,
+   "temas": [
+    "Apresentação Clínica",
+    "Cirurgia"
+   ],
+   "enunciado": "No exame físico de um paciente com insuficiência venosa crônica, podemos encontrar os seguintes sinais:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "eczema, úlcera em face externa da perna, lipodermatoesclerose e varizes calibrosas."
+    },
+    {
+     "letra": "B",
+     "texto": "hiperpigmentação secundária à deposição de hemossiderina, lipodermatoesclerose, eczema e palidez dos pés."
+    },
+    {
+     "letra": "C",
+     "texto": "hiperpigmentação secundária à deposição de hemossiderina, eczema, úlcera em faceinterna da perna e lipodermatoesclerose."
+    },
+    {
+     "letra": "D",
+     "texto": "hiperpigmentação secundária à deposição de hemossiderina, diminuição de pelos,eczema, úlcera em face interna da perna e lipodermatoesclerose."
+    },
+    {
+     "letra": "E",
+     "texto": "hipopigmentação secundária à deposição de hemossiderina, diminuição de pelos,eczema, úlcera em face interna da perna e lipodermatoesclerose."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000041734",
+   "codigo": "4000041734",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 31,
+   "temas": [
+    "Anticoagulação",
+    "Cirurgia"
+   ],
+   "enunciado": "J.S.A. foi submetido a cirurgia bariátrica há 02 semanas. Retorna ao Pronto Socorro com quadro de dor em membro inferior direito, sensação de peso, di culdade para andar e edema progressivo até joelho. Ao exame paciente apresenta edema até região distal de coxa direita, sinal de Homans positivo. Realizado ultrasson com doppler venoso que confirmou Trombose Venosa Profunda aguda. Sobre o tratamento com anticoagulação deste paciente é possível afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Deve ser iniciado imediatamente com warfarina isolada até se obter INR (Razão Normalizada Internacional do Tempo de Protrombina) entre 2 e 3."
+    },
+    {
+     "letra": "B",
+     "texto": "A duração recomendada do tratamento deve ser de 03 meses."
+    },
+    {
+     "letra": "C",
+     "texto": "Deve ser iniciado warfarina de imediato e heparina após 48h."
+    },
+    {
+     "letra": "D",
+     "texto": "Não há necessidade de anticoagulação plena."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000034434",
+   "codigo": "4000034434",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 32,
+   "temas": [
+    "Anticoagulação",
+    "Cirurgia"
+   ],
+   "enunciado": "Paciente de 37 naos, gestante de 22 semanas, queixa-se de dor em membro inferior esquerdo (MIE) com empastamento da panturrilha ipsilateral desde a 18ª semana. Ao exame físico, apresenta sinal de homans positivo, com edema discreto (+/4+) em MIE. A dosagem de D-dímero foi elevada e o ecodoppler venoso demonstrou presença de trombo recente em veia femoral superficial de MIE. A conduta MAIS INDICADA nesse momento é a administração de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "ácido acetilsalissilico."
+    },
+    {
+     "letra": "B",
+     "texto": "enoxaparina."
+    },
+    {
+     "letra": "C",
+     "texto": "rivaroxabana."
+    },
+    {
+     "letra": "D",
+     "texto": "varfarina."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000019553",
+   "codigo": "4000019553",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 33,
+   "temas": [
+    "Tromboembolismo Arterial",
+    "Cirurgia"
+   ],
+   "enunciado": "Um paciente internado por infarto agudo do miocárdio, apresentando dor súbita, palidez e parestesia em membro inferior direito, tem como provável diagnóstico:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "oclusão arterial aguda trombótica."
+    },
+    {
+     "letra": "B",
+     "texto": "trombose venosa profunda."
+    },
+    {
+     "letra": "C",
+     "texto": "doença cística adventicial."
+    },
+    {
+     "letra": "D",
+     "texto": "oclusão arterial aguda embólica."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000011199",
+   "codigo": "4000011199",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 34,
+   "temas": [
+    "Medidas Iniciais",
+    "Cirurgia"
+   ],
+   "enunciado": "Homem, 65 anos de idade, hipertenso e dislipidêmico, refere dor ao repouso no membro inferior direito há 7 dias com piora importante há 1 dia. Apresenta claudicação intermitente para 50 metros há 1 ano. Ao exame específico vascular: pulsos femorais 4+/4, poplíteos, tibiais posteriores e anteriores 0+/4. Índice pressórico tornozelo-braço: direito 0,45; esquerdo 0,60. Diminuição de temperatura e cianose não xa no membro inferior direito. Qual a hipótese diagnóstica mais provável e conduta inicial?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Trombose arterial aguda; heparinização e proteção térmica do membro"
+    },
+    {
+     "letra": "B",
+     "texto": "Embolia arterial aguda; heparinização e proteção térmica do membro"
+    },
+    {
+     "letra": "C",
+     "texto": "Trombose arterial aguda; cirurgia de urgência com cateter de Fogarty"
+    },
+    {
+     "letra": "D",
+     "texto": "Embolia arterial aguda; cirurgia de urgência com cateter de Fogarty"
+    },
+    {
+     "letra": "E",
+     "texto": "Embolia arterial aguda; fibrinolítico intra-arterial baixa dose"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000011183",
+   "codigo": "4000011183",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 35,
+   "temas": [
+    "Cirurgia",
+    "Trombof lebite"
+   ],
+   "enunciado": "Com relação a tromboflebite superficial ascendente, é correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "ecografia vascular com Doppler não deve ser realizado devido ao risco de embolização"
+    },
+    {
+     "letra": "B",
+     "texto": "o tratamento com fibrinolítico deve ser preconizado o quanto antes"
+    },
+    {
+     "letra": "C",
+     "texto": "compressa fria e compressão elástica fazem parte de terapêutica habitual"
+    },
+    {
+     "letra": "D",
+     "texto": "geralmente ocorre bilateralmente e o uso de antibiótico deve ser generalizado"
+    },
+    {
+     "letra": "E",
+     "texto": "caso acometa o terço médio de coxa está indicada a ligadura cirúrgica da croça da safena magna"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000004705",
+   "codigo": "4000004705",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 36,
+   "temas": [
+    "Estenose Carotídea",
+    "Cirurgia"
+   ],
+   "enunciado": "Paciente masculino, 72 anos, portador de angina instável, com indicação de revascularização do miocárdio. Na avaliação pré-operatória, foi identi cado uma estenose de carótida interna esquerda de 50 a 69% e, no lado direito, ausência de lesões. Sabendo que o paciente não tinha história de eventos neurológicos prévios, qual a indicação mais correta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tratamento clínico da doença carotídea e proceder apenas à revascularização do miocárdio."
+    },
+    {
+     "letra": "B",
+     "texto": "Endarterectomia carotídea prévia à cirurgia do miocárdio."
+    },
+    {
+     "letra": "C",
+     "texto": "Angioplastia/stent de carótida esquerda por oferecer um risco menor de evento cardiológico no pós-operatório comparado à cirurgia convencional e, após 3 meses, realizar a revascularização do miocárdio."
+    },
+    {
+     "letra": "D",
+     "texto": "Revascularização do miocárdio inicialmente e na sequência a endarterectomia carotídea, na mesma internação hospitalar, com um intervalo de, aproximadamente, 7 dias entre os procedimentos."
+    },
+    {
+     "letra": "E",
+     "texto": "Somente Revascularização do Miocárdio, sem necessidade de tratamento clínico."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000120645",
+   "codigo": "4000120645",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 37,
+   "temas": [
+    "Anticoagulação",
+    "Trombose Venosa Prof unda TVP",
+    "Apresentação Clínica"
+   ],
+   "enunciado": "Mulher de 22 anos, sem comorbidades, apresenta dor e inchaço em panturrilha direita há 1 dia. Exame físico: temperatura de 37,5°C, membro inferior direito com edema e empastamento de panturrilha. O diagnóstico mais provável e a conduta mais adequada são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "erisipela; solicitar hemograma e PCR e iniciar antibioticoterapia."
+    },
+    {
+     "letra": "B",
+     "texto": "trombose venosa profunda; solicitar ultrassonografia vascular com Doppler para confirmação diagnóstica e, se confirmado, iniciar tratamento anticoagulante."
+    },
+    {
+     "letra": "C",
+     "texto": "trombose venosa profunda; solicitar flebografia para confirmação diagnóstica e, se confirmado, iniciar tratamento com antiagregante plaquetário."
+    },
+    {
+     "letra": "D",
+     "texto": "trombose venosa profunda; solicitar D-dímero e, se positivo, iniciar tratamento anticoagulante."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120611",
+   "codigo": "4000120611",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 38,
+   "temas": [
+    "Tromboembolismo Arterial",
+    "Cirurgia",
+    "Revascularização Endovascular"
+   ],
+   "enunciado": "Mulher de 64 anos apresenta membro inferior direito (MID) pálido e muito doloroso há 3 horas. Encontra-se com o pé direito pendente na maca, com cianose não xa nos artelhos, gradiente térmico no meio da perna, sem perdas de sensibilidade ou da motricidade nesse membro. Refere nunca ter apresentado dor semelhante nos membros inferiores. Relata que recentemente vêm sentindo episódios súbitos de palpitações. Exame físico: FC 120 bpm, com bulhas arrítmicas. Membros inferiores: pulsos poplíteo, tibial anterior e tibial posterior não palpáveis à direita e presentes e cheios à esquerda; edema da perna direita, com cianose distal. O diagnóstico e a conduta mais adequada são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "oclusão arterial aguda do MID, de provável origem embólica; cirurgia de embolectomia com cateter tipo Fogarty."
+    },
+    {
+     "letra": "B",
+     "texto": "oclusão arterial aguda do MID, de provável origem trombótica; cirurgia de embolectomia com cateter tipo Fogarty."
+    },
+    {
+     "letra": "C",
+     "texto": "flegmasia cerúlea dolens; o tratamento deve ser cirurgia de embolectomia com cateter tipo Fogarty."
+    },
+    {
+     "letra": "D",
+     "texto": "oclusão arterial aguda do MID, de provável origem embólica; tratamento endovascular, com angioplastia e implante de stent."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000106496",
+   "codigo": "4000106496",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 39,
+   "temas": [
+    "Cirurgia",
+    "Abordagem cirúrgica do pé diabético"
+   ],
+   "enunciado": "Mulher, 66 anos, portadora de diabete melito há 12 anos, procura o hospital com quadro de úlcera plantar infectada de odor fétido, flegmão ascendente e pulsos periféricos palpáveis. Inicia antibioticoterapia. Qual é a conduta complementar?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Enxerto femoropoplíteo"
+    },
+    {
+     "letra": "B",
+     "texto": "Desbridamento."
+    },
+    {
+     "letra": "C",
+     "texto": "Endarterectomia e curativos seriados."
+    },
+    {
+     "letra": "D",
+     "texto": "Amputação primária."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q039-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000105566",
+   "codigo": "4000105566",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 40,
+   "temas": [
+    "Tratamento Clínico",
+    "Cirurgia"
+   ],
+   "enunciado": "Homem de 56 anos, professor de matemática, queixa-se de dor em pernas bilateralmente. Era sedentário, porém recentemente decidiu voltar a realizar atividades físicas. É hipertenso controlado e tabagista há 40 anos. Faz uso apenas de losartana. Muito detalhista, desenha um gráfico para exempli car a característica da sua dor (abaixo): Baseando-se no diagnóstico mais provável, qual a melhor conduta inicial?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Anti-inflamatórios não esteroidais, meias elásticas e cilostazol."
+    },
+    {
+     "letra": "B",
+     "texto": "Ácido acetilsalicílico, venotônicos, medidas posturais e meias elásticas."
+    },
+    {
+     "letra": "C",
+     "texto": "Ácido acetilsalicílico, estatina e atividade física programada."
+    },
+    {
+     "letra": "D",
+     "texto": "Anti-inflamatórios não esteroidais, fisioterapia motora, solicitação de ressonância nuclear magnética."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q040-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000100854",
+   "codigo": "4000100854",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 41,
+   "temas": [
+    "Cirurgia",
+    "Trombose Arterial"
+   ],
+   "enunciado": "Mulher de 57 anos, tabagista há 40 anos, 2 maços/dia, hipertensa, informa que há 3 anos tem apresentado dor em panturrilha esquerda que di culta a sua caminhada. Há 1 dia com dor de forte intensidade em membro inferior esquerdo, \"formigamento\", esfriamento e palidez. Ao exame físico apresenta palidez e hipotermia do membro inferior esquerdo em relação ao contralateral. O pulso femoral esquerdo está presente e os outros pulsos estão ausentes em membro inferior esquerdo. O diagnóstico provável para este paciente é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Oclusão arterial aguda."
+    },
+    {
+     "letra": "B",
+     "texto": "Trombose venosa profunda."
+    },
+    {
+     "letra": "C",
+     "texto": "Trombose venosa profunda."
+    },
+    {
+     "letra": "D",
+     "texto": "Síndrome compartimental."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000100779",
+   "codigo": "4000100779",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 42,
+   "temas": [
+    "Tratamento Cirúrgico",
+    "Cirurgia"
+   ],
+   "enunciado": "Mulher de 82 anos diabética e hipertensa, teve ferimento perfurante em pé direito há 15 dias. Evoluiu com gangrena seca do 3° pododáctilo direito. Foi submetida à arteriogra a que mostrou estenose segmentar crítica de artéria ilíaca comum direita. A melhor conduta para esta paciente é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Amputação do 5° pododáctilo."
+    },
+    {
+     "letra": "B",
+     "texto": "Enxerto aorto-ilíaco direito."
+    },
+    {
+     "letra": "C",
+     "texto": "Endarterectomia de artéria ilíaca comum direita."
+    },
+    {
+     "letra": "D",
+     "texto": "Angioplastia com stent de artéria ilíaca comum direita."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000100039",
+   "codigo": "4000100039",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 43,
+   "temas": [
+    "Conf irmação Diagnóstica",
+    "Cirurgia"
+   ],
+   "enunciado": "Uma paciente do sexo feminino de 72 anos de idade, no pós-operatório recente de uma cirurgia de prótese de quadril, apresenta edema com cacifo na perna, dor e palidez. Qual o diagnóstico mais provável para essa paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Obstrução arterial aguda de artéria poplítea."
+    },
+    {
+     "letra": "B",
+     "texto": "TVP envolvendo o sistema iliofemoral."
+    },
+    {
+     "letra": "C",
+     "texto": "Obstrução arterial crônica de artéria femoral."
+    },
+    {
+     "letra": "D",
+     "texto": "TVP de veias da panturrilha."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000099319",
+   "codigo": "4000099319",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 44,
+   "temas": [
+    "Fibrilação Atrial",
+    "Oclusão Arterial Aguda OAA",
+    "Cirurgia"
+   ],
+   "enunciado": "A oclusão arterial aguda vem aumentando sua incidência nas últimas décadas, conforme aumento da expectativa de vida da população e a progressão da doença aterosclerótica cardiovascular. Em relação a esse tema, assinale a alternativa CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Os traumas são responsáveis pela grande maioria das oclusões arteriais agudas."
+    },
+    {
+     "letra": "B",
+     "texto": "A fibrilação atrial, produzindo trombos murais, constitui-se como a principal fonte de êmbolos."
+    },
+    {
+     "letra": "C",
+     "texto": "De um modo geral, o quadro clínico da oclusão arterial aguda apresenta- se com início súbito, associado com frialdade, palidez da extremidade e ausência de pulso distal ao ponto de oclusão, mas com ausência de dor."
+    },
+    {
+     "letra": "D",
+     "texto": "A angiografia por subtração digital deverá sempre ser realizada previamente ao tratamento, orientando na conduta mais adequada."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000097512",
+   "codigo": "4000097512",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 45,
+   "temas": [
+    "Diagnóstico",
+    "Cirurgia"
+   ],
+   "enunciado": "Mulher, 65a, vem à consulta referindo dor em panturrilhas ao caminhar em torno de 200 metros, em subidas. Antecedentes pessoais: diabetes mellitus, nega tabagismo e hipertensão arterial sistêmica. Exame físico: pulsos poplíteos e tibiais palpáveis simétricos bilateralmente. O EXAME A SER REALIZADO É:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Medida do índice pressórico tornozelo/braço em repouso e pós caminhada."
+    },
+    {
+     "letra": "B",
+     "texto": "Mapeamento arterial dos membros inferiores por ultrassonografia duplex."
+    },
+    {
+     "letra": "C",
+     "texto": "Angioressonância magnética com gadolínio."
+    },
+    {
+     "letra": "D",
+     "texto": "Cateterismo para arteriografia por subtração digital."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000085486",
+   "codigo": "4000085486",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 46,
+   "temas": [
+    "Tratamento Cirúrgico",
+    "Cirurgia"
+   ],
+   "enunciado": "Mulher, 63 anos, diabética e hipertensa, com dor intensa em membro inferior direito há cerca de três semanas, necessitando dormir com o membro pendente. Relato de claudicação de membros inferiores há cerca de um ano, com piora progressiva. Exame físico: pulsos femorais presentes bilateralmente popliteos e distais ausentes em ambos os membros inferiores. Pé direito frio, edemaciado, de cor avermelhada (\"pé de lagosta\"). Pé esquerdo com enchimento capilar lentificado, porém aquecido. A conduta mais adequada para esta paciente é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Controlar os fatores de risco e estabelecer programa de caminhadas."
+    },
+    {
+     "letra": "B",
+     "texto": "Realizar arteriografia e revascularização do membro inferior direito em caráter de urgência."
+    },
+    {
+     "letra": "C",
+     "texto": "Realizar tromboembolectomia de membro inferior direito com cateter de Fogarty."
+    },
+    {
+     "letra": "D",
+     "texto": "Programar amputação primária do pé direito."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000079503",
+   "codigo": "4000079503",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 47,
+   "temas": [
+    "Tromboembolismo Arterial",
+    "Cirurgia",
+    "Tratamento"
+   ],
+   "enunciado": "Um paciente de 58 anos, com quadro de oclusão arterial aguda em membro inferior esquerdo, sem uxo arterial audível e com fluxo venoso audível ao doppler, apresenta motricidade no pé, mas sensibilidade reduzida. Considerando esse caso, a conduta a ser adotada é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "iniciar a anticoagulação sistêmica e avaliar fonte emboligênica com o ecocardiograma."
+    },
+    {
+     "letra": "B",
+     "texto": "investigar com o doppler e embolectomia com cateter de Fogarty."
+    },
+    {
+     "letra": "C",
+     "texto": "explicar ao paciente e familiares a necessidade da amputação primária do membro."
+    },
+    {
+     "letra": "D",
+     "texto": "realizar a arteriografia do membro e fibrinólise intratrombo (êmbolo)."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000054672",
+   "codigo": "4000054672",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 48,
+   "temas": [
+    "Tratamento",
+    "Conf irmação Diagnóstica",
+    "Cirurgia"
+   ],
+   "enunciado": "Paciente feminina, 30 anos de idade, comparece ao serviço de emergência com queixa de dor, cianose e parestesia na mão direita. Sem pulsos distais. Tabagista há dezessete anos, com relato de três abortamentos prévios e início recente de anticoncepcional hormonal oral. Sobre o diagnóstico e o tratamento nesse caso, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Provável trombose arterial em paciente com mais de um fator de risco, sendo necessário tratamento invasivo."
+    },
+    {
+     "letra": "B",
+     "texto": "O quadro é confirmatório de síndrome antifosfolípide e não necessita de tratamento invasivo."
+    },
+    {
+     "letra": "C",
+     "texto": "O quadro é de oclusão arterial aguda e sua resolução é espontânea."
+    },
+    {
+     "letra": "D",
+     "texto": "O diagnóstico é de oclusão arterial e deve-se adotar tratamento medicamentoso com heparina, sem risco de evolução desfavorável."
+    },
+    {
+     "letra": "E",
+     "texto": "A causa mais comum de oclusão arterial aguda é a aterosclerose, sendo, nesse caso, a angioplastia isolada a melhor forma de tratamento."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000051999",
+   "codigo": "4000051999",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 49,
+   "temas": [
+    "Cirurgia",
+    "Conf irmação Diagnóstica"
+   ],
+   "enunciado": "No diagnóstico da doença arterial periférica, além do exame físico para avaliar a presença dos pulsos femorais, poplíteos e distais, existem os exames de imagem que confirmam e também servem de planejamento para um possível tratamento cirúrgico ou endovascular. Com relação aos exames de imagem na doença arterial, assinale a alternativa verdadeira.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A angiografia continua sendo o exame padrão-ouro apesar de ser uma técnica invasiva e com uso de contraste."
+    },
+    {
+     "letra": "B",
+     "texto": "A angiorressonância é o exame que mostra mais detalhes para um planejamento de um tratamento endovascular."
+    },
+    {
+     "letra": "C",
+     "texto": "A angiotomografia está sendo cada vez menos utilizada por usar muito volume de constraste e muita radiação ao paciente."
+    },
+    {
+     "letra": "D",
+     "texto": "Apesar da evolução dos aparelhos de ecografia com imagens cada vez mais detalhadas, ainda não é possível realizar procedimentos guiados por ecodoppler."
+    },
+    {
+     "letra": "E",
+     "texto": "O ultrassom vascular ou ecodoppler é o exame padrão ouro hoje em dia, pois consegue avaliar o fluxo sanguíneo, diâmetro dos vasos e a velocidade do sangue no local de uma possível estenose ou oclusão arterial."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000051995",
+   "codigo": "4000051995",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 50,
+   "temas": [
+    "Classif icação dos Sintomas",
+    "Cirurgia"
+   ],
+   "enunciado": "Com relação à classificação da doença arterial periférica, existem as classificações de Fontaine e de Rutherford. Sobre a classificação de Rutherford, assinale a alternativa verdadeira:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "No grau 5, existe perda de tecido maior."
+    },
+    {
+     "letra": "B",
+     "texto": "No grau 4, existe perda de tecido menor."
+    },
+    {
+     "letra": "C",
+     "texto": "No grau 1, o paciente está assintomático."
+    },
+    {
+     "letra": "D",
+     "texto": "No grau 2, o paciente apresenta claudicação intermitente leve."
+    },
+    {
+     "letra": "E",
+     "texto": "No grau 3, o paciente apresenta claudicação intermitente grave."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000049388",
+   "codigo": "4000049388",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 51,
+   "temas": [
+    "O pé diabético",
+    "Cirurgia"
+   ],
+   "enunciado": "Antes de iniciar o tratamento do pé diabético deve-se classificar a lesão; usando a Classi cação de Szilagyi podemos afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "classe I- claudicação intermitente progressiva e incapacitante"
+    },
+    {
+     "letra": "B",
+     "texto": "Classe II- Lesão pré necrótica ou necrose isquêmica"
+    },
+    {
+     "letra": "C",
+     "texto": "Classe III- dor em repouso"
+    },
+    {
+     "letra": "D",
+     "texto": "Classe IV- gangrena extensa acometendo todo o pé"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000043141",
+   "codigo": "4000043141",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 52,
+   "temas": [
+    "Anticoagulação",
+    "Cirurgia"
+   ],
+   "enunciado": "Paciente 32 anos, sexo feminino, com queixa de dor em panturrilha esquerda e câimbras há 1 dia. Relata que no dia anterior havia realizado viagem de carro por 15h. Nuligesta. Sem história de tabagismo. Em uso de contraceptivo oral de longa data. Ao exame: Panturrilha esquerda empastada. Boa perfusão periférica. Pulsos distais presentes, amplos e simpétricos. Considerando o caso descrito, assinale a alternativa correta quanto ao diagnóstico e terapêutica.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Nesse caso, seria importante a dosagem do D-Dímero e este sendo positivo, dispensaria o ultrassom Doppler como exame confirmatório"
+    },
+    {
+     "letra": "B",
+     "texto": "Trata-se de um caso de Phlegmasia Coerelua Dolens e é imperioso neste caso iniciar tratamento trombolítico sistêmico, implante de filtro de veia cava e manter posteriormente heparina de baixo peso molecular."
+    },
+    {
+     "letra": "C",
+     "texto": "Aparentemente sem elementos que contraindiquem anticoagulação, poderia iniciar com heparina após confirmação diagnóstica."
+    },
+    {
+     "letra": "D",
+     "texto": "O empastamento de panturrilha traduz a síndrome compartimental, que pode evoluir com isquemia, sendo, neste caso, indicado a fasciotomia profilática."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000042967",
+   "codigo": "4000042967",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 53,
+   "temas": [
+    "Anticoagulação",
+    "Cirurgia"
+   ],
+   "enunciado": "Mulher, 52 anos, hipertensa, professora de Cross t, em tratamento medicamentoso para reposição estrogênica. Procura atendimento por dor e edema em membro inferior direito de início há 1 dia, com piora à deambulação. Ao exame: panturrilha direita empastada, pulsos pedioso e tibial posterior discretamente reduzidos, extremidade quente e hiperemiada, com sinal da Bandeira (+). A principal hipótese diagnóstica e o tratamento a ser empregado são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "rotura muscular aguda, drenagem do hematoma."
+    },
+    {
+     "letra": "B",
+     "texto": "trombose venosa profunda, rivaroxabana."
+    },
+    {
+     "letra": "C",
+     "texto": "oclusão arterial aguda, embolectomia."
+    },
+    {
+     "letra": "D",
+     "texto": "tromboflebite superficial, antibioticoterapia."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000019530",
+   "codigo": "4000019530",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 54,
+   "temas": [
+    "Aneurisma de Aorta Torácica",
+    "Cirurgia",
+    "Fisiopatologia e Evolução Natural"
+   ],
+   "enunciado": "Os aneurismas aórticos ocorrem com maior incidência na aorta abdominal em comparação com os de aorta torácica. Uma das possíveis causas para que isso aconteça é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "presença de maior fluxo turbilhonado na aorta torácica."
+    },
+    {
+     "letra": "B",
+     "texto": "presença de maior número de camadas elásticas na parede da aorta abdominal."
+    },
+    {
+     "letra": "C",
+     "texto": "presença de fragilidade gradual da aorta abdominal, tornando-a mais complacente pela maior quantidade de vaso- vasorum."
+    },
+    {
+     "letra": "D",
+     "texto": "presença de endurecimento gradual da aorta abdominal, tornando-a mais rígida pela menor quantidade de fibras elásticas."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000019485",
+   "codigo": "4000019485",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 55,
+   "temas": [
+    "Fatores de Risco",
+    "Cirurgia"
+   ],
+   "enunciado": "Leia o caso clínico a seguir. Paciente de 57 anos, de cor branca, hipertensa, obesa, tabagista, diabética, portadora de bromialgia e de passado de doença neoplásica e em uso de reposição hormonal, apresentou ao nal de uma longa viagem de ônibus, subitamente, dor na panturrilha direita e sinais clínicos Homans positivo, bandeira positivo e Olow positivo. Foi diagnosticada com trombose venosa profunda do membro inferior direito. Quais fatores de risco estão possivelmente relacionados a esse diagnóstico?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Idade, obesidade, tabagismo, sangue tipo A ou O, reposição hormonal, longo período de estase, passado de doença neoplásica."
+    },
+    {
+     "letra": "B",
+     "texto": "Idade, obesidade, hipertensão, sangue tipo AB, reposição hormonal, longo período de estase, passado de fibromialgia."
+    },
+    {
+     "letra": "C",
+     "texto": "Idade, obesidade, diabetes, sangue tipo O, reposição hormonal, longo período de estase, passado de doença neoplásica."
+    },
+    {
+     "letra": "D",
+     "texto": "Idade, obesidade, hipertensão, sangue tipo A, reposição hormonal, longo período de estase, passado de doença neoplásica."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000017676",
+   "codigo": "4000017676",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 56,
+   "temas": [
+    "Tromboembolismo Pulmonar TEP",
+    "Trombose Venosa Prof unda TVP",
+    "Cirurgia"
+   ],
+   "enunciado": "Com relação à trombose venosa profunda (TVP) em membro inferior direito, julgue o item seguinte. A consequência comumente mais grave em pacientes com essa doença é o infarto agudo do miocárdio.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000017673",
+   "codigo": "4000017673",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 57,
+   "temas": [
+    "Fisiopatologia",
+    "Cirurgia"
+   ],
+   "enunciado": "Com relação à trombose venosa profunda (TVP) em membro inferior direito, julgue o item seguinte. O processo etiopatogênico de obstrução venosa em pacientes com TVP baseia-se na tríade de Virchow.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000017669",
+   "codigo": "4000017669",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 58,
+   "temas": [
+    "Flegmásia Cerúlea Dollens",
+    "Cirurgia"
+   ],
+   "enunciado": "Com relação à trombose venosa profunda (TVP) em membro inferior direito, julgue o item seguinte. A forma mais comum de apresentação da TVP é aquela denominada phlegmasia cerúlea dolens.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000017666",
+   "codigo": "4000017666",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 59,
+   "temas": [
+    "Fatores de Risco",
+    "Fisiopatologia",
+    "Cirurgia"
+   ],
+   "enunciado": "Com relação à trombose venosa profunda (TVP) em membro inferior direito, julgue o item seguinte. A fibrilação atrial é a principal fonte de formação dos trombos para a TVP.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000017664",
+   "codigo": "4000017664",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 60,
+   "temas": [
+    "Fatores de Risco",
+    "Cirurgia"
+   ],
+   "enunciado": "Com relação à trombose venosa profunda (TVP) em membro inferior direito, julgue o item seguinte. A neoplasia maligna e o tabagismo são fatores de risco para o aparecimento da TVP.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000017659",
+   "codigo": "4000017659",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 61,
+   "temas": [
+    "Tratamento",
+    "Cirurgia"
+   ],
+   "enunciado": "Com relação à trombose venosa profunda (TVP) em membro inferior direito, julgue o item seguinte. A base para o tratamento dessa doença é o uso diário e prolongado de ácido acetilsalicílico (AAS).",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000004638",
+   "codigo": "4000004638",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 62,
+   "temas": [
+    "Avaliação do pé diabético",
+    "O pé diabético",
+    "Cirurgia"
+   ],
+   "enunciado": "Assinale a alternativa correta com relação à lesão apresentada.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Deve-se solicitar glicemia para esclarecer o diagnóstico."
+    },
+    {
+     "letra": "B",
+     "texto": "A lesão é causada por insuficiência venosa."
+    },
+    {
+     "letra": "C",
+     "texto": "A lesão é causada por uma insuficiência arterial."
+    },
+    {
+     "letra": "D",
+     "texto": "A lesão é causada pela diminuição de mobilidade do paciente."
+    },
+    {
+     "letra": "E",
+     "texto": "Deve-se solicitar biopsia para esclarecer o diagnóstico."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q062-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000004378",
+   "codigo": "4000004378",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 63,
+   "temas": [
+    "Abordagem cirúrgica do pé diabético"
+   ],
+   "enunciado": "Homem, diabético tipo 2, refere lesão na planta do pé direito há 4 dias. Apresenta-se prostrado, com frequência cardíaca 110 bpm e temperatura 39°C. À palpação observa-se crepitação, edema e hiperemia até o terço inferior da perna direita e ausência de pulsos distais em ambos os membros inferiores. Qual a conduta imediata?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Drenagem de planos profundos e debridamento dos tecidos desvitalizados."
+    },
+    {
+     "letra": "B",
+     "texto": "Arteriografia e revascularização endovascular."
+    },
+    {
+     "letra": "C",
+     "texto": "Arteriografia e debridamento dos tecidos desvitalizados."
+    },
+    {
+     "letra": "D",
+     "texto": "Ultrassom Doppler e debridamento dos tecidos desvitalizados."
+    },
+    {
+     "letra": "E",
+     "texto": "Drenagem de planos profundos e revascularização aberta."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000004355",
+   "codigo": "4000004355",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 64,
+   "temas": [
+    "Classif icação Clínica CEAP",
+    "Cirurgia"
+   ],
+   "enunciado": "Mulher, 35 anos de idade refere há 3 anos dor e cansaço nas pernas, com piora no decorrer do dia. O exame físico evidencia varizes tronculares com 4 mm de diâmetro em território de safena magna e veias perfurantes insu cientes. Qual a classificação clínica do CEAP (Clinical, Etiology, Anatomical, Pathophysiology)?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "C1"
+    },
+    {
+     "letra": "B",
+     "texto": "C0."
+    },
+    {
+     "letra": "C",
+     "texto": "C2."
+    },
+    {
+     "letra": "D",
+     "texto": "C3."
+    },
+    {
+     "letra": "E",
+     "texto": "C4."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000004330",
+   "codigo": "4000004330",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 65,
+   "temas": [
+    "Terapia Def initiva",
+    "Oclusão Arterial Aguda OAA",
+    "Cirurgia"
+   ],
+   "enunciado": "Homem, 59 anos de idade, apresenta dor súbita em membro inferior direito há 2 horas. Refere infarto agudo do miocárdio há 2 anos e nega claudicação prévia. Exame físico: ausência de todos os pulsos do membro inferior direito. Demais pulsos estão presentes e sem alterações. Qual o diagnóstico mais provável e a conduta adequada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Trombose arterial aguda; trombectomia com cateter de Fogarty."
+    },
+    {
+     "letra": "B",
+     "texto": "Trombose arterial aguda; heparinização plena seguida de anticoagulação oral."
+    },
+    {
+     "letra": "C",
+     "texto": "Embolia; embolectomia com cateter de Fogarty."
+    },
+    {
+     "letra": "D",
+     "texto": "Embolia; heparinização plena."
+    },
+    {
+     "letra": "E",
+     "texto": "Embolia; arteriografia diagnóstica"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000127513",
+   "codigo": "4000127513",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 66,
+   "temas": [
+    "Cirurgia",
+    "Tratamento"
+   ],
+   "enunciado": "Um homem de 75 anos, com brilação atrial e sem claudicação intermitente prévia, apresentou dor de início súbito em membro inferior direito há 3 horas. A frequência cardíaca é 120 bpm e a PA: 180 × 90 mmHg. A extremidade inferior direita está fria e pálida, com dé cits motor e sensitivo. O pulso femoral neste membro está ausente, sendo que no membro inferior esquerdo todos os pulsos estão presentes. Conduta inicial mais apropriada, após a administração de heparina sistêmica:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Trombólise sistêmica por acesso venoso periférico."
+    },
+    {
+     "letra": "B",
+     "texto": "Angiografia no setor de hemodinâmica."
+    },
+    {
+     "letra": "C",
+     "texto": "Tromboembolectomia cirúrgica imediata."
+    },
+    {
+     "letra": "D",
+     "texto": "Trombólise intra-arterial local por cateter."
+    },
+    {
+     "letra": "E",
+     "texto": "Duplex scan para localizar a lesão obstrutiva."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000124475",
+   "codigo": "4000124475",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 67,
+   "temas": [
+    "Fibrilação Atrial",
+    "Aneurismas Arteriais",
+    "Trombose Venosa Prof unda TVP"
+   ],
+   "enunciado": "Considere as assertivas abaixo sobre embolia arterial aguda: I - O êmbolo arterial frequentemente origina-se do átrio esquerdo na fibrilação atrial; II. - Em paciente com trombose venosa profunda e defeito no septo interatrial, pode ocorrer embolia arterial paradoxal; III. - O êmbolo pode originar-se em um aneurisma arterial. Quais são CORRETAS?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Apenas I."
+    },
+    {
+     "letra": "B",
+     "texto": "Apenas II."
+    },
+    {
+     "letra": "C",
+     "texto": "Apenas III."
+    },
+    {
+     "letra": "D",
+     "texto": "Apenas I e II."
+    },
+    {
+     "letra": "E",
+     "texto": "I, II e III."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000124469",
+   "codigo": "4000124469",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 68,
+   "temas": [
+    "Anticoagulação",
+    "Filtro de Veia Cava",
+    "Cirurgia"
+   ],
+   "enunciado": "Considere as medidas abaixo: I - Deambulação precoce, uso de meia elástica e compressão intermitente; II. - Uso de filtro de veia cava; III. - Uso de heparina. Quais delas estão indicadas para profilaxia de trombose venosa profunda em pacientes cirúrgicos?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Apenas I."
+    },
+    {
+     "letra": "B",
+     "texto": "Apenas II."
+    },
+    {
+     "letra": "C",
+     "texto": "Apenas III."
+    },
+    {
+     "letra": "D",
+     "texto": "Apenas I e III."
+    },
+    {
+     "letra": "E",
+     "texto": "I, II e III."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000121123",
+   "codigo": "4000121123",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 69,
+   "temas": [
+    "Cirurgia",
+    "Síndrome Compartimental"
+   ],
+   "enunciado": "Na síndrome da revascularização, após desobstrução arterial aguda no membro inferior, o paciente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Apresenta alcalose metabólica e hipopotassemia refratária."
+    },
+    {
+     "letra": "B",
+     "texto": "Pode evoluir com edema muscular do membro acometido e necessidade de fasciotomia precoce."
+    },
+    {
+     "letra": "C",
+     "texto": "Deve ser mantido antiagregado com rivaroxabana no pós-operatório imediato para evitar retrombose."
+    },
+    {
+     "letra": "D",
+     "texto": "Apresenta lise espontânea do coágulo quando sua origem é embólica, com evolução mais favorável do que casos de origem trombótica."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000121116",
+   "codigo": "4000121116",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 70,
+   "temas": [
+    "Trauma Vascular de Extremidades",
+    "Cirurgia"
+   ],
+   "enunciado": "Qual das veias não pode ser ligada (laqueada)?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Veia cava acima das renais."
+    },
+    {
+     "letra": "B",
+     "texto": "Veia cava abaixo das renais."
+    },
+    {
+     "letra": "C",
+     "texto": "Veia jugular interna."
+    },
+    {
+     "letra": "D",
+     "texto": "Veia esplênica."
+    },
+    {
+     "letra": "E",
+     "texto": "Veia ilíaca interna."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000111050",
+   "codigo": "4000111050",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 71,
+   "temas": [
+    "Cirurgia"
+   ],
+   "enunciado": "Marque a alternativa correta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Os aneurismas podem ser classificados em Stanford A e Stanford B."
+    },
+    {
+     "letra": "B",
+     "texto": "Depois da aorta, o vaso mais comumente afetado pelos aneurismas é a artéria mesentérica superior."
+    },
+    {
+     "letra": "C",
+     "texto": "A tríade clássica de ruptura de um aneurisma é de dor abdominal, hipertensão e massa abdominal palpável."
+    },
+    {
+     "letra": "D",
+     "texto": "O tipo de aneurisma aórtico mais comum é o infrarrenal, que é inclusive o tipo de aneurisma mais fácil de ser corrigido através de reparo endovascular."
+    },
+    {
+     "letra": "E",
+     "texto": "O pseudoaneurisma é aquele que contém apenas as camadas íntima, média e adventícia da parede arterial."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000104773",
+   "codigo": "4000104773",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 72,
+   "temas": [
+    "Apresentação Clínica",
+    "Cirurgia"
+   ],
+   "enunciado": "Mulher, 54 anos, com aparecimento de lesão ulcerada há um ano em terço distal da face medial da perna direita de crescimento progressivo (figuras abaixo). Relata ainda que a úlcera é muito exsudativa e dolorosa, principalmente quando ca por longos períodos em pé, com melhora da dor ao repouso. Possui hipertensão arterial bem controlada em uso de atenolol. A temperatura local é sempre aumentada em relação ao lado contralateral e tem hiperestesia próximo à lesão. Apresenta também dermatofibrose e pulsos distais de difícil palpação pela fibrose local. Qual a provável etiologia desta lesão?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Úlcera isquêmica por arteriopatia."
+    },
+    {
+     "letra": "B",
+     "texto": "Úlcera flebopática por insuficiência venosa."
+    },
+    {
+     "letra": "C",
+     "texto": "Úlcera proliferativa pré-neoplásica."
+    },
+    {
+     "letra": "D",
+     "texto": "Úlcera hipertensiva de Martorell."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q072-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000104554",
+   "codigo": "4000104554",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 73,
+   "temas": [
+    "Amputação do Membro",
+    "Cirurgia"
+   ],
+   "enunciado": "Mulher, 55 anos, com dor de início súbito e frialdade em membro inferior direito principalmente em pé e panturrilha há 3 dias. Procurou pronto atendimento há 1 dia sendo medicada com anti-inflamatórios, sem melhora. Foi regulada para hospital de referência, onde chegou com melhora parcial da dor e em uso de mor na, frialdade de toda perna e pé direito, com áreas de cianose fixa entremeadas com palidez completa de tecidos do pé direito e terço distal da perna. Apresentava rigidez do tendão calcâneo e dos tendões do dorso do pé, ausência de sensibilidade e ausência de pulsos poplíteo, pedioso e tibial posterior neste membro. Qual quadro sindrômico, estádio clínico e conduta imediata?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Obstrução arterial aguda em fase de membro inviável, com indicação de amputação primária."
+    },
+    {
+     "letra": "B",
+     "texto": "Flegmasia alba dolens em fase de membro marginalmente ameaçado, com indicação de fibrinólise, filtro de veia cava inferior e vasodilatadores."
+    },
+    {
+     "letra": "C",
+     "texto": "Obstrução arterial aguda em fase de membro imediatamente ameaçado, com indicação de tromboembolectomia de emergência."
+    },
+    {
+     "letra": "D",
+     "texto": "Flegmasia cerúlea dolens em fase de síndrome compartimental, com indicação de trombectomia venosa de emergência, fasciotomia e posterior anticoagulação."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q073-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000103262",
+   "codigo": "4000103262",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 74,
+   "temas": [
+    "Anticoagulação",
+    "Cirurgia"
+   ],
+   "enunciado": "Mulher de 28 anos de idade, com dois meses de gestação, deu entrada no pronto socorro com quadro clínico de trombose venosa profunda do membro inferior direito confirmado pelo ultrassom, é correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Realizar a ligadura da veia cava inferior para evitar embolia pulmonar."
+    },
+    {
+     "letra": "B",
+     "texto": "Realizar o tratamento com Warfarina 0,5mg por kilograma de peso."
+    },
+    {
+     "letra": "C",
+     "texto": "Tratamento com heparina de baixo peso molecular subcutânea até o final da gravidez."
+    },
+    {
+     "letra": "D",
+     "texto": "Realizar a pesquisa de trombofilia antes do tratamento."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000103192",
+   "codigo": "4000103192",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 75,
+   "temas": [
+    "Cirurgia",
+    "Tratamento Cirúrgico do Aneurisma de Aorta Abdominal e Complicações Pósoperatórias"
+   ],
+   "enunciado": "Homem de 70 anos de idade, hipertenso e tabagista, realizou consulta ambulatorial de rotina na qual foi constatada uma massa pulsátil indolor em mesogástrio. Foi solicitado exame de imagem, cujo resultado está apresentado nas fotos a seguir. Dentre as alternativas abaixo, qual está CORRETA sobre o caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Trata-se de aneurisma da aorta abdominal e a presença de trombo pode ser indicação de iminência de rotura e, portanto, deve ser operado imediatamente."
+    },
+    {
+     "letra": "B",
+     "texto": "Trata-se de aneurisma da aorta abdominal cujo reparo pode ser feito por técnica cirúrgica convencional ou endovascular."
+    },
+    {
+     "letra": "C",
+     "texto": "Trata-se de aneurisma da aorta abdominal porém não tem indicação cirúrgica devido ao tamanho."
+    },
+    {
+     "letra": "D",
+     "texto": "Trata-se de aneurisma na transição toracoabdominal da aorta e seu tratamento deve ser feito por reparo convencional com toracofrenolaparotomia."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q075-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000099203",
+   "codigo": "4000099203",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 76,
+   "temas": [
+    "Classif icação dos Sintomas",
+    "Cirurgia"
+   ],
+   "enunciado": "Um paciente do sexo masculino de 68 anos procurou o ambulatório de cirurgia vascular com queixa de claudicação intermitente em membro inferior direito ao deambular aproximadamente 250 metros. Como antecedentes o paciente apresentava hipertensão arterial sistêmica controlada com duas classes de anti-hipertensivos, tabagismo de 1 maço/dia por 40 anos e negava diabetes mellitus. Ao exame físico vascular: membro inferior esquerdo: pulso femoral 2+/4; pulso poplíteo; tibial posterior e pedioso não palpáveis; membro inferior direito: pulsos femoral; poplíteo; tibial posterior e pedioso não palpáveis; boa perfusão de ambos os membros e sem gradiente térmico. Segundo a classificação de Fontaine da doença aterosclerótica obstrutiva periférica, qual o estágio da doença e qual é o tratamento.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Estágio II, tratamento clínico."
+    },
+    {
+     "letra": "B",
+     "texto": "Estágio III, tratamento clínico."
+    },
+    {
+     "letra": "C",
+     "texto": "Estágio II, angioplastia."
+    },
+    {
+     "letra": "D",
+     "texto": "Estágio III, angioplastia."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000099164",
+   "codigo": "4000099164",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 77,
+   "temas": [
+    "Diagnóstico",
+    "Cirurgia"
+   ],
+   "enunciado": "Um paciente do sexo masculino de 68 anos procurou o ambulatório de cirurgia vascular com queixa de claudicação intermitente em membro inferior direito ao deambular aproximadamente 250 metros. Como antecedentes o paciente apresentava hipertensão arterial sistêmica controlada com duas classes de anti-hipertensivos, tabagismo de 1 maço/dia por 40 anos e negava diabetes mellitus. Ao exame físico vascular: membro inferior esquerdo: pulso femoral 2+/4; pulso poplíteo; tibial posterior e pedioso não palpáveis; membro inferior direito: pulsos femoral; poplíteo; tibial posterior e pedioso não palpáveis; boa perfusão de ambos os membros e sem gradiente térmico. Durante esta primeira avaliação, qual o método diagnóstico mais adequado a ser utilizado?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Índice tornozelo-braquial."
+    },
+    {
+     "letra": "B",
+     "texto": "Ultrassonografia com doppler colorido."
+    },
+    {
+     "letra": "C",
+     "texto": "Arteriografia digital por subtração."
+    },
+    {
+     "letra": "D",
+     "texto": "Angiotomografia computadorizada."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000098278",
+   "codigo": "4000098278",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 78,
+   "temas": [
+    "Apêndice Anatomia",
+    "Cirurgia"
+   ],
+   "enunciado": "Em relação à constituição dos vasos sanguíneos do sistema circulatório, assinale a alternativa INCORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Os capilares são formados apenas pela tûnica íntima e uma membrana basal desustentação."
+    },
+    {
+     "letra": "B",
+     "texto": "A túnica média é a camada intermediária que consiste basicamente em músculoestriado."
+    },
+    {
+     "letra": "C",
+     "texto": "A túnica externa é uma bainha de tecido conjuntivo."
+    },
+    {
+     "letra": "D",
+     "texto": "A túnica íntima é o revestimento interno formado por uma única camada de célulasepiteliais muito achatadas chamada endotélio."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000091225",
+   "codigo": "4000091225",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 79,
+   "temas": [
+    "Fatores de Risco",
+    "Cirurgia"
+   ],
+   "enunciado": "Paciente do sexo masculino, 63 anos de idade, tabagista há 38 anos, fumando um maço/dia, etilista há 42 anos, 500 mL de cachaça/semana, sedentário, em uso de losartana 50 mg, hidroclorotiazida 25 mg, anlodipina 5mg, metformina 850 mg e glibenclamida 10 mg, queixando-se de dor, que se inicia em panturrilha e progride para as coxas quando faz caminhadas no plano ou quando tenta subir qualquer distância em planos inclinados, associada à impotência sexual por disfunção erétil. À ectoscopia, o paciente apresentava rarefação distal de pelos e palidez em pés à elevação dos membros a 20 graus. Foi percebida, ainda, musculatura hipotró ca de pernas e coxas, discreta hipotermia em extremidades e ausência de pulsos femorais e distais. A mais provável associação dos fatores de risco que levou o paciente a apresentar essa doença foi",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "diabetes mellitus e etilismo."
+    },
+    {
+     "letra": "B",
+     "texto": "tabagismo e sedentarismo."
+    },
+    {
+     "letra": "C",
+     "texto": "hipertensão arterial, tabagismo e diabetes mellitus."
+    },
+    {
+     "letra": "D",
+     "texto": "hipertensão arterial, etilismo e sedentarismo."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000078425",
+   "codigo": "4000078425",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 80,
+   "temas": [
+    "Estenose Carotídea",
+    "Cirurgia"
+   ],
+   "enunciado": "Homem, 78 anos, apresenta amaurose fugaz em olho direito. O exame melhor indicado para avaliação inicial deste paciente é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Angiotomografia de carótidas."
+    },
+    {
+     "letra": "B",
+     "texto": "Ecodoppler de artérias carótidas."
+    },
+    {
+     "letra": "C",
+     "texto": "Angiorressonância de carótidas."
+    },
+    {
+     "letra": "D",
+     "texto": "Arteriografia de troncos supra-aórticos."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000078401",
+   "codigo": "4000078401",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 81,
+   "temas": [
+    "Conduta nos Aneurismas de Aorta Abdominal",
+    "Cirurgia"
+   ],
+   "enunciado": "Homem, 72 anos, apresenta em Ultrassonogra a (USG) abdominal de rotina aneurisma de aorta abdominal infrarrenal, sacular, com 3,5 cm de diâmetro. A conduta mais adequada é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Internação imediata para tratamento cirúrgico de urgência."
+    },
+    {
+     "letra": "B",
+     "texto": "Solicitar angiotomografia para programação cirúrgica eletiva."
+    },
+    {
+     "letra": "C",
+     "texto": "Acompanhamento com USG semestral."
+    },
+    {
+     "letra": "D",
+     "texto": "Acompanhamento com TC abdome anual."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000066934",
+   "codigo": "4000066934",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 82,
+   "temas": [
+    "Oclusão Arterial Aguda OAA",
+    "Cirurgia"
+   ],
+   "enunciado": "A trombose arterial aguda periférica acomete mais comumente a artéria:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "femoral superficial."
+    },
+    {
+     "letra": "B",
+     "texto": "femoral profunda."
+    },
+    {
+     "letra": "C",
+     "texto": "carótida comum."
+    },
+    {
+     "letra": "D",
+     "texto": "axilar."
+    },
+    {
+     "letra": "E",
+     "texto": "poplítea."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000050734",
+   "codigo": "4000050734",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 83,
+   "temas": [
+    "Conf irmação Diagnóstica",
+    "Cirurgia"
+   ],
+   "enunciado": "A patogênese da formação de um aneurisma é complexa. A maior parte esta associado a aterosclerose. Em relação aos aneurismas de aorta abdominal, assinale a assertiva correta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Estes aneurismas se localizam mais frequentemente na aorta suprarrenal."
+    },
+    {
+     "letra": "B",
+     "texto": "A apresentação típica de um aneurisma abdominal roto é a claudicação intermitente."
+    },
+    {
+     "letra": "C",
+     "texto": "A tomografia computadorizada é o teste mais preciso para investigar estes aneurismas."
+    },
+    {
+     "letra": "D",
+     "texto": "Para pacientes com aneurismas abdominais de alto risco o tratamento deve ser clínico e realizado com modificações dos hábitos de vida."
+    },
+    {
+     "letra": "E",
+     "texto": "A triagem destes aneurismas deve ser realizada anualmente com angiografia tridimensional em homens obesos e tabagistas com mais de 60 anos de idade."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000037588",
+   "codigo": "4000037588",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 84,
+   "temas": [
+    "Anticoagulação",
+    "Cirurgia"
+   ],
+   "enunciado": "Paciente, 69 anos, mulher, afrodescendente, foi submetida à pancreatectomia corpo- caudal laparotômica por neoplasia há 13 dias, tendo recebido alta hospitalar no sexto dia pós-operatório. Procura atendimento em unidade secundária de pronto atendimento, em uma sexta-feira a noite, com queixa de dor em perna esquerda associada a edema exclusivo da mesma e febre não aferida havia 18 horas. Nesta unidade, nos nais de semana, só há disponibilidade de exames laboratoriais e radiografias simples. Considerando o provável diagnóstico, qual seria a melhor conduta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Internação com sintomáticos até doppler de membros inferiores na segunda-feira."
+    },
+    {
+     "letra": "B",
+     "texto": "Internação e solicitação de transferência urgente para serviço terciário."
+    },
+    {
+     "letra": "C",
+     "texto": "Internação com início de enoxaparina, 60mg, a cada 12 horas."
+    },
+    {
+     "letra": "D",
+     "texto": "Internação com início de warfarina, 5mg/dia."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000020958",
+   "codigo": "4000020958",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 85,
+   "temas": [
+    "Apresentação Clínica",
+    "Cirurgia"
+   ],
+   "enunciado": "Na classificação de Fontaine relativa à doença arterial obstrutiva periférica (DAOP), a claudicação intermitente moderada classifica-se como",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I"
+    },
+    {
+     "letra": "B",
+     "texto": "II a"
+    },
+    {
+     "letra": "C",
+     "texto": "II b"
+    },
+    {
+     "letra": "D",
+     "texto": "III"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000018589",
+   "codigo": "4000018589",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 86,
+   "temas": [
+    "Doença Venosa Crônica",
+    "Cirurgia"
+   ],
+   "enunciado": "Paciente de 48 anos, portadora de varizes em membros inferiores, procura atendimento em unidade de saúde com queixas de dor nas pernas, com sensação de cansaço. Refere edema dos membros inferiores, principalmente no membro inferior esquerdo. Ao exame físico, observam-se edema 2+/4+ no membro inferior esquerdo e presença de varizes em ambos os membros inferiores, mas preponderantes no esquerdo. Em seu histórico, foi mãe de três lhos e nega passado de trombose venosa ou arterial. Qual é a provável causa de acometimento venoso mais acentuado à esquerda?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Síndrome de Maffucci."
+    },
+    {
+     "letra": "B",
+     "texto": "Síndrome de Martorell."
+    },
+    {
+     "letra": "C",
+     "texto": "Síndrome de Cocket-May-Turner."
+    },
+    {
+     "letra": "D",
+     "texto": "Síndrome de Klippel-T renauney."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000004314",
+   "codigo": "4000004314",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 87,
+   "temas": [
+    "Filtro de Veia Cava",
+    "Filtro de veia cava inf erior"
+   ],
+   "enunciado": "Paciente, 40 anos de idade, com quadro de trombose venosa profunda do membro inferior direito, sob tratamento adequado com heparina. Apresenta quadro de embolia pulmonar, hemodinamicamente estável. Ao mapeamento Doppler constata-se trombo não aderido na veia ilíaca direita. Qual a melhor conduta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Trombectomia venosa"
+    },
+    {
+     "letra": "B",
+     "texto": "Substituir a heparina por anticoagulante oral."
+    },
+    {
+     "letra": "C",
+     "texto": "Filtro de cava abaixo das veias renais."
+    },
+    {
+     "letra": "D",
+     "texto": "Associar antiagregante plaquetário"
+    },
+    {
+     "letra": "E",
+     "texto": "Terapia fibrinolítica."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000004278",
+   "codigo": "4000004278",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 88,
+   "temas": [
+    "Classif icação de TASC II",
+    "Cirurgia"
+   ],
+   "enunciado": "Paciente, 74 anos de idade, refere lesão distró ca na perna direita há 1 mês. Na arteriogra a observa-se lesão no território aorto-ilíaco à direita, TASC A. Para esta classificação do TASC (Transatlantic Inter-Society Consensus), a melhor conduta é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cirurgia aberta com prótese de dacron."
+    },
+    {
+     "letra": "B",
+     "texto": "Tratamento endovascular"
+    },
+    {
+     "letra": "C",
+     "texto": "Tratamento endovascular combinado com a cirurgia aberta."
+    },
+    {
+     "letra": "D",
+     "texto": "Tratamento clínico."
+    },
+    {
+     "letra": "E",
+     "texto": "Cirurgia aberta com veia safena"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000004195",
+   "codigo": "4000004195",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 89,
+   "temas": [
+    "Terapia Def initiva",
+    "Tromboembolismo Arterial",
+    "Cirurgia"
+   ],
+   "enunciado": "Paciente, 60 anos de idade, com antecedente de infarto agudo do miocárdio há 1 ano, refere dor e esfriamento (sic) do membro inferior esquerdo há 4 horas. Nega antecedentes de claudicação prévia. Exame físico: ausência de pulso da artéria femoral esquerda para baixo e membro contralateral com pulsos normais. Qual a hipótese mais provável e a conduta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Embolia arterial aguda; tratamento endovascular."
+    },
+    {
+     "letra": "B",
+     "texto": "Trombose arterial aguda; revascularização com safena."
+    },
+    {
+     "letra": "C",
+     "texto": "Trombose arterial aguda; tratamento endovascular."
+    },
+    {
+     "letra": "D",
+     "texto": "Embolia arterial aguda; heparinização."
+    },
+    {
+     "letra": "E",
+     "texto": "Trombose arterial aguda; heparinização."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000000911",
+   "codigo": "4000000911",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 90,
+   "temas": [
+    "Filtro de Veia Cava",
+    "Filtro de veia cava inf erior",
+    "Cirurgia"
+   ],
+   "enunciado": "Sobre o filtro de veia cava inferior, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Uma vez colocado, ele não é mais removido."
+    },
+    {
+     "letra": "B",
+     "texto": "Faz parte da terapia da trombose venosa em todos os casos."
+    },
+    {
+     "letra": "C",
+     "texto": "Em gestantes o implante do filtro pode ser acima das veias renais."
+    },
+    {
+     "letra": "D",
+     "texto": "É imprescindível o uso de sala de hemodinâmica para o implante."
+    },
+    {
+     "letra": "E",
+     "texto": "A oclusão da veia cava inferior a longo prazo é rara, dada a anticoagulação utilizada pelos pacientes."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119892",
+   "codigo": "4000119892",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 91,
+   "temas": [
+    "Manif estações Clínicas",
+    "Medidas Iniciais",
+    "Cirurgia"
+   ],
+   "enunciado": "Homem de 60 anos apresenta claudicação em membro inferior direito para andar 50 metros. Há 1 mês, sofreu trauma em hálux direito que desencadeou ferida que ainda não cicatrizou. AP: tabagista, HAS e DM tipo II. EF: do membro inferior direito: presença de pulsos palpáveis (4+/4) até região de poplítea, sem pulsos distais. Além dos cuidados locais com a ferida, a conduta mais adequada deve ser",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "cilostozol, antibioticoterapia e reavaliação após 1 mês."
+    },
+    {
+     "letra": "B",
+     "texto": "US duplex e, se pelo menos uma das artérias distais apresentarem índice de 0,8, manter observação ambulatorial, com retorno em 3 meses."
+    },
+    {
+     "letra": "C",
+     "texto": "angiografia (se não tiver restrição ao contraste), sendo possível realizar angioplastia distal."
+    },
+    {
+     "letra": "D",
+     "texto": "anticoagulação plena com o objetivo de prevenir a piora da lesão."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000115672",
+   "codigo": "4000115672",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 92,
+   "temas": [
+    "Cirurgia",
+    "Síndrome Compartimental"
+   ],
+   "enunciado": "Um homem de 70 anos de idade, com antecedente de brilação atrial crônica, chega para avaliação com quadro de isquemia aguda grave de membro inferior esquerdo. Foi submetido a embolectomia arterial com sucesso, sendo restabelecidos os pulsos distais. Cerca de uma hora após o término da cirurgia, começou a apresentar edema tenso na perna, dor na panturrilha, parestesia e dificuldade para fazer a dorsiflexão ativa do pé. Melhor conduta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Fasciotomia ampla dos compartimentos da perna."
+    },
+    {
+     "letra": "B",
+     "texto": "Nova embolectomia."
+    },
+    {
+     "letra": "C",
+     "texto": "Ultrassom Doppler venoso de perna."
+    },
+    {
+     "letra": "D",
+     "texto": "Vasodilatadores por via intravenosa."
+    },
+    {
+     "letra": "E",
+     "texto": "Elevação do membro inferior esquerdo e uso de meia elástica."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000105064",
+   "codigo": "4000105064",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 93,
+   "temas": [
+    "Tratamento Clínico",
+    "Cirurgia"
+   ],
+   "enunciado": "Mulher de 55 anos de idade, hipertensa e tabagista. Refere que há 6 meses iniciou quadro de dor progressiva na panturrilha direita ao deambular, impedindo mais de 300 metros de caminhada. Ao exame clínico apresenta pulso femoral presente, pulsos poplíteo e distais ausentes no membro afetado. Traz consigo exame de duplex scan mostrando oclusão de artéria femoral no canal dos adutores e fluxo reduzido em artérias distais. Além de cessar o tabagismo, qual a conduta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Internar para revascularização de urgência."
+    },
+    {
+     "letra": "B",
+     "texto": "Iniciar anticoagulação sistêmica plena."
+    },
+    {
+     "letra": "C",
+     "texto": "Preparar para revascularização eletiva."
+    },
+    {
+     "letra": "D",
+     "texto": "Iniciar caminhadas, antiagregantes e estatinas."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000102357",
+   "codigo": "4000102357",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 94,
+   "temas": [
+    "Apresentação Clínica",
+    "Cirurgia"
+   ],
+   "enunciado": "Mulher, 55 anos, obesa (IMC=32) e hipertensa com queixa de aparecimento de úlcera em face medial da perna direita há três meses após picada de inseto. Ao exame apresentava-se com pulsos distais amplos e palpáveis e varizes calibrosas em perna direita. Úlcera de 3 x 4 cm de diâmetro, pouco dolorosa, bordos elevados e muito exsudativa. Qual a melhor conduta para acelerar a cicatrização e evitar recidiva neste caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Desbridamento de ferida, curativos diários e terapia com câmara hiperbárica."
+    },
+    {
+     "letra": "B",
+     "texto": "Drenagem postural e enxertia de pele após controle adequado de hipertensão."
+    },
+    {
+     "letra": "C",
+     "texto": "Arteriografia para melhor avaliação de leito arterial e possível revascularização."
+    },
+    {
+     "letra": "D",
+     "texto": "Ultrassom venoso e programação cirúrgica das varizes."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q094-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000099137",
+   "codigo": "4000099137",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 95,
+   "temas": [
+    "Aneurismas Rotos",
+    "Cirurgia"
+   ],
+   "enunciado": "Os Aneurismas da Aorta Abdominal (AAA) são de importância especial por se tratar daqueles mais frequentes na prática clínica. Na maioria das vezes são assintomáticos e detectados em exames de rotina ou de forma ocasional. Qual o principal fator de risco de ruptura do AAA?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Extensão."
+    },
+    {
+     "letra": "B",
+     "texto": "Diâmetro."
+    },
+    {
+     "letra": "C",
+     "texto": "Localização."
+    },
+    {
+     "letra": "D",
+     "texto": "Presença de Trombo."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000099113",
+   "codigo": "4000099113",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 96,
+   "temas": [
+    "Cirurgia Vascular",
+    "Cirurgia"
+   ],
+   "enunciado": "O tratamento endovascular é uma modalidade amplamente difundida e praticada em nosso meio. Uma das principais vias de acesso para a sua realização é a punção e cateterização da artéria femoral. Por se tratar de um procedimento invasivo, não é isento de complicações. Assinale qual a complicação mais comum na realização deste procedimento.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Formação de fístula arteriovenosa."
+    },
+    {
+     "letra": "B",
+     "texto": "Embolização distal."
+    },
+    {
+     "letra": "C",
+     "texto": "Formação de pseudoaneurisma."
+    },
+    {
+     "letra": "D",
+     "texto": "Formação de hematoma."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000096541",
+   "codigo": "4000096541",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 97,
+   "temas": [
+    "Apresentação Clínica",
+    "Cirurgia"
+   ],
+   "enunciado": "Sintomas de dores, formigamento e cãibras ao nível das panturrilhas que pioram com a deambulação e melhoram com o repouso podem corresponder à oclusão arterial crônica em que nível arterial?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Artéria ilíaca externa."
+    },
+    {
+     "letra": "B",
+     "texto": "Artéria ilíaca comum."
+    },
+    {
+     "letra": "C",
+     "texto": "Artéria femoral."
+    },
+    {
+     "letra": "D",
+     "texto": "Aorta distal."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000096263",
+   "codigo": "4000096263",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 98,
+   "temas": [
+    "Apêndice Anatomia",
+    "Cirurgia"
+   ],
+   "enunciado": "Assinale a alternativa INCORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A veia safena magna ascende na perna e na coxa recebendo várias tributárias e se comunicando em vários pontos com a safena parva até desembocar na veia ilíaca externa."
+    },
+    {
+     "letra": "B",
+     "texto": "A veia safena magna é a mais longa dor corpo, ascende do pé até a virilha no tecido conjuntivo subcutâneo."
+    },
+    {
+     "letra": "C",
+     "texto": "A veia safena magna é formada no arco venoso dorsal do pé e segue na frente domaléolo medial da tíbia, onde é acompanhada pelo nervo safeno."
+    },
+    {
+     "letra": "D",
+     "texto": "Perto do seu término, a veia safena magna recebe as veias circunflexa ilíaca superficial,epigástrica superficial e pudenda externa."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000096157",
+   "codigo": "4000096157",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 99,
+   "temas": [
+    "Aneurismas Arteriais",
+    "Cirurgia"
+   ],
+   "enunciado": "Qual artéria origina-se da artéria ilíaca externa imediatamente superior ao ligamento inguinal, segue na fáscia transversal para entrar na bainha do músculo reto do abdome abaixo da linha arqueada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Epigástrica inferior."
+    },
+    {
+     "letra": "B",
+     "texto": "Epigástrica superior."
+    },
+    {
+     "letra": "C",
+     "texto": "Circunflexa ilíaca superficial."
+    },
+    {
+     "letra": "D",
+     "texto": "Músculo frênica superficial."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000091957",
+   "codigo": "4000091957",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 100,
+   "temas": [
+    "Cirurgia",
+    "Trombof lebite"
+   ],
+   "enunciado": "Paciente previamente hígida veio à emergência com 2 dias de evolução de dor em trajetos varicosos hiperemiados e endurecidos na face medial da perna, sem edema significativo. A partir do diagnóstico mais provável, considere os tratamentos abaixo. I- Tratamento com anticoagulante. II- Tratamento com antibióticos e cobertura para bactérias Gram-positivas. III- Tratamento com anti-inflamatório não esteroide. Quais deles devem ser instituídos?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Apenas I."
+    },
+    {
+     "letra": "B",
+     "texto": "Apenas II."
+    },
+    {
+     "letra": "C",
+     "texto": "Apenas III."
+    },
+    {
+     "letra": "D",
+     "texto": "Apenas I e III."
+    },
+    {
+     "letra": "E",
+     "texto": "I, II e III."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000091752",
+   "codigo": "4000091752",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 101,
+   "temas": [
+    "Cirurgia",
+    "Tratamento Cirúrgico do Aneurisma de Aorta Abdominal e Complicações Pósoperatórias"
+   ],
+   "enunciado": "Paciente de 63 anos, tabagista, com hipertensão não controlada e histórico familiar de aneurisma, foi diagnosticada com aneurisma da aorta abdominal infrarrenal de 7,3 cm de diâmetro. Os exames de avaliação pré-operatória mostraram doença pulmonar obstrutiva crônica moderada e fração de ejeção de 53%: ecocardiograma de estresse com dipiridamol não revelou alterações significativas; e a avaliação da função renal indicou taxa de filtração glomerular de 70 ml/min/1,73 m². Em relação ao tratamento de aneurisma, assinale a assertiva CORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Só deverá ser realizada intervenção para corrigir o aneurisma se houver controle do tabagismo e da hipertensão."
+    },
+    {
+     "letra": "B",
+     "texto": "Serão necessários mais exames complementares para se avaliar o risco perioperatório e, assim, decidir sobre a necessidade de intervenção."
+    },
+    {
+     "letra": "C",
+     "texto": "Independentemente da anatomia do aneurisma, tratamento endovascular é o padrão-ouro para todas as situações por apresentar melhores resultados a longo prazo."
+    },
+    {
+     "letra": "D",
+     "texto": "Para pacientes como esta, deve ser oferecido tratamento de correção do aneurisma por técnica cirúrgica convencional ou endovascular. A decisão será baseada na anatomia e na experiência da equipe cirúrgica que irá conduzir o tratamento."
+    },
+    {
+     "letra": "E",
+     "texto": "Farmacoterapia, incluindo estatina, bloqueador dos canais de cálcio, inibidor da enzima conversora da angiotensina, antiplaquetário e antibiótico (doxiciclina), deve ser iniciada. Se a taxa de crescimento anual for inferior a 4 mm, poderá ser oferecido tratamento conservador com ultrassonografia de acompanhamento a cada 6 meses."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000088263",
+   "codigo": "4000088263",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 102,
+   "temas": [
+    "Aneurismas Arteriais",
+    "Cirurgia",
+    "Fisiopatologia e Evolução Natural"
+   ],
+   "enunciado": "Dos fatores abaixo, qual o mais comumente relacionado à etiologia dos aneurismas de aorta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Sífilis"
+    },
+    {
+     "letra": "B",
+     "texto": "Salmonelose"
+    },
+    {
+     "letra": "C",
+     "texto": "Aterosclerose"
+    },
+    {
+     "letra": "D",
+     "texto": "Diabetes mellitus."
+    },
+    {
+     "letra": "E",
+     "texto": "Hipertensão arterial sistêmica."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000081578",
+   "codigo": "4000081578",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 103,
+   "temas": [
+    "Tromboembolismo Arterial",
+    "Cirurgia"
+   ],
+   "enunciado": "Um paciente de 44 anos, com antecedentes de arritmia cardíaca, foi submetido a uma troca de válvula mitral durante a manhã e, na madrugada, apresenta intensa dor e incapacidade para realizar a dorso exão dos dedos do pé direito, além de cianose. O tratamento com analgésico e aquecimento do membro inferior foi ineficaz. O diagnóstico mais provável é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "T.V.P."
+    },
+    {
+     "letra": "B",
+     "texto": "Embolia arterial."
+    },
+    {
+     "letra": "C",
+     "texto": "Síndrome do compartimento anterior."
+    },
+    {
+     "letra": "D",
+     "texto": "Síndrome da pedrada."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000081517",
+   "codigo": "4000081517",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 104,
+   "temas": [
+    "Apresentação Clínica",
+    "Cirurgia"
+   ],
+   "enunciado": "Um professor de 44 anos de idade queixa-se de sensação de dor em queimação há cerca de 2 anos, na perna esquerda, com acentuação vespertina e cãibras noturnas. O exame físico do membro inferior esquerdo mostrou edema 3+ em 4+, hiperpigmentação em terço inferior da perna, microvarizes em região maleolar esquerda. Ele informa que há três anos sofreu acidente de moto que resultou em fratura da fíbula esquerda. Para esse paciente, o diagnóstico atual é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Insuficiência venosa primária."
+    },
+    {
+     "letra": "B",
+     "texto": "Síndrome isquêmica crônica."
+    },
+    {
+     "letra": "C",
+     "texto": "Varizes secundárias."
+    },
+    {
+     "letra": "D",
+     "texto": "Linfedema."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000057830",
+   "codigo": "4000057830",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 105,
+   "temas": [
+    "Tromboembolismo Arterial",
+    "Cirurgia"
+   ],
+   "enunciado": "O local mais comum de oclusão arterial aguda por êmbolo é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Bifurcação da artéria femoral comum."
+    },
+    {
+     "letra": "B",
+     "texto": "Artéria femoral superficial ao nível do canal dos adutores."
+    },
+    {
+     "letra": "C",
+     "texto": "Bifurcação da artéria ilíaca comum."
+    },
+    {
+     "letra": "D",
+     "texto": "Bifurcação da artéria poplítea."
+    },
+    {
+     "letra": "E",
+     "texto": "Artéria braquial."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000057817",
+   "codigo": "4000057817",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 106,
+   "temas": [
+    "Classif icação Clínica CEAP",
+    "Cirurgia"
+   ],
+   "enunciado": "A categoria C5 da classificação CEAP sobre insuficiência venosa crônica significa:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Alterações da pele (hiperpigmentação, eczema e lipodermatoesclerose)."
+    },
+    {
+     "letra": "B",
+     "texto": "alterações de pele com úlcera ativa."
+    },
+    {
+     "letra": "C",
+     "texto": "Alterações de pele com úlcera cicatrizada."
+    },
+    {
+     "letra": "D",
+     "texto": "Varizes sem alteração de pele."
+    },
+    {
+     "letra": "E",
+     "texto": "Edema sem alterações de pele."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046662",
+   "codigo": "4000046662",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 107,
+   "temas": [
+    "Trombose Venosa Prof unda TVP",
+    "Cirurgia"
+   ],
+   "enunciado": "Paciente masculino, 55 anos, no 5° pós-operatório de colectomia esquerda por adenocarcinoma de cólon sigmoide, inicia com queixa de dor e edema em panturrilha esquerda. Assinale a alternativa correta em relação a este caso clínico.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A elevação do D-dímero confirma o diagnóstico deste paciente."
+    },
+    {
+     "letra": "B",
+     "texto": "A complicação ocorrida neste paciente ocorre por deambulação precoce."
+    },
+    {
+     "letra": "C",
+     "texto": "O início deste quadro clínico indica a necessidade de realizar a profilaxia antitrombótica."
+    },
+    {
+     "letra": "D",
+     "texto": "A etiologia desta complicação envolve estase venosa, lesão endotelial e hipercoagulabilidade."
+    },
+    {
+     "letra": "E",
+     "texto": "Confirmado o diagnóstico desta complicação, é necessário a realização de uma tomografia computadorizada de tórax."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046590",
+   "codigo": "4000046590",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 108,
+   "temas": [
+    "Estenose Carotídea",
+    "Cirurgia"
+   ],
+   "enunciado": "Paciente diabético insulinodependente, hipertenso e com insu ciência cardíaca congestiva grau IV, de 75 anos, vem a consulta de rotina para reavaliação. Durante o exame físico observa-se sopro na face lateral esquerda cervical. Solicitada uma ultrassonogra a com Doppler que evidencia uma estenose na carótida esquerda. Em relação a este quadro clínico, analise as assertivas abaixo. I) A endarterectomia está indicada pelo alto risco de acidente vascular cerebral para este paciente. II) As comorbidades e o estado geral do paciente não devem ser levados em consideração na decisão do tratamento clínico. III) A ausência ou presença de sintomas neurológicos focais e o grau de estreitamento da luz da carótida são os melhores indicadores do risco para acidente vascular cerebral neste paciente. IV) A ressonância magnética pode ser realizada e possui a capacidade de observar toda a extensão da artéria carótida. V) A endarterectomia geralmente não está indicada quando se sabe que a artéria carótida está completamente ocluída. Estão corretas:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I e III apenas."
+    },
+    {
+     "letra": "B",
+     "texto": "II e IV apenas."
+    },
+    {
+     "letra": "C",
+     "texto": "I, III e V apenas."
+    },
+    {
+     "letra": "D",
+     "texto": "II, IV e V apenas."
+    },
+    {
+     "letra": "E",
+     "texto": "III, IV e V apenas."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000034004",
+   "codigo": "4000034004",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 109,
+   "temas": [
+    "Trombose Venosa Prof unda TVP",
+    "Cirurgia"
+   ],
+   "enunciado": "Maria Marta, 52 anos, internada na UTI com quadro de pancreatite aguda grave, evoluiu com dor na perna esquerda, edema e empastamento da panturrilha, tendo sido feito diagnóstico de trombose venosa profunda. Em relação à trombose venosa profunda de membros inferiores e tromboembolismo, assinale a afirmativa INCORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A dor na panturrilha e coxa tende a melhorar com o repouso e a elevação do membro acometido."
+    },
+    {
+     "letra": "B",
+     "texto": "Com exame de mapeamento duplex, pode-se determinar se o trombo é recente ou antigo."
+    },
+    {
+     "letra": "C",
+     "texto": "O sinal mais característico, porém não específico de trombose venosa da panturrilha, é a limitação da dorsiflexão do pé"
+    },
+    {
+     "letra": "D",
+     "texto": "Por ser um comprometimento venoso, não há risco de isquemia do membro afetado."
+    },
+    {
+     "letra": "E",
+     "texto": "Deve-se iniciar com heparina e vaso dilatadores."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000032190",
+   "codigo": "4000032190",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 110,
+   "temas": [
+    "Fisiopatologa",
+    "Doença Venosa Crônica",
+    "Apresentação Clínica"
+   ],
+   "enunciado": "V.B.D., 37 anos, gênero feminino, bibliotecária, queixa-se de dor incaracterística nas pernas, principalmente à esquerda, tipo queimação, de longa evolução, mas que piorou após a segunda gestação a termo há 6 meses. Informa episódio de Trombose Venosa Profunda (TVP) após o primeiro parto ocorrido há 5 anos. Ao exame, paciente com sobrepeso (IMC = 31 kg/m²). Presença de pulsos pediosos, poplíteos e femorais normais. Enovelado de veias mais evidentes em membro inferior esquerdo, depressíveis ao toque. Pele de coloração mais escura com alterações tró cas em porção mais distal. Realizada Ultrassonogra a (USG) com Doppler dos membros inferiores. Em relação a este caso clínico, assinale a alternativa ERRADA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A coloração mais escura da pele se deve provavelmente ao acúmulo de hemossiderina."
+    },
+    {
+     "letra": "B",
+     "texto": "A obesidade é importante fator de risco por interferir na pré-carga cardíaca e aumentar a pressão hidrostática dos membros inferiores."
+    },
+    {
+     "letra": "C",
+     "texto": "A US associada com efeito Doppler permite medir de modo direito o refluxo venoso."
+    },
+    {
+     "letra": "D",
+     "texto": "Este quadro pode ser sequela tardia da TVP."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000019493",
+   "codigo": "4000019493",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 111,
+   "temas": [
+    "Cirurgia",
+    "Fatores de Risco"
+   ],
+   "enunciado": "A respeito dos aneurismas arteriais, considera-se o seguinte:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "São dilatações localizadas e permanentes de, no mínimo, o dobro do diâmetro habitual de uma artéria."
+    },
+    {
+     "letra": "B",
+     "texto": "Têm os fungos do gênero Candida sp como principal agente etiológico dos aneurismas micóticos."
+    },
+    {
+     "letra": "C",
+     "texto": "Podem acometer diversas artérias do corpo, como a aorta e seus ramos viscerais, mas não ocorrem em artérias dos membros superiores e inferiores."
+    },
+    {
+     "letra": "D",
+     "texto": "Apresentam como principais fatores de risco, entre outros, a hipertensão arterial e a doença aterosclerótica."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000019473",
+   "codigo": "4000019473",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 112,
+   "temas": [
+    "Conf irmação Diagnóstica",
+    "Cirurgia"
+   ],
+   "enunciado": "Na trombose venosa profunda (TVP):",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A sensibilidade do exame clínico é muito alta, o que dispensa a necessidade de investigação complementar com qualquer tipo de exame de imagem."
+    },
+    {
+     "letra": "B",
+     "texto": "O exame padrão-ouro para o diagnóstico continua sendo a flebografia, apesar de o exame ultrassonográfico com Doppler ter alta sensibilidade e especificidade."
+    },
+    {
+     "letra": "C",
+     "texto": "O tratamento é realizado com uso de anticoagulantes orais, como o ácido acetilsalicílico e o cilostazol."
+    },
+    {
+     "letra": "D",
+     "texto": "A oclusão da veia femoral superficial está excluída do diagnóstico, por se tratar de veia do sistema venoso superficial."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000006469",
+   "codigo": "4000006469",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 113,
+   "temas": [
+    "Cirurgia",
+    "Conf irmação Diagnóstica"
+   ],
+   "enunciado": "Na embolia arterial, quais são os achados arteriográficos esperados?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Paredes lisas e estenoses."
+    },
+    {
+     "letra": "B",
+     "texto": "Imagem em \"taça invertida\" e circulação colateral desenvolvida."
+    },
+    {
+     "letra": "C",
+     "texto": "Dilatações e calcificações."
+    },
+    {
+     "letra": "D",
+     "texto": "Lesão em \"ponta de lápis\"."
+    },
+    {
+     "letra": "E",
+     "texto": "Paredes lisas e localização em bifurcação."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000126410",
+   "codigo": "4000126410",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 114,
+   "temas": [
+    "Anatomia do Mediastino",
+    "Cardiologia",
+    "Cirurgia"
+   ],
+   "enunciado": "Qual o segundo ramo da aorta? E a artéria torácica interna esquerda se origina em qual artéria, respectivamente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tronco braquiocefalico direito e artéria subclávia esquerda."
+    },
+    {
+     "letra": "B",
+     "texto": "Artéria carótida direita e artéria subclávia esquerda."
+    },
+    {
+     "letra": "C",
+     "texto": "Artéria subclávia direita e artéria subclávia esquerda."
+    },
+    {
+     "letra": "D",
+     "texto": "Tronco braquiocefalico direito e artéria intercostal."
+    },
+    {
+     "letra": "E",
+     "texto": "Tronco braquiocefalico direito e aorta."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000123132",
+   "codigo": "4000123132",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 115,
+   "temas": [
+    "Medidas Iniciais",
+    "Tromboembolismo Arterial",
+    "Cirurgia"
+   ],
+   "enunciado": "Na obstrução arterial aguda embólica, o fator mais importante que determina a evolução da isquemia é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O tamanho do êmbolo."
+    },
+    {
+     "letra": "B",
+     "texto": "O tempo de oclusão superior a seis horas."
+    },
+    {
+     "letra": "C",
+     "texto": "A presença de rede de circulação colateral."
+    },
+    {
+     "letra": "D",
+     "texto": "A propagação do coágulo secundário."
+    },
+    {
+     "letra": "E",
+     "texto": "O local da obstrução."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000117274",
+   "codigo": "4000117274",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 116,
+   "temas": [
+    "Apresentação Clínica",
+    "Diagnóstico",
+    "Cirurgia"
+   ],
+   "enunciado": "Sintomas de dores, formigamento e cãibras ao nível das panturrilhas que piora com a deambulação e melhoram com o repouso podem corresponder a oclusão arterial crônica em que nível arterial?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Artéria ilíaca externa."
+    },
+    {
+     "letra": "B",
+     "texto": "Artéria ilíaca comum."
+    },
+    {
+     "letra": "C",
+     "texto": "Aorta distal."
+    },
+    {
+     "letra": "D",
+     "texto": "Artéria femoral."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000117086",
+   "codigo": "4000117086",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 117,
+   "temas": [
+    "Tratamento geral da crise hipertensiva",
+    "Dissecção aórtica aguda",
+    "Aneurisma de Aorta Torácica"
+   ],
+   "enunciado": "O aneurisma dissecante da aorta torácica é uma doença grave e que necessita de diagnóstico e tratamento precoces. Assinale a alternativa INCORRETA relacionada a esta doença.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Dor torácica súbita intensa com irradiação para dorso, abdome e extremidades são os sintomas mais comuns."
+    },
+    {
+     "letra": "B",
+     "texto": "Geralmente surgem devido a uma laceração da íntima distal à válvula aórtica ou adjacente à origem da artéria subclávia."
+    },
+    {
+     "letra": "C",
+     "texto": "A hipertensão arterial não tem papel importante no seu desenvolvimento."
+    },
+    {
+     "letra": "D",
+     "texto": "Mais de 60% das dissecções ocorrem na aorta ascendente."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000115561",
+   "codigo": "4000115561",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 118,
+   "temas": [
+    "Tratamento",
+    "Trombose Venosa Prof unda TVP",
+    "Cirurgia"
+   ],
+   "enunciado": "Quanto à trombose venosa profunda, assinale a alternativa incorreta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A gangrena venosa é decorrente da embolia paradoxal."
+    },
+    {
+     "letra": "B",
+     "texto": "O filtro de veia cava inferior é indicado nos casos de embolia pulmonar de repetição."
+    },
+    {
+     "letra": "C",
+     "texto": "O tempo de tratamento com o anticoagulante oral depende da causa da TVP."
+    },
+    {
+     "letra": "D",
+     "texto": "A heparina é o tratamento inicial clássico na fase aguda da TVP."
+    },
+    {
+     "letra": "E",
+     "texto": "O anticoagulante oral (varfarina) tem ação na inibição dos fatores de coagulação II, VII, IX, e X."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000115533",
+   "codigo": "4000115533",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 119,
+   "temas": [
+    "Oclusão Arterial Aguda OAA",
+    "Acidose Hipercalemia e Mioglobinúria",
+    "Complicações Após Reperf usão"
+   ],
+   "enunciado": "Quanto à oclusão arterial aguda, é INCORRETO afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A síndrome mionefrotóxica ocorre antes da revascularização e se caracteriza por acidose metabólica, hiperpotassemia e insuficiência renal."
+    },
+    {
+     "letra": "B",
+     "texto": "Na embolia arterial, a arteriografia mostra oclusão arterial com sinal da taça invertida, rede de vasos colaterais escassa e padrão de parede arterial normal."
+    },
+    {
+     "letra": "C",
+     "texto": "Na classificação de Rutherford para oclusão arterial aguda, o membro isquêmico grau III tem indicação de amputação primária."
+    },
+    {
+     "letra": "D",
+     "texto": "A fasciotomia é indicada para tratar a síndrome compartimental após a revascularização"
+    },
+    {
+     "letra": "E",
+     "texto": "O acidente intraplaca é uma das causas mais frequentes da trombose arterial aguda."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000107597",
+   "codigo": "4000107597",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 120,
+   "temas": [
+    "Tratamento Clínico",
+    "Cirurgia"
+   ],
+   "enunciado": "Mulher, 70 anos, com claudicação intermitente em membros inferiores para cerca de 300 metros no plano, acometendo principalmente as regiões de pé e panturrilhas há cerca de seis meses. É hipertensa em uso de anlodipino 10 mg ao dia e também ex tabagista (fumou cerca de 20 cigarros por dia por 50 anos). Ao exame apresenta, pulsos femorais amplos e palpáveis e pulsos poplíteos e distais dos membros inferiores não palpáveis. Índice tornozelo braquial de 0,62 à esquerda e 0,68 à direita. Qual a conduta mais adequada para este caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Realizar angiografia de membros inferiores para programação cirúrgica de revascularização."
+    },
+    {
+     "letra": "B",
+     "texto": "Iniciar tratamento clínico com anticoagulação, controle dos fatores de risco e ultrassonografia Doppler para classificar a doença."
+    },
+    {
+     "letra": "C",
+     "texto": "Realizar angiotomografia de membros inferiores para programar tratamento endovascular."
+    },
+    {
+     "letra": "D",
+     "texto": "Iniciar tratamento clínico com cilostazol, controle dos fatores de risco e deambulação orientada."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000103401",
+   "codigo": "4000103401",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 121,
+   "temas": [
+    "Cirurgia",
+    "Fatores de Risco"
+   ],
+   "enunciado": "Em relação ao aneurisma de aorta abdominal infra-renal, assinale o principal fator de risco:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Diabetes."
+    },
+    {
+     "letra": "B",
+     "texto": "Hipercolesterolemia."
+    },
+    {
+     "letra": "C",
+     "texto": "Tabagismo."
+    },
+    {
+     "letra": "D",
+     "texto": "Etilismo."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000097218",
+   "codigo": "4000097218",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 122,
+   "temas": [
+    "Oclusão Arterial Aguda OAA",
+    "Cirurgia"
+   ],
+   "enunciado": "Mulher, 70a, trazida ao pronto atendimento com queixa de dor forte em perna esquerda, abaixo do joelho, há 5 horas. Antecedentes: hipertensão arterial sistêmica e tabagismo. Medicação diária: captopril 50 mg e hidroclorotiazida 25 mg. Exame físico: regular estado geral, corada, hidratada, afebril, PA = 176 x 112 mmHg; FC = 98 bpm; FR = 23 irpm; tórax: murmúrio vesicular presente, diminuído globalmente; coração: bulhas arrítmicas, sem sopros; membro inferior esquerdo: pálido, com diminuição da temperatura, perda da sensibilidade a estímulos dolorosos no pé, não conseguindo movimentá- lo; ausência dos pulsos poplíteo, tibial posterior e pedioso à esquerda. Assinale a alternativa CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A perda da sensibilidade e da motricidade do pé não indica gravidade."
+    },
+    {
+     "letra": "B",
+     "texto": "Após a embolectomia é esperada a síndrome compartimental."
+    },
+    {
+     "letra": "C",
+     "texto": "Reperfusão espontânea geralmente ocorre após 6 horas de evolução."
+    },
+    {
+     "letra": "D",
+     "texto": "Associação de betabloqueador e cilostazol melhoram o prognóstico."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000087380",
+   "codigo": "4000087380",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 123,
+   "temas": [
+    "Estenose Carotídea",
+    "Cirurgia"
+   ],
+   "enunciado": "Os pacientes portadores de doença arterial carotídea podem apresentar manifestações clínicas com graus variados, exceto:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Placas de Hollenhorst."
+    },
+    {
+     "letra": "B",
+     "texto": "Isquemia cerebral ipsilateral."
+    },
+    {
+     "letra": "C",
+     "texto": "Ataque isquêmico transitório."
+    },
+    {
+     "letra": "D",
+     "texto": "Afasia quando ocorre no lado esquerdo."
+    },
+    {
+     "letra": "E",
+     "texto": "Hematoma cerebral intra parenquimatoso."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000080156",
+   "codigo": "4000080156",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 124,
+   "temas": [
+    "Conduta nos Aneurismas de Aorta Abdominal",
+    "Cirurgia"
+   ],
+   "enunciado": "NSF, homem, 63 anos, hipertenso, controlado com IECA, procura o pronto socorro, encaminhado pelo urologista, com um USG abdominal de rotina que apresenta um aneurisma de aorta infra-renal, medindo 3,5 x 6 cm (diâmetro X extensão). Ao exame, há a palpação de uma massa pulsátil próximo ao umbigo. O paciente é normolíneo, e tanto ele como a esposa caram ansiosos com esse achado detectado no ultrassom. Com base nesses dados, a conduta adequada do médico que o atendeu deve ser:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tranquilizar a família e solicitar um novo ultrassom para 6 meses."
+    },
+    {
+     "letra": "B",
+     "texto": "Tranquilizar a família e solicitar uma angio TC de imediato."
+    },
+    {
+     "letra": "C",
+     "texto": "Explicar os riscos de ruptura e solicitar uma aortografia."
+    },
+    {
+     "letra": "D",
+     "texto": "Explicar os riscos de ruptura e solicitar uma angio RNM."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000037731",
+   "codigo": "4000037731",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 125,
+   "temas": [
+    "Oclusão Arterial Aguda OAA",
+    "Cirurgia"
+   ],
+   "enunciado": "Sobre a oclusão arterial aguda, assinale a alternativa INCORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "As manifestações sensitivas e motoras aparecem quase imediatamente após a oclusão aguda"
+    },
+    {
+     "letra": "B",
+     "texto": "O comprometimento da pele e o tecido subcutâneo refletem a irreversibilidade do quadro e a provável perda do membro"
+    },
+    {
+     "letra": "C",
+     "texto": "A heparinização sistêmica deve ser iniciada precocemente para impedir a progressão da doença"
+    },
+    {
+     "letra": "D",
+     "texto": "O uso de vasodilatadores está bem estabelecido nas oclusões arteriais agudas"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000009378",
+   "codigo": "4000009378",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 126,
+   "temas": [
+    "Terapia Def initiva",
+    "Tromboembolismo Arterial",
+    "Cirurgia"
+   ],
+   "enunciado": "Paciente com cardiopatia dilatada referiu dor súbita em membro inferior direito há 3 horas da internação. Negava antecedente de claudicação. Ao exame, constatou-se ausência de pulsos em membro inferior direito e pulsos normais nos demais membros. Qual é a hipótese diagnóstica mais provável e a melhor conduta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Embolia arterial aguda, cirurgia com cateter de Fogarty."
+    },
+    {
+     "letra": "B",
+     "texto": "Embolia arterial aguda, arteriografia e heparinização."
+    },
+    {
+     "letra": "C",
+     "texto": "Trombose arterial aguda, arteriografia e proteção térmica."
+    },
+    {
+     "letra": "D",
+     "texto": "Trombose arterial aguda, heparinização e proteção térmica."
+    },
+    {
+     "letra": "E",
+     "texto": "Trombose arterial aguda, arteriografia e fibrinolítico."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000122609",
+   "codigo": "4000122609",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 127,
+   "temas": [
+    "Apresentação Clínica",
+    "Diagnóstico",
+    "Cirurgia"
+   ],
+   "enunciado": "A arteriografia na doença aterosclerótica obstrutiva de membros inferiores está indicada quando:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O paciente apresenta claudicação para 300 metros, mesmo sem lesão trófica."
+    },
+    {
+     "letra": "B",
+     "texto": "O paciente apresenta dor em repouso, com ou sem lesão trófica."
+    },
+    {
+     "letra": "C",
+     "texto": "A clínica sugere doença aterosclerótica com suspeita de lesão obstrutiva arterial, mesmo sem claudicação ou lesão trófica."
+    },
+    {
+     "letra": "D",
+     "texto": "O paciente tem mais de 40 anos de idade e apresenta antecedentes familiares de doença aterosclerótica periférica."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000118509",
+   "codigo": "4000118509",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 128,
+   "temas": [
+    "Manif estações Clínicas",
+    "Tromboembolismo Arterial",
+    "Cirurgia"
+   ],
+   "enunciado": "Paciente de 77 anos, diabética, dá entrada no pronto-socorro com quadro de dor, diminuição de temperatura e cianose no membro inferior direito há cerca de 1 hora. Ao exame: pulso femoral direito palpável, e demais no membro acometido, ausentes. No membro contralateral, todos os pulsos encontram-se palpáveis. O diagnóstico mais provável para esse paciente é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Trombose arterial."
+    },
+    {
+     "letra": "B",
+     "texto": "Embolia arterial."
+    },
+    {
+     "letra": "C",
+     "texto": "Dissecção de aorta abdominal."
+    },
+    {
+     "letra": "D",
+     "texto": "Trombose venosa profunda."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000111647",
+   "codigo": "4000111647",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 129,
+   "temas": [
+    "Diagnóstico",
+    "Cirurgia",
+    "Tratamento"
+   ],
+   "enunciado": "Uma mulher de 54 anos procurou o médico para consulta de rotina. Ele notou um sopro carotídeo à direita. A angiogra a revelou estenose comprometendo 50% da luz da carótida direita. A endarterectomia estaria indicada se a paciente apresentasse redução do diâmetro da artéria de mais de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "90%."
+    },
+    {
+     "letra": "B",
+     "texto": "80%."
+    },
+    {
+     "letra": "C",
+     "texto": "70%."
+    },
+    {
+     "letra": "D",
+     "texto": "60%."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000107217",
+   "codigo": "4000107217",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 130,
+   "temas": [
+    "Terapia Def initiva",
+    "Medidas Iniciais",
+    "Cirurgia"
+   ],
+   "enunciado": "Mulher, 58 anos, atendida em unidade hospitalar de urgência e emergência, com dor de início súbito em membro inferior esquerdo associado à cianose não xa, frialdade, parestesia e di culdade de movimentação há quatro horas. Ao exame apresentava ritmo cardíaco irregular. Pressão arterial = 140 x 90 mmHg; FC = 100 bpm. Pulsos periféricos ausentes à palpação desde a região femoral nesta extremidade. Membro inferior contralateral com perfusão normal e pulsos periféricos amplos. Qual a conduta diante deste caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Arteriografia de membro inferior esquerdo para melhor planejamento cirúrgico."
+    },
+    {
+     "letra": "B",
+     "texto": "Tromboembolectomia de emergência e iniciar anticoagulação plena."
+    },
+    {
+     "letra": "C",
+     "texto": "Ultrassom com Doppler arterial de membro inferior esquerdo para programar by-pass."
+    },
+    {
+     "letra": "D",
+     "texto": "Trombólise sistêmica de emergência para posterior tratamento endovascular."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000107208",
+   "codigo": "4000107208",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 131,
+   "temas": [
+    "Conduta nos Aneurismas de Aorta Abdominal",
+    "Cirurgia"
+   ],
+   "enunciado": "Homem, 71 anos, assintomático, com antecedentes de hipertensão e ex-tabagismo. Em consulta anterior de rotina foi encontrada massa abdominal pulsátil e expansível em mesogástrio com limites mal definidos. Após realização de ultrassom de abdome, o paciente retorna com laudo mostrando aneurisma fusiforme de aorta abdominal infrarrenal de 4,0 cm de diâmetro e 8,0 cm de extensão. Qual a melhor conduta diante deste achado?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Encaminhar para a angiotomografia de aorta e agendar retorno ambulatorial em 1 semana."
+    },
+    {
+     "letra": "B",
+     "texto": "Encaminhar ao hospital de referência em caráter de urgência."
+    },
+    {
+     "letra": "C",
+     "texto": "Encaminhar para ultrassom de aorta abdominal para uma nova consulta em 6 meses."
+    },
+    {
+     "letra": "D",
+     "texto": "Encaminhar para angiorressonância de aorta com nova consulta em 3 meses."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000099849",
+   "codigo": "4000099849",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 132,
+   "temas": [
+    "Apresentação Clínica",
+    "Cirurgia"
+   ],
+   "enunciado": "Assinale a alternativa que descreve uma úlcera de etiologia venosa:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Localizada em proeminências ósseas, borda irregular, hiperqueratose e indolor."
+    },
+    {
+     "letra": "B",
+     "texto": "Localizada em face medial, bordas irregulares, fundo com tecido de granulação efibrina e pouco dolorosa"
+    },
+    {
+     "letra": "C",
+     "texto": "Localizada em face lateral, bordas irregulares, fundo necrótico e muito dolorosa."
+    },
+    {
+     "letra": "D",
+     "texto": "Localizada no maléolo lateral, com edema e hiperpigmentação e alopecia ao redor edolorosa."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000103900",
+   "codigo": "4000103900",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 133,
+   "temas": [
+    "Conf irmação Diagnóstica",
+    "Cirurgia"
+   ],
+   "enunciado": "O teste diagnóstico padrão-ouro para o diagnóstico da trombose venosa profunda é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Sinal de Homans."
+    },
+    {
+     "letra": "B",
+     "texto": "Ultrassonografia de Doppler."
+    },
+    {
+     "letra": "C",
+     "texto": "Flebografia com radiocontraste."
+    },
+    {
+     "letra": "D",
+     "texto": "Pletismografia de impedância."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000101050",
+   "codigo": "4000101050",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 134,
+   "temas": [
+    "Fatores de Risco",
+    "Cirurgia"
+   ],
+   "enunciado": "A Doença Arterial Obstrutiva Periférica (DAOP) é uma doença sistêmica que se desenvolve nas artérias periféricas ao longo de décadas. Piora com o avançar da idade e promove limitação funcional. Está associada a alto risco de morbimortalidade cardiovascular. Ocorre mais frequentemente nos membros inferiores, e sua principal causa é a aterosclerose. A prevalência da doença, baseada em testes objetivos de vários estudos epidemiológicos, varia entre 3% a 10%, aumentando para 15% a 20% em pessoas acima de 70 anos. Qual o fator de risco está mais relacionado a esta afecção?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipertensão Arterial Sistêmica"
+    },
+    {
+     "letra": "B",
+     "texto": "Tabagismo"
+    },
+    {
+     "letra": "C",
+     "texto": "Dislipidemia"
+    },
+    {
+     "letra": "D",
+     "texto": "Insuficiência renal crônica"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000077220",
+   "codigo": "4000077220",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 135,
+   "temas": [
+    "Estenose Carotídea",
+    "Cirurgia"
+   ],
+   "enunciado": "Homem, 76 anos, apresenta amaurose fugaz em olho direito. Deve-se pensar em doença microembólica relacionada à artéria carótida:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Externa esquerda."
+    },
+    {
+     "letra": "B",
+     "texto": "Externa direita."
+    },
+    {
+     "letra": "C",
+     "texto": "Interna esquerda."
+    },
+    {
+     "letra": "D",
+     "texto": "Interna direita."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000077100",
+   "codigo": "4000077100",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 136,
+   "temas": [
+    "Terapia Def initiva",
+    "Tromboembolismo Arterial",
+    "Cirurgia"
+   ],
+   "enunciado": "Na embolia arterial deve-se cogitar a amputação primária quando há:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Parestesia."
+    },
+    {
+     "letra": "B",
+     "texto": "Paralisia."
+    },
+    {
+     "letra": "C",
+     "texto": "Rigidez muscular."
+    },
+    {
+     "letra": "D",
+     "texto": "Palidez cutânea."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000077083",
+   "codigo": "4000077083",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 137,
+   "temas": [
+    "Conduta nos Aneurismas de Aorta Abdominal",
+    "Cirurgia"
+   ],
+   "enunciado": "Homem, 67 anos, assintomático, portador de aneurisma de aorta infrarrenal com 4,2 cm de diâmetro (aferição por angiotomografia). A conduta mais adequada é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Acompanhar com exames de imagem seriados e controlar os fatores de risco."
+    },
+    {
+     "letra": "B",
+     "texto": "Programar tratamento por cirurgia aberta eletivamente."
+    },
+    {
+     "letra": "C",
+     "texto": "Programar tratamento endovascular eletivamente."
+    },
+    {
+     "letra": "D",
+     "texto": "Internar para tratamento endovascular de urgência."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000076025",
+   "codigo": "4000076025",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 138,
+   "temas": [
+    "Fatores de Risco",
+    "Cirurgia"
+   ],
+   "enunciado": "No paciente não diabético com história de Doença Arterial Obstrutiva Periférica (DAOP), o fator de risco que está mais comumente presente é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "colesterol elevado."
+    },
+    {
+     "letra": "B",
+     "texto": "hipertensão."
+    },
+    {
+     "letra": "C",
+     "texto": "tabagismo."
+    },
+    {
+     "letra": "D",
+     "texto": "hiper-homocisteinemia."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000033284",
+   "codigo": "4000033284",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 139,
+   "temas": [
+    "Tromboembolismo Arterial",
+    "Cirurgia",
+    "Revascularização Endovascular"
+   ],
+   "enunciado": "Ítalo, 58 anos, tabagista, hipertenso, diabético tipo II, portador de cardiopatia arritmogênica ( brilação atrial), apresentou há ± três horas dor súbita no Membro Inferior Direito (MID) e concomitante dor ao caminhar. Apresenta-se afebril, com PA 160 x 100 mmHg, fácies dolorosa, MID doloroso à palpação. Está frio e pálido. O enchimento capilar e a perfusão periférica estão diminuídos. O pulso femoral está presente, porém, estão ausentes os poplíteos e os pediosos. Índice tornozelo-braço de 0,4 no MID e 0,95 no MIE; pressão de 150 mmHg em MIE e de 70 mmHg no MID. RX de tórax: Cardiomegalia com aumento de aurícula esquerda; ECG: Fibrilação atrial; Ecocardiograma com fração de ejeção de 50%, aumento de aurícula esquerda e hipertro a ventricular esquerda. Qual o exame completar mais importante para a confirmação diagnóstica e qual deve ser o tratamento proposto?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ultrassonografia - angioplastia com colocação de stent"
+    },
+    {
+     "letra": "B",
+     "texto": "Tomografia computadorizada de MID - angioplastia"
+    },
+    {
+     "letra": "C",
+     "texto": "Tomografia computadorizada de MID - maceração do trombo"
+    },
+    {
+     "letra": "D",
+     "texto": "Arteriografia - embolectomia com cateter de Fogarty"
+    },
+    {
+     "letra": "E",
+     "texto": "Angiorressonância magnética de MID - recanalização com criolaser"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000033271",
+   "codigo": "4000033271",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 140,
+   "temas": [
+    "Tromboembolismo Arterial",
+    "Cirurgia"
+   ],
+   "enunciado": "Ítalo, 58 anos, tabagista, hipertenso, diabético tipo II, portador de cardiopatia arritmogênica ( brilação atrial), apresentou há ± três horas dor súbita no Membro Inferior Direito (MID) e concomitante dor ao caminhar. Apresenta-se afebril, com PA 160 x 100 mmHg, fácies dolorosa, MID doloroso à palpação. Está frio e pálido. O enchimento capilar e a perfusão periférica estão diminuídos. O pulso femoral está presente, porém, estão ausentes os poplíteos e os pediosos. Índice tornozelo-braço de 0,4 no MID e 0,95 no MIE; pressão de 150 mmHg em MIE e de 70 mmHg no MID. RX de tórax: Cardiomegalia com aumento de aurícula esquerda; ECG: Fibrilação atrial; Ecocardiograma com fração de ejeção de 50%, aumento de aurícula esquerda e hipertro a ventricular esquerda. Assinale a alternativa CORRETA quanto ao diagnóstico mais provável para o caso:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Embolia arterial aguda"
+    },
+    {
+     "letra": "B",
+     "texto": "Trombose venosa profunda aguda"
+    },
+    {
+     "letra": "C",
+     "texto": "Trombose venosa superficial aguda"
+    },
+    {
+     "letra": "D",
+     "texto": "Erisipela"
+    },
+    {
+     "letra": "E",
+     "texto": "Vasculite aguda"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000029017",
+   "codigo": "4000029017",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 141,
+   "temas": [
+    "Anticoagulação",
+    "Anticoagulantes orais diretos",
+    "Novos anticoagulantes orais NOACs"
+   ],
+   "enunciado": "Recentemente, foi autorizado pela ANVISA e disponibilizado para comercialização no Brasil um novo anticoagulante oral, sendo desnecessário o controle periódico do TAP e RNI por meio de exames laboratoriais. Qual é essa droga?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Amantadina"
+    },
+    {
+     "letra": "B",
+     "texto": "Rivaroxabana"
+    },
+    {
+     "letra": "C",
+     "texto": "Tolcapone"
+    },
+    {
+     "letra": "D",
+     "texto": "Trihexafenidil"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000029011",
+   "codigo": "4000029011",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 142,
+   "temas": [
+    "Ultrassonograf ia",
+    "Cirurgia"
+   ],
+   "enunciado": "Paciente de sexo feminino, 32 anos, sem antecedentes patológicos e em uso de contraceptivo oral há sete anos (sic), foi atendida em uma unidade de pronto atendimento com queixa de dor intensa e edema súbito na panturrilha direita há aproximadamente 18 horas. Negava trauma. O exame físico demonstrava edema infrapatelar de ++/+ 4 e dor à palpação e compressão da panturrilha. O pulso poplíteo era de +4/+ 4 e os tibiais +3/+4. Com a principal hipótese diagnóstica de trombose venosa profunda, qual dos seguintes exames complementares estaria inicialmente indicado para sua confirmação?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Angiorressonância"
+    },
+    {
+     "letra": "B",
+     "texto": "Angiotomografia"
+    },
+    {
+     "letra": "C",
+     "texto": "Ecodoppler colorido"
+    },
+    {
+     "letra": "D",
+     "texto": "Índice tornozelo-braquial com Doppler portátil"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000122784",
+   "codigo": "4000122784",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 143,
+   "temas": [
+    "Manif estações Clínicas",
+    "Medidas Iniciais",
+    "Tromboembolismo Arterial"
+   ],
+   "enunciado": "Paciente de 60 anos queixa-se de dor no Membro Inferior Esquerdo (MIE). Exame físico: palidez, esfriamento e ausência dos pulsos tibial posterior e pedioso nesse membro, todos os outros pulsos presentes. Antecedentes pessoais: válvula metálica no coração e parou de tomar todas as medicações há mais de uma semana. A conduta deve ser:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Enfaixar os membros, colocar o paciente na posição de Trendelenburg e administrar AAS."
+    },
+    {
+     "letra": "B",
+     "texto": "Realizar embolectomia no MIE, heparinização EV e enfaixar os membros."
+    },
+    {
+     "letra": "C",
+     "texto": "Introduzir marevan, posição de Trendelenburg e enfaixar os membros."
+    },
+    {
+     "letra": "D",
+     "texto": "Introduzir clopidogrel, colocar o paciente em proclive e enfaixar os membros."
+    },
+    {
+     "letra": "E",
+     "texto": "Realizar embolectomia, administrar AAS e clopidogrel e colocar o paciente na posição de Trendelenburg."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000102277",
+   "codigo": "4000102277",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 144,
+   "temas": [
+    "Aneurismas Rotos",
+    "Cirurgia"
+   ],
+   "enunciado": "A tríade clássica dos pacientes que se apresentam com ruptura de aneurisma da aorta abdominal é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Parada cardíaca, massa abdominal e dor nas costas."
+    },
+    {
+     "letra": "B",
+     "texto": "Hipotensão, anemia e dor nas costas ou abdominal."
+    },
+    {
+     "letra": "C",
+     "texto": "Hipotensão, massa abdominal pulsátil e dor abrupta nas costas ou abdominal."
+    },
+    {
+     "letra": "D",
+     "texto": "Hipotensão, peritonite e dor abdominal."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000102170",
+   "codigo": "4000102170",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 145,
+   "temas": [
+    "Diagnóstico",
+    "Cirurgia"
+   ],
+   "enunciado": "Mulher, 64 anos de idade, portadora de diabetes, apresenta lesão ulcerada no dorso do pé esquerdo, de início espontâneo. Refere dor tolerável e aumento progressivo da lesão no último mês. EF: lesão com fundo pálido e pouco secretiva, medindo 4 x 3 cm de diâmetros. Os pulsos da extremidade estão presentes, porém diminuídos de amplitude à palpação quando comparados ao lado direito. Pode-se afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O índice tornozelo-braquial é a avaliação mais precisa da pressão arterial e do fluxo."
+    },
+    {
+     "letra": "B",
+     "texto": "As pressões ao nível do tornozelo podem estar falsamente elevadas."
+    },
+    {
+     "letra": "C",
+     "texto": "Úlceras neurotróficas ocorrem somente em pés mal vascularizados."
+    },
+    {
+     "letra": "D",
+     "texto": "Úlceras pouco dolorosas geralmente indicam boa vascularização."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000074942",
+   "codigo": "4000074942",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 146,
+   "temas": [
+    "Tratamento Cirúrgico",
+    "Cirurgia"
+   ],
+   "enunciado": "Homem, 72 anos, hipertenso e dislipidêmico, foi atendido devido à gangrena seca, delimitada, acometendo o hálux direito, após trauma local há 2 meses. Refere muita dor local. O exame arterial de membros inferiores apresenta pulsos femorais amplos, demais ausentes, e rarefação de pelos de membros inferiores. A conduta mais adequada a ser tomada neste momento é internação e:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Curativos diários."
+    },
+    {
+     "letra": "B",
+     "texto": "Realização de exame arteriográfico."
+    },
+    {
+     "letra": "C",
+     "texto": "Embolectomia de urgência."
+    },
+    {
+     "letra": "D",
+     "texto": "Amputação do hálux."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120158",
+   "codigo": "4000120158",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 147,
+   "temas": [
+    "Fatores de Risco",
+    "Outros Métodos Diagnósticos",
+    "Apresentação Clínica"
+   ],
+   "enunciado": "Paciente, 60 anos de idade, obeso, apendicectomizado há 2 dias, queixa-se de dor e edema na perna direita. O exame radiológico contrastado do membro inferior direito encontra-se abaixo. Este exame caracteriza:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "vasoespasmo arterial."
+    },
+    {
+     "letra": "B",
+     "texto": "embolia arterial aguda."
+    },
+    {
+     "letra": "C",
+     "texto": "trombose venosa profunda."
+    },
+    {
+     "letra": "D",
+     "texto": "trombose arterial aguda."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q147-1.jpg",
+     "antes_das_alternativas": true
+    },
+    {
+     "arquivo": "imagens/q147-2.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000120083",
+   "codigo": "4000120083",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 148,
+   "temas": [
+    "Manif estações Clínicas",
+    "Cirurgia",
+    "Conf irmação Diagnóstica"
+   ],
+   "enunciado": "Mulher, 62 anos de idade, se apresenta com dor e escurecimento da falange distal do 5º dedo do pé direito há 15 dias. É diabética e hipertensa em uso contínuo de metformina e enalapril. Ao exame encontra-se afebril, em bom estado geral e com pulsos distais do membro inferior direito diminuídos em relação ao membro inferior esquerdo. A conduta mais apropriada é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Desbridamento imediato da lesão e iniciar antibioticoterapia de largo espectro."
+    },
+    {
+     "letra": "B",
+     "texto": "Suspender uso da metformina e fazer arteriografia para planejamento terapêutico."
+    },
+    {
+     "letra": "C",
+     "texto": "Amputação do 5º dedo com fechamento primário da lesão."
+    },
+    {
+     "letra": "D",
+     "texto": "Iniciar anticoagulação plena e curativo com antibiótico tópico."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000100672",
+   "codigo": "4000100672",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 149,
+   "temas": [
+    "Cirurgia",
+    "Tratamento"
+   ],
+   "enunciado": "Paciente do sexo masculino, 50 anos, com antecedente de trombose venosa profunda de membro inferior direito há 5 anos, evoluiu com varizes e insu ciência de safena magna além de úlcera varicosa, no membro ipsilateral. Temos como abordagem inicial:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tratamento cirúrgico das tributárias varicosas;"
+    },
+    {
+     "letra": "B",
+     "texto": "Tratamento cirúrgico das tributárias e safenectomia;"
+    },
+    {
+     "letra": "C",
+     "texto": "Avaliação do sistema venoso profundo antes de indicar cirurgia;"
+    },
+    {
+     "letra": "D",
+     "texto": "Apenas ligadura da croça da safena;"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000100639",
+   "codigo": "4000100639",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 150,
+   "temas": [
+    "Tratamento Clínico",
+    "Cirurgia"
+   ],
+   "enunciado": "Paciente sexo feminino, 72a, hipertensa e diabética. Durante exame médico de rotina notado ausência de pulsos poplíteo e podais, bilateralmente. Paciente nega claudicação intermitente. Como melhor conduta incial temos:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Otimização de tratamento clínico;"
+    },
+    {
+     "letra": "B",
+     "texto": "Tratamento clínico + arteriografia diagnóstica;"
+    },
+    {
+     "letra": "C",
+     "texto": "Tratamento clínico + Doppler arterial;"
+    },
+    {
+     "letra": "D",
+     "texto": "Arteriografia para programação cirúrgica"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000033729",
+   "codigo": "4000033729",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 151,
+   "temas": [
+    "Conf irmação Diagnóstica",
+    "Ultrassonograf ia",
+    "Cirurgia"
+   ],
+   "enunciado": "Hellen de 35 anos, branca, em uso de anticoncepcional oral há 3 anos, apresentou há três horas, dor súbita na panturrilha direita. A partir daí começou a apresentar di culdade de deambulação. Nega trauma neste membro. Ao exame físico, está em REG, com temperatura axilar de 38°C. O MID tem aumento da temperatura, empastamento muscular com edema ++/4. Ausência de hiperemia ou adenopatia em regiões poplítea e femoral. Os pulsos do membro são palpáveis e cheios. Índice tornozelo-braço de 0,90. Qual o exame complementar considerado padrão ouro para a confirmação segura do diagnóstico:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ultrassonografia convencional"
+    },
+    {
+     "letra": "B",
+     "texto": "Duplex-Scan"
+    },
+    {
+     "letra": "C",
+     "texto": "Flebografia"
+    },
+    {
+     "letra": "D",
+     "texto": "Tomografia computadorizada helicoidal"
+    },
+    {
+     "letra": "E",
+     "texto": "Plestimografia"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000118825",
+   "codigo": "4000118825",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 152,
+   "temas": [
+    "Aneurisma de Artéria Poplítea",
+    "Conf irmação Diagnóstica",
+    "Apresentação Clínica"
+   ],
+   "enunciado": "Assinale a alternativa correta, considerando o aneurisma de artéria poplítea:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A melhor via de acesso para o tratamento cirúrgico é a medial, que facilita a ressecção total do aneurisma."
+    },
+    {
+     "letra": "B",
+     "texto": "Tem incidência semelhante no homem e na mulher."
+    },
+    {
+     "letra": "C",
+     "texto": "A manifestação clínica mais frequente é a rotura, como ocorre no aneurisma de aorta abdominal."
+    },
+    {
+     "letra": "D",
+     "texto": "O diagnóstico é feito frequentemente quando aparecem os sintomas isquêmicos."
+    },
+    {
+     "letra": "E",
+     "texto": "Deve ser operado mesmo quando assintomático, já que o risco de trombose é maior que 90%."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000008703",
+   "codigo": "4000008703",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 153,
+   "temas": [
+    "Cirurgia",
+    "Síndrome Compartimental",
+    "Trombose Arterial"
+   ],
+   "enunciado": "Paciente masculino de 68 anos, diabético tipo II, hipertenso e fumante, com história de claudicação de MIE há seis meses e há doze horas apresenta dor e esfriamento em perna esquerda. Ao exame físico há diminuição da temperatura cutânea do terço médio da perna esquerda para baixo e ausência de pulsos desde a artéria poplítea. Há discreto aumento na consistência do compartimento tibial anterior, paresia do pé, com comprometimento na exão dorsal do hálux esquerdo. O diagnóstico mais provável é oclusão arterial:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Aguda por embolia, com síndrome compartimental posterior superficial."
+    },
+    {
+     "letra": "B",
+     "texto": "Crônica, do segmento poplíteo distal."
+    },
+    {
+     "letra": "C",
+     "texto": "Aguda por embolia, com síndrome compartimental posterior profunda."
+    },
+    {
+     "letra": "D",
+     "texto": "Aguda por trombose, com síndrome compartimental tibial anterior."
+    },
+    {
+     "letra": "E",
+     "texto": "Crônica, com dor em repouso."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000122219",
+   "codigo": "4000122219",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 154,
+   "temas": [
+    "Aneurisma de Artéria Poplítea",
+    "Conf irmação Diagnóstica",
+    "Aneurismas Rotos"
+   ],
+   "enunciado": "Assinale verdadeiro (V) ou falso (F) para as afirmativas, sobre aneurisma de aorta abdominal. ( ) É mais comum no segmento infrarrenal, e a sua probabilidade de rotura passa a ser significativamente maior a partir dos 5 cm de diâmetro. ( ) O melhor exame para triagem e programação cirúrgica é a ultrassonografia. ( ) Para o diagnóstico de rotura, em pacientes clinicamente estáveis, a tomogra a computadorizada é de pouca valia, sendo a ultrassonografia o exame de escolha. ( ) A aortogra a (com contraste iodado) é o melhor método para seu diagnóstico e para programação de correção cirúrgica endovascular. ( ) Existe forte associação com aneurismas em outros segmentos arteriais, especialmente o de artéria poplítea, sendo mais comum na população do sexo masculino. A alternativa que contém o conjunto com a sequência correta é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "V, F, F, F, V."
+    },
+    {
+     "letra": "B",
+     "texto": "V, V, V, F, V."
+    },
+    {
+     "letra": "C",
+     "texto": "F, F, V, F, V."
+    },
+    {
+     "letra": "D",
+     "texto": "F, V, F, V, F."
+    },
+    {
+     "letra": "E",
+     "texto": "V, F, V, F, V."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000122196",
+   "codigo": "4000122196",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 155,
+   "temas": [
+    "Medidas Iniciais",
+    "Cirurgia",
+    "Conf irmação Diagnóstica"
+   ],
+   "enunciado": "Homem de 61 anos, tabagista, dislipidêmico, apresenta claudicação intermitente em membro inferior direito e surgimento recente de cianose xa em 3° pododáctilo com dor em repouso. Exame físico dos pulsos dos membros inferiores (VER IMAGEM). A conduta mais adequada, além de enfaixamento do membro, é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "anti-agregação plaquetária, analgesia, orientação de deambulação, controle dos fatores de risco e controle clínico."
+    },
+    {
+     "letra": "B",
+     "texto": "anti-agregante plaquetário, analgesia, controle dos fatores de risco e amputação do artelho."
+    },
+    {
+     "letra": "C",
+     "texto": "anti-agregante plaquetário, controle dos fatores de risco, analgesia e programação de arteriografia."
+    },
+    {
+     "letra": "D",
+     "texto": "anti-coagulação, analgesia e programação cirúrgica."
+    },
+    {
+     "letra": "E",
+     "texto": "anti-agregação plaquetária, anti-coagulação, analgesia e programação de arteriografia."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q155-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000117527",
+   "codigo": "4000117527",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 156,
+   "temas": [
+    "Classif icação Clínica CEAP",
+    "Tratamento das Úlceras Venosas",
+    "Cirurgia"
+   ],
+   "enunciado": "Em relação à úlcera venosa, assinale a alternativa INCORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O uso de antibióticos está indicado apenas no caso de infecção com manifestações sistêmicas."
+    },
+    {
+     "letra": "B",
+     "texto": "Alterações de pele (hiperpigmentação, eczema, hipodermatofibrose) e úlcera ativa estão presentes nos pacientes com insuficiência venosa crônica com classificação CEAP 6."
+    },
+    {
+     "letra": "C",
+     "texto": "É recomendado o uso rotineiro de antibióticos, porque evita a recidiva da úlcera."
+    },
+    {
+     "letra": "D",
+     "texto": "A compressão acima de 35 mmHg parece ser efetiva na prevenção da recorrência da úlcera."
+    },
+    {
+     "letra": "E",
+     "texto": "O tratamento cirúrgico é recomendado quando o paciente tem insuficiência venosa superficial e a úlcera está cicatrizada."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000103166",
+   "codigo": "4000103166",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirurgia Vascular",
+   "numero": 157,
+   "temas": [
+    "Filtro de Veia Cava",
+    "Cirurgia"
+   ],
+   "enunciado": "Homem, 58 anos de idade, submetido à colectomia segmentar por neoplasia de cólon direito, desenvolve Trombose Venosa Profunda (TVP) proximal no membro inferior esquerdo e embolia pulmonar oligossintomática. É tratado com heparina não fracionada. Dois dias depois do início do tratamento da TVP, observa-se queda do nível de consciência e a tomogra a computadorizada de crânio evidenciou imagem sugestiva de sangramento cerebral intraparenquimatoso à esquerda. Plaquetas: 60.000/mm³. As próximas condutas são: Respostas: 1 12 23 34 45 56 67 78 89 100 111 122 133 144 155",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Conversão para heparina de baixo peso molecular e colocação de filtro de veia cava inferior."
+    },
+    {
+     "letra": "B",
+     "texto": "Infusão imediata de plaquetas e plasma fresco."
+    },
+    {
+     "letra": "C",
+     "texto": "Suspensão de heparina e colocação de filtro de veia cava inferior."
+    },
+    {
+     "letra": "D",
+     "texto": "Administração de anticoagulante inibidor da absorção de vitamina K e infusão imediata de plaquetas."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": []
+}

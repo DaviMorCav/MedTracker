@@ -1,0 +1,3256 @@
+{
+ "questoes": [
+  {
+   "id": "4000194298",
+   "codigo": "4000194298",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 1,
+   "temas": [
+    "Clínica Médica",
+    "Gastroenterologia",
+    "Cirurgia"
+   ],
+   "enunciado": "Uma paciente com 70 anos, diabética, com dor em anco esquerdo, de início insidioso e piora progressiva há 72 horas, chega ao pronto-socorro acompanhada de familiares. Eles relatam que, nos últimos 3 meses, observaram a ocorrência de episódios de sangramento retal vermelho-vivo, anorexia e perda ponderal de 10 Kg. Ao exame físico, a paciente apresenta- se em mau estado geral, torporosa, com frequência respiratória de 24 incursões respiratórias por minuto, frequência cardíaca de 116 batimentos por minuto, pressão arterial de 90 × 50 mmHg, abdome globoso, doloroso à palpação, com sinais de irritação peritoneal difusa. O resultado de radiografia simples evidencia pneumoperitôneo volumoso. Após discussão do caso com a família, deve ser proposto pelo cirurgião geral plantonista a realização de uma laparotomia, de uma",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "enterectomia segmentar e de uma ileostomia."
+    },
+    {
+     "letra": "B",
+     "texto": "colectomia segmentar e de uma coloanastomose."
+    },
+    {
+     "letra": "C",
+     "texto": "limpeza e de uma drenagem da cavidade abdominal."
+    },
+    {
+     "letra": "D",
+     "texto": "colectomia segmentar e de uma colostomia de Hartmann."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000187428",
+   "codigo": "4000187428",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 2,
+   "temas": [
+    "Estadiamento do Câncer do Cólon e do Reto",
+    "Câncer Colorretal"
+   ],
+   "enunciado": "Qual dos seguintes exames NÃO faz parte do estadiamento de neoplasia de reto?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "TC tórax"
+    },
+    {
+     "letra": "B",
+     "texto": "RNM pelve"
+    },
+    {
+     "letra": "C",
+     "texto": "CEA"
+    },
+    {
+     "letra": "D",
+     "texto": "TC abdome"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000187030",
+   "codigo": "4000187030",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 3,
+   "temas": [
+    "Diagnóstico",
+    "Câncer Colorretal",
+    "Síndromes de Câncer Colorretal Hereditário"
+   ],
+   "enunciado": "Sobre o câncer colorretal, assinale a opção INCORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A maioria dos cânceres de cólon são do tipo esporádico e evoluem a partir de um tumor benigno, o pólipo colônico adenomatoso."
+    },
+    {
+     "letra": "B",
+     "texto": "O risco de desenvolvimento de câncer é maior nos adenomas do tipo viloso do que nos do tipo tubular. O tamanho do pólipo também é importante, visto que quanto maior for o pólipo, maior é o risco de câncer."
+    },
+    {
+     "letra": "C",
+     "texto": "A síndrome de Peutz-Jeghers é caracterizadas pela presença de pólipos adenomatosos no trato intestinal associados a hiperpigmentação da mucosa bucal, dos lábios e dos dedos."
+    },
+    {
+     "letra": "D",
+     "texto": "Na síndrome de Lynch temos casos de câncer colônico em pacientes mais jovens que o habitual, predominantemente nos segmentos colônicos a direita e com tendência para vários casos de câncer na família (padrão familiar/genético)."
+    },
+    {
+     "letra": "E",
+     "texto": "A colonoscopia, apesar de mais dispendiosa e mais invasiva, é o método padrão-ouro para o rastreamento na população em que o rastreamento é indicado."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186854",
+   "codigo": "4000186854",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 4,
+   "temas": [
+    "Síndrome de Polipose Hamartomatosa Hereditária"
+   ],
+   "enunciado": "Qual das síndromes abaixo tem maior associação com pólipos hamartosos?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Turcot."
+    },
+    {
+     "letra": "B",
+     "texto": "Peutz Jeghers."
+    },
+    {
+     "letra": "C",
+     "texto": "Amyand."
+    },
+    {
+     "letra": "D",
+     "texto": "Polipose Adenomatosa Familiar."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186787",
+   "codigo": "4000186787",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 5,
+   "temas": [
+    "Rastreio Câncer Colorretal"
+   ],
+   "enunciado": "A neoplasia colorretal está entre as mais prevalentes na população adulta e um diagnóstico precoce tem importante impacto na terapêutica e morbimortalidade associada. Sobre a triagem de tumor colorretal assinale a melhor alternativa:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Deve ser realizada apenas em pacientes com história familiar, após a idade em que o familiar mais jovem apresentou o diagnóstico."
+    },
+    {
+     "letra": "B",
+     "texto": "Deve ser feito com pesquisa de sangue oculto nas fezes a cada 10 anos a partir dos 50 anos de idade, independente de história familiar."
+    },
+    {
+     "letra": "C",
+     "texto": "Pessoas com Doença Inflamatória Intestinal não são consideradas de risco aumentado para neoplasia colorretal."
+    },
+    {
+     "letra": "D",
+     "texto": "A pesquisa deve iniciar aos 50 anos de idade em pacientes com risco moderado ou alto, ou antes em pacientes com história familiar, doenças inflamatórias intestinais e síndromes como a polipose adenomatosa. Entre as alternativas para triagem em assintomáticos está a colonoscopia a cada 10 anos."
+    },
+    {
+     "letra": "E",
+     "texto": "Pacientes idosos e com múltiplas comorbidades mantêm o benefício da triagem, mesmo se assintomáticos."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186743",
+   "codigo": "4000186743",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 6,
+   "temas": [
+    "Manif estações Clínicas"
+   ],
+   "enunciado": "Você está de plantão na emergência da UPA e admite paciente advinda da Unidade de Saúde da Família de 74 anos com história de dor abdominal, fraqueza, falta de apetite e anemia. Na história mórbida pregressa, a família relata que a paciente tinha sido operada de vesícula, retirado o útero e tomava remédios para \"pressão alta\". Em relação à doença atual, a paciente vem apresentando episódios de cólicas abdominais esporádicas com evacuações que variam de fezes endurecidas a diarreia, sendo que previamente aos sintomas relatava \"intestino preso\". No exame físico, o abdome estava plano sem distensão e à palpação profunda de anco direito a paciente apresentava massa palpável. A rotina hematológica confirmou a anemia (Ht: 32%), o RX de tórax e abdome estavam sem alterações. Com esses dados da história clínica e exame físico, pergunta-se: Qual é o diagnóstico provável?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Neoplasia do pâncreas."
+    },
+    {
+     "letra": "B",
+     "texto": "Neoplasia do fígado."
+    },
+    {
+     "letra": "C",
+     "texto": "Colelitíase ou colecistite aguda."
+    },
+    {
+     "letra": "D",
+     "texto": "Neoplasia do cólon direito."
+    },
+    {
+     "letra": "E",
+     "texto": "Apendicite aguda."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186660",
+   "codigo": "4000186660",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 7,
+   "temas": [
+    "Introdução Rotas de Disseminação e História Natural",
+    "Estadiamento do Câncer do Cólon e do Reto"
+   ],
+   "enunciado": "Câncer do Reto Homem, 58 anos, possui diagnóstico por biópsia de adenocarcinoma de reto. Ao exame físico, o tumor pode ser palpado no toque retal. De acordo com o caso, qual dos exames a seguir fornece o maior conjunto de informações relevantes para o tratamento do tumor primário?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "PET-CT"
+    },
+    {
+     "letra": "B",
+     "texto": "Retossigmoidoscopia flexível"
+    },
+    {
+     "letra": "C",
+     "texto": "Ressonância nuclear magnética da pelve"
+    },
+    {
+     "letra": "D",
+     "texto": "Tomografia computadorizada de pelve com contraste"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186497",
+   "codigo": "4000186497",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 8,
+   "temas": [
+    "Estadiamento Patológico",
+    "Câncer do Cólon"
+   ],
+   "enunciado": "A Classi cação TMN para um paciente idoso submetido a colectomia esquerda oncológica por adenocarcinoma, cujo o laudo anatomopatológico evidenciou um tumor que in ltra a muscular, tem metástase para 1 linfonodo regional e não apresentava metástases a distância será:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "T2N1M0"
+    },
+    {
+     "letra": "B",
+     "texto": "T3N1M0"
+    },
+    {
+     "letra": "C",
+     "texto": "T4N2M0"
+    },
+    {
+     "letra": "D",
+     "texto": "T3N2M0"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000185602",
+   "codigo": "4000185602",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 9,
+   "temas": [
+    "CEA",
+    "Cirurgia"
+   ],
+   "enunciado": "Paciente do sexo masculino, 55 anos de idade, realizou uma colonoscopia que mostrou uma tumoração subestenosante no reto médio. A biópsia confirmou a presença de adenocarcinoma. O cirurgião assistente solicitou exames de estadiamento pré-operatório. Com relação ao quadro clínico descrito acima, assinale a alternativa CORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O nível sérico de antígeno carcinoembrionário basal é um fator prognóstico relacionado à sobrevida."
+    },
+    {
+     "letra": "B",
+     "texto": "A ressonância magnética pélvica tem menos acurácia que a tomografia para o estudo da margem circunferencial."
+    },
+    {
+     "letra": "C",
+     "texto": "A tomografia por emissão de pósitrons deve ser usada de rotina para a detecção de metástases a distância."
+    },
+    {
+     "letra": "D",
+     "texto": "A radiografia de tórax tem uma sensibilidade similar à tomografia para a detecção de metástases pulmonares."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000185472",
+   "codigo": "4000185472",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 10,
+   "temas": [
+    "CEA"
+   ],
+   "enunciado": "O antígeno carcinoembrionário (CEA) deve ser solicitado:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Em pacientes com câncer colorretal logo após a ressecção do tumor"
+    },
+    {
+     "letra": "B",
+     "texto": "Em pacientes com diagnóstico de câncer colorretal antes da cirurgia"
+    },
+    {
+     "letra": "C",
+     "texto": "Em pacientes com suspeita de câncer colorretal para acompanhamento"
+    },
+    {
+     "letra": "D",
+     "texto": "Para todos pacientes após 45 anos para diagnóstico precoce de câncer colorretal"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000183431",
+   "codigo": "4000183431",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 11,
+   "temas": [
+    "Câncer de Cólon NãoPolipoide Hereditário"
+   ],
+   "enunciado": "Mulher, 32 anos, sem comorbidades, apresentou episódio de sangramento digestivo, sendo submetida à colonoscopia que evidenciou: uma lesão séssil de 3cm, friável, em cólon ascendente com sinais de sangramento recente, além de dois pólipos subcentimétricos em sigmoide e três pólipos subcentimétricos em cólon transverso. O histopatológico da lesão maior concluiu adenocarcinoma, os das demais lesões, adenomas tubulares. Sobre o caso em questão, assinale a alternativa CORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Essa paciente tem o provável diagnóstico de Síndrome de Puetz-Jeghers, caracterizada pela instabilidade micro- satélite."
+    },
+    {
+     "letra": "B",
+     "texto": "Por ser uma paciente muito jovem, ela tem indicação formal de proctocolectomia total com anastomose tipo bolsa ileal."
+    },
+    {
+     "letra": "C",
+     "texto": "Caso a mãe da paciente tenha história de câncer de endométrio e a tia da paciente de câncer de pelve renal, já está caracterizada a Síndrome de Lynch II."
+    },
+    {
+     "letra": "D",
+     "texto": "Nesses casos, mesmo em idade fértil, a pan-histerectomia total é mandatória"
+    },
+    {
+     "letra": "E",
+     "texto": "Por apresentar múltiplos pólipos colônicos, essa paciente tem o provável diagnóstico de polipose adenomatosa familiar."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000181762",
+   "codigo": "4000181762",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 12,
+   "temas": [
+    "Cirurgia",
+    "Síndrome Carcinoide"
+   ],
+   "enunciado": "Leia o caso clínico. Paciente do sexo feminino, com 46 anos submetida à apendicectomia videolaparoscópica por quadro de apendicite aguda. Retorna no décimo quinto dia pósoperatório, com resultado de histopatológico, revelando tumor carcinoide de apêndice, com 1,3 cm. Qual deverá ser a conduta eletiva?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hemicolectomia direita com linfadenectomia e quimioterapia."
+    },
+    {
+     "letra": "B",
+     "texto": "Hemicolectomia direita com linfadenectomia."
+    },
+    {
+     "letra": "C",
+     "texto": "Hemicolectomia direita sem linfadenectomia."
+    },
+    {
+     "letra": "D",
+     "texto": "Observação clínica."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000181226",
+   "codigo": "4000181226",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 13,
+   "temas": [
+    "Pólipos Intestinais",
+    "Cirurgia"
+   ],
+   "enunciado": "Um homem de 66 anos foi submetido à colonoscopia para rastreamento do câncer colorretal. Negava qualquer sintoma. Durante a colonoscopia, identificou-se, no cólon transverso, a lesão mostrada nas fotos 1 e 2. Qual é o diagnóstico e a respectiva conduta adequada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Neoplasia invasiva maligna / Ressecção endoscópica."
+    },
+    {
+     "letra": "B",
+     "texto": "Pólipo do cólon / Ressecção endoscópica."
+    },
+    {
+     "letra": "C",
+     "texto": "Pólipo do cólon / Colectomia direita ampliada."
+    },
+    {
+     "letra": "D",
+     "texto": "Neoplasia invasiva maligna / Quimioterapia neoadjuvante."
+    },
+    {
+     "letra": "E",
+     "texto": "Pólipo do cólon / Quimioterapia neoadjuvante."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q013-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000181184",
+   "codigo": "4000181184",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 14,
+   "temas": [
+    "Síndrome de Polipose Adenomatosa Hereditária"
+   ],
+   "enunciado": "Sobre a polipose adenomatosa familiar (PAF), atribua V (verdadeiro) ou F (falso) às afirmativas a seguir. ( ) É uma síndrome de transmissão autossômica dominante. ( ) Se não tratadas, 100% dos casos vão evoluir para adenocarcinoma. ( ) O tratamento de escolha é a colectomia total com reconstrução com bolsa ileal e anastomose. ( ) Pólipos gástricos e duodenais podem ocorrer em até 50% dos casos. ( ) Os pólipos duodenais, quando presentes, geralmente, são hiperplásicos, não necessitando de intervenção. Assinale a alternativa que contém, de cima para baixo, a sequência correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "V, V, V, F, F."
+    },
+    {
+     "letra": "B",
+     "texto": "V, V, F, V, F."
+    },
+    {
+     "letra": "C",
+     "texto": "F, V, F, F, V."
+    },
+    {
+     "letra": "D",
+     "texto": "F, F, V, F, V."
+    },
+    {
+     "letra": "E",
+     "texto": "F, F, F, V, V."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000177593",
+   "codigo": "4000177593",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 16,
+   "temas": [
+    "Câncer de Cólon NãoPolipoide Hereditário",
+    "Gastroenterologia"
+   ],
+   "enunciado": "A síndrome de Lynch é também denominada de câncer colorretal não polipoide hereditário (CCNPH), sendo responsável por, aproximadamente, 3% dos cânceres colorretais. Para a definição de CCNPH, é considerado um critério de Amsterdã:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "uma das pessoas afetadas ser parente em primeiro grau das outras duas pessoas afetadas."
+    },
+    {
+     "letra": "B",
+     "texto": "três gerações sucessivas afetadas."
+    },
+    {
+     "letra": "C",
+     "texto": "pelo menos um caso de câncer diagnosticado antes dos 40 anos."
+    },
+    {
+     "letra": "D",
+     "texto": "câncer de cólon e dois parentes em primeiro grau com câncer associado ao CCNPH."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000176672",
+   "codigo": "4000176672",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 17,
+   "temas": [
+    "Diagnóstico"
+   ],
+   "enunciado": "Um paciente com 58 anos de idade, branco, trabalhador rural, refere cansaço aos esforços, que estão cando mais intensos, e dor abdominal esporádica, e m cólica, localizada e m anco direito, há 1 mês. Refere apresentar sangramento esporádico nas fezes, tipo hematoquezia. Exames realizados na Unidade Básica de Saúde apresentaram: hemoglobina: 8,5 mg/dL (valor de referência [VR]: 13 a 16 mg/dL); hematócrito: 25% (VR: 38% a 52%). Observa-se perda ponderai de 16% em relação ao peso habitual. Ao exame físico, mostra-se afebril, emagrecido, com dor à palpação profunda em anco direito e fossa ilíaca direita. Nesse caso, a hipótese diagnóstica mais provável é de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "tumor de cólon direito."
+    },
+    {
+     "letra": "B",
+     "texto": "tuberculose intestinal."
+    },
+    {
+     "letra": "C",
+     "texto": "doença diverticular do cólon."
+    },
+    {
+     "letra": "D",
+     "texto": "doença inflamatória intestinal."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000173542",
+   "codigo": "4000173542",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 18,
+   "temas": [
+    "Cirurgia",
+    "Câncer Colorretal"
+   ],
+   "enunciado": "Paciente 72 anos, sexo masculino, evoluindo com alteração do hábito intestinal há 6 meses, alternando episódios d e constipação e diarreia. Realizou colonoscopia que evidenciou tumoração ulcerada em sigmoide, cujo histopatológico definiu adenocarcinoma invasivo. Realizou também tomogra as de tórax e abdômen com o seguinte achado: Sobre o caso em questão, assinale a alternativa CORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A radioterapia é uma opção bastante utilizada para tratamento neoadjuvante nesse caso."
+    },
+    {
+     "letra": "B",
+     "texto": "Como o paciente apresenta doença metastática, o tratamento deve, apenas, ser quimioterápico."
+    },
+    {
+     "letra": "C",
+     "texto": "A realização de biópsia hepática é necessária para confirmar que a alteração do fígado configura metástase."
+    },
+    {
+     "letra": "D",
+     "texto": "O paciente poderá ser considerado para um tratamento multimodal (cirurgia do cólon, quimioterapia e cirurgia hepática) com perspectiva de cura, apesar do prognóstico reservado."
+    },
+    {
+     "letra": "E",
+     "texto": "Se o paciente não apresentar sintomas gastrointestinais graves, o sigmoide não precisará ser operado, devendo realizar, apenas, a cirurgia hepática."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q018-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000169940",
+   "codigo": "4000169940",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 19,
+   "temas": [
+    "Neoplasias Apendiculares Pósapendicectomia",
+    "Neoplasias do Apêndice Cecal",
+    "Cirurgia"
+   ],
+   "enunciado": "Paciente de 43 anos, sexo masculino, submetido há 30 dias à apendicectomia devido a hipótese diagnóstica de apendicite aguda. O anatomopatológico denota cistoadenocarcinoma de apêndice cecal, de 2,5 cm de extensão, em base apendicular, com invasão de mesoapêndice. Qual a conduta adequada ao caso citado?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Colectomia total."
+    },
+    {
+     "letra": "B",
+     "texto": "Hemicolectomia direita + linfadenectomia retroperitoneal."
+    },
+    {
+     "letra": "C",
+     "texto": "Quimioterapia adjuvante."
+    },
+    {
+     "letra": "D",
+     "texto": "Radioquimioterapia adjuvante."
+    },
+    {
+     "letra": "E",
+     "texto": "Conduta conservadora: a apendicectomia foi terapêutica."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169934",
+   "codigo": "4000169934",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 20,
+   "temas": [
+    "Cirurgia",
+    "Câncer Colorretal"
+   ],
+   "enunciado": "Paciente de 64 anos, masculino, com histórico de anemia a esclarecer, chega ao Ambulatório de Cirurgia Geral com colonoscopia recente denotando lesão ulcerada, vegetante e friável em cólon direito, ocupando 50% da luz do órgão. Biópsia indicou adenocarcinoma pouco diferenciado. Qual a melhor conduta para o caso, nesse momento?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tomografia de tórax, abdome e pelve + dosagem de CEA."
+    },
+    {
+     "letra": "B",
+     "texto": "Laparoscopia diagnóstica para investigar carcinomatose peritoneal."
+    },
+    {
+     "letra": "C",
+     "texto": "Transversostomia em alça."
+    },
+    {
+     "letra": "D",
+     "texto": "Radioquimioterapia neoadjuvante."
+    },
+    {
+     "letra": "E",
+     "texto": "Mucosectomia endoscópica da lesão."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169603",
+   "codigo": "4000169603",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 21,
+   "temas": [
+    "Síndrome de Polipose Hamartomatosa Hereditária"
+   ],
+   "enunciado": "Homem, 45 anos de idade, hígido, submetido a colonoscopia de rastreio. Comparece em consulta de retorno com laudo histopatológico evidenciando pólipos hamartomatosos. Assinale a alternativa que contém uma síndrome hereditária associada ao achado:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Síndrome de Bannayan-Riley-Ruvalcaba"
+    },
+    {
+     "letra": "B",
+     "texto": "Polipose adenomatosa familiar"
+    },
+    {
+     "letra": "C",
+     "texto": "Síndrome de Peutz-Jeghers"
+    },
+    {
+     "letra": "D",
+     "texto": "Síndrome de Lynch"
+    },
+    {
+     "letra": "E",
+     "texto": "Síndrome de Gardner"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169530",
+   "codigo": "4000169530",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 22,
+   "temas": [
+    "Cirurgia",
+    "Câncer Colorretal"
+   ],
+   "enunciado": "Em relação à neoplasia de cólon obstrutiva, é CORRETO afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Geralmente, as obstruções do cólon esquerdo não requerem colostomias."
+    },
+    {
+     "letra": "B",
+     "texto": "O stent colônico, apesar dos riscos para colocação, oferece a oportunidade de anastomose primária."
+    },
+    {
+     "letra": "C",
+     "texto": "Nos casos de obstrução e perfuração, a ressecção da lesão com anastomose deve ser realizada."
+    },
+    {
+     "letra": "D",
+     "texto": "A síndrome de Ogilvie pode ser resultado de obstruções neoplásicas em cólon esquerdo."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000167964",
+   "codigo": "4000167964",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 23,
+   "temas": [
+    "Fatores de Risco"
+   ],
+   "enunciado": "Sobre os principais fatores de risco para o desenvolvimento do câncer colorretal (CCR), assinale a alternativa incorreta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A faixa etária mais acometida é entre 50 e 74 anos (cerca de 59% dos casos); apenas 10% ocorrem em pessoas abaixo de 50 anos e 31% em pessoas com mais de 74 anos."
+    },
+    {
+     "letra": "B",
+     "texto": "Maior quantidade de gordura corporal está relacionada a elevados níveis de insulina, com decorrente crescimento celular e inibição do processo de apoptose, sendo portanto a obesidade considerada um fator de risco importante para o ccr."
+    },
+    {
+     "letra": "C",
+     "texto": "Consumo moderado de álcool (ex: 125ml de vinho tinto seco ao dia) parece mostrar efeito protetor contra o ccr, entretanto há que se considerar seus efeitos deletérios principalmente sobre a função hepática."
+    },
+    {
+     "letra": "D",
+     "texto": "Pacientes portadores de doenças inflamatórias intestinais (rcu, crohn) têm risco maior de desenvolver ccr que a população geral."
+    },
+    {
+     "letra": "E",
+     "texto": "A recomendação para a prevenção do câncer colorretal é limitar o consumo de carne vermelha a até 500 gramas de carne cozida (equivalente a 750 gramas de carne crua) por semana e evitar o consumo de carnes processadas."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000167774",
+   "codigo": "4000167774",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 24,
+   "temas": [
+    "Cirurgia",
+    "Câncer Colorretal"
+   ],
+   "enunciado": "Um paciente com 62 anos de idade apresenta alteração de hábito intestinal há um ano e perda ponderai de 15 kg em 2 meses. Nega ter realizado exames de rotina. No momento, apresenta diarreia intensa há 24 horas, com vários episódios de evacuações líquidas, associado a dor abdominal difusa. Ao exame físico, está desidratado, com FC = 115 bpm, FR =19 irpm, SatO2 = 97% e temperatura axilar = 37 °C. Considerando esse caso clínico e os conhecimentos médicos correlatos, julgue o item a seguir. Caso seja confirmado o diagnóstico de câncer colorretal, pode ser indicada a cirurgia de Hartmann, que consiste na hemicolectomia esquerda e na reconstrução com anastomose primária em dois planos.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000167773",
+   "codigo": "4000167773",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 25,
+   "temas": [
+    "Cirurgia",
+    "Câncer Colorretal"
+   ],
+   "enunciado": "Um paciente com 62 anos de idade apresenta alteração de hábito intestinal há um ano e perda ponderai de 15 kg em 2 meses. Nega ter realizado exames de rotina. No momento, apresenta diarreia intensa há 24 horas, com vários episódios de evacuações líquidas, associado a dor abdominal difusa. Ao exame físico, está desidratado, com FC = 115 bpm, FR =19 irpm, SatO2 = 97% e temperatura axilar = 37 °C. Considerando esse caso clínico e os conhecimentos médicos correlatos, julgue o item a seguir. A tomogra a computadorizada é o exame para diagnóstico definitivo do câncer colorretal enquanto a colonoscopia é utilizada para estadiamento.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000167109",
+   "codigo": "4000167109",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 28,
+   "temas": [
+    "Síndromes de Câncer Colorretal Hereditário"
+   ],
+   "enunciado": "Assinale a alternativa que relaciona corretamente a síndrome hereditária ao aumento do risco de câncer colorretal.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A síndrome de Peutz-Jeghers é uma síndrome autossômica recessiva, caraterizada por pólipos hamartomatosos intestinais e hiperpigmentação da mucosa labial."
+    },
+    {
+     "letra": "B",
+     "texto": "A síndrome de Turcot é caracterizada, principalmente, por pólipos colorretais e adenomas tireoideanos."
+    },
+    {
+     "letra": "C",
+     "texto": "A síndrome de Lynch é caracterizada por pequeno número de pólipos colorretais e aumento do risco também de câncer de endométrio e ovário."
+    },
+    {
+     "letra": "D",
+     "texto": "A síndrome de Gardner é caracterizada pela presença de centenas a milhares de pólipos colorretais associados, principalmente, ao aumento do risco de câncer de colo uterino."
+    },
+    {
+     "letra": "E",
+     "texto": "A Polipose Adenomatosa Familiar (PAF) está fortemente associada à mutação do gene MLH1."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000166359",
+   "codigo": "4000166359",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 29,
+   "temas": [
+    "Tratamento Neoadjuvante"
+   ],
+   "enunciado": "Com relação ao adenocarcinoma de reto, qual destas apresentações são elegíveis para se realizar neoadjuvância com radioterapia e quimioterapia?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Colonoscopia com achado de lesão vegetante histopatologicamente confirmada, distante 15 cm da margem anal, ocupando 50% da luz e 50% da circunferência retal."
+    },
+    {
+     "letra": "B",
+     "texto": "Colonoscopia com achado de lesão vegetante histopatologicamente confirmada, distante 18 cm da margem anal, ocupando 75% da luz e 25% da circunferência retal."
+    },
+    {
+     "letra": "C",
+     "texto": "Colonoscopia com achado de lesão vegetante histopatologicamente confirmada, distante 12 cm da margem anal, ocupando 50% da luz e 100% da circunferência retal."
+    },
+    {
+     "letra": "D",
+     "texto": "Colonoscopia com achado de lesão vegetante histopatologicamente confirmada, distante 5 cm da margem anal, ocupando 50% da luz e 25% da circunferência retal"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000165155",
+   "codigo": "4000165155",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 30,
+   "temas": [
+    "Pólipos Intestinais",
+    "Gastroenterologia"
+   ],
+   "enunciado": "Com relação aos pólipos intestinais e aos síndromes polipoides, podemos afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o gene responsável pela transmissão da polipose adenomatosa familiar (PAF) é o gene APC que se encontra localizado no cromossoma 5q23."
+    },
+    {
+     "letra": "B",
+     "texto": "na síndrome de Turcot, além dos pólipos intestinais, são frequentes os osteomas e os cistos de inclusão epidermoide."
+    },
+    {
+     "letra": "C",
+     "texto": "a hiperplasia congênita do epitélio pigmentar da retina é um marcador interessante para a PAF e pode ser detectado em 75% dos casos."
+    },
+    {
+     "letra": "D",
+     "texto": "na PAF os tumores malignos extra intestinais mais frequentes são dos ductos biliares extra hepáticos, da vesícula biliar e do pâncreas."
+    },
+    {
+     "letra": "E",
+     "texto": "o tratamento cirúrgico da PAF com proctocolectomia total abdominal com confecção de bolsa ileal e anastomose íleo-anal, não é mais preconizado devido ao alto índice de processo inflamatório da bolsa ileal (bolsite)."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000164821",
+   "codigo": "4000164821",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 31,
+   "temas": [
+    "Fatores de Risco"
+   ],
+   "enunciado": "Em relação aos fatores de risco para câncer colorretal assinale V para VERDADEIRO e F para FALSO. Na sequência assinale a opção CORRETA: ( ) Polipose Adenomatosa familiar é uma doença autossômica recessiva e caso essa condição não seja tratada com colectomia total o desenvolvimento de câncer colorretal é a regra em todos os casos, por volta da quarta década de vida. ( ) O câncer de cólon costuma ter uma maior incidência de multicentricidade quando está associado à doença inflamatória intestinal. ( ) A ingesta de bebidas alcóolicas aumenta discretamente a incidência de câncer colorretal. ( ) Pacientes submetidos a ureterossigmoidostomia apresentam risco de desenvolvimento de câncer colorretal de 2 à 15%. ( ) A inativação de genes supressores tumorais (APC, DCC, p53) assim como a ativação de oncogenes como o K-ras foram descritas como fatores de risco para o câncer colorretal.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "F – V – V – V – V."
+    },
+    {
+     "letra": "B",
+     "texto": "F – F – V – V – V."
+    },
+    {
+     "letra": "C",
+     "texto": "F – V – F – V – V."
+    },
+    {
+     "letra": "D",
+     "texto": "V – V – V – V – V."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000164067",
+   "codigo": "4000164067",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 32,
+   "temas": [
+    "Tratamento do Câncer Retal",
+    "Cirurgia"
+   ],
+   "enunciado": "Paciente apresenta tenesmo progressivo, anemia e diarreia. Sem evidência de doença hepática ou pulmonar, realizou retossigmoidoscopia exível, que visualizou tumoração retal de 12cm, a 8cm da margem anal. O resultado da biópsia confirmou adenocarcinoma de reto. Nesse caso, o paciente poderá ser considerado apto para realizar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "ressecção abdominoperineal do reto e radioterapia adjuvante"
+    },
+    {
+     "letra": "B",
+     "texto": "radioterapia neoadjuvante e ressecção anterior de reto"
+    },
+    {
+     "letra": "C",
+     "texto": "colostomia com quimioterapia paliativa"
+    },
+    {
+     "letra": "D",
+     "texto": "retossigmoidectomia sem adjuvância"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000153182",
+   "codigo": "4000153182",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 33,
+   "temas": [
+    "Fatores de Risco"
+   ],
+   "enunciado": "Paciente 65 anos, masculino, apresentando alteração do hábito intestinal. Como história familiar, apresenta pai falecido de câncer de próstata aos 70 anos, mãe falecida de câncer de colo de útero aos 80 anos, avô paterno e primo por parte de mãe falecidos por câncer de cólon com 60 e 50 anos respectivamente. Realizou colonoscopia que evidenciou lesão estenosante na junção reto-sigmoidiana, 3 pólipos em reto e 5 pólipos em sigmoide. O resultado histopatológico da lesão estenosante foi adenocarcinoma de cólon moderadamente diferenciado. Quanto aos pólipos, todos eram de natureza adenomatosa, sendo 5 tubulares e 2 túbulo-vilosos (ambos no reto). Em qual das situações abaixo, levando em conta a história familiar e o diagnóstico, esse paciente melhor se enquadra?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Câncer colorretal hereditário não polipoide (Síndrome de Lynch)."
+    },
+    {
+     "letra": "B",
+     "texto": "Síndrome de Polipose Recessiva."
+    },
+    {
+     "letra": "C",
+     "texto": "Polipose adenomatosa familiar."
+    },
+    {
+     "letra": "D",
+     "texto": "Câncer colorretal esporádico."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000153173",
+   "codigo": "4000153173",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 34,
+   "temas": [
+    "Diagnóstico endoscópico"
+   ],
+   "enunciado": "Um homem com 58 anos de idade foi atendido em ambulatório de hospital secundário. Relatava sangramento e muco nas fezes, referia também alteração do hábito intestinal, com aumento do número de evacuações há 5 meses. O exame físico geral não apresentava particularidades e o toque retal evidenciou tumoração na parede posterior do reto, aproximadamente 7 cm acima da borda anal. Com base nos dados apresentados, a alternativa correta sobre o exame necessário para definir a conduta a ser seguida é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "ultrassonografia endorretal."
+    },
+    {
+     "letra": "B",
+     "texto": "ressonância nuclear magnética endorretal."
+    },
+    {
+     "letra": "C",
+     "texto": "enema baritado com duplo contraste."
+    },
+    {
+     "letra": "D",
+     "texto": "colonoscopia com biópsia."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000152078",
+   "codigo": "4000152078",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 35,
+   "temas": [
+    "Diagnóstico endoscópico",
+    "Cirurgia"
+   ],
+   "enunciado": "Odete, 74 anos, chega ao consultório com história de hematoquezia intermitente, de pequeno volume, nos últimos 6 meses, período em que tem notado piora da constipação intestinal e perda ponderal. Você realiza toque retal no consultório, sem alterações. Qual é a hipótese diagnóstica a ser considerada e a conduta mais apropriada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Doença hemorroidária. Prescrever dieta rica em fibras, aumentar a ingestão de líquidos, banhos de assento e atividade física regular."
+    },
+    {
+     "letra": "B",
+     "texto": "Tumor de cólon direito. Solicitar retossigmoidoscopia."
+    },
+    {
+     "letra": "C",
+     "texto": "Doença inflamatória intestinal. Solicitar calprotectina fecal"
+    },
+    {
+     "letra": "D",
+     "texto": "Tumor de cólon esquerdo. Solicitar colonoscopia."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000146616",
+   "codigo": "4000146616",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 36,
+   "temas": [
+    "Diagnóstico"
+   ],
+   "enunciado": "Uma paciente com 35 anos de idade procura atendimento hospitalar devido a episódio único de sangramento anal vermelho vivo, indolor, em pequena quantidade durante evacuação. Nega qualquer história prévia de traumatismo local. Em seu exame físico, constatou-se que a paciente está em bom estado geral, normocorada, PA = 120 x 60 mmHg, FC = 76 bpm e com pulso radial amplo, regular. Abdome plano e depressível, indolor à palpação, sem massas palpáveis e sem sinais de irritação peritoneal. A anuscopia não demonstrou doença hemorroidária externa e/ou ssuras anais e/ou fístulas perianais. O toque retal não identi cou lesões palpáveis, até cerca de ± 6 cm da margem anal, porém, evidenciou discreta quantidade de sangue em dedo-de-luva. O médico assistente solicitou hemograma, cujo resultado foi normal. A paciente foi liberada com encaminhamento ambulatorial e com solicitação de exame de colonoscopia. O resultado da colonoscopia mostrou alguns pólipos colônicos, não pediculados, e lesão de borda elevada com ulceração central, séssil, ± 1,5 cm de diâmetro, em cólon sigmoide, distando ± 35 cm da margem anal - a qual foi biopsiada. Nesse caso clínico, a hipótese diagnóstica mais provável para essa paciente é de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "polipose adenomatosa familiar."
+    },
+    {
+     "letra": "B",
+     "texto": "síndrome de Peutz-Jeghers."
+    },
+    {
+     "letra": "C",
+     "texto": "neoplasia colônica."
+    },
+    {
+     "letra": "D",
+     "texto": "doença de Crohn."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000146435",
+   "codigo": "4000146435",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 37,
+   "temas": [
+    "Rastreio Câncer Colorretal"
+   ],
+   "enunciado": "Homem, 50 anos, fez a primeira colonoscopia para rastreamento de câncer de cólon. Não tem história familiar de câncer intestinal. Comparece no ambulatório com o seguinte resultado: dois pólipos em sigmoide de 15 mm retirados sem intercorrências; anátomo-patológico: adenomas tubulares de baixo grau. A próxima colonoscopia deve ser feita em",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "dez anos."
+    },
+    {
+     "letra": "B",
+     "texto": "sete anos."
+    },
+    {
+     "letra": "C",
+     "texto": "cinco anos."
+    },
+    {
+     "letra": "D",
+     "texto": "três anos."
+    },
+    {
+     "letra": "E",
+     "texto": "um ano."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000145969",
+   "codigo": "4000145969",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 38,
+   "temas": [
+    "Diagnóstico",
+    "Estadiamento do Câncer do Cólon e do Reto",
+    "Tratamento do Câncer Colônico"
+   ],
+   "enunciado": "Paciente, 62 anos de idade, com queixa de sangramento ao evacuar há cerca de 6 meses, associada à perda de 5kg de peso no período, realizou colonoscopia que visualizou lesão vegetante e ulcerada no cólon sigmoide, com 5cm de extensão. Anatomopatológico confirmou adenocarcinoma invasivo moderadamente diferenciado. Exames de estadiamento não evidenciaram lesões secundárias. Em relação ao caso, assinale a alternativa correta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O estadiamento foi realizado com tomografia de tórax e ecoendoscopia da lesão."
+    },
+    {
+     "letra": "B",
+     "texto": "O tratamento indicado é a retossigmoidectomia com linfadenectomia e anastomose colorretal, preferencialmente por via laparoscópica."
+    },
+    {
+     "letra": "C",
+     "texto": "A principal conduta é realizar quimioterapia e, em seguida, tratamento cirúrgico, caso ainda persista lesão primária."
+    },
+    {
+     "letra": "D",
+     "texto": "O CEA é um marcador tumoral importante e, caso esteja normal, deve-se considerar a hipótese de lesão benigna."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000145465",
+   "codigo": "4000145465",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 39,
+   "temas": [
+    "Rastreio Câncer Colorretal"
+   ],
+   "enunciado": "Homem de 67 anos vai ao clínico para a avaliação periódica de saúde. Está assintomático. Diz que apresentou anemia nos exames ocupacionais solicitados pelo médico do trabalho (disponíveis a seguir). Fumou 1 maço de cigarro por dia dos 20 aos 55 anos; nega etilismo e uso contínuo de medicamentos. O pai teve câncer de cólon aos 56 anos e a mãe tem hipertensão arterial sistêmica. Ao exame, PA 146x92mmHg, FC 76bpm, FR15ipm, IMC 32kg/m² • O abdome é globoso e normotenso. Sem outras anormalidades ao exame. Os exames laboratoriais mostram: Hb 11,2g/dl; Hct 30,2%; VCM 76 ; HCM 24,2pg; VHCM 30, 1 g/dl; leucócitos totais 4.500/mm³ ; plaquetas 340.890/mm³ • Dentre as condutas seguintes adotadas pelo médico, assinale a que está ADEQUADA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Dosagem da hemoglobina glicada para rastreio de diabetes mellitus"
+    },
+    {
+     "letra": "B",
+     "texto": "Mapeamento ambulatorial da PA para confirmar hipertensão arterial sistêmica"
+    },
+    {
+     "letra": "C",
+     "texto": "Pesquisa de sangue oculto nas fezes para rastreio do câncer colorretal"
+    },
+    {
+     "letra": "D",
+     "texto": "Ultrassonografia de abdome para rastreio de aneurisma da aorta abdominal"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000145415",
+   "codigo": "4000145415",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 40,
+   "temas": [
+    "Manif estações Clínicas",
+    "Tratamento do Câncer Retal",
+    "Estadiamento do Câncer do Cólon e do Reto"
+   ],
+   "enunciado": "O câncer de cólon é um dos principais tumores malignos, tanto nos homens quanto nas mulheres. Em relação ao seu diagnóstico, estadiamento e tratamento, assinale a alternativa correta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O enema opaco é indicado para avaliar alteração do hábito intestinal e, dessa forma, para o diagnóstico da neoplasia de cólon."
+    },
+    {
+     "letra": "B",
+     "texto": "A pesquisa de sangue oculto nas fezes é a forma de rastreamento apropriada para este tipo de tumor."
+    },
+    {
+     "letra": "C",
+     "texto": "A tríade anemia, perda ponderai e massa palpável é típica do câncer de cólon direito."
+    },
+    {
+     "letra": "D",
+     "texto": "A quimioterapia é a principal forma de tratamento, sendo a cirurgia realizada apenas para os casos de pacientes sintomáticos."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000144331",
+   "codigo": "4000144331",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 41,
+   "temas": [
+    "Diagnóstico"
+   ],
+   "enunciado": "Paciente de 69 anos, tabagista, comparece no consultório com queixa de astenia e prostração, refere ainda períodos de constipação intestinal com episódios alternados de diarreia. Ao exame físico não se encontram grandes alterações. Em relação à conduta imediata assinale alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Solicitar tomografia abdominal."
+    },
+    {
+     "letra": "B",
+     "texto": "Solicitar Ressonância magnética abdominal."
+    },
+    {
+     "letra": "C",
+     "texto": "Solicitar colonoscopia."
+    },
+    {
+     "letra": "D",
+     "texto": "Solicitar pesquisa de sangue oculto nas fezes."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000141793",
+   "codigo": "4000141793",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 42,
+   "temas": [
+    "Tratamento Adjuvante"
+   ],
+   "enunciado": "Mulher, 62 anos, previamente hígida, apresenta sangramento retal vivo e espontâneo. Refere ainda tenesmo. Nega perda de peso. Ao toque, tumoração a 5-6 cm da margem anal. Biópsia evidenciou adenocarcinoma bem diferenciado. Avaliando-se a ressonância magnética abaixo, deve-se propor idealmente o seguinte tratamento:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "amputação abdominoperineal de reto e radioterapia pós-operatória."
+    },
+    {
+     "letra": "B",
+     "texto": "ressecção anterior de reto como tratamento único."
+    },
+    {
+     "letra": "C",
+     "texto": "quimio e radioterapia curativas (sem cirurgia)."
+    },
+    {
+     "letra": "D",
+     "texto": "quimio e radioterapia pré-operatórias, seguidas de cirurgia."
+    },
+    {
+     "letra": "E",
+     "texto": "quimioterapia com bevacizumab e"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q042-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000141120",
+   "codigo": "4000141120",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 43,
+   "temas": [
+    "Diagnóstico"
+   ],
+   "enunciado": "Mulher, 61a, vem com queixa de sangue vivo nas fezes há cerca de quatro meses. O sangue é em pequena quantidade e não há dor ao evacuar. Nega náusea, vômitos ou perda de peso. Nega história familiar de neoplasia. Antecedente pessoal: diabete melito tipo 2, em uso de metformina. Exame físico: descorada +/4+. PARA O PROSSEGUIMENTO DA INVESTIGAÇÃO ETIOLÓGICA DEVE REALIZAR:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tomografia computadorizada de abdome e sangue oculto nas fezes."
+    },
+    {
+     "letra": "B",
+     "texto": "Tomografia computadorizada de abdome e enema opaco."
+    },
+    {
+     "letra": "C",
+     "texto": "Toque retal e pesquisa de sangue oculto nas fezes."
+    },
+    {
+     "letra": "D",
+     "texto": "Toque retal e colonoscopia."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000141040",
+   "codigo": "4000141040",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 44,
+   "temas": [
+    "Tratamento das Metástases Hepáticas do CCR"
+   ],
+   "enunciado": "Assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "As lesões metastáticas do fígado têm como origem, em sua grande maioria, os tumores primários de estômago, com uma taxa de sobrevida de 2% em 5 anos."
+    },
+    {
+     "letra": "B",
+     "texto": "A neoplasia de pâncreas é a que mais desenvolve metástase hepática, chegando a 90% dos casos de metástase de fígado."
+    },
+    {
+     "letra": "C",
+     "texto": "O câncer de mama, hoje, representa as maiores taxas de lesões metastáticas para o fígado."
+    },
+    {
+     "letra": "D",
+     "texto": "As lesões metastáticas do fígado têm como origem, em sua grande maioria, os tumores provenientes do colón e do reto e apresentam uma taxa média de sobrevida de 50% em 5 anos após hepatectomia."
+    },
+    {
+     "letra": "E",
+     "texto": "Os hepatocarcinomas têm diminuído sua incidência e não guardam relação com os quadros cirróticos e de hepatite prévia."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000140756",
+   "codigo": "4000140756",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 45,
+   "temas": [
+    "Tratamento Cirúrgico"
+   ],
+   "enunciado": "Homem de 59 anos de idade procura o Serviço de Emergência com dor abdominal em cólica, difusa, há 3 dias, associada a distensão abdominal e parada de eliminação de gases e fezes. Refere alteração do hábito intestinal há 3 meses, com necessidade de laxativos para evacuar, além de sangue nas fezes e alteração do formato. Nega vômitos. Não tem antecedentes mórbidos relevantes e nega operações prévias. Ao exame físico está em bom estado geral, corado, desidratado, IMC: 31kg/m2. Semiologias cardíaca e pulmonar normais. Abdome: ácido, distendido, pouco doloroso à palpação, sem sinais de irritação peritoneal e sem massas palpáveis. No toque retal, ausência de fezes na ampola, presença de lesão ulcerada circunferencial a 6 cm da borda anal e presença de sangue. Realizada tomogra a de abdome e pelve: ausência de lesões hepáticas, sem liquido livre. Distensão apenas de cólon e espessamento do reto médio distal com linfonodos aumentados no mesorreto. Qual é a conduta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ileostomia em alça por laparotomia."
+    },
+    {
+     "letra": "B",
+     "texto": "Retossigmoidectomia oncológica e colostomia terminal."
+    },
+    {
+     "letra": "C",
+     "texto": "Colostomia em alça por laparotomia."
+    },
+    {
+     "letra": "D",
+     "texto": "Amputação de reto com linfadenectomia."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000140693",
+   "codigo": "4000140693",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 46,
+   "temas": [
+    "Manif estações Clínicas"
+   ],
+   "enunciado": "Homem de 50 anos de idade apresenta-se à consulta na unidade básica de saúde com exames laboratoriais evidenciando anemia hipocrômica e microcítica. Para a investigação diagnóstica dessa situação, é importante solicitar",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "pesquisa de sangue oculto nas fezes, para excluir doenças do trato gastrointestinal."
+    },
+    {
+     "letra": "B",
+     "texto": "colonoscopia, para excluir neoplasia dos cólons."
+    },
+    {
+     "letra": "C",
+     "texto": "dosagens de ferro, vitamina B12 e ácido fólico, para excluir anemias carenciais."
+    },
+    {
+     "letra": "D",
+     "texto": "eletroforese de hemoglobinas, para excluir causa falciforme."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000140615",
+   "codigo": "4000140615",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 47,
+   "temas": [
+    "Câncer de Cólon NãoPolipoide Hereditário"
+   ],
+   "enunciado": "Paciente do sexo masculino, de 45 anos, apresentou, há 3 meses, alteração do hábito intestinal, dor abdominal e hematoquezia. Realizou colonoscopia que evidenciou lesão vegetante ulcerada em cólon ascendente com 3 cm e outra lesão com 2,0 cm, em cólon transverso, apresentando as mesmas características. Biópsias das lesões foram compatíveis com adenocarcinoma pouco diferenciado com células em anel de sinete. Estudo imuno-histoquímico mostrou expressão de proteínas MSH2 e MSH6 e ausência de expressão de MLH1 e PMS2. O paciente informou que pai teve câncer de cólon aos 52 anos, e a irmã, câncer de cólon aos 48 anos. O quadro clínico é sugestivo de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "síndrome de Turcot."
+    },
+    {
+     "letra": "B",
+     "texto": "polipose adenomatosa familial atenuada."
+    },
+    {
+     "letra": "C",
+     "texto": "síndrome de Cowden."
+    },
+    {
+     "letra": "D",
+     "texto": "síndrome de Lynch."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000139800",
+   "codigo": "4000139800",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 48,
+   "temas": [
+    "Rastreio Câncer Colorretal"
+   ],
+   "enunciado": "Solicita-se uma colonoscopia para histórico de tabagismo ou história familiar de neoplasia. O laudo do exame mostra a presença de 2 pólipos (5 e 7 mm), localizados em sigmoide, com o estudo anatomopatológico mostrando pólipo hiperplásico. Diante do resultado apresentado, qual é a conduta a ser adotada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Repetir colonoscopia em 3 meses."
+    },
+    {
+     "letra": "B",
+     "texto": "Repetir colonoscopia em 1 ano."
+    },
+    {
+     "letra": "C",
+     "texto": "Realizar apenas retossigmoidoscopia em 3 meses para reavaliação."
+    },
+    {
+     "letra": "D",
+     "texto": "Realizar apenas retossigmoidoscopia para seguimento em 1 ano."
+    },
+    {
+     "letra": "E",
+     "texto": "Repetir colonoscopia preventiva em 5 a 10 anos."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000132800",
+   "codigo": "4000132800",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 49,
+   "temas": [
+    "Estadiamento do Câncer do Cólon e do Reto"
+   ],
+   "enunciado": "Sobre a propedêutica básica frente ao diagnóstico de câncer colorretal, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Todos os casos de doença metastática contraindicam o tratamento definitivo."
+    },
+    {
+     "letra": "B",
+     "texto": "A cintilografia por emissão de pósitrons (PET- SCAN – PET-CT) está indicada de rotina na avaliação inicial do câncer colorretal."
+    },
+    {
+     "letra": "C",
+     "texto": "O peritônio é o sítio mais difícil para avaliação pelos exames de imagem."
+    },
+    {
+     "letra": "D",
+     "texto": "O antígeno carcinoembrionário (CEA) pré-operatório elevado é marcador de pior prognóstico."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000132788",
+   "codigo": "4000132788",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 50,
+   "temas": [
+    "Estadiamento do Câncer do Cólon e do Reto"
+   ],
+   "enunciado": "Assinale a alternativa que apresenta o item que não contribui para o estadiamento da neoplasia do cólon.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Dosagem do antígeno carcinoembrionário (CEA)."
+    },
+    {
+     "letra": "B",
+     "texto": "Exame físico."
+    },
+    {
+     "letra": "C",
+     "texto": "Tomografia computadorizada de abdome."
+    },
+    {
+     "letra": "D",
+     "texto": "Radiografia do tórax."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000130969",
+   "codigo": "4000130969",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 51,
+   "temas": [
+    "Câncer de Cólon NãoPolipoide Hereditário"
+   ],
+   "enunciado": "Paciente masculino, 36 anos de idade, procurou seu clínico geral para realizar uma colonoscopia, pois sua irmã de 40 anos foi recém diagnosticada com adenocarcinoma de cólon. Além da irmã, o pai do paciente faleceu aos 60 anos por obstrução intestinal maligna e seu tio, por adenocarcinoma de ceco aos 55 anos. O paciente nega perda ponderal, hematoquezia e seu exame físico é totalmente normal. Considerando o exposto, como deve ser feito o rastreio de neoplasia colorretal deste paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Solicitar pesquisa de sangue oculto nas fezes; se negativa, tranquilizar o paciente"
+    },
+    {
+     "letra": "B",
+     "texto": "Fazer o rastreio padrão com colonoscopia aos 50 anos, repetindo de 10 em 10 anos"
+    },
+    {
+     "letra": "C",
+     "texto": "Solicitar colonoscopia virtual ou 3D, já que este exame tem maior sensibilidade"
+    },
+    {
+     "letra": "D",
+     "texto": "Solicitar colonoscopia e, conforme resultado, repetir a cada 1 ou 2 anos"
+    },
+    {
+     "letra": "E",
+     "texto": "Realizar dosagem de CEA e, caso elevado, solicitar pesquisa dos genes MLH1, MSH2 e MSH6"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000129214",
+   "codigo": "4000129214",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 52,
+   "temas": [
+    "Fatores de Risco",
+    "Gastroenterologia"
+   ],
+   "enunciado": "Todas as alternativas abaixo contemplam fatores de risco potencialmente associados a aumento da incidência de câncer de intestino,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Uso de aspirina e de anti-inflamatórios não esteroidais"
+    },
+    {
+     "letra": "B",
+     "texto": "Obesidade e consumo elevado de produtos processados"
+    },
+    {
+     "letra": "C",
+     "texto": "Polipose adenomatose familiar e polipose juvenil"
+    },
+    {
+     "letra": "D",
+     "texto": "Doença inflamatória intestinal e doença celíaca"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000128419",
+   "codigo": "4000128419",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 53,
+   "temas": [
+    "Diagnóstico"
+   ],
+   "enunciado": "Com referência ao câncer de cólon, é correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O cólon direito é o local da maior prevalência da doença."
+    },
+    {
+     "letra": "B",
+     "texto": "História familiar não é importante para detecção precoce em pacientes portadores de lesão."
+    },
+    {
+     "letra": "C",
+     "texto": "A colonoscopia é o exame de escolha na detecção, por permitir diagnóstico topográfico e biópsia da lesão."
+    },
+    {
+     "letra": "D",
+     "texto": "A presença de pólipo inflamatório é o principal sinal do alerta, devendo, sempre que presente, indicar repetição do exame anualmente."
+    },
+    {
+     "letra": "E",
+     "texto": "Os pulmões são os principais focos de metástase sistêmica."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000142317",
+   "codigo": "4000142317",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 54,
+   "temas": [
+    "Rastreio Câncer Colorretal"
+   ],
+   "enunciado": "Paciente, M.J.F, sexo feminino, 52 anos, tabagista, compareceu à UBS para consulta de rotina, sem queixas. Dentre os exames solicitados pelo médico de família, está o exame de pesquisa de sangue oculto nas fezes pelo método imunoquímico positivo. Qual a razão da solicitação desse exame?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Identificar possível úlcera."
+    },
+    {
+     "letra": "B",
+     "texto": "Rastrear câncer de colo retal."
+    },
+    {
+     "letra": "C",
+     "texto": "Diagnosticar uma colite."
+    },
+    {
+     "letra": "D",
+     "texto": "Rastrear doença de Chron."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000127307",
+   "codigo": "4000127307",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 55,
+   "temas": [
+    "Câncer de Cólon NãoPolipoide Hereditário",
+    "Diagnóstico laboratorial"
+   ],
+   "enunciado": "Uma paciente com 35 anos de idade procurou a demanda espontânea de atendimentos em unidade básica de saúde pois queria fazer uma colonoscopia e estava muito preocupada com o diagnóstico de câncer colorretal em sua irmã de 37 anos. Ela era totalmente assintomática e relatava que o pai faleceu aos 58 anos por uma obstrução intestinal provocada por um câncer colorretal, e que um tio paterno foi operado em decorrência de um tumor de ceco, aos 55 anos. A paciente negava comorbidades e seu exame físico foi completamente normal. Considerando a situação clínica apresentada, qual deve ser a forma proposta para rastreamento de câncer colorretal a essa paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Solicitar pesquisa de sangue oculto nas fezes e a colonoscopia, se for positiva."
+    },
+    {
+     "letra": "B",
+     "texto": "Orientar a realização de colonoscopia a partir dos 40 anos, repetindo o exame a cada 5anos."
+    },
+    {
+     "letra": "C",
+     "texto": "Solicitar colonoscopia e mediante resultado normal repetir o exame a cada um ou dois anos."
+    },
+    {
+     "letra": "D",
+     "texto": "Orientar a realização de colonoscopia a partir dos cinquenta anos, repetindo o exame a cada dez anos."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000125753",
+   "codigo": "4000125753",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 56,
+   "temas": [
+    "Síndrome de Polipose Adenomatosa Hereditária"
+   ],
+   "enunciado": "A síndrome de Gardner é a polipose adenomatosa familiar que cursa com",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "câncer de ovário."
+    },
+    {
+     "letra": "B",
+     "texto": "osteoma."
+    },
+    {
+     "letra": "C",
+     "texto": "câncer gástrico."
+    },
+    {
+     "letra": "D",
+     "texto": "osteosarcoma."
+    },
+    {
+     "letra": "E",
+     "texto": "câncer de endométrio."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000125741",
+   "codigo": "4000125741",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 57,
+   "temas": [
+    "Tratamento do Câncer Colônico"
+   ],
+   "enunciado": "Paciente de 15 anos de idade, sexo masculino, durante uma evacuação na escola, notou sangramento retal. A colonoscopia revelou incontáveis pólipos no cólon e no reto, e o laudo histopatológico da biopsia de um desses pólipos confirmou pólipo adenomatoso. O pai dele morrera aos 54 anos, devido a um sangramento retal. A conduta mais apropriada, neste caso, é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "proctocolectomia total."
+    },
+    {
+     "letra": "B",
+     "texto": "acompanhamento com colonoscopia a cada 2 meses."
+    },
+    {
+     "letra": "C",
+     "texto": "dieta laxativa."
+    },
+    {
+     "letra": "D",
+     "texto": "orientar o paciente a não usar papel higiênico."
+    },
+    {
+     "letra": "E",
+     "texto": "aguardar a transformação de alguns pólipos para câncer."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000124926",
+   "codigo": "4000124926",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 58,
+   "temas": [
+    "Fatores de Risco",
+    "Epidemiologia"
+   ],
+   "enunciado": "Com relação ao câncer colorretal em pacientes geriátricos, assinale a alternativa incorreta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O câncer colorretal é, predominantemente, uma doença do envelhecimento e uma causa importante de morbimortalidade na população idosa."
+    },
+    {
+     "letra": "B",
+     "texto": "O aumento da idade é um fator de prognóstico favorável no câncer colorretal."
+    },
+    {
+     "letra": "C",
+     "texto": "A apresentação de sinais e sintomas do câncer colorretal depende da localização do tumor e não varia substancialmente com a idade."
+    },
+    {
+     "letra": "D",
+     "texto": "A incidência anual de câncer de cólon é quase 40 vezes maior para aqueles com mais de 85 anos, comparada com indivíduos com 40 a 44 anos."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000124070",
+   "codigo": "4000124070",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 59,
+   "temas": [
+    "Manif estações Clínicas"
+   ],
+   "enunciado": "As manifestações mais frequentes dos tumores do colón direito (até o ângulo esplênico) e do colón esquerdo são, respectivamente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "massa palpável, distensão e constipação / massa palpável, distensão e constipação."
+    },
+    {
+     "letra": "B",
+     "texto": "massa palpável, distensão e constipação / massa palpável, anemia e melena."
+    },
+    {
+     "letra": "C",
+     "texto": "melena, anemia e fadiga / cólicas abdominais, diarreia alternando constipação e distensão."
+    },
+    {
+     "letra": "D",
+     "texto": "massa palpável, hematócrito elevado e desidratação / melena, massa palpável e diarreia."
+    },
+    {
+     "letra": "E",
+     "texto": "dor em cólica, distensão abdominal e constipação / massa palpável, melena e fadiga."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000121222",
+   "codigo": "4000121222",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 60,
+   "temas": [
+    "Tratamento do Câncer Retal"
+   ],
+   "enunciado": "A evolução do tratamento cirúrgico do câncer de reto apresentou grandes mudanças nos últimos anos, e um dos grandes benefícios foi a realização de anastomoses colorretais ultrabaixas ou coloanais com a preservação do aparelho esfincteriano. Marque a alternativa correta sobre a evolução do tratamento do câncer de reto:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A ressecção total do mesorreto é um procedimento atualmente utilizado somente em cirurgias videolaparoscopicas, pois apresentam um risco maior de lesao dos nervos epigastricos nas cirurgias abertas."
+    },
+    {
+     "letra": "B",
+     "texto": "A terapia neoadjuvante apresentou um impacto de grande importância na confecção das anastomoses colorretais ultrabaixa e coloanal com cirurgias para preservação do aparelho esfincteriano."
+    },
+    {
+     "letra": "C",
+     "texto": "A cirurgia de hartmann é a primeira escolha nos casos de tumores de reto alto associado a quimioterapia neoadjuvante."
+    },
+    {
+     "letra": "D",
+     "texto": "A cirurgia de miles ainda e a primeira escolha nos tumores de reto inferior diagnosticados na ressonância nuclear magnética."
+    },
+    {
+     "letra": "E",
+     "texto": "A cirurgia de Miles esta em desuso pois apresenta um alto índice de recidiva local, sendo substituida pela ressecção total do mesorreto nos tumores de reto médio e baixo."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120170",
+   "codigo": "4000120170",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 61,
+   "temas": [
+    "Diagnóstico laboratorial"
+   ],
+   "enunciado": "Quanto ao rastreamento do câncer colorretal (CCR), julgue os itens subsequentes. I - A pesquisa de sangue oculto (PSO) nas fezes por meio do método guáiaco ou imunoquímico diminuiu a mortalidade devido a CCR, mas não a incidência. II - Pacientes com queixa de sangramento anal eventual e sem antecedentes familiares de pólipos ou CCR devem ser rastreados com PSO a partir dos cinquenta anos de idade. III - A colonoscopia é o único exame que deve ser solicitado aos pacientes com risco alto para CCR. IV - A PSO por meio do método imunoquímico tem baixa sensibilidade para pólipos menores que 1 cm. A quantidade de itens certos é igual a",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "0"
+    },
+    {
+     "letra": "B",
+     "texto": "1"
+    },
+    {
+     "letra": "C",
+     "texto": "2"
+    },
+    {
+     "letra": "D",
+     "texto": "3"
+    },
+    {
+     "letra": "E",
+     "texto": "4"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000114275",
+   "codigo": "4000114275",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 62,
+   "temas": [
+    "Manif estações Clínicas"
+   ],
+   "enunciado": "Paciente do sexo feminino, 78 anos, hígida até recentemente, encaminhada com queixa de astenia e palidez. Teve perda ponderal de 7 kg (>10% do peso) nos últimos 3 meses, embora mantenha boa aceitação alimentar. Nega também variação do hábito intestinal, embora tenha cólicas em região periumbilical de leve a moderada intensidade. Nega melena, hematêmese, hematoquezia, disfagia, dispnéia ou vômitos. Tem exames laboratoriais alterados: Hb 8,3; Ht 21%, pesquisa de sangue oculto nas fezes positiva. Considerando o perfil clínico e epidemiológico, a topografia mais provável de uma neoplasia neste caso é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "esôfago;"
+    },
+    {
+     "letra": "B",
+     "texto": "estômago;"
+    },
+    {
+     "letra": "C",
+     "texto": "cólon ascendente;"
+    },
+    {
+     "letra": "D",
+     "texto": "cólon sigmoide."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000114157",
+   "codigo": "4000114157",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 63,
+   "temas": [
+    "Diagnóstico laboratorial"
+   ],
+   "enunciado": "Paciente do sexo feminino, 55 anos, hígida em consulta de rotina em UBS pergunta ao médico sua opinião a respeito de rastreamento para câncer colo retal. Nega antecedentes familiares dessa neoplasia e nunca foi submetida a este rastreamento previamente. De acordo com as recomendações atuais para a população brasileira, tendo como objetivo oferecer as melhores condições para diagnóstico precoce e a prevenção desse tipo de neoplasia, o médico, nesta consulta indicou:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Exame proctológico e sangue oculto nas fezes;"
+    },
+    {
+     "letra": "B",
+     "texto": "Colonoscopia e antígeno cárcino embrionário;"
+    },
+    {
+     "letra": "C",
+     "texto": "Sangue oculto nas fezes e colonoscopia;"
+    },
+    {
+     "letra": "D",
+     "texto": "Exame proctológico e colonoscopia."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000108423",
+   "codigo": "4000108423",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 64,
+   "temas": [
+    "Rastreio Câncer Colorretal"
+   ],
+   "enunciado": "Sobre o rastreamento do câncer de cólon por meio de pesquisa de sangue oculto nas fezes, é correto a rmar que deve ser realizado anual ou bianualmente",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "em homens e mulheres acima dos 50 anos, uma vez que evidências mostram que este rastreamento reduz a mortalidade por câncer de cólon."
+    },
+    {
+     "letra": "B",
+     "texto": "em pacientes mulheres, a partir dos 50 anos, e reduz em 14% a mortalidade por câncer de cólon quando aplicado ao longo de 10 anos."
+    },
+    {
+     "letra": "C",
+     "texto": "em pacientes mulheres, a partir dos 40 anos, mesmo na ausência de sinais de alerta."
+    },
+    {
+     "letra": "D",
+     "texto": "após colonoscopia positiva para pacientes maiores de 50 anos, apesar da pouca evidência na redução da mortalidade."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000107722",
+   "codigo": "4000107722",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 65,
+   "temas": [
+    "Tratamento do Câncer Retal"
+   ],
+   "enunciado": "Mulher de 62 anos de idade, em consulta ambulatorial com queixa de fezes a ladas, por vezes também com sangue e perda de peso de 7kg no último ano. Realizou colonoscopia completa, que evidenciou lesão ulcerada, ocupando 50% da luz do reto, a 6cm da borda anal. Estadiamento com ressonância magnética da pelve mostrou lesão restrita ao reto, com linfonodos aumentados em mesorreto. Tomogra a de tórax e abdômen superior sem sinais de doença metastática. Biópsia da lesão revelou tratar-se de adenocarcinoma moderadamente diferenciado. Em relação ao caso, assinale a alternativa correta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O tratamento indicado, nesse momento, é iniciar com quimioterapia e radioterapia neoadjuvante, seguindo de novo estadiamento, conforme as evidências."
+    },
+    {
+     "letra": "B",
+     "texto": "Trata-se de neoplasia maligna do reto, sem metástases. Deve-se prosseguir, imediatamente, com retossigmoidectomia, linfadenectomia e anastomose primária."
+    },
+    {
+     "letra": "C",
+     "texto": "Trata-se de lesão de reto baixo, sem possibilidade de preservação esfincteriana. Dessa forma, a cirurgia indicada é a amputação abdominoperineal do reto."
+    },
+    {
+     "letra": "D",
+     "texto": "Nas neoplasias do reto, a excisão total do mesorreto deve ser realizada apenas nos casos em que há suspeita de comprometimento dos linfonodos, pelos exames pré-operatórios de imagem."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000107630",
+   "codigo": "4000107630",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 66,
+   "temas": [
+    "Tratamento do Câncer Retal"
+   ],
+   "enunciado": "Num paciente de 40 anos, com lesão subestenosante de reto baixo, realizou-se estadiamento com tomogra a de tórax, abdome e pelve, que evidenciou espessamento do reto baixo, com alteração do sinal da gordura perirretal e estruturas nodulares no mesorreto compatíveis com linfonodomegalia. Nessa situação, o tratamento neoadjuvante tem como objetivo todas as ações listadas a seguir, EXCETO",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "downstaging da lesão."
+    },
+    {
+     "letra": "B",
+     "texto": "preservação esfincteriana."
+    },
+    {
+     "letra": "C",
+     "texto": "melhora na sobrevida."
+    },
+    {
+     "letra": "D",
+     "texto": "redução da recidiva local."
+    },
+    {
+     "letra": "E",
+     "texto": "mudança na conduta cirúrgica."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000106271",
+   "codigo": "4000106271",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 67,
+   "temas": [
+    "Abdome Agudo Obstrutivo",
+    "Câncer Colônico Complicado",
+    "Cirurgia"
+   ],
+   "enunciado": "A cirurgia de Hartmann é possivelmente a mais realizada na urgência, no tratamento do doente com neoplasia obstrutiva de cólon esquerdo. Principal motivo para a adoção desse procedimento, no contexto indicado:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Lesão perfurada com peritonite."
+    },
+    {
+     "letra": "B",
+     "texto": "Idade avançada."
+    },
+    {
+     "letra": "C",
+     "texto": "Prevenção da morbidade relacionada a possível deiscência de anastomose ereoperacão, com o consequente retardo no início do tratamento oncológico complementar."
+    },
+    {
+     "letra": "D",
+     "texto": "Desnutrição, principalmente se associada a hipoalbuminemia."
+    },
+    {
+     "letra": "E",
+     "texto": "Existência de doença neoplásica peritoneal, caracterizada por implantes esparsos noepíplon e/ou metástases hepáticas."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000103542",
+   "codigo": "4000103542",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 68,
+   "temas": [
+    "Classif icações dos Pólipos",
+    "Sequência AdenomaCarcinoma"
+   ],
+   "enunciado": "Dentre os achados da colonoscopia, aquele com mais risco para transformação maligna é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Pólipo adenomatoso túbulo-viloso"
+    },
+    {
+     "letra": "B",
+     "texto": "Pólipo inflamatório em pacientes com Doença de Crohn"
+    },
+    {
+     "letra": "C",
+     "texto": "Pólipo adenomatoso tubular"
+    },
+    {
+     "letra": "D",
+     "texto": "Pólipo adenomatoso viloso"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000102461",
+   "codigo": "4000102461",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 69,
+   "temas": [
+    "Estadiamento do Câncer do Cólon e do Reto"
+   ],
+   "enunciado": "Homem, 72 anos de idade, foi submetido a cirurgia abdominal para a ressecção de um câncer de cólon esquerdo. O estudo anatomopatológico, pós-cirúrgico, do seguimento ressecado revelou a presença de neoplasia metastática em um dos 15 linfonodos examinados. Qual é o estadiamento da doença conforme este achado?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Estadio IB"
+    },
+    {
+     "letra": "B",
+     "texto": "Estadio IV"
+    },
+    {
+     "letra": "C",
+     "texto": "Estadio IIB"
+    },
+    {
+     "letra": "D",
+     "texto": "Estadio IIA"
+    },
+    {
+     "letra": "E",
+     "texto": "Estadio IIIA"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000096149",
+   "codigo": "4000096149",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 70,
+   "temas": [
+    "Síndrome de Polipose Hamartomatosa Hereditária"
+   ],
+   "enunciado": "As síndromes de Peutz-Jeghers, polipose adenomatosa associada ao MUTYH e síndrome de polipose serrilhada estão associadas a risco aumentada de câncer em qual órgão?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ovário."
+    },
+    {
+     "letra": "B",
+     "texto": "Cólon."
+    },
+    {
+     "letra": "C",
+     "texto": "Útero."
+    },
+    {
+     "letra": "D",
+     "texto": "Endométrio."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000094126",
+   "codigo": "4000094126",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 71,
+   "temas": [
+    "Pólipos Intestinais"
+   ],
+   "enunciado": "Das lesões polipóides abaixo, a que apresenta maior potencial de degeneração maligna é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Adenoma tubular."
+    },
+    {
+     "letra": "B",
+     "texto": "Pólipo hiperplásico."
+    },
+    {
+     "letra": "C",
+     "texto": "Adenoma viloso."
+    },
+    {
+     "letra": "D",
+     "texto": "Hamartoma."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000086538",
+   "codigo": "4000086538",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 72,
+   "temas": [
+    "Classif icações dos Pólipos",
+    "Sequência AdenomaCarcinoma"
+   ],
+   "enunciado": "Em relação às mutações genéticas que promovem a sequência adenoma-carcinoma no câncer colorretal, é correto a rmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "uma das primeiras alterações é a formação das criptas por mutação do gene supressor de tumor APC"
+    },
+    {
+     "letra": "B",
+     "texto": "os adenomas tubulares têm maior risco de malignização que os adenomas vilosos"
+    },
+    {
+     "letra": "C",
+     "texto": "pacientes com câncer de cólon e mutação no gene p53 têm melhor prognóstico"
+    },
+    {
+     "letra": "D",
+     "texto": "os adenomas vilosos geralmente são do tipo pedunculados"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000085786",
+   "codigo": "4000085786",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 73,
+   "temas": [
+    "Câncer de Cólon NãoPolipoide Hereditário"
+   ],
+   "enunciado": "Em relação ao câncer colorretal hereditário sem polipose os critérios clínicos incluem, no mínimo, _______________ parentes portadores de adenocarcinoma de cólon com _______________ gerações sucessivas afetadas e, pelo menos, um caso abaixo dos _______________ anos de idade. A esses critérios é adicionada a história de surgimento de tumores de _______________ entre indivíduos das famílias afetadas.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "2 - 2 - 40 - endométrio"
+    },
+    {
+     "letra": "B",
+     "texto": "2 - 3 - 50 - intestino delgado"
+    },
+    {
+     "letra": "C",
+     "texto": "3 - 3 - 40 - intestino delgado"
+    },
+    {
+     "letra": "D",
+     "texto": "3 - 2- 50 - endométrio"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000084364",
+   "codigo": "4000084364",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 74,
+   "temas": [
+    "Classif icações dos Pólipos"
+   ],
+   "enunciado": "Paciente masculino, 52 anos, lhe procura em sua UBS pois foi submetido a colonoscopia para rastreio de câncer colorretal, durante a qual foi realizada retirada de pólipo colônico. O mesmo apresentou diagnóstico de adenoma serrilhado, gerando apreensão no paciente. Quanto a este tipo de pólipo, sabe-se que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Predomina no lado direito do cólon e está associado ao desenvolvimento de câncer"
+    },
+    {
+     "letra": "B",
+     "texto": "Predomina no lado esquerdo do cólon e está associado ao desenvolvimento de câncer"
+    },
+    {
+     "letra": "C",
+     "texto": "É mais frequente em mulheres jovens e tabagistas"
+    },
+    {
+     "letra": "D",
+     "texto": "É mais frequente em mulheres jovens e não tabagistas"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000084304",
+   "codigo": "4000084304",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 75,
+   "temas": [
+    "Sequência AdenomaCarcinoma"
+   ],
+   "enunciado": "Homem de 65 anos apresenta história de emagrecimento, constipação, fezes em ta, tenesmo e episódios de hematoquezia. No exame físico, encontra-se descorado ++/4, emagrecido, com FC = 110bpm e PA = 100 x 70mmHg. A palpação abdominal é indolor e não apresenta visceromegalias. O toque retal mostra sangue vivo na luva, sem massas no fundo de saco, e próstata aumentada, de consistência elástica, mas sem nodulações. Em relação ao tumor maligno mais provável, é correto afirmar que o(a):",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "lesão precursora tende a ser um pólipo, com transformação para adenocarcinoma"
+    },
+    {
+     "letra": "B",
+     "texto": "melhor exame para o diagnóstico é a tomografia computorizada contrastada"
+    },
+    {
+     "letra": "C",
+     "texto": "tratamento mais eficaz é feito com radioterapia associada à quimioterapia"
+    },
+    {
+     "letra": "D",
+     "texto": "disseminação por via hematogênica é mais precoce que a linfática"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000075754",
+   "codigo": "4000075754",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 76,
+   "temas": [
+    "Classif icação de Haggitt"
+   ],
+   "enunciado": "Segundo a classificação de Haggitt para pólipos intestinais com câncer, o nível que representa um pólipo com carcinoma invadindo a camada muscular da mucosa para dentro da submucosa, restrito à cabeça do pólipo é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "0"
+    },
+    {
+     "letra": "B",
+     "texto": "1"
+    },
+    {
+     "letra": "C",
+     "texto": "2"
+    },
+    {
+     "letra": "D",
+     "texto": "3"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000074998",
+   "codigo": "4000074998",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 77,
+   "temas": [
+    "Síndrome de Polipose Hamartomatosa Hereditária"
+   ],
+   "enunciado": "Homem, 40 anos, com queixa de constipação, é submetido à colonoscopia que demonstra múltiplos pólipos hamartomatosos colônicos. Exame físico: numerosas e diminutas nodulações na mucosa oral, além de ceratose palmar e plantar. A hipótese diagnóstica mais provável da condição de base deste paciente é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "síndrome de Cowden"
+    },
+    {
+     "letra": "B",
+     "texto": "tilose"
+    },
+    {
+     "letra": "C",
+     "texto": "síndrome de Peutz-Jeghers"
+    },
+    {
+     "letra": "D",
+     "texto": "síndrome de Gardner"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000074707",
+   "codigo": "4000074707",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 78,
+   "temas": [
+    "Manif estações Clínicas"
+   ],
+   "enunciado": "Homem, 72 anos de idade, com queixa de astenia progressiva associada a perda de peso (7% em 4 meses, sem dieta). Há 1 mês com diarreia, com muco junto às fezes, sendo que previamente o paciente apresentava hábito intestinal normal. Traz consigo hemograma realizado na Unidade Básica de Saúde, o qual revela anemia microcítica e hipocrômica. Qual é o diagnóstico para o caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Diverticulite aguda"
+    },
+    {
+     "letra": "B",
+     "texto": "Neoplasia de reto alto"
+    },
+    {
+     "letra": "C",
+     "texto": "Neoplasia de cólon direito"
+    },
+    {
+     "letra": "D",
+     "texto": "Síndrome do intestino irritável"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000074607",
+   "codigo": "4000074607",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 79,
+   "temas": [
+    "Tratamento do Câncer Colônico"
+   ],
+   "enunciado": "Mulher, 62 anos de idade, comparece para consulta médica com queixa de sangue nas fezes há 1 ano. Refere também que no período chegou a receber 1 bolsa de sangue devido a anemia e perdeu 7kg. Não há outros antecedentes pessoais. Traz um exame de colonoscopia completa que evidenciou uma lesão ulcerada no colón sigmoide, de cerca de 5cm, que ocupa 50% da luz e está localizada a 17cm da borda anal. Os exames de tomogra a de tórax, abdômen e pelve não tem alterações. Sobre o caso descrito, indique a alternativa que descreve a conduta apropriada para o caso:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A lesão é passível de ressecção por colonoscopia, sendo esta a melhor opção terapêutica."
+    },
+    {
+     "letra": "B",
+     "texto": "Trata-se de lesão possivelmente benigna e a melhor conduta é repetir nova colonoscopia em 6 meses."
+    },
+    {
+     "letra": "C",
+     "texto": "Há indicação de tratamento cirúrgico com retossigmoidectomia e linfadenectomia."
+    },
+    {
+     "letra": "D",
+     "texto": "Iniciar quimioterapia e radioterapia o mais breve possível, e repetir a colonoscopia após o término do tratamento."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000073760",
+   "codigo": "4000073760",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 80,
+   "temas": [
+    "Fatores de Risco"
+   ],
+   "enunciado": "Dentre as medicações que o paciente da questão 54 está usando regulamente, assinale a alternativa que contém aquela (s) que pode (m) proteger contra o câncer colorretal.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Metformina e AAS."
+    },
+    {
+     "letra": "B",
+     "texto": "AAS."
+    },
+    {
+     "letra": "C",
+     "texto": "AAS e enalapril."
+    },
+    {
+     "letra": "D",
+     "texto": "Metformina e enalapril."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000072837",
+   "codigo": "4000072837",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 81,
+   "temas": [
+    "Síndromes de Câncer Colorretal Hereditário"
+   ],
+   "enunciado": "A síndrome de Peutz-Jeghers, que pode ser caracterizada por pequena quantidade de pólipos e lesão cutâneas pigmentadas e por uma maior incidência de tumores gastrointestinais, câncer de mama e câncer pancreático é causada pela mutação do Gene:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "MSH2."
+    },
+    {
+     "letra": "B",
+     "texto": "TSC1."
+    },
+    {
+     "letra": "C",
+     "texto": "CDH1."
+    },
+    {
+     "letra": "D",
+     "texto": "STK11."
+    },
+    {
+     "letra": "E",
+     "texto": "PTC."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000072835",
+   "codigo": "4000072835",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 82,
+   "temas": [
+    "Síndrome de Polipose Adenomatosa Hereditária"
+   ],
+   "enunciado": "A hipertrofia congênita do epitélio pigmentar retiniano, está associada a qual síndrome de câncer hereditário?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Polipose juvenil."
+    },
+    {
+     "letra": "B",
+     "texto": "Peutz - Jeghers."
+    },
+    {
+     "letra": "C",
+     "texto": "Turcot."
+    },
+    {
+     "letra": "D",
+     "texto": "Ruvalcaba Myhre - Smith."
+    },
+    {
+     "letra": "E",
+     "texto": "Polipose adenomatosa familiar."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000067648",
+   "codigo": "4000067648",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 83,
+   "temas": [
+    "Tumores do Apêndice Introdução"
+   ],
+   "enunciado": "Tumor benigno mais comum no intestino delgado:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Leiomioma"
+    },
+    {
+     "letra": "B",
+     "texto": "Adenoma"
+    },
+    {
+     "letra": "C",
+     "texto": "Lipoma"
+    },
+    {
+     "letra": "D",
+     "texto": "Sarcoma"
+    },
+    {
+     "letra": "E",
+     "texto": "Fibroma"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000064677",
+   "codigo": "4000064677",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 84,
+   "temas": [
+    "Tumor Neuroendócrino do Apêndice"
+   ],
+   "enunciado": "O tumor maligno mais comum do intestino delgado é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Adenocarcinoma."
+    },
+    {
+     "letra": "B",
+     "texto": "GIST."
+    },
+    {
+     "letra": "C",
+     "texto": "Tumor Carcinoide."
+    },
+    {
+     "letra": "D",
+     "texto": "Linfoma."
+    },
+    {
+     "letra": "E",
+     "texto": "Linfossarcoma."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000064538",
+   "codigo": "4000064538",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 85,
+   "temas": [
+    "Diagnóstico laboratorial"
+   ],
+   "enunciado": "Quanto ao rastreamento do câncer colorretal (CCR), julgue os itens subsequentes. I - A pesquisa de sangue oculto (PSO) nas fezes por meio do método guáiaco ou imunoquímico diminuiu a mortalidade devido a CCR, mas não a incidência. II - Pacientes com queixa de sangramento anal eventual e sem antecedentes familiares de pólipos ou CCR devem ser rastreados com PSO a partir dos cinquenta anos de idade. III - A colonoscopia é o único exame que deve ser solicitado aos pacientes com risco alto para CCR. IV - A PSO por meio do método imunoquímico tem baixa sensibilidade para pólipos menores que 1 cm. A quantidade de itens certos é igual a",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "0"
+    },
+    {
+     "letra": "B",
+     "texto": "1."
+    },
+    {
+     "letra": "C",
+     "texto": "2."
+    },
+    {
+     "letra": "D",
+     "texto": "3."
+    },
+    {
+     "letra": "E",
+     "texto": "4."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000050370",
+   "codigo": "4000050370",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 86,
+   "temas": [
+    "Classif icações dos Pólipos",
+    "Sequência AdenomaCarcinoma"
+   ],
+   "enunciado": "Em relação aos pólipos do cólon e reto, considere as seguintes afirmativas: 1. Adenoma tubular é o tipo mais comum de pólipo colônico, correspondendo de 65 a 80% dos pólipos ressecados. 2. Na polipose adenomatosa familial, 100% dos pacientes que não forem tratados cirurgicamente irão desenvolver câncer colorretal. 3. Os pólipos benignos podem se desenvolver em câncer colorretal. 4. Pólipos adenoma vilosos, quando maiores que 2 cm de diâmetro, têm uma chance de 50% de serem câncer. Assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Somente a afirmativa 4 é verdadeira."
+    },
+    {
+     "letra": "B",
+     "texto": "Somente as afirmativas 1 e 4 são verdadeiras."
+    },
+    {
+     "letra": "C",
+     "texto": "Somente as afirmativas 2 e 3 são verdadeiras."
+    },
+    {
+     "letra": "D",
+     "texto": "Somente as afirmativas 1, 2 e 3 são verdadeiras."
+    },
+    {
+     "letra": "E",
+     "texto": "As afirmativas 1, 2, 3 e 4 são verdadeiras."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047404",
+   "codigo": "4000047404",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 87,
+   "temas": [
+    "Classif icações dos Pólipos",
+    "Síndrome de Polipose Adenomatosa Hereditária"
+   ],
+   "enunciado": "Paciente do sexo masculino de 35 anos de idade, com história familiar de polipose intestinal, é indicado colonoscopia que mostra 2 pólipos intestinais de 0,5 e 0,6 cm, com base estreita bem pediculados sem erosões localizados no cólon direito. Dos pólipos abaixo o provavelmente encontrado foi:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Pseudopólipo"
+    },
+    {
+     "letra": "B",
+     "texto": "Pólipo de retenção"
+    },
+    {
+     "letra": "C",
+     "texto": "Pólipo hiperplásico"
+    },
+    {
+     "letra": "D",
+     "texto": "Adenomacarcinoma"
+    },
+    {
+     "letra": "E",
+     "texto": "Pólipo adenomatoso"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046893",
+   "codigo": "4000046893",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 88,
+   "temas": [
+    "Câncer de Cólon NãoPolipoide Hereditário"
+   ],
+   "enunciado": "O câncer colorretal hereditário não poliposo (HNPCC) pode ser diagnosticado através de testes genéticos e da aplicação dos critérios de Amsterdam II e Bethesda. Qual dos tumores extracolônicos abaixo NÃO faz parte dessa condição autossômica dominante?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Intestino delgado"
+    },
+    {
+     "letra": "B",
+     "texto": "Endométrio"
+    },
+    {
+     "letra": "C",
+     "texto": "Pelve renal"
+    },
+    {
+     "letra": "D",
+     "texto": "Ovário"
+    },
+    {
+     "letra": "E",
+     "texto": "Tireoide"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000025758",
+   "codigo": "4000025758",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 89,
+   "temas": [
+    "Câncer de Cólon NãoPolipoide Hereditário"
+   ],
+   "enunciado": "A instabilidade de microssatélites (MSI)",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "é mais comumente identificada em câncer colorretal de localização distal à flexura esplênica."
+    },
+    {
+     "letra": "B",
+     "texto": "é causada por erro de reparação de DNA."
+    },
+    {
+     "letra": "C",
+     "texto": "está correlacionada com pior sobrevida do paciente com adenocarcinoma de cólon."
+    },
+    {
+     "letra": "D",
+     "texto": "está comumente presente nos pacientes portadores de polipose adenomatose familiar."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000023943",
+   "codigo": "4000023943",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 90,
+   "temas": [
+    "Síndrome de Polipose Adenomatosa Hereditária"
+   ],
+   "enunciado": "A associação de pólipos adenomatosos colorretais e neoplasia primária do sistema nervoso central como o meduloblastoma é observada em qual síndrome de câncer hereditário?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Síndrome de Turcot."
+    },
+    {
+     "letra": "B",
+     "texto": "Doença de Cowden."
+    },
+    {
+     "letra": "C",
+     "texto": "Polipose Juvenil Familiar."
+    },
+    {
+     "letra": "D",
+     "texto": "Síndrome de Peutz-Jeghers."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000013381",
+   "codigo": "4000013381",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 91,
+   "temas": [
+    "Classif icações dos Pólipos",
+    "Sequência AdenomaCarcinoma"
+   ],
+   "enunciado": "Acerca de pólipos colônicos, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Pólipos hamartomatosos são característicos da síndrome de Gardner e podem ser causa de sangramento."
+    },
+    {
+     "letra": "B",
+     "texto": "Polipose adenomatose familiar é uma doença autossômica dominante, e um possível tratamento indicado é colectomia e vigilância endoscópica do restante do trato gastrointestinal."
+    },
+    {
+     "letra": "C",
+     "texto": "Na polipose juvenil familiar, tipicamente, os pólipos adenomatoides estão presentes no cólon e no reto e podem ocasionar sangramento."
+    },
+    {
+     "letra": "D",
+     "texto": "Os pólipos inflamatórios são raros e têm alto potencial de malignidade."
+    },
+    {
+     "letra": "E",
+     "texto": "Os cânceres de cólon esquerdo são habitualmente lesões exofíticas que estão associadas com perda de sangue oculto, e resultam em anemia por deficit de ferro."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000128164",
+   "codigo": "4000128164",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 92,
+   "temas": [
+    "Síndrome de Polipose Adenomatosa Hereditária"
+   ],
+   "enunciado": "RDD, 30 anos, sexo masculino, casado, balconista, iniciou alteração do hábito intestinal e sangramento nas fezes. A retossigmoidoscopia mostrou mamilos hemorroidários de III grau e vários pólipos no reto. Foi realizada colonoscopia que mostrou inúmeros pólipos em todo o intestino grosso. O exame de fundo de olho confirmou hipertro a congênita do epitélio pigmentar da retina (CHRDE). Apresentava também osteoma de face (mandíbular) e cistos epidérmicos em região pré-tibial, mas não sabe precisar a época de seus aparecimentos. Foi solicitada EDA e está proposta a realização de colectomia total. Em relação aos desdobramento deste caso, assinale a alternativa INCORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A realização de coletomia total, previne o aparecimento de câncer ligado à Polipose Adenomatosa Familiar"
+    },
+    {
+     "letra": "B",
+     "texto": "A realização de laparotomia aumenta o risco de aparecimento de tumor desmóide"
+    },
+    {
+     "letra": "C",
+     "texto": "As manifestações extraintestinais podem proceder ao aparecimento dos pólipos do intestino grosso"
+    },
+    {
+     "letra": "D",
+     "texto": "Os pólipos do estômago acometem principalmente o antro e têm baixo risco de malignização"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000111155",
+   "codigo": "4000111155",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 93,
+   "temas": [
+    "Síndrome de Polipose Hamartomatosa Hereditária"
+   ],
+   "enunciado": "Mulher, 46 anos, procura o pronto-socorro com quadro de dor abdominal tipo cólica, acompanhada de náuseas e vômitos. Refere episódios anteriores semelhantes que melhoravam com antiespasmódicos, além de episódio único de enterorragia em pequena quantidade. Não apresenta cirurgias anteriores. Ao exame físico, notam-se lesões pigmentares mucocutâneas em lábios, conforme mostra a figura, e nos dedos das mãos. Indicada a cirurgia, que mostrou intussuscepção jejuno-jejunal. Face ao exposto, a suspeita clínica é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "síndrome de Peutz-Jeghers."
+    },
+    {
+     "letra": "B",
+     "texto": "adenocarcinoma de jejuno."
+    },
+    {
+     "letra": "C",
+     "texto": "diverticulite de Meckel."
+    },
+    {
+     "letra": "D",
+     "texto": "polipose juvenil."
+    },
+    {
+     "letra": "E",
+     "texto": "síndrome de Cowden."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q093-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000107907",
+   "codigo": "4000107907",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 94,
+   "temas": [
+    "Síndromes de Câncer Colorretal Hereditário"
+   ],
+   "enunciado": "Sobre as Síndromes de Câncer Hereditário, assinale a alternativa INCORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A Síndrome de Peutz-Jeghers é uma síndrome autossômica dominante, caracterizada pela combinação de pólipos hamartomatosos do trato intestinal e hiperpigmentação da mucosa bucal, lábio e dígitos."
+    },
+    {
+     "letra": "B",
+     "texto": "Os Pólipos Juvenis são pólipos benignos compostos de dilatação cística de estruturas glandulares dentro do estroma fibroblástico da lâmina própria."
+    },
+    {
+     "letra": "C",
+     "texto": "A Síndrome de Turcot é caracterizada por centenas a milhares de pólipos colorretais, adenomas duodenais e pólipos gástricos."
+    },
+    {
+     "letra": "D",
+     "texto": "A Polipose Adenomatosa Familiar está relacionada com o gene APC (Adenomatose Polyposi Coli)."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000080923",
+   "codigo": "4000080923",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 95,
+   "temas": [
+    "Classif icações dos Pólipos"
+   ],
+   "enunciado": "Qual das lesões polipoides colônicas abaixo possui maior risco para uma transformação maligna?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hamartoma."
+    },
+    {
+     "letra": "B",
+     "texto": "Adenoma viloso."
+    },
+    {
+     "letra": "C",
+     "texto": "Adenoma serrilhado."
+    },
+    {
+     "letra": "D",
+     "texto": "Adenoma Tubular."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000071647",
+   "codigo": "4000071647",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 96,
+   "temas": [
+    "Classif icações dos Pólipos"
+   ],
+   "enunciado": "Os pólipos hiperplásicos:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Estão distribuídos igualmente por todo o cólon."
+    },
+    {
+     "letra": "B",
+     "texto": "Costumam ser maiores que os pólipos adenomatosos."
+    },
+    {
+     "letra": "C",
+     "texto": "Com grande potencial de malignização, o seguimento endoscópico pós-retirada deve ser anual."
+    },
+    {
+     "letra": "D",
+     "texto": "Não sendo neoplásicos, não são precursores de câncer cólon retal."
+    },
+    {
+     "letra": "E",
+     "texto": "São raros em pessoas acima de 50 anos."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000071518",
+   "codigo": "4000071518",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 97,
+   "temas": [
+    "Síndrome de Polipose Hamartomatosa Hereditária"
+   ],
+   "enunciado": "A síndrome caracterizada por pólipos gastrointestinais hemartomalosos, geralmente lipomas, hemangiomas ou linfagiomas; características faciais disfórmicas, macrocefalia, convulsões, danos intelectuais e máculas pigmentadas da haste e glande do pênis, é denominada: Respostas: 1 12 23 34 45 56 67 78 89",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Síndrome de Bannayan-Zonana"
+    },
+    {
+     "letra": "B",
+     "texto": "Síndrome de Cronkhite-Canada"
+    },
+    {
+     "letra": "C",
+     "texto": "Muir-Torre"
+    },
+    {
+     "letra": "D",
+     "texto": "Bessands-Hilmand-Augier"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": [
+  {
+   "id": "4000178521",
+   "codigo": "4000178521",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 15,
+   "temas": [
+    "Rastreio Câncer Colorretal",
+    "Cirurgia"
+   ],
+   "enunciado": "Dona Aurora, de 50 anos, branca, foi submetida à laparotomia exploradora em caráter de urgência, por obstrução intestinal. No intraoperatório, foi encontrada lesão estenosante localizada no cólon descendente, acarretando dilatação do cólon a montante, sem sofrimento intestinal, e ausência de dilatação das alças de delgado. O cirurgião suspeitou de neoplasia maligna de cólon, e o diagnóstico foi confirmado posteriormente. Conversando com as duas lhas dessa paciente, uma de 25 anos e a outra de 23 anos, o cirurgião explicou que, assumindo-se que ela seja o primeiro familiar portador de carcinoma de cólon, ambas as filhas deveriam fazer o rastreio para neoplasia. Tendo como referência esse caso, faça o que se pede nos itens a seguir. Cite quatro fatores de risco para desenvolvimento de câncer colorretal. Indique o rastreamento mais adequado para as filhas de Dona Aurora.",
+   "alternativas": [],
+   "gabarito": null,
+   "imagens": [],
+   "revisar": [],
+   "motivo_exclusao": "sem alternativas"
+  },
+  {
+   "id": "4000167431",
+   "codigo": "4000167431",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 26,
+   "temas": [
+    "Cirurgia",
+    "Câncer Colorretal"
+   ],
+   "enunciado": "Mulher, 68a, procura a Unidade Básica de Saúde com queixa de fraqueza, cansaço e palpitação há quatro meses, principalmente após esforço como caminhada. Refere empachamento e perda ponderai de 5 Kg no período. Nega alteração do hábito intestinal, mas acha que as fezes estão escuras e fétidas. Exame físico: Bom estado geral, descorada 2+/4+, anictérica, acianótica. Abdome: tumoração palpável, endurecida, de limites imprecisos, indolor, em fossa ilíaca direita. Toque retal: sem alterações. A PRINCIPAL HIPÓTESE DIAGNÓSTICA É:",
+   "alternativas": [],
+   "gabarito": null,
+   "imagens": [],
+   "revisar": [],
+   "motivo_exclusao": "sem alternativas"
+  },
+  {
+   "id": "4000167418",
+   "codigo": "4000167418",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Pólipos e Neoplasias Intestinais",
+   "numero": 27,
+   "temas": [
+    "Rastreio Câncer Colorretal",
+    "Gastroenterologia"
+   ],
+   "enunciado": "Mulher, 45a, assintomática, procura o serviço médico pois possui antecedentes familiares para câncer de intestino (pai), estômago (tio paterno) e endométrio (mãe). O EXAME PARA RASTREAMENTO NESSA PACIENTE É:",
+   "alternativas": [],
+   "gabarito": null,
+   "imagens": [],
+   "revisar": [],
+   "motivo_exclusao": "sem alternativas"
+  }
+ ]
+}

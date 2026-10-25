@@ -1,0 +1,2836 @@
+{
+ "questoes": [
+  {
+   "id": "4000190727",
+   "codigo": "4000190727",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 1,
+   "temas": [
+    "Tratamento das taquicardias de QRS estreito"
+   ],
+   "enunciado": "Paciente feminina, 35 anos, sem comorbidades, admitida em leito de terapia intensiva após laparotomia exploradora por cisto de ovário roto. Após 12 horas de observação clínica, apresenta dor torácica de forte intensidade, palpitações, associada a dispneia súbita e hipotensão. Sem alterações neurológicas. Realizado eletrocardiograma abaixo. A conduta mais adequada neste caso é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Amiodarona 300mg em bolus."
+    },
+    {
+     "letra": "B",
+     "texto": "Amiodarona 150mg em bolus."
+    },
+    {
+     "letra": "C",
+     "texto": "Metoprolol 25mg via oral."
+    },
+    {
+     "letra": "D",
+     "texto": "Cardioversão elétrica."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q001-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000190491",
+   "codigo": "4000190491",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 2,
+   "temas": [
+    "Conduta na taquiarritmia instável"
+   ],
+   "enunciado": "Paciente masculino, 72 anos de idade, trazido à sala de emergência após avaliação inicial pela enfermagem em protocolo de estrati cação de risco. Relata dor retroesternal em aperto, iniciada em repouso, há cerca de duas horas. Acompanha dispneia e tontura importante, com incapacidade para andar. Relata antecedente de miocardiopatia isquêmica em tratamento ambulatorial, e traz ecocardiograma recente com fração de ejeção de 30%. Ao exame físico, está vígil, orientado, sudoreico, pálido, com PA:70x40mmHg, SpO2:86%, pulsos nos e de difícil palpação. Ausculta sugere congestão pulmonar e o monitor mostrava QRS largo, com frequência cardíaca de 215bpm, registrado abaixo. Nesta situação, assinale a alternativa com a conduta adequada.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Sedação com Propofol e cardioversão elétrica com 100J."
+    },
+    {
+     "letra": "B",
+     "texto": "Sedação com Propofol e cardioversão elétrica com 300J."
+    },
+    {
+     "letra": "C",
+     "texto": "Sedação com Etomidato e cardioversão elétrica com 300J."
+    },
+    {
+     "letra": "D",
+     "texto": "Sedação com Etomidato e cardioversão elétrica com 100J."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q002-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000187286",
+   "codigo": "4000187286",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 3,
+   "temas": [
+    "Taquicardias ventriculares"
+   ],
+   "enunciado": "A classificação de acordo com sua duração em segundos da taquicardia sustentada (TVS) ou não sustentada (TVNS), está de acordo com o seguinte item correto:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Se o período da arritmia for ou não superior a 90 s e/ou sem sintomas de instabilidade hemodinâmica."
+    },
+    {
+     "letra": "B",
+     "texto": "Se o período da arritmia for ou não inferior a 30 s e/ou sem sintomas de instabilidade hemodinâmica."
+    },
+    {
+     "letra": "C",
+     "texto": "Se o período da arritmia for ou não superior a 30 s e/ou sem sintomas de instabilidade hemodinâmica."
+    },
+    {
+     "letra": "D",
+     "texto": "Se o período da arritmia for ou não superior a 30 s e/ou sem considerar sintomas de instabilidade hemodinâmica."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186509",
+   "codigo": "4000186509",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 4,
+   "temas": [
+    "Tratamento das taquicardias de QRS estreito"
+   ],
+   "enunciado": "Mulher, 28 anos, chega ao pronto-socorro referindo que o coração está acelerado, gerando uma leve dispneia. Conta que iniciou enquanto varria a casa. Relata que não é a primeira vez que acontece, mas é a primeira vez que o quadro permanece por mais de 10 minutos. Ao Exame físico: Glasgow15, FR:22irpm, FC:180bpm, PA:120x70mmHg, SatO2:94%, glicemia capilar:95. Ausculta pulmonar normal. Sem outras alterações no exame físico. ECG realizado durante o atendimento a seguir: A conduta inicial indicada pela American Heart Asssociation para esta paciente é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Proceder manobra vagal modificada, soprando a seringa e elevando MMII."
+    },
+    {
+     "letra": "B",
+     "texto": "Iniciar anticoagulação com heparina e iniciar amiodarona endovenosa."
+    },
+    {
+     "letra": "C",
+     "texto": "Sedar a paciente e proceder cardioversão sincronizada imediatamente."
+    },
+    {
+     "letra": "D",
+     "texto": "Tranquilizar a paciente e prescrever beta-bloquador via oral."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q004-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000186079",
+   "codigo": "4000186079",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 5,
+   "temas": [
+    "Tratamento das taquicardias de QRS largo"
+   ],
+   "enunciado": "Paciente de 55 anos, portador de Insuficiência Cardíaca com fração de ejeção de 22% decorrente de doença de Chagas, é trazido ao hospital por familiares por quadro de dispneia e confusão mental. Faz uso domiciliar de Furosemida 40mg ao dia, Carvedilol 25mg a cada 12 horas, Sacubitril-Valsartana 200mg a cada 12 horas e Espironolactona 25mg ao dia. Ao exame físico, o paciente apresenta-se com escala de coma de Glasgow com 10 pontos, Saturação de O2 88%, Pressão Arterial 72x44 mmHg e Frequência Cardíaca de 210bpm. Você observa o seguinte traçado no monitor cardíaco. Qual a conduta adequada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Realizar Cardioversão Elétrica Sincronizada imediatamente."
+    },
+    {
+     "letra": "B",
+     "texto": "Realizar infusão de Amiodarona 150mg em 10 minutos."
+    },
+    {
+     "letra": "C",
+     "texto": "Realizar infusão de Amiodarona 300mg em bolus."
+    },
+    {
+     "letra": "D",
+     "texto": "Realizar Desfibrilação Imediatamente."
+    },
+    {
+     "letra": "E",
+     "texto": "Realizar infusão de 1g de Sulfato de Magnésio."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q005-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000183695",
+   "codigo": "4000183695",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 7,
+   "temas": [
+    "Eletrocardiograma"
+   ],
+   "enunciado": "Acesso em: 10 nov. 2022. Com base nessa figura e sabendo que o paciente refere batedeira, sem outras queixas, apresenta-se hemodinamicamente estável e com Glasgow 15, é correto afirmar que o ritmo cardíaco e o tratamento são, respectivamente,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "fibrilação atrial e cardioversão elétrica."
+    },
+    {
+     "letra": "B",
+     "texto": "taquicardia supraventricular e amiodarona."
+    },
+    {
+     "letra": "C",
+     "texto": "bloqueio atrioventricular 2:1 e estudo eletrofisiológico."
+    },
+    {
+     "letra": "D",
+     "texto": "taquicardia ventricular sustentada e amiodarona."
+    },
+    {
+     "letra": "E",
+     "texto": "flutter atrial e adenosina."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q007-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000183508",
+   "codigo": "4000183508",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 8,
+   "temas": [
+    "Outras taquiarritmias"
+   ],
+   "enunciado": "Paciente de 68 anos foi encaminhado ao serviço de emergência com queixas de palpitação há 2 horas, dispneia ao repouso, dor precordial em aperto e sudorese fria. Tem antecedentes de Diabetes Mellitus há 10 anos e Hipertensão arterial sistêmica há 20 anos. Tabagista de longa data. Tem dois irmãos com histórico de insu ciência coronariana. Após a realização do eletrocardiograma, anexado abaixo, qual seria a melhor conduta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Adenosina 6mg IV em bolus;"
+    },
+    {
+     "letra": "B",
+     "texto": "Selozok 5mg IV em bolus;"
+    },
+    {
+     "letra": "C",
+     "texto": "Cardioversão elétrica imediata com 100 J sincronizado;"
+    },
+    {
+     "letra": "D",
+     "texto": "Amiodarona 300mg IV diluído em Soro Fisiológico em 15 minutos."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q008-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000182766",
+   "codigo": "4000182766",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 9,
+   "temas": [
+    "Outras taquiarritmias"
+   ],
+   "enunciado": "Considerando-se o traçado eletrocardiográfico abaixo, de um paciente idoso, portador de insu ciência cardíaca, atendido em ambiente de Emergência, assinalar a alternativa CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O diagnóstico mais provável é de taquicardia supraventricular com condução aberrante."
+    },
+    {
+     "letra": "B",
+     "texto": "Deve-se realizar manobra vagal e, na ausência de resposta, administrar Adenosina, que, provavelmente, restaurará o ritmo sinusal nesse paciente."
+    },
+    {
+     "letra": "C",
+     "texto": "A presença de ondas P dissociadas do complexo QRS confirma o diagnóstico de taquicardia ventricular."
+    },
+    {
+     "letra": "D",
+     "texto": "O intervalo entre o início da onda R até o nadir da onda S, menor do que 100ms nas derivações precordiais, confirma o diagnóstico de taquicardia ventricular."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q009-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000182580",
+   "codigo": "4000182580",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 10,
+   "temas": [
+    "Outras taquiarritmias"
+   ],
+   "enunciado": "Paciente de 65 anos apresenta quadro de dor torácica há 15 minutos, associado à sudorese. Ele refere ser tabagista. Neste momento, sua pressão arterial encontra-se em 90 x 60 mmHg, sua saturação de oxigênio em ar ambiente está em 90% e apresenta o traçado eletrocardiográfico a seguir. A conduta mais indicada a ser tomada é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "desfibrilação com energia inicial de 200 J."
+    },
+    {
+     "letra": "B",
+     "texto": "cardioversão com energia inicial de 100 J."
+    },
+    {
+     "letra": "C",
+     "texto": "cardioversão em energia inicial de 120 J."
+    },
+    {
+     "letra": "D",
+     "texto": "amiodarona 150 mg em bomba de infusão."
+    },
+    {
+     "letra": "E",
+     "texto": "adenosina 6 mg como dose inicial."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q010-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000181619",
+   "codigo": "4000181619",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 11,
+   "temas": [
+    "Outras taquiarritmias"
+   ],
+   "enunciado": "Um homem de 46 anos procura atendimento médico de urgência com queixa de palpitações e dor torácica do tipo aperto, de início há aproximadamente 1 hora. Seus sinais vitais são aferidos: • PA: 70x40mmHg (Pressão arterial); • FC: 190bpm (Frequência cardíaca); • SatO2: 88% (Saturação de oxigênio). E seu eletrocardiograma (ECG) é o seguinte: Nesse caso, conforme as informações apresentadas, é correto afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "se trata de uma taquicardia supraventricular, e o uso da manobra vagal modificada está indicado."
+    },
+    {
+     "letra": "B",
+     "texto": "a avaliação de um especialista deve ser prioritária."
+    },
+    {
+     "letra": "C",
+     "texto": "o uso de atropina 1mg endovenosa (EV) está indicado."
+    },
+    {
+     "letra": "D",
+     "texto": "a cardioversão elétrica sincronizada está indicada."
+    },
+    {
+     "letra": "E",
+     "texto": "um estudo eletrofisiológico deve ser realizado antes de qualquer intervenção terapêutica."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q011-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000181366",
+   "codigo": "4000181366",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 12,
+   "temas": [
+    "Outras taquiarritmias"
+   ],
+   "enunciado": "Paciente de 26 anos, sexo masculino, acompanhado por esquizofrenia é atendido na emergência por importante agitação. Foi realizada contenção física e administrado 10mg de haloperidol. Após 30 minutos, paciente está torporoso, pouco responsivo, com pressão arterial de 60x30mmHg, taquicárdico com pulso liforme, saturação periférica de O₂ de 95%. Ainda não há exames laboratoriais disponíveis. Eletrocardiograma realizado foi o seguinte: Conferir figura correspondente com melhor resolução no anexo (FIGURA) Qual a melhor conduta a ser adotada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Infusão de sulfato de magnésio."
+    },
+    {
+     "letra": "B",
+     "texto": "Infusão de cloreto de potássio."
+    },
+    {
+     "letra": "C",
+     "texto": "Imediata cardioversão elétrica."
+    },
+    {
+     "letra": "D",
+     "texto": "Imediata desfibrilação."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q012-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000169036",
+   "codigo": "4000169036",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 13,
+   "temas": [
+    "Antiarrítmicos"
+   ],
+   "enunciado": "No tratamento medicamentoso das arritmias cardíacas é recomendável a prevenção de efeito pró-arrítmico evitando-se",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "procainamida em dose acima de 1 mg/min."
+    },
+    {
+     "letra": "B",
+     "texto": "utilizar mais de uma droga antiarrítmica juntas ou em sequência."
+    },
+    {
+     "letra": "C",
+     "texto": "lidocaína em"
+    },
+    {
+     "letra": "D",
+     "texto": "administrar adenosina rapidamente."
+    },
+    {
+     "letra": "E",
+     "texto": "amiodarona em menos de 1 hora."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000167782",
+   "codigo": "4000167782",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 14,
+   "temas": [
+    "Síndrome de Wolf f ParkinsonWhite",
+    "Fibrilação Atrial"
+   ],
+   "enunciado": "Um paciente de 45 anos de idade vem apresentando sintomas de palpitação, mal-estar e sudorese profusa no decorrer da hemodiálise. Em cada sessão, são ultra ltrados 4 litros em duas horas e meia. Na última diálise, o paciente cou com hipotensão = 85 mmHg x 40 mmHg, SatO2 = 94% em ar ambiente e frequência cardíaca conforme o eletrocardiograma a seguir. Fonte: 150 ECGs Com base nesse caso clínico e nos conhecimentos médicos correlatos, julgue o item a seguir. Cardioversão é o melhor tratamento para manejo agudo.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q014-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000167781",
+   "codigo": "4000167781",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 15,
+   "temas": [
+    "Síndrome de Wolf f ParkinsonWhite",
+    "Fibrilação Atrial"
+   ],
+   "enunciado": "Um paciente de 45 anos de idade vem apresentando sintomas de palpitação, mal-estar e sudorese profusa no decorrer da hemodiálise. Em cada sessão, são ultra ltrados 4 litros em duas horas e meia. Na última diálise, o paciente cou com hipotensão = 85 mmHg x 40 mmHg, SatO2 = 94% em ar ambiente e frequência cardíaca conforme o eletrocardiograma a seguir. Fonte: 150 ECGs Com base nesse caso clínico e nos conhecimentos médicos correlatos, julgue o item a seguir. O risco de morte súbita para esse paciente é elevado em relação à população normal.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q015-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000167780",
+   "codigo": "4000167780",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 16,
+   "temas": [
+    "Síndrome de Wolf f ParkinsonWhite",
+    "Fibrilação Atrial"
+   ],
+   "enunciado": "Um paciente de 45 anos de idade vem apresentando sintomas de palpitação, mal-estar e sudorese profusa no decorrer da hemodiálise. Em cada sessão, são ultra ltrados 4 litros em duas horas e meia. Na última diálise, o paciente cou com hipotensão = 85 mmHg x 40 mmHg, SatO2 = 94% em ar ambiente e frequência cardíaca conforme o eletrocardiograma a seguir. Fonte: 150 ECGs Com base nesse caso clínico e nos conhecimentos médicos correlatos, julgue o item a seguir. Tratamento com sotalol é o padrão-ouro, no caso desse paciente, para tratamento em longo prazo.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q016-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000167779",
+   "codigo": "4000167779",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 17,
+   "temas": [
+    "Síndrome de Wolf f ParkinsonWhite",
+    "Fibrilação Atrial"
+   ],
+   "enunciado": "Um paciente de 45 anos de idade vem apresentando sintomas de palpitação, mal-estar e sudorese profusa no decorrer d a hemodiálise. Em cada sessão, são ultra ltrados 4 litros em duas horas e meia. Na última diálise, o paciente cou c o m hipotensão = 85 mmHg x 40 mmHg, SatO2 = 94% em ar ambiente e frequência cardíaca conforme o eletrocardiograma a seguir. Fonte: 150 ECGs Com base nesse caso clínico e nos conhecimentos médicos correlatos, julgue o item a seguir. Provavelmente, no período do eletro de repouso, o intervalo PR seja normal.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q017-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000167345",
+   "codigo": "4000167345",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 18,
+   "temas": [
+    "Outras taquiarritmias"
+   ],
+   "enunciado": "Homem, 62a, procura atendimento médico com queixa de tontura e dispneia de início agudo há 2 horas. Antecedentes: hipertensão arterial e diabetes mellitus tipo 2, em uso de losartana, besilato de anlodipino e metformina. Exame físico: FC= 152 bpm, FR= 28 irpm, PA= 96x62 mmHg, oximetria de pulso (ar ambiente) = 88%; consciente, orientado, sonolento; pulmões: murmúrio vesicular presente com estertores crepitantes nos bilaterais até campos médios pulmonares. ECG realizado na sala de emergência: O DIAGNÓSTICO E A CONDUTA SÃO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Taquicardia por reentrada nodal; cardioversão elétrica sincronizada."
+    },
+    {
+     "letra": "B",
+     "texto": "Flutter atrial 2:1; cardioversão elétrica sincronizada."
+    },
+    {
+     "letra": "C",
+     "texto": "Taquicardia por reentrada nodal; manobra de Valsalva modificada."
+    },
+    {
+     "letra": "D",
+     "texto": "Flutter atrial 2:1; betabloqueador e anticoagulação. ida oib pr ed"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q018-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000167127",
+   "codigo": "4000167127",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 19,
+   "temas": [
+    "Outras taquiarritmias"
+   ],
+   "enunciado": "Qual das seguintes taquiarritmias apresenta complexo QRS estreito e regular?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Fibrilação atrial."
+    },
+    {
+     "letra": "B",
+     "texto": "Torsades de Pointes."
+    },
+    {
+     "letra": "C",
+     "texto": "Taquicardia atrial."
+    },
+    {
+     "letra": "D",
+     "texto": "Taquicardia de movimento circular antidrômica."
+    },
+    {
+     "letra": "E",
+     "texto": "Flutter atrial com bloqueio AV variado."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000167111",
+   "codigo": "4000167111",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 20,
+   "temas": [
+    "Tratamento",
+    "Outras taquiarritmias",
+    "Taquicardias ventriculares"
+   ],
+   "enunciado": "Um homem de 57 anos procura atendimento médico com queixa de palpitações e dor torácica tipo aperto, de início há 30 minutos. Apresenta hipotensão (PA 60x40mmHg). Após avaliar o ritmo mostrado a seguir, qual é a conduta mais adequada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Manobra vagal."
+    },
+    {
+     "letra": "B",
+     "texto": "Adenosina 6mg EV em bólus."
+    },
+    {
+     "letra": "C",
+     "texto": "Amiodarona 150mg EV em 30 minutos."
+    },
+    {
+     "letra": "D",
+     "texto": "Deslanosídeo 0,8mg EV em bólus."
+    },
+    {
+     "letra": "E",
+     "texto": "Cardioversão elétrica sincronizada."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [
+    {
+     "arquivo": "imagens/q020-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000166302",
+   "codigo": "4000166302",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 21,
+   "temas": [
+    "Outras taquiarritmias"
+   ],
+   "enunciado": "Mulher, 28 anos de idade, sem antecedentes patológicos, procurou PS com queixa de palpitações de início súbito, sem outros sintomas associados, há 1 hora. Ao exame físico, PA = 110 x 70 mmHg, FC = 170 bpm, SpO₂ = 99%. ECG de admissão a seguir. Qual é o tratamento indicado?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Amiodarona intravenosa."
+    },
+    {
+     "letra": "B",
+     "texto": "Betabloqueador intravenoso."
+    },
+    {
+     "letra": "C",
+     "texto": "Cardioversão elétrica."
+    },
+    {
+     "letra": "D",
+     "texto": "Adenosina intravenosa."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q021-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000164828",
+   "codigo": "4000164828",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 22,
+   "temas": [
+    "Outras taquiarritmias"
+   ],
+   "enunciado": "Você está em um pronto atendimento e avalia um paciente com quadro de palpitações. Ao exame físico ele encontra-se com PA de 120x70 mmHg, FC de 180bpm e uma SpO2 de 99%, bulhas cardíacas taquicardicas e sem sopros, ausculta pulmonar sem alterações. No monitor é visualizado o traçado abaixo: Qual a sua conduta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Infunde Adenosina na dose de 18mg por via intravenosa."
+    },
+    {
+     "letra": "B",
+     "texto": "Infunde Amiodarona na dose de 150mg por via intravenosa."
+    },
+    {
+     "letra": "C",
+     "texto": "Realiza Cardioversão elétrica sincronizada."
+    },
+    {
+     "letra": "D",
+     "texto": "Aplica manobras vagais ao paciente."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q022-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000164657",
+   "codigo": "4000164657",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 23,
+   "temas": [
+    "Outras taquiarritmias"
+   ],
+   "enunciado": "Considere um paciente masculino, 68 anos, antecedentes prévios de infarto agudo do miocárdio e hipertensão arterial sistêmica. Encontra-se internado na UTI há 2 dias devido à sepse de foco urinário. Subitamente apresenta um episódio de taquiarritmia com QRS alargado com duração superior a trinta segundos, frequência cardíaca em torno 200 bpm, pressão arterial 120/60 mmHg. Assinale a alternativa correta em relação à taquiarritmia descrita acima",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O tratamento indicado é a adenosina."
+    },
+    {
+     "letra": "B",
+     "texto": "Estatisticamente é mais provável tratar-se de uma taquicardia ventricular."
+    },
+    {
+     "letra": "C",
+     "texto": "A pressão arterial estando normal descarta a possibilidade de taquicardia ventricular."
+    },
+    {
+     "letra": "D",
+     "texto": "Se a origem desta taquicardia for supraventricular, o comportamento esperado é mais maligno quando comparado à origem ventricular"
+    },
+    {
+     "letra": "E",
+     "texto": "Não é necessária a diferenciação entre taquicardia ventricular e taquicardia supraventricular com aberrância de condução, pois o tratamento será o mesmo para os dois tipos"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000164379",
+   "codigo": "4000164379",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 24,
+   "temas": [
+    "Tratamento",
+    "Outras taquiarritmias"
+   ],
+   "enunciado": "Paciente sexo feminino, 27 anos, deu entrada no pronto-socorro referindo palpitações taquicárdicas associada a mal-estar. A avaliação apresentava PA: 126 × 74 mmHg, FC: 180 bpm, FR: 16 ipm, SatO₂: 98%. Paciente realizou seguinte eletrocardiograma: O tratamento mais indicado para esse paciente, dentre os abaixo, é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "atropina endovenosa em"
+    },
+    {
+     "letra": "B",
+     "texto": "amiodarona endovenoso."
+    },
+    {
+     "letra": "C",
+     "texto": "cardioversão elétrica sincronizada."
+    },
+    {
+     "letra": "D",
+     "texto": "manobra de valsalva."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q024-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000164378",
+   "codigo": "4000164378",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 25,
+   "temas": [
+    "Eletrocardiograma"
+   ],
+   "enunciado": "Paciente sexo feminino, 27 anos, deu entrada no pronto-socorro referindo palpitações taquicárdicas associada a mal-estar. A avaliação apresentava PA: 126 × 74 mmHg, FC: 180 bpm, FR: 16 ipm, SatO₂: 98%. Paciente realizou seguinte eletrocardiograma: O diagnóstico mais provável desse paciente, dentre os abaixo, é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Taquicardia supraventricular."
+    },
+    {
+     "letra": "B",
+     "texto": "Fibrilação atrial de alta resposta ventricular."
+    },
+    {
+     "letra": "C",
+     "texto": "Flutter"
+    },
+    {
+     "letra": "D",
+     "texto": "Taquicardia ventricular"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q025-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000143556",
+   "codigo": "4000143556",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 26,
+   "temas": [
+    "Outras taquiarritmias"
+   ],
+   "enunciado": "Na taquicardia paroxística supraventricular a frequência cardíaca é de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "120 a 180 bpm."
+    },
+    {
+     "letra": "B",
+     "texto": "160 a 220 bpm."
+    },
+    {
+     "letra": "C",
+     "texto": "200 a 260 bpm."
+    },
+    {
+     "letra": "D",
+     "texto": "130 a 190 bpm."
+    },
+    {
+     "letra": "E",
+     "texto": "130 a 200 bpm."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000142154",
+   "codigo": "4000142154",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 27,
+   "temas": [
+    "Taquicardias ventriculares"
+   ],
+   "enunciado": "Uma paciente com infarto prévio há 60 dias apresentou-se com mal-estar e dispneia. Foi solicitado eletrocardiograma, cuja imagem pode ser observada a seguir. Disponível em: <https://pt.my-ekg.com/>. Acesso em: 8 jan. 2021. (Figura ampliada na página 15) De acordo com a análise desse eletrocardiograma, nesse caso clínico, o diagnóstico é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "fibrilação atrial."
+    },
+    {
+     "letra": "B",
+     "texto": "taquicardia ventricular fascicular."
+    },
+    {
+     "letra": "C",
+     "texto": "taquicardia ventricular do ventrículo esquerdo."
+    },
+    {
+     "letra": "D",
+     "texto": "taquicardia ventricular do ventrículo direito."
+    },
+    {
+     "letra": "E",
+     "texto": "displasia arritmogênica de ventrículo direito."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q027-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000140997",
+   "codigo": "4000140997",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 28,
+   "temas": [
+    "Tipos específ icos de taquiarritmias",
+    "Tratamento das taquicardias de QRS estreito"
+   ],
+   "enunciado": "Paciente jovem, 19 anos, com história de palpitações taquicárdicas ocasionais, com duração <10 segundos. Chega ao pronto-socorro, com a mesma queixa de palpitações, associada a sensação desconfortável de pulsação no pescoço e náuseas, com duração há mais de 15 minutos. Realizado o eletrocardiograma que está ilustrado a seguir. Ao exame físico da admissão na sala de emergência, apresentava: temperatura axilar 36,1 C, PA = 120 x 80 mmHg, SpO2 = 97% e auscultas cardíaca e pulmonar normais. Assinale a alternativa que contém a primeira opção medicamentosa para a resolução do quadro clínico dessa paciente.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Diazepam 20 mg IV."
+    },
+    {
+     "letra": "B",
+     "texto": "Amiodarona 300 mg IV."
+    },
+    {
+     "letra": "C",
+     "texto": "Esmolol 15 mg IV."
+    },
+    {
+     "letra": "D",
+     "texto": "Adenosina 6 mg IV."
+    },
+    {
+     "letra": "E",
+     "texto": "Diltiazem 100 mg IV."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q028-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000140996",
+   "codigo": "4000140996",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 29,
+   "temas": [
+    "Outras taquiarritmias"
+   ],
+   "enunciado": "Paciente jovem, 19 anos, com história de palpitações taquicárdicas ocasionais, com duração <10 segundos. Chega ao pronto-socorro, com a mesma queixa de palpitações, associada a sensação desconfortável de pulsação no pescoço e náuseas, com duração há mais de 15 minutos. Realizado o eletrocardiograma que está ilustrado a seguir. Ao exame físico da admissão na sala de emergência, apresentava: temperatura axilar 36,1 C, PA = 120 x 80 mmHg, SpO2 = 97% e auscultas cardíaca e pulmonar normais. Das características eletrocardiográficas presentes na figura, determina(m) o diagnóstico dessa taquiarritmia:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "frequência cardíaca menor que 100 bpm."
+    },
+    {
+     "letra": "B",
+     "texto": "complexo QRS estreito (< 120 ms)."
+    },
+    {
+     "letra": "C",
+     "texto": "ausência de onda T."
+    },
+    {
+     "letra": "D",
+     "texto": "intervalos RR irregulares."
+    },
+    {
+     "letra": "E",
+     "texto": "presença de onda U."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q029-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000131264",
+   "codigo": "4000131264",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 30,
+   "temas": [
+    "Betabloqueadores"
+   ],
+   "enunciado": "Os betabloqueadores pertencem a qual classe de antiarrítmicos?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "V."
+    },
+    {
+     "letra": "B",
+     "texto": "IV."
+    },
+    {
+     "letra": "C",
+     "texto": "III."
+    },
+    {
+     "letra": "D",
+     "texto": "II."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000131058",
+   "codigo": "4000131058",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 31,
+   "temas": [
+    "TV polimórf ica"
+   ],
+   "enunciado": "Paciente de 46 anos apresenta-se na emergência com confusão mental e hipotensão. Ao realizar a monitorização apresenta-se com o traçado abaixo. Após receber terapia elétrica e droga antiarrítmica o paciente apresentou melhora. Sobre esse traçado, qual seria a droga antiarrítmica adequada e qual o mecanismo fisiopatológico que pode desencadeá-la?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Amiodarona – Intervalo QT Longo"
+    },
+    {
+     "letra": "B",
+     "texto": "Sulfato de Magnésio – Intervalo QT Longo"
+    },
+    {
+     "letra": "C",
+     "texto": "Procainamida – Intervalo QT Longo"
+    },
+    {
+     "letra": "D",
+     "texto": "Amiodarona – Intervalo PR Curto"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q031-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000124270",
+   "codigo": "4000124270",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 32,
+   "temas": [
+    "Abordagem inicial",
+    "Tratamento das taquicardias de QRS estreito"
+   ],
+   "enunciado": "Paciente do sexo masculino, 42 anos de idade, chega ao departamento de emergência com história de palpitações. Um traçado eletrocardiográfico foi obtido demonstrando taquicardia de complexo QRS estreito e FC de 190bpm e pressão arterial sistólica de 100/80 mmHg. Qual a primeira conduta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cateterismo de urgência."
+    },
+    {
+     "letra": "B",
+     "texto": "Manobra vagal com compressão do seio carotídeo."
+    },
+    {
+     "letra": "C",
+     "texto": "Adenosina."
+    },
+    {
+     "letra": "D",
+     "texto": "Atenolol."
+    },
+    {
+     "letra": "E",
+     "texto": "Ablação por cateter."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000114138",
+   "codigo": "4000114138",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 33,
+   "temas": [
+    "Tratamento da TVFV"
+   ],
+   "enunciado": "Qual seria o diagnóstico e a melhor conduta para um paciente sem pulsos palpáveis e com a imagem, abaixo, no monitor:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Taquicardia supraventricular e cardio versão elétrica sincronizada com 100 Joules."
+    },
+    {
+     "letra": "B",
+     "texto": "Taquicardia ventricular sem pulso e adrenalina 1mg IV em bolus."
+    },
+    {
+     "letra": "C",
+     "texto": "Taquicardia ventricular polimórfica e cardioversão elétrica com choque sincronizado de200 Joules."
+    },
+    {
+     "letra": "D",
+     "texto": "Taquicardia ventricular polimórfica e desfibrilação com 200 Joules."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q033-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000099004",
+   "codigo": "4000099004",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 34,
+   "temas": [
+    "Abordagem inicial",
+    "História clínica e anamnese",
+    "Eletrocardiograma"
+   ],
+   "enunciado": "Homem, 63a, procura o Pronto Socorro queixando-se de dor no peito em aperto com irradiação para face medial de ambos os braços, sudorese e cansaço. No eletrocardiograma de entrada foi detectado supradesnivelamento do segmento ST em derivações anterolaterais. Após abordagem inicial o monitor mostrou o traçado a seguir: A CONDUTA IMEDIATA É:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Desfibrilação."
+    },
+    {
+     "letra": "B",
+     "texto": "Checar pulso."
+    },
+    {
+     "letra": "C",
+     "texto": "Amiodarona 300 mg endovenosa."
+    },
+    {
+     "letra": "D",
+     "texto": "Cardioversão elétrica sincronizada."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q034-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000076149",
+   "codigo": "4000076149",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 35,
+   "temas": [
+    "Conduta na taquiarritmia instável",
+    "Tratamento das taquicardias de QRS estreito"
+   ],
+   "enunciado": "Critérios de instabilidade Uma paciente de 38 anos, internada para tratamento cirúrgico de litíase biliar sintomática, relata início súbito de palpitações e dispneia leve. Ao exame físico, encontra- se taquicárdica (170bpm) e sem congestão pulmonar. O ritmo cardíaco é regular, em dois tempos e sem sopros. O eletrocardiograma revela taquicardia regular de complexos QRS estreitos, sem onda P visível, com a frequência de disparos anteriormente assinalada. A conduta indicada, nesse momento, é realizar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "aplicação de cardioversão elétrica sincrônica de 100J"
+    },
+    {
+     "letra": "B",
+     "texto": "administração intravenosa de 5mg/kg de amiodarona"
+    },
+    {
+     "letra": "C",
+     "texto": "administração intravenosa de 6mg de adenosina"
+    },
+    {
+     "letra": "D",
+     "texto": "passagem de marcapasso cardíaco transvenoso"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000072724",
+   "codigo": "4000072724",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 36,
+   "temas": [
+    "Taquicardia sinusal"
+   ],
+   "enunciado": "Paciente do sexo feminino, 85 anos, é admitida em unidade de tratamento intensivo com quadro de torpor, hipotensão (80 x 40 mmHg) e taquicardia, com o seguinte traçado de ritmo ao monitor cardíaco. Qual a conduta imediata indicada neste caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hidratação venosa."
+    },
+    {
+     "letra": "B",
+     "texto": "Cardioversão elétrica."
+    },
+    {
+     "letra": "C",
+     "texto": "Infusão de amiodarona por via intra-venosa."
+    },
+    {
+     "letra": "D",
+     "texto": "Manobra vagal."
+    },
+    {
+     "letra": "E",
+     "texto": "Infusão de atropina por via intra-venosa."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q036-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000014490",
+   "codigo": "4000014490",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 37,
+   "temas": [
+    "Taquicardia atrial multif ocal"
+   ],
+   "enunciado": "Paciente de 23 anos, com palpitações, apresenta o eletrocardiograma a seguir. Qual o diagnóstico?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Fibrilação atrial."
+    },
+    {
+     "letra": "B",
+     "texto": "Taquicardia sinusal."
+    },
+    {
+     "letra": "C",
+     "texto": "Taquicardia atrial unifocal."
+    },
+    {
+     "letra": "D",
+     "texto": "Taquicardia atrial multifocal."
+    },
+    {
+     "letra": "E",
+     "texto": "Taquicardia atrial incessante."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q037-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000116150",
+   "codigo": "4000116150",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 38,
+   "temas": [
+    "Síndrome de Wolf f ParkinsonWhite"
+   ],
+   "enunciado": "Faz parte da síndrome de Wolff-Parkinson-White, exceto:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Intervalo PR < 0,12 segundos"
+    },
+    {
+     "letra": "B",
+     "texto": "QRS > 0,12 segundos"
+    },
+    {
+     "letra": "C",
+     "texto": "Não progressão das ondas R"
+    },
+    {
+     "letra": "D",
+     "texto": "Onda delta"
+    },
+    {
+     "letra": "E",
+     "texto": "Presença de alterações secundárias da onda T"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000115559",
+   "codigo": "4000115559",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 39,
+   "temas": [
+    "TV idiopática"
+   ],
+   "enunciado": "Paulo, 52 anos, apresenta-se na emergência com confusão mental, palpitação cardíaca, dispneia e com a pressão arterial de 60/40 mmHg. Com base no eletrocardiograma realizado (abaixo), assinale a alternativa que representa o diagnóstico eletrocardiográfico e a melhor conduta para Paulo.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Taquicardia ventricular e amiodarona endovenosa 150 mg."
+    },
+    {
+     "letra": "B",
+     "texto": "Taquicardia supraventricular e amiodarona endovenosa 150 mg."
+    },
+    {
+     "letra": "C",
+     "texto": "Taquicardia ventricular e cardioversão elétrica sincronizada com 100 Joules."
+    },
+    {
+     "letra": "D",
+     "texto": "Taquicardia ventricular e cardioversão elétrica não sincronizada com 100 Joules"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q039-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000113210",
+   "codigo": "4000113210",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 40,
+   "temas": [
+    "Conduta na taquiarritmia instável"
+   ],
+   "enunciado": "Homem, 60 anos, tabagista, hipertenso crônico, em tratamento irregular, apresentou há 12h palpitação de início súbito seguida de síncope. Nega episódios de arritmias. Exame físico: PA= 120 X 60 mmHg, FC= 140 bpm, FR= 32 irpm, agitado, confuso, estase jugular bilateral, estertores crepitantes em bases pulmonares, arritmia cardíaca, pulso liforme e edema 2+/4+ em MMII. ECG: fibrilação atrial com resposta ventricular de alta frequência. A conduta imediata é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Anticoagulação"
+    },
+    {
+     "letra": "B",
+     "texto": "Cardioversão elétrica sincronizada"
+    },
+    {
+     "letra": "C",
+     "texto": "Desfibrilação"
+    },
+    {
+     "letra": "D",
+     "texto": "Lanatosídeo IV"
+    },
+    {
+     "letra": "E",
+     "texto": "Metoprolol IV."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000111239",
+   "codigo": "4000111239",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 41,
+   "temas": [
+    "Tratamento das taquicardias de QRS estreito"
+   ],
+   "enunciado": "Uma mulher de 50 anos é admitida na sala de emergência em taquicardia paroxística com complexo QRS estreito. Se o plantonista optar por uma droga com mais de 90% de sucesso, com curta duração de efeito e pouca ação hipotensora a melhor escolha será:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "verapamil."
+    },
+    {
+     "letra": "B",
+     "texto": "adenosina."
+    },
+    {
+     "letra": "C",
+     "texto": "quinidina."
+    },
+    {
+     "letra": "D",
+     "texto": "amiodarona."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000100411",
+   "codigo": "4000100411",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 42,
+   "temas": [
+    "Taquicardia por reentrada nodal"
+   ],
+   "enunciado": "Homem de 52 anos de idade procura a Unidade de Pronto atendimento (UPA) com queixa de mal-estar e palpitação há 25 minutos. Foi levado à sala de emergência, onde realizaram um exame eletrocardiográfico com o seguinte traçado. Qual é o diagnóstico eletrocardiográfico?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Taquicardia ventricular."
+    },
+    {
+     "letra": "B",
+     "texto": "Fibrilação atrial."
+    },
+    {
+     "letra": "C",
+     "texto": "Taquicardia por reentrada nodal."
+    },
+    {
+     "letra": "D",
+     "texto": "Flutter atrial."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q042-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000091203",
+   "codigo": "4000091203",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 43,
+   "temas": [
+    "Conduta na taquiarritmia instável",
+    "Indicações de cateterismo"
+   ],
+   "enunciado": "Homem de 73 anos de idade, tabagista, dislipidêmico e hipertenso, acordou com quadro de dor precordial em queimação associado à diaforese e náuseas, de início há 30 minutos. Chegou à Unidade de Pronto Atendimento (UPA), sendo administrado AAS de 300 mg e realizado eletrocardiograma que demostrou ritmo sinusal e infradesnível descendente de 3 mm de V1 a V6. No momento em que seria administrado o dinitrato de isossorbida sublingual, apresentou quadro de síncope, com pulsos ainda palpáveis e PA 92x64 mmHg, sendo evidenciada nova alteração na monitorização eletrocardiográfica, mostrada na figura abaixo. De acordo o caso descrito, o tratamento mais adequado é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "administrar amiodarona IV dose de ataque e manutenção e encaminhar para realização de angioplastia primária em até 2 horas."
+    },
+    {
+     "letra": "B",
+     "texto": "administrar amiodarona IV dose de ataque e manutenção e encaminhar para cinecoronariografia em até 24 horas."
+    },
+    {
+     "letra": "C",
+     "texto": "realizar cardioversão elétrica sincronizada com 200 J bifásico e encaminhar para cinecoronariografia de emergência."
+    },
+    {
+     "letra": "D",
+     "texto": "reallizar cardioversão elétrica sincronizada com 200 J bifásico e, caso o tempo estimado para realização de angioplastia seja maior que 2 horas, administrar trombolítico."
+    },
+    {
+     "letra": "E",
+     "texto": "realizar cardioversão elétrica sincronizada com 100 J bifásico e sollicitar marcadores cardíacos."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q043-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000049887",
+   "codigo": "4000049887",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 44,
+   "temas": [
+    "Antiarrítmicos"
+   ],
+   "enunciado": "Qual das seguintes medicações representa um exemplo de antiarrítmico classe I de Vaughan- Williams?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Verapamil."
+    },
+    {
+     "letra": "B",
+     "texto": "Atenolol."
+    },
+    {
+     "letra": "C",
+     "texto": "Sotalol."
+    },
+    {
+     "letra": "D",
+     "texto": "Lidocaína."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000025121",
+   "codigo": "4000025121",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 45,
+   "temas": [
+    "Escores de avaliação de risco tromboembólico e hemorrágico",
+    "Anticoagulação oral"
+   ],
+   "enunciado": "Eletrocardiograma M.S.B. é um senhor de 76 anos de idade que chegou ao pronto socorro com queixa de dor abdominal intensa iniciada há cerca de uma hora. O exame físico do paciente mostrava ausculta revela ritmo cardíaco irregular e frequência cardíaca acima de 140bpm. Abdome sem sinais de irritação peritoneal, com dor difusa e intensa. O eletrocardiograma realizado mostrava irregularidade no complexo QRS e ausência de onda \"P\". A taquiarritmia apresentada pelo paciente, a causa da dor abdominal e o exame complementar a para possibilitar a realização do diagnóstico são, respectivamente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "fibrilação atrial, isquemia mesentérica e a angiotomografia de abdome."
+    },
+    {
+     "letra": "B",
+     "texto": "taquicardia supraventricular, isquemia mesentérica e tomografia de abdome com contraste."
+    },
+    {
+     "letra": "C",
+     "texto": "taquicardia ventricular, angina mesentérica e enterorressonância do abdome."
+    },
+    {
+     "letra": "D",
+     "texto": "fibrilação atrial, angina mesentérica e enterotomografia de abdome."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000010578",
+   "codigo": "4000010578",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 46,
+   "temas": [
+    "Síndrome de Wolf f ParkinsonWhite",
+    "Fibrilação Atrial"
+   ],
+   "enunciado": "Uma paciente de 45 anos de idade sente tontura, pressão no peito e fadiga há três horas. Durante o exame, verifica-se que ela apresenta níveis pressóricos de 80 mmHg x 50 mmHg e FC = 140 bpm, associada a má perfusão periférica. Ao ECG, nota-se que ela tem brilação atrial, sendo que um ECG basal prévio mostrou ondas delta. A respeito desse caso clínico, assinale alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Essa paciente não possui risco de taquicardia ventricular, pois a respectiva fibrilação atrial possui complexo QRS estreito, assim o risco maior seria evolução para taquicardia supraventricular."
+    },
+    {
+     "letra": "B",
+     "texto": "A onda delta indica a presença de extrassístoles ventriculares (provável disfunção do nó sinusal); assim, o diagnóstico para esse caso é fibrilação atrial com complexo de QRS alargado."
+    },
+    {
+     "letra": "C",
+     "texto": "A terapia de escolha para essa paciente seria administração de betabloqueadores, com objetivo de redução da frequência cardíaca."
+    },
+    {
+     "letra": "D",
+     "texto": "A terapia com verapamil é uma opção aceitável para ser realizada nessa paciente em caráter de emergência, em razão da rápida absorção e objetivando a redução da frequência cardíaca e do inotropismo cardíaco."
+    },
+    {
+     "letra": "E",
+     "texto": "O diagnóstico clínico dessa paciente é fibrilação atrial em uma paciente portadora de síndrome de Wolff- Parkinson-White, indicado pelas ondas delta no ECG anterior, que mostram uma via acessória ao nó atrioventricular para a comunicação elétrica."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000111803",
+   "codigo": "4000111803",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 47,
+   "temas": [
+    "Antiarrítmicos"
+   ],
+   "enunciado": "Em relação a classificação dos antiarrítmicos de Vaughn-Williams; podemos afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Quinidina, Procainamida e Diisopiramida pertencem a classe la"
+    },
+    {
+     "letra": "B",
+     "texto": "Amiodarona, Propafenona e Lidocaina são bloqueadores de canais de Cálcio"
+    },
+    {
+     "letra": "C",
+     "texto": "Verapamil eEsmolol são bloqueadores de canais de Potássio"
+    },
+    {
+     "letra": "D",
+     "texto": "Propranol e Sotalol pertecema classe lc"
+    },
+    {
+     "letra": "E",
+     "texto": "Propafenona, Digoxina, Adenosina pertencem a classe IV"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000102636",
+   "codigo": "4000102636",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 48,
+   "temas": [
+    "Taquicardia por reentrada nodal"
+   ],
+   "enunciado": "Homem de 52 anos de idade procura o pronto-socorro de clínica médica com queixa de palpitação há 30 minutos. Foi levado à sala de emergência, onde foi realizado o seguinte eletrocardiograma. Qual é o diagnóstico eletrocardiográfico?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Taquicardia ventricular."
+    },
+    {
+     "letra": "B",
+     "texto": "Fibrilação atrial."
+    },
+    {
+     "letra": "C",
+     "texto": "Taquicardia por reentrada nodal."
+    },
+    {
+     "letra": "D",
+     "texto": "Flutter atrial."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q048-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000098999",
+   "codigo": "4000098999",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 49,
+   "temas": [
+    "Tireotoxicose induzida pela amiodarona",
+    "Fibrilação atrial",
+    "Bloqueadores dos canais de potássio"
+   ],
+   "enunciado": "Mulher, 52a, diabética, em uso de metformina 1.700 mg/dl, é diagnosticada com brilação atrial em janeiro de 2016. Ecocardiograma e dosagens de TSH e T4 livre realizados em fevereiro de 2016 não mostram alterações. Em março de 2016, faz cardioversão e inicia uso contínuo de amiodarona. Em abril de 2017 refere perda de peso de 4 Kg e taquicardia há 2 meses. Nesta época, faz novos exames, que mostram TSH = < 0,01 alternativa CORRETA é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipertireoidismo não detectado no exame de abril de 2016."
+    },
+    {
+     "letra": "B",
+     "texto": "Há indicação de cardioversão."
+    },
+    {
+     "letra": "C",
+     "texto": "Betabloqueador está contraindicado."
+    },
+    {
+     "letra": "D",
+     "texto": "Hipertireoidismo induzido por amiodarona em 2017."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q049-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000051942",
+   "codigo": "4000051942",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 50,
+   "temas": [
+    "Tratamento das taquicardias de QRS estreito"
+   ],
+   "enunciado": "Paciente jovem admitida na emergência com queixa de palpitação de início súbito há cerca de 40 minutos com sensação do \"coração batendo no pescoço\". Encontra-se acordada, lúcida, eupneica em ar ambiente com ausculta pulmonar sem alterações e normotensa. Nega dor torácica. Eletrocardiograma demonstrando FC de 180 bpm, QRS estreito, intervalo RR regular e não visualizado onda P. Como você classificaria clinicamente essa paciente? Após estabelecido monitorização cardíaca contínua, de pressão arterial, oximetria de pulso e acesso venoso qual a primeira conduta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "instável / Cardioversão elétrica sincronizada"
+    },
+    {
+     "letra": "B",
+     "texto": "estável / Manobra vagal"
+    },
+    {
+     "letra": "C",
+     "texto": "estável / Adenosina EV"
+    },
+    {
+     "letra": "D",
+     "texto": "estável / Betabloqueador EV"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000038458",
+   "codigo": "4000038458",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 51,
+   "temas": [
+    "Taquicardia por reentrada nodal",
+    "Cardiologia"
+   ],
+   "enunciado": "Um paciente de 48 anos, sem doenças prévias, procura a Emergência com queixa de palpitações, mal-estar generalizado, sudorese fria e cefaleia occipital iniciadas a cerca de 1 hora. Ao exame físico, mostrava PA = 120x70 mmHg, FC = 168 bpm e FR = 26 mrpm. As enzimas cardíacas foram dosadas e estavam normais, e o ECG de repouso está demonstrado abaixo. Após a monitorização cardíaca contínua e acesso venoso, o que o clínico faria para tratar essa arritmia?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Procainamida IV."
+    },
+    {
+     "letra": "B",
+     "texto": "Metoprolol IV."
+    },
+    {
+     "letra": "C",
+     "texto": "Amiodarona IV."
+    },
+    {
+     "letra": "D",
+     "texto": "Adenosina IV."
+    },
+    {
+     "letra": "E",
+     "texto": "Digital IV."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q051-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000119098",
+   "codigo": "4000119098",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 52,
+   "temas": [
+    "Tratamento das taquicardias de QRS estreito"
+   ],
+   "enunciado": "Mulher de 32 anos apresenta palpitação e sensação de que o coração está batendo no pescoço, há 40 minutos. Nega outras queixas. Exame físico: PA = 120 x 70 mmHg; SatO2 = 94% em ar ambiente; ausculta pulmonar sem alterações. ECG (25 mm/s): derivação DII a seguir. (Conforme imagem ) O diagnóstico, frequência cardíaca e adequada conduta são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Taquicardia paroxística supraventricular; 120 bpm; propranolol 40 mg, via oral."
+    },
+    {
+     "letra": "B",
+     "texto": "Taquicardia paroxística supraventricular; 150 bpm; adenosina 6 mg, via intravenosa."
+    },
+    {
+     "letra": "C",
+     "texto": "Fibrilação atrial; 150 bpm; amiodarona 300 mg, via intravenosa."
+    },
+    {
+     "letra": "D",
+     "texto": "Fibrilação atrial; 180 bpm; cardioversão elétrica sincronizada 50 J."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q052-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000110698",
+   "codigo": "4000110698",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 53,
+   "temas": [
+    "TV em paciente com cardiopatia estrutural"
+   ],
+   "enunciado": "Homem de 52 anos, com insu ciência cardíaca com fração de ejeção reduzida (FE: 30%), realiza um Holter de 24h em virtude de palpitações. O Holter mostra episódios de taquicardia ventricular sustentada com estabilidade hemodinâmica. O melhor antiarrítmico para esta situação é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Propafenona."
+    },
+    {
+     "letra": "B",
+     "texto": "Verapamil."
+    },
+    {
+     "letra": "C",
+     "texto": "Digoxina."
+    },
+    {
+     "letra": "D",
+     "texto": "Amiodarona."
+    },
+    {
+     "letra": "E",
+     "texto": "Adenosina."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000109955",
+   "codigo": "4000109955",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 54,
+   "temas": [
+    "Tratamento das taquicardias de QRS estreito"
+   ],
+   "enunciado": "Na taquicardia paroxística supraventricular mais frequente (reentrada nodal), a droga que não está indicada é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Betabloqueador."
+    },
+    {
+     "letra": "B",
+     "texto": "Adenosina."
+    },
+    {
+     "letra": "C",
+     "texto": "Verapamil."
+    },
+    {
+     "letra": "D",
+     "texto": "Lidocaína."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000106094",
+   "codigo": "4000106094",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 55,
+   "temas": [
+    "Cardioversão elétrica",
+    "Cardiologia"
+   ],
+   "enunciado": "Mulher de 28 anos de idade em tratamento de hipertireoidismo, há 1 mês com tapazol, refere há 1 hora palpitações intensas e tontura. Ao exame clínico, PA = 80 x 48 mmHg. Feito o eletrocardiograma a seguir: A conduta deve ser",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Adenosina endovenosa."
+    },
+    {
+     "letra": "B",
+     "texto": "Cardioversão elétrica 200 J."
+    },
+    {
+     "letra": "C",
+     "texto": "Metoprolol endovenoso."
+    },
+    {
+     "letra": "D",
+     "texto": "Cardioversão elétrica 50 J."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q055-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000099830",
+   "codigo": "4000099830",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 56,
+   "temas": [
+    "Taquicardia sinusal"
+   ],
+   "enunciado": "O traçado abaixo sugere o diagnóstico de: (Conforme imagem do caderno de questões)",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Taquicardia sinusal."
+    },
+    {
+     "letra": "B",
+     "texto": "Flutter atrial 4:1."
+    },
+    {
+     "letra": "C",
+     "texto": "Fibrilação atrial."
+    },
+    {
+     "letra": "D",
+     "texto": "Taquicardia supraventricular paroxística."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q056-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000098548",
+   "codigo": "4000098548",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 57,
+   "temas": [
+    "Conduta na taquiarritmia instável",
+    "Tratamento",
+    "História clínica e anamnese"
+   ],
+   "enunciado": "Um paciente de 62 anos, 70 kg, do gênero masculino, com história prévia de hipertensão arterial, dá entrada no setor de urgência com taquicardia paroxística, frequência cardíaca = 193 bpm; PA = 70 x 40 mmHg e sinais de instabilidade hemodinâmica. Feito o acesso venoso, monitorização eletrocardiográ ca e oxigenoterapia, é CORRETO a rmar que a conduta médica mais apropriada a ser seguida é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Uso de amiodarona endovenosa, em bolus de 300-600 mg, e observar resposta clínica em 2 horas."
+    },
+    {
+     "letra": "B",
+     "texto": "Cardioversão elétrica sincronizada, com carga aproximada entre 100 e 200 Joules."
+    },
+    {
+     "letra": "C",
+     "texto": "Hidratar abundantemente, realizar anamnese e exame físicos detalhados, solicitar exames bioquímicos e aguardar os resultados, enquanto se estabiliza o quadro do paciente."
+    },
+    {
+     "letra": "D",
+     "texto": "Somente decidir a conduta terapêutica após a realização urgente de ecocardiograma bidimensional com Doppler."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000090839",
+   "codigo": "4000090839",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 58,
+   "temas": [
+    "Síndrome de Wolf f ParkinsonWhite",
+    "Eletrocardiograma"
+   ],
+   "enunciado": "Menino de 14 anos, com palpitações seguidas de tonturas ao realizar exercícios na escola, foi encaminhado para avaliação. A liberação para a realização das atividades físicas estaria condicionada aos resultados dos exames. O eletrocardiograma de repouso está reproduzido abaixo: O quadro clínico e o traçado eletrocardiográfico de repouso estabelecem o diagnóstico de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Bloqueio de ramo esquerdo."
+    },
+    {
+     "letra": "B",
+     "texto": "Taquicardia atrial paroxística."
+    },
+    {
+     "letra": "C",
+     "texto": "Síndrome de Wolff-Parkinson-White."
+    },
+    {
+     "letra": "D",
+     "texto": "Fibrilação atrial paroxística."
+    },
+    {
+     "letra": "E",
+     "texto": "Arritmia sinusal."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q058-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000085474",
+   "codigo": "4000085474",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 59,
+   "temas": [
+    "Outras taquiarritmias",
+    "Eletrocardiograma",
+    "Arritmias Cardíacas"
+   ],
+   "enunciado": "Na síndrome de Brugada, os achados encontrados no eletrocardiograma são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Bloqueio do ramo direito e supradesnivelamento do segmento ST em V1a V3."
+    },
+    {
+     "letra": "B",
+     "texto": "Bloqueio do ramo esquerdo e onda P apiculada."
+    },
+    {
+     "letra": "C",
+     "texto": "Bloqueio do ramo direito e infradesnivelamento do segmento ST em V1 a V3."
+    },
+    {
+     "letra": "D",
+     "texto": "Segmento PR curto."
+    },
+    {
+     "letra": "E",
+     "texto": "Onda delta."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000078026",
+   "codigo": "4000078026",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 60,
+   "temas": [
+    "Taquicardia por reentrada sinusal",
+    "Taquicardia sinusal inapropriada",
+    "Outras causas de tireotoxicose"
+   ],
+   "enunciado": "Paciente jovem, obesa, iniciou uso de “fórmula para emagrecer” há 4 semanas. Vem queixando-se de mal-estar nos últimos quatro dias e hoje pela manhã apresentou taquicardia e pré-síncope. Foi atendida em UPA onde realizou o eletrocardiograma abaixo. Sobre o caso, marque a resposta correta: (Conforme imagem )",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A paciente deverá ser submetida à reversão imediata da arritmia com uso de amiodarona."
+    },
+    {
+     "letra": "B",
+     "texto": "Por tratar-se de paciente jovem, sem comorbidades, pode-se optar por reversão da arritmia com propafenona."
+    },
+    {
+     "letra": "C",
+     "texto": "Como é impossível precisar que a arritmia começou a menos de 48 horas, é indicada anticoagulação plena e realização de ecocardiograma transesofágico para que se possa programar a reversão da arritmia com segurança."
+    },
+    {
+     "letra": "D",
+     "texto": "Cardioversão elétrica deve ser realizada imediatamente."
+    },
+    {
+     "letra": "E",
+     "texto": "Não há indicação de reversão do ritmo e deverá ser realizada dosagem de hormônios tireoidianos e suspensão do medicamento em uso."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [
+    {
+     "arquivo": "imagens/q060-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000123671",
+   "codigo": "4000123671",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 61,
+   "temas": [
+    "Taquicardia atrial multif ocal"
+   ],
+   "enunciado": "Homem de 76 anos foi admitido no serviço de emergência com queixa de palpitações taquicárdicas e refere ser portador de insuficiência cardíaca. Foi realizado o eletrocardiograma, mostrado a seguir. (VER IMAGEM) O diagnóstico eletrocardiográfico e o exame para esclarecimento da causa do ritmo cardíaco apresentado são, respectivamente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Fibrilação atrial, sorologia para Chagas."
+    },
+    {
+     "letra": "B",
+     "texto": "Taquicardia sinusal, hemoglobina glicada."
+    },
+    {
+     "letra": "C",
+     "texto": "Taquicardia atrial multifocal, nível sérico de digoxina."
+    },
+    {
+     "letra": "D",
+     "texto": "Taquicardia sinusal, d-dímero."
+    },
+    {
+     "letra": "E",
+     "texto": "Taquicardia juncional, sorologia para Chagas."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q061-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000095232",
+   "codigo": "4000095232",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 62,
+   "temas": [
+    "Conduta na taquiarritmia instável"
+   ],
+   "enunciado": "Assinale a alternativa que responde corretamente à pergunta abaixo. Homem de 50 anos é internado com história de dispneia e dor torácica. Está acordado, ansioso, apresenta frequência respiratória de 26 irpm e os pulsos periféricos são fracos. Sua pressão arterial é de 80 x 50 mmHg. Seu eletrocardiograma é apontado abaixo. Diante deste quadro, qual é o diagnóstico mais provável e qual a conduta mais adequada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Taquicardia instável – cardioversão imediata e sedoanalgesia com morfina e propofol."
+    },
+    {
+     "letra": "B",
+     "texto": "Taquicardia estável – cardioversão imediata e sedoanalgesia com fentanila e midazolam."
+    },
+    {
+     "letra": "C",
+     "texto": "Taquicardia estável – cardioversão química com amiodarona."
+    },
+    {
+     "letra": "D",
+     "texto": "Taquicardia instável – cardioversão imediata e sedoanalgesia com fentanila e etomidato."
+    },
+    {
+     "letra": "E",
+     "texto": "Fibrilação ventricular – desfibrilação imediata."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q062-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000054698",
+   "codigo": "4000054698",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 63,
+   "temas": [
+    "Tratamento das taquicardias de QRS estreito"
+   ],
+   "enunciado": "Paciente feminina de 35 anos procura o pronto atendimento referindo palpitações taquicárdicas, sendo observada frequência cardíaca de 176 bpm e pressão arterial de 110 x 70 mmHg. Com base no ECG realizado, apresentado na figura, qual a conduta mais adequada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Adenosina Endovenosa (EV) 6 mg."
+    },
+    {
+     "letra": "B",
+     "texto": "Cardioversão elétrica, iniciando com 100 J."
+    },
+    {
+     "letra": "C",
+     "texto": "Desfibrilação elétrica, iniciando com 100 J."
+    },
+    {
+     "letra": "D",
+     "texto": "Verapamil EV 5 a 10 mg."
+    },
+    {
+     "letra": "E",
+     "texto": "Amiodarona EV 150 mg."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q063-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000045892",
+   "codigo": "4000045892",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 64,
+   "temas": [
+    "Distúrbios de ritmo cardíaco",
+    "Torsades de pointes"
+   ],
+   "enunciado": "As seguintes afirmativas se aplicam ao traçado eletrocardiográfico abaixo reproduzido, EXCETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "No tratamento dessa arritmia, está contraindicada a administração intravenosa do sulfato de magnésio, que deve ser reservada para o tratamento de algumas arritmias supraventriculares."
+    },
+    {
+     "letra": "B",
+     "texto": "O traçado eletrocardiográfico basal dos pacientes acometidos por essa arritmia costuma exibir prolongamento, congênito ou adquirido, do intervalo QT."
+    },
+    {
+     "letra": "C",
+     "texto": "Paradoxalmente, essa arritmia pode ser desencadeada por drogas antiarrítmicas das classes IA e III."
+    },
+    {
+     "letra": "D",
+     "texto": "Trata-se de uma modalidade de taquicardia ventricular polimórfica conhecida como torsades des pointes."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q064-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000014533",
+   "codigo": "4000014533",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 65,
+   "temas": [
+    "Cardiologia"
+   ],
+   "enunciado": "Quando iniciamos o tratamento de taquiarritmias de QRS estreito, devemos considerar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A Adenosina deve ser feita em bolus, de vez que sua metabolização é endotelial."
+    },
+    {
+     "letra": "B",
+     "texto": "A Lidocaína apresenta bom efeito atrial."
+    },
+    {
+     "letra": "C",
+     "texto": "A Amiodarona em bolus apresenta-se como opção segura."
+    },
+    {
+     "letra": "D",
+     "texto": "Sempre está indicada cardioversão química."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000009242",
+   "codigo": "4000009242",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 66,
+   "temas": [
+    "Taquicardia Supraventricular TSV"
+   ],
+   "enunciado": "Mulher de 22 anos de idade, chegou ao PS com palpitações taquicárdicas há cerca de 30 minutos sem outras queixas clínicas ou antecedentes. Sinais vitais de chegada: FC = 180 bpm; PA = 120 x 80 mmHg; T = 36°C; saturação O2 = 98%; FR = 12 irpm. Ao exame: BEG, corada, acianótica, vígil, anictérica, pulmões limpos, RCR em 2T, BNF sem sopros, abdome normal. ECG mostrado na figura. (VER IMAGEM) Qual a conduta inicial?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Amiodarona 150 mg IV em 10 minutos."
+    },
+    {
+     "letra": "B",
+     "texto": "Adenosina 6 mg IV em bolus."
+    },
+    {
+     "letra": "C",
+     "texto": "Manobra vagal."
+    },
+    {
+     "letra": "D",
+     "texto": "Verapamil 10 mg IV."
+    },
+    {
+     "letra": "E",
+     "texto": "Cardioversão elétrica."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q066-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000123275",
+   "codigo": "4000123275",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 67,
+   "temas": [
+    "Conduta na taquiarritmia instável"
+   ],
+   "enunciado": "Homem de 65 anos, com história de infarto do miocárdio há 1 mês, procurou atendimento em emergência, tendo sido diagnosticado edema agudo de pulmão. O eletrocardiograma realizado está reproduzido a seguir. (VER IMAGEM) Qual o manejo apropriado para o tratamento da arritmia?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Isossorbida sublingual."
+    },
+    {
+     "letra": "B",
+     "texto": "Adenosina intravenosa."
+    },
+    {
+     "letra": "C",
+     "texto": "Cardioversão elétrica."
+    },
+    {
+     "letra": "D",
+     "texto": "Digoxina intravenosa."
+    },
+    {
+     "letra": "E",
+     "texto": "Amiodarona intravenosa."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q067-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000027464",
+   "codigo": "4000027464",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 68,
+   "temas": [
+    "TV em paciente com cardiopatia estrutural",
+    "Betabloqueadores"
+   ],
+   "enunciado": "Homem de 56 anos vem para consulta de rotina apresentando Holter com raros episódios de taquicardia ventricular não sustentada, assintomáticos. É portador de miocardiopatia dilatada por miocardite prévia, apresentando fração de ejeção de 38% e atualmente em classe funcional I (NYHA). Na terapia antiarrítmica nesse paciente, verifica- se que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Betabloqueador é medicação de escolha para prevenção de morte súbita."
+    },
+    {
+     "letra": "B",
+     "texto": "Não há necessidade de terapia antiarrítmica específica nesses casos."
+    },
+    {
+     "letra": "C",
+     "texto": "Amiodarona é medicação de escolha devido à presença de arritmias ventriculares."
+    },
+    {
+     "letra": "D",
+     "texto": "Propafenona é medicação de escolha, pois não interfere na função ventricular."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000108586",
+   "codigo": "4000108586",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 69,
+   "temas": [
+    "Medicações usadas para controle do ritmo cardíaco",
+    "Bloqueadores dos canais de potássio"
+   ],
+   "enunciado": "A fotossensibilidade, disfunção tiroideana, pneumonite intersticial, disfunção hepática e neuropatia periférica são efeitos adversos particularmente relacionados ao uso crônico de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Quinidina."
+    },
+    {
+     "letra": "B",
+     "texto": "Propafenona"
+    },
+    {
+     "letra": "C",
+     "texto": "Amiodarona"
+    },
+    {
+     "letra": "D",
+     "texto": "Procainamida"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000050255",
+   "codigo": "4000050255",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 70,
+   "temas": [
+    "Bloqueadores dos canais de potássio"
+   ],
+   "enunciado": "Considerando pacientes em uso crônico de amiodarona, o efeito adverso mais comum relacionado ao uso da medicação é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "hipotireoidismo."
+    },
+    {
+     "letra": "B",
+     "texto": "fibrose pulmonar."
+    },
+    {
+     "letra": "C",
+     "texto": "alteração de enzimas hepáticas."
+    },
+    {
+     "letra": "D",
+     "texto": "ataxia, polineuropatia."
+    },
+    {
+     "letra": "E",
+     "texto": "microcristais de córnea."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000077462",
+   "codigo": "4000077462",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 71,
+   "temas": [
+    "Betabloqueadores",
+    "Bloqueadores dos canais de potássio"
+   ],
+   "enunciado": "Paciente senhora de 74 anos, portadora de HAS, e DAC prévia, com angioplastia em 2009, e histórico de episódios de taquicardia atrial sustentadas. Usuária de AAS, Sinvastatina, Mononitrato, Enalapril, Sotalol. Com relação à terapêutica antiarrítmica: Qual o principal efeito colateral possível, nesse caso:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Bradiarritmias, principalmente disfunção sinusal."
+    },
+    {
+     "letra": "B",
+     "texto": "Bradiarritmias, principalmente disfunção nodal AV, gerando BAV de alto grau e BAVT."
+    },
+    {
+     "letra": "C",
+     "texto": "Prolongamento do potencial de ação, com aumento do QT, favorecendo a ocorrência de TV monomórfica, por reentrada."
+    },
+    {
+     "letra": "D",
+     "texto": "Prolongamento do potencial de ação, com aumento do QT, favorecendo a ocorrência de TV polimórfica, por atividade trigada, tipo “Torção das Pontas”."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000099875",
+   "codigo": "4000099875",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 72,
+   "temas": [
+    "Outras taquiarritmias"
+   ],
+   "enunciado": "As afirmativas sobre o uso da adenosina no tratamento de arritmia cardíaca estão corretas, exceto:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A adenosina é útil no tratamento dos pacientes com taquicardia supraventricular."
+    },
+    {
+     "letra": "B",
+     "texto": "As injeções intravenosas rápidas de adenosina em doses de 6 mg a 12 mg interrompem mais de 90% das taquicardias supraventriculares."
+    },
+    {
+     "letra": "C",
+     "texto": "O verapamil IV ainda é o medicamento preferível para interromper imediatamente uma taquicardia supraventricular."
+    },
+    {
+     "letra": "D",
+     "texto": "A adenosina é útil no diagnóstico das taquicardias com QRS amplo."
+    },
+    {
+     "letra": "E",
+     "texto": "Ruborização, dispneia e pressão no peito são efeitos colaterais comuns do tratamento com adenosina."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000075863",
+   "codigo": "4000075863",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 73,
+   "temas": [
+    "Tireotoxicose induzida pela amiodarona",
+    "Etiologia",
+    "Bloqueadores dos canais de potássio"
+   ],
+   "enunciado": "O uso de amiodarona pode ocasionar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipotireoidismo"
+    },
+    {
+     "letra": "B",
+     "texto": "Hipertireoidismo."
+    },
+    {
+     "letra": "C",
+     "texto": "Hipotireoidismo e Hipertireoidismo."
+    },
+    {
+     "letra": "D",
+     "texto": "Enfisema pulmonar."
+    },
+    {
+     "letra": "E",
+     "texto": "Síndrome nefrítica."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000023080",
+   "codigo": "4000023080",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 74,
+   "temas": [
+    "Conduta na taquiarritmia instável",
+    "Critérios de instabilidade"
+   ],
+   "enunciado": "Homem de 68 anos é admitido em uma emergência trazido por familiares. Apresentava dispneia intensa e tontura há 30 minutos, de início súbito. O paciente é hipertenso, em uso de losartana. Exame físico: orientado, dispneico 3+/4+, PA 130 x 90 mmHg, crepitações na metade inferior de ambos os pulmões, sem edema de extremidades. Administrado O2 e diurético, sem melhora, evoluindo com dor torácica anginosa. ECG da admissão a seguir. Qual a conduta recomendada nesse contexto?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cardioversão elétrica."
+    },
+    {
+     "letra": "B",
+     "texto": "Amiodarona endovenosa."
+    },
+    {
+     "letra": "C",
+     "texto": "Parecer de um especialista."
+    },
+    {
+     "letra": "D",
+     "texto": "Massagem dos seios carotídeos."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q074-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000008837",
+   "codigo": "4000008837",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 75,
+   "temas": [
+    "Diagnóstico e investigação adicional",
+    "Apresentação clínica",
+    "Diagnóstico etiológico da hiponatremia"
+   ],
+   "enunciado": "Paciente 65 anos, diabética, com antecedente de uso de amiodarona por arritmia cardíaca controlada evolui, em 3o pós- operatório de colecistectomia, com confusão mental e sonolência. Seus sinais vitais estão normais, não tem dispneia, dor torácica e os exames mostram hiponatremia (Na = 120 mEq/L) com glicemia e eletrocardiograma normais. São, respectivamente, a causa mais provável e o exame a ser solicitado:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "insuficiência renal e creatinina"
+    },
+    {
+     "letra": "B",
+     "texto": "tromboembolismo pulmonar e dímero-D"
+    },
+    {
+     "letra": "C",
+     "texto": "hipotireoidismo e TSH"
+    },
+    {
+     "letra": "D",
+     "texto": "acidente vascular cerebral e tomografia computadorizada de crânio"
+    },
+    {
+     "letra": "E",
+     "texto": "sepse e hemoculturas"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000077879",
+   "codigo": "4000077879",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 76,
+   "temas": [
+    "Síndrome de Wolf f ParkinsonWhite"
+   ],
+   "enunciado": "Taís, 31 anos, apresentou perda da consciência há algumas semanas. Diabetes mellitus desde os 8 anos. Há três meses apresentou glicemia de jejum de 150 mg/dl, hemoglobina glicada (método HPLC) de 8,3; proteinúria (++). Seu médico sugeriu intensi cação das atividades aeróbicas e ajustou as doses de insulina para 40 U de insulina NPH humana + 5 U de insulina regular, antes do desjejum e 10 U de NPH humana + 10 U de insulina regular 30 minutos antes do jantar. Após algumas semanas, os níveis de glicemia de jejum passaram a variar entre 70 e 90 mg/dl e a média nunca ultrapassou 150 mg/dl. Há três semanas, pela primeira vez na vida, apresentou palpitações, seguidas de perda da consciência. Recuperou-se rapidamente e foi levada à emergência, aonde chegou acordada, lúcida, sem lesões traumáticas e com leves abalos clônicos faciais. Foi medicada com glicose intravenosa. Posteriormente teve 3 episódios de náuseas, sudorese, palpitação e borramento da visão, porém sem perda da consciência. Ganhou 3 kg nos últimos meses. Refere trabalhar muito por vezes não consegue almoçar, fazendo “lanche ” e não tem condições de automonitorar.Tinha crises de hipoglicemia na infância. Nega tabagismo, etilismo ou uso de drogas ilícitas. Peso: 72 kg. Sinais vitais: tax = 36°C, PA = 126 x 16 mmHg, FC = 62 bpm, FR = 15 bpm. Fundoscopia normal. Exame físico sem alterações. Exames laboratoriais: Hemoglobina:15,3 g/dl; leucometria: 5.500 mm3 (diferencial normal), ureia 20 mg/dl, creatinina 1,0 mg/dl, glicemia de jejum 66 mg/dl; colesterol total 160 mg/dl, HDL 45 mg/dl, LDL 100mg/dl, triglicerídeos 120 mg/dl, hemoglobina glicada 8,0 %; EAS normal; microalbuminúria= 42 mg/24 horas; cortisol sérico (60 min após teste da cortrosina) 25µ/dl: Eletrocardiograma (ECG) de repouso: (VER IMAGEM)",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "justifica síncope cardíaca por mecanismo de reentrada através de vias acessórias no nódulo AV."
+    },
+    {
+     "letra": "B",
+     "texto": "deve ser complementado por ecocardiograma para caracterizar a etiologia da síncope."
+    },
+    {
+     "letra": "C",
+     "texto": "caracteriza síncope por ação vasovagal."
+    },
+    {
+     "letra": "D",
+     "texto": "afasta a etiologia neurocardiogênica."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q076-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000030820",
+   "codigo": "4000030820",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 77,
+   "temas": [
+    "Síndrome de Wolf f ParkinsonWhite",
+    "Antiarrítmicos"
+   ],
+   "enunciado": "Considerando-se os seguintes medicamentos, o que NÃO deve ser usado no tratamento da brilação atrial com resposta ventricular alta, encontrada na síndrome de Wolff-Parkinson-White é: Respostas: 1 12 23 34 45 56 67",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "amiodorona."
+    },
+    {
+     "letra": "B",
+     "texto": "ibutilide."
+    },
+    {
+     "letra": "C",
+     "texto": "procainamida."
+    },
+    {
+     "letra": "D",
+     "texto": "verapamil."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": [
+  {
+   "id": "4000184436",
+   "codigo": "4000184436",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Taquiarritmias",
+   "numero": 6,
+   "temas": [
+    "Outras taquiarritmias"
+   ],
+   "enunciado": "Homem, 46a, admitido na Sala de Emergência após episódio de síncope, ocorrida em um bar há 30 minutos. Exame físico: desnutrido; PA=126x72mmHg; FC=78bpm; FR=18irpm, oximetria de pulso=96% (ar ambiente); parótidas aumentadas. Eletrocardiograma: alargamento do intervalo QT. Após 20 minutos da admissão, apresentou dispneia súbita, com PA=82x46mmHg, FR=30irpm, oximetria de pulso=96% (ar ambiente). Você observa, no monitor, o seguinte traçado eletrocardiográfico: A CONDUTA IMEDIATA É:",
+   "alternativas": [],
+   "gabarito": null,
+   "imagens": [
+    {
+     "arquivo": "imagens/q006-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": [],
+   "motivo_exclusao": "sem alternativas"
+  }
+ ]
+}

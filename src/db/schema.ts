@@ -53,3 +53,18 @@ export interface QuestionLog {
   correct: number;
   note?: string;
 }
+
+/**
+ * Uma resposta dada a uma questão do banco (tela Questões > Resolver).
+ * `materia` é o id da matéria em que a questão foi resolvida (ex.: 'cardiologia').
+ */
+export interface QuestionAttempt {
+  id?: number;
+  questionId: string;
+  materia: string;
+  tema?: string;
+  date: string; // YYYY-MM-DD, fuso local
+  answeredAt: number; // Date.now()
+  chosen: string; // letra marcada
+  correct: boolean;
+}

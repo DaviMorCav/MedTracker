@@ -1,0 +1,3346 @@
+{
+ "questoes": [
+  {
+   "id": "4000120617",
+   "codigo": "4000120617",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 1,
+   "temas": [
+    "Classif icação de risco",
+    "Inf ectologia",
+    "Quadro clínico"
+   ],
+   "enunciado": "Com relação à dengue, é correto afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "diferentemente de outras doenças, a gravidade não está relacionada a fatores de riscoindividuais."
+    },
+    {
+     "letra": "B",
+     "texto": "a imunidade adquirida é permanente apenas para o primeiro sorotipo após a infecção,não ocorrendo após a segunda."
+    },
+    {
+     "letra": "C",
+     "texto": "a maioria dos pacientes apresenta formas graves, hemorrágicas com choque e risco demorte."
+    },
+    {
+     "letra": "D",
+     "texto": "o período de viremia geralmente se inicia um dia antes do aparecimento da febre."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120609",
+   "codigo": "4000120609",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 2,
+   "temas": [
+    "HIVAids"
+   ],
+   "enunciado": "No cuidado das pessoas que vivem com HIV, a figura a seguir representa a mandala de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "intervenções comportamentais."
+    },
+    {
+     "letra": "B",
+     "texto": "estratégia de tratamento eficaz."
+    },
+    {
+     "letra": "C",
+     "texto": "prevenção combinada."
+    },
+    {
+     "letra": "D",
+     "texto": "estratégia de combinação de tratamento."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q002-2.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000120593",
+   "codigo": "4000120593",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 3,
+   "temas": [
+    "Hanseníase tuberculoide"
+   ],
+   "enunciado": "Homem de 35 anos apresenta, há 3 anos, uma única lesão no terço inferior da perna esquerda caracterizada por placa com centro hipocrômico, anestésica e bordas moderada- mente elevadas (imagem a seguir). Baciloscopia: negativa; exame anatomopatológico: in ltrado inflamatório granulo-matoso perineural e perianexial, com pesquisa de BAAR negativa; reação de Mitsuda: positiva. É correto afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "não há evidências para diagnóstico de hanseníase, pois a baciloscopia foi negativa."
+    },
+    {
+     "letra": "B",
+     "texto": "se trata de hanseníase indeterminada, pois apresenta uma única lesão cutânea."
+    },
+    {
+     "letra": "C",
+     "texto": "o diagnóstico é de hanseníase tuberculoide, mesmo sem o achado do bacilo."
+    },
+    {
+     "letra": "D",
+     "texto": "o diagnóstico é de hanseníase dimorfa, pois a reação de Mitsuda foi positiva."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q003-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000120580",
+   "codigo": "4000120580",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 4,
+   "temas": [
+    "Introdução",
+    "Sarampo",
+    "Vigilância Epidemiológica"
+   ],
+   "enunciado": "O fato que justifica a epidemia de sarampo que está ocorrendo no Brasil é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a presença de indivíduos não vacinados suscetíveis pela baixa cobertura vacinal contra sarampo."
+    },
+    {
+     "letra": "B",
+     "texto": "a falta de vacinas, responsável pela baixa cobertura vacinal, com consequente aumentode casos."
+    },
+    {
+     "letra": "C",
+     "texto": "a baixa eficácia da vacina, responsável pelo aumento de indivíduos suscetíveis."
+    },
+    {
+     "letra": "D",
+     "texto": "o aumento da virulência do RNA vírus, responsável pelo aumento da transmissão dadoença."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120571",
+   "codigo": "4000120571",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 5,
+   "temas": [
+    "Esquema básico para tuberculose pulmonar",
+    "Inf ectologia",
+    "Diagnóstico"
+   ],
+   "enunciado": "Homem de 43 anos, em consulta na UBS, refere tosse, sudorese noturna, inapetência e emagrecimento há 2 meses. Radiogra a de tórax: in ltrado em ápice direito, baciloscopia direta: positiva para BAAR em duas amostras de escarro. De acordo com as orientações do Ministério da Saúde do Brasil, a conduta correta é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "aguardar resultado da cultura de escarro e teste de sensibilidade para introduzirtratamento e convocar contatos intradomiciliares para consulta e realização de prova tuberculínica."
+    },
+    {
+     "letra": "B",
+     "texto": "notificar o caso para a vigilância epidemiológica, encaminhar para o nível secundáriode assistência para introdução do tratamento e agendar consulta médica em 30 dias na UBS."
+    },
+    {
+     "letra": "C",
+     "texto": "realizar testagem para HIV, introduzir esquema de tratamento com esquema RIPE(rifampicina-isoniazida- pirazinamida-etambutol) e notificar o caso para a vigilância epidemiológica."
+    },
+    {
+     "letra": "D",
+     "texto": "agendar visita domiciliar, construir ecomapa, convocar contatos intradomiciliares esolicitar provas de função hepática para o paciente, aguardando os resultados para introduzir esquema RIPE (rifampicina-isoniazida- pirazinamida-etambutol)."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120560",
+   "codigo": "4000120560",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 6,
+   "temas": [
+    "Declaração de óbito DO Atestado de óbito"
+   ],
+   "enunciado": "Homem de 66 anos estava consertando o telhado de sua própria residência quando veio a cair de uma altura de oito metros. Atendido pelo SAMU, foi levado ao hospital, sendo constatado traumatismo cranioencefálico, falecendo minutos após. A família informou que o paciente era portador de diabetes mellitus e hipertensão arterial. Com base nessas informações, é correto o seguinte preenchimento da Declaração de Óbito:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "PARTE I; a) Traumatismo cranioencefálico; b) Queda de telhado; c) _______________; d) _______________; PARTE II; Hipertensão arterial; Diabetes mellitus"
+    },
+    {
+     "letra": "B",
+     "texto": "PARTE I; a) Traumatismo cranioencefálico; b) _______________; c) _______________; d) _______________; PARTE II; Queda de telhado"
+    },
+    {
+     "letra": "C",
+     "texto": "PARTE I; a) Queda de telhado; b) Traumatismo cranioencefálico; c) _______________; d) _______________; PARTE II _______________"
+    },
+    {
+     "letra": "D",
+     "texto": "Por se tratar de morte por causa não natural, não deverá ser emitido Atestado de Óbito, cabendo, ao Instituto Médico Legal, a emissão de laudo competente para esses casos."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120551",
+   "codigo": "4000120551",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 7,
+   "temas": [
+    "Sigilo prof issional",
+    "Documentos médicos"
+   ],
+   "enunciado": "Segundo o Código de Ética Médica, de 2019, é vedado ao médico",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "deixar de atestar óbito de paciente ao qual vinha prestando assistência, mesmo quando houver indícios de morte violenta."
+    },
+    {
+     "letra": "B",
+     "texto": "atestar óbito quando não tenha prestado assistência ao paciente, salvo,exclusivamente, se o fizer em caso de necrópsia ou verificação médico-legal."
+    },
+    {
+     "letra": "C",
+     "texto": "atestar óbito quando não o tenha verificado pessoalmente."
+    },
+    {
+     "letra": "D",
+     "texto": "deixar de prestar informações a empresas seguradoras sobre as circunstâncias da morte do paciente sob seus cuidados."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120545",
+   "codigo": "4000120545",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 8,
+   "temas": [
+    "Política Nacional de Humanização"
+   ],
+   "enunciado": "Está incluída dentre as diretrizes da Política Nacional de Humanização:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "garantir a permanência hospitalar, evitando-se a desospitalização precoce e os riscosdos cuidados em domicílio."
+    },
+    {
+     "letra": "B",
+     "texto": "respeitar a autonomia dos profissionais médicos, evitando-se o uso de protocolosclínicos."
+    },
+    {
+     "letra": "C",
+     "texto": "garantir atendimento igualitário a toda demanda observando rigorosamente a ordemcronológica de chegada."
+    },
+    {
+     "letra": "D",
+     "texto": "prover o acesso à estrutura hospitalar e a transferência segura, conforme anecessidade dos usuários."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120538",
+   "codigo": "4000120538",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 9,
+   "temas": [
+    "Política Nacional de Promoção de Saúde"
+   ],
+   "enunciado": "“Ampliar a autonomia e a corresponsabilidade de sujeitos e coletividades, inclusive o poder público, no cuidado integral à saúde e minimizar e/ou extinguir as desigualdades de toda e qualquer ordem (étnica, racial, social, regional, de gênero, de orientação/opção sexual, entre outras)” é um dos objetivos específicos",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "da Política de Humanização do SUS."
+    },
+    {
+     "letra": "B",
+     "texto": "da Política Nacional de Promoção da Saúde."
+    },
+    {
+     "letra": "C",
+     "texto": "dos Núcleos de Apoio à Saúde da Família (NASF)."
+    },
+    {
+     "letra": "D",
+     "texto": "da Clínica Ampliada e Compartilhada."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120530",
+   "codigo": "4000120530",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 10,
+   "temas": [
+    "Planos e Seguros de Saúde Lei n 96561998"
+   ],
+   "enunciado": "O setor de saúde suplementar exibe diferentes modalidades de gestão e operação. A modalidade denominada “medicina de grupo” tem como característica:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a gestão do plano é feita por profissionais médicos vinculados às cooperativas,denominados cooperados."
+    },
+    {
+     "letra": "B",
+     "texto": "os serviços podem ser prestados por unidades próprias, onde os profissionais de saúde são empregados da empresa de medicina de grupo, ou por meio de unidades credenciadas por esta."
+    },
+    {
+     "letra": "C",
+     "texto": "são instituídas e administradas, por empresas ou por seus empregados, por meio de caixas de assistência, associações, sindicados, fundações, sem finalidade lucrativa."
+    },
+    {
+     "letra": "D",
+     "texto": "a principal organização que as representa é o Sistema Cooperativo Unimed."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120522",
+   "codigo": "4000120522",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 11,
+   "temas": [
+    "Regionalização do SUS"
+   ],
+   "enunciado": "O Decreto nº 7.508/2011, que dispõe sobre a organização do SUS, estabelece como centro coordenador do cuidado e ordenador das ações e dos serviços disponibilizados na Rede de Atenção à Saúde,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a atenção básica à saúde."
+    },
+    {
+     "letra": "B",
+     "texto": "a secretaria municipal de saúde."
+    },
+    {
+     "letra": "C",
+     "texto": "o serviço de atenção especializada de referência."
+    },
+    {
+     "letra": "D",
+     "texto": "a central de regulação e oferta de serviços de saúde (CROSS)."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120516",
+   "codigo": "4000120516",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 12,
+   "temas": [
+    "Lei n 81421990"
+   ],
+   "enunciado": "A Conferência Nacional de Saúde, instância colegiada do SUS, nos termos da Lei nº 8.142, de 28.12.1990, deve",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "se reunir a cada dois anos."
+    },
+    {
+     "letra": "B",
+     "texto": "contar com a participação deliberativa de profissionais de saúde e consultiva dos demais segmentos sociais."
+    },
+    {
+     "letra": "C",
+     "texto": "avaliar a situação de saúde e propor as diretrizes para a formulação da política de saúde."
+    },
+    {
+     "letra": "D",
+     "texto": "ser convocada pelo Conselho Nacional de Saúde, ou, extraordinariamente, pelo Presidente da República."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120510",
+   "codigo": "4000120510",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 13,
+   "temas": [
+    "Lei n 80801990"
+   ],
+   "enunciado": "“A saúde é um direito fundamental do ser humano, devendo o Estado prover as condições indispensáveis ao seu pleno exercício”. Essa afirmação integra o texto da",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Declaração Universal dos Direitos Humanos (ONU, 1948)."
+    },
+    {
+     "letra": "B",
+     "texto": "Lei Orgânica da Saúde (Lei no 8.080/1990)."
+    },
+    {
+     "letra": "C",
+     "texto": "Portaria no 399/ 2006, que estabelece o “Pacto pela Saúde”."
+    },
+    {
+     "letra": "D",
+     "texto": "Política Nacional de Humanização (Brasil, 2004)."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120505",
+   "codigo": "4000120505",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 14,
+   "temas": [
+    "Instituto Nacional de Previdência Social INPS"
+   ],
+   "enunciado": "Em 1966, foi criado o Instituto Nacional de Previdência Social (INPS), com profundas mudanças na prestação de serviços de saúde no Brasil. Dentre outras características, o INPS dava ênfase à",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "atenção hospitalar privada, mediante contratos e convênios."
+    },
+    {
+     "letra": "B",
+     "texto": "expansão de serviços ambulatoriais terceirizados e hospitalares próprios."
+    },
+    {
+     "letra": "C",
+     "texto": "promoção de saúde e prevenção com o intuito de reduzir internações e despesas assistenciais."
+    },
+    {
+     "letra": "D",
+     "texto": "descentralização da gestão para estados e municípios."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120499",
+   "codigo": "4000120499",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 15,
+   "temas": [
+    "Mortalidade Materna"
+   ],
+   "enunciado": "Em relação ao coeficiente de mortalidade materna, é correto afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "estima o risco dos nascidos vivos durante o seu primeiro ano de vida e reflete o acessoe a qualidade dos recursos dispo- níveis para atenção à saúde materna e da população infantil."
+    },
+    {
+     "letra": "B",
+     "texto": "seu cálculo é realizado a partir do número de óbitos maternos, por 100 mil nascidosvivos de mães residentes em deter- minado local, no ano considerado."
+    },
+    {
+     "letra": "C",
+     "texto": "o conceito de morte materna na 10a revisão da Classificação Internacional de Doenças(CID-10) refere-se à morte de uma mulher durante a gestação e o parto devido a causas relacionadas a gravidez e a causas acidentais ou incidentais."
+    },
+    {
+     "letra": "D",
+     "texto": "taxas elevadas de mortalidade materna independem do planejamento familiar e daassistência pré-natal."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120489",
+   "codigo": "4000120489",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 16,
+   "temas": [
+    "Mecanismos de Emergência e Reemergência de Doenças Inf ecciosas"
+   ],
+   "enunciado": "Analise as tabelas 1 e 2 e os dados sobre o sarampo no Brasil. É correto afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "para conter o avanço do sarampo, o Ministério da Saúde intensificou, em 2019, avacinação com tríplice viral em crianças de seis a 11 meses de idade e a vacinação em adultos com 60 anos e mais."
+    },
+    {
+     "letra": "B",
+     "texto": "até o momento, no Brasil, além dos surtos de sarampo nos estados de Amazonas,Roraima e Pará, os casos confirmados em 2019 estão distribuídos por todas as unidades federadas do país."
+    },
+    {
+     "letra": "C",
+     "texto": "o surto de sarampo, que está ocorrendo no Brasil, desde 2018, está relacionado acasos importados de pessoas que viajaram para a Europa e para o Líbano, sem qualquer relação com os surtos que estão ocorrendo em países da América Latina."
+    },
+    {
+     "letra": "D",
+     "texto": "no período de 1999 a 2005, o Brasil encontrava-se em processo de erradicação do sarampo, com progressiva redução do número de casos. Em 2016, o Brasil recebeu o certificado de eliminação da circulação do vírus do sarampo pela OMS, declarando a região das Américas livre do sarampo."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q016-1.jpg",
+     "antes_das_alternativas": true
+    },
+    {
+     "arquivo": "imagens/q016-3.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000120466",
+   "codigo": "4000120466",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 17,
+   "temas": [
+    "Mortalidade Inf antil e Perinatal"
+   ],
+   "enunciado": "Analise a tabela a seguir. De acordo com essa tabela, é correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "há consistente tendência de redução da mortalidade infantil em todas as regiões brasileiras, o que reflete a melhoria nas condições de vida, o declínio da fecundidade e o efeito de intervenções públicas nas áreas de saúde e saneamento, entre outros aspectos."
+    },
+    {
+     "letra": "B",
+     "texto": "os dados refletem as condições de desenvolvimento socioeconômico e infraestrutura ambiental, bem como o acesso e a qualidade dos recursos disponíveis para atenção à saúde da população infantil, e expressam as causas de mortes perinatais."
+    },
+    {
+     "letra": "C",
+     "texto": "ainda que os valores médios continuem elevados, sobretudo na região nordeste,podemos observar uma significativa redução da mortalidade neonatal em relação à mortalidade tardia em todas as regiões do país e no Brasil como um todo, nesses anos em estudo."
+    },
+    {
+     "letra": "D",
+     "texto": "ocorreu acentuado e contínuo declínio da mortalidade pós-neonatal para todas asregiões do país e para o Brasil como um todo, produzindo padrão homogêneo entre todas as regiões, nos anos de 2000 e 2004."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q017-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000120455",
+   "codigo": "4000120455",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 18,
+   "temas": [
+    "Asma ocupacional x asma relacionada ao trabalho",
+    "Asma ocupacional"
+   ],
+   "enunciado": "“No Brasil, os casos de crises de asma brônquica que acometem indivíduos com asma preexistente são atribuídos a características hereditárias e pessoais e não estão incluídos na lista brasileira de doenças relacionadas ao trabalho”. Essa afirmação está",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "errada, pois podem ser considerados casos de asma relacionada ou agravada pelo trabalho e estão incluídos na lista."
+    },
+    {
+     "letra": "B",
+     "texto": "correta, pois esse entendimento segue a compreensão majoritária na comunidade internacional."
+    },
+    {
+     "letra": "C",
+     "texto": "errada, pois esse entendimento vai depender do tipo de crise apresentada e do tempo de exposição ao agente."
+    },
+    {
+     "letra": "D",
+     "texto": "correta, pois esses casos demonstram a existência de predisposição individual e o trabalho isoladamente não desencadeia os quadros."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120446",
+   "codigo": "4000120446",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 19,
+   "temas": [
+    "Tipos de Estudos Epidemiológicos"
+   ],
+   "enunciado": "Um estudo teve como objetivo avaliar a associação entre variáveis meteorológicas e poluição do ar com internações respiratórias em crianças. Para tanto, foram utilizados dados secundários das variáveis meteorológicas, de poluição atmosférica e das internações hospitalares durante o período de 2003 a 2013. Os dados meteorológicos foram obtidos junto ao Instituto Nacional de Meteorologia (INMET). Os dados sobre a poluição atmosférica foram obtidas na plataforma Qualar da Companhia Ambiental de São Paulo. E, por m, os dados epidemiológicos referentes às internações hospitalares foram obtidos de maneira pública pelos registros das Autorizações de Internação Hospitalar (AIH) do Departamento de Informática do Sistema Único de Saúde (DATASUS). Os resultados desse trabalho mostraram que existe relação entre temperatura média do ar, umidade relativa, precipitação e o poluente atmosférico MP10 com as internações por doenças respiratórias em crianças com até 9 anos de idade. De acordo o texto, o delineamento desse estudo é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "de caso controle."
+    },
+    {
+     "letra": "B",
+     "texto": "de coorte."
+    },
+    {
+     "letra": "C",
+     "texto": "descritivo."
+    },
+    {
+     "letra": "D",
+     "texto": "ecológico."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120438",
+   "codigo": "4000120438",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 20,
+   "temas": [
+    "Tipos de Estudos Epidemiológicos"
+   ],
+   "enunciado": "Um estudo realizado em um hospital de grande porte avaliou: a prevalência de quedas; a distribuição das quedas por grau de dependência dos pacientes; a distribuição das quedas pelo motivo pelas quais originou (por exemplo: piso escorregadio, desorientação, diminuição da força muscular ou outra); a distribuição das quedas de acordo com a gravidade das suas consequências e a distribuição das quedas de acordo com o turno e local de ocorrência. Os dados foram coletados em relação aos anos de 2016, 2017 e 2018. De acordo com a descrição, o delineamento desse estudo é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "de caso controle."
+    },
+    {
+     "letra": "B",
+     "texto": "de coorte."
+    },
+    {
+     "letra": "C",
+     "texto": "descritivo."
+    },
+    {
+     "letra": "D",
+     "texto": "ecológico."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120429",
+   "codigo": "4000120429",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 21,
+   "temas": [
+    "Neurite Vestibular",
+    "Síndromes Vestibulares Perif éricas"
+   ],
+   "enunciado": "Homem de 42 anos apresenta vertigem intensa de início súbito. Nega hipoacusia, zumbido ou plenitude aural. AP: ausência de comorbidades. Exame físico: PA 120 x 80 mmHg, taquicardia leve, sudorese, palidez cutâneo-mucosa, nistagmo espontâneo horizontal para direita, que aumenta de velocidade ao olhar para direita e reduz com a xação ocular; demais pares de nervos cranianos e provas cerebelares normais. A hipótese diagnóstica é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "síndrome de Meniére."
+    },
+    {
+     "letra": "B",
+     "texto": "neurite vestibular."
+    },
+    {
+     "letra": "C",
+     "texto": "vertigem posicional paroxística benigna."
+    },
+    {
+     "letra": "D",
+     "texto": "labirintite."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120418",
+   "codigo": "4000120418",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 22,
+   "temas": [
+    "Analgesia Perioperatória",
+    "Opioides",
+    "Cirurgia"
+   ],
+   "enunciado": "Homem de 80 anos foi submetido à cirurgia de urgência para xação de fratura de fêmur sob anestesia geral venosa total. AP: insu ciência renal não dialítica (TFG 20 mL/min) e HAS não controlada. Ao despertar na sala de recuperação anestésica, apresentou quadro de intensa dor (escore 10, em escala de 0 a 10) no sítio cirúrgico. Assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Os analgésicos opioides estão contraindicados em dor aguda em decorrência daepidemia de overdoses e de mortes associada ao seu uso."
+    },
+    {
+     "letra": "B",
+     "texto": "As dores ósseas respondem bem ao uso de antiinflamatórios, motivo pelo qual são aprimeira escolha."
+    },
+    {
+     "letra": "C",
+     "texto": "Morfina é considerada o opioide “padrão-ouro” e, por esse motivo, é a primeiraescolha para tratar dores de forte intensidade."
+    },
+    {
+     "letra": "D",
+     "texto": "Fentanil ou metadona são os analgésicos opioides de escolha, pois o paciente é nefropata."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120411",
+   "codigo": "4000120411",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 23,
+   "temas": [
+    "Quadro Clínico",
+    "Tomograf ia Computadorizada"
+   ],
+   "enunciado": "Mulher de 53 anos foi encontrada por familiares caída e arresponsiva. AP: hipertensa e tabagista. Exame físico: comatosa (escala de coma de Glasgow 7), PA 180 x 100 mmHg, FC 70 bpm. TC de crânio (imagem a seguir). A hipótese diagnóstica é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "acidente vascular cerebral intraparenquimatoso hipertensivo."
+    },
+    {
+     "letra": "B",
+     "texto": "hemorragia subaracnoidea por rotura de aneurisma cerebral."
+    },
+    {
+     "letra": "C",
+     "texto": "trombose de seio cavernoso."
+    },
+    {
+     "letra": "D",
+     "texto": "hematoma subdural agudo traumático."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q023-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000120391",
+   "codigo": "4000120391",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 24,
+   "temas": [
+    "Intubação traqueal"
+   ],
+   "enunciado": "Criança de 3 meses foi submetida à cirurgia cardíaca para correção do defeito septal atrioventricular. A intubação e extubação orotraqueal ocorreram sem intercorrências. O tempo de intubação foi de três horas. Após a extubação, passou a apresentar choro baixo e fraco e leve estridor bifásico. Os sintomas mantiveram-se após uso de corticoide endovenoso. A hipótese diagnóstica é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "estenose subglótica após intubação."
+    },
+    {
+     "letra": "B",
+     "texto": "laringomalácia por malformação."
+    },
+    {
+     "letra": "C",
+     "texto": "paralisia de prega vocal esquerda por comprometimento do nervo laringeo recorrente."
+    },
+    {
+     "letra": "D",
+     "texto": "laringite aguda viral sazonal."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120379",
+   "codigo": "4000120379",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 25,
+   "temas": [
+    "Classif icação Clínica CEAP",
+    "Cirurgia"
+   ],
+   "enunciado": "A respeito da classificação CEAP para insuficiência venosa crônica (IVC), assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Pacientes com classe clínica C2 são portadores de telangectasias ou veias reticulares."
+    },
+    {
+     "letra": "B",
+     "texto": "A classificação fisiopatológica divide os pacientes com IVC em causas congênita, indeterminada/primária e conhecida/secundária."
+    },
+    {
+     "letra": "C",
+     "texto": "Pacientes com classe clínica C4 apresentam alterações tróficas da pele comohiperpigmentação, eczema e lipodermatoesclerose."
+    },
+    {
+     "letra": "D",
+     "texto": "Pacientes com classe clínica C5 apresentam úlcera em atividade."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120357",
+   "codigo": "4000120357",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 26,
+   "temas": [
+    "Tromboangiíte obliterante ou doença de Buerger",
+    "Diagnóstico"
+   ],
+   "enunciado": "Homem de 35 anos apresenta dor, hiperemia e enduração nos trajetos venosos super ciais, inicialmente nas pernas e atualmente em região lateral das coxas. Há 3 meses, ele apresenta necrose em pododáctilos e úlceras digitais de difícil cicatrização na mão direita. Exame físico: perfusão lenti cada nos pés bilateralmente e na mão direita, úlceras com crostas necróticas e fundo pálido e ausência de pulsos distais nos MMII e de pulsos radial e ulnar no MSD, demais pulsos 4+/4, sem sopros, presença de tromboflebite superficial nos membros inferiores. AP: tabagista e hipertenso. A hipótese diagnostica é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "arterite de Takayasu."
+    },
+    {
+     "letra": "B",
+     "texto": "tromboangeíte obliterante."
+    },
+    {
+     "letra": "C",
+     "texto": "síndrome do anticorpo antifosfolípide."
+    },
+    {
+     "letra": "D",
+     "texto": "doença aterosclerótica periférica."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120347",
+   "codigo": "4000120347",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 27,
+   "temas": [
+    "Estimativa da Superf ície Corpórea Queimada e Circulação",
+    "Cirurgia"
+   ],
+   "enunciado": "Tratamento Def initivo das Áreas Queimadas Homem de 20 anos sofreu queimaduras de 2º grau por escaldadura em 30% da superfície corporal. Para garantir que o paciente esteja bem hidratado, o principal parâmetro é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "controle do débito urinário."
+    },
+    {
+     "letra": "B",
+     "texto": "monitorização da frequência cardíaca."
+    },
+    {
+     "letra": "C",
+     "texto": "monitorização da pressão venosa central."
+    },
+    {
+     "letra": "D",
+     "texto": "avaliação do turgor e das mucosas."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120340",
+   "codigo": "4000120340",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 28,
+   "temas": [
+    "Respiração e Ventilação",
+    "Trauma Abdominal Fechado"
+   ],
+   "enunciado": "Hierarquização do Atendimento e Avaliação Primária Homem de 33 anos, vítima de acidente automobilístico (carro x moto), deu entrada ao pronto-socorro trazido pelo SAMU, em prancha rígida e colar cervical. Exame físico: confuso, abertura ocular ao chamado e localiza dor, FC 115 bpm, PA 120 x 55 mmHg, oximetria 89%, MV + diminuído e hipertimpânico à direita, abdome globoso, ácido e doloroso à palpação de hipocôndrio esquerdo. As condutas a serem adotadas nesse caso são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "intubação orotraqueal, drenagem de tórax, tomografia de abdome."
+    },
+    {
+     "letra": "B",
+     "texto": "suplementação não invasiva de oxigênio, drenagem de tórax, tomografia de abdome."
+    },
+    {
+     "letra": "C",
+     "texto": "suplementação não invasiva de oxigênio, toracocentese no 2º EIC, FAST."
+    },
+    {
+     "letra": "D",
+     "texto": "intubação orotraqueal, toracocentese no 2º EIC, FAST."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120326",
+   "codigo": "4000120326",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 29,
+   "temas": [
+    "Complicações"
+   ],
+   "enunciado": "Homem de 65 anos, dá entrada na UTI com pancreatite aguda biliar. Evoluiu no quinto dia de internação com piora clínica. Exame físico: febril (38ºC), PA 100 x 60 mmHg, FC 125 bpm, abdome globoso, doloroso e tenso à palpação de todo abdome. Exames laboratoriais: GB = 19000/ mm³; DHL = 450 U/L; TGO = 280 U/L; BT = 3,0 mg/dL (BD = 2,1 mg/dL); amilase = 1850 U/L; lipase = 3500 U/L. TC de abdome: imagem a seguir. Em relação ao caso, é correto afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a cirurgia, quando indicada, deve ser realizada o mais tardiamente possível, uma vez que a intervenção precoce é associada à elevada morbimortalidade."
+    },
+    {
+     "letra": "B",
+     "texto": "a dieta parenteral é preferível à dieta enteral até que os níveis de amilase e lipase normalizem."
+    },
+    {
+     "letra": "C",
+     "texto": "o uso de antibiótico profilático está associado à redução significativa da morbi-mortalidade."
+    },
+    {
+     "letra": "D",
+     "texto": "a colangiopancreatografia retrógrada endoscópica está indicada nos casos depancreatite associada à icterícia."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q029-2.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000120318",
+   "codigo": "4000120318",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 30,
+   "temas": [
+    "Cirurgia",
+    "Exames Diagnósticos e Tratamento"
+   ],
+   "enunciado": "Mulher de 44 anos, sem comorbidades, apresenta há 2 dias, dor em hipocôndrio direito, acompanhada de icterícia, colúria e acolia. Exame físico: BEG, ictérica (+/4+), abdome doloroso à palpação de hipocôndrio direito, sem reação peritoneal. Exames laboratoriais: Hb = 13,9 g/dL; Ht = 39%; GB = 6500/mm³; plaquetas = 250000/ mm³; TGO = 77 U/L; TGP = 98 U/L; GGT = 445 U/L; FA = 221 U/L; BT = 3,5 mg/dL (BD = 2,8 mg/dL), amilase = 51 U/L. Ultrassonogra a de abdome: vesícula biliar de paredes nas e lisas, com inúmeros cálculos no seu interior, discreta dilatação de vias biliares intra e extrahepáticas com evidência de fator obstrutivo distal de, aproximadamente, 3 mm. A conduta mais adequada é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "colangioressonância e colecistectomia videolaparoscópica."
+    },
+    {
+     "letra": "B",
+     "texto": "antibioticoterapia e colecistectomia videolaparoscópica em um segundo momento."
+    },
+    {
+     "letra": "C",
+     "texto": "colangiopancreatografia retrógrada endoscópica e colecistectomia videolaparoscópica."
+    },
+    {
+     "letra": "D",
+     "texto": "drenagem percutânea da via biliar e colecistectomia videolaparoscópica."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120311",
+   "codigo": "4000120311",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 31,
+   "temas": [
+    "Inervação",
+    "Cirurgia"
+   ],
+   "enunciado": "Com relação à anatomia e às hérnias inguinais, é correto afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "as hérnias diretas são mais frequentes que as hérnias indiretas."
+    },
+    {
+     "letra": "B",
+     "texto": "as hérnias indiretas encontram-se no anel inguinal profundo, medialmente aos vasosepigástricos inferiores."
+    },
+    {
+     "letra": "C",
+     "texto": "a vascularização da região inguinal provém dos vasos ilíacos internos."
+    },
+    {
+     "letra": "D",
+     "texto": "os três principais nervos da região inguinal são: ilioinguinal, ílio-hipogástrico e o ramogenital do genitofemoral."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120302",
+   "codigo": "4000120302",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 32,
+   "temas": [
+    "Conduta e Tratamento",
+    "Cirurgia"
+   ],
+   "enunciado": "Homem de 58 anos foi submetido à laparotomia exploradora em caráter de urgência por abdome agudo obstrutivo. No intraoperatório, foi evidenciada neoplasia obstrutiva de sigmoide e realizada sigmoidectomia a Hartmann. AP: hipertenso, diabético, obeso e tabagista. No 5º PO, evidenciou-se saída de grande quantidade de líquido sero-hemático pela ferida operatória. A hipótese diagnóstica é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "fístula intestinal de alto débito."
+    },
+    {
+     "letra": "B",
+     "texto": "eventração da parede abdominal."
+    },
+    {
+     "letra": "C",
+     "texto": "infecção de ferida operatória."
+    },
+    {
+     "letra": "D",
+     "texto": "evisceração."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120291",
+   "codigo": "4000120291",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 33,
+   "temas": [
+    "Epidemiologia e f isiopatologia"
+   ],
+   "enunciado": "As estruturas anatômicas que entram em colisão em pacientes com a síndrome do impacto do ombro são",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "tubérculo maior do úmero e terço distal da clavícula."
+    },
+    {
+     "letra": "B",
+     "texto": "terço distal da clavícula e tubérculo menor do úmero."
+    },
+    {
+     "letra": "C",
+     "texto": "tubérculo menor do úmero e acrômio."
+    },
+    {
+     "letra": "D",
+     "texto": "acrômio e tubérculo maior do úmero."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120279",
+   "codigo": "4000120279",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 34,
+   "temas": [
+    "Análise do líquido pleural",
+    "Cirurgia",
+    "Biópsia pleural"
+   ],
+   "enunciado": "Mulher de 64 anos apresenta dispneia aos grandes esforços e emagrecimento há 1 mês. Radiogra a de tórax: velamento do 1/3 médio e inferior do hemitórax direito. Realizada toracocentese diagnóstica. Exames do líquido pleural: pH 7,28; DHL 890 U/L; glicose 85 mg/dL; proteína 4,2 g/dL; celularidade 90% de linfócitos; adenosina deaminase: normal e citopatológico negativo para neoplasia. Exames séricos: DHL 650 U/L; proteína 5,5 g/dL. Após a análise do derrame pleural, a conduta é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "biópsia de pleura."
+    },
+    {
+     "letra": "B",
+     "texto": "drenagem pleural fechada."
+    },
+    {
+     "letra": "C",
+     "texto": "pleurodese."
+    },
+    {
+     "letra": "D",
+     "texto": "observação."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120269",
+   "codigo": "4000120269",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 35,
+   "temas": [
+    "Anatomia do Mediastino",
+    "Cirurgia"
+   ],
+   "enunciado": "Com relação à anatomia intratorácica normal, é correto afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a veia cava superior é formada pela veia braquiocefálica esquerda e pela veiainominada."
+    },
+    {
+     "letra": "B",
+     "texto": "a artéria torácica interna direita se origina da artéria subclávia direita."
+    },
+    {
+     "letra": "C",
+     "texto": "as artérias subclávia e carótida comum esquerdas e a carótida comum direita sãoramos da aorta."
+    },
+    {
+     "letra": "D",
+     "texto": "a veia hemiázigo drena para a veia cava superior."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120258",
+   "codigo": "4000120258",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 36,
+   "temas": [
+    "Atresia de vias biliares",
+    "Atresia da Via Biliar"
+   ],
+   "enunciado": "RN a termo, com 25 dias de vida, apresenta icterícia desde o início da segunda semana de vida, com piora progressiva. Há 3 dias passou a apresentar urina de cor escura e fezes esbranquiçadas. AP: pré-natal e parto sem intercorrências. Exame físico: peso e estatura adequados para a idade, BEG, ictérico 4+/4, fígado palpável a 3 cm do RCD, com consistência normal. A hipótese diagnóstica e o exame mais adequado para a definição da etiologia são, respectivamente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "icterícia colestática; biópsia hepática percutânea guiada por ultrassonografia."
+    },
+    {
+     "letra": "B",
+     "texto": "icterícia fisiológica do RN; dosagem de bilirrubinas séricas."
+    },
+    {
+     "letra": "C",
+     "texto": "colestase; dosagem de bilirrubinas séricas."
+    },
+    {
+     "letra": "D",
+     "texto": "colestase de causa intra-hepática; colangiorressonância magnética."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120249",
+   "codigo": "4000120249",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 37,
+   "temas": [
+    "Cirurgia",
+    "Hérnia Inguinal"
+   ],
+   "enunciado": "Menino de 4 meses apresenta, há 2 semanas, abaulamento inguinal à direita que aparece quando chora e desaparece espontaneamente. Exame físico: abaulamento inguinal à direita, que reduz espontaneamente, sem sinais ogísticos; testículos tópicos. Com base na principal hipótese diagnóstica, a origem e o respectivo tratamento dessa doença são, respectivamente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "persistência do conduto peritoniovaginal; herniorrafia inguinal direita em carátereletivo."
+    },
+    {
+     "letra": "B",
+     "texto": "fraqueza da fáscia transversalis; herniorrafia inguinal direita em caráter eletivo."
+    },
+    {
+     "letra": "C",
+     "texto": "persistência do conduto peritoniovaginal; tratamento expectante até completar 3 anos."
+    },
+    {
+     "letra": "D",
+     "texto": "fraqueza da fáscia transversalis; tratamento expectante até completar 3 anos."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120238",
+   "codigo": "4000120238",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 38,
+   "temas": [
+    "Investigação diagnóstica",
+    "Apresentação clínica"
+   ],
+   "enunciado": "Mulher de 45 anos, cozinheira industrial, apresenta dores em anco esquerdo, de forte intensidade, em cólica, irradiando para abdome anterior, acompanhada de náuseas e vômitos há 1 dia. Nega febre e queixas urinárias. AP: hipotireoidismo, HAS, DM tipo 2 e dislipidemia. AF: litíase urinária. Estabelecida a hipótese diagnóstica de litíase urinária,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o ultrassom de vias urinárias deve ser prontamente solicitado."
+    },
+    {
+     "letra": "B",
+     "texto": "o raio X e ultrassom não devem ser solicitados, devido sua baixa sensibilidade eespecificidade, estando indicada TC."
+    },
+    {
+     "letra": "C",
+     "texto": "deve ser realizada a analgesia e solicitados os exames de imagem ambulatorialmente."
+    },
+    {
+     "letra": "D",
+     "texto": "como a profissão da paciente é de risco para litíase, deve-se solicitar TC nesse momento."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120229",
+   "codigo": "4000120229",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 39,
+   "temas": [
+    "Traumatismo Urológico",
+    "Cirurgia"
+   ],
+   "enunciado": "Homem de 58 anos, vítima de acidente de colisão carro contra muro. Exame físico: consciente, orientado, vias aéreas pérvias e eupneico, FC 80 bpm, PA 140 x 70 mmHg, abdome ácido em andar superior, tenso e doloroso em hipogástrio, com massa palpável até cicatriz umbilical. A principal hipótese diagnóstica é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "bexigoma associado a trauma de via urinária alta."
+    },
+    {
+     "letra": "B",
+     "texto": "trauma vesical associado a possível fratura de bacia."
+    },
+    {
+     "letra": "C",
+     "texto": "hematoma em retroperitôneo."
+    },
+    {
+     "letra": "D",
+     "texto": "trauma de uretra isolado."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120222",
+   "codigo": "4000120222",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 40,
+   "temas": [
+    "Insuf iciência mitral aguda",
+    "Comunicação interventricular"
+   ],
+   "enunciado": "Ruptura da parede livre do ventrículo esquerdo As complicações do infarto agudo do miocárdio que podem necessitar de intervenção cirúrgica de urgência ou emergência são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "insuficiência valvar aórtica aguda, comunicação interventricular e aneurisma deventrículo esquerdo."
+    },
+    {
+     "letra": "B",
+     "texto": "trombose em átrio esquerdo, dissecção de aorta e insuficiência aguda de valvapulmonar."
+    },
+    {
+     "letra": "C",
+     "texto": "aneurisma de ventrículo esquerdo, ruptura cardíaca e insuficiência aguda da valvapulmonar."
+    },
+    {
+     "letra": "D",
+     "texto": "ruptura cardíaca, comunicação interventricular e insuficiência mitral aguda."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120212",
+   "codigo": "4000120212",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 41,
+   "temas": [
+    "Manif estações articulares",
+    "Diagnóstico",
+    "Artrite psoriásica"
+   ],
+   "enunciado": "Homem 57 anos apresenta lesões cutâneas generalizadas com diagnóstico de psoríase. Há cinco anos, queixa-se de dores articulares em ambas as mãos acompanhadas por edema, limitação dos movimentos e atualmente várias deformidades (imagem a seguir). Com base na história clínica e na imagem apresentada, é correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "trata-se de artrite reumatoide associada à psoríase pelo predomínio de comprometimento das articulações interfalangianas e não metacarpofalangianas."
+    },
+    {
+     "letra": "B",
+     "texto": "trata-se de provável caso de artrite associada ao depósito de ácido úrico, complicação comum durante o tratamento tópico da psoríase."
+    },
+    {
+     "letra": "C",
+     "texto": "o diagnóstico de certeza é o de psoríase artropática, pois a presença de lesões cutâneas por si só define o diagnóstico."
+    },
+    {
+     "letra": "D",
+     "texto": "o diagnóstico é de psoríase artropática com base na presença de lesões cutâneas e do comprometimento da articulação interfalangiana distal."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q041-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000120199",
+   "codigo": "4000120199",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 42,
+   "temas": [
+    "Histologia"
+   ],
+   "enunciado": "Homem de 41 anos, com valores de AST de 563 U/L e ALT 501 U/L, realizou biópsia hepática, cujo resultado foi presença de vacúolos claros no citoplasma dos hepatócitos e estruturas hialinas irregulares em alguns deles, além de neutró los e necrose de hepatócitos isolados. A etiologia mais provável para esse conjunto de alterações é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "hepatite aguda pelo vírus A."
+    },
+    {
+     "letra": "B",
+     "texto": "citotoxicidade por acetominofen."
+    },
+    {
+     "letra": "C",
+     "texto": "hepatite crônica pelo vírus B."
+    },
+    {
+     "letra": "D",
+     "texto": "hepatite alcoólica."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120191",
+   "codigo": "4000120191",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 43,
+   "temas": [
+    "Tratamento Farmacológico",
+    "Endoscopia Digestiva Alta EDA"
+   ],
+   "enunciado": "Mulher de 52 anos apresenta queimação retroesternal e regurgitação há 5 anos, inicialmente cerca de 3 vezes na semana, e há 1 ano diariamente. O quadro é desencadeado minutos após a alimentação ou quando ca “estressada” e melhora com o uso de antiácidos, os quais utiliza sob demanda desde o início dos sintomas. Relata rouquidão recorrente há mais de 10 anos. AP: tabagismo ativo (20 anos-maço). Exame físico: IMC: 30,4 kg/m2, sem demais alterações. Além de orientações dietéticas e comportamentais, a conduta inicial mais adequada é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "prescrição de inibidor de bomba de prótons; pHmetria de 24 horas."
+    },
+    {
+     "letra": "B",
+     "texto": "prescrição de inibidor de bomba de prótons; endoscopia digestiva alta."
+    },
+    {
+     "letra": "C",
+     "texto": "manometria convencional; pHmetria de 24 horas."
+    },
+    {
+     "letra": "D",
+     "texto": "manometria alta resolução; endoscopia digestiva alta."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000120181",
+   "codigo": "4000120181",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 44,
+   "temas": [
+    "Transf usão de Hemoderivados"
+   ],
+   "enunciado": "Homem de 52 anos, internado para tratamento de síndrome de abstinência alcoólica, apresentou hematêmese em grande quantidade e rebaixamento do nível de consciência. AP: etilista. Exame físico: descorado, ictérico, FC 122 bpm, PA 65/45 mmHg, ginecomastia, ascite tensa, circulação colateral, edema de membros inferiores e melena ao toque retal. Hemograma: Hb 10 g/dL e plaquetas de 85000/mm3. A alternativa correta é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "recomenda-se que a endoscopia digestiva alta seja realizada em caráter deemergência, por se tratar de uma provável hemorragia digestiva varicosa."
+    },
+    {
+     "letra": "B",
+     "texto": "o balão de Sengstaken-Blakemore pode ser usado nesse caso como uma terapiadefinitiva, devendo ser mantido por 48 horas."
+    },
+    {
+     "letra": "C",
+     "texto": "a profilaxia com antibiótico e o uso de drogas vasoconstritoras, como o octreotide,devem ser iniciados após a endoscopia confirmar a presença de varizes esofágicas."
+    },
+    {
+     "letra": "D",
+     "texto": "considerando a provável etiologia da hemorragia digestiva e o nível de hemoglobina,não há indicação de transfusão de hemácias nesse momento."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120175",
+   "codigo": "4000120175",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 45,
+   "temas": [
+    "Diagnóstico eletrocardiograf ico da parede do inf arto",
+    "Bradiarritmias e bloqueios atrioventriculares"
+   ],
+   "enunciado": "Mulher de 80 anos apresenta dor torácica retroesternal em peso, contínua, de forte intensidade, sem fatores de melhora, acompanhada de fraqueza e turvação visual há 6 horas. AP: DM, AVC há 10 anos. Exame físico: REG, FR 14 irpm, FC 40 bpm, PA 80/60 mmHg, oximetria 95% em ar ambiente, bulhas rítmicas sem sopros, ausculta respiratória com som claro pulmonar. ECG da admissão (imagem a seguir). Assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O distúrbio do ritmo está relacionado à provável acometimento intranodal, associado a distúrbio transitório (2-3 dias) e que raramente necessita de marcapasso permanente."
+    },
+    {
+     "letra": "B",
+     "texto": "A administração definitrato, considerando a provável etiologia vasoespástica, pode reduzir a área de miocárdio atordoado associado, contribuindo para reduzir a remodelação adversa a longo prazo."
+    },
+    {
+     "letra": "C",
+     "texto": "A administração de prasugrel associado à rivaroxabana na admissão do paciente,considerando o alto risco de sangramento, é mais recomendada do que o tratamento com clopidogrel e enoxaparina."
+    },
+    {
+     "letra": "D",
+     "texto": "A presença de complicações relacionadas à síndrome coronariana aguda, dentre elas,a insuficiência mitral aguda por disfunção da musculatura papilar, comumente, está relacionada à presença de sopro sistólico importante no foco mitral."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q045-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000120165",
+   "codigo": "4000120165",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 46,
+   "temas": [
+    "Exame f isico"
+   ],
+   "enunciado": "Mulher de 60 anos apresenta dispneia aos esforços, com piora progressiva no último ano, atualmente aos esforços habituais. Nega febre. Exame físico: bulhas rítmicas, hiperfonese de B1 com sopro diastólico em ru ar em 5° EIC esquerdo linha hemiclavicular e estalido de abertura. ECG: ritmo sinusal, sobrecarga atrial esquerda. Raio X de tórax: aumento do tronco da artéria pulmonar. A etiologia mais provável é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "degeneração senil."
+    },
+    {
+     "letra": "B",
+     "texto": "cardiopatia congênita."
+    },
+    {
+     "letra": "C",
+     "texto": "febre reumática."
+    },
+    {
+     "letra": "D",
+     "texto": "endocardite infecciosa."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120155",
+   "codigo": "4000120155",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 47,
+   "temas": [
+    "Critérios diagnósticos",
+    "Tratamento medicamentoso"
+   ],
+   "enunciado": "Homem de 40 anos sem comorbidades em avaliação de rotina na UBS. Exame físico: BEG, PA 130/80 mmHg, IMC 30 kg/m2. Glicemia de jejum 148 (há 3 meses) e 156 (atual). Além de orientar mudança de estilo de vida com dieta e atividade física, a conduta é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "reavaliar paciente em 3 meses e, se não tiver atingido controle da doença, introduzir metformina."
+    },
+    {
+     "letra": "B",
+     "texto": "reavaliar paciente em 3 meses e, se não tiver atingido controle da doença, introduzir glibenclamida."
+    },
+    {
+     "letra": "C",
+     "texto": "introduzir metformina."
+    },
+    {
+     "letra": "D",
+     "texto": "introduzir glibenclamida."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120147",
+   "codigo": "4000120147",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 48,
+   "temas": [
+    "Diagnóstico da síndrome de Cushing"
+   ],
+   "enunciado": "Após a confirmação diagnóstica de síndrome de Cushing, o exame que deve ser realizado para investigação etiológica é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "cortisolúria."
+    },
+    {
+     "letra": "B",
+     "texto": "ACTH plasmático."
+    },
+    {
+     "letra": "C",
+     "texto": "cortisol salivar a meia noite."
+    },
+    {
+     "letra": "D",
+     "texto": "cortisol após 1 mg de dexametasona."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120137",
+   "codigo": "4000120137",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 49,
+   "temas": [
+    "Manif estações Motoras"
+   ],
+   "enunciado": "O tremor na doença de Parkinson",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "tem características simétricas desde o início do quadro."
+    },
+    {
+     "letra": "B",
+     "texto": "tem frequência de 10-12 Hz."
+    },
+    {
+     "letra": "C",
+     "texto": "melhora de intensidade durante o sono."
+    },
+    {
+     "letra": "D",
+     "texto": "tem características assimétricas desde o início dos sintomas."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120128",
+   "codigo": "4000120128",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 50,
+   "temas": [
+    "Avaliação dos pacientes com monoartrite",
+    "Artrite séptica",
+    "Exames complementares"
+   ],
+   "enunciado": "Homem de 70 anos, internado com pneumonia bacteriana, desenvolve artrite em joelho direito. AP: DM, HAS, DLP. A principal hipótese diagnóstica e sua respectiva conduta são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "artrite séptica; punção articular para esclarecer diagnóstico."
+    },
+    {
+     "letra": "B",
+     "texto": "gota; colchicina e anti-inflamatório."
+    },
+    {
+     "letra": "C",
+     "texto": "osteoartrite; analgesia, evitando-se uso de anti-inflamatórios."
+    },
+    {
+     "letra": "D",
+     "texto": "gota; alopurinol e corticoide."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120119",
+   "codigo": "4000120119",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 51,
+   "temas": [
+    "Prognóstico",
+    "Lúpus Eritematoso Sistêmico LES"
+   ],
+   "enunciado": "No lúpus eritematoso sistêmico, são fatores de pior prognóstico:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "acometimento renal e articular."
+    },
+    {
+     "letra": "B",
+     "texto": "indivíduos negros e baixo nível socioeconômico."
+    },
+    {
+     "letra": "C",
+     "texto": "alopecia e sexo masculino."
+    },
+    {
+     "letra": "D",
+     "texto": "acometimento de sistema nervoso central e presença de anticorpo antinúcleo."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120112",
+   "codigo": "4000120112",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 52,
+   "temas": [
+    "Quedas em idosos"
+   ],
+   "enunciado": "Mulher de 81 anos relata tontura quando ca em pé e medo de cair. AP: HAS, incontinência urinária e osteoartrite de joelhos. Medicações em uso regular: captopril, anlodipino, hidroclorotiazida, paracetamol e oxibutinina. Exame físico: PA 120/70 mmHg (deitada), FC 76 bpm, pulso regular, levanta-se da cadeira sem utilizar apoio, teste time up and go 10 s. A conduta mais adequada para avaliar o risco de queda dessa paciente é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "mensurar pressão arterial sentada e em pé."
+    },
+    {
+     "letra": "B",
+     "texto": "realizar tomografia de crânio."
+    },
+    {
+     "letra": "C",
+     "texto": "avaliar equilíbrio com teste de Berg."
+    },
+    {
+     "letra": "D",
+     "texto": "avaliar acuidade visual."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000120105",
+   "codigo": "4000120105",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 53,
+   "temas": [
+    "Critérios Diagnósticos"
+   ],
+   "enunciado": "Para o diagnóstico de delírium, segundo o algoritmo Confusion Assessment Method, são obrigatórias as seguintes características:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "pensamento desorganizado ou incoerente e déficit de memória."
+    },
+    {
+     "letra": "B",
+     "texto": "déficit de memória e dificuldade para manter a atenção."
+    },
+    {
+     "letra": "C",
+     "texto": "agitação e modificação aguda do estado mental."
+    },
+    {
+     "letra": "D",
+     "texto": "modificação aguda do estado mental e dificuldade para manter a atenção."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120095",
+   "codigo": "4000120095",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 54,
+   "temas": [
+    "Farmacológico",
+    "Exacerbações",
+    "Def inição"
+   ],
+   "enunciado": "A exacerbação da Doença Pulmonar Obstrutiva Crônica",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "define a gravidade e seu manejo terapêutico."
+    },
+    {
+     "letra": "B",
+     "texto": "frequentemente é causada por pneumonia, embolia pulmonar e insuficiência cardíacacongestiva."
+    },
+    {
+     "letra": "C",
+     "texto": "deve ser tratada com corticosteroides por via sistémica por um período mínimo de 10dias, seguido de esquema de desmame."
+    },
+    {
+     "letra": "D",
+     "texto": "não ocorre em paciente com obstrução leve (GOLD I)."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120087",
+   "codigo": "4000120087",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 55,
+   "temas": [
+    "Inf ectologia",
+    "Tratamento"
+   ],
+   "enunciado": "Homem de 75 anos refere tosse com expectoração amarelada, febre de 39 ºC e dispneia aos esforços há 2 dias. Exame físico: orientado, FR: 24 irpm, oximetria de 87%, ausculta respiratória com crepitações em base pulmonar direita. O tratamento deve ser",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "hospitalar com cefalosporina de 3a geração e macrolídeo."
+    },
+    {
+     "letra": "B",
+     "texto": "ambulatorial com macrolídeo."
+    },
+    {
+     "letra": "C",
+     "texto": "ambulatorial com fluorquinolona."
+    },
+    {
+     "letra": "D",
+     "texto": "hospitalar com betalactâmico e fluorquinolona."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120076",
+   "codigo": "4000120076",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 56,
+   "temas": [
+    "Manejo da Nef ropatia diabética",
+    "Etiologia Diabetes mellitus DM"
+   ],
+   "enunciado": "Em relação à doença renal do diabetes e seu tratamento, é correto afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "é um processo multifatorial, que envolve associação entre lesão mecânica, disfunçãocelular e fibrose. A albuminúria não se correlaciona com o risco cardiovascular, sendo unicamente um marcador fisiopatológico."
+    },
+    {
+     "letra": "B",
+     "texto": "o tratamento envolve redução de risco cardiovascular, controle glicêmico e pressóricoe bloqueio do sistema renina-angiotensina-aldosterona, com o objetivo de reduzir a pressão intraglomerular."
+    },
+    {
+     "letra": "C",
+     "texto": "não há relação entre a hemoglobina glicada e os desfechos microvasculares. Ametformina não pode ser usada se houver alteração de função renal em qualquer grau e os inibidores do SGLT-2 restabelecem o feedback túbulo-- glomerular com consequente redução da pressão intraglomerular."
+    },
+    {
+     "letra": "D",
+     "texto": "o controle pressórico é fundamental, sendo importante o uso de medicações quebloqueiem o sistema renina- - angiotensina-aldosterona. O mecanismo de ação está na vasodilatação da arteríola aferente e vasoconstrição da arteríola eferente, culminando na redução da pressão intraglomerular."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120069",
+   "codigo": "4000120069",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 57,
+   "temas": [
+    "Encaminhamento ao Nef rologista"
+   ],
+   "enunciado": "Em relação ao cuidado do paciente com doença renal crônica, é responsabilidade da atenção primária à saúde",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "suspeitar do diagnóstico e, quando da presença de fatores de risco, encaminhar opaciente para a serviço de referência especializado para confirmar o diagnóstico."
+    },
+    {
+     "letra": "B",
+     "texto": "encaminhar os pacientes com necessidade de iniciar terapia renal substitutiva aoserviço especializado e os demais devem permanecer em seguimento na atenção primária."
+    },
+    {
+     "letra": "C",
+     "texto": "classificar o risco das diferentes causas, fazer o estadiamento e encaminhar aoespecialista pacientes com taxa de filtração glomerular menor que 30-45 mL/min ou proteinúria > 1,0 g/24 horas."
+    },
+    {
+     "letra": "D",
+     "texto": "encaminhar o paciente para o serviço especializado na confirmação do diagnóstico eevitar fazer ajustes na prescrição buscando não interferir nas prescrições especializadas."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120058",
+   "codigo": "4000120058",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 58,
+   "temas": [
+    "Desf ibrilação"
+   ],
+   "enunciado": "Homem de 66 anos, em internação hospitalar por celulite de perna esquerda, encontrado arresponsivo no leito. Convocado Time de Resposta Rápida, que diagnosticou parada cardiorrespiratória e iniciou manobras de RCP. O próximo passo a ser realizado é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "garantir a via aérea avançada."
+    },
+    {
+     "letra": "B",
+     "texto": "avaliar se há ritmo com indicação de desfibrilação."
+    },
+    {
+     "letra": "C",
+     "texto": "iniciar epinefrina 1mg IV em bolus."
+    },
+    {
+     "letra": "D",
+     "texto": "avaliar a última gasometria arterial para determinar a causa da paradacardiorrespiratória."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120048",
+   "codigo": "4000120048",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 59,
+   "temas": [
+    "Cetoacidose"
+   ],
+   "enunciado": "Mulher de 20 anos está em tratamento para cetoacidose diabética desencadeada por infecção urinária. Recebe insulina endovenosa, hidratação e reposição de potássio. Está consciente, orientada e hemodinamicamente estável. A gasometria e os exames laboratoriais mostram: pH 7,32, bicarbonato 14 mEq/L, cloro 115 mEq/L, sódio 139 mEq/L, glicemia 150 mg/dL, albumina: 4,0 g/dL. Os exames laboratoriais sugerem que a paciente",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "recebeu excesso de hidratação com cloreto de sódio."
+    },
+    {
+     "letra": "B",
+     "texto": "permanece em cetoacidose diabética."
+    },
+    {
+     "letra": "C",
+     "texto": "ainda está desidratada."
+    },
+    {
+     "letra": "D",
+     "texto": "está em sepse de foco urinário."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120038",
+   "codigo": "4000120038",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 60,
+   "temas": [
+    "Tratamento f armacológico da insuf iciência cardíaca com f ração de ejeção preservada"
+   ],
+   "enunciado": "Homem de 52 anos apresenta dispneia aos esforços há dois anos, progressiva, com melhora ao repouso. Há dois meses, iniciou inchaço nas pernas. AP: HAS não controlada há 15 anos. Exame físico: estase jugular 2+/4+, crepitações pulmonares em bases bilaterais e edema de membros inferiores. Rx de tórax: sinais de congestão pulmonar. Ecocardiograma: câmaras cardíacas com dimensões normais, aumento da espessura da parede do ventrículo esquerdo, fração de ejeção de 51%. Com o objetivo de aumentar a sobrevida e melhorar os sintomas, a melhor conduta é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "inibidor da enzima conversora da angiotensina e betabloqueador."
+    },
+    {
+     "letra": "B",
+     "texto": "controle da pressão arterial e introduzir diurético."
+    },
+    {
+     "letra": "C",
+     "texto": "betabloqueador e ivabradina."
+    },
+    {
+     "letra": "D",
+     "texto": "antagonistas dos canais de cálcio e associação sacubitril-valsartana."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120029",
+   "codigo": "4000120029",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 61,
+   "temas": [
+    "Tratamento cirurgico"
+   ],
+   "enunciado": "Mulher de 29 anos, nuligesta, apresenta aumento do uxo menstrual com cólicas discretas. Método contraceptivo: condom. Exame ginecológico normal. Ultrassonografia transvaginal: mioma tipo 1 com 2 cm de diâmetro. A conduta é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "miomectomia histeroscópica mais ablação do endométrio."
+    },
+    {
+     "letra": "B",
+     "texto": "miomectomia histeroscópica."
+    },
+    {
+     "letra": "C",
+     "texto": "histerectomia subtotal laparoscópica."
+    },
+    {
+     "letra": "D",
+     "texto": "histerectomia total laparoscópica."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120022",
+   "codigo": "4000120022",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 62,
+   "temas": [
+    "Herpes na gestação"
+   ],
+   "enunciado": "Primípara de 28 anos, 39 semanas de gestação, em trabalho de parto, apresenta ruptura da bolsa há 3 horas e refere história de lesões dolorosas na vulva há 4 dias. Exame físico: extensa placa eritematoedematosa, com exulcerações nos pequenos lábios (imagem a seguir). Exame citológico direto: células multinucleadas e núcleos com aspecto de vidro fosco. A conduta imediata é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "cesariana e sorologia para herpes vírus."
+    },
+    {
+     "letra": "B",
+     "texto": "parto vaginal e penicilina cristalina."
+    },
+    {
+     "letra": "C",
+     "texto": "cesariana e aciclovir."
+    },
+    {
+     "letra": "D",
+     "texto": "parto vaginal e ganciclovir."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q062-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000120000",
+   "codigo": "4000120000",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 63,
+   "temas": [
+    "Interpretação e conduta f rente as atipias citológicas",
+    "Nomenclatura citológica brasileira"
+   ],
+   "enunciado": "Mulher de 30 anos realizou exame ginecológico de rotina. Exame citológico do colo do útero: sugestivo de cervicite folicular. A conduta mais adequada é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "realizar colposcopia."
+    },
+    {
+     "letra": "B",
+     "texto": "tratar infecção por clamídia."
+    },
+    {
+     "letra": "C",
+     "texto": "repetir exame citológico."
+    },
+    {
+     "letra": "D",
+     "texto": "realizar ultrassonografia transvaginal."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119994",
+   "codigo": "4000119994",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 64,
+   "temas": [
+    "Transtornos Somáticos",
+    "Transtorno dos Sintomas Somáticos",
+    "Diagnóstico da Depressão"
+   ],
+   "enunciado": "Mulher de 54 anos apresenta diminuição da concentração e rendimento no trabalho, desânimo, piora do sono e despertar matinal precoce, há dois meses, com piora há 15 dias. Os sintomas são piores pela manhã melhorando no período da tarde. Emagreceu 4 kg nesse período. Seus sintomas começaram logo após ter sofrido infarto do miocárdio. AP: menopausa aos 50 anos sem terapia hormonal. O diagnóstico e a conduta são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "depressão maior; inibidor preferencial de recaptura de serotonina."
+    },
+    {
+     "letra": "B",
+     "texto": "distúrbio psicossomático; benzodiazepínicos."
+    },
+    {
+     "letra": "C",
+     "texto": "transtorno de ajustamento; inibidor preferencial de recaptura de serotonina."
+    },
+    {
+     "letra": "D",
+     "texto": "transtorno somatoforme; benzodiazepínicos."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119983",
+   "codigo": "4000119983",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 65,
+   "temas": [
+    "Tipos de f lora vaginal"
+   ],
+   "enunciado": "Mulher de 32 anos apresenta corrimento vaginal persistente sem melhora após diversos tratamentos. Refere último tratamento há 40 dias, com creme vaginal que não sabe o nome, por sete dias. Nega mau odor genital e/ou prurido. Tem hábito de higienizar a região genital várias vezes ao dia com sabonetes perfumados. Exames microscópicos do conteúdo vaginal (imagens a seguir). O diagnóstico e a conduta são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "candidíase vaginal; isoconazol creme vaginal a 1% por 7 dias."
+    },
+    {
+     "letra": "B",
+     "texto": "vaginose citolítica; banho de assento com chá de camomila frio."
+    },
+    {
+     "letra": "C",
+     "texto": "vaginite descamativa inflamatória; clindamicina creme vaginal a 2% por 7 dias."
+    },
+    {
+     "letra": "D",
+     "texto": "conteúdo vaginal fisiológico; adequar higiene genital."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q065-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000119970",
+   "codigo": "4000119970",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 66,
+   "temas": [
+    "Regimes terapêuticos"
+   ],
+   "enunciado": "Mulher de 59 anos, menopausa aos 53 anos, apresenta dor a relação sexual, ressecamento e ardência vaginal. Refere ondas de calor esporadicamente que não incomodam mais. Refere hipertrigliceridemia em tratamento. Mamogra a BIRADS II. A conduta é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "terapia estrogênica isolada transdérmica."
+    },
+    {
+     "letra": "B",
+     "texto": "terapia estrogênica via vaginal."
+    },
+    {
+     "letra": "C",
+     "texto": "terapia hormonal estroprogestativa oral."
+    },
+    {
+     "letra": "D",
+     "texto": "lubrificante vaginal."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119964",
+   "codigo": "4000119964",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 67,
+   "temas": [
+    "Histologia"
+   ],
+   "enunciado": "O principal achado mamográfico do carcinoma in situ da mama é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "nódulo espiculado, irregular e denso."
+    },
+    {
+     "letra": "B",
+     "texto": "assimetria focal."
+    },
+    {
+     "letra": "C",
+     "texto": "microcalcificações pleomórficas, numerosas e agrupadas."
+    },
+    {
+     "letra": "D",
+     "texto": "distorção arquitetural."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119956",
+   "codigo": "4000119956",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 68,
+   "temas": [
+    "Diagnóstico dif erencial",
+    "Diagnóstico"
+   ],
+   "enunciado": "Mulher de 25 anos, nuligesta, com disfunção menstrual desde a menarca, apresenta períodos de amenorreia de até 9 meses. Exame físico: PA 130x70 mmHg, estatura 1,50 m, peso 72 kg, acne ausente, índice de Ferriman--Gallwey (IFG) 10, acantosis nigricans presente na região cervical posterior. USG-TV: útero 52 cm³, espessura endometrial 6 mm, ovário direito 8,5 cm³, ovário esquerdo 7,0 cm³. A principal hipotese diagnóstica é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "síndrome dos ovários policísticos, devendo-se afastar outras etiologias que cursamcom disfunção menstrual e hiperandrogenismo."
+    },
+    {
+     "letra": "B",
+     "texto": "síndrome dos ovários policísticos e como apresenta acantosis nigricans não énecessário afastar outras etiologias."
+    },
+    {
+     "letra": "C",
+     "texto": "hiperplasia adrenal congênita, forma não clássica, pois a ultrassonografia é normal."
+    },
+    {
+     "letra": "D",
+     "texto": "hiperplasia adrenal congênita, forma não clássica, devido ao valor de IFG."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119951",
+   "codigo": "4000119951",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 69,
+   "temas": [
+    "Células escamosas atípicas de signif icado indeterminado possivelmente nãoneoplásicaas ASCUS"
+   ],
+   "enunciado": "Colposcopia Mulher de 27 anos, G3P3A0C0, apresenta secreção vaginal amarronzada de forte odor e sinusorragia recorrente. Última citologia oncótica há 02 anos: ASC-US. Exame ginecológico: extensa ectopia cervical -2 friável, lesão grosseira acetorreagente às “6 horas”. O próximo passo no seguimento dessa paciente é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "nova citologia oncótica."
+    },
+    {
+     "letra": "B",
+     "texto": "colposcopia com biópsia cervical."
+    },
+    {
+     "letra": "C",
+     "texto": "cirurgia de alta frequência."
+    },
+    {
+     "letra": "D",
+     "texto": "eletrocauterização de ectopia cervical."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119946",
+   "codigo": "4000119946",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 70,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Mulher de 32 anos, G4P3A1C2, em uso de DIU de cobre como método contraceptivo, apresenta dor em baixo ventre de forte intensidade associada à febre. Exame físico: REG, T 39,2 ºC, abdome doloroso e reativo, predominantemente à palpação de FIE, conteúdo vaginal anormal com secreção amarelada e espessa, em moderada quantidade, Whi Test +, dor ao toque bimanual e à palpação, de regiões anexiais, anexo esquerdo aumentado de tamanho (duas vezes), pouco móvel. A conduta inicial é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "solicitação de exames laboratoriais e antibioticoterapia ambulatorial."
+    },
+    {
+     "letra": "B",
+     "texto": "antibioticoterapia hospitalar e remoção do DIU."
+    },
+    {
+     "letra": "C",
+     "texto": "solicitação de ultrassonografia transvaginal e antibioticoterapia hospitalar."
+    },
+    {
+     "letra": "D",
+     "texto": "antibioticoterapia ambulatorial e remoção do DIU."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119941",
+   "codigo": "4000119941",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 71,
+   "temas": [
+    "Estadiamento",
+    "Tratamento cirúrgico"
+   ],
+   "enunciado": "Mulher de 58 anos, G0P0, apresenta sangramento pós-menopausa recorrente há 7 meses. USG-TV: espessura endometrial 16 mm. Biópsia de endométrio à Pipelle: adenocarcinoma de endométrio do tipo endometrioide, bem diferenciado grau I. RNM: envolvimento de menos de 50% do miométrio. A conduta inicial é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "histerectomia total intrafascial e salpingooforectomia bilateral."
+    },
+    {
+     "letra": "B",
+     "texto": "histerectomia total ampliada e linfadenectomia pélvica e paraórtica."
+    },
+    {
+     "letra": "C",
+     "texto": "histerectomia total intrafascial e oomentectomia."
+    },
+    {
+     "letra": "D",
+     "texto": "histerectomia total ampliada e salpingooforectomia bilateral."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119934",
+   "codigo": "4000119934",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 72,
+   "temas": [
+    "Tratamento",
+    "Classif icação"
+   ],
+   "enunciado": "Mulher de 67 anos, G4P4A0C0, menopausa aos 47 anos, hipertensa controlada, obesidade grau I (IMC= 32 kg/m²), com queixa de sensação de “globo vaginal”. Nega perdas urinárias, refere manter atividade sexual. Durante avaliação ginecológica, apresenta o seguinte resultado, segundo a classificação para quanti cação de prolapso dos órgãos pélvicos (POP-Q): Aa +2 / Ba +2 / Ap -2 / Bp -1 / C 0 / D -1 / HG 5 / CP 3 / TVL 13; A melhor abordagem terapêutica é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "histerectomia vaginal e colporrafia anterior com plicatura da fáscia vaginal."
+    },
+    {
+     "letra": "B",
+     "texto": "colpocleise à Le Fort e colpoperineoplastia posterior."
+    },
+    {
+     "letra": "C",
+     "texto": "histerectomia total abdominal e cirurgia de Burch."
+    },
+    {
+     "letra": "D",
+     "texto": "histerectomia subtotal e promontofixação laparoscópica."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119929",
+   "codigo": "4000119929",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 73,
+   "temas": [
+    "Altura uterina AU",
+    "Assistência prénatal",
+    "Obstetrícia"
+   ],
+   "enunciado": "No acompanhamento pré-natal de uma primigesta, observa-se a curva de crescimento uterino (imagem a seguir). US obstétrico: peso fetal no percentil 30, líquido amniótico normal e resistência normal na doppler uxometria da artéria umbilical. O diagnóstico é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "crescimento normal."
+    },
+    {
+     "letra": "B",
+     "texto": "feto pequeno constitucional."
+    },
+    {
+     "letra": "C",
+     "texto": "restrição de crescimento fetal."
+    },
+    {
+     "letra": "D",
+     "texto": "feto grande para idade gestacional."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q073-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000119908",
+   "codigo": "4000119908",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 74,
+   "temas": [
+    "Abaixo de 34 semanas"
+   ],
+   "enunciado": "A paciente é internada com 31 semanas de gestação, queixando-se de dor em baixo do ventre. Exame obstétrico: colo uterino amolecido, centrado, esvaecido 70% e dilatado 4-5 cm. Nesse momento, além de prescrever betamesona, a prescrição médica deve ter",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "terbutalina, inibina e penicilina cristalina."
+    },
+    {
+     "letra": "B",
+     "texto": "nifedipina, inibina e amoxacilina com clavulanato."
+    },
+    {
+     "letra": "C",
+     "texto": "nifedipina, sulfato de magnésio e penicilina cristalina."
+    },
+    {
+     "letra": "D",
+     "texto": "terbutalina, sulfato de magnésio e amoxacilina com clavulanato."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119898",
+   "codigo": "4000119898",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 75,
+   "temas": [
+    "Parada secundária da dilatação"
+   ],
+   "enunciado": "Parturiente de 32 anos, G3P2A0C0, está sob assistência ao trabalho de parto e com evolução apresentada no partograma a seguir. O diagnóstico identificado na evolução do trabalho de parto e a conduta são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "parada secundária da dilatação e descida; cesárea."
+    },
+    {
+     "letra": "B",
+     "texto": "parada secundária da dilatação e descida; fórcipe de Kjelland."
+    },
+    {
+     "letra": "C",
+     "texto": "parada secundária da dilatação; fórcipe de Kjelland."
+    },
+    {
+     "letra": "D",
+     "texto": "parada secundária da dilatação; cesárea."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q075-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000119882",
+   "codigo": "4000119882",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 76,
+   "temas": [
+    "Avaliação do colo uterino"
+   ],
+   "enunciado": "Tercigesta de 32 anos, com idade gestacional de 20 semanas, assintomática, apresenta antecedente de prematuridade, dois partos vaginais com 34 e 30 semanas, respectivamente. Exame físico normal. US: comprimento do colo de 40 mm. Nesse momento, a conduta é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "circlagem."
+    },
+    {
+     "letra": "B",
+     "texto": "progesterona."
+    },
+    {
+     "letra": "C",
+     "texto": "inibina."
+    },
+    {
+     "letra": "D",
+     "texto": "carbonato de cálcio."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119874",
+   "codigo": "4000119874",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 77,
+   "temas": [
+    "Transmissão vertical do HIV"
+   ],
+   "enunciado": "Gestante de 23 anos, G1P0, com 35 semanas de gestação, apresenta infecção por HIV, em terapia antirretroviral correta. Carga viral indetectável realizada há 3 dias. A via de parto recomendada e a conduta, quanto à utilização de antirretroviral profilático no parto, são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "parto cesário eletivo, a partir da 38ª semana; utilizar zido-vudina por via intravenosatrês horas antes do parto."
+    },
+    {
+     "letra": "B",
+     "texto": "parto segundo indicação obstétrica, podendo ser vaginal; utilizar zidovudina por viaintravenosa três horas antes do parto."
+    },
+    {
+     "letra": "C",
+     "texto": "parto cesário eletivo, a partir da 38ª semana; utilizar zido-vudina por via intravenosa nomomento do parto."
+    },
+    {
+     "letra": "D",
+     "texto": "parto segundo indicação obstétrica, podendo ser vaginal; manter terapia antirretroviralhabitual oral."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119861",
+   "codigo": "4000119861",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 78,
+   "temas": [
+    "Diagnóstico"
+   ],
+   "enunciado": "Gestante de 33 anos, G4P3A0C2, e idade gestacional de 27 semanas e 4 dias, apresenta sangramento vaginal há 1 hora. Nega outras queixas. Exame físico: PA 120x70 mmHg, FC 88 bpm, altura uterina 25 cm, tônus uterino normal, dinâmica uterina negativa, situação transversa, BCF 144 bpm. Exame especular: presença de pequena quantidade de sangue se exteriorizando pelo orifício cervical externo. A conduta é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "solicitar ultrassonografia."
+    },
+    {
+     "letra": "B",
+     "texto": "realizar toque vaginal."
+    },
+    {
+     "letra": "C",
+     "texto": "solicitar ressonância magnética."
+    },
+    {
+     "letra": "D",
+     "texto": "realizar toque e solicitar ultrassonografia."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119853",
+   "codigo": "4000119853",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 79,
+   "temas": [
+    "Dieta",
+    "Diagnóstico",
+    "Doenças crônicas"
+   ],
+   "enunciado": "Secundigesta, 38 anos, IMC 41 kg/m², inicia o pré-natal com 7 semanas e apresenta nos exames de primeiro trimestre os seguintes resultados: Ht 36%; Hb 12,1 g/dL; glicemia de jejum 127 mg/dL; urina tipo I raros leucócitos, glicose +++/4+, sorologias não reagentes para sífilis, HIV e toxoplasmose. A hipótese diagnóstica e a conduta são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Diabetes mellitus gestacional; orientar dieta."
+    },
+    {
+     "letra": "B",
+     "texto": "Diabetes mellitus tipo II; orientar dieta e introduzir metformina."
+    },
+    {
+     "letra": "C",
+     "texto": "Diabetes mellitus tipo II; orientar dieta e introduzir insulina."
+    },
+    {
+     "letra": "D",
+     "texto": "Diabetes mellitus gestacional; orientar dieta e introduzir metformina."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119842",
+   "codigo": "4000119842",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 80,
+   "temas": [
+    "Doenças associadas à gestação",
+    "Hipertensão gestacional"
+   ],
+   "enunciado": "Distúrbios hipertensivos na gestação DHEG Gestante com hipertensão arterial crônica há 10 anos comparece para sua primeira consulta de pré-natal. Além dos exames de rotina, deve-se solicitar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "cultura de urina, creatinina sérica e proteinúria de 24 horas."
+    },
+    {
+     "letra": "B",
+     "texto": "ultrassom renal, creatinina sérica e proteinúria de 24 horas."
+    },
+    {
+     "letra": "C",
+     "texto": "ácido úrico, relação proteinúria/creatinúria e ultrassom renal."
+    },
+    {
+     "letra": "D",
+     "texto": "relação proteinúria/creatinúria, ecocardiograma e fundo de olho."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119831",
+   "codigo": "4000119831",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 81,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "RN de termo apresenta macrocrania (perímetro cefálico de 39 cm), abaulamento da fontanela anterior e ingurgitamento de veias cefálicas. TC de crânio: sugestiva de neurotoxoplasmose (imagem a seguir). A melhor conduta é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "derivação ventricular externa."
+    },
+    {
+     "letra": "B",
+     "texto": "derivação ventricular para o peritônio."
+    },
+    {
+     "letra": "C",
+     "texto": "terceiro ventriculostomia endoscópica."
+    },
+    {
+     "letra": "D",
+     "texto": "expectante, com medidas periódicas do perímetro cefálico."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q081-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000119814",
+   "codigo": "4000119814",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 82,
+   "temas": [
+    "Astigmatismo"
+   ],
+   "enunciado": "Criança de 9 anos apresenta cefaleia supraorbitária, fotofobia, ardor, lacrimejamento e hiperemia ocular. Os diagnósticos clínico e de ametropia, e a necessidade de lentes, são, respectivamente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "astenopia e astigmatismo miópico baixo; cilindro negativo."
+    },
+    {
+     "letra": "B",
+     "texto": "anisometropia e miopia; esférica positiva."
+    },
+    {
+     "letra": "C",
+     "texto": "ambliopia e hipermetropia; esférica negativa."
+    },
+    {
+     "letra": "D",
+     "texto": "anisocoria e presbiopia; esférica positiva."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119808",
+   "codigo": "4000119808",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 83,
+   "temas": [
+    "Molusco contagioso"
+   ],
+   "enunciado": "Adolescente de 17 anos refere surgimento há quatro semanas de lesões assintomáticas na base do pênis, com extensão para raiz de coxas e hipogástrio (imagem a seguir). Tem história de contato sexual desprotegido há seis semanas. O diagnóstico e a proposta terapêutica são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "molusco contagioso; curetagem."
+    },
+    {
+     "letra": "B",
+     "texto": "verruga genital (HPV); cauterização com ácido tricloroa-cético 90%."
+    },
+    {
+     "letra": "C",
+     "texto": "sífilis primária (cancro duro); penicilina benzatina 2400000 UI intramuscular dose única."
+    },
+    {
+     "letra": "D",
+     "texto": "herpes genital; aciclovir 400 mg cinco vezes por dia por 7 dias."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q083-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000119791",
+   "codigo": "4000119791",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 84,
+   "temas": [
+    "Condutas",
+    "Tratamento"
+   ],
+   "enunciado": "A conduta inicial preconizada para um RN com 4 dias de vida, com suspeita de displasia do desenvolvimento do quadril, realizada pela manobra de Ortolani, em sua primeira consulta médica em UBS, antes do encaminhamento ao ortopedista, é a instalação",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "da órtese de Petri."
+    },
+    {
+     "letra": "B",
+     "texto": "da fralda de Frejka e do suspensório de Pavlik."
+    },
+    {
+     "letra": "C",
+     "texto": "da fralda de Frejka, apenas."
+    },
+    {
+     "letra": "D",
+     "texto": "do suspensório de Pavlik."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119781",
+   "codigo": "4000119781",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 85,
+   "temas": [
+    "Drogas vasoativas"
+   ],
+   "enunciado": "Lactente com choque séptico hipodinâmico compensado, não responsivo à infusão de 60 mL/kg de solução siológica intravenosa. A melhor conduta, nesse momento, é administração intravenosa de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "noradrenalina."
+    },
+    {
+     "letra": "B",
+     "texto": "vasopressina."
+    },
+    {
+     "letra": "C",
+     "texto": "dopamina em dose inotrópica."
+    },
+    {
+     "letra": "D",
+     "texto": "adrenalina em dose inotrópica."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119770",
+   "codigo": "4000119770",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 86,
+   "temas": [
+    "Diagnóstico",
+    "Asma",
+    "Classif icação e Tratamento da Crise"
+   ],
+   "enunciado": "Na criança em estado de mal asmático, é correto afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a intubação traqueal precoce evita complicações da hipoxemia e hipercapnia graves."
+    },
+    {
+     "letra": "B",
+     "texto": "o sulfato de magnésio intravenoso é terapia broncodilatadora adjuvante e tem bom perfil de segurança."
+    },
+    {
+     "letra": "C",
+     "texto": "a inalação com altas doses de salbutamol (0,5 mg/kg/hora) é contraindicada porcausar taquicardia extrema."
+    },
+    {
+     "letra": "D",
+     "texto": "a aminofilina intravenosa tem bom perfil de segurança e deve ser usada nos casosrefratários à inalação com doses habituais de fenoterol."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119761",
+   "codigo": "4000119761",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 87,
+   "temas": [
+    "Diagnóstico da Diarreia Crônica",
+    "Etiologia"
+   ],
+   "enunciado": "Menina escolar de 8 anos apresenta dor abdominal que ocorre em episódios frequentes há 3 meses. A criança refere dor difusa, de moderada intensidade; o hábito intestinal é regular, mas às vezes apresenta episódios de diarreia líquida, sem muco, pus ou sangue. Pai refere perda de peso de 3 kg apesar de a criança continuar se alimentando normalmente. A característica clínica, que é um sinal de alerta de que essa dor deva ser de origem orgânica, é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "intensidade da dor."
+    },
+    {
+     "letra": "B",
+     "texto": "presença de diarreia."
+    },
+    {
+     "letra": "C",
+     "texto": "perda de peso."
+    },
+    {
+     "letra": "D",
+     "texto": "dor difusa."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119753",
+   "codigo": "4000119753",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 88,
+   "temas": [
+    "Taquicardia Supraventricular TSV"
+   ],
+   "enunciado": "Lactente de 11 meses apresenta palidez cutânea, sudorese e taquicardia há 3 horas. Exame físico: febril (39°C), pulsos amplos, perfusão periférica aumentada e tempo de enchimento capilar de um segundo, FC acima de 200 bpm. ECG: FC de 240 bpm, ondas P negativas em D1, D2 e aVF e positiva em aVR, precedendo os complexos QRS, sem sinais de sobrecarga ventricular e com alterações difusas da repolarização ventricular. O ritmo cardíaco é taquicardia",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "sinusal."
+    },
+    {
+     "letra": "B",
+     "texto": "supraventricular."
+    },
+    {
+     "letra": "C",
+     "texto": "juncional."
+    },
+    {
+     "letra": "D",
+     "texto": "ventricular."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119744",
+   "codigo": "4000119744",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 89,
+   "temas": [
+    "Síndrome de Down"
+   ],
+   "enunciado": "São alterações comuns em crianças com a Síndrome de Down, além da cardiopatia:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "instabilidade atlanto occipital, imunidade celular comprometida e atresia de duodeno."
+    },
+    {
+     "letra": "B",
+     "texto": "pé cavo varo, processos infecciosos bacterianos e disfunção da tireoide."
+    },
+    {
+     "letra": "C",
+     "texto": "fêmur curto congênito, hipotireoidismo congênito e imunidade humoralcomprometida."
+    },
+    {
+     "letra": "D",
+     "texto": "báscula posterior da pelve, imunidade celular comprometida, catarata e erro derefração."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119734",
+   "codigo": "4000119734",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 90,
+   "temas": [
+    "Inf ectologia",
+    "Imunoglobulina contra raiva",
+    "Indicações"
+   ],
+   "enunciado": "Dois irmãos foram mordidos por cachorro, nas mãos, cabeça e tronco. O cachorro não foi encontrado. Um dos irmãos, de 4 anos, tem agamaglobulinemia ligada ao X (imunode ciência primária-IDP), e o outro, de 5 anos, é imunocompetente (IC). As vacinas estão em dia, segundo calendário em vigor. A conduta para profilaxia e redução de danos para os irmãos é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "vacina e imunoglobulina contra raiva para ambos, soro antitetânico eantibioticoterapia para IDP."
+    },
+    {
+     "letra": "B",
+     "texto": "vacina e imunoglobulina contra raiva para IC e imunoglobulina para IDP, não fazerprofilaxia contra tétano e não indicar antibioticoterapia."
+    },
+    {
+     "letra": "C",
+     "texto": "vacina e imunoglobulina contra raiva para IDP e vacina contra raiva e contra tétanopara IC, soro antitetânico para IDP, antibioticoterapia para ambos."
+    },
+    {
+     "letra": "D",
+     "texto": "imunoglobulina contra raiva para IDP e vacina para IC, soro antitetânico para ambos, enão indicar antibioticoterapia."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119725",
+   "codigo": "4000119725",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 91,
+   "temas": [
+    "Cardiopediatria e Cardiopatias congênitas"
+   ],
+   "enunciado": "Assinale a alternativa que correlaciona, corretamente, as cardiopatias congênitas com suas características siopatológicas. I. Comunicação interventricular. II. Estenose valvar aórtica. III. Tetralogia de Fallot. IV. Transposição das grandes artérias sem estenose valvar pulmonar. A – Cardiopatia acianótica com hiper uxo pulmonar. B – Cardiopatia acianótica com normo uxo pulmonar. C – Cardiopatia cianótica com hiperfluxo pulmonar. D – Cardiopatia cianótica com hipofluxo pulmonar.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I-A, II-B, III-C, IV-D."
+    },
+    {
+     "letra": "B",
+     "texto": "I-A, II-B, III-D, IV-C."
+    },
+    {
+     "letra": "C",
+     "texto": "I-B, II-A, III-C, IV-D."
+    },
+    {
+     "letra": "D",
+     "texto": "I-B, II-A, III-D, IV-C."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119708",
+   "codigo": "4000119708",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 92,
+   "temas": [
+    "Meningites"
+   ],
+   "enunciado": "Menino de 8 meses apresenta história de irritabilidade e temperaturas até 37,5 ºC há 4 dias. Há uma hora, apresentou episódio convulsivo com duração de 15 minutos. AP: estado vacinal desconhecido. Exame físico: REG, FC 120 bpm, FR 36 ipm, afebril, boa perfusão periférica, sonolento, hipoativo e pouco reativo. TC de crânio com contraste: impregnação de leptomeninge, especialmente das cisternas da base. Líquor: 500 células (70% linfócitos, 30% monócitos), 15 mg/dL de glicose e 250 md/dL de proteínas. A hipótese diagnóstica mais provável é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "meningoencefalite por citomegalovírus."
+    },
+    {
+     "letra": "B",
+     "texto": "meningoencefalite herpética."
+    },
+    {
+     "letra": "C",
+     "texto": "meningite por Haemophylus influenzae tipo B."
+    },
+    {
+     "letra": "D",
+     "texto": "meningite tuberculosa."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119699",
+   "codigo": "4000119699",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 93,
+   "temas": [
+    "Diagnóstico",
+    "Tratamento"
+   ],
+   "enunciado": "Adolescente de 14 anos apresenta febre, tosse, coriza, conjuntivite, com piora após um cruzeiro pela costa do Brasil há 10 dias. Foi medicado com amoxacilina/clavulanato, e após 48 horas evoluiu com aumento da febre e exantema retroauricular, facial, cervical e posterior progressão para o tronco. Exame físico: REG, febril, prostrado, exantema maculopapular, linfonodomegalia, mucosas hiperemiadas e estertoração crepitante em base de hemitorax direito. Sua conduta é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "prescrição de macrolídeo, anti-histamínico, retorno em 48 horas e notificação doevento adverso."
+    },
+    {
+     "letra": "B",
+     "texto": "prescrição de quinolona, anti-histamínico e retorno em 72 horas."
+    },
+    {
+     "letra": "C",
+     "texto": "internação, prescrição de antibiótico e sintomáticos e notificação à vigilância."
+    },
+    {
+     "letra": "D",
+     "texto": "internação, prescrição de antibiótico e anti-histamínico e notificação do eventoadverso."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119686",
+   "codigo": "4000119686",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 94,
+   "temas": [
+    "Inibição da amamentação",
+    "Inf ectologia",
+    "Transmissão vertical do HIV"
+   ],
+   "enunciado": "Mulher apresenta lindoadenomegalia há uma semana com sorologia anti-HIV reagente. É mãe de uma criança de 4 meses e durante toda a gestação teve sorologias normais. Seguindo o atual protocolo clínico e diretrizes terapêuticas para manejo da infecção pelo HIV em crianças e adolescentes, a conduta em relação a orientação para o filho de 4 meses é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "suspender a amamentação e aguardar 60 dias para avaliação com carga viral."
+    },
+    {
+     "letra": "B",
+     "texto": "suspender a amamentação, colher carga viral e introduzir profilaxia pós-exposição."
+    },
+    {
+     "letra": "C",
+     "texto": "não suspender a amamentação e repetir anti-HIV da mãe."
+    },
+    {
+     "letra": "D",
+     "texto": "não suspender a amamentação e solicitar anti-HIV da criança."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119676",
+   "codigo": "4000119676",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 95,
+   "temas": [
+    "Tratamento",
+    "Pediatria"
+   ],
+   "enunciado": "Menino de 3 meses apresenta febre 39,5ºC e baixa aceitação do seio materno há 4 dias. EF: REG, hidratado, febril 38,5 ºC. Urina I (sondagem vesical): pH 6,0, densidade 1010, nitrito negativo, proteína +1, leucoesterase +3, leucócitos de 150/campo, hemácias de 20/campo. A conduta é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "antitérmico e retorno para ver o resultado da cultura de urina."
+    },
+    {
+     "letra": "B",
+     "texto": "antibiótico via oral e retorno para ver resultado da cultura de urina."
+    },
+    {
+     "letra": "C",
+     "texto": "internação e antibiótico intravenoso."
+    },
+    {
+     "letra": "D",
+     "texto": "internação e aguardar resultado de cultura de urina."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119669",
+   "codigo": "4000119669",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 96,
+   "temas": [
+    "Investigação diagnóstica",
+    "Def inição",
+    "Tratamento"
+   ],
+   "enunciado": "Menina de 3 anos apresenta perda urinária diurna em toda micção, com frequência de 8 vezes ao dia. À noite usa fraldas para dormir. Hábito intestinal: normal. Desenvolvimento neuropsíquico motor normal para a idade. AP: desfralde ocoreu com 1 ano. AF: prima de 9 anos apresenta perda urinária diurna sem perdas noturnas. Exame físico: normal. Exames laboratoriais: urina I normal e cultura de urina negativa. A afirmação correta é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o desfralde precoce é a possível causa da perda diurna."
+    },
+    {
+     "letra": "B",
+     "texto": "a perda diurna tem influência do fator genético."
+    },
+    {
+     "letra": "C",
+     "texto": "a perda noturna é considerada um distúrbio miccional nessa faixa etária."
+    },
+    {
+     "letra": "D",
+     "texto": "a uroterapia é indicada para o treinamento da perda noturna antes do treinamentodiurno."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119661",
+   "codigo": "4000119661",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 97,
+   "temas": [
+    "Curvas de Crescimento"
+   ],
+   "enunciado": "Menina de 18 meses vem ganhando cerca de 300 g/mês há 3 meses, mantendo-se no mesmo percentil na curva de peso (P 30). Sua mãe está preocupada, pois acha que ela está sem apetite. A conduta mais adequada é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "orientar cardápio hipercalórico e marcar retorno breve para reavaliação do ganho depeso."
+    },
+    {
+     "letra": "B",
+     "texto": "solicitar hemograma, urina tipo I e protoparasitológico de fezes, para uma avaliaçãoclínica mais completa."
+    },
+    {
+     "letra": "C",
+     "texto": "solicitar urina tipo I e cultura de urina, pois a situação parece sugestiva de infecção dotrato urinário."
+    },
+    {
+     "letra": "D",
+     "texto": "tranquilizar a mãe, orientando sobre a “ falsa anorexia” própria dessa idade."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119655",
+   "codigo": "4000119655",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 98,
+   "temas": [
+    "Taquipneia Transitória do Recémnato TTRN"
+   ],
+   "enunciado": "RN de 36 semanas de idade gestacional, parto cesáreo por indicação materna. Apgar de 5-7 no primeiro e quinto minutos. Após os procedimentos habituais de reanimação, com 15 minutos de vida, apresenta desconforto respiratório caracterizado por gemência, batimento de asa nasal, tiragem intercostal e retração diafragmática. A saturação de oxigênio pré-ductal é de 91% com FC 110 bpm e FR 80 irpm. A conduta mais adequada é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "iniciar oferta de oxigênio por via inalatória."
+    },
+    {
+     "letra": "B",
+     "texto": "administrar surfactante exógeno nas primeiras duas horas de vida."
+    },
+    {
+     "letra": "C",
+     "texto": "indicar suporte respiratório com pressão contínua nas vias aéreas (CPAP)."
+    },
+    {
+     "letra": "D",
+     "texto": "realizar VPP com balão e máscara com FR de 40-60 irpm."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119647",
+   "codigo": "4000119647",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 99,
+   "temas": [
+    "Def inição",
+    "Conduta"
+   ],
+   "enunciado": "RN de 10 dias de vida apresenta insu ciência respiratória e está em atendimento no pronto-atendimento geral. Na avaliação para estabilização pré-transporte para o serviço médico de referência, o paciente apresenta, além dos sinais e sintomas respiratórios, vômitos, tremores e palidez cutâneo-mucosa. Glicemia de 30 mg/dL (glicofita). A conduta correta é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "administrar 2 mL/kg de glicose a 25% em bôlus por via endovenosa antes de iniciar otransporte e encaminhar o RN em jejum."
+    },
+    {
+     "letra": "B",
+     "texto": "administrar 2 mL/kg de glicose a 50% em bôlus por via endovenosa e iniciar oferta deleite por sonda nasogástrica durante o transporte."
+    },
+    {
+     "letra": "C",
+     "texto": "administrar 2 mL/kg de glicose a 10% em bôlus por via endovenosa e manter jejumdurante o transporte, com oferta de glicose por via endovenosa de forma contínua."
+    },
+    {
+     "letra": "D",
+     "texto": "não administrar glicose por via endovenosa para evitar rebote e ofertar leite por sondanasogástrica, antes de iniciar o transporte."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119634",
+   "codigo": "4000119634",
+   "materia": "Compilado provas de residencia todo brasil + revalida + enare 2020 a 2023 banco estrategiamed",
+   "tema_arquivo": "UNESP 2020",
+   "numero": 100,
+   "temas": [
+    "Reanimação neonatal em maiores de 34 semanas"
+   ],
+   "enunciado": "RN a termo nasce de parto vaginal em apneia e com hipotonia generalizada. Após os passos iniciais no berço aquecido, permanece em apneia e com bradicardia. Iniciada a ventilação com pressão positiva (VPP) com máscara facial e oxigênio a 21%. Após alguns ciclos de VPP, com técnica correta, a frequência cardíaca é de 50 bpm. De acordo com as recomendações para reanimação do RN em sala de parto, a conduta correta é Respostas: 1 12 23 34 45 56 67 78 89 100",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "iniciar a massagem cardíaca de forma sincronizada com VPP com balão e máscarafacial."
+    },
+    {
+     "letra": "B",
+     "texto": "manter VPP com balão e máscara, e aumentar a concentração de oxigênio para 100%."
+    },
+    {
+     "letra": "C",
+     "texto": "intubar o RN e iniciar massagem cardíaca sincronizada com VPP com balão e cânula orotraqueal."
+    },
+    {
+     "letra": "D",
+     "texto": "manter VPP e administrar adrenalina endovenosa."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": []
+}

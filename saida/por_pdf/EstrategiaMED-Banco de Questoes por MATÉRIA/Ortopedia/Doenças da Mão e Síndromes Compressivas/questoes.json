@@ -1,0 +1,1279 @@
+{
+ "questoes": [
+  {
+   "id": "4000001189",
+   "codigo": "4000001189",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças da Mão e Síndromes Compressivas",
+   "numero": 1,
+   "temas": [
+    "Doença de Dupuytren"
+   ],
+   "enunciado": "A doença de Dupuytren acomete mais homens, na sétima década de vida e é caracterizada classicamente por:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Granulomas caseosos em articulações metacarpo-falangianas."
+    },
+    {
+     "letra": "B",
+     "texto": "Compressão do nervo mediano na passagem do túnel do carpo da mão."
+    },
+    {
+     "letra": "C",
+     "texto": "Fibrodisplasia da fáscia palmar, geralmente bilateral, com espessamento e formação de nódulos."
+    },
+    {
+     "letra": "D",
+     "texto": "Cisto sinovial com evolução para osteomielite em pacientes diabéticos."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000121072",
+   "codigo": "4000121072",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças da Mão e Síndromes Compressivas",
+   "numero": 2,
+   "temas": [
+    "Tenossinovite do Estilóide Radial De Quervain",
+    "Tenossinovite de De Quervain",
+    "Tenossinovites"
+   ],
+   "enunciado": "Abdução repetida de polegar associada a esforços desse dedo e supinação de mão associada à exão de antebraço se correlacionam, respectivamente, com quadros clínicos de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "enfermidade de De Quervain e tendinite de cabo longo de bíceps."
+    },
+    {
+     "letra": "B",
+     "texto": "síndrome do túnel do carpo e síndrome do manguito rotador."
+    },
+    {
+     "letra": "C",
+     "texto": "enfermidade de De Quervain e tendinite do supraespinhal."
+    },
+    {
+     "letra": "D",
+     "texto": "tenossinovite de extensores de punho e tendinite distal de bíceps."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000025984",
+   "codigo": "4000025984",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças da Mão e Síndromes Compressivas",
+   "numero": 3,
+   "temas": [
+    "Patologias da Mão",
+    "Síndrome do Túnel do Carpo",
+    "Síndromes Compressivas dos Membros Superiores"
+   ],
+   "enunciado": "A alteração mais comum do nervo mediano é a sua compressão no punho, denominada síndrome do túnel do carpo. Entretanto, existem várias outras afecções que acometem o nervo mediano e alguns achados clínicos e/ou eletrofisiológicos conduzem ao diagnóstico diferencial, como a ocorrência de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Atrofia do músculo abdutor curto do polegar."
+    },
+    {
+     "letra": "B",
+     "texto": "Hipoestesia do primeiro ao terceiro dedos."
+    },
+    {
+     "letra": "C",
+     "texto": "Sinal de Tinel na região anterior do punho."
+    },
+    {
+     "letra": "D",
+     "texto": "Atrofia dos músculos proximais do antebraço."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000124541",
+   "codigo": "4000124541",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças da Mão e Síndromes Compressivas",
+   "numero": 4,
+   "temas": [
+    "Testes Especiais",
+    "Diagnóstico"
+   ],
+   "enunciado": "Assinale a alternativa que preenche, correta e respectivamente, as lacunas do parágrafo abaixo. A imagem representa o teste de ...... que, quando positivo, pode ser útil para diagnosticar ..........",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Finkelstein - síndrome do túnel do carpo."
+    },
+    {
+     "letra": "B",
+     "texto": "Finkelstein - tenossinovite estenosante de De Quervain."
+    },
+    {
+     "letra": "C",
+     "texto": "Finkelstein - epicondilite medial."
+    },
+    {
+     "letra": "D",
+     "texto": "Phalen - síndrome do túnel do carpo."
+    },
+    {
+     "letra": "E",
+     "texto": "Phalen - tenossinovite estenosante de De Quervain."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q004-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000055925",
+   "codigo": "4000055925",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças da Mão e Síndromes Compressivas",
+   "numero": 5,
+   "temas": [
+    "Compressão do nervo ulnar"
+   ],
+   "enunciado": "Paciente informa que há 4 meses apresenta dormência em região hipotenar e em dedos da face medial de mão. O músculo I interósseo dorsal da mão está hipotro ado e há redução da força na adução de punho. A oponência está preservada. Considerando a descrição do acometimento, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O quadro é compatível com lesão do nervo mediano no punho."
+    },
+    {
+     "letra": "B",
+     "texto": "O quadro é compatível com lesão do nervo ulnar no cotovelo."
+    },
+    {
+     "letra": "C",
+     "texto": "O quadro é compatível com lesão do nervo mediano no cotovelo."
+    },
+    {
+     "letra": "D",
+     "texto": "O quadro é compatível com lesão do nervo radial no cotovelo."
+    },
+    {
+     "letra": "E",
+     "texto": "O quadro é compatível com lesão do nervo ulnar no punho."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000050097",
+   "codigo": "4000050097",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças da Mão e Síndromes Compressivas",
+   "numero": 6,
+   "temas": [
+    "Compressão do nervo ulnar"
+   ],
+   "enunciado": "Dentre as diversas sequelas na Hanseníase, há a “mão de parteira ” – Contratura exural do 4° e 5° quirodáctilos, a qual é decorrente do(da)",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "reabsorção óssea."
+    },
+    {
+     "letra": "B",
+     "texto": "comprometimento do nervo mediano."
+    },
+    {
+     "letra": "C",
+     "texto": "comprometimento do ramo cutâneo do nervo radial."
+    },
+    {
+     "letra": "D",
+     "texto": "comprometimento de todo o feixe do nervo radial."
+    },
+    {
+     "letra": "E",
+     "texto": "comprometimento do nervo ulnar."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000023270",
+   "codigo": "4000023270",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças da Mão e Síndromes Compressivas",
+   "numero": 7,
+   "temas": [
+    "Músculos e Inervação"
+   ],
+   "enunciado": "Com relação à inervação sensitiva da mão, a sensibilidade do dedo anular é dada pelo(s) nervo(s)",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "mediano"
+    },
+    {
+     "letra": "B",
+     "texto": "ulnar"
+    },
+    {
+     "letra": "C",
+     "texto": "radial, mediano e ulnar"
+    },
+    {
+     "letra": "D",
+     "texto": "radial e ulnar"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000092306",
+   "codigo": "4000092306",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças da Mão e Síndromes Compressivas",
+   "numero": 8,
+   "temas": [
+    "Síndromes compressivas dos membros inf eriores"
+   ],
+   "enunciado": "Mulher de 52 anos, com IMC = 29 kg/m², queixa-se de dor intermitente, em queimação, localizada na face anterolateral da coxa direita, acompanhada de parestesia local. Refere que a dor piora com a extensão e abdução da coxa e ao andar, e melhora ao sentar-se. Considerando os dados apresentados, a principal hipótese diagnóstica para a paciente é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Bursite do iliopsoas."
+    },
+    {
+     "letra": "B",
+     "texto": "Meralgia parestésica."
+    },
+    {
+     "letra": "C",
+     "texto": "Síndrome da banda iliotibial."
+    },
+    {
+     "letra": "D",
+     "texto": "Bursite isquiática."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000051983",
+   "codigo": "4000051983",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças da Mão e Síndromes Compressivas",
+   "numero": 9,
+   "temas": [
+    "Síndromes compressivas dos membros inf eriores"
+   ],
+   "enunciado": "Sobre a Síndrome do Túnel do Tarso, considere as afirmativas a seguir. I. O nervo acometido é o nervo tibial posterior em região maleolar medial. Há dor local, dormência e queimação em região plantar.; II. O nervo acometido é o nervo tibial anterior no tornozelo. Há dor local, dormência e queimação em face anterior do tornozelo e dorso do pé.; III. É a mononeuropatia mais comum nos membros inferiores.; IV. Na avaliação semiológica, é possível evocar o sinal de Tinel. Assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Somente as afirmativas I e II são corretas."
+    },
+    {
+     "letra": "B",
+     "texto": "Somente as afirmativas I e IV são corretas."
+    },
+    {
+     "letra": "C",
+     "texto": "Somente as afirmativas III e IV são corretas."
+    },
+    {
+     "letra": "D",
+     "texto": "Somente as afirmativas I, II e III são corretas."
+    },
+    {
+     "letra": "E",
+     "texto": "Somente as afirmativas II, III e IV são corretas."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000027173",
+   "codigo": "4000027173",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças da Mão e Síndromes Compressivas",
+   "numero": 10,
+   "temas": [
+    "Diagnóstico"
+   ],
+   "enunciado": "Sabemos que são vários os fatores envolvidos na gênese da Síndrome do Túnel do Carpo, tais como: gravidez, menopausa, obesidade, insu ciência renal, hipotireoidismo, lúpus eritematoso e outros. Durante o exame físico, o teste mais específico e sensível para o diagnóstico dessa patologia é o de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tinel."
+    },
+    {
+     "letra": "B",
+     "texto": "Durkan."
+    },
+    {
+     "letra": "C",
+     "texto": "Phalen."
+    },
+    {
+     "letra": "D",
+     "texto": "Phalen invertido."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000019946",
+   "codigo": "4000019946",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças da Mão e Síndromes Compressivas",
+   "numero": 11,
+   "temas": [
+    "Semiologia da mão",
+    "Apresentação clínica"
+   ],
+   "enunciado": "A tendinite de Quervain é um reumatismo de partes moles, comum em mulheres na idade de 30 a 50 anos, caracterizada pelo acometimento dos tendões abdutor longo e extensor curto do polegar. Nessa tendinite, o desvio forçado da mão fechada para o lado ulnar, utilizado para reproduzir a dor no processo estiloide do rádio, é denominado de teste de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Yergason."
+    },
+    {
+     "letra": "B",
+     "texto": "Thompson."
+    },
+    {
+     "letra": "C",
+     "texto": "Jobe."
+    },
+    {
+     "letra": "D",
+     "texto": "Finkelstein."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000055099",
+   "codigo": "4000055099",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças da Mão e Síndromes Compressivas",
+   "numero": 12,
+   "temas": [
+    "Diagnóstico"
+   ],
+   "enunciado": "Mulher de 32 anos, com 35 dias de pós-parto, queixa-se de dor na região do processo estiloide radial direito e fraqueza à preensão com o polegar e o indicador da mão direita. Ao exame físico, observam-se dor e tumefação na região da tabaqueira anatômica e manobra de Finkelstein positiva. Qual é a principal hipótese diagnóstica para essa paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Síndrome De Quervain."
+    },
+    {
+     "letra": "B",
+     "texto": "Contratura de Dupuytren."
+    },
+    {
+     "letra": "C",
+     "texto": "Síndrome do canal de Guyon."
+    },
+    {
+     "letra": "D",
+     "texto": "Dedo em gatilho."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000029715",
+   "codigo": "4000029715",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças da Mão e Síndromes Compressivas",
+   "numero": 13,
+   "temas": [
+    "Epidemiologia e f isiopatologia"
+   ],
+   "enunciado": "A Síndrome do Túnel do Carpo é uma condição de compressão do nervo mediano ao atravessar o punho, que causa um conjunto de sinais e sintomas, que incluem, dentre outros, dor noturna e parestesia na mão. É a neuropatia compressiva mais comum e mais estudada do ser humano. Não está relacionada dentre os fatores de risco dessa patologia:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Gravidez."
+    },
+    {
+     "letra": "B",
+     "texto": "Hipertireoidismo."
+    },
+    {
+     "letra": "C",
+     "texto": "Tabagismo."
+    },
+    {
+     "letra": "D",
+     "texto": "Flexão extrema e repetitiva do punho no trabalho."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000080192",
+   "codigo": "4000080192",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças da Mão e Síndromes Compressivas",
+   "numero": 14,
+   "temas": [
+    "Síndrome do Túnel do Carpo"
+   ],
+   "enunciado": "Paciente feminina, de 53 anos, com história de diabetes, em uso de metformina, apresenta 4 meses de evolução de parestesia em mão direita, que acomete os 4 primeiros quirodáctilos e piora durante a noite. Apresenta força motora, reflexos e trofismo preservados. Tinel e Phalen positivos. Em relação ao caso, assinale a assertiva correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O diabetes mellitus não está associado ao quadro."
+    },
+    {
+     "letra": "B",
+     "texto": "O uso de tala de imobilização do punho em posição neutra deve ser indicado apenas como terapia de segunda linha."
+    },
+    {
+     "letra": "C",
+     "texto": "Como a paciente ainda não apresenta alteração trófica ou de força motora a descompressão cirúrgica precoce é estratégia aceitável para evitar progressão."
+    },
+    {
+     "letra": "D",
+     "texto": "Com a evolução da doença pode ocorrer fraqueza dos movimentos de oposição e abdução do polegar."
+    },
+    {
+     "letra": "E",
+     "texto": "Os achados da eletroneuromiografia são diagnósticos, mas não são relevantes em relação à definição terapêutica."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000069042",
+   "codigo": "4000069042",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças da Mão e Síndromes Compressivas",
+   "numero": 15,
+   "temas": [
+    "Compressão do nervo interósseo posterior"
+   ],
+   "enunciado": "Paciente masculino, 45 anos, mecânico, apresenta quadro de 3 meses de evolução de dor em face posterior de antebraço direito, que aumenta com esforços e movimentos de pronação e supinação. Ao exame, a sensibilidade é normal, mas o paciente apresenta di culdade para extensão dos dedos. O quadro descrito é compatível com qual dos diagnósticos abaixo?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Síndrome do túnel ulnar."
+    },
+    {
+     "letra": "B",
+     "texto": "Síndrome do túnel do carpo."
+    },
+    {
+     "letra": "C",
+     "texto": "Síndrome do músculo pronador."
+    },
+    {
+     "letra": "D",
+     "texto": "Compressão externa do nervo interósseo anterior."
+    },
+    {
+     "letra": "E",
+     "texto": "Síndrome do músculo supinador."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000021863",
+   "codigo": "4000021863",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças da Mão e Síndromes Compressivas",
+   "numero": 16,
+   "temas": [
+    "Tenossinovite do Estilóide Radial De Quervain",
+    "Tenossinovite de De Quervain"
+   ],
+   "enunciado": "Doença que pode ser considerada como lesão por esforços repetitivos (LER ou DORT):",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Artrite reumatoide."
+    },
+    {
+     "letra": "B",
+     "texto": "Síndrome de De Quervain."
+    },
+    {
+     "letra": "C",
+     "texto": "Espondilite anquilosante."
+    },
+    {
+     "letra": "D",
+     "texto": "Síndrome de Reiter."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000088262",
+   "codigo": "4000088262",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças da Mão e Síndromes Compressivas",
+   "numero": 17,
+   "temas": [
+    "Anatomia óssea"
+   ],
+   "enunciado": "A foto abaixo apresenta dissecção anatômica de punho congelado em corte sagital (VER IMAGEM). A marca X corresponde a qual estrutura?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Escafoide."
+    },
+    {
+     "letra": "B",
+     "texto": "Semilunar."
+    },
+    {
+     "letra": "C",
+     "texto": "Capitato."
+    },
+    {
+     "letra": "D",
+     "texto": "Pisiforme."
+    },
+    {
+     "letra": "E",
+     "texto": "Piramidal."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q017-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000067023",
+   "codigo": "4000067023",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças da Mão e Síndromes Compressivas",
+   "numero": 18,
+   "temas": [
+    "Músculos e Inervação"
+   ],
+   "enunciado": "Dentre os músculos extrínsecos do Antebraço Volar abaixo, qual deles NÃO é inervado pelo Nervo Mediano?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Flexor ulnar do punho."
+    },
+    {
+     "letra": "B",
+     "texto": "Pronador quadrado."
+    },
+    {
+     "letra": "C",
+     "texto": "Flexor radial do punho."
+    },
+    {
+     "letra": "D",
+     "texto": "Pronador redondo."
+    },
+    {
+     "letra": "E",
+     "texto": "Flexor longo do polegar."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000092672",
+   "codigo": "4000092672",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças da Mão e Síndromes Compressivas",
+   "numero": 19,
+   "temas": [
+    "Diagnóstico"
+   ],
+   "enunciado": "Homem, 60 anos, há 6 meses apresenta retração progressiva do dedo anular D, com aparecimento de nódulos na palma da mão D. Não relata trauma, não faz uso de medicamentos, mas refere que o seu avô apresentou a mesma situação clínica na mão. Qual é o diagnóstico mais provável?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Lesão do nervo mediano."
+    },
+    {
+     "letra": "B",
+     "texto": "Fibromatose palmar."
+    },
+    {
+     "letra": "C",
+     "texto": "Tendinite do extensor do dedo anular."
+    },
+    {
+     "letra": "D",
+     "texto": "Ruptura dos intrínsecos."
+    },
+    {
+     "letra": "E",
+     "texto": "Lesão do nervo ulnar."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q019-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000055887",
+   "codigo": "4000055887",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças da Mão e Síndromes Compressivas",
+   "numero": 20,
+   "temas": [
+    "Compressão do nervo interósseo posterior"
+   ],
+   "enunciado": "Paciente com 38 anos apresenta dor crônica em face posterior de antebraço direito, diminuição de força de extensão dos dedos, mas sem alteração de sensibilidade. Sendo indicado tratamento cirúrgico, qual dos procedimentos abaixo seria o mais compatível com o quadro apresentado?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Liberação do túnel do carpo."
+    },
+    {
+     "letra": "B",
+     "texto": "Descompressão do túnel do supinador."
+    },
+    {
+     "letra": "C",
+     "texto": "Descompressão do nervo ulnar no cotovelo."
+    },
+    {
+     "letra": "D",
+     "texto": "Neurólise total do plexo braquial."
+    },
+    {
+     "letra": "E",
+     "texto": "Liberação do nervo mediano na inserção do bíceps."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000041443",
+   "codigo": "4000041443",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças da Mão e Síndromes Compressivas",
+   "numero": 21,
+   "temas": [
+    "Condutas e tratamento"
+   ],
+   "enunciado": "Gilmar vem à consulta médica e se queixa de dor e fraqueza na mão direita. Ao exame, apresenta dor na base do primeiro quirodáctilo e manobra de Finkelstein positiva à direita. Relata ser hipertenso e diabético de longa data. Trouxe seus últimos exames realizados uma semana antes. Exame: Creatinina: 2,2 mg/dl; Ureia: 51 mg/dl; Glicemia de jejum: 198 mg/dl; TGO: 32 mg/dl; TGP: 28 mg/dl. A melhor conduta para este caso é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Naproxeno 500 mg 8/8 h, por via oral, por 30 dias."
+    },
+    {
+     "letra": "B",
+     "texto": "Celecoxibe 200 mg, por via oral, uma vez ao dia, por 30 dias."
+    },
+    {
+     "letra": "C",
+     "texto": "Prednisona 20 mg, por via oral, uma vez ao dia, por 7 dias."
+    },
+    {
+     "letra": "D",
+     "texto": "Cetoprofeno 100mg, por via intramuscular, uma vez ao dia, por 5 dias."
+    },
+    {
+     "letra": "E",
+     "texto": "Infiltração com corticoide."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000060221",
+   "codigo": "4000060221",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças da Mão e Síndromes Compressivas",
+   "numero": 22,
+   "temas": [
+    "Epidemiologia e f isiopatologia"
+   ],
+   "enunciado": "O nervo comprometido na síndrome do túnel do carpo é o:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "radial."
+    },
+    {
+     "letra": "B",
+     "texto": "ulnar."
+    },
+    {
+     "letra": "C",
+     "texto": "mediano."
+    },
+    {
+     "letra": "D",
+     "texto": "extensor reticular."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000079127",
+   "codigo": "4000079127",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças da Mão e Síndromes Compressivas",
+   "numero": 23,
+   "temas": [
+    "Diagnóstico",
+    "Condutas e tratamento"
+   ],
+   "enunciado": "Mulher, 67 anos, com parestesia noturna na mão esquerda. As manobras de Phalen e Tinel são positivas. O tratamento inicial é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Imobilização do punho."
+    },
+    {
+     "letra": "B",
+     "texto": "Infiltração do punho com corticoide."
+    },
+    {
+     "letra": "C",
+     "texto": "Cirurgia para descompressão do nervo mediano."
+    },
+    {
+     "letra": "D",
+     "texto": "Anti-inflamatórios não esteroides."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000071759",
+   "codigo": "4000071759",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças da Mão e Síndromes Compressivas",
+   "numero": 24,
+   "temas": [
+    "Apresentação clínica",
+    "Testes Especiais",
+    "Diagnóstico"
+   ],
+   "enunciado": "Causa de absenteísmo crescente entre trabalhadores cujas funções laborais exigem o teclar repetitivo diante das telas de computadores, a síndrome do túnel carpal é entidade nosológica rica em sintomas e sinais. Um destes, denominado sinal de Tinel, se expressa por formigamento ou dor do tipo choque na distribuição do nervo mediano à manobra de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Compressão digital da região hipotenar."
+    },
+    {
+     "letra": "B",
+     "texto": "Percussão da região volar do punho."
+    },
+    {
+     "letra": "C",
+     "texto": "Flexão prolongada do punho a 90º."
+    },
+    {
+     "letra": "D",
+     "texto": "Hiperextensão forçada do polegar."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000028601",
+   "codigo": "4000028601",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças da Mão e Síndromes Compressivas",
+   "numero": 25,
+   "temas": [
+    "Anatomia óssea"
+   ],
+   "enunciado": "Os ossos da fileira proximal do punho são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Escafoide, semilunar, captato e pisiforme."
+    },
+    {
+     "letra": "B",
+     "texto": "Hamato, semilunar, piramidal e pisiforme."
+    },
+    {
+     "letra": "C",
+     "texto": "Trapezoide, piramidal, escafoide e pisiforme."
+    },
+    {
+     "letra": "D",
+     "texto": "Trapézio, escafoide, semilunar e piramidal."
+    },
+    {
+     "letra": "E",
+     "texto": "Nehuma das opções."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000009175",
+   "codigo": "4000009175",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças da Mão e Síndromes Compressivas",
+   "numero": 26,
+   "temas": [
+    "Semiologia da mão",
+    "Síndrome do Túnel do Carpo"
+   ],
+   "enunciado": "Como é executado o teste de Tinel na investigação clínica da síndrome do túnel do carpo?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Digitopercussão sobre o nervo mediano ao nível do punho."
+    },
+    {
+     "letra": "B",
+     "texto": "Flexão do punho em 90 graus durante 1 minuto."
+    },
+    {
+     "letra": "C",
+     "texto": "Preensão firme dos dedos sobre polegar e flexão da mão."
+    },
+    {
+     "letra": "D",
+     "texto": "Levantamento de peso com punho reto por 3 minutos."
+    },
+    {
+     "letra": "E",
+     "texto": "Flexão-extensão repetitiva do punho por 1 minuto."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000008520",
+   "codigo": "4000008520",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças da Mão e Síndromes Compressivas",
+   "numero": 27,
+   "temas": [
+    "Diagnóstico"
+   ],
+   "enunciado": "Paciente com 54 anos, sexo feminino, com queixa de dor e parestesia nas mãos. Refere que a dor é pior à noite, acordando algumas vezes por causa desta. Refere ainda que a dor se irradia até os ombros. Apresenta hipotro a dos músculos da eminência tenar. A hipótese diagnóstica é síndrome do:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Interósseo anterior."
+    },
+    {
+     "letra": "B",
+     "texto": "Túnel radial."
+    },
+    {
+     "letra": "C",
+     "texto": "Canal ulnar."
+    },
+    {
+     "letra": "D",
+     "texto": "Interósseo posterior."
+    },
+    {
+     "letra": "E",
+     "texto": "Túnel do carpo."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000093198",
+   "codigo": "4000093198",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças da Mão e Síndromes Compressivas",
+   "numero": 28,
+   "temas": [
+    "Apresentação clínica"
+   ],
+   "enunciado": "Paciente com síndrome do túnel do carpo, distúrbio osteomuscular relacionado ao trabalho, costuma apresentar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipoestesia e dor na mão, principalmente diurna, e parestesia na área dos dedos médio, anular e mínimo, geralmente com o dedo mínimo mais atingido."
+    },
+    {
+     "letra": "B",
+     "texto": "Hipoestesia e dor na mão, principalmente noturna, e parestesia na área dos dedos polegar, indicador e médio e na metade radial do anular, geralmente com o indicador mais atingido."
+    },
+    {
+     "letra": "C",
+     "texto": "Dor intensa no trajeto do abdutor longo do polegar e parestesia na área dos dedos médios, anular e mínimo, geralmente com o dedo mínimo mais atingido."
+    },
+    {
+     "letra": "D",
+     "texto": "Dor intensa no trajeto do abdutor curto do polegar quando prendem firmemente os dedos sobre o polegar e flexionam a mão em desvio radial."
+    },
+    {
+     "letra": "E",
+     "texto": "Dor intensa no trajeto do abdutor longo do polegar quando prendem firmemente os dedos sobre o polegar e flexionam a mão em desvio cubital."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000089007",
+   "codigo": "4000089007",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças da Mão e Síndromes Compressivas",
+   "numero": 29,
+   "temas": [
+    "Doença de Dupuytren"
+   ],
+   "enunciado": "A enfermidade de Dupuytren (VER IMAGEM):",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Está relacionada à doença ocupacional."
+    },
+    {
+     "letra": "B",
+     "texto": "Inicia, na maioria dos casos, pelo comprometimento do quarto e do quinto quirodáctilos."
+    },
+    {
+     "letra": "C",
+     "texto": "Adere a músculos e nervos da mão."
+    },
+    {
+     "letra": "D",
+     "texto": "Raramente compromete as duas mãos."
+    },
+    {
+     "letra": "E",
+     "texto": "Acomete mais frequentemente mulheres após a menopausa."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q029-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000022459",
+   "codigo": "4000022459",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças da Mão e Síndromes Compressivas",
+   "numero": 30,
+   "temas": [
+    "Síndrome do Túnel do Carpo",
+    "Epidemiologia e f isiopatologia"
+   ],
+   "enunciado": "A síndrome do túnel do carpo é condição patológica muito comum na população em geral. Assinale a incorreta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "É a neuropatia compressiva mais comum no membro superior."
+    },
+    {
+     "letra": "B",
+     "texto": "Ocorre mais comumente em mulheres."
+    },
+    {
+     "letra": "C",
+     "texto": "Pode aparecer transitoriamente durante a gestação."
+    },
+    {
+     "letra": "D",
+     "texto": "A eletroneuromiografia é o exame complementar de escolha e pode estar normal entre até 25 a 31% dos casos."
+    },
+    {
+     "letra": "E",
+     "texto": "Mieloma múltiplo, hipotiroidismo e amiloidose não são causas de síndrome do túnel do carpo."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000019391",
+   "codigo": "4000019391",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças da Mão e Síndromes Compressivas",
+   "numero": 31,
+   "temas": [
+    "Semiologia da mão",
+    "Semiologia do ombro"
+   ],
+   "enunciado": "As manobras de Yergason é um Phalen são semiologicamente úteis para o diagnóstico, respectivamente, de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cistos sinoviais e tendinite de calcâneo;"
+    },
+    {
+     "letra": "B",
+     "texto": "Tendinite Bicipital e Síndrome do Túnel do Carpo;"
+    },
+    {
+     "letra": "C",
+     "texto": "Compressão do nervo ulnar e compressão do nervo femoral;"
+    },
+    {
+     "letra": "D",
+     "texto": "Tendinite de Quervain e tenossinovite estenosante."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000103803",
+   "codigo": "4000103803",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças da Mão e Síndromes Compressivas",
+   "numero": 32,
+   "temas": [
+    "Testes Especiais",
+    "Diagnóstico"
+   ],
+   "enunciado": "Os sinais de Tinel e de Phalen são encontrados na:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "compressão do nervo ciático."
+    },
+    {
+     "letra": "B",
+     "texto": "ruptura do tendão de Aquiles."
+    },
+    {
+     "letra": "C",
+     "texto": "dissecção do cisto de Baker."
+    },
+    {
+     "letra": "D",
+     "texto": "síndrome do túnel do carpo."
+    },
+    {
+     "letra": "E",
+     "texto": "necrose asséptica da cabeça do fêmur."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000097516",
+   "codigo": "4000097516",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças da Mão e Síndromes Compressivas",
+   "numero": 33,
+   "temas": [
+    "Doença de Dupuytren"
+   ],
+   "enunciado": "Referente à contratura de Dupuytrens, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Não tem fator hereditário."
+    },
+    {
+     "letra": "B",
+     "texto": "É uma contratura do tendão adutor do dedo mínimo."
+    },
+    {
+     "letra": "C",
+     "texto": "Afeta todos os dedos igualmente."
+    },
+    {
+     "letra": "D",
+     "texto": "Ocasionalmente a amputação é necessária."
+    },
+    {
+     "letra": "E",
+     "texto": "Alcoolismo ou cirrose não tem relação com essa doença."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000005085",
+   "codigo": "4000005085",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças da Mão e Síndromes Compressivas",
+   "numero": 34,
+   "temas": [
+    "Tenossinovite de De Quervain"
+   ],
+   "enunciado": "A Tenossinovite de D’Quervain é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Uma inflamação que atinge os tendões extensores do antebraço em sua origem no cotovelo."
+    },
+    {
+     "letra": "B",
+     "texto": "Uma inflamação que acomete o flexor ulnar do carpo na sua passagem através do canal de Guyon."
+    },
+    {
+     "letra": "C",
+     "texto": "Uma inflamação da bainha do tendão flexor longo do polegar na sua passagem pelo túnel do carpo."
+    },
+    {
+     "letra": "D",
+     "texto": "Uma inflamação dos tendões extensor curto e abdutor longo do polegar na sua passagem pelo 1º compartimento dorsal do punho."
+    },
+    {
+     "letra": "E",
+     "texto": "Uma inflamação do tendão flexor comum dos dedos em sua passagem pela polia A1."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000086246",
+   "codigo": "4000086246",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças da Mão e Síndromes Compressivas",
+   "numero": 35,
+   "temas": [
+    "Epidemiologia e f isiopatologia"
+   ],
+   "enunciado": "A tenossinovite de De Quervain atinge os tendões:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "extensor curto do polegar e abdutor longo"
+    },
+    {
+     "letra": "B",
+     "texto": "extensor longo do polegar e abdutor curto"
+    },
+    {
+     "letra": "C",
+     "texto": "extensor longo do polegar e abdutor longo"
+    },
+    {
+     "letra": "D",
+     "texto": "extensor curto do polegar e abdutor curto"
+    },
+    {
+     "letra": "E",
+     "texto": "extensor longo do polegar e extensor curto"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000011639",
+   "codigo": "4000011639",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Doenças da Mão e Síndromes Compressivas",
+   "numero": 36,
+   "temas": [
+    "Lesões tendíneas da mão"
+   ],
+   "enunciado": "Paciente vítima de ferimento por faca na palma da mão. Ao exame físico observa-se que o paciente não consegue etir ativamente as articulações interfalângicas proximal e distal do dedo indicador e a articulação interfalângica distal do dedo médio. Pode-se afirmar que o paciente apresenta lesão dos tendões: Respostas: 1 12 23 34",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "interósseo ventral, flexores longos do indicador e médio."
+    },
+    {
+     "letra": "B",
+     "texto": "interósseo ventral e flexores profundos do indicador e médio."
+    },
+    {
+     "letra": "C",
+     "texto": "flexores superficial e profundo do dedo indicador e flexor superficial do médio."
+    },
+    {
+     "letra": "D",
+     "texto": "flexores curto e longo do indicador e longo do médio."
+    },
+    {
+     "letra": "E",
+     "texto": "flexor superficial e profundo do indicador e superficial do médio."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": []
+}

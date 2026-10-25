@@ -1,0 +1,3527 @@
+{
+ "questoes": [
+  {
+   "id": "4000188746",
+   "codigo": "4000188746",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 1,
+   "temas": [
+    "Hipercalemia",
+    "Distúrbios eletrolíticos"
+   ],
+   "enunciado": "Maria, 66 anos de idade, diabética e hipertensa, em uso de enalapril e metformina, comparece a consulta ambulatorial com queixa de astenia e turvação visual há 2 dias. E encaminhada ao Departamento de Emergência após realizar o seguinte eletrocardiograma. Qual deve ser a conduta imediata?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Atropina."
+    },
+    {
+     "letra": "B",
+     "texto": "Encaminhar para marcapasso definitivo."
+    },
+    {
+     "letra": "C",
+     "texto": "Trombólise."
+    },
+    {
+     "letra": "D",
+     "texto": "Gluconato de cálcio."
+    },
+    {
+     "letra": "E",
+     "texto": "Marcapasso transcutâneo."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q001-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000188526",
+   "codigo": "4000188526",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 2,
+   "temas": [
+    "Hipercalemia",
+    "Distúrbios eletrolíticos"
+   ],
+   "enunciado": "Você está de plantão e foi chamado para verificar os exames que caram prontos. O paciente do leito 114 apresenta uma hipercalemia aguda. O R2 que estava de plantão solicitou um eletrocardiograma. Qual alteração eletrocardiográ ca pode estar associada à hipercalemia?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Redução do intervalo PR."
+    },
+    {
+     "letra": "B",
+     "texto": "Alargamento do complexo QRS."
+    },
+    {
+     "letra": "C",
+     "texto": "Achatamento da onda T."
+    },
+    {
+     "letra": "D",
+     "texto": "Onda Q proeminente."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000186777",
+   "codigo": "4000186777",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 3,
+   "temas": [
+    "Manif estações clínicas da hipercalemia"
+   ],
+   "enunciado": "Dentre as alterações hidroeletrolíticas, a hipercalemia tem potencial risco fatal pela alteração em condução miocárdica e sua relação com arritmias fatais. Sobre a hipercalemia, assinale a melhor alternativa:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O gluconato de cálcio é efetivo em reduzir a concentração sérica de potássio e deve ser administrado quando houver alterações eletrocardiográficas."
+    },
+    {
+     "letra": "B",
+     "texto": "A administração de bicarbonato de sódio é efetiva em reduzir a concentração sérica de potássio, porém sua administração apresenta potenciais riscos como hipervolemia e hipocalcemia."
+    },
+    {
+     "letra": "C",
+     "texto": "Alterações eletrocardiográficas graves como torsaides-point devem ser tratadas com medidas para expoliação de potássio, como diuréticos de alça e resinas de trocas gastro-intestinais."
+    },
+    {
+     "letra": "D",
+     "texto": "O apiculamento difuso de onta-T em pacientes com hipercalemia configura uma emergência dialítica."
+    },
+    {
+     "letra": "E",
+     "texto": "Na parada cardiorrespiratória por hipercalemia a administração de bicarbonato de sódio deve ser desencorajada."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186677",
+   "codigo": "4000186677",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 4,
+   "temas": [
+    "Manif estações clínicas da hipercalemia",
+    "Bicarbonato de sódio",
+    "Beta2Agonista"
+   ],
+   "enunciado": "No controle do paciente cirúrgico no pós-operatório um cuidado que devemos ter é nos distúrbios hidroeletrolíticos que podem ser fatais nos pacientes. Sobre esses distúrbios, assinale a alternativa CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A hiperpotassemia pode causar fraqueza muscular e a insuficiência respiratória é comum."
+    },
+    {
+     "letra": "B",
+     "texto": "Lesão tissular, hipoglicemia, acidose e aumento da ação da aldosterona são causas de hiperpotassemia."
+    },
+    {
+     "letra": "C",
+     "texto": "Ondas T em pico leva a pensar na possibilidade da hipocalemia."
+    },
+    {
+     "letra": "D",
+     "texto": "Pode-se tratar a hipercalemia com solução polarizante (insulina com glicose), bicarbonato de sódio ou agonista beta adrenérgico."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186550",
+   "codigo": "4000186550",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 5,
+   "temas": [
+    "Formas de reposição de potássio",
+    "Gravidade"
+   ],
+   "enunciado": "Paciente de 60 anos, operado em caráter de emergência por quadro suboclusivo intestinal (Tumor de ceco), tendo sido realizada colectomia D com ileostomia terminal. No quinto dia de pós-operatório encontrava-se estável, já em programação de alta hospitalar quando houve piora clínica, apresentando náuseas, vômitos, distensão abdominal e câimbras. O paciente estava em REG, afebril, hipocorado +/3 e desidratado ++/4. Abdome moderadamente distendido, timpânico, sem sinais de peritonismo, estoma bem perfundido, funcional, porém com volume diminuído em relação às últimas 48h, chamando atenção para os RHA (ruídos hidroaéreos) hipoativos. Considerando o quadro decorrente de íleo paralítico como hipótese, e que o principal eletrólito alterado no controle laboratorial foi o potássio, com níveis séricos de 2,3 mEq/L, podemos considerar das alternativas abaixo, qual a correta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Por tratar-se de hipopotassemia leve, a correção do distúrbio em questão deve ser realizada por via oral, considerando a necessidade diária basal de 5-a 10 mEq/Kg/dia com reposição oral média recomendada de 100 mEq/dia."
+    },
+    {
+     "letra": "B",
+     "texto": "A concentração máxima de K+ administrada não deve ultrapassar 40mEq/L em veias periféricas e 60mEq/L em acesso central."
+    },
+    {
+     "letra": "C",
+     "texto": "A velocidade de infusão durante a reposição, independente de via periférica ou central, não deve ultrapassar 60mEq/h, como também ser mantido para não interferir nas metas calculadas para o nível plasmático."
+    },
+    {
+     "letra": "D",
+     "texto": "Em situações de hipopotassemia ref - deve ser verificado, pois ele interfere como cofator da Na+-k+-ATPase."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000185876",
+   "codigo": "4000185876",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 6,
+   "temas": [
+    "Neuromusculares",
+    "Cardiovasculares",
+    "Hipocalemia"
+   ],
+   "enunciado": "Homem de 32 anos procura emergência por cãibras e mialgia intensa iniciadas após diarreia, com diversos episódios de evacuações líquidas nos últimos dois dias, associados a febre e vômitos. Ao exame físico, apresentava-se desidratado, taquicárdico, normotenso, apresentando dor à palpação muscular difusamente. Eletrocardiograma evidenciou presença de ondas U de V4 a V6. Qual distúrbio hidroeletrolítico está associado ao quadro e qual o motivo da dor?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipopotassemia. Rabdomiólise isquêmica secundária a hipopotassemia."
+    },
+    {
+     "letra": "B",
+     "texto": "Hipopotassemia. Miosite secundária à gastroenterocolite presumivelmente viral."
+    },
+    {
+     "letra": "C",
+     "texto": "Hiperpotassemia. Miosite secundária à gastroenterocolite presumivelmente bacteriana."
+    },
+    {
+     "letra": "D",
+     "texto": "Hipocalcemia. Rabdomiólise secundária à sepse."
+    },
+    {
+     "letra": "E",
+     "texto": "Hipocalcemia. Miosite secundária à gastroenterocolite presumivelmente viral."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000185481",
+   "codigo": "4000185481",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 7,
+   "temas": [
+    "Nef rologia"
+   ],
+   "enunciado": "Durante o pré-operatório de pacientes oncológicos que serão submetidos ao tratamento cirúrgico observa-se, com relativa frequência, a ocorrência de hipocalemia. Nestes casos, é CORRETO afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A realização de um eletrocardiograma é recomendada, pois poderá mostrar, na maioria das vezes, elevação do segmento ST e aparecimento da onda U"
+    },
+    {
+     "letra": "B",
+     "texto": "A reposição intravenosa de potássio está sempre indicada para evitar as complicações da hipocalemia"
+    },
+    {
+     "letra": "C",
+     "texto": "Os níveis reduzidos de potássio podem levar à fraqueza muscular"
+    },
+    {
+     "letra": "D",
+     "texto": "Os pacientes apresentam maiores chances de arritmia cardíaca devido a hipopolarização do potencial de repouso das células"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000185451",
+   "codigo": "4000185451",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 8,
+   "temas": [
+    "Tratamento da hipercalemia",
+    "Manif estações clínicas da hipercalemia",
+    "Gluconato de cálcio"
+   ],
+   "enunciado": "Homem, 64 anos, foi admitido no pronto-socorro com quadro de fraqueza nas pernas e palpitações há dois dias, tendo apresentado síncope há duas horas. É portador de diabetes estágio 3b e miocardiopatia isquêmica com fração de ejeção levemente reduzida. Faz uso contínuo de insulina NPH, losartana, carvedilol e AAS, com uso esporádico de furosemida. Há 15 dias, foi associada espironolactona pelo antecedente de miocardiopatia. Na admissão, paciente encontra-se com PA = 110 x 70 mmHg, taquipneico leve e euvolêmico. O eletrocardiograma realizado na admissão está ilustrado a seguir. Com base no exposto, assinale a afirmativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A principal medida a ser realizada é encaminhar o paciente para trombólise ou angioplastia primária."
+    },
+    {
+     "letra": "B",
+     "texto": "O uso de diurético de alça é contraindicado pelo risco de agravamento do quadro cardíaco."
+    },
+    {
+     "letra": "C",
+     "texto": "A infusão de gluconato de cálcio endovenoso terá efeito protetor sobre as células miocárdicas."
+    },
+    {
+     "letra": "D",
+     "texto": "A administração de amiodarona endovenosa é essencial para a prevenção de arritmias graves nesse paciente."
+    },
+    {
+     "letra": "E",
+     "texto": "A administração de insulina e glicose está contraindicada pelo risco elevado de hipoglicemia."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q008-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000183790",
+   "codigo": "4000183790",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 9,
+   "temas": [
+    "Hipocalemia"
+   ],
+   "enunciado": "Paciente de 39 anos, portador de HIV, com CD4 de 120 cels/mm³ está internado na sua enfermaria com quadro de diarreia. Os últimos exames laboratoriais apontaram um potássio de 2,4 mmol/L. Sobre a hipocalemia desse paciente, assinale a alternativa",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Caso esse paciente não responda a reposição de potássio devemos considerar a possibilidade de existência de hipomagnesemia associada."
+    },
+    {
+     "letra": "B",
+     "texto": "O Déficit corporal total estimado de potássio desse paciente é em torno de 50 mEq."
+    },
+    {
+     "letra": "C",
+     "texto": "O paciente deve receber reposição oral de potássio com uso de Xarope de KCL a 20%, 20 ml a cada 6 horas."
+    },
+    {
+     "letra": "D",
+     "texto": "A solução de KCl a 19,1% apresenta uma concentração em torno de 50mEq por litro."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000183740",
+   "codigo": "4000183740",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 10,
+   "temas": [
+    "Manif estações clínicas da hipercalemia"
+   ],
+   "enunciado": "O potássio é o principal cátion intracelular do corpo e tem importante papel na manutenção da osmolaridade celular, no equilíbrio ácido-básico, na síntese de proteínas entre outras funções. A respeito dos distúrbios do potássio, assinale a alternativa",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "São causas de hipocalemia: uso de diuréticos, digitálicos, gluconato de cálcio, insulina e bicarbonato."
+    },
+    {
+     "letra": "B",
+     "texto": "A hipercalemia pode manifestar-se eletrocardiograficamente através de ondas T altas, apiculadas e simétricas, redução da amplitude das ondas P e alargamento do intervalo PR e do complexo QRS."
+    },
+    {
+     "letra": "C",
+     "texto": "A hipocalemia pode manifestar-se clinicamente com íleo paralítico, retenção urinária, letargia e eletrocardiograficamente com aparecimento de ondas U, elevação do segmento ST e redução da amplitude das ondas T."
+    },
+    {
+     "letra": "D",
+     "texto": "O tratamento da hipocalemia deve ser iniciado imediatamente por via venosa quando o nível sérico de potássio estiver abaixo de 3,5mEq/litro."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000183073",
+   "codigo": "4000183073",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 11,
+   "temas": [
+    "Manif estações clínicas da hipercalemia",
+    "Desviar o potássio para dentro das células"
+   ],
+   "enunciado": "Remover o potássio do organismo Paciente do sexo masculino, 34 anos, vítima de atropelamento em via pública, apresentando fratura de bacia e lesão tipo esmagamento de membro inferior direito com fraturas de fêmur e tíbia. Foi submetido a cirurgia ortopédica para xação da fratura de bacia e estabilização das fraturas, sendo hidratado com Ringer Lactato e transfundido 3 concentrados de hemácias. Evoluiu com insu ciência renal aguda no pós-operatório, sendo solicitado parecer do nefrologista. O paciente, porém, apresentou quadro de fraqueza muscular importante e dor torácica. À ausculta torácica, observamos ritmo cardíaco irregular (arritmia), sendo realizado um ECG que evidenciou onda T apiculada e bloqueio átrio-ventricular. Sobre o provável distúrbio eletrolítico deste paciente e sua condução, assinale a alternativa",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "No caso acima, é provável que a administração de enzimas de troca catiônica a nível intestinal seja mais efetiva que a hemodiálise no tratamento da urgência descrita acima."
+    },
+    {
+     "letra": "B",
+     "texto": "Podemos inferir que a intensa lise celular ocorrida associada a inadequada compensação hidroeletrolítica renal foram eventos que contribuíram para a descompensação cardíaca descrita."
+    },
+    {
+     "letra": "C",
+     "texto": "A medida clínica imediata para tratamento deste paciente inclui a administração endovenosa de gluconato de cálcio a 10%."
+    },
+    {
+     "letra": "D",
+     "texto": "A administração de solução polarizante composta por glicose hipertônica e insulina atua na correção rápida do distúrbio descrito acima."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000182760",
+   "codigo": "4000182760",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 12,
+   "temas": [
+    "Tratamento da hipercalemia",
+    "Nef rologia"
+   ],
+   "enunciado": "Em relação ao tratamento da hipercalemia grave, analisar os itens abaixo: I. A insulina promove a entrada do Potássio (K) na célula, corrigindo a hipercalemia. II. A administração de glicose hipertônica associada à insulina no tratamento da hipercalemia evita a hipoglicemia. III. A administração intravenosa de bicarbonato de sódio está indicada para evitar arritmia na hipercalemia. Estão CORRETOS:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Somente os itens I e II."
+    },
+    {
+     "letra": "B",
+     "texto": "Somente os itens II e III."
+    },
+    {
+     "letra": "C",
+     "texto": "Somente os itens I e III."
+    },
+    {
+     "letra": "D",
+     "texto": "Todos os itens."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000192868",
+   "codigo": "4000192868",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 13,
+   "temas": [
+    "Síndrome de Lise Tumoral SLT",
+    "Síndrome de lise tumoral SLT"
+   ],
+   "enunciado": "Paciente, em início de quimioterapia para linfoma não Hodgkin, apresenta náuseas, vômitos, cãibras, fraqueza muscular e redução do volume urinário. Qual(is) das seguintes alterações eletrocardiográ cas é (são) compatível (is) com a principal hipótese diagnóstica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Aumento do intervalo QT."
+    },
+    {
+     "letra": "B",
+     "texto": "Aumento de onda P e redução do intervalo PR."
+    },
+    {
+     "letra": "C",
+     "texto": "Infradesnivelamento de segmento ST e diminuição do intervalo QT."
+    },
+    {
+     "letra": "D",
+     "texto": "Inversão e achatamento de onda T."
+    },
+    {
+     "letra": "E",
+     "texto": "Supradesnivelamento de segmento ST e diminuição do intervalo QT."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000191165",
+   "codigo": "4000191165",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 14,
+   "temas": [
+    "Neuromusculares",
+    "Cardiovasculares",
+    "Diuréticos"
+   ],
+   "enunciado": "Paciente sexo masculino, 69 anos, deu entrada na emergência com fraqueza muscular intensa. Antecedente pessoal: furosemida 80 mg/dia. Exame físico: Peso 70 Kg, estatura 1,50m, FC= 64 bpm, PA= 112x68 mmHg, apresentando o ECG abaixo: Assinale o diagnóstico mais provável:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipocalcemia."
+    },
+    {
+     "letra": "B",
+     "texto": "Hipomagnesemia."
+    },
+    {
+     "letra": "C",
+     "texto": "Hipocalemia."
+    },
+    {
+     "letra": "D",
+     "texto": "Hipoglicemia."
+    },
+    {
+     "letra": "E",
+     "texto": "Hipofosfatemia."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q014-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000177576",
+   "codigo": "4000177576",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 15,
+   "temas": [
+    "Manif estações clínicas da hipercalemia",
+    "Perda da Capacidade de eliminação renal",
+    "Nef rologia"
+   ],
+   "enunciado": "Paciente feminina, 77 anos, após cistectomia radical, foi submetida à reconstrução urinária por meio de ureterojejunostomia externa. Após um mês do procedimento, vem apresentando fraqueza muscular. Ao exame físico, constatou-se que sua pressão arterial estava 108 x 77 mmHg e não havia edemas. Os resultados de seus exames foram os seguintes: creatinina sérica = 0,8 mg/dL; ureia = 120 mg/dL; sódio = 135 meq/L, calcemia normal. O resultado do eletrocardiograma está reproduzido abaixo. Com base nesse caso e considerando que ainda haja outros exames pendentes da primeira avaliação (potássio, magnésio e gasometria arterial), é mais provável evidenciar a associação de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "acidose metabólica e hipomagnesemia."
+    },
+    {
+     "letra": "B",
+     "texto": "alcalose metabólica e hiperpotassemia."
+    },
+    {
+     "letra": "C",
+     "texto": "acidose metabólica e hiperpotassemia."
+    },
+    {
+     "letra": "D",
+     "texto": "alcalose metabólica e hipocalemia."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q015-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000176012",
+   "codigo": "4000176012",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 16,
+   "temas": [
+    "Aldosterona",
+    "Mecanismos de controle do potássio",
+    "Insulina"
+   ],
+   "enunciado": "Sobre o balanço interno do potassio ( disturbios do cátion entre o intra e o extracelular), quais das seguintes a rmativas é falsa?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "insulina - pois esta promove a entrada do potássio para o interior da célula independente do nível da glicose"
+    },
+    {
+     "letra": "B",
+     "texto": "catecolaminas - pois diminui os níveis de potássio através dos receptores beta adrenérgicos"
+    },
+    {
+     "letra": "C",
+     "texto": "aldosterona - promove a secreção de potássio e a absorção de sódio , ao nível do túbulo contornado proximal"
+    },
+    {
+     "letra": "D",
+     "texto": "distúrbios hidroeletrolítico - em condições de acidose a entrada do potássio é dificultada, fazendo com que o íon se acumule no espaço extracelular"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000175874",
+   "codigo": "4000175874",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 17,
+   "temas": [
+    "Causas de Hipercalemia"
+   ],
+   "enunciado": "Uma senhora de 78 anos, com antecedentes de diabetes mellitus tipo 2, hipertensão arterial sistémica e dislipidemia procura atendimento com queixas de fraqueza muscular. Ela vem em uso de metformina de ação prolongada 2 g/dia, metoprolol 50 mg/dia, rosuvastatina 10 mg/dia e sulfametoxazol-trimetoprim 800-160 mg 2x ao dia há 7 dias para tratamento de infecção urinária. Ao exame físico: FC de 56 BPM, PA de 150 x 80mmHg, FR de 24 IRPM e Tax de 36,7ºC. Ritmo cardíaco regular em 3 tempos com 4ª bulha. Murmurio vesicular reduzido em bases de ambos os pulmões. Membros inferiores sem edema e sem sinais de trombose venosa. Exames complementares: Sódio 136 mEq/L, Potássio 7,6 mEq/L, Cloreto 108 mEq/L, Bicarbonato 18 mEq/L, Glicose 100 mg/dl; Uréia 50 mg/dl e creatinina 1,5 mg/dl (Clearence estimado pela fórmula CKD-EPI de 44 ml/minuto) Dentre as alternativas abaixo, assinale a que contém a causa da hipercalemia apresentada pela paciente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "insuficiencia Renal aguda;"
+    },
+    {
+     "letra": "B",
+     "texto": "insuficiencia Renal crônica;"
+    },
+    {
+     "letra": "C",
+     "texto": "hipercalemia medicamentosa pelo trimetoprim;"
+    },
+    {
+     "letra": "D",
+     "texto": "hipercalemia medicamentosa pelo"
+    },
+    {
+     "letra": "E",
+     "texto": "hipercalemia medicamentosa pelo metoprolol."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000175821",
+   "codigo": "4000175821",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 18,
+   "temas": [
+    "Tratamento da hipercalemia",
+    "Desviar o potássio para dentro das células"
+   ],
+   "enunciado": "Sobre o tratamento da hipercalemia relacionado a injúria renal aguda, marque a alternativa correta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Gluconato de cálcio sempre está indicado."
+    },
+    {
+     "letra": "B",
+     "texto": "Furosemida é uma droga muito usada nesse contexto pois redistribui o potássio no organismo."
+    },
+    {
+     "letra": "C",
+     "texto": "Pacientes com injúria renal aguda são proporcionalmente menos propensos a toxicidade da hipercalemia do que os portadores de insuficiência renal crônica."
+    },
+    {
+     "letra": "D",
+     "texto": "A infusão de glicose e insulina pode ajudar no tratamento da hipercalemia através do aumento da entrada de potássio no meio intracelular."
+    },
+    {
+     "letra": "E",
+     "texto": "nenhuma das respostas acima"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000175679",
+   "codigo": "4000175679",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 19,
+   "temas": [
+    "Gluconato de cálcio"
+   ],
+   "enunciado": "Lúcia, 45 anos, residente na Ilha do Marajó (PA), é trazida para internação hospitalar devido a sintomas urêmicos iniciados há dois dias após acidente ofídico crotálico, ocorrido durante atividade laboral. Na chegada, além de náuseas persistentes, notou-se redução do volume urinário. Os exames bioquímicos admissionais mostraram: ureia 126 mg/dL (VR: 10-45), creatinina 4,4 mg/dL (VR: 0,50-1,20), potássio 7,3 mmol/L (VR: 3,5-5,5) e sódio 134 mg/dL (VR: 135-145 mmol/L). O eletrocardiograma realizado apresentou: achatamento da onda P, o aumento do segmento PR e onda T apiculada (em tenda). A partir desses achados, a medida prioritária para estabilizar a membrana miocárdica, de forma a prevenir arritmias é a:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Sulfato de Magnésio."
+    },
+    {
+     "letra": "B",
+     "texto": "Bicarbonato de sódio."
+    },
+    {
+     "letra": "C",
+     "texto": "Gluconato de cálcio."
+    },
+    {
+     "letra": "D",
+     "texto": "Cloridrato de propafenona."
+    },
+    {
+     "letra": "E",
+     "texto": "Propranolol."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000175634",
+   "codigo": "4000175634",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 20,
+   "temas": [
+    "Manejo de sintomas"
+   ],
+   "enunciado": "Homem de 45 anos de idade em estágio 3 de doença renal crônica, tomando lisinopril para hipertensão arterial e insu ciência cardíaca com fração de ejeção reduzida. Vem a consulta de seguimento com edema pretibial e persistente discreta hipercalemia – 5,4 mEq/l (normal: 3,5-5,0), a despeito da dieta com restrição de potássio e em uso de 40 mg de furosemida uma vez ao dia. Sua creatina é de 1,5 mg/dl, seu nível basal é de 1,4 mg/dl (normal: 0,6-1,1). Qual dos seguintes passos seria mais apropriado no manejo da hipercalemia desse paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Trocar lisinopril por hidralazina."
+    },
+    {
+     "letra": "B",
+     "texto": "Aumentar a dose da furosemida."
+    },
+    {
+     "letra": "C",
+     "texto": "Iniciar poliestireno sulfonato de sódio."
+    },
+    {
+     "letra": "D",
+     "texto": "Trocar furosemida por clortalidona."
+    },
+    {
+     "letra": "E",
+     "texto": "Iniciar fludrocortisona."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169595",
+   "codigo": "4000169595",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 21,
+   "temas": [
+    "Causas de Hipocalemia",
+    "Furosemida",
+    "Diagnóstico da Hipocalemia"
+   ],
+   "enunciado": "Paciente do sexo masculino, 68 anos de idade, comparece ao ambulatório para acompanhamento de insu ciência cardíaca de etiologia isquêmica. Relata que perdeu seguimento devido à pandemia, e no momento encontra-se com dispneia para pentear o cabelo e escovar os dentes. Além disso, apresenta inchaço nas pernas e despertares noturnos por falta de ar. Nega febre ou sintomas de vias aéreas superiores, sendo que refere vacinação completa para COVID-19. Nega outras comorbidades. Está em uso de ácido acetilsalicílico, atorvastatina e furosemida. Ao exame clínico, apresenta pressão arterial de 110 x 70 mmHg, frequência cardíaca de 72 bpm, frequência respiratória de 16 ipm e saturação periférica de oxigênio de 94% em ar ambiente. Ausculta pulmonar com murmúrio vesicular preservado e estertores nos em bases. Seu ritmo cardíaco é regular e não apresenta sopros à ausculta. Apresenta também estase de veias jugulares a 45°, tempo de enchimento capilar < 3 segundos e edema de membros inferiores (3+/4+). Sem outras alterações. Apresenta ecocardiograma transtorácico que evidenciou fração de ejeção do ventrículo esquerdo de 38% e hipocinesia de parede anterior. Paciente retorna após seis meses de seguimento ambulatorial. Depois de sucessivos ajustes da s medicações, houve melhora substancial do quadro, sendo que mantém apenas sensação de fraqueza esporádica no momento. Os sinais vitais não têm alterações, sendo que o exame clínico evidenciou apenas edema de membros inferiores (+/4+). No momento, está em uso de ácido acetilsalicílico, atorvastatina, enalapril, carverdilol, espironolactona e furosemida. Realizado eletrocardiograma, cujo traçado pode ser visto na figura seguir: (Eletrocardiograma do paciente) Qual medicação está associada ao principal achado do eletrocardiograma?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Espironolactona"
+    },
+    {
+     "letra": "B",
+     "texto": "Enalapril"
+    },
+    {
+     "letra": "C",
+     "texto": "Carvedilol"
+    },
+    {
+     "letra": "D",
+     "texto": "Furosemida"
+    },
+    {
+     "letra": "E",
+     "texto": "Atorvastatina"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q021-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000168358",
+   "codigo": "4000168358",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 22,
+   "temas": [
+    "Absorção de potássio pelas células",
+    "Nef rologia"
+   ],
+   "enunciado": "Paciente de 39 anos foi internada para tratamento de complicações relacionadas a um linfoma. No prontuário, havia registro do peso da paciente (60 kg), da prescrição de soro siológico intravenoso a 0,9% (30 ml/hora) e uconazol para tratamento de candidíase sistêmica, além de um episódio de vômitos e câimbras no dia de hoje. Fez uso de lgrastima recentemente após o nadir da quimioterapia. Considerando o caso e os resultados dos exames abaixo, qual a principal causa para a hipotassemia?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hiper-hidratação e diurese excessiva."
+    },
+    {
+     "letra": "B",
+     "texto": "Recuperação medular."
+    },
+    {
+     "letra": "C",
+     "texto": "Uso de fluconazol."
+    },
+    {
+     "letra": "D",
+     "texto": "Perda de secreções pelo trato gastrointestinal."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q022-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000168200",
+   "codigo": "4000168200",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 23,
+   "temas": [
+    "Hemodiálise"
+   ],
+   "enunciado": "Um paciente de 70 anos, renal crônico em tratamento conservador (última creatinina = 4,8 mg/dl) foi submetido à cirurgia de urgência devido à diverticulite perfurada. No segundo dia de pós-operatório, desenvolveu oligúria e queixas de fraqueza muscular, embora estivesse com níveis pressóricos estáveis e sem sinais de níveis de infecção. Exames laboratoriais mostraram creatinina = 6,7 mg/dl e potássio = 7,5 mEq/l, ECG mostrava ondas T simétricas e apiculadas, com intervalo QRS discretamente alargado. Foram administrados, de imediato, gluconato de cálcio e solução de glicose e insulina. Qual a próxima medida a ser tomada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hemodiálise"
+    },
+    {
+     "letra": "B",
+     "texto": "Resinas de troca sônica"
+    },
+    {
+     "letra": "C",
+     "texto": "Bicarbonato de sódio."
+    },
+    {
+     "letra": "D",
+     "texto": "Furosemida"
+    },
+    {
+     "letra": "E",
+     "texto": "Expectante, monitorizando diariamente os níveis séricos de potássio"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000167771",
+   "codigo": "4000167771",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 24,
+   "temas": [
+    "Diarreia",
+    "Nef rologia"
+   ],
+   "enunciado": "Um paciente com 62 anos de idade apresenta alteração de hábito intestinal há um ano e perda ponderai de 15 kg em 2 meses. Nega ter realizado exames de rotina. No momento, apresenta diarreia intensa há 24 horas, com vários episódios de evacuações líquidas, associado a dor abdominal difusa. Ao exame físico, está desidratado, com FC = 115 bpm, FR =19 irpm, SatO2 = 97% e temperatura axilar = 37 °C. Considerando esse caso clínico e os conhecimentos médicos correlatos, julgue o item a seguir. O principal distúrbio hidroeletrolítico que o paciente pode apresentar no quadro de diarreia intensa é a alcalose metabólica hipopotassêmica.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000165634",
+   "codigo": "4000165634",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 26,
+   "temas": [
+    "Causas de alcalose respiratória",
+    "Tireotoxicose gestacional transitória"
+   ],
+   "enunciado": "Formas de reposição de potássio Mulher de 31 anos de idade, secundigesta, nulípara, chega ao pronto atendimento referindo náuseas e vômitos intensos (3 a 4 episódios por dia). Refere data da última menstruação em 23/09/2021. Portadora de distúrbio de ansiedade em uso de Sertralina 100 mg por dia, chegou bastante agitada. Ao exame clínico, paciente em regular estado geral, desidratada 2+/ 4+, PA 90x62 mmHg, FC 124 bpm, rítmico, Saturação 98%. Exame ginecológico mostrou conteúdo vaginal siológico, colo impérvio e útero compatível com a idade gestacional. Foram colhidos os seguintes exames: Hb 11,4 g/dl; Ht 34,2%, Leucócitos 10,66mil/mm³; Plaquetas 268 mil/mm³; TSH 0,02 UI/ml, T4 total 8,2 mcg/dl; TGO 19U/L; TGP 28U/L; Cr 0,51 mg/dl; U 15 mg/dl; Na 136 mEq/L; K 3,0 mEq/L; PCR 0,06 mg/L; gasometria venosa (pH 7,47; pO₂ 80,1 mmHg; pCO₂ 29,2 mmHg; HCO₃ 29,1 mmol/L; BE +10). Eletrocardiograma: Além da prescrição de antiemético e hidratação, qual é a prescrição mais adequada no pronto atendimento?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Reposição de bicarbonato endovenosa."
+    },
+    {
+     "letra": "B",
+     "texto": "Ofertar oxigênio em máscara aberta."
+    },
+    {
+     "letra": "C",
+     "texto": "Reposição de potássio endovenosa."
+    },
+    {
+     "letra": "D",
+     "texto": "Administrar diurético endovenoso."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q026-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000164844",
+   "codigo": "4000164844",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 27,
+   "temas": [
+    "Cardiovasculares",
+    "Diagnóstico da Hipocalemia"
+   ],
+   "enunciado": "O eletrocardiograma abaixo é compatível com qual distúrbio hidroeletrolítico? Fonte: https://www.medicinanet.com.br/conteudos/casos/2026/eletrocardiograma_39.htm.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipercalemia"
+    },
+    {
+     "letra": "B",
+     "texto": "Hipocalemia"
+    },
+    {
+     "letra": "C",
+     "texto": "Hiponatremia"
+    },
+    {
+     "letra": "D",
+     "texto": "Hipomagnesemia"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q027-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000164483",
+   "codigo": "4000164483",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 28,
+   "temas": [
+    "Causas de Hipercalemia",
+    "Nef rologia"
+   ],
+   "enunciado": "É causa de hiperpotassemia, EXCETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Uso de inibidor da enzima conversora da angiotensina."
+    },
+    {
+     "letra": "B",
+     "texto": "Acidose tubular renal tipo IV."
+    },
+    {
+     "letra": "C",
+     "texto": "Acidose tubular renal tipo II."
+    },
+    {
+     "letra": "D",
+     "texto": "Insuficiência adrenal."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000164098",
+   "codigo": "4000164098",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 29,
+   "temas": [
+    "Perda Renal",
+    "Nef rologia"
+   ],
+   "enunciado": "Menina de 6 anos é levada para atendimento, pois há cinco dias apresenta fraqueza muscular e câimbras em membros inferiores, evoluindo para incapacidade de deambular. Nega febre ou diarreia. Ao exame físico, está pouco comunicativa, apresenta diminuição da força muscular e dos reflexos profundos em membros inferiores. Sensibilidade dolorosa e tátil normais. Restante do exame físico sem alterações. A bioquímica do sangue coletada mostrou: Na = 138mEq/L; K = 2,0mEq/L; Cl = 120mEq/L; HCO₃ = 10mEq/L; ureia e creatinina normais. O EAS evidenciou Ph = 6, traços de proteína, sem piúria ou hematúria. Para corroborar a principal hipótese diagnóstica desse caso, deve-se complementar os exames com:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "colonoscopia"
+    },
+    {
+     "letra": "B",
+     "texto": "análise do líquor"
+    },
+    {
+     "letra": "C",
+     "texto": "dosagem de potássio urinário"
+    },
+    {
+     "letra": "D",
+     "texto": "ressonância de coluna vertebral"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000141013",
+   "codigo": "4000141013",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 30,
+   "temas": [
+    "Causas de Hipocalemia"
+   ],
+   "enunciado": "A hipocalemia aguda, devido à perda renal de potássio, e acompanhada de alcalose metabólica, deve ser, mais provavelmente, causada por:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "mineralocorticoides e aminoglicosídeos."
+    },
+    {
+     "letra": "B",
+     "texto": "ureterossigmoidostomia e diuréticos."
+    },
+    {
+     "letra": "C",
+     "texto": "diuréticos e mineralocorticoides."
+    },
+    {
+     "letra": "D",
+     "texto": "diarreia e mineralocorticoides."
+    },
+    {
+     "letra": "E",
+     "texto": "aminoglicosídeos e leucemia."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000124088",
+   "codigo": "4000124088",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 31,
+   "temas": [
+    "Tratamento da hipercalemia",
+    "Hipercalemia"
+   ],
+   "enunciado": "Paciente de 62 anos, diabético, hipertenso, em uso de losartana e glimepirida, comparece a consulta ambulatorial de rotina assintomático, apresentando os seguintes resultados no exame de sangue: ureia = 56mg/dL, creatinina = 1,8mg/dL, potássio = 6,3mEq/L. Tendo em vista esses resultados, a conduta mais adequada é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "iniciar furosemida, manter a losartana e retornar com novos exames em sete dias."
+    },
+    {
+     "letra": "B",
+     "texto": "infundir de solução de glicose com insulina na Emergência."
+    },
+    {
+     "letra": "C",
+     "texto": "suspender a losartana, iniciar dieta com restrição alimentos ricos em potássio e retornar em sete dias."
+    },
+    {
+     "letra": "D",
+     "texto": "suspender a losartana e solicitar ecodoppler de artérias renais."
+    },
+    {
+     "letra": "E",
+     "texto": "suspender a losartana e iniciar amilorida."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000088991",
+   "codigo": "4000088991",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 32,
+   "temas": [
+    "Tratamento da hipercalemia"
+   ],
+   "enunciado": "Paciente de 9 anos, sexo feminino, com diagnóstico de insu ciência renal crônica secundária à nefrite lúpica, chega à emergência com queixa de edema em mãos e pés e diminuição do débito urinário há 24h. Avaliação clínica e laboratorial inicial mostram eletrocardiogra a com onda P achatada e onda T apiculada, além de potássio sérico de 7,1mEq/L. Para reduzir os níveis séricos de potássio, a melhor opção de tratamento é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "vasopressina, na dose de 0,0001U/kg/min, por via intravenosa, associada à insulinoterapia"
+    },
+    {
+     "letra": "B",
+     "texto": "glicose 10%, na dose de 1 g/kg, por via intravenosa, associada à insulinoterapia"
+    },
+    {
+     "letra": "C",
+     "texto": "gluconato de cálcio 10%, na dose de 1ml/kg, por via intravenosa"
+    },
+    {
+     "letra": "D",
+     "texto": "ringer lactato, na dose de 20ml/kg, por via intravenosa"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000083001",
+   "codigo": "4000083001",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 33,
+   "temas": [
+    "Tratamento da hipercalemia",
+    "Hipercalemia"
+   ],
+   "enunciado": "Homem, 27 anos, internado na UTI por quadro de choque séptico secundário à pneumonia grave, evoluiu com necessidade de ventilação mecânica e doses altas de vasopressor, além de piora progressiva da função renal. Exames laboratoriais de controle evidenciaram, entre outras alterações, hipercalemia. Entre as alternativas abaixo, a que NÃO reduz os níveis séricos de potássio é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Poliestirenossulfonato de cálcio por via retal."
+    },
+    {
+     "letra": "B",
+     "texto": "Diurético de alça."
+    },
+    {
+     "letra": "C",
+     "texto": "Gluconato de cálcio."
+    },
+    {
+     "letra": "D",
+     "texto": "Salbutamol por via inalatória."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000075497",
+   "codigo": "4000075497",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 34,
+   "temas": [
+    "Distúrbios do potássio"
+   ],
+   "enunciado": "A respeito do tratamento dos distúrbios do potássio em pacientes adultos, assinale a alternativa CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Para pacientes com hipocalemia e necessidade do uso de diuréticos, podemos considerar o uso de amiloride."
+    },
+    {
+     "letra": "B",
+     "texto": "Dentre as medidas empregadas no tratamento da hipercalemia, a mais eficaz da redução dos níveis séricos de potássio é o uso de gluconato de cálcio."
+    },
+    {
+     "letra": "C",
+     "texto": "Um paciente com peso de 50 kg e com nível sérico de potássio de 2,0 mEq/dL apresenta um déficit corporal total de potássio de algo em torno de 50 mEq."
+    },
+    {
+     "letra": "D",
+     "texto": "Para pacientes com hipocalemia grave, com níveis séricos inferiores a 2 mEq/dL, a reposição deve ser realizada de modo rápido, com uma velocidade de 120mEq/ hora."
+    },
+    {
+     "letra": "E",
+     "texto": "Em casos de hipocalemia refrataria deve-se considerar a coexistência de hipocalcemia."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000073747",
+   "codigo": "4000073747",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 35,
+   "temas": [
+    "Resinas de troca"
+   ],
+   "enunciado": "Um senhor de 58 anos procura o setor de emergência com quadro de tosse produtiva, febre e dispneia com início há 7 dias e com piora há 24 horas. Ao exame apresenta-se confuso, hipocorado (2+/4+), desidratado (2+/4+), frequência cardíaca de 116 batimentos por minuto, frequência respiratória de 30 impulsos por minuto e pressão arterial de 88 x 40 mmHg. Os exames complementares realizados mostram raio x de tórax com in ltrado alveolar em lobo superior do pulmão direito, contagem de leucócitos de 25.000 c/ 20% de bastões, gasometria arterial com pH: 7,37, PaO2: 50, PaCO2: 27, HCO3: 16, SaO2: 88%, dosagem sérica de ureia de 80 mg/dl, creatinina de 2,0 mg/dl e lactato sérico de 4 mmol/l. Foram colhidas 2 amostras de sangue para culturas, seguido da administração IV de 1g de ceftriaxona, 500mg de Claritromicina e cerca de 30ml/kg de ringer-lactato. Sua pressão arterial manteve-se a mesma, assim como os níveis de lactato. O paciente da questão anterior acaba evoluindo para insu ciência renal aguda oligúrica com hipercalemia de 7,5 mEq/L. Realizadas medidas terapêuticas à base de gluconato de cálcio, beta2 agonista inalatório e glicoinsulinoterapia. O próximo passo na terapêutica visa aumentar a eliminação de potássio do organismo. Assinale a alternativa que contém duas medidas capazes de eliminar o potássio corporal:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Sevelamer e bicarbonato de sódio."
+    },
+    {
+     "letra": "B",
+     "texto": "Patiromer e sevelamer."
+    },
+    {
+     "letra": "C",
+     "texto": "Poliestireno sulfonato de sódio esevelamer."
+    },
+    {
+     "letra": "D",
+     "texto": "Poliestireno sulfonato de sódio e patiromer."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000041831",
+   "codigo": "4000041831",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 36,
+   "temas": [
+    "Tratamento da hipercalemia",
+    "Manif estações clínicas da hipercalemia"
+   ],
+   "enunciado": "Paciente, sexo feminino, diabética de longa data, portadora de doença renal crônica estágio cinco, realiza hemodiálise como terapia renal substitutiva. Após faltar sua última sessão de hemodiálise, é admitida em serviço de urgência com paresia dos membros inferiores. Foi solicitado eletrocardiograma. O achado eletrocardiográfico, o distúrbio hidroeletrolítico implicado e a conduta imediata, respectivamente são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "fibrilação atrial, hipercalemia, amiodarona."
+    },
+    {
+     "letra": "B",
+     "texto": "ritmo juncional, hiperfosfatemia, hemodiálise."
+    },
+    {
+     "letra": "C",
+     "texto": "onda t em tenda, hipercalemia, gluconato de cálcio."
+    },
+    {
+     "letra": "D",
+     "texto": "ritmo sinusal, hipocalemia, cloreto de potássio."
+    },
+    {
+     "letra": "E",
+     "texto": "taquicardia ventricular polimórfica, hipomagnesemia, sulfato de magnésio."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q036-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000036547",
+   "codigo": "4000036547",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 37,
+   "temas": [
+    "Distúrbios do potássio"
+   ],
+   "enunciado": "Em relação aos distúrbios de potássio, assinale a alternativa incorreta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipocalemia grave pode induzir arritmias e rabdomiólise."
+    },
+    {
+     "letra": "B",
+     "texto": "Onda T achatada e QRS estreito ao eletrocardiograma (ECG) sugerem hipercalemia."
+    },
+    {
+     "letra": "C",
+     "texto": "O gradiente de concentração transtubular de potássio (TTKG) é capaz de distinguir entre as perdas renais e as perdas não renais de potássio."
+    },
+    {
+     "letra": "D",
+     "texto": "A hipercalemia pode se desenvolver em pacientes que tomam inibidores da enzima conversora de angiotensina (IECA) e bloqueadores de receptores de angiotensina."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000033222",
+   "codigo": "4000033222",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 38,
+   "temas": [
+    "Tratamento da hipercalemia"
+   ],
+   "enunciado": "Está indicado no tratamento da hipercalemia com alargamento do QRS.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Solução de glicose + insulina."
+    },
+    {
+     "letra": "B",
+     "texto": "Bicarbonato de sódio."
+    },
+    {
+     "letra": "C",
+     "texto": "Gluconato de cálcio."
+    },
+    {
+     "letra": "D",
+     "texto": "Furosemida."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000002487",
+   "codigo": "4000002487",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 39,
+   "temas": [
+    "Causas de Hipocalemia"
+   ],
+   "enunciado": "Das causas abaixo, qual a mais comum de hipopotassemia?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hiperaldosteronismo primário"
+    },
+    {
+     "letra": "B",
+     "texto": "Hiperaldosteronismo secundário"
+    },
+    {
+     "letra": "C",
+     "texto": "Síndrome de Gitelman"
+    },
+    {
+     "letra": "D",
+     "texto": "Diarreia infecciosa"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000122794",
+   "codigo": "4000122794",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 40,
+   "temas": [
+    "Tratamento da hipercalemia"
+   ],
+   "enunciado": "Paciente, 78 anos de idade, encontra-se internado no hospital para tratamento quimioterápico de neoplasia gástrica avançada. Após receber a última infusão do esquema antineoplásico, o paciente vem apresentando quadro de náuseas, vômitos e hiporexia . Previamente hipertenso, diabético e portador de dor crônica, faz uso de metformina 850 mg. duas vezes ao dia, enalapril 20 mg de 12/12 horas e tramadol 100 mg de 6/6 horas. Os exames colhidos revelaram: creatinina sérica = 2,1 mg/dL; Uréia = 116 mg/dL; sódio = 146 mEq/L e potássio = 6,8 mEq/L. O eletrocardiograma é alterado pelo apiculamento e desproporção da onda T em relação ao QRS. Ao exame físico evidencia-se pressão arterial 96x55 mmHg, ausência de alterações na ausculta cardíaca e pulmonar, abdome globoso e hipertimpânico, com redução dos ruídos hidroaéreos e ausência de edema nos membros inferiores. Além da suspensão do enalapril, o manejo da hiperpotassemia desse paciente deverá incluir:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Poliestirenossulfonato de cálcio, gluconato de cálcio endovenoso, fludrocortisona e solução de glico-insulina."
+    },
+    {
+     "letra": "B",
+     "texto": "gluconato de cálcio endovenoso, poliestirenossulfonato de cálcio, solução de glico- insulina e furosemida."
+    },
+    {
+     "letra": "C",
+     "texto": "hemodiálise e bicarbonato de sódio."
+    },
+    {
+     "letra": "D",
+     "texto": "hemodiálise, gluconato de cálcio endovenoso, bicarbonato de sódio e solução de glico-insulina."
+    },
+    {
+     "letra": "E",
+     "texto": "gluconato de cálcio, hidratação endovenosa, solução de glico-insulina e inalação do beta-agonista."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000112700",
+   "codigo": "4000112700",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 41,
+   "temas": [
+    "Gluconato de cálcio",
+    "Distúrbios eletrolíticos"
+   ],
+   "enunciado": "Paciente do sexo feminino, 45 anos, internada por disfunção de cateter de hemodiálise, apresenta quadro de tonturas e desconforto torácico de início súbito enquanto descansava em seu leito. Ao exame físico, apresenta PA: 90 X 50 mmHg, FC: 40 bpm, SpO2: 91% com cateter nasal de O2, FR 22 ipm, ausculta cardíaca normal e ausculta pulmonar com discretos estertores crepitantes em bases. Com base nos dados ddo caso e do eletrocardiograma, conforme mostrado a seguir, qual a primeira droga seria indicada nesse caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Atropina."
+    },
+    {
+     "letra": "B",
+     "texto": "Gluconato de Cálcio."
+    },
+    {
+     "letra": "C",
+     "texto": "Furosemida."
+    },
+    {
+     "letra": "D",
+     "texto": "Bicarbonato de Sódio."
+    },
+    {
+     "letra": "E",
+     "texto": "Noradrenalina."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q041-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000105809",
+   "codigo": "4000105809",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 42,
+   "temas": [
+    "Tratamento da Hipocalemia",
+    "Diagnóstico da Hipocalemia"
+   ],
+   "enunciado": "Paciente, 7 anos, com diagnóstico recente de síndrome nefrítica, em uso domiciliar de furosemida e dieta hipossódica, deu entrada no pronto-socorro referindo desconforto torácico. O exame cardíaco demonstrou taquicardia (FC = 150 bpm) e o exame pulmonar estava normal. Colhidos exames iniciais: Na = 146 mEq/L; K = 2,3 mEq/L; P = 2,9 mmol/L; Hb = 10 g/dl e presença de onda U proeminente no ECG. A conduta inicial mais adequada para este caso é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Correção do sódio."
+    },
+    {
+     "letra": "B",
+     "texto": "Reposição de fósforo."
+    },
+    {
+     "letra": "C",
+     "texto": "Adicionar potássio ao soro de manutenção."
+    },
+    {
+     "letra": "D",
+     "texto": "Correção do deficit de água livre."
+    },
+    {
+     "letra": "E",
+     "texto": "Correção de potássio."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000100660",
+   "codigo": "4000100660",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 43,
+   "temas": [
+    "Gluconato de cálcio",
+    "Distúrbios eletrolíticos"
+   ],
+   "enunciado": "Mulher de 69 anos e portadora de Hipertensão Arterial, Diabetes tipo II com microangiopatia diabética instalada, chega à sala de emergência da Unidade de Pronto Atendimento com quadro de mal-estar inespecí co e queda do estado geral, com evolução de 2 horas. Apresenta o traçado eletrocardiográfico abaixo: A conduta imediata deve ser:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Gluconato de cálcio."
+    },
+    {
+     "letra": "B",
+     "texto": "Furosemida."
+    },
+    {
+     "letra": "C",
+     "texto": "Bicarbonato de sódio."
+    },
+    {
+     "letra": "D",
+     "texto": "Angioplastia primária."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q043-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000079289",
+   "codigo": "4000079289",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 44,
+   "temas": [
+    "Tratamento da hipercalemia"
+   ],
+   "enunciado": "Paciente, 78 anos de idade, encontra-se internado no HUOL para tratamento quimioterápico de neoplasia gástrica avançada. Após receber a última infusão do esquema antineoplásico, o paciente vem apresentando quadro de náuseas, vômitos e hiporexia. Previamente hipertenso, diabético e portador de dor crônica, faz uso de metformina 850 mg, duas vezes ao dia, enalapril 20 mg de 12/12 horas e tramadol 100 mg de 6/6 horas. Os exames colhidos revelaram: creatinina sérica = 2,1 mg/dL; Uréia = 116 mg/dL; sódio = 146 mEq/L e potássio = 6,8 mEq/L. O eletrocardiograma é alterado pelo apiculamento e desproporção da onda T em relação ao QRS. Ao exame físico, evidencia-se pressão arterial 96x55 mmHg, ausência de alterações na ausculta cardíaca e pulmonar, abdome globoso e hipertimpânico, com redução dos ruídos hidroaéreos e ausência de edema nos membros inferiores. Além da suspensão do enalapril, o manejo da hiperpotassemia desse paciente deverá incluir:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "poliestirenossulfonato de cálcio, gluconato de cálcio endovenoso, fludrocortisona e solução de glico-insulina."
+    },
+    {
+     "letra": "B",
+     "texto": "gluconato de cálcio endovenoso, poliestirenossulfonato de cálcio, solução de glico - insulina e furosemida."
+    },
+    {
+     "letra": "C",
+     "texto": "hemodiálise, gluconato de cálcio endovenoso, bicarbonato de sódio e solução de glico -insulina."
+    },
+    {
+     "letra": "D",
+     "texto": "gluconato de cálcio, hidratação endovenosa, solução de glico-insulina e inalação do beta- agonista."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000078580",
+   "codigo": "4000078580",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 45,
+   "temas": [
+    "Succinilcolina"
+   ],
+   "enunciado": "Mulher, 58 anos, com insu ciência renal crônica dialitica, necessita de intubação orotraqueal devido a edema pulmonar, potássio (K+) sérico mais recente: 6,5 mEq/L. Neste caso, o uso da succinilcolina:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Pode ser utilizado caso o eletrocardiograma (ECG) esteja normal."
+    },
+    {
+     "letra": "B",
+     "texto": "Deve ser utilizado para sequência rápida."
+    },
+    {
+     "letra": "C",
+     "texto": "É contraindicado."
+    },
+    {
+     "letra": "D",
+     "texto": "É seguro caso haja acidose."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000027775",
+   "codigo": "4000027775",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 46,
+   "temas": [
+    "Causas de Hipocalemia"
+   ],
+   "enunciado": "No contexto cirúrgico, são responsáveis pela Hipocalemia as seguintes condições, com exceção de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "administração excessiva de diuréticos"
+    },
+    {
+     "letra": "B",
+     "texto": "perdas gastrointestinais"
+    },
+    {
+     "letra": "C",
+     "texto": "acidose metabólica a sepse abdominal"
+    },
+    {
+     "letra": "D",
+     "texto": "hepatopatias crônicas"
+    },
+    {
+     "letra": "E",
+     "texto": "alcalose metabólica prolongada"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000017967",
+   "codigo": "4000017967",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 47,
+   "temas": [
+    "Gluconato de cálcio"
+   ],
+   "enunciado": "Paciente, 68 anos, sexo masculino, hipertenso, foi admitido no pronto-socorro com pneumonia grave. Nos exames admissionais, constavam creatinina = 1,8 mg/dl (VR: 0,7- 1,2); ureia = 157 mg/dl (VR: 10-50) e potássio = 7,2 mEq/L (VR: 3,5- 5,0). Foi, então, realizado eletrocardiograma, que evidenciou presença de onda T apiculada difusamente, encurtamento do intervalo QT e achatamento da onda P. LEGENDA: VR: Valor de Referência. Qual é o mecanismo de ação do primeiro medicamento a ser administrado nessa paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Estimular a caliurese."
+    },
+    {
+     "letra": "B",
+     "texto": "Estabilizar a membrana miocárdica."
+    },
+    {
+     "letra": "C",
+     "texto": "Trocar cálcio por potássio no trato gastrointestinal."
+    },
+    {
+     "letra": "D",
+     "texto": "Translocar potássio do meio extracelular para o intracelular."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000016532",
+   "codigo": "4000016532",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 48,
+   "temas": [
+    "Tratamento da hipercalemia"
+   ],
+   "enunciado": "Paciente de 60 anos, hipertenso e diabético, em uso de losartan 50 mg 12/12 horas iniciado recentemente pelo cardiologista, vem ao pronto-socorro com quadro de edema de membros inferiores e dispneia leve. Refere volume urinário > 2 L/24 horas. Na investigação laboratorial foi detectado creatinina 2 mg/dl, ureia 70 mg/dl, potássio 7,0 mEq/L. Qual seria a conduta mais CORRETA, referente a condução do caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hemodiálise de urgência."
+    },
+    {
+     "letra": "B",
+     "texto": "Gluconato de cálcio IV apenas se houver alteração eletrocardiográfica."
+    },
+    {
+     "letra": "C",
+     "texto": "Manter a medicação em uso e prescrever solução de glicose e insulina."
+    },
+    {
+     "letra": "D",
+     "texto": "Administração de bicarbonato de sódio 8,4% IV."
+    },
+    {
+     "letra": "E",
+     "texto": "Furosemida IV isoladamente."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000011672",
+   "codigo": "4000011672",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 49,
+   "temas": [
+    "Rabdomiólise",
+    "Liberação da carga de potássio do intracelular"
+   ],
+   "enunciado": "Paciente no terceiro pós-operatório de ponte aorto-bifemoral evoluiu com rabdomiólise, apresentou a seguinte alteração eletrocardiográfica. Qual distúrbio eletrolítico é mais provável?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipocalcemia."
+    },
+    {
+     "letra": "B",
+     "texto": "Hipocalemia."
+    },
+    {
+     "letra": "C",
+     "texto": "Hipercalemia."
+    },
+    {
+     "letra": "D",
+     "texto": "Hipercalcemia."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q049-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000010213",
+   "codigo": "4000010213",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 50,
+   "temas": [
+    "Manif estações clínicas da hipercalemia"
+   ],
+   "enunciado": "Paciente 58 anos, sexo masculino, diabético, hipertenso e portador de doença renal crônica estágio V, deu entrada na emergência com mal-estar e fraqueza muscular intensa. Foi colhido exames laboratoriais e realizado eletrocardiograma que apresentou achatamento da onda P, onda T apiculada e QRS alargado. De acordo com essas informações, qual o provável distúrbio hidroeletrolítico apresentado pelo paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipocalemia."
+    },
+    {
+     "letra": "B",
+     "texto": "Hiponatremia."
+    },
+    {
+     "letra": "C",
+     "texto": "Hipercalemia."
+    },
+    {
+     "letra": "D",
+     "texto": "Hipercalcemia."
+    },
+    {
+     "letra": "E",
+     "texto": "Hiperfosfatemia."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000005953",
+   "codigo": "4000005953",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 51,
+   "temas": [
+    "Tratamento da Hipocalemia"
+   ],
+   "enunciado": "Assinale a alternativa que apresenta o tratamento CORRETO para um paciente de 12 anos, que apresenta íleo paralítico e ECG com onda U proeminente e inversão de onda T.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Resina de troca de potássio (sorcal)."
+    },
+    {
+     "letra": "B",
+     "texto": "Solução polarizante + salbutamol."
+    },
+    {
+     "letra": "C",
+     "texto": "Correção de sódio com NaCl 20% 5 meq/K cal/hora."
+    },
+    {
+     "letra": "D",
+     "texto": "Correção de potássio com cloreto de potássio 19,1% endovenoso."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000128232",
+   "codigo": "4000128232",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 52,
+   "temas": [
+    "Tratamento da hipercalemia",
+    "Glicoinsulina"
+   ],
+   "enunciado": "Em relação às alterações do potássio no organismo, assinale alternativa ERRADA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A administração venosa de cálcio pode reduzir imediatamente o risco de arritmia cardíaca ocasionada pela hipercalemia"
+    },
+    {
+     "letra": "B",
+     "texto": "A hipomagnesemia pode determinar hipocalemia refratária"
+    },
+    {
+     "letra": "C",
+     "texto": "A infusão de insulina e glicose diminui rápida e drasticamente o potássio corporal total"
+    },
+    {
+     "letra": "D",
+     "texto": "Ondas T mais altas que ondas R indicam hipercalemia grave"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000127534",
+   "codigo": "4000127534",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 53,
+   "temas": [
+    "Tratamento da Hipocalemia"
+   ],
+   "enunciado": "Paciente de 11 meses com defeito septo interventricular (CIV), em uso domiciliar de furosemida e seguimento com cardiologista, deu entrada no pronto-socorro taquipneico e taquicárdico, FC: 182 bpm, Na: 136 mEq/L; K: 2,7 mEq/L; P: 2,9 mmol/L; Hb: 9,5 g/dL e presença de onda U proeminente no ECG. A conduta inicial adequada é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "corrigir rapidamente P."
+    },
+    {
+     "letra": "B",
+     "texto": "iniciar soro de manutenção para reposição de K."
+    },
+    {
+     "letra": "C",
+     "texto": "corrigir rapidamente o K."
+    },
+    {
+     "letra": "D",
+     "texto": "iniciar soro de manutenção com P e K."
+    },
+    {
+     "letra": "E",
+     "texto": "fazer dose extra de furosemida."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000117876",
+   "codigo": "4000117876",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 54,
+   "temas": [
+    "Tratamento da hipercalemia",
+    "Desviar o potássio para dentro das células",
+    "Proteção cardíaca"
+   ],
+   "enunciado": "Um paciente, após o tratamento inicial, apresenta controle dos sintomas. Está calmo e sem novo episódio de crise convulsiva. Os exames laboratoriais solicitados anteriormente revelaram: Hb de 12 g/dl; Ht de 39%; leucócitos de 8.500 mm³; plaquetas de 145.000 mm³; ureia de 97 mg/dl; creatinina de 1,7 mg/dl; sódio de 149 mEq/L; potássio de 7 mEq/L; e CPK de 5.500 U/L. Foi realizado também o ECG mostrado abaixo. Considerando essa situação hipotética, assinale a alternativa que apresenta a conduta imediata CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hidratação, bicarbonato de sódio e manitol."
+    },
+    {
+     "letra": "B",
+     "texto": "Hemodiálise."
+    },
+    {
+     "letra": "C",
+     "texto": "Gluconato de cálcio, inalação com beta-2-agonista e furosemida."
+    },
+    {
+     "letra": "D",
+     "texto": "inalação com beta-2-agonista, furosemida, solução de glicoinsulina epoliestirenossulfonato de cálcio (sorcal®)."
+    },
+    {
+     "letra": "E",
+     "texto": "Gluconato de cálcio, inalação com beta-2-agonista, solução de glicoinsulina e hidratação."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [
+    {
+     "arquivo": "imagens/q054-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000075056",
+   "codigo": "4000075056",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 55,
+   "temas": [
+    "Causas de Hipocalemia"
+   ],
+   "enunciado": "Entre os distúrbios hidreletrolíticos no pós-operatório do paciente em UTI, à hipocalemia é mais frequentemente associada com",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "hipocalcemia."
+    },
+    {
+     "letra": "B",
+     "texto": "hiponatremia."
+    },
+    {
+     "letra": "C",
+     "texto": "hipomagnesemia."
+    },
+    {
+     "letra": "D",
+     "texto": "hipocloremia."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000066190",
+   "codigo": "4000066190",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 56,
+   "temas": [
+    "Tratamento da hipercalemia",
+    "Gluconato de cálcio",
+    "Proteção cardíaca"
+   ],
+   "enunciado": "Paciente com insu ciência cardíaca e fração de ejeção reduzida é submetido à hemicolectomia esquerda devido a um adenocarcinoma. No segundo dia de pós- operatório, apresenta vômitos alimentares e distensão abdominal. O exame físico mostra paciente hipocorado 1+/4+, mucosas hidratadas, crepitações em bases pulmonares, edema periférico 2+/4+ e distensão abdominal moderada, com fezes em ampola retal e ausência de descompressão dolorosa. PA = 90 x 60 mmHg; FC = 90 bpm e FR 20 = irpm. Houve diurese de 1.200 ml nas últimas 24h. Exames laboratoriais mostram hemoglobina = 8,5 g/dl; leucometria = 12.000 cél/mm³ (5% bastões e 70% neutró los); plaquetas = 500 mil/mm³; ureia = 190 mg/dl; creatinina = 4,8 mg/dl; sódio = 128 mEq/L e potássio = 6,5 mEq/L. Em relação aos distúrbios hidroeletrolíticos, assinale a a rmativa CORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Deve-se realizar reposição de sódio com solução salina hipertônica a 3%, a fim de evitar congestão sistêmica."
+    },
+    {
+     "letra": "B",
+     "texto": "Há indicação de hemodiálise imediata."
+    },
+    {
+     "letra": "C",
+     "texto": "Iniciar o bicarbonato de sódio, pois é uma opção melhor que a glicoinsulinoterapia."
+    },
+    {
+     "letra": "D",
+     "texto": "Administrar furosemida em dose alta, que corrige tanto o distúrbio do sódio como do potássio."
+    },
+    {
+     "letra": "E",
+     "texto": "Deve ser iniciado gluconato de cálcio e glicoinsulinoterapia."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000064478",
+   "codigo": "4000064478",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 57,
+   "temas": [
+    "Manif estações clínicas da hipercalemia"
+   ],
+   "enunciado": "Paciente sexo masculino, portador de IRC em hemodiálise admitido na emergência com fraqueza muscular, parestesias e diminuição de reflexos. ECG na admissão evidenciou onda T apiculada, plolongamento do intervalo PR, alargamento do intervalo QRS e achatamento de onda P. Exames laboratoriais em andamento. Qual o diagnóstico?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "hiperpotassemia"
+    },
+    {
+     "letra": "B",
+     "texto": "hipopotassemia"
+    },
+    {
+     "letra": "C",
+     "texto": "hiponatremia"
+    },
+    {
+     "letra": "D",
+     "texto": "hipercalcemia"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000045058",
+   "codigo": "4000045058",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 58,
+   "temas": [
+    "Manif estações clínicas"
+   ],
+   "enunciado": "É manifestação de hipopotassemia:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Íleo adinâmico."
+    },
+    {
+     "letra": "B",
+     "texto": "Supra-desnivelamento do segmento ST nas precordiais direitas."
+    },
+    {
+     "letra": "C",
+     "texto": "Aumento da taxa de filtração glomerular."
+    },
+    {
+     "letra": "D",
+     "texto": "Acidose metabólica."
+    },
+    {
+     "letra": "E",
+     "texto": "Insuficiência renal não oligúrica."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000043436",
+   "codigo": "4000043436",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 59,
+   "temas": [
+    "Tratamento da hipercalemia",
+    "Hipercalemia"
+   ],
+   "enunciado": "Um paciente de 70 anos, renal crônico em tratamento conservador (última creatinina = 4,8 mg/dl) foi submetido à cirurgia de urgência devido à diverticulite perfurada. No segundo dia de pós-operatório, desenvolveu oligúria e queixas de fraqueza muscular, embora estivesse com níveis pressóricos estáveis e sem sinais de níveis de infecção. Exames laboratoriais mostraram creatinina = 6,7 mg/dl e potássio 7,5 mEq/l, ECG mostrava ondas T simétricas e apiculadas, com intervalo QRS discretamente alargado. Foram administrados, de imediato, gluconato de cálcio e solução de glicose e insulina. Qual a próxima medida a ser tomada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hemodiálise"
+    },
+    {
+     "letra": "B",
+     "texto": "Resinas de troca sônica"
+    },
+    {
+     "letra": "C",
+     "texto": "Bicarbonato de sódio"
+    },
+    {
+     "letra": "D",
+     "texto": "Furosemida"
+    },
+    {
+     "letra": "E",
+     "texto": "Expectante, monitorizando diariamente os níveis séricos de potássio"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000039055",
+   "codigo": "4000039055",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 60,
+   "temas": [
+    "Causas de Hipocalemia"
+   ],
+   "enunciado": "Homem, 50 anos, hipertenso e diabético, em uso prévio de clortalidona, enalapril, ácido acetil salicílico e metformina, admitido com quadro de vômitos, diarréia e febre há 3 dias. Ao exame apresenta-se desidratado, hipotenso, FC de 120 bpm, FR 30 irpm e abdome dolorido. Exames de urgência com creatina de 3,0 mg/dL, ureia a 150 mg/dL, sódio 128 mmol/L, potássio 2,6 mmol/L, ph 7,55, HCO3 32 mEq/L, PaCO 235 mmHg, PO 2 60 mmHg, SatO 290 em ar ambiente. Diante desse caso, quais as possíveis causas da hipocalemia?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Uso de tiazídico, diarreia e vômitos levando a alcalose metabólica;"
+    },
+    {
+     "letra": "B",
+     "texto": "Lesão renal aguda, diarréia, uso de metformina e enalapril;"
+    },
+    {
+     "letra": "C",
+     "texto": "Uso de inibidor de enzima conversora de angiotensina(IECA), alcalose metabólica e diarreia;"
+    },
+    {
+     "letra": "D",
+     "texto": "Uremia, alcalose respiratória, uso de tiazidico e de metformina."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000036157",
+   "codigo": "4000036157",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 61,
+   "temas": [
+    "Manif estações clínicas",
+    "Perda gastrointestinal",
+    "Diagnóstico da Hipocalemia"
+   ],
+   "enunciado": "Homem é admitido em pronto socorro com quadro de vômitos e diarreia há cerca de 5 dias. Antecedente recente de ingesta alimentar duvidosa. Nega febre, refere múltiplas evacuações aquosas e vômitos, ambos sem muco ou sangue. A alteração eletrolítica e eletrocardiográfica mais esperada é, respectivamente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipocalemia e onda U."
+    },
+    {
+     "letra": "B",
+     "texto": "Hipercalemia e onda T apiculada."
+    },
+    {
+     "letra": "C",
+     "texto": "Hiponatremia e onda de Osborn."
+    },
+    {
+     "letra": "D",
+     "texto": "Hipernatremia e intervalo QT prolongado."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000029685",
+   "codigo": "4000029685",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 62,
+   "temas": [
+    "Tratamento da Hipocalemia",
+    "Hipocalemia grave"
+   ],
+   "enunciado": "Criança com 2 anos de idade, em pós-operatório imediato de cirurgia para correção de Comunicação Interventricular, tendo sido submetida a 120 minutos de circulação extracorpórea, apresenta os seguintes resultados de exames laboratoriais: K: 2,0mmol/L; Na: 134mmol/L; HCO3-: 13mmol/L; Ca Iônico: 0,8mmol/L. Qual a correção MAIS URGENTE nesse caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ca++"
+    },
+    {
+     "letra": "B",
+     "texto": "K+"
+    },
+    {
+     "letra": "C",
+     "texto": "HCO3-"
+    },
+    {
+     "letra": "D",
+     "texto": "Na+"
+    },
+    {
+     "letra": "E",
+     "texto": "Tanto faz, as correções podem acontecer ao mesmo tempo sem risco adicional para o paciente."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000029375",
+   "codigo": "4000029375",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 63,
+   "temas": [
+    "Resinas de troca"
+   ],
+   "enunciado": "Entre as medidas usadas no tratamento da hipercalemia, assinale a que NÃO tem como objetivo a troca de compartimento do potássio e nem a estabilização de membrana.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Gluconato de cálcio a 10% -10 a 20mL + SF0,9%100mL EV"
+    },
+    {
+     "letra": "B",
+     "texto": "Resina de troca"
+    },
+    {
+     "letra": "C",
+     "texto": "Solução polarizante - insulina regular 10UI + glicose a 50% 100mL EV"
+    },
+    {
+     "letra": "D",
+     "texto": "Beta 2 adrenérgico"
+    },
+    {
+     "letra": "E",
+     "texto": "Bicarbonato de sódio a 8,4% 1meq/kg"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000028638",
+   "codigo": "4000028638",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 64,
+   "temas": [
+    "Manif estações clínicas da hipercalemia",
+    "Causas de Hipercalemia"
+   ],
+   "enunciado": "Observe o ECG abaixo: Os achados nesse ECG podem estar presentes em pacientes com qual das situações clínicas abaixo?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Infusão rápida de insulina IV."
+    },
+    {
+     "letra": "B",
+     "texto": "Síndrome de Gitelman."
+    },
+    {
+     "letra": "C",
+     "texto": "Nefropatia diabética."
+    },
+    {
+     "letra": "D",
+     "texto": "Doença de Cushing."
+    },
+    {
+     "letra": "E",
+     "texto": "Síndrome de Fanconi."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q064-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000020575",
+   "codigo": "4000020575",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 65,
+   "temas": [
+    "Desviar o potássio para dentro das células",
+    "Glicoinsulina"
+   ],
+   "enunciado": "Paciente de 13 anos, previamente hígido, chega a emergência com histórico de três dias de febre, adinamia e mialgia intensa e generalizada. Ao exame, encontra-se em regular estado geral, acianótico, pálido, anictérico, afebril, eupneico, com boa perfusão periférica e pulsos cheios. Aparelhos cardiovasculares e respiratórios sem alterações; abdome doloroso à palpação super cial e profunda, RHA +; dor à palpação da musculatura esquelética; sem sinais meníngeos; oroscopia com hiperemia e aumento de tonsilas palatinas, sem placas. Seus exames laboratoriais são potássio de 7 mEq/l e gasometria com pH igual a 7,39. Já foi realizado gluconato de cálcio para estabilizar as bras miocárdicas, na sequência, para dar continuidade ao tratamento da hiperpotassemia, decide-se utilizar medicamentos que promovam a entrada de potássio na célula, aumentando sua concentração intracelular, tais como:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Sorcal e Insulina Simples."
+    },
+    {
+     "letra": "B",
+     "texto": "Bicarbonato de Sódio e Furosemida."
+    },
+    {
+     "letra": "C",
+     "texto": "Furosemida e Nitroprussiato De Sódio."
+    },
+    {
+     "letra": "D",
+     "texto": "Insulina Simples e Salbutamol."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000020544",
+   "codigo": "4000020544",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 66,
+   "temas": [
+    "Distúrbios do potássio"
+   ],
+   "enunciado": "Sobre os Distúrbios do Potássio, é correto afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A hiperpotassemia pode ser causada pela administração de antagonistas de receptor mineralocorticoide e beta- adrenérgicos."
+    },
+    {
+     "letra": "B",
+     "texto": "Na hipercalemia, observa-se aumento de amplitude das ondas P e U, no eletrocardiograma."
+    },
+    {
+     "letra": "C",
+     "texto": "Redistribuição para o espaço intracelular, acidose e estado anabólicos podem causar hipocalemia."
+    },
+    {
+     "letra": "D",
+     "texto": "A hiperpotassemia despolariza a membrana celular do miocárdio, torna mais lenta a condução ventricular e reduz a duração do potencial de ação. ida oib pr ed"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000018746",
+   "codigo": "4000018746",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 67,
+   "temas": [
+    "Hiperaldosteronismo",
+    "Hiperaldosteronismo primário",
+    "Hiperaldosteronismo"
+   ],
+   "enunciado": "Paciente do sexo masculino, 64 anos, hipertenso e diabético de longa data, PO tardio de revascularização miocárdica, miocardiopatia isquêmica com fração de ejeção discretamente reduzida, insu ciência renal crônica ainda sem terapia dialítica e proteinúria de 6 g em 24h. Faz uso de losartan 100 mg/dia, bisoprolol 10 mg/dia, AAS 100 mg dia, furosemida 40 mg/dia, rosuvastatina 20 mg/dia, mononitrato de isossorbida 40 mg/dia, trimetazidina 70 mg/dia e reposição oral de potássio. Internado no CTI por piora da dispneia com BNP bastante elevado; Creatina = 3,6; Ureia = 190; alcalose metabólica e potássio = 2,1.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Sem dúvidas essa dosagem de potássio está errada, deve ser repetida, afinal não é possível haver hipocalemia em um paciente com insuficiência renal, usando losartan e betabloqueador."
+    },
+    {
+     "letra": "B",
+     "texto": "É um quadro clássico de hipoaldosteronismo hiporreninêmico, evidenciado claramente pela alcalose metabólica e pela hipocalemia."
+    },
+    {
+     "letra": "C",
+     "texto": "Inicialmente poderia até se pensar em atribuir a hipocalemia ao uso da furosemida, mas a presença de alcalose metabólica afasta definitivamente essa possibilidade."
+    },
+    {
+     "letra": "D",
+     "texto": "É um possível caso de hiperaldosteronismo primário associado aos problemas já existentes, onde uma elevada atividade da renina plasmática e níveis elevados de aldosterona plasmática auxiliam na confirmação do diagnóstico. Além disso, um exame de imagem das supra-renais é fundamental."
+    },
+    {
+     "letra": "E",
+     "texto": "É um possível caso de hiperaldosteronismo primário associado aos problemas já existentes, onde uma atividade da renina plasmática bastante reduzida e níveis elevados de aldosterona plasmática auxiliam na confirmação do diagnóstico. Além disso, um exame de imagem das supra-renais é fundamental."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000010911",
+   "codigo": "4000010911",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 68,
+   "temas": [
+    "Manif estações clínicas da hipercalemia"
+   ],
+   "enunciado": "Durante avaliação de paciente com insu ciência renal crônica, foi suspeitado de hiperpotassemia, sendo que o ECG pode diagnosticar essa situação. Um dos itens se mostra INCORRETO quanto a descrição dos achados. Assinale-o:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "As alterações dependem dos níveis séricos do potássio e as alterações ocorrem sequencialmente."
+    },
+    {
+     "letra": "B",
+     "texto": "Onda T de grande amplitude, simétrica e de base alargada."
+    },
+    {
+     "letra": "C",
+     "texto": "Redução do intervalo QTc."
+    },
+    {
+     "letra": "D",
+     "texto": "Distúrbio de condução intraventricular (QRS alargado)."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000008395",
+   "codigo": "4000008395",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 69,
+   "temas": [
+    "Manif estações clínicas da hipercalemia",
+    "Hipercalemia",
+    "Hipocalemia"
+   ],
+   "enunciado": "Levando-se em consideração os distúrbios do potássio, assinale a afirmativa CORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A presença de ECG com aumento de amplitude da onda U indica um potássio sérico maior que 6,0 mEq/L."
+    },
+    {
+     "letra": "B",
+     "texto": "A presença de onda T apiculada e o encurtamento do intervalo QT indica um potássio sérico entre 5,5-6,5 mEq/L."
+    },
+    {
+     "letra": "C",
+     "texto": "O emprego de salbutamol se faz somente por via endovenosa."
+    },
+    {
+     "letra": "D",
+     "texto": "A sintomatologia da hipocalemia é precoce e surge com níveis de potássio sérico menores que 3,0 mEq/L."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000004929",
+   "codigo": "4000004929",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 70,
+   "temas": [
+    "Hipocalemia",
+    "Causas de Hipocalemia"
+   ],
+   "enunciado": "O potássio é o principal íon intracelular, e o sódio o principal íon extracelular. Com base nessas informações, assinale a alternativa INCORRETA em relação à Hipocalemia:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Paralisia flácida com comprometimento respiratório pode ocorrer quando potássio está abaixo de 2 mmol/L."
+    },
+    {
+     "letra": "B",
+     "texto": "Hipermagnesemia pode ser a causa de hipocalemia refratária."
+    },
+    {
+     "letra": "C",
+     "texto": "No eletrocardiograma pode ocorrer depressão de onda T e ondas U."
+    },
+    {
+     "letra": "D",
+     "texto": "Sintomas clínicos são fadiga, fraqueza e íleo."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000108031",
+   "codigo": "4000108031",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 71,
+   "temas": [
+    "Inibidores do sistema reninaangiotensinaaldosterona",
+    "Drogas"
+   ],
+   "enunciado": "Qual desses medicamentos não deve ser utilizado em paciente com insuficiência renal aguda e hipercalemia?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Furosemida."
+    },
+    {
+     "letra": "B",
+     "texto": "Poliestirenosulfonato de cálcio."
+    },
+    {
+     "letra": "C",
+     "texto": "Enalapril."
+    },
+    {
+     "letra": "D",
+     "texto": "Ácido acetilsalicílico."
+    },
+    {
+     "letra": "E",
+     "texto": "Dexametasona."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000084862",
+   "codigo": "4000084862",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 73,
+   "temas": [
+    "Causas de Hipocalemia"
+   ],
+   "enunciado": "São causas de hipopotassemia, EXCETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Doença de Addison."
+    },
+    {
+     "letra": "B",
+     "texto": "Síndrome de Bartter."
+    },
+    {
+     "letra": "C",
+     "texto": "Síndrome de Gitelman."
+    },
+    {
+     "letra": "D",
+     "texto": "Leptospirose."
+    },
+    {
+     "letra": "E",
+     "texto": "Síndrome de Liddle."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000081254",
+   "codigo": "4000081254",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 74,
+   "temas": [
+    "Tratamento da hipercalemia",
+    "Manif estações clínicas da hipercalemia"
+   ],
+   "enunciado": "O senhor Antônio tem cirrose hepática e faz uso de espironolactona. Passou a sentir desconforto torácico e palpitações. O residente que o acompanha decidiu solicitar um elocardiograma, representado abaixo, que mostra ausência de onda P q onda T apiculada. O provável distúrbio encontrado no sr. Antônio, bem como a conduta mais adequada são, respectivamente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hiperfosfatemia e hemodiálise"
+    },
+    {
+     "letra": "B",
+     "texto": "Hipomagnesemia e gluconato de cálcio"
+    },
+    {
+     "letra": "C",
+     "texto": "Hiperpotassemia e solução de glicoinsulinia"
+    },
+    {
+     "letra": "D",
+     "texto": "Hipopotassemia e furosemida"
+    },
+    {
+     "letra": "E",
+     "texto": "Acidose metabólica e bicarbonato de sódio Modificado de Cecil tratado de Medicina Interna, 23a edição"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q074-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000050441",
+   "codigo": "4000050441",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 75,
+   "temas": [
+    "Distúrbios do potássio"
+   ],
+   "enunciado": "Os distúrbios do metabolismo do potássio são muito frequentes na prática clínica diária. Sobre estas situações clínicas, assinale a alternativa ERRADA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Dentre as causas de hiperpotassemia, temos o uso de medicamentos como o fenoterol, insulina, reposição de vitamina B12, além de alcalose metabólica e situações clínicas, como a síndrome de Cushing e tireotoxicose."
+    },
+    {
+     "letra": "B",
+     "texto": "Como causas de hipopotassemia, temos perdas pelo trato gastrointestinal, diarreias, preparo de colonoscopia, pólipos secretores, vipomas, náuseas e vômitos."
+    },
+    {
+     "letra": "C",
+     "texto": "Os achados clínicos de hipopotassemia são fraqueza generalizada, íleo paralítico, distúrbios do ritmo cardíaco, como alterações eletrocardiográficas como o aparecimento de onda U, achatamento da onda T, depressão do segmento ST, arritmias, atividade elétrica sem pulso e assistolia."
+    },
+    {
+     "letra": "D",
+     "texto": "O gluconato de cálcio a 10% é indicado quando temos quaisquer alterações eletrocardiográficas compatíveis com hiperpotassemia, independentemente do nível sérico de potássio, não devendo, porém, ser usado de maneira profilática."
+    },
+    {
+     "letra": "E",
+     "texto": "Outras situações que podem causar hiperpotassemia são o uso de anti-inflamatórios não esteroides, antagonistas dos receptores da angiotensina II, diuréticos como a amilorida de espironolactona, inibidores de ECA, além de outras medicações como ciclosporina pentamidina, ou trimetoprima em altas doses."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000026021",
+   "codigo": "4000026021",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 76,
+   "temas": [
+    "Tratamento da hipercalemia"
+   ],
+   "enunciado": "Paciente, 75 anos, portador de insu ciência renal em acompanhamento ambulatorial, é admitido no Hospital Evangélico e já na emergência é vítima de Parada Cardiorrespiratória (PCR) sendo prontamente reanimado pela equipe SAVI. São prontamente iniciados os cuidados pós-ressuscitação onde são achados os seguintes exames: ECG: ritmo sinusal. Ondas T apiculadas. Ureia = 349; creatinina = 10; K = 8,2; Ph = 7,1; bicarbonato = 8; glicose = 380. No manejo desse paciente é INCORRETO afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A administração de insulina venosa, além do controle glicêmico, deve contribuir para a redução parcial da calemia"
+    },
+    {
+     "letra": "B",
+     "texto": "O gluconato de cálcio deve ser administrado, apesar de não reduzir a calemia"
+    },
+    {
+     "letra": "C",
+     "texto": "A furosemida será provavelmente pouco útil, em virtude da avançada disfunção renal"
+    },
+    {
+     "letra": "D",
+     "texto": "O bicarbonato é contraindicado nesse caso, pois, em pacientes pós-PCR e com acidose metabólica, pode corrigir a acidose mas agravar a hipercalemia"
+    },
+    {
+     "letra": "E",
+     "texto": "Após as medidas iniciais de controle emergencial da hipercalemia, uma hemodiálise de urgência deve ser tentada assim que possível"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000015070",
+   "codigo": "4000015070",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 77,
+   "temas": [
+    "Causas de Hipercalemia"
+   ],
+   "enunciado": "Assinale a alternativa que não representa causa de hipercalemia.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Uso de inibidores da enzima conversora de angiotensinas."
+    },
+    {
+     "letra": "B",
+     "texto": "Síndorme neuroléptica maligna."
+    },
+    {
+     "letra": "C",
+     "texto": "Insuficiência renal terminal."
+    },
+    {
+     "letra": "D",
+     "texto": "Hiperaldosteronismo."
+    },
+    {
+     "letra": "E",
+     "texto": "Hemólise."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000126887",
+   "codigo": "4000126887",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 78,
+   "temas": [
+    "Manif estações clínicas da hipercalemia",
+    "Diálise de urgência",
+    "Hipercalemia"
+   ],
+   "enunciado": "Uma mulher com 38 anos de idade deu entrada em uma Unidade de Emegência apresentando dispneia e dor torácica. O quadro teve início 5 dias antes com tosse seca, dor torácica à direita e febre alta. No dia seguinte ao início do quadro, ela procurou assistência médica tendo-lhe sido prescrito tratamento com levo oxacina para pneumonia bacteriana comunitária. A paciente relatou evolução com manutenção do quadro febril e das demais queixas; posteriormente, passou também a se sentir cansada, dispneica e com dor precordial tipo pleurítica. Como não viu melhora no quadro, procurou a Unidade de Emergência onde se encontra no momento. No primeiro atendimento na Unidade de emergência, a paciente negou tabagismo, etilismo, e uso de drogas ilícitas. Sua história patológica pregressa revela apenas cistites de repetição com último episódio há 2 meses, sempre tratadas com quinolona por via oral. Ao exame físico, apresentou pressão arterial = 85 x 40 mmHg; frequência cardíaca = 120 bpm; frequência respiratória = 28 irpm; temperatura = 38,7 °C; exame pulmonar compatível com condensação lobar à direita. Foi iniciada oxigenioterapia sob máscara e considerado o diagnóstico de sepse através dos critérios clássicos (síndrome de resposta inflamatória sistêmica com infecção comprovada ou suspeita). Foram colhidas hemoculturas, o lactato sérico foi dosado, o esquema antibiótico foi modi cado para cefalosporina de terceira geração + macrolídeo e foi iniciado resgate volêmico generoso. Os exames complementares realizados confirmam a existência de disfunção orgânica grave, com presença de 3 disfunções no escore SOFA (sequential organ-failure assessment): graveinjúria renal, com creatinina sérica = 5,8 mg/dL; hipercalemia acentuada, com K+ sérico = 7,2 mEq/L; acidose metabólica importante, com PH = 7,18 e bicarbonato sérico = 12 mEq/L. Foram então instituídas medidas terapêuticas intensivas para controle das disfunções orgânicas, mas, na manhã seguinte, logo após a realização do registro eletrocardiográfico ilustrado a seguir (VER IMAGEM), a paciente apresentou parada cardiorrespiratória em atividade elétrica sem pulso, que foi revertida com a realização de manobras do suporte básico de vida e administração intermitente de adrenalina, bicarbonato de sódio e gluconato de cálcio. Após estabilização hemodinâmica da paciente, foi indicada a instituição imediata de suporte dialítico. Considerando que o registro eletrocardiográfico apresentado indica a causa da parada cardiorrespiratória da paciente, o que motivou a instituição de terapêutica dialítica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipercalemia acentuada e refratária."
+    },
+    {
+     "letra": "B",
+     "texto": "Acidose metabólica grave e refratária."
+    },
+    {
+     "letra": "C",
+     "texto": "Pericardite urêmica com tamponamento."
+    },
+    {
+     "letra": "D",
+     "texto": "Sobrecarga volêmica com congestão pulmonar."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q078-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000121875",
+   "codigo": "4000121875",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 79,
+   "temas": [
+    "Tratamento da hipercalemia"
+   ],
+   "enunciado": "Os medicamentos usados no tratamento da hipercalemia têm os seguintes mecanismos de ação: I. Estabilização da membrana elétrica da célula miocárdica; II. Translocação de potássio para o meio intracelular; III. Remoção de potássio. A CORRETA relação entre os mecanismos de ação e as drogas é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Poliestireno sulfonato de cálcio: III; salbutamol: II; gluconato de cálcio: I."
+    },
+    {
+     "letra": "B",
+     "texto": "Poliestireno sulfonato de cálcio: I; salbutamol: II; gluconato de cálcio: III."
+    },
+    {
+     "letra": "C",
+     "texto": "Poliestireno sulfonato de cálcio: II; salbutamol: I; gluconato de cálcio: III."
+    },
+    {
+     "letra": "D",
+     "texto": "Poliestireno sulfonato de cálcio: III; salbutamol: I; gluconato de cálcio: II."
+    },
+    {
+     "letra": "E",
+     "texto": "Poliestireno sulfonato de cálcio: II; salbutamol: III; gluconato de cálcio: I."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000058916",
+   "codigo": "4000058916",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 80,
+   "temas": [
+    "Causas de Hipercalemia"
+   ],
+   "enunciado": "São medicamentos que podem levar à hiperpotassemia, EXCETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Valsartana"
+    },
+    {
+     "letra": "B",
+     "texto": "Heparina"
+    },
+    {
+     "letra": "C",
+     "texto": "Trimetoprima"
+    },
+    {
+     "letra": "D",
+     "texto": "Espironolactona"
+    },
+    {
+     "letra": "E",
+     "texto": "Fenoterol"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000045768",
+   "codigo": "4000045768",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 81,
+   "temas": [
+    "Causas de Hipocalemia"
+   ],
+   "enunciado": "Mulher de 60 anos, hipertensa e diabética, em uso de hidroclorotiazida, losartana, AAS e metformina, apresenta vômitos, diarréia com produtos patológicos, febre e perda de peso, há 3 dias. Exame físico: estado geral regular, desidratada, descorada, pa 80 x 50 mmhg, fc 120 bpm, fr 32 irpm, abdome doloroso, com rha aumentados. Exames laboratoriais: creatinina: 1,9 mg/dl; ureia 115 mg/dl; sódio 130 mmol/l; potássio: 2,8 mmol/l; ph 7,48; hco3 29 meq/l; paco2 40 mmhg, pao2 60 mmhg e sato2 88% em ar ambiente. As causas mais prováveis da hipopotassemia são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipoxemia e insuficiência renal."
+    },
+    {
+     "letra": "B",
+     "texto": "Diarreia, metformina, insuficiência renal, alcalose metabólica."
+    },
+    {
+     "letra": "C",
+     "texto": "Diarreia, metformina, hiponatremia, perda de suco gástrico causada pelos vômitos."
+    },
+    {
+     "letra": "D",
+     "texto": "Diarreia, desidratação, diurético tiazídico e alcalose metabólica."
+    },
+    {
+     "letra": "E",
+     "texto": "Hipoxemia, diurético tiazídico, losartana e alcalose metabólica."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000045475",
+   "codigo": "4000045475",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 82,
+   "temas": [
+    "Hipoaldosteronismo hiporreninêmico"
+   ],
+   "enunciado": "Paciente de 50 anos, portador de DM, apresenta clearance de creatinina de 50 ml/min e evolui com potássio de 6,0 mEq/L (normal 3,5 – 5,0). É causa comum de hipercalemia nessa população:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Uso de metformina."
+    },
+    {
+     "letra": "B",
+     "texto": "Doença renal crônica (a partir de estágio II)."
+    },
+    {
+     "letra": "C",
+     "texto": "Acidose tubular tipo II."
+    },
+    {
+     "letra": "D",
+     "texto": "Acidose tubular tipo IV (hipoaldosteronismo hiporreninêmico)."
+    },
+    {
+     "letra": "E",
+     "texto": "Pseudo-hipercalemia."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000028985",
+   "codigo": "4000028985",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 83,
+   "temas": [
+    "Tratamento da Hipocalemia"
+   ],
+   "enunciado": "No adulto clinicamente estável com potássio sérico de 2,5mEq/L, qual é a velocidade máxima de infusão de potássio (mEq/h) recomendada? Considerando paciente adulto com monitorização eletrocardiográfica contínua.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "10."
+    },
+    {
+     "letra": "B",
+     "texto": "20."
+    },
+    {
+     "letra": "C",
+     "texto": "30."
+    },
+    {
+     "letra": "D",
+     "texto": "40."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000018030",
+   "codigo": "4000018030",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 84,
+   "temas": [
+    "Manif estações clínicas"
+   ],
+   "enunciado": "Julgue o item a seguir a respeito dos diuréticos e dos distúrbios hidroeletrolíticos. Alteração eletrocardiográfica, em hipocalemia, dispensa confirmação sérica de hipocalemia.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000018021",
+   "codigo": "4000018021",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 85,
+   "temas": [
+    "Tratamento da Hipocalemia"
+   ],
+   "enunciado": "Julgue o item a seguir a respeito dos diuréticos e dos distúrbios hidroeletrolíticos. A reposição de potássio endovenoso é obrigatória em hipocalemias com alterações eletrocardiográficas.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000012439",
+   "codigo": "4000012439",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 86,
+   "temas": [
+    "Hipocalemia",
+    "Causas de Hipocalemia"
+   ],
+   "enunciado": "Qual o distúrbio hidroeletrolítico mais comumente relacionado à hemodiálise?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipocalemia."
+    },
+    {
+     "letra": "B",
+     "texto": "Hipercalemia."
+    },
+    {
+     "letra": "C",
+     "texto": "Hiponatremia."
+    },
+    {
+     "letra": "D",
+     "texto": "Hipernatremia."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000005644",
+   "codigo": "4000005644",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 87,
+   "temas": [
+    "Tratamento da hipercalemia",
+    "Hipercalemia"
+   ],
+   "enunciado": "Quadros de desequilíbrio eletrolítico podem se tornar graves e ameaçar a vida. Das alternativas apresentadas, aponte aquela que PODE ser considerada inadequada.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Para fins de conduta clínica, não é o potássio corporal total que determina a gravidade da alteração do potássio."
+    },
+    {
+     "letra": "B",
+     "texto": "Ventilação influencia no valor sérico do potássio"
+    },
+    {
+     "letra": "C",
+     "texto": "Outras situações metabólicas podem também alterar a repolarização, além de variações séricas do potássio."
+    },
+    {
+     "letra": "D",
+     "texto": "Gluconato de cálcio abaixa os valores séricos do potássio."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000043007",
+   "codigo": "4000043007",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 88,
+   "temas": [
+    "Distúrbios do potássio"
+   ],
+   "enunciado": "Sobre os distúrbios do metabolismo do potássio, assinale a afirmativa errada:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A hipercalemia caracteriza-se no eletrocardiograma com a presença de ondas U, achatamento de onda T, depressão do segmento ST, atividade elétrica sem pulso ou assistolia."
+    },
+    {
+     "letra": "B",
+     "texto": "A hipercalemia pode ser causada por acidose metabólica, uso e medicamentos anti inflamatórios não esteroidais, antihipertensivos IECA, hemólise, rabdomiólise, síndrome da lise tumoral, etc."
+    },
+    {
+     "letra": "C",
+     "texto": "O uso de gluconato de cálcio intravenoso é indicado quando houver qualquer alteração eletrocardiográfica, independente do nível sérico do potássio."
+    },
+    {
+     "letra": "D",
+     "texto": "Hipocalemia pode ser causada por alcalose metabólica, anfotericina B, insulinoterapia, reposição de vitamina B12 e/ou folato na anemia megaloblástica."
+    },
+    {
+     "letra": "E",
+     "texto": "Nas hipocalemias graves, podem surgir fraqueza generalizada e até tetraplegia flácida, íleo paralítico, extra- sístoles ou taquiarritmias."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000042884",
+   "codigo": "4000042884",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 89,
+   "temas": [
+    "Diagnóstico da Hipocalemia"
+   ],
+   "enunciado": "Paciente AP, 50 anos, SIDA, internado com quadro de leishmaniose visceral, em tratamento com Anfotericina B, com quadro de hipocalemia refratária à reposição endovenosa. Encontra-se clinicamente estável, afebril, sem náuseas, vômitos ou diarreia. Qual das condutas a seguir deverá ser instituída imediatamente, visto que o paciente apresenta os seguintes exames: Creatinina 0,5 mg/dl; Ureia: 23 mg/dl; Sódio 142 mEq/dl; potássio: 3,0 mEq/dl; Hb:10; Ht:31.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Troca do esquema anti-retroviral."
+    },
+    {
+     "letra": "B",
+     "texto": "Dosagem de magnésio."
+    },
+    {
+     "letra": "C",
+     "texto": "Suspensão da anfotericina."
+    },
+    {
+     "letra": "D",
+     "texto": "Acesso central e aumentar a concentração de potássio na reposição."
+    },
+    {
+     "letra": "E",
+     "texto": "Diurético de alça."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000034626",
+   "codigo": "4000034626",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 90,
+   "temas": [
+    "Hipercalemia"
+   ],
+   "enunciado": "Alterações graves do equilíbrio eletrolítico são potencialmente ameaçadoras da vida, sendo muito comum o encontro, nessa situação, de alterações da concentração do potássio, dosado a nível sérico.Todas as alternativas abaixo são adequadas, EXCETO uma. Assinale-a.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O principal determinante da gravidade é a velocidade da variação do potássio sérico."
+    },
+    {
+     "letra": "B",
+     "texto": "A maioria do potássio corporal é intracelular."
+    },
+    {
+     "letra": "C",
+     "texto": "Beta-2-agonista, diminui hipercalemia."
+    },
+    {
+     "letra": "D",
+     "texto": "A variação do pH para a acidêmia aumenta o potássio corporal."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000018776",
+   "codigo": "4000018776",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 91,
+   "temas": [
+    "Tratamento da hipercalemia"
+   ],
+   "enunciado": "Paciente com doença renal crônica, anúrica, em hemodiálise há cinco anos, procura a emergência com queixas de fraqueza muscular generalizada e incapacidade para deambulação. A avaliação laboratorial evidencia: creatinina = 5,0 mg/dl; ureia = 120 mg/dl; potássio = 7,5 mEq/L; pH = 7,34; bicarbonato = 22. O eletrocardiograma apresenta ondas T apiculadas e achatamento da onda P. A conduta para reduzir mais rapidamente a concentração plasmática de potássio, nesse paciente, é a:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Administração intravenosa de gluconato de cálcio."
+    },
+    {
+     "letra": "B",
+     "texto": "Administração intravenosa de diurético de alça."
+    },
+    {
+     "letra": "C",
+     "texto": "Administração por nebulização de agonista beta-2 adrenérgico."
+    },
+    {
+     "letra": "D",
+     "texto": "Administração oral e por enema retal de resina de troca."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000012996",
+   "codigo": "4000012996",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 92,
+   "temas": [
+    "Manif estações clínicas da hipercalemia",
+    "Hipercalemia"
+   ],
+   "enunciado": "Um paciente portador de insu ciência renal crônica, em fase pré-dialítica, apresentou, em exame bioquímico de rotina para seguimento, ureia de 98 mg/dl; creatinina de 3 mg/dl e potássio de 6,3 mEq/L. É hipertenso, controlado com medicamentos, e apresentou-se taquicárdico, respectivamente com PA: 145 x 95 mmHg e FC: 110 bpm. Referiu mal-estar geral, mas sem sinais ou sintomas específicos de alguma morbidade. O exame físico não revelou outras alterações. Com base nesse caso hipotético, a conduta deve ser complementar à avaliação, com realização prioritária de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ecocardiograma."
+    },
+    {
+     "letra": "B",
+     "texto": "Tomografia computadorizada renal."
+    },
+    {
+     "letra": "C",
+     "texto": "Angiorressonância renal."
+    },
+    {
+     "letra": "D",
+     "texto": "Eletrocardiograma."
+    },
+    {
+     "letra": "E",
+     "texto": "RX de tórax."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000088469",
+   "codigo": "4000088469",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 93,
+   "temas": [
+    "Absorção de potássio pelas células"
+   ],
+   "enunciado": "A hipocalemia ocorre pela redistribuição do potássio entre os compartimentos intra e extracelular em qual das situações abaixo?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Alcalose metabólica."
+    },
+    {
+     "letra": "B",
+     "texto": "Acidose tubular renal."
+    },
+    {
+     "letra": "C",
+     "texto": "Uso de diurético de alça."
+    },
+    {
+     "letra": "D",
+     "texto": "Hiperaldosteronismo."
+    },
+    {
+     "letra": "E",
+     "texto": "Uso de betabloqueadores."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000079979",
+   "codigo": "4000079979",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 94,
+   "temas": [
+    "Causas de Hipercalemia"
+   ],
+   "enunciado": "A única que NÃO pode ser considerada causa de pseudo-hiperpotassemia é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hemólise in vitro."
+    },
+    {
+     "letra": "B",
+     "texto": "Acidose."
+    },
+    {
+     "letra": "C",
+     "texto": "Trombocitose."
+    },
+    {
+     "letra": "D",
+     "texto": "Eritrocitose."
+    },
+    {
+     "letra": "E",
+     "texto": "Leucocitose."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000031235",
+   "codigo": "4000031235",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 95,
+   "temas": [
+    "Causas de Hipocalemia",
+    "Causas de alcalose metabólicas",
+    "Diagnóstico da Hipocalemia"
+   ],
+   "enunciado": "Um homem, de 60 anos, encontra-se no segundo dia de pós-operatório de laparotomia, com sonda nasogástrica aberta. O balanço hídrico mostra uma perda de 2.800 ml de secreção gástrica nas últimas 24 horas. O paciente encontra-se estável hemodinamicamente, bem hidratado e com boa diurese. Qual o distúrbio eletrolítico e acidobásico esperado?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipopotassemia e alcalose metabólica"
+    },
+    {
+     "letra": "B",
+     "texto": "Hiponatremia e alcalose respiratória"
+    },
+    {
+     "letra": "C",
+     "texto": "Hipernatremia e acidose respiratória"
+    },
+    {
+     "letra": "D",
+     "texto": "Hiperpotassemia e acidose metabólica"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000030519",
+   "codigo": "4000030519",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 96,
+   "temas": [
+    "Causas de Hipocalemia"
+   ],
+   "enunciado": "Paciente 42 anos, hipertensa e diabética, faz uso de hidroclorotiazida, captopril e metformina. Admitida com quadro de vômitos, diarreia com muco e febre há 4 dias. Ao exame físico, apresenta regular estado geral, desidratada, PA = 100 x 60 mmHg, FC = 100 bpm, FR = 28 ipm; abdome doloroso sem sinais de irritação peritoneal. Exames laboratoriais: Creatinina = 2,3 mg/dl; Ureia = 132 mmol/ml; Potássio = 2,6 mmol/ml; Sódio = 130 mmol/ml; pH = 7,49; Bicarbonato (HCO3) = 26 mEq/L; PaCO2 = 46 mmHg, PO2 = 70 mmHg e SatO2 = 91%. As possíveis causas da hipocalemia são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Diarreia, diurético tiazídico e alcalose metabólica."
+    },
+    {
+     "letra": "B",
+     "texto": "Hipoxemia e insuficiência renal."
+    },
+    {
+     "letra": "C",
+     "texto": "Metformina, hiponatremia e perda de suco gástrico causado pelos vômitos."
+    },
+    {
+     "letra": "D",
+     "texto": "Hipoxemia, diurético tiazídico e captopril."
+    },
+    {
+     "letra": "E",
+     "texto": "Diarreia, metformina e uremia."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000013732",
+   "codigo": "4000013732",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 97,
+   "temas": [
+    "Tratamento da Hipocalemia"
+   ],
+   "enunciado": "Num paciente em pós-operatório de gastrectomia total, você é orientado a garantir um suporte calórico de 400 kcal em 24 horas, pois o mesmo permanecerá em dieta zero. Dispondo, para isso, de ampolas de 10 ml de SG 50% (glicose anidra) para serem distribuídas na hidratação com soro siológico que o paciente receberá. No dia seguinte, você identi ca nos exames um nível de potássio de 2,1 mg/dl, sintomático, e com alteração eletrocardiográfica. Neste caso:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "É necessária reposição rápida de potássio, com velocidade superior a 40 mEq/h."
+    },
+    {
+     "letra": "B",
+     "texto": "Caso a reposição seja feita em veia periférica, deve-se usar idealmente soluções com concentração inferior a 40 mEq/L."
+    },
+    {
+     "letra": "C",
+     "texto": "O cálculo da reposição deverá ser feito de maneira muito precisa, utilizando-se das fórmulas disponíveis, validadas e confiáveis."
+    },
+    {
+     "letra": "D",
+     "texto": "Em hipótese alguma repor magnésio junto, ou antes, da correção do potássio sob risco de agravamento da hipocalemia."
+    },
+    {
+     "letra": "E",
+     "texto": "Devido à alteração eletrocardiográfica identificada, deve-se administrar imediatamente gluconato de cálcio para estabilização da membrana celular e prevenção de arritmias graves."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000000463",
+   "codigo": "4000000463",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 98,
+   "temas": [
+    "Causas de Hipocalemia",
+    "Hipocalemia"
+   ],
+   "enunciado": "Das causas abaixo de insuficiência renal aguda, qual a que mais frequentemente está associada à hipocalemia?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Nefrotoxicidade por anfotericina B."
+    },
+    {
+     "letra": "B",
+     "texto": "Sépsis."
+    },
+    {
+     "letra": "C",
+     "texto": "Rabdomiólise."
+    },
+    {
+     "letra": "D",
+     "texto": "Nefrotoxicidade por contraste."
+    },
+    {
+     "letra": "E",
+     "texto": "Pós-operatório de cirurgia cardíaca."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000084005",
+   "codigo": "4000084005",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 99,
+   "temas": [
+    "Tratamento da Hipocalemia"
+   ],
+   "enunciado": "Qual é a conduta correta em uma criança com cirrose e ascite recorrente, cujos exames de rotina mostram Na+ 128 mEq/L e K+ 2,5 mEq/L?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Repor sódio pelo risco de edema cerebral."
+    },
+    {
+     "letra": "B",
+     "texto": "Não repor potássio, é uma hipopotassemia dilucional, portanto relativa."
+    },
+    {
+     "letra": "C",
+     "texto": "Repor potássio e não repor sódio."
+    },
+    {
+     "letra": "D",
+     "texto": "Não repor potássio, nem sódio."
+    },
+    {
+     "letra": "E",
+     "texto": "Administrar albumina para melhorar a pressão osmótica, e consequentemente a estabilização dos níveis de sódio e de potássio."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000032278",
+   "codigo": "4000032278",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 100,
+   "temas": [
+    "Manif estações clínicas"
+   ],
+   "enunciado": "Paralisia flácida, hiporreflexia, hipercapnia, tetania e rabdomiólise podem ocorrer em casos de: Respostas: 1 12 23 34 45 56 67 78 89 100",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipercalemia;"
+    },
+    {
+     "letra": "B",
+     "texto": "Hipercalcemia;"
+    },
+    {
+     "letra": "C",
+     "texto": "Hipocalcemia;"
+    },
+    {
+     "letra": "D",
+     "texto": "Hipofosfatemia;"
+    },
+    {
+     "letra": "E",
+     "texto": "Hipocalemia."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": [
+  {
+   "id": "4000167415",
+   "codigo": "4000167415",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 25,
+   "temas": [
+    "Nef rologia",
+    "Proteção cardíaca"
+   ],
+   "enunciado": "Homem, 52a, procura Unidade de Emergência por mal-estar geral e dor precordial. Antecedente pessoal: doença renal crônica em diálise, faltou na última sessão. ECG: A CONDUTA IMEDIATA É:",
+   "alternativas": [],
+   "gabarito": null,
+   "imagens": [
+    {
+     "arquivo": "imagens/q025-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": [],
+   "motivo_exclusao": "sem alternativas"
+  },
+  {
+   "id": "4000104339",
+   "codigo": "4000104339",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Distúrbios do Potássio",
+   "numero": 72,
+   "temas": [
+    "Manif estações clínicas"
+   ],
+   "enunciado": "Menino, 4 anos de idade, apresenta quadro de vômitos e diarreia há dois dias, associado a febre de 38,5°C. Na avaliação clínica inicial, o paciente está em regular estado geral, descorado 1+/4+, hipoativo, com tempo de enchimento capilar de 5 segundos, FR = 26 irpm, T = 37,3°C. Sem outras alterações. Colhidos exames laboratoriais e iniciada expansão volêmica. Os resultados dos exames foram: Na¹ = 138 mEq/L, K+ = 2,1 mEq/L, Uréia = 48 mg/dL, Creatinina = 0,3 mg/dL, Gasometria venosa: pH = 7,29, Bic = 17 mEq/L. O eletrocardiograma mais compátivel com o caso é:",
+   "alternativas": [],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q072-1.jpg",
+     "antes_das_alternativas": true
+    },
+    {
+     "arquivo": "imagens/q072-2.jpg",
+     "antes_das_alternativas": false
+    },
+    {
+     "arquivo": "imagens/q072-3.jpg",
+     "antes_das_alternativas": false
+    },
+    {
+     "arquivo": "imagens/q072-4.jpg",
+     "antes_das_alternativas": false
+    }
+   ],
+   "revisar": [],
+   "motivo_exclusao": "sem alternativas"
+  }
+ ]
+}

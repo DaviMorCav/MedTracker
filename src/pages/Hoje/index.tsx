@@ -241,13 +241,14 @@ export const HojePage: React.FC = () => {
               Hoje
             </h1>
 
-            {/* Streak de dias com atividade */}
-            <div className="flex items-center gap-1.5 mt-2">
-              <span className="text-base">🔥</span>
-              <span className="text-xs font-bold text-amber-400">
-                {streak} dia{streak !== 1 ? 's' : ''} em sequência
-              </span>
-            </div>
+            {/* Sequência de dias */}
+            {streak > 0 && (
+              <div className="flex items-center gap-1.5 mt-2">
+                <span className="text-xs font-semibold text-amber-400">
+                  {streak} {streak === 1 ? 'dia consecutivo' : 'dias consecutivos'}
+                </span>
+              </div>
+            )}
           </div>
 
           {/* Anel de Progresso do Dia */}
@@ -288,36 +289,32 @@ export const HojePage: React.FC = () => {
       </div>
 
       <div className="space-y-6 min-w-0 lg:col-start-1 lg:row-start-1 lg:row-span-2">
-      {/* ESTADO VAZIO: Dia Livre (PRD seção 3) */}
+      {/* ESTADO VAZIO: Dia Livre */}
       {isDayEmpty && (
-        <div className="bg-gradient-to-br from-indigo-950/60 to-slate-900 border border-indigo-900/40 rounded-2xl p-6 text-center space-y-3">
-          <span className="text-4xl block">🎉</span>
-          <h2 className="text-base font-bold text-slate-100">Dia livre!</h2>
+        <div className="bg-slate-900 border border-slate-800 rounded-2xl p-6 text-center space-y-3">
+          <h2 className="text-base font-bold text-slate-100">Tudo em dia</h2>
           <p className="text-xs text-slate-400 max-w-xs mx-auto">
             Você não tem revisões pendentes nem novas aulas programadas para hoje.
           </p>
           <button
             type="button"
             onClick={() => navigate('/conteudo')}
-            className="py-2.5 px-5 bg-indigo-600 hover:bg-indigo-500 text-white rounded-lg text-xs font-semibold shadow-md transition-all"
+            className="py-2 px-4 bg-indigo-600 hover:bg-indigo-500 text-white rounded-lg text-xs font-semibold shadow-sm transition-colors"
           >
-            Adiantar uma aula ➔
+            Ver conteúdo
           </button>
         </div>
       )}
 
-      {/* 2. REVISÕES (atrasadas primeiro, depois hoje, cap, abrir revisão) (PRD seção 3) */}
+      {/* 2. REVISÕES */}
       {todayReviewsData.totalDueCount > 0 && (
         <div className="space-y-3">
           <div className="flex items-center justify-between px-1">
-            <div className="flex items-center gap-2">
-              <span className="text-sm">🔄</span>
-              <h2 className="text-xs font-bold uppercase tracking-wider text-slate-400">
-                Revisões para hoje ({todayReviewsData.totalDueCount})
-              </h2>
-            </div>
+            <h2 className="text-xs font-bold uppercase tracking-wider text-slate-400">
+              Revisões ({todayReviewsData.totalDueCount})
+            </h2>
             {todayReviewsData.overdueCount > 0 && (
-              <span className="text-[10px] font-bold px-2 py-0.5 rounded-full bg-rose-950 text-rose-300 border border-rose-800 animate-pulse">
+              <span className="text-[10px] font-bold px-2 py-0.5 rounded-full bg-rose-950 text-rose-300 border border-rose-800">
                 {todayReviewsData.overdueCount} atrasada{todayReviewsData.overdueCount > 1 ? 's' : ''}
               </span>
             )}
@@ -379,16 +376,13 @@ export const HojePage: React.FC = () => {
         </div>
       )}
 
-      {/* 3. QUESTÕES PENDENTES (PRD seção 3) */}
+      {/* 3. QUESTÕES PENDENTES */}
       {pendingQuestions.length > 0 && (
         <div className="space-y-3">
           <div className="flex items-center justify-between px-1">
-            <div className="flex items-center gap-2">
-              <span className="text-sm">📋</span>
-              <h2 className="text-xs font-bold uppercase tracking-wider text-slate-400">
-                Questões Pendentes ({pendingQuestions.length})
-              </h2>
-            </div>
+            <h2 className="text-xs font-bold uppercase tracking-wider text-slate-400">
+              Questões pendentes ({pendingQuestions.length})
+            </h2>
           </div>
 
           <div className="divide-y divide-slate-800/80 rounded-xl overflow-hidden border border-slate-800 bg-slate-900 shadow-sm">
@@ -416,7 +410,7 @@ export const HojePage: React.FC = () => {
                     type="button"
                     className="py-1.5 px-3 bg-amber-600/90 group-hover:bg-amber-500 text-white rounded-lg text-xs font-semibold shrink-0 transition-colors shadow-sm"
                   >
-                    Fazer questões
+                    Resolver
                   </button>
                 </div>
               );
@@ -425,18 +419,15 @@ export const HojePage: React.FC = () => {
         </div>
       )}
 
-      {/* 4. AULAS NOVAS (PRD seção 3 e 3.1) */}
+      {/* 4. AULAS NOVAS */}
       {suggestedLessons.length > 0 && (
         <div className="space-y-3">
           <div className="flex items-center justify-between px-1">
-            <div className="flex items-center gap-2">
-              <span className="text-sm">📚</span>
-              <h2 className="text-xs font-bold uppercase tracking-wider text-slate-400">
-                Aulas Novas Sugeridas ({suggestedLessons.length})
-              </h2>
-            </div>
+            <h2 className="text-xs font-bold uppercase tracking-wider text-slate-400">
+              Aulas sugeridas ({suggestedLessons.length})
+            </h2>
             <span className="text-[11px] text-slate-500">
-              {settings?.activeSubjects?.length || 0} matérias ativas
+              {settings?.activeSubjects?.length || 0} ativas
             </span>
           </div>
 
@@ -498,14 +489,11 @@ export const HojePage: React.FC = () => {
       {/* 5. PRÓXIMOS 7 DIAS (mini gráfico de barras) (PRD seção 3) */}
       <div className="bg-slate-900 border border-slate-800 rounded-2xl p-4 sm:p-5 shadow-sm space-y-3 lg:col-start-2 lg:row-start-2">
         <div className="flex items-center justify-between">
-          <div className="flex items-center gap-2">
-            <span className="text-sm">📈</span>
-            <h2 className="text-xs font-bold uppercase tracking-wider text-slate-400">
-              Próximos 7 Dias (Carga de Revisões)
-            </h2>
-          </div>
+          <h2 className="text-xs font-bold uppercase tracking-wider text-slate-400">
+            Próximos 7 dias
+          </h2>
           <span className="text-[11px] text-slate-500">
-            {forecast7Days.reduce((acc, d) => acc + d.count, 0)} total
+            {forecast7Days.reduce((acc, d) => acc + d.count, 0)} revisões
           </span>
         </div>
 

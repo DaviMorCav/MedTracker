@@ -1,0 +1,183 @@
+{
+ "questoes": [
+  {
+   "id": "4000095824",
+   "codigo": "4000095824",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Morfofisiologia Adrenal",
+   "numero": 1,
+   "temas": [
+    "Aldosterona",
+    "Síntese hormonal"
+   ],
+   "enunciado": "A aldosterona é produzida:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "na tireoide."
+    },
+    {
+     "letra": "B",
+     "texto": "na medula adrenal."
+    },
+    {
+     "letra": "C",
+     "texto": "no rim."
+    },
+    {
+     "letra": "D",
+     "texto": "no pâncreas."
+    },
+    {
+     "letra": "E",
+     "texto": "no córtex adrenal."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000004600",
+   "codigo": "4000004600",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Morfofisiologia Adrenal",
+   "numero": 2,
+   "temas": [
+    "Morf of isiologia adrenal"
+   ],
+   "enunciado": "Os precursores dos hormônios esteroides produzidos pela suprarrenal, ovários e testículos são o acetato e o colesterol. Na esteroidogênese, assinale a alternativa que contém o primeiro esteroide sintetizado a partir do colesterol.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Deidroepiandrosterona (DHEA)."
+    },
+    {
+     "letra": "B",
+     "texto": "17 – alfa – hidroxipregnenolona."
+    },
+    {
+     "letra": "C",
+     "texto": "Pregnenolona."
+    },
+    {
+     "letra": "D",
+     "texto": "Progesterona."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000111315",
+   "codigo": "4000111315",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Morfofisiologia Adrenal",
+   "numero": 3,
+   "temas": [
+    "Cortisol"
+   ],
+   "enunciado": "Em relação ao cortisol, assinale a alternativa INCORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "É fabricado pela zona fasciculada das suprarrenais."
+    },
+    {
+     "letra": "B",
+     "texto": "O comando de fabricação se dá pelo ACTH (adeno-hipófise)."
+    },
+    {
+     "letra": "C",
+     "texto": "A secreção apresenta ritmo circadiano, com pico às 16h."
+    },
+    {
+     "letra": "D",
+     "texto": "Até o primeiro ano de vida não há ritmo circadiano."
+    },
+    {
+     "letra": "E",
+     "texto": "A metabolização ocorre no fígado e seus metabólitos têm excreção renal."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000069990",
+   "codigo": "4000069990",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Morfofisiologia Adrenal",
+   "numero": 4,
+   "temas": [
+    "Manif estações clínicas",
+    "Morf of isiologia adrenal"
+   ],
+   "enunciado": "Os receptores mineralocorticoides presentes no túbulo renal são responsáveis pela retenção de sódio e espoliação de potássio que ocorre nos casos de excesso de mineralocorticoides, como a presença de tumores secretores de aldosterona. No entanto em estados de excesso de glicocorticoides (Síndrome de Cushing), também pode ocorrer hipernatremia com hipocalemia. Qual característica das vias mineralocorticoide- glicocorticoide explica esse achado?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Menor afinidade dos receptores mineralocorticoides por glicocorticoides."
+    },
+    {
+     "letra": "B",
+     "texto": "Saturação da via de degradação glicorticoide em estados de excesso de glicocorticoides."
+    },
+    {
+     "letra": "C",
+     "texto": "Sítios de ligação de DNA distintos, porém com similaridades que os levam a produzir o mesmo efeito metabólico."
+    },
+    {
+     "letra": "D",
+     "texto": "Um aumento do número de proteínas ligadoras de mineralocorticoides (\"upregulation\") nos estados de excesso de glicocorticoides."
+    },
+    {
+     "letra": "E",
+     "texto": "Saturação da enzima 11-B hidroxidesidrogenase em estados de excesso de glicocorticoides."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000095019",
+   "codigo": "4000095019",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Morfofisiologia Adrenal",
+   "numero": 5,
+   "temas": [
+    "Morf of isiologia adrenal"
+   ],
+   "enunciado": "Os esteroides são secretados normalmente: Respostas: 1",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "pelo hipotálamo"
+    },
+    {
+     "letra": "B",
+     "texto": "pela hipófise"
+    },
+    {
+     "letra": "C",
+     "texto": "somente pelas suprarrenais"
+    },
+    {
+     "letra": "D",
+     "texto": "somente pelas gônadas"
+    },
+    {
+     "letra": "E",
+     "texto": "pelas gônadas e suprarrenais"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": []
+}

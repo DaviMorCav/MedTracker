@@ -565,7 +565,7 @@ export const ConteudoPage: React.FC = () => {
                   Progresso Geral
                 </span>
                 <h1 className="text-lg font-bold text-slate-100 mt-0.5">
-                  Conteúdo MEDCURSO
+                  Conteúdo
                 </h1>
               </div>
               <div className="text-right">
@@ -586,9 +586,9 @@ export const ConteudoPage: React.FC = () => {
             </div>
 
             <div className="flex items-center justify-between text-xs text-slate-400 mt-2.5 pt-2 border-t border-slate-800/60">
-              <span>{curriculum.subjects.length} matérias no currículo</span>
+              <span>{curriculum.subjects.length} matérias</span>
               <span>
-                {settings?.activeSubjects?.length || 0} matéria(s) ativa(s)
+                {settings?.activeSubjects?.length || 0} ativas
               </span>
             </div>
           </div>

@@ -1,0 +1,3449 @@
+{
+ "questoes": [
+  {
+   "id": "4000182185",
+   "codigo": "4000182185",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 1,
+   "temas": [
+    "Clínica e tipos histológicos",
+    "Dermatologia",
+    "Tratamento e conduta"
+   ],
+   "enunciado": "Mulher de 50 anos procura cirurgião plástico preocupada com lesão papular hipercrômica na face, com cerca de 2 mm de espessura, simétrica, bordos regulares, coloração homogênea, diâmetro de 5 mm e crescimento lento. Qual a melhor conduta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Exérese com margem de 5 mm e pesquisa do linfonodo sentinela cervical."
+    },
+    {
+     "letra": "B",
+     "texto": "Eletrocauterização."
+    },
+    {
+     "letra": "C",
+     "texto": "Crioterapia."
+    },
+    {
+     "letra": "D",
+     "texto": "Exérese com margem de 2 mm e exame anatomopatológico."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000182154",
+   "codigo": "4000182154",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 2,
+   "temas": [
+    "Clínica e tipos histológicos",
+    "Dermatologia"
+   ],
+   "enunciado": "Mulher, 62 anos, parda, diabética e hipertensa controlada, portadora de lúpus sistêmico em uso de cloroquina e azatioprina há 8 anos. Refere trauma na unha do 1º quirodáctilo da mão esquerda há 1 ano. Desde então notou escurecimento da unha (Figura). Qual diagnóstico mais provável?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Melanoníquia traumática."
+    },
+    {
+     "letra": "B",
+     "texto": "Melanoma ungueal."
+    },
+    {
+     "letra": "C",
+     "texto": "Nevo melanocítico."
+    },
+    {
+     "letra": "D",
+     "texto": "Melanoníquia medicamentosa."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q002-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000181706",
+   "codigo": "4000181706",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 3,
+   "temas": [
+    "Dermatologia",
+    "Tratamento e conduta"
+   ],
+   "enunciado": "Uma mulher de 54 anos de idade é encaminhada pela dermatologista, após biópsia excisional de lesão cutânea enegrecida de cerca de 2,2 cm de extensão em face anterior do braço direito. A análise histológica revelou melanoma nodular de 2,8 mm de profundidade, com ulceração. Após o estadiamento adequado, a melhor conduta, entre as seguintes, é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ampliação de margens em 2 cm, com pesquisa de linfonodo sentinela."
+    },
+    {
+     "letra": "B",
+     "texto": "Ampliação de margens em 0,5 cm, com pesquisa de linfonodo sentinela."
+    },
+    {
+     "letra": "C",
+     "texto": "Seguimento clínico, com nova avaliação em 4 meses."
+    },
+    {
+     "letra": "D",
+     "texto": "Ampliação de margens em 2 cm."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000181587",
+   "codigo": "4000181587",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 4,
+   "temas": [
+    "Dermatologia",
+    "Tratamento e conduta"
+   ],
+   "enunciado": "Um paciente de 27 anos possui uma lesão pigmentada e assimétrica, de aproximadamente 7mm, localizada em pele do dorso. Procurou um médico que indicou biópsia. Qual é o melhor tipo de biópsia a ser indicada para esse paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Biópsia incisional."
+    },
+    {
+     "letra": "B",
+     "texto": "Biópsia excisional."
+    },
+    {
+     "letra": "C",
+     "texto": "Biópsia em shaving superficial."
+    },
+    {
+     "letra": "D",
+     "texto": "Biópsia com agulha fina."
+    },
+    {
+     "letra": "E",
+     "texto": "Biópsia com agulha grossa."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169536",
+   "codigo": "4000169536",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 5,
+   "temas": [
+    "Diagnóstico estadiamento e f atores prognósticos",
+    "Dermatologia"
+   ],
+   "enunciado": "Diante de uma lesão suspeita de melanoma cutâneo, a conduta inicial CORRETA é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Realizar biópsia excisional com margens amplas."
+    },
+    {
+     "letra": "B",
+     "texto": "Realizar biópsia incisional."
+    },
+    {
+     "letra": "C",
+     "texto": "Realizar biópsia excisional com margens exíguas."
+    },
+    {
+     "letra": "D",
+     "texto": "Realizar biópsia pela técnica de saucerização (shaving)."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000168788",
+   "codigo": "4000168788",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 6,
+   "temas": [
+    "Diagnóstico estadiamento e f atores prognósticos",
+    "Dermatologia",
+    "Tratamento e conduta"
+   ],
+   "enunciado": "KS, sexo masculino, 45 anos, retorna ao serviço de cirurgia ambulatorial com o resultado do exame histopatológico de cirurgia realizada anteriormente. Segundo a descrição cirúrgica foi ressecado nevo pigmentado, irregular, assimétrico e multicolorido em face, com margem de 1cm. O exame anatomopatológico confirma melanoma com células neoplásicas, con nadas à epiderme e ao epitélio anexial com margens cirúrgicas livres. De acordo com as características da lesão e o exame histopatológico, assinale a alternativa que apresenta uma conduta ERRADA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Deve-se ampliar as margens de segurança."
+    },
+    {
+     "letra": "B",
+     "texto": "Independentemente do tratamento realizado, o paciente deve ser acompanhado regularmente."
+    },
+    {
+     "letra": "C",
+     "texto": "Não há indicação para pesquisa de linfonodo sentinela."
+    },
+    {
+     "letra": "D",
+     "texto": "Não há necessidade de nova intervenção cirúrgica, pelas características histopatológicas."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000168316",
+   "codigo": "4000168316",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 7,
+   "temas": [
+    "Diagnóstico estadiamento e f atores prognósticos",
+    "Dermatologia"
+   ],
+   "enunciado": "Paciente masculino, de 56 anos, consultou por lesão de pele no dorso (imagem abaixo) que já vinha sendo observada há muitos anos, mas que, nos últimos meses, apresentou crescimento e mudança de cor. Negou prurido ou sangramento. Não tinha histórico pessoal ou familiar de melanoma. O maior diâmetro da lesão é de 8 mm. Diante desse quadro clínico, qual a conduta mais adequada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Biópsia excisional da lesão com margem mínima de pele aparentemente normal ( 1-2 mm )."
+    },
+    {
+     "letra": "B",
+     "texto": "Biópsia incisional com navete cirúrgica, incluindo borda aparentemente mais ativa."
+    },
+    {
+     "letra": "C",
+     "texto": "Biópsias incisionais com punch em pelo menos 3 áreas mais suspeitas (borda e transição de cor)."
+    },
+    {
+     "letra": "D",
+     "texto": "Exérese da lesão com margem mínima de pele aparentemente normal (1-2 cm)."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q007-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000166865",
+   "codigo": "4000166865",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 8,
+   "temas": [
+    "Diagnóstico estadiamento e f atores prognósticos"
+   ],
+   "enunciado": "O fator mais importante na avaliação histopatológica do melanoma é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "número de mitoses."
+    },
+    {
+     "letra": "B",
+     "texto": "presença de regressão."
+    },
+    {
+     "letra": "C",
+     "texto": "índice de Breslow."
+    },
+    {
+     "letra": "D",
+     "texto": "localização da lesão."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000164252",
+   "codigo": "4000164252",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 10,
+   "temas": [
+    "Tratamento",
+    "Apresentação clínica"
+   ],
+   "enunciado": "Mulher de 62 anos, trabalhadora rural, procurou unidade básica de saúde queixando-se de lesão cutânea em nariz ( figura), com crescimento progressivo nos últimos 6 meses. Baseado na principal hipótese diagnóstica, qual o tratamento mais indicado?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Terapia fotodinâmica."
+    },
+    {
+     "letra": "B",
+     "texto": "Curetagem e eletrocoagulação."
+    },
+    {
+     "letra": "C",
+     "texto": "Radioterapia superficial."
+    },
+    {
+     "letra": "D",
+     "texto": "Exérese com margens de segurança."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q010-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000164248",
+   "codigo": "4000164248",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 11,
+   "temas": [
+    "Tratamento e conduta"
+   ],
+   "enunciado": "Mulher de 56 anos notou surgimento de lesão escurecida e irregular em antebraço direito. A biópsia da lesão identi cou melanoma nodular, com Breslow de 0,5 milímetro, sem regressão, sem invasão angiolinfática, sem mitoses e com ulceração. Ao exame físico: cicatriz da biópsia em antebraço direito em bom aspecto e sem sinais de recidiva local, cadeia linfática axilar direita sem massas ou adenomegalias. Os exames radiológicos não mostraram sinais de metástase em outros órgãos. Que condutas devem ser implementadas?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ampliação de margens de 2 cm e linfadenectomia axilar ipsilateral."
+    },
+    {
+     "letra": "B",
+     "texto": "Ampliação de margens de 2 cm e biópsia de linfonodo sentinela."
+    },
+    {
+     "letra": "C",
+     "texto": "Ampliação de margens de 1 cm e biópsia de linfonodo sentinela."
+    },
+    {
+     "letra": "D",
+     "texto": "Ampliação de margens de 1cm e linfadenectomia axilar ipsilateral."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163671",
+   "codigo": "4000163671",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 12,
+   "temas": [
+    "Tratamento e conduta"
+   ],
+   "enunciado": "Mulher, 52 anos, procura a Unidade Básica de Saúde, por apresentar lesão pigmentada assintomática em membro inferior, percebida há 8 meses (figura). A lesão possui 0.9 cm de diâmetro e está localizada na região lateral da coxa direita. Conferir figura correspondente com melhor resolução no anexo (FIGURA 3) Em relação ao próximo passo na abordagem da lesão em questão, marque a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Encaminhar para cirurgião para realizar excisão com margens de 1 cm."
+    },
+    {
+     "letra": "B",
+     "texto": "Acompanhar clinicamente a lesão com foto e visitas periódicas semestrais."
+    },
+    {
+     "letra": "C",
+     "texto": "Encaminhar para dermatologista para realizar dermatoscopia e biópsia excisional."
+    },
+    {
+     "letra": "D",
+     "texto": "Realizar biópsia incisional na própria unidade básica para elucidação diagnóstica."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q012-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000151921",
+   "codigo": "4000151921",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 13,
+   "temas": [
+    "Clínica Médica",
+    "Diagnóstico estadiamento e f atores prognósticos"
+   ],
+   "enunciado": "Uma paciente de 30 anos procura atendimento dermatológico com queixa de uma “pinta” nas costas que está crescendo. Ao exame dermatológico há uma placa enegrecida com áreas mais escuras e outras mais claras, assimétrica e com bordas irregulares medindo 5mm. Diante desse caso clínico, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A conduta correta nesse momento é realizar biópsia excisional com margem de 2mm."
+    },
+    {
+     "letra": "B",
+     "texto": "Como a lesão mede menos do que 6 mm, a melhor conduta é acompanhá-la para avaliar se haverá indicação de exérese."
+    },
+    {
+     "letra": "C",
+     "texto": "A biópsia incisional é a melhor forma de amostragem dessa lesão."
+    },
+    {
+     "letra": "D",
+     "texto": "Devemos realizar uma exérese com margens amplas de aproximadamente 2cm."
+    },
+    {
+     "letra": "E",
+     "texto": "Além da exérese devemos realizar pesquisa de linfonodo sentinela."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000145483",
+   "codigo": "4000145483",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 14,
+   "temas": [
+    "Tratamento e conduta"
+   ],
+   "enunciado": "Homem de 35 anos percebeu lesão pigmentada atípica, na coxa esquerda, com crescimento progressivo, atualmente com 1,2cm de diâmetro. Veio à consulta porque apresentou sangramento local discreto, que atribuiu a provável trauma recente. A dermatoscopia é sugestiva de melanoma. Qual é a conduta MAIS ADEQUADA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Acompanhar a evolução da lesão para certificar se o sangramento foi por trauma ou ulceração espontânea"
+    },
+    {
+     "letra": "B",
+     "texto": "Realizar biopsia da lesão, preferencialmente excisional com margens mínimas"
+    },
+    {
+     "letra": "C",
+     "texto": "Realizar ressecção da lesão com margens amplas e com pesquisa e biopsia de linfonodo sentinela"
+    },
+    {
+     "letra": "D",
+     "texto": "Ressecção alargada com margem oncológica e linfadenectomia ilioinguinal radical"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000144775",
+   "codigo": "4000144775",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 15,
+   "temas": [
+    "Tratamento e conduta"
+   ],
+   "enunciado": "Homem, 45 anos de idade, hígido, apresenta lesão cutânea de 1,5 cm de diâmetro, no tórax. Diante da suspeita de melanoma, qual é a conduta mais adequada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Biópsia excisional com margens de 1 a 2 mm,incluindo tecido adiposo subjacente."
+    },
+    {
+     "letra": "B",
+     "texto": "Biópsia incisional sem chegar no tecido adiposo para não ocorrer disseminação do tumor."
+    },
+    {
+     "letra": "C",
+     "texto": "Biópsia excisional com margem de 1 cm, incluindo a fascia muscular subjacente."
+    },
+    {
+     "letra": "D",
+     "texto": "Biópsia aspirativa por agulha fina para obtenção de material citológico."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000144224",
+   "codigo": "4000144224",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 16,
+   "temas": [
+    "Carcinoma espinocelular invasivo"
+   ],
+   "enunciado": "Mulher de 81 anos portadora de um tumor cutâneo doloroso e de crescimento progressivo na região do punho há 1 ano, conforme visto na figura. Qual o diagnóstico mais provável?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Carcinoma basocelular."
+    },
+    {
+     "letra": "B",
+     "texto": "Verruga vulgar."
+    },
+    {
+     "letra": "C",
+     "texto": "Melanoma."
+    },
+    {
+     "letra": "D",
+     "texto": "Carcinoma espinocelular."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q016-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000141661",
+   "codigo": "4000141661",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 17,
+   "temas": [
+    "Clínica e tipos histológicos"
+   ],
+   "enunciado": "Mulher de 45 anos, oriental, cozinheira, apresenta mácula hipercrômica assintomática no primeiro quirodáctilo direito, com crescimento progressivo há 2 anos, conforme imagem: O diagnóstico provável é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "hematoma com hemossiderose por traumatismo crônico profissional."
+    },
+    {
+     "letra": "B",
+     "texto": "onicomicose por fungos demáceos."
+    },
+    {
+     "letra": "C",
+     "texto": "pigmentação exógena por shitake."
+    },
+    {
+     "letra": "D",
+     "texto": "melanoma lentiginoso acral."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q017-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000141653",
+   "codigo": "4000141653",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 18,
+   "temas": [
+    "Apresentação clínica"
+   ],
+   "enunciado": "Homem de 69 anos, pescador, apresenta nódulo eritomato- -perláceo com telangectasias na região zigomática com crescimento progressivo há 3 anos, conforme imagem: O diagnóstico provável é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "leishmaniose tegumentar americana."
+    },
+    {
+     "letra": "B",
+     "texto": "carcinoma basocelular nodular."
+    },
+    {
+     "letra": "C",
+     "texto": "linfoma cutâneo."
+    },
+    {
+     "letra": "D",
+     "texto": "esporotricose."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q018-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000129636",
+   "codigo": "4000129636",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 19,
+   "temas": [
+    "Diagnóstico",
+    "Dermatologia",
+    "Apresentação clínica"
+   ],
+   "enunciado": "Leia o caso clínico a seguir. Homem branco, de 63 anos, relata surgimento de lesão no sulco nasogeniano há dois anos, indolor e sangrante aos mínimos traumas. O médico assistente descreveu a lesão como sendo uma pápula de aspecto perolado com telangiectasias na superfície, sendo que o exame anatomopatológico identi cou células tumorais basaloides com núcleos periféricos em paliçada. Nesse caso, o diagnóstico do paciente é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "ceratoacantoma."
+    },
+    {
+     "letra": "B",
+     "texto": "carcinoma basocelular variante papulonodular."
+    },
+    {
+     "letra": "C",
+     "texto": "melanoma amelanótico."
+    },
+    {
+     "letra": "D",
+     "texto": "carcinoma espinocelular."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000127311",
+   "codigo": "4000127311",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 20,
+   "temas": [
+    "Tratamento e conduta"
+   ],
+   "enunciado": "Um paciente de 53 anos foi referido a um serviço de cirurgia ambulatorial com uma lesão pigmentada, escurecida, protuberante e não ulcerada em face anterior da coxa direita. O cirurgião avaliou e achou ser segura a síntese da ferida sem a necessidade de retalho e procedeu a ressecção com margem de 1 cm. Na consulta pós-operatória, a ferida estava totalmente cicatrizada, sem evidências de lesões residuais e o resultado do histopatológico evidenciou um melanoma nodular nível II de Clark e Breslow de 0,7mm. Diante deste resultado, a melhor conduta é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Indicar nova cirurgia com ampliação de margem oncológica para 3 cm."
+    },
+    {
+     "letra": "B",
+     "texto": "Considerar que a cirurgia foi adequada e orientar o seguimento ambulatorial."
+    },
+    {
+     "letra": "C",
+     "texto": "Indicar a realização de linfadenectomia regional, interferon"
+    },
+    {
+     "letra": "D",
+     "texto": "Indicar e encaminhar o paciente para realização de pesquisa de linfonodo sentinela."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000125757",
+   "codigo": "4000125757",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 21,
+   "temas": [
+    "Clínica e tipos histológicos",
+    "Risco de metástase",
+    "Doença de Bowen"
+   ],
+   "enunciado": "Sobre tumores cutâneos, assinale a opção incorreta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Radiação ultravioleta, inflamação crônica e queimadura correlacionam-se com a etiologia do carcinoma espinocelular (CEC)."
+    },
+    {
+     "letra": "B",
+     "texto": "Doença de Bowen é um CEC e, clinicamente, não se faz necessário estabelecer o diagnóstico diferencial com o carcinoma basocelular (CBC) superficial."
+    },
+    {
+     "letra": "C",
+     "texto": "CEC ocorre em indivíduos transplantados, e metástases a distância são mais frequentesnesse tumor quando comparado com o epitelioma basocelular."
+    },
+    {
+     "letra": "D",
+     "texto": "Lentigo maligno melanoma tem predileção pelas localizações facial e cervical."
+    },
+    {
+     "letra": "E",
+     "texto": "Dentre os CBCs, o nódulo-ulcerativo é o mais frequente na rotina clínica, e o CBC esclerodermiforme pode apresentar prognóstico reservado."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000123464",
+   "codigo": "4000123464",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 22,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Agricultor de 57 anos veio ao Ambulatório encaminhado pela dermatologista devido à lesão ulcerada no dorso nasal, com 0,5 cm em seu maior diâmetro, e biópsia incisional prévia indicando carcinoma basocelular superficial. Qual a conduta mais adequada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ressecção com margem cirúrgica mínima de 4 mm, por tratar-se de uma região com alto risco de recidiva."
+    },
+    {
+     "letra": "B",
+     "texto": "Ressecção com margem cirúrgica máxima de 3 mm, por tratar-se de uma lesão com baixo risco de recidiva, determinado pelo tipo histológico e pela dimensão (menos de 1 cm)."
+    },
+    {
+     "letra": "C",
+     "texto": "Crioterapia, pela dificuldade de localização e boa resposta do carcinoma basocelular ao tratamento não cirúrgico."
+    },
+    {
+     "letra": "D",
+     "texto": "Tratamento radioterápico devido à localização da lesão, que comprometeria a estética com tratamento cirúrgico."
+    },
+    {
+     "letra": "E",
+     "texto": "Terapia sistêmica, por tratar-se de uma lesão de alto risco de recidiva."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000118792",
+   "codigo": "4000118792",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 23,
+   "temas": [
+    "Tratamento e conduta"
+   ],
+   "enunciado": "Sabidamente o melanoma representa apenas 3% das neoplasias malignas dermatológicas, contudo, é o tipo mais grave, devido à sua alta possibilidade de provocar metástase, se tornando cada vez mais um desa o para o diagnóstico precoce e prevenção. Paciente feminino, 47 anos, procura assistência após realizar biopsia excisional de lesão melanocítica localizada em membro superior esquerdo. O anátomo patológico mostrava: melanoma Lentigosuper cial, Breslow 1,7, Clark IV, 1 figura de mitose por campo, ausência de guras de mitose, sem ulceração ou in ltração de vasos e nervos e ausência de Satelitose. As margens eram exíguas. Não havia linfoadenopatia palpável ao exame clínico. São condutas corretas para o paciente acima, exceto:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Linfadenectomia axilar."
+    },
+    {
+     "letra": "B",
+     "texto": "Ampliação das margens."
+    },
+    {
+     "letra": "C",
+     "texto": "Realização de adjuvância com interferon alfa em altas doses."
+    },
+    {
+     "letra": "D",
+     "texto": "Pesquisa de linfonodo sentinela."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000114291",
+   "codigo": "4000114291",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 24,
+   "temas": [
+    "Clínica e tipos histológicos"
+   ],
+   "enunciado": "No ABCDE do melanoma, D representa um diâmetro maior que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "2 mm"
+    },
+    {
+     "letra": "B",
+     "texto": "4 mm"
+    },
+    {
+     "letra": "C",
+     "texto": "6 mm"
+    },
+    {
+     "letra": "D",
+     "texto": "8 mm"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000107253",
+   "codigo": "4000107253",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 25,
+   "temas": [
+    "Tratamento e conduta"
+   ],
+   "enunciado": "Qual deve ser a margem de ressecção de um melanoma cutâneo in situ?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "0,5 cm."
+    },
+    {
+     "letra": "B",
+     "texto": "A mais ampla possível."
+    },
+    {
+     "letra": "C",
+     "texto": "Pelo menos 3 cm."
+    },
+    {
+     "letra": "D",
+     "texto": "Depende da distribuição linfática."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000103265",
+   "codigo": "4000103265",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 26,
+   "temas": [
+    "Risco de metástase",
+    "Diagnóstico e tratamento"
+   ],
+   "enunciado": "Qual das características do carcinoma espinocelular (CEC) listadas abaixo apresenta um pior prognóstico?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "CEC bem diferenciado."
+    },
+    {
+     "letra": "B",
+     "texto": "CEC se desenvolvendo de uma queratose actínica."
+    },
+    {
+     "letra": "C",
+     "texto": "Acometimento exclusivo de todas as camadas da epiderme."
+    },
+    {
+     "letra": "D",
+     "texto": "Invasão perineural."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000101755",
+   "codigo": "4000101755",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 27,
+   "temas": [
+    "Tratamento e conduta"
+   ],
+   "enunciado": "Mulher, 37 anos, refere lesão cutânea pigmentada na perna direita de cerca de 2 cm que aumentou de tamanho, acompanhada de prurido e sangramento nos últimos meses. Refere surgimento de massa na região inguinal de 3,5 cm. Realizada biópsia excisional da lesão cutânea que confirmou melanoma lentiginoso com Breslow de 1,9 mm, ulceração e 5 mitoses por campo. Qual deve ser a conduta com relação a massa na região inguinal?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Biópsia excisional."
+    },
+    {
+     "letra": "B",
+     "texto": "Radioterapia."
+    },
+    {
+     "letra": "C",
+     "texto": "Linfadenectomia inguinal seletiva."
+    },
+    {
+     "letra": "D",
+     "texto": "Pesquisa linfonodo sentinela."
+    },
+    {
+     "letra": "E",
+     "texto": "Punção para análise citológica."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000101236",
+   "codigo": "4000101236",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 28,
+   "temas": [
+    "Clínica e tipos histológicos",
+    "Diagnóstico estadiamento e f atores prognósticos"
+   ],
+   "enunciado": "Durante o exame clínico de uma senhora de 50 anos o médico identi ca lesão cutânea hipercrômica na face anterior do braço, suspeita para Melanoma pela avaliação das características clínicas (ABCDE). A lesão mede aproximadamente 12mm no maior diâmetro. Qual a melhor conduta nesse momento?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Biópsia excisional com margens exíguas e incisão longitudinal em relação ao membro."
+    },
+    {
+     "letra": "B",
+     "texto": "Biópsia incisional, priorizando o local da lesão com menor elevação."
+    },
+    {
+     "letra": "C",
+     "texto": "Exérese com margens amplas de 01cm."
+    },
+    {
+     "letra": "D",
+     "texto": "Seguimento clínico rigoroso com reavaliação em 03 meses."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000086211",
+   "codigo": "4000086211",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 29,
+   "temas": [
+    "Tratamento e conduta"
+   ],
+   "enunciado": "Mulher, 54 anos, assintomática, recentemente foi submetida à ressecção de um nevo em face anterior da coxa direita. O anatomopatológico demonstrou melanoma de 0,44 milímetros de espessura, Clark nível III, ausência de ulceração e contagem mitótica de zero. No exame físico, não havia linfoadenopatias palpáveis, nódulos satélites ou metástases em trânsito. Hemograma, plaquetas, desidrogenase láctica, transaminases, fosfatase alcalina, gama-glutamil transferase e bilirrubinas estavam dentro dos limites de normalidade. Em relação ao caso, qual é a conduta mais adequada neste momento?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Solicitar PET-CT e ressonância magnética de crânio."
+    },
+    {
+     "letra": "B",
+     "texto": "Solicitar radiografia de tórax e ultrassonografia de abdome."
+    },
+    {
+     "letra": "C",
+     "texto": "Adotar conduta expectante, sem necessidade de realizar exames de imagem."
+    },
+    {
+     "letra": "D",
+     "texto": "Solicitar tomografia computadorizada de tórax, abdome total e ressonância magnética de crânio."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000078769",
+   "codigo": "4000078769",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 30,
+   "temas": [
+    "Fotoproteção",
+    "Introdução",
+    "Fotocarcinogênese"
+   ],
+   "enunciado": "NÃO é estratégia para a prevenção do câncer de pele:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Evitar a exposição solar entre 10 e 16 horas."
+    },
+    {
+     "letra": "B",
+     "texto": "Redobrar os cuidados de fotoproteção nas grandes altitudes."
+    },
+    {
+     "letra": "C",
+     "texto": "Preferir o bronzeamento artificial ao natural."
+    },
+    {
+     "letra": "D",
+     "texto": "Reaplicar filtro de proteção solar a cada 2 horas ou após cada mergulho."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000072871",
+   "codigo": "4000072871",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 31,
+   "temas": [
+    "Tratamento e conduta"
+   ],
+   "enunciado": "Paciente feminina, branca, 39 anos, apresentando lesão melanocítica com cerca de 2,0 cm em antebraço esquerdo, que foi retirado com margens cirúrgicas de 0,2cm e cujo laudo histopatológico foi de melanoma nível IV de Clark com Breslow 0,7 mm, sem regressão e/ou ulceração, índice mitótico nulo. O exame clínico não evidencia qualquer alteração e o exames de estadiamento não mostram doença metastática. Qual deve ser a conduta diante deste caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ampliação de margem (ressecção ampliada)."
+    },
+    {
+     "letra": "B",
+     "texto": "Observação clínica."
+    },
+    {
+     "letra": "C",
+     "texto": "Ressecção ampliada + linfadenectomia axilar."
+    },
+    {
+     "letra": "D",
+     "texto": "Ressecção ampliada + Pesquisa de linfonodo sentinela."
+    },
+    {
+     "letra": "E",
+     "texto": "Amputação de antebraço."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000072770",
+   "codigo": "4000072770",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 32,
+   "temas": [
+    "Tratamento e conduta"
+   ],
+   "enunciado": "Uma mulher de 49 anos de idade com diagnóstico de melanoma em estágio IIB evolui com dispneia e múltiplas metastatases pulmonares. Antes de iniciar a quimioterapia, qual das mutações genéticas abaixo indicará tratamento específico?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "BRAF"
+    },
+    {
+     "letra": "B",
+     "texto": "C-KIT"
+    },
+    {
+     "letra": "C",
+     "texto": "ERKs”"
+    },
+    {
+     "letra": "D",
+     "texto": "N-RAS"
+    },
+    {
+     "letra": "E",
+     "texto": "MEK"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000067516",
+   "codigo": "4000067516",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 33,
+   "temas": [
+    "Fatores de risco para câncer de pele não melanoma CPNM"
+   ],
+   "enunciado": "Todas as opções abaixo aumentam o risco de desenvolvimento de carcinoma escamocelular cutâneo, exceto:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Exposição aos raios ultravioleta"
+    },
+    {
+     "letra": "B",
+     "texto": "Imunossupressão crônica"
+    },
+    {
+     "letra": "C",
+     "texto": "PUVA (PSORALEN + UVA)"
+    },
+    {
+     "letra": "D",
+     "texto": "Queimadura"
+    },
+    {
+     "letra": "E",
+     "texto": "Fenitoína"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000067369",
+   "codigo": "4000067369",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 34,
+   "temas": [
+    "Diagnóstico estadiamento e f atores prognósticos"
+   ],
+   "enunciado": "O câncer da pele responde por 33% de todos os diagnósticos desta doença no Brasil, sendo que o Instituto Nacional do Câncer (INCA) registra, a cada ano, cerca de 180 mil novos casos. Qual principal indicador prognóstico do melanoma?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Localização"
+    },
+    {
+     "letra": "B",
+     "texto": "Índice de profundidade de Breslow"
+    },
+    {
+     "letra": "C",
+     "texto": "Tamanho"
+    },
+    {
+     "letra": "D",
+     "texto": "Idade e sexo do paciente"
+    },
+    {
+     "letra": "E",
+     "texto": "Envolvimento linfonodal"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000054580",
+   "codigo": "4000054580",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 35,
+   "temas": [
+    "Diagnóstico",
+    "Apresentação clínica"
+   ],
+   "enunciado": "Paciente masculino de 65 anos, trabalhador da construção civil, apresentando há 1 ano pápula eritematosa, de 1 cm de diâmetro, com brilho perolado e telangectasias em dorso nasal. Referia sangramento fácil ao secar o rosto com a toalha. Notou-se também inúmeras lesões máculas de melanose solar em membros superiores e face. Foi submetido a biópsia incisional da lesão nasal, evidenciando massa de células basalóides que se dispõem na periferia em paliçada. Assinale a alternativa que corresponde ao principal diagnóstico da lesão nasal:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Carcinoma Espinocelular."
+    },
+    {
+     "letra": "B",
+     "texto": "Melanoma."
+    },
+    {
+     "letra": "C",
+     "texto": "Carcinoma Basocelular."
+    },
+    {
+     "letra": "D",
+     "texto": "Nevos Melanocíticos."
+    },
+    {
+     "letra": "E",
+     "texto": "Ceratose actínica."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000045833",
+   "codigo": "4000045833",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 36,
+   "temas": [
+    "Clínica e tipos histológicos",
+    "Diagnóstico estadiamento e f atores prognósticos"
+   ],
+   "enunciado": "Uma paciente de 53 anos queixa-se da presença de uma pinta no antebraço direito, que cresceu nos últimos 6 meses e passou a apresentar sangramento devido ao atrito com a roupa. Sem outras queixas. Ao exame físico, é digna de nota a presença de mácula pigmentada na face posterior do antebraço direito, de aproximadamente 8 mm no maior diâmetro, mais enegrecida no centro e acastanhada na periferia, assimétrica e de borda irregular. Considerando que o exame físico foi completa e adequadamente realizado e que a única alteração é a descrita sobre a lesão pigmentada, assinale a conduta que se deve seguir.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Realizar biópsia excisional com margem de pele normal em torno de 2 a 3 mm com biópsia de linfonodo sentinela."
+    },
+    {
+     "letra": "B",
+     "texto": "Realizar biópsia excisional com margem de pele normal em torno de 0,5 a 1,0 cm, sem qualquer conduta adicional."
+    },
+    {
+     "letra": "C",
+     "texto": "Realizar biópsia excisional com margem de pele normal em torno de 2 a 3 mm, sem qualquer conduta adicional."
+    },
+    {
+     "letra": "D",
+     "texto": "Realizar biópsia excisional com margem de pele normal em torno de 0,5 a 1,0 cm com biópsia de linfonodo sentinela."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000031692",
+   "codigo": "4000031692",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 37,
+   "temas": [
+    "Câncer de pele"
+   ],
+   "enunciado": "O câncer de pele é o tipo mais comum de câncer, respondendo por pelo menos metade de todas as neoplasias malignas. Com relação às neoplasias cutâneas, marque a alternativa INCORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "No melanoma cutâneo, o acometimento de linfonodos regionais é o mais importante fator prognóstico isolado preditor de sobrevida; outros fatores prognósticos são em ordem de importância: espessura de Breslow, presença de ulceração e localização anatômica do tumor primário."
+    },
+    {
+     "letra": "B",
+     "texto": "A excisão cirúrgica é o tratamento para a maioria dos carcinomas escamocelulares, estando indicada a ressecção com margem radial de segurança de pelo menos 1 cm."
+    },
+    {
+     "letra": "C",
+     "texto": "Os angiossarcomas cutâneos estão associados ao linfedema crônico, e tipicamente são máculas ou pápulas planas, indolores, pruriginosas, de coloração avermelhada, azulada ou purpúrea; seu tratamento consiste na ressecção com margens negativas associada a radioterapia."
+    },
+    {
+     "letra": "D",
+     "texto": "A maioria dos carcinomas escamocelulares tem como lesão precursora a ceratose actínica, cujo tratamento pode incluir a crioterapia, aplicação de 5- fluorouracil tópico, dermoabrasão ou descamação química."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000030220",
+   "codigo": "4000030220",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 38,
+   "temas": [
+    "Clínica e tipos histológicos",
+    "Fatores de risco"
+   ],
+   "enunciado": "Paciente do sexo masculino, de 68 anos, trabalhador rural, refere que há um ano apresenta lesão hiperpigmentada de aproximadamente 0,7 cm de diâmetro, localizada na região de dorso superior, com crescimento rápido nos últimos meses. Relata discreto prurido local. Nesse caso, em relação ao possível diagnóstico de melanoma:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o risco de ser melanoma é baixo, pois quase a totalidade dos melanomas se origina denevos preexistentes."
+    },
+    {
+     "letra": "B",
+     "texto": "a conduta inicial deve ser a realização de biópsia excisional."
+    },
+    {
+     "letra": "C",
+     "texto": "a pesquisa de linfonodo sentinela deve ser feita antes de qualquer propedêutica."
+    },
+    {
+     "letra": "D",
+     "texto": "o prognóstico é melhor se for melanoma nodular, já que não apresenta crescimentovertical."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000028868",
+   "codigo": "4000028868",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 39,
+   "temas": [
+    "Tratamento e conduta"
+   ],
+   "enunciado": "Considerando uma neoplasia de pele localizada no braço direito, medindo 2,0 cm e suspeita de melanoma, é incorreto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O mais adequado é realizar a biópsia da lesão para determinação do microestadiamento e posterior programação do tratamento definitivo."
+    },
+    {
+     "letra": "B",
+     "texto": "Durante a realização da biópsia, é importante que se mantenha a integridade da drenagem linfática."
+    },
+    {
+     "letra": "C",
+     "texto": "Para a ressecção definitiva, a melhor orientação da cicatriz operatória é aquela que segue as linhas de força da pele do braço direito."
+    },
+    {
+     "letra": "D",
+     "texto": "Considerando a suspeita de melanoma, o ideal é que o paciente seja encaminhado para equipe especializada no tratamento desta afecção desde os procedimentos iniciais."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000026580",
+   "codigo": "4000026580",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 40,
+   "temas": [
+    "Diagnóstico estadiamento e f atores prognósticos"
+   ],
+   "enunciado": "Paciente trabalhador rural, com exposição diária ao sol (cerca de 8h/dia), apresentando lesão na região dorsal, simétrica, com bordas regulares, diâmetro de 5mm, com apenas uma cor. Refere que a lesão está em crescimento. A principal característica desta lesão, para diagnóstico de neoplasia de pele é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Lesão simétrica."
+    },
+    {
+     "letra": "B",
+     "texto": "Bordas regulares."
+    },
+    {
+     "letra": "C",
+     "texto": "Diâmetro de 5mm."
+    },
+    {
+     "letra": "D",
+     "texto": "Lesão apresentando apenas uma cor."
+    },
+    {
+     "letra": "E",
+     "texto": "Lesão em crescimento."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000022189",
+   "codigo": "4000022189",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 41,
+   "temas": [
+    "Clínica e tipos histológicos"
+   ],
+   "enunciado": "Em relação ao melanoma cutâneo assinale dentre as alternativas abaixo o subtipo histológico mais frequente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "melanoma nodular."
+    },
+    {
+     "letra": "B",
+     "texto": "lentigo maligno."
+    },
+    {
+     "letra": "C",
+     "texto": "melanoma extensivo superficial."
+    },
+    {
+     "letra": "D",
+     "texto": "melanoma amelanótico."
+    },
+    {
+     "letra": "E",
+     "texto": "melanoma acral."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000020415",
+   "codigo": "4000020415",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 42,
+   "temas": [
+    "Melanoma"
+   ],
+   "enunciado": "Sobre o melanoma cutâneo, assinale a alternativa incorreta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A regra do ABCDE do melanoma considera os seguintes fatores para diagnóstico das lesões suspeitas: assimetria, bordas, coloração, diâmetro acima de 6mm e extensão em superfície ou modificação do aspecto da lesão."
+    },
+    {
+     "letra": "B",
+     "texto": "A síndrome do nevo displásico representa um fator de risco para melanoma."
+    },
+    {
+     "letra": "C",
+     "texto": "O melanoma lentiginoso-acral é a forma de melanoma mais comum em indivíduos de pele clara."
+    },
+    {
+     "letra": "D",
+     "texto": "O índice de Breslow é um importante marcador de sobrevida no melanoma cutâneo."
+    },
+    {
+     "letra": "E",
+     "texto": "A predisposição genética está entre os principais fatores etiológicos."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000004537",
+   "codigo": "4000004537",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 43,
+   "temas": [
+    "Melanoma",
+    "Dermatologia"
+   ],
+   "enunciado": "Mulher, 62 anos, vem à UBS com queixa de mancha escura no braço com crescimento rápido nos últimos meses. Paciente refere que há cerca de 2 anos surgiu uma mancha amarronzada no braço esquerdo, e que nos últimos 6 meses notou crescimento e modi cação da lesão. Ao exame físico: mácula assimétrica de 4mm de diâmetro, apresentando 3 cores (marrom escuro, marrom claro e preto), com bordas regulares. Frente a esta lesão suspeita a melhor conduta é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Biópsia excisional da lesão com margem cirúrgicas de 2cm, pois a suspeita clínica é de melanoma, e envio do material para exame anatomopatológico."
+    },
+    {
+     "letra": "B",
+     "texto": "Biópsia incisional da lesão, pois a suspeita clínica é de nevo melanocítico, e envio do material para exame anatomopatológico."
+    },
+    {
+     "letra": "C",
+     "texto": "Biópsia excisonal da lesão com margem cirúrgica de 1 a 2mm, pois a suspeita clínica é de melanoma, e envio do material para exame anatomopatológico."
+    },
+    {
+     "letra": "D",
+     "texto": "Biópsia excisional da lesão com margem cirúrgicas de 1cm, pois a suspeita clínica é de melanoma, e envio do material para exame anatomopatológico."
+    },
+    {
+     "letra": "E",
+     "texto": "Acompanhamento clínico e nova avaliação em 6 meses."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000003403",
+   "codigo": "4000003403",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 44,
+   "temas": [
+    "Melanoma"
+   ],
+   "enunciado": "O melanoma cutâneo teve um dos seus primeiros relatos descritos por Hunter em 1787. E, em 1806, foi chamado de câncer negro por Laennec, que descobriu as metástases viscerais da doença. Apesar da longa história de avanços na siopatologia, no diagnóstico e no tratamento do melanoma e da facilidade de prevenção e de diagnóstico precoce (protetores solares e exame físico da pele, por exemplo), ele ainda permanece entre os 10 cânceres mais comuns do mundo. Sobre o melanoma cutâneo, é CORRETO afirmar.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O melanoma representa cerca de 20% dos cânceres de pele."
+    },
+    {
+     "letra": "B",
+     "texto": "O tipo histológico mais comum é o melanoma nodular."
+    },
+    {
+     "letra": "C",
+     "texto": "O estadiamento do melanoma cutâneo, pelo sistema tumor-linfonodo-metástase (TNM), em sua sétima edição, utiliza o índice mitótico para diferenciar categorias precoces."
+    },
+    {
+     "letra": "D",
+     "texto": "Pacientes, nos estágios clínicos 0 e I da classificação TNM, não necessitam de exames adicionais."
+    },
+    {
+     "letra": "E",
+     "texto": "A operação, para ressecar o melanoma primário, é conhecida como Excisão Local Ampliada (ELA) e as margens recomendadas para melanoma In situ são de 2 cm."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000001248",
+   "codigo": "4000001248",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 45,
+   "temas": [
+    "Câncer de pele"
+   ],
+   "enunciado": "Sobre os cânceres de pele mais frequentes, assinale a incorreta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Melanoma tem seu prognóstico relacionado ao índice de Breslow."
+    },
+    {
+     "letra": "B",
+     "texto": "Carcinoma basocelular, é o tipo de câncer mais frequente dentre todos os cânceres."
+    },
+    {
+     "letra": "C",
+     "texto": "Carcinoma basocelular é o tipo de câncer de pele menos comum."
+    },
+    {
+     "letra": "D",
+     "texto": "Carcinoma espinocelular é o tipo de câncer derivado da linhagem dos queratinocitos suprabasais."
+    },
+    {
+     "letra": "E",
+     "texto": "Melanoma acomete indivíduos de qualquer fototipo."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000125553",
+   "codigo": "4000125553",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 46,
+   "temas": [
+    "Introdução",
+    "Carcinoma basocelular"
+   ],
+   "enunciado": "Das neoplasias malignas da pele qual a mais frequente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Melanoma."
+    },
+    {
+     "letra": "B",
+     "texto": "Carcinoma Basocelular."
+    },
+    {
+     "letra": "C",
+     "texto": "Carcinoma espinocelular."
+    },
+    {
+     "letra": "D",
+     "texto": "Lipossarcoma."
+    },
+    {
+     "letra": "E",
+     "texto": "Sarcoma de Kaposi."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000123385",
+   "codigo": "4000123385",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 47,
+   "temas": [
+    "Clínica e tipos histológicos"
+   ],
+   "enunciado": "Sobre tumores cutâneos, assinale a opção incorreta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Melanoma lentiginioso acral não tem predileção por negros e por asiáticos."
+    },
+    {
+     "letra": "B",
+     "texto": "Carcinoma basocelular (CBC) pigmentado, clinicamente, faz diagnóstico diferencial com melanoma nodular e com ceratose seborreica."
+    },
+    {
+     "letra": "C",
+     "texto": "Indivíduos transplantados são suscetiveis a apresentarem carcinoma espinocleular (CEC)."
+    },
+    {
+     "letra": "D",
+     "texto": "Lentigo maligno melanoma tem predileção por indivíduos idosos."
+    },
+    {
+     "letra": "E",
+     "texto": "Ceratoses actínicas, HPV (papiloma vírus humano) lúpus eritematoso e xeroderma pigmentoso são condições que favorecem ao CEC."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000123343",
+   "codigo": "4000123343",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 48,
+   "temas": [
+    "Fatores de risco"
+   ],
+   "enunciado": "Com relação ao melanoma cutâneo, é correto afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "pode ocorrer sobre nevos preexistentes ou a partir de pele normal."
+    },
+    {
+     "letra": "B",
+     "texto": "sua incidência está diminuindo devido ao diagnóstico precoce."
+    },
+    {
+     "letra": "C",
+     "texto": "os grupos etários mais acometidos são os de crianças e idosos."
+    },
+    {
+     "letra": "D",
+     "texto": "seu principal indicador prognóstico é o diâmetro da lesão."
+    },
+    {
+     "letra": "E",
+     "texto": "a radioterapia é a melhor forma de tratamento para a lesão primária."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120597",
+   "codigo": "4000120597",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 49,
+   "temas": [
+    "Diagnóstico estadiamento e f atores prognósticos"
+   ],
+   "enunciado": "No estadiamento tumoral do melanoma cutâneo, além da profundidade de Breslow, a característica clínico-patológica da lesão primária que mais impacta no prognóstico do paciente é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o índice mitótico."
+    },
+    {
+     "letra": "B",
+     "texto": "o tipo clínico-patológico."
+    },
+    {
+     "letra": "C",
+     "texto": "o grau de atipia celular."
+    },
+    {
+     "letra": "D",
+     "texto": "a presença de ulceração."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000109759",
+   "codigo": "4000109759",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 50,
+   "temas": [
+    "Clínica e tipos histológicos"
+   ],
+   "enunciado": "Em relação aos tipos de melanoma, quais as associações corretas? I - Extensivo superficial. II - Lentigo maligno. III - Acral lentiginoso. IV - Nodular. A - Pacientes idosos. B - Afrodescendentes e asiáticos. C - Mais comum. D - Mais agressivo (10 a 15% dos casos).",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I/C; II/A; III/B; IV/D."
+    },
+    {
+     "letra": "B",
+     "texto": "I/B; II/A; III/D; IV/C."
+    },
+    {
+     "letra": "C",
+     "texto": "I/C; II/A; III/D; IV/B."
+    },
+    {
+     "letra": "D",
+     "texto": "I/A; II/D; III/C; IV/B."
+    },
+    {
+     "letra": "E",
+     "texto": "I/B; II/D; III/C; IV/A."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000106379",
+   "codigo": "4000106379",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 51,
+   "temas": [
+    "Tratamento e conduta"
+   ],
+   "enunciado": "Mulher, 42 anos, apresentou lesão cutânea hiperpigmentada de 1,5 cm em face anterior de perna direita. Após consulta com dermatologista, foi indicada biópsia excisional da lesão. O diagnóstico histopatológico foi de Melanoma nodular, Breslow 2,3 mm, nível de Clark III, ulceração presente, 3 mitoses/mm², microsatelitose ausente, regressão ausente, invasão perineural ausente, invasão angiolinfática ausente, fase de crescimento vertical, margens cirúrgicas livres (a menor distando 2,5 mm da lesão). No retorno pós-biópsia, a paciente não apresentava queixas. A reavaliação clínica revelou linfonodo palpável em região inguinal direita, 2 cm, móvel, broelástico, indolor. Foram realizadas tomogra as de tórax, abdome e pelve que não evidenciaram metástases à distância. Qual é a próxima conduta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ampliação de margens com pesquisa de linfonodo sentinela."
+    },
+    {
+     "letra": "B",
+     "texto": "Linfadenectomia inguial e ampliação das margens."
+    },
+    {
+     "letra": "C",
+     "texto": "Quimioterapia e radioterapia."
+    },
+    {
+     "letra": "D",
+     "texto": "Punção aspirativa por agulha fina (PAAF) do linfonodo."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000105323",
+   "codigo": "4000105323",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 52,
+   "temas": [
+    "Clínica e tipos histológicos"
+   ],
+   "enunciado": "Lesão epidérmica que, no contexto apresentado, tem maior probabilidade de corresponder à hipótese diagnóstica de melanoma:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Paciente de 50 anos, tabagista, com lesão de 8 cm de extensão, bordas regulares, sem crescimento."
+    },
+    {
+     "letra": "B",
+     "texto": "Paciente de 16 anos com lesão congênita de 5 cm extensão, bordas regulares."
+    },
+    {
+     "letra": "C",
+     "texto": "Paciente de 70 anos com lesão subungueal, de 1 cm extensão."
+    },
+    {
+     "letra": "D",
+     "texto": "Paciente de 34 anos com lesão em coxa, de 2 cm de extensão, com prurido."
+    },
+    {
+     "letra": "E",
+     "texto": "Paciente de 20 anos com lesão de 1 cm, com bordas irregulares e diferentes tons de cor."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000100666",
+   "codigo": "4000100666",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 53,
+   "temas": [
+    "Clínica e tipos histológicos"
+   ],
+   "enunciado": "Constitui a variante clínica mais frequente de melanoma e acomete indivíduos de pele clara (70%). Localiza-se preferencialmente no dorso, nos doentes de sexo masculino, e pernas, nos femininos. A média de idade mais acometida é a dos 40 anos.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Nodular"
+    },
+    {
+     "letra": "B",
+     "texto": "Extensivo superficial;"
+    },
+    {
+     "letra": "C",
+     "texto": "Lentiginoso acral;"
+    },
+    {
+     "letra": "D",
+     "texto": "Lentigo maligno."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000082222",
+   "codigo": "4000082222",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 54,
+   "temas": [
+    "Clínica e tipos histológicos",
+    "Fatores de risco"
+   ],
+   "enunciado": "Em relação ao melanoma, assinale a alternativa CORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O melanoma lentiginoso acral é o mais comum em negros e se apresenta como uma placa ou mácula hiperpigmentada em regiões palmares e plantares."
+    },
+    {
+     "letra": "B",
+     "texto": "A forma mais comum de malanoma é a nodular com pico de incidência aos setenta anos de idade."
+    },
+    {
+     "letra": "C",
+     "texto": "A exposição solar e o histórico de queimadura solar, com formação de bolhas não aumentam o risco de melanoma maligno."
+    },
+    {
+     "letra": "D",
+     "texto": "Pacientes portadores de múltiplos nevos correm o mesmo risco de desenvolver melanoma maligno que pacientes com poucos nevos."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000073923",
+   "codigo": "4000073923",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 55,
+   "temas": [
+    "Fatores de risco adicionais",
+    "Apresentação clínica",
+    "Carcinoma espinocelular"
+   ],
+   "enunciado": "Homem branco, 60 anos de idade, procura o ambulatório de Cabeça e Pescoço por queixa de lesão ulcerada no vermelhão do lábio inferior. Sobre o Câncer de lábio, podemos afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Acomete mais mulheres brancas com 50 e 80 anos de idade."
+    },
+    {
+     "letra": "B",
+     "texto": "O lábio superior é menos frequentemente acometido e o câncer predominante nessa região é o basocelular"
+    },
+    {
+     "letra": "C",
+     "texto": "A maioria dos cânceres de lábio ocorre no lábio inferior, sendo o mais comum o câncer basocelular."
+    },
+    {
+     "letra": "D",
+     "texto": "A exposição ao sol e ao fumo de cachimbo não se associam ao câncer de lábio."
+    },
+    {
+     "letra": "E",
+     "texto": "As cadeias ganglionares mais comumente envolvidas são as submandibulares e cervicais."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000057492",
+   "codigo": "4000057492",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 56,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "O Carcinoma Basocelular (CBC) da pele é uma neoplasia comum que tem relação com a exposição à luz solar. O CBC também é conhecido como epitelioma basocelular, re etindo o fato de que essa neoplasia não costuma produzir metástases. Com relação ao tratamento dos pacientes com CBC, assinale a alternativa CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A fototerapia é uma opção, quando disponível, é efetiva para erradicação de CBC superficial de alto risco."
+    },
+    {
+     "letra": "B",
+     "texto": "A National Comprehensive Cancer Network nos EUA recomenda que, no caso das lesões de CBC bem- circunscritas com diâmetro inferior a 2 cm, a excisão com margens clínicas de 4 mm deve resultar na remoção completa em mais de 95% dos casos."
+    },
+    {
+     "letra": "C",
+     "texto": "A crioterapia é muito eficiente para o tratamento de tumores com raízes mais profundas."
+    },
+    {
+     "letra": "D",
+     "texto": "O uso de fluoruracila de uso tópico é pouco útil para o tratamento de múltiplas lesões de baixo risco no pescoço e na cabeça, no tronco e nas pernas."
+    },
+    {
+     "letra": "E",
+     "texto": "A cirurgia de Mohs é uma variante da cirurgia dermatológica na qual o médico examina as margens pela consulta intraoperatória (cortes de congelamento, com prévia preparação) enquanto o local do procedimento no paciente ainda está aberto."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000042978",
+   "codigo": "4000042978",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 57,
+   "temas": [
+    "Carcinoma espinocelular invasivo",
+    "Fatores de risco adicionais",
+    "Diagnóstico e tratamento"
+   ],
+   "enunciado": "Mulher, 60 anos, hipertensa, procura assistência médica devida lesão ulcerada vegetante que não cicatriza localizada em tecido cicatricial antigo, por queimadura há 40 anos. Refere ainda o surgimento de diversas outras lesões, que ulceravam, porém com remissão espontânea, nos últimos quatro anos. A principal hipótese diagnóstica é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "carcinoma espinocelular."
+    },
+    {
+     "letra": "B",
+     "texto": "epitelioma basocelular."
+    },
+    {
+     "letra": "C",
+     "texto": "melanoma cutâneo."
+    },
+    {
+     "letra": "D",
+     "texto": "sarcoma."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000038087",
+   "codigo": "4000038087",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 58,
+   "temas": [
+    "Tratamento e conduta"
+   ],
+   "enunciado": "Paciente mulher, caucasiana, 32 anos, submetida à ressecção de lesão pigmentada de 1,4 cm em região dorsal do pé direito. Histopatológico revelou melanoma tipo extensivo super cial, sem ulceração ou fênomeno de regressão, Breslow menos que 0,8 mm e baixo índice mitótico. Invasão angiolinfática ausente e margens livres (menos margem de 4 mm). Qual é a conduta ideal?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ampliação de margens e pesquisa de linfonodo sentinela."
+    },
+    {
+     "letra": "B",
+     "texto": "Acompanhamento, não havendo indicação de ampliação de margens."
+    },
+    {
+     "letra": "C",
+     "texto": "Ampliação de margens e linfadenectomia inguinal de amostragem."
+    },
+    {
+     "letra": "D",
+     "texto": "Ampliação de margens, no mínimo, 1 cm."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000033527",
+   "codigo": "4000033527",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 59,
+   "temas": [
+    "Tratamento e conduta"
+   ],
+   "enunciado": "Mulher de 44 anos, após ter sido submetida à biopsia excisional de lesão de pele em membro superior direito, foi encaminhada ao cirurgião oncológico para prosseguimento do tratamento. Exame anotomopatológico demonstrou trata-se de melanoma maligno, classificado como Clark 2 e Breslow de 0,5mm, ausência de ulceração, margem lateral direita comprometida microscopicamente. Não se observou alteração nos demais exames de estadiamento realizados. Qual deve ser a conduta MAIS ADEQUADA em relação a essa paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tratamento cirúrgico com ampliação de margens na topografia da lesão inicial associada à realização de linfadenectomia axilar direita."
+    },
+    {
+     "letra": "B",
+     "texto": "Tratamento cirúrgico com ampliação de margens na topografia da lesão inicial, com a realização prévia de linfocintilografia e pesquisa de linfonodo sentinela."
+    },
+    {
+     "letra": "C",
+     "texto": "Tratamento cirúrgico com ampliação de margens na topografia da lesão inicial não estando indicados outros procedimentos adicionais."
+    },
+    {
+     "letra": "D",
+     "texto": "Tratamento conservador: seguimento clínico e, em caso de recidiva macroscópica da lesão realizar excisão cirúrgica com margens ampliadas."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000027002",
+   "codigo": "4000027002",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 60,
+   "temas": [
+    "Diagnóstico estadiamento e f atores prognósticos",
+    "Tratamento e conduta"
+   ],
+   "enunciado": "O local onde ocorrem mais comumente as metástases de melanoma (extranodais) é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "No cérebro."
+    },
+    {
+     "letra": "B",
+     "texto": "No fígado"
+    },
+    {
+     "letra": "C",
+     "texto": "No pulmão"
+    },
+    {
+     "letra": "D",
+     "texto": "Na adrenal."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000021591",
+   "codigo": "4000021591",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 61,
+   "temas": [
+    "Melanoma"
+   ],
+   "enunciado": "Das assertivas abaixo, marque a falsa:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "os nevos congênitos podem ser precursores de melanomas."
+    },
+    {
+     "letra": "B",
+     "texto": "os nevos atípicos podem ser precursores e marcadores de risco de melanoma."
+    },
+    {
+     "letra": "C",
+     "texto": "em cerca de 70% dos casos é relatada a existência prévia de nevo pigmentar."
+    },
+    {
+     "letra": "D",
+     "texto": "o melanoma extensivo superficial é o que mais freqüentemente se associa com lesões névicas precursoras."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000017781",
+   "codigo": "4000017781",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 62,
+   "temas": [
+    "Tratamento e conduta"
+   ],
+   "enunciado": "Uma paciente de 34 anos de idade, com derme clara, apresenta uma mancha pigmentada, escura e irregular, que foi percebida há três meses na panturrilha posterior direita. Após avaliação clínica, foi confirmado diagnóstico de melanoma maligno em estágio IV (com metástases sistêmicas). Acerca do tratamento dessa paciente, julgue o item a seguir. É recomendado o uso de imunoterapia com ipilimumabe, um anticorpo monoclonal bloqueador da via PD-1/PD-L1 (morte celular programada).",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000017026",
+   "codigo": "4000017026",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 63,
+   "temas": [
+    "Clínica e tipos histológicos"
+   ],
+   "enunciado": "O melanoma é uma neoplasia maligna que ocorre geralmente na pele, podendo manifestar-se mais raramente na boca, intestinos ou olhos. Em mulheres, as lesões desenvolvem-se mais frequentemente nas pernas, enquanto que nos homens a área mais atingida é o tronco. As lesões podem evoluir a partir de alterações em nevos melanocíticos, quando sofrem aumento de tamanho e apresentam bordas irregulares, alteração de cor, prurido ou úlceras. Qual o tipo mais frequente de melanoma de pele?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Melanoma nodular."
+    },
+    {
+     "letra": "B",
+     "texto": "Melanoma acral."
+    },
+    {
+     "letra": "C",
+     "texto": "Lentigo maligno."
+    },
+    {
+     "letra": "D",
+     "texto": "Extensivo superficial."
+    },
+    {
+     "letra": "E",
+     "texto": "Melanoma amelanótico."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000011299",
+   "codigo": "4000011299",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 64,
+   "temas": [
+    "Fatores de risco"
+   ],
+   "enunciado": "Uma paciente de 75 anos de idade, de etnia caucasiana, trabalhadora braçal por 50 anos (capinava na roça da família), apresenta lesão de pele em região do dorso, próxima à escápula direita, de aproximadamente 3 cm de diâmetro, de coloração enegrecida, com bordos irregulares, diagnosticada como melanoma após biópsia. Acerca desse caso clínico e com base nos conhecimentos médicos correlatos, em relação às lesões de pele, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O câncer de pele é uma das formas menos frequentes de câncer."
+    },
+    {
+     "letra": "B",
+     "texto": "O nevo displásico é uma lesão cutânea geralmente sem pigmentação, áspera, de 3 mm a 5 mm, com margens bem delimitadas."
+    },
+    {
+     "letra": "C",
+     "texto": "A ocupação da paciente não constitui um fator de risco para o desenvolvimento de melanoma."
+    },
+    {
+     "letra": "D",
+     "texto": "Nevos displásicos são considerados lesões precursoras do câncer de pele."
+    },
+    {
+     "letra": "E",
+     "texto": "Na exérese cirúrgica do melanoma in situ, as margens preconizadas são de pelo menos 5 cm."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000005272",
+   "codigo": "4000005272",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 65,
+   "temas": [
+    "Melanoma",
+    "Tratamento e conduta"
+   ],
+   "enunciado": "Maria, 24 anos, procurou o dermatologista após notar uma lesão pigmentada em seu braço esquerdo há 3 meses. Foi realizada biópsia excisional desta lesão. O resultado do exame anatomopatológico confirmou Melanoma Maligno, Clark nível II, índice de Breslow de 0,8mm, sem ulceração, margens negativas, mas próximas da lesão (distância < 1mm) e apresentando taxa mitótica de 2 mitoses/mm². Os achados do exame físico da paciente neste momento são de uma cicatriz de aspecto adequado em braço esquerdo (local da biópsia) e ausência de linfoadenomegalias palpáveis em todos os segmentos corporais. Assinale a alternativa que contém a conduta mais adequada para esta paciente.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Expectante."
+    },
+    {
+     "letra": "B",
+     "texto": "Ressecção do tecido cicatricial (pele e subcutâneo até fascia muscular) com margem mínima de 1cm a partir da borda da cicatriz."
+    },
+    {
+     "letra": "C",
+     "texto": "Ressecção do tecido cicatricial (pele e subcutâneo até fascia muscular) com margem mínima de 2cm a partir da borda da cicatriz."
+    },
+    {
+     "letra": "D",
+     "texto": "Ressecção do tecido cicatricial (pele e subcutâneo até fascia muscular) com margem mínima de 1cm a partir da borda da cicatriz, além de pesquisa e biópsia de linfonodo sentinela."
+    },
+    {
+     "letra": "E",
+     "texto": "Ressecção do tecido cicatricial (pele e subcutâneo até fascia muscular) com margem mínima de 2 cm a partir da borda da cicatriz, além de pesquisa e biópsia de linfonodo sentinela."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000003186",
+   "codigo": "4000003186",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 66,
+   "temas": [
+    "Clínica e tipos histológicos"
+   ],
+   "enunciado": "Sabendo que o melanoma é o câncer de pele com maior índice de mortalidade, seu diagnóstico precoce está associado a um melhor prognóstico. Paciente, 59 anos, apresenta nódulo negro-azulado, de crescimento rápido, com discreta ulceração na perna. Como você classifica esta lesão?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Lentigo maligno melanoma"
+    },
+    {
+     "letra": "B",
+     "texto": "Melanoma nodular"
+    },
+    {
+     "letra": "C",
+     "texto": "Melanoma lentiginoso acral"
+    },
+    {
+     "letra": "D",
+     "texto": "Melanoma extensivo superficial"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000128236",
+   "codigo": "4000128236",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 67,
+   "temas": [
+    "Melanoma",
+    "Risco de metástase",
+    "Ceratose actínica"
+   ],
+   "enunciado": "Em relação aos tumores de pele assinale alternativa ERRADA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "As metástases linfonodais dos carcinomas de células escamosas são mais precoces e mais frequentes do que as do carcinoma basocelular"
+    },
+    {
+     "letra": "B",
+     "texto": "Ceratose actínica é precursora principalmente de carcinoma basocelular, mas pode eventualmente ocasionar melanoma e carcinoma de células escamosas"
+    },
+    {
+     "letra": "C",
+     "texto": "Nódulos peroláceos nas bordas das lesões são típicos de carcinoma basocelular"
+    },
+    {
+     "letra": "D",
+     "texto": "Pacientes submetidos a transplante de órgãos têm risco maior de desenvolverem carcinoma de células escamosas maligno mais frequente!"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000121181",
+   "codigo": "4000121181",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 68,
+   "temas": [
+    "Carcinoma espinocelular e lesões prémalignas"
+   ],
+   "enunciado": "As características clínicas mais sugestivas de queilite actínica são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Manutenção da nitidez do contorno labial, com atrofia da borda do vermelhão do lábio inferior."
+    },
+    {
+     "letra": "B",
+     "texto": "Perda da nitidez do contorno labial, com apagamento da margem entre vermelhão e porção cutânea do lábio inferior."
+    },
+    {
+     "letra": "C",
+     "texto": "Manutenção da nitidez do contorno labial com atrofia da borda do vermelhão e apagamento da margem entre vermelhão e porção cutânea do lábio inferior."
+    },
+    {
+     "letra": "D",
+     "texto": "Perda da nitidez do contorno labial superior, com apagamento da margem entre vermelhão e porção cutânea."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000116837",
+   "codigo": "4000116837",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 69,
+   "temas": [
+    "Fatores de risco",
+    "Carcinoma espinocelular e lesões prémalignas",
+    "Apresentação clínica"
+   ],
+   "enunciado": "Pode-se afirmar em relação aos tumores de pele:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O carcinoma espinocelular é o tipo mais frequente."
+    },
+    {
+     "letra": "B",
+     "texto": "O carcinoma basocelular pigmentado está associado ao melanoma na maioria das vezes."
+    },
+    {
+     "letra": "C",
+     "texto": "Pele clara, queimaduras solares durante a infância, bronzeamento artificial e história familiar são fatores de risco para o melanoma."
+    },
+    {
+     "letra": "D",
+     "texto": "O carcinoma basocelular, quando localizado na região nasal, apresenta 30% de possibilidade de metástase para o seio cavernoso."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000114652",
+   "codigo": "4000114652",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 70,
+   "temas": [
+    "Filtros solares"
+   ],
+   "enunciado": "Em relação ao uso de filtro solar na infância, a Sociedade Brasileira de Pediatra recomenda:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Não são indicados abaixo de um ano de idade, quando se deve preferir o uso de protetores mecânicos, como guarda-sol, chapéus e roupas."
+    },
+    {
+     "letra": "B",
+     "texto": "O menor fator de proteção solar recomendado na infância é o 50."
+    },
+    {
+     "letra": "C",
+     "texto": "Entre um e dois anos se recomenda o uso dos filtros físicos, como dióxido de titânio e óxido de zinco."
+    },
+    {
+     "letra": "D",
+     "texto": "Acima de dois anos podem ser usados os filtros químicos infantis, hipoalergênicos."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000109432",
+   "codigo": "4000109432",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 71,
+   "temas": [
+    "Clínica e tipos histológicos",
+    "Diagnóstico estadiamento e f atores prognósticos"
+   ],
+   "enunciado": "Paciente do sexo feminino, 45 anos, apresenta lesão melanocítica no antebraço direito, de longa data. Há 1 mês, a lesão aumentou de tamanho. Ao exame, lesão de 0,9 cm de diâmetro, de bordas assimétricas, limites imprecisos, e coloração irregular. Qual a próxima etapa do tratamento?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Biópsia incisional."
+    },
+    {
+     "letra": "B",
+     "texto": "Ressecção com margens de 1 cm."
+    },
+    {
+     "letra": "C",
+     "texto": "Biópsia excisional."
+    },
+    {
+     "letra": "D",
+     "texto": "Ressecção com margens de 2 cm."
+    },
+    {
+     "letra": "E",
+     "texto": "Ressecção radical com linfadenectomia axiliar direita."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000107077",
+   "codigo": "4000107077",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 72,
+   "temas": [
+    "Carcinoma espinocelular e lesões prémalignas"
+   ],
+   "enunciado": "São consideradas lesões cutâneas pré-malignas, ou malignas exceto:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ceratose actínica;"
+    },
+    {
+     "letra": "B",
+     "texto": "Corno cutâneo;"
+    },
+    {
+     "letra": "C",
+     "texto": "Doença de Bowen;"
+    },
+    {
+     "letra": "D",
+     "texto": "Ceratose seborréica;"
+    },
+    {
+     "letra": "E",
+     "texto": "Nenhuma das alternativas anteriores."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000104615",
+   "codigo": "4000104615",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 73,
+   "temas": [
+    "Tratamento e conduta"
+   ],
+   "enunciado": "Homem de 37 anos notou surgimento de lesão pigmentada em antebraço direito ( figura abaixo), há 6 meses, com aumento progressivo de tamanho. A biópsia excisional confirmou a principal hipótese diagnóstica e indicou espessura de Breslow de 2,7 milímetros. O exame físico da cadeia linfática axilar direita não mostrou linfadenomegalias ou qualquer massa palpável. Quais as próximas etapas do tratamento desse paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ampliação de margens de 2 centímetros, linfadenectomia axilar, tomografia de pulmão e ressonância de abdome."
+    },
+    {
+     "letra": "B",
+     "texto": "Ampliação de margens de 1 centímetro, pesquisa do linfonodo sentinela, radiografia de pulmão e ultrassom de abdome."
+    },
+    {
+     "letra": "C",
+     "texto": "Ampliação de margens de 1 centímetro, linfadenectomia axilar, tomografia de pulmão e ressonância de abdome."
+    },
+    {
+     "letra": "D",
+     "texto": "Ampliação de margens de 2 centímetros, pesquisa do linfonodo sentinela, radiografia de pulmão e ultrassom de abdome."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q073-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000100900",
+   "codigo": "4000100900",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 74,
+   "temas": [
+    "Diagnóstico estadiamento e f atores prognósticos",
+    "Tratamento e conduta"
+   ],
+   "enunciado": "A principal característica histopatológica que influencia no tratamento cirúrgico do melanoma é?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Espessura (Índice de Breslow)."
+    },
+    {
+     "letra": "B",
+     "texto": "Tamanho."
+    },
+    {
+     "letra": "C",
+     "texto": "Índice de Clark."
+    },
+    {
+     "letra": "D",
+     "texto": "Índice mitótico."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000088908",
+   "codigo": "4000088908",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 75,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Paciente de 52 anos de idade, do sexo feminino, apresentava lesão nodular cutânea em face, de coloração avermelhada, bordas arredondadas, com brilho perolado e áreas de telangiectasias. Foi submetida à excisão cirúrgica dessa lesão cujo resultado histopatológico foi carcinoma basocelular, com base e margens de segurança livres de neoplasia . A conduta indicada neste momento é a",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "radioterapia adjuvante."
+    },
+    {
+     "letra": "B",
+     "texto": "quimioterapia adjuvante."
+    },
+    {
+     "letra": "C",
+     "texto": "observação."
+    },
+    {
+     "letra": "D",
+     "texto": "imunoterapia com Interferon."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000082093",
+   "codigo": "4000082093",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 76,
+   "temas": [
+    "Diagnóstico e tratamento"
+   ],
+   "enunciado": "Paciente masculino, 60 anos, previamente hígido, apresenta-se à consulta com uma lesão cutênea de 5 cm de diâmetro localizada na face anterior da perna esquerda, com bordos mal definidos, uma ulceração central, hiperemiada e indolor à palpação. Refere sangramento esporádico e que, há muitos anos, teve uma queimadura, no mesmo local, por queda em um reservatório de soda cáustica. No quadro descrito acima, a conduta mais indicada é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Exérese cirúrgica com limites de segurança."
+    },
+    {
+     "letra": "B",
+     "texto": "Antibioticoterapia."
+    },
+    {
+     "letra": "C",
+     "texto": "Radioterapia e posterior cirurgia."
+    },
+    {
+     "letra": "D",
+     "texto": "Biópsia punch."
+    },
+    {
+     "letra": "E",
+     "texto": "Fototerapia."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000082055",
+   "codigo": "4000082055",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 77,
+   "temas": [
+    "Carcinoma espinocelular e lesões prémalignas"
+   ],
+   "enunciado": "Paciente masculino, 60 anos, previamente hígido, apresenta-se à consulta com uma lesão cutânea de 5 cm de diâmetro localizada na face anterior da perna esquerda, com bordos mal definidos, uma ulceração central, hiperemiada e indolor à palpação. Refere sangramento esporádico e que, há muitos anos, teve uma queimadura, no mesmo local, por queda em um reservatório de soda cáustica. O diagnóstico mais provável nesse caso é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Carcinoma basocelular."
+    },
+    {
+     "letra": "B",
+     "texto": "Carcinoma espinocelular."
+    },
+    {
+     "letra": "C",
+     "texto": "Ceratose senil."
+    },
+    {
+     "letra": "D",
+     "texto": "Úlcera varicosa."
+    },
+    {
+     "letra": "E",
+     "texto": "Leishmaniose tegumentar."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000068479",
+   "codigo": "4000068479",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 78,
+   "temas": [
+    "Diagnóstico estadiamento e f atores prognósticos"
+   ],
+   "enunciado": "Paciente submetido à biópsia excisional de lesão de pele. O diagnóstico histopatológico foi de melanoma com margens livres. Qual a análise do fator que melhor prediz o prognóstico?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Nível de Clark."
+    },
+    {
+     "letra": "B",
+     "texto": "Tipo histológico."
+    },
+    {
+     "letra": "C",
+     "texto": "Localização de lesão."
+    },
+    {
+     "letra": "D",
+     "texto": "Espessura de Breslow."
+    },
+    {
+     "letra": "E",
+     "texto": "Frequência mitótica."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000066929",
+   "codigo": "4000066929",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 79,
+   "temas": [
+    "Diagnóstico estadiamento e f atores prognósticos"
+   ],
+   "enunciado": "A classificação de Clark para melanoma invasivo foi proposta em 1969 e relaciona a extensão da invasão tumoral com as camadas anatômicas da pele. Os tumores que estendem-se para dentro da derme papilar e também apresentam um excelente prognóstico são classificados como Clark de nível",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1"
+    },
+    {
+     "letra": "B",
+     "texto": "2"
+    },
+    {
+     "letra": "C",
+     "texto": "3"
+    },
+    {
+     "letra": "D",
+     "texto": "4"
+    },
+    {
+     "letra": "E",
+     "texto": "5"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047783",
+   "codigo": "4000047783",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 80,
+   "temas": [
+    "Clínica e tipos histológicos"
+   ],
+   "enunciado": "Paciente feminina, 78 anos, comparece a UBS trazida pela lha que refere estar percebendo que a mancha escura que a mãe tem na face há vários anos mudou de tamanho, forma e cor nos últimos meses. Ao exame apresenta lesão levemente elevada, arciforme, com margens irregulares e coloração castanho-acinzentada em base eritematosa. Qual o diagnóstico clínico mais provável?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Carcinoma Basocelular nodular."
+    },
+    {
+     "letra": "B",
+     "texto": "Melanose maligna."
+    },
+    {
+     "letra": "C",
+     "texto": "Melanoma nodular."
+    },
+    {
+     "letra": "D",
+     "texto": "Carcinoma Espinocelular."
+    },
+    {
+     "letra": "E",
+     "texto": "Ceratose solar."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000038526",
+   "codigo": "4000038526",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 81,
+   "temas": [
+    "Melanoma"
+   ],
+   "enunciado": "Com relação ao melanoma, pode-se afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Os melanomas in situ têm baixo risco de metástases, por estarem na fase radial não invasiva, com todas as células tumorais confinadas até o nível da derme."
+    },
+    {
+     "letra": "B",
+     "texto": "O melanoma lentiginoso acral representa o tipo mais comum, sendo encontrado em até 85% dos casos. Apresenta predileção pelas áreas acrais (distais) e acomete vários grupos étnicos."
+    },
+    {
+     "letra": "C",
+     "texto": "O melanoma nodular é caracterizado pela presença de um nódulo que não é precedido pela fase de crescimento radial. Apresenta prognóstico mais reservado."
+    },
+    {
+     "letra": "D",
+     "texto": "O melanoma do tipo lentigo maligno ocorre principalmente em pacientes abaixo dos 40 anos de idade e acomete regiões que não necessariamente estão expostas ao Sol."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000033457",
+   "codigo": "4000033457",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 82,
+   "temas": [
+    "Tratamento e conduta"
+   ],
+   "enunciado": "E.F.G, 42 anos, sexo masculino, empresário, notou lesão escura em região deltoide há cerca de 1 ano, mas não deu maior importância. Há 20 dias notou pequena ulceração na borda, com sangramento discreto. Ao exame, foi constatada lesão hipercrômica de 1,2 cm, irregular, com ulceração mínima em uma das bordas. A biopsia incisional revelou melanoma Breslow de 0,8 mm com presença de mais de 1 mitose por mm². Sobre este caso e com seus conhecimentos sobre melanoma, assinale a alternativa ERRADA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A presença de mitoses é típica de crescimento vertical."
+    },
+    {
+     "letra": "B",
+     "texto": "Está indicado realizar a pesquisa de linfonodo sentinela."
+    },
+    {
+     "letra": "C",
+     "texto": "Linfonodo sentinela é o linfonodo acometido por metástase."
+    },
+    {
+     "letra": "D",
+     "texto": "Ulceração da lesão é um importante fator de mau prognóstico."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000018996",
+   "codigo": "4000018996",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 83,
+   "temas": [
+    "Filtros solares"
+   ],
+   "enunciado": "O escopo da abordagem comunitária do médico de família foge do completo isolamento do consultório médico, envolvendo, também, ações de modi cação do ambiente da comunidade, visando à promoção da qualidade de vida e à prevenção de doenças da população. Considerando esse contexto, Rafael, residente do 2º ano de medicina de família e comunidade, procurou auxílio da prefeitura para implantar um programa de incentivo à atividade física, na área geográ ca de sua atuação, o qual incluía a revitalização da praça próxima ao posto, a implantação de academia ao ar livre e a pista de caminhada. Três vezes por semana, Rafael investia a 1ª hora de sua manhã organizando um grupo de caminhada e orientando a população na prática de exercícios físicos. Considerando a situação hipotética apresentada e os conhecimentos médicos correlatos, julgue o item a seguir. O uso de protetor solar durante as caminhadas é prudente, sobretudo, em indivíduos com pele clara.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000015121",
+   "codigo": "4000015121",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 84,
+   "temas": [
+    "Melanoma"
+   ],
+   "enunciado": "Paciente, masculino, 58 anos, procura atendimento médico, após esposa ter percebido nódulo no dorso com crescimento progressivo há 3 meses. Nega lesões prévias ou trauma nesta topogra a. Nega sintomas locais associados. Ao exame dermatológico, observa-se lesão nodular exofítica eritematosa de consistência rme, com superfície exulcerada, medindo aproximadamente 2 cm em seu maior diâmetro. Não apresenta alteração de cor ou de textura ao redor da lesão. Considerando o diagnóstico diferencial da lesão descrita no caso acima, responda corretamente.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A evolução e a localização sugerem o diagnóstico de um carcinoma basocelular nodular."
+    },
+    {
+     "letra": "B",
+     "texto": "O diagnóstico de melanoma nodular prejudica a utilização da regra ABCDE para detecção precoce."
+    },
+    {
+     "letra": "C",
+     "texto": "O diagnóstico de melanoma é pouco provável por se tratar de área exposta ao sol de forma esporádica."
+    },
+    {
+     "letra": "D",
+     "texto": "O diagnóstico de melanoma é pouco provável, pela ausência de nevo melanocítico antecedendo a lesão."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000014502",
+   "codigo": "4000014502",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 85,
+   "temas": [
+    "Radiação ultravioleta",
+    "Fatores de risco para câncer de pele não melanoma CPNM"
+   ],
+   "enunciado": "Julgue o item subsecutivo, acerca das doenças oncológicas. A exposição prolongada e frequente ao sol representa fator de risco para o desenvolvimento do câncer de pele, principalmente para pessoas com pele escura.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000005020",
+   "codigo": "4000005020",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 86,
+   "temas": [
+    "Melanoma",
+    "Tratamento e conduta"
+   ],
+   "enunciado": "Homem branco, 53 anos de idade, apresenta lesão em região dorsal pigmentada, assimétrica, com diversas tonalidades que variam da cor preta à marrom, com margens irregulares, com diâmetro de 1 cm. Qual será a conduta adotada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Biópsia incisional incluindo tecido adiposo local."
+    },
+    {
+     "letra": "B",
+     "texto": "Ressecção da lesão com margens de segurança de 2 cm."
+    },
+    {
+     "letra": "C",
+     "texto": "Ressecção da lesão com margens de segurança de 2 cm e biópsia de linfonodo sentinela."
+    },
+    {
+     "letra": "D",
+     "texto": "Biópsia excisional incluindo tecido adiposo local."
+    },
+    {
+     "letra": "E",
+     "texto": "Ressecção da lesão com margens de segurança de 2 cm e linfadenectomia"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000003058",
+   "codigo": "4000003058",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 87,
+   "temas": [
+    "Carcinoma espinocelular e lesões prémalignas"
+   ],
+   "enunciado": "Mulher, 65 anos, com lesão em fronte de aumento progressivo, 2 cm de diâmetro, ulcerada, bordas translúcidas, teleangiectasias que sangram à manipulação. Essa lesão é compatível com:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "melanoma;"
+    },
+    {
+     "letra": "B",
+     "texto": "carcinoma espinocelular;"
+    },
+    {
+     "letra": "C",
+     "texto": "carcinoma basocelular;"
+    },
+    {
+     "letra": "D",
+     "texto": "sarcoma epitelioide."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119416",
+   "codigo": "4000119416",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 88,
+   "temas": [
+    "Introdução",
+    "Carcinoma basocelular"
+   ],
+   "enunciado": "Quanto aos Carcinomas Basocelulares (CBC), podemos afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "São o segundo câncer cutâneo mais comum."
+    },
+    {
+     "letra": "B",
+     "texto": "Os principais fatores predisponentes são genéticos."
+    },
+    {
+     "letra": "C",
+     "texto": "Raramente evoluem com metástases."
+    },
+    {
+     "letra": "D",
+     "texto": "São lesões de crescimento rápido, mais comumente localizadas no terço inferior da face."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119298",
+   "codigo": "4000119298",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 89,
+   "temas": [
+    "Clínica e tipos histológicos",
+    "Diagnóstico estadiamento e f atores prognósticos"
+   ],
+   "enunciado": "Mulher de 25 anos, hígida. Refere lesão escurecida na coxa direita há vários anos. Há 1 mês, percebeu leve aumento da lesão e sangramento local aos pequenos traumas, como passar a toalha de banho. Exame físico: lesão acastanhada discretamente elevada, de 6 mm de diâmetro, com pequena exulceração central. A melhor conduta inicial a ser tomada é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Realizar curativo diário com pomada de antibióticos por 14 dias e reavaliar."
+    },
+    {
+     "letra": "B",
+     "texto": "Solicitar exames laboratoriais para avaliar a possibilidade de vasculite leucocitoclástica ou distúrbio de coagulação."
+    },
+    {
+     "letra": "C",
+     "texto": "Realizar biópsia incisional com 5 mm de diâmetro, evitando-se a área exulcerada."
+    },
+    {
+     "letra": "D",
+     "texto": "Realizar exérese da lesão com margens laterais máximas de 2 mm e encaminhar para exame anatomopatológico."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000115583",
+   "codigo": "4000115583",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 90,
+   "temas": [
+    "Clínica e tipos histológicos",
+    "Diagnóstico estadiamento e f atores prognósticos"
+   ],
+   "enunciado": "Um paciente de 35 anos de idade tem um nevus de 1 cm de diâmetro em braço. É feita a suspeita de melanoma, sendo indicada biópsia. A margem cirúrgica na biópsia deve ser",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "incisional."
+    },
+    {
+     "letra": "B",
+     "texto": "marginal."
+    },
+    {
+     "letra": "C",
+     "texto": "de 1 cm."
+    },
+    {
+     "letra": "D",
+     "texto": "de 1,5 cm."
+    },
+    {
+     "letra": "E",
+     "texto": "de 2 cm."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000110414",
+   "codigo": "4000110414",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 91,
+   "temas": [
+    "Diagnóstico estadiamento e f atores prognósticos"
+   ],
+   "enunciado": "Qual é o fator crítico que determina o potencial metastático de um melanoma?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Diâmetro."
+    },
+    {
+     "letra": "B",
+     "texto": "Profundidade."
+    },
+    {
+     "letra": "C",
+     "texto": "Cor."
+    },
+    {
+     "letra": "D",
+     "texto": "Irregularidade."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000102202",
+   "codigo": "4000102202",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 92,
+   "temas": [
+    "Clínica e tipos histológicos",
+    "Diagnóstico estadiamento e f atores prognósticos"
+   ],
+   "enunciado": "Mulher, 58 anos, procurou atendimento na Unidade Básica de Saúde após notar o surgimento de lesão cutânea pigmentada em perna esquerda, há 3 meses, que está aumentando de tamanho. O médico que a atendeu realizou biópsia excisional. A lesão é mostrada na figura abaixo. Baseado na principal hipótese diagnóstica, qual o dado do exame anatomopatológico é o melhor preditor de recorrência local desta lesão e define as condutas subsequentes?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Nível de Clark."
+    },
+    {
+     "letra": "B",
+     "texto": "Subtipo histológico."
+    },
+    {
+     "letra": "C",
+     "texto": "Espessura de Breslow."
+    },
+    {
+     "letra": "D",
+     "texto": "Invasão angiolinfática."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q092-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000098525",
+   "codigo": "4000098525",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 93,
+   "temas": [
+    "Clínica e tipos histológicos",
+    "Diagnóstico estadiamento e f atores prognósticos"
+   ],
+   "enunciado": "Mulher, 52a, procura atendimento médico por tosse e febre há 3 dias. No exame foi observada no dorso, a seguinte lesão com aproximadamente 3 cm no maior eixo: (Conforme imagem do caderno de questões). A CONDUTA EM RELAÇÃO À LESÃO É:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Biópsia incisional."
+    },
+    {
+     "letra": "B",
+     "texto": "Biópsia por raspagem."
+    },
+    {
+     "letra": "C",
+     "texto": "Biópsia e pesquisa do linfonodo sentinela."
+    },
+    {
+     "letra": "D",
+     "texto": "Biópsia excisional."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q093-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000093371",
+   "codigo": "4000093371",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 94,
+   "temas": [
+    "Clínica e tipos histológicos",
+    "Diagnóstico estadiamento e f atores prognósticos"
+   ],
+   "enunciado": "Com relação ao melanoma, o subtipo mais frequente é o _______e o fator prognóstico de microestadiamento mais importante é o(a) _________.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "nodular - ulceração"
+    },
+    {
+     "letra": "B",
+     "texto": "lentiginoso acral - ulceração"
+    },
+    {
+     "letra": "C",
+     "texto": "nodular - espessura tumoral"
+    },
+    {
+     "letra": "D",
+     "texto": "lentigo maligno - número de mitoses"
+    },
+    {
+     "letra": "E",
+     "texto": "extensivo superficial - espessura tumoral"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000092301",
+   "codigo": "4000092301",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 95,
+   "temas": [
+    "Tratamento e conduta"
+   ],
+   "enunciado": "Assinale a assertiva CORRETA sobre a ampliação das margens cirúrgicas após biópsia excisional de melanoma.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A inclusão da fáscia profunda na ampliação das margens de melanomas invasivos (T \"maior ou igual\" 1) é necessária na maioria dos casos."
+    },
+    {
+     "letra": "B",
+     "texto": "Para planejamento cirúrgico, as medidas das margens consideradas são as obtidas pelo patologista após fixação da peça."
+    },
+    {
+     "letra": "C",
+     "texto": "Nos melanomas invasivos, as margens são ampliadas para evitar o fenômeno conhecido como satelitose."
+    },
+    {
+     "letra": "D",
+     "texto": "Nos melanomas intraepiteliais tipo lentigo maligno, não há necessidade de ampliação das margens quando elas já estão livres no exame anatomopatológico."
+    },
+    {
+     "letra": "E",
+     "texto": "A ampliação das margens recomendada baseia-se na microespessura do melanoma, não estando relacionada ao segmento corporal."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000090282",
+   "codigo": "4000090282",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 96,
+   "temas": [
+    "Diagnóstico estadiamento e f atores prognósticos",
+    "Tratamento e conduta"
+   ],
+   "enunciado": "ARN, 25 anos, gênero feminino, estudante, informa a presença de \"pinta escura\" com cerca de 0,5 cm de diâmetro na face lateral da perna direita há alguns anos, mas que agora apresentou ulceração e pequeno sangramento. Não dói nem coça. O cirurgião optou por ressecção com ampla margem de segurança e o exame histopatológico confirmou tratar-se de melanoma maligno Breslow de 0,8 mm de espessura. Em relação a este caso assinale a afirmativa CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A presença de ulceração é fator de mau prognóstico."
+    },
+    {
+     "letra": "B",
+     "texto": "Tem indicação absoluta de se realizar esvaziamento inguinal."
+    },
+    {
+     "letra": "C",
+     "texto": "Não há indicação para pesquisa de linfonodo sentinela."
+    },
+    {
+     "letra": "D",
+     "texto": "O correto seria realizar primeiro uma biopsia incisional."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000058668",
+   "codigo": "4000058668",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 97,
+   "temas": [
+    "Carcinoma basocelular"
+   ],
+   "enunciado": "Qual o tipo de cancer de pele que é o de maior incidência (mais comum) e não desenvolve metástase?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Carcinoma de Células Claras"
+    },
+    {
+     "letra": "B",
+     "texto": "Carcinoma Espinocelular"
+    },
+    {
+     "letra": "C",
+     "texto": "Melanoma"
+    },
+    {
+     "letra": "D",
+     "texto": "Carcinoma Basocelular"
+    },
+    {
+     "letra": "E",
+     "texto": "Hemagiossarcoma"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000054208",
+   "codigo": "4000054208",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 98,
+   "temas": [
+    "Radiação ultravioleta"
+   ],
+   "enunciado": "Mulher de 22 anos de idade chega ao seu consultório preocupada com a exposição ao sol. Ela traz alguns protetores solares e quer saber qual deles é o melhor para prevenir rugas e manchas. Ela está menos preocupada com queimaduras causadas pelo sol porque está tentando melhorar o bronzeado. O bloqueio de qual raio ultravioleta fornecerá os resultados desejados?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "UV-A;"
+    },
+    {
+     "letra": "B",
+     "texto": "UV-B;"
+    },
+    {
+     "letra": "C",
+     "texto": "UV-A e UV-B igualmente;"
+    },
+    {
+     "letra": "D",
+     "texto": "Nem UV-A, nem UV-B;"
+    },
+    {
+     "letra": "E",
+     "texto": "Nenhuma das acima;"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000044520",
+   "codigo": "4000044520",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 99,
+   "temas": [
+    "Diagnóstico estadiamento e f atores prognósticos"
+   ],
+   "enunciado": "Em relação ao estadiamento de TNM para melanoma , é INCORRETO afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a dosagem de desidrogenase latica sérica faz parte do estadiamento TNM."
+    },
+    {
+     "letra": "B",
+     "texto": "metástase em transito pertence ao estadiamento N3."
+    },
+    {
+     "letra": "C",
+     "texto": "a extensão vertical do tumor (espessura) compõe o T do TNM."
+    },
+    {
+     "letra": "D",
+     "texto": "a presença de ulceração não tem influencia no estadiamento TNM."
+    },
+    {
+     "letra": "E",
+     "texto": "um maior indice mitótico significa maior probabilidade da doença disseminar."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000044349",
+   "codigo": "4000044349",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 100,
+   "temas": [
+    "Diagnóstico estadiamento e f atores prognósticos",
+    "Tratamento e conduta"
+   ],
+   "enunciado": "No melanoma cutâneo o prognóstico é proporcionalmente pior quanto maior a profundidade da lesão que é denominada espessura de Breslow. Sabemos também que a ressecção com margem livre de tumor varia conforme a espessura de Breslow. Chega ao seu consultório uma paciente com uma lesão cutânea no dorso da mão esquerda de aspecto assimétrico, com bordos irregulares, coloração acinzentada e medindo 1 cm de diâmetro. A conduta inicial mais adequada é: Respostas: 1 12 23 34 45 56 67 78 89 100",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ressecção com margem livre de 2 cm"
+    },
+    {
+     "letra": "B",
+     "texto": "Ressecção com margem livre de 3 cm"
+    },
+    {
+     "letra": "C",
+     "texto": "Ressecção com margem livre de 1 cm e pesquisa de linfonodo sentinela"
+    },
+    {
+     "letra": "D",
+     "texto": "Biópsia excisional com margem coincidente (exígua)"
+    },
+    {
+     "letra": "E",
+     "texto": "Observação."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": [
+  {
+   "id": "4000165604",
+   "codigo": "4000165604",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Câncer de pele",
+   "numero": 9,
+   "temas": [
+    "Dermatologia",
+    "Tratamento e conduta"
+   ],
+   "enunciado": "Mulher, 63 anos de idade, com antecedente de ressecção de melanoma no dorso, operado há 3 anos, com Breslow de 0,76mm. Em seguimento dermatológico de rotina, foi realizada dermatoscopia que evidenciou lesão no antebraço direito. Foi indicada a ressecção da lesão para diagnóstico. Qual é a alternativa que apresenta a linha de incisão na pele que deve ser realizada?",
+   "alternativas": [],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q009-1.jpg",
+     "antes_das_alternativas": true
+    },
+    {
+     "arquivo": "imagens/q009-2.jpg",
+     "antes_das_alternativas": false
+    },
+    {
+     "arquivo": "imagens/q009-3.jpg",
+     "antes_das_alternativas": false
+    },
+    {
+     "arquivo": "imagens/q009-4.jpg",
+     "antes_das_alternativas": false
+    }
+   ],
+   "revisar": [],
+   "motivo_exclusao": "sem alternativas"
+  }
+ ]
+}

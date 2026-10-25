@@ -1,0 +1,647 @@
+{
+ "questoes": [
+  {
+   "id": "4000082560",
+   "codigo": "4000082560",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neurooftalmo",
+   "numero": 1,
+   "temas": [
+    "Tratamento da Hipertensão Intracraniana",
+    "Cef aleias Secundárias",
+    "Quadro Clínico"
+   ],
+   "enunciado": "Uma mulher de 30 anos apresenta cefaléia crônica diária, zumbido pulsátil e turvamento episódico da visão. No exame, ela apresenta papiledema. Que avaliação você realizaria?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ressonância magnética (RM) e punção lombar (PL);"
+    },
+    {
+     "letra": "B",
+     "texto": "RM, PL e campos visuais;"
+    },
+    {
+     "letra": "C",
+     "texto": "Tomografia computadorizada (TC);"
+    },
+    {
+     "letra": "D",
+     "texto": "Somente PL;"
+    },
+    {
+     "letra": "E",
+     "texto": "Nenhuma das alternativas anteriores;"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000067483",
+   "codigo": "4000067483",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neurooftalmo",
+   "numero": 2,
+   "temas": [
+    "Síndromes Pupilares"
+   ],
+   "enunciado": "Para avaliar as representações abaixo devem considerar a situação I como pupilas normais (circulares centradas e diâmetros normais). As situações II, III e IV representam diferentes formas de discorias. Assinale com [V] para as assertivas verdadeiras e [F] para as falsas e escolha a alternativa que contenha a sequencia correta. [ ] Na situação II verifica-se anisocoria com miose à direita; [ ] Na situação III verifica-se isocoria e midríase bilateral; [ ] Na situação IV verifica-se discoria à direita; [ ] Na situação III verifica-se isocoria e miose bilateral; [ ] Na situação IV verifica-se midríase à direita",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "F, V, F, V, F"
+    },
+    {
+     "letra": "B",
+     "texto": "V, F, V, F, V"
+    },
+    {
+     "letra": "C",
+     "texto": "F, F, F, V, F"
+    },
+    {
+     "letra": "D",
+     "texto": "V, V, F, F, F"
+    },
+    {
+     "letra": "E",
+     "texto": "Nenhuma das sequencias acima está correta."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q002-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000059273",
+   "codigo": "4000059273",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neurooftalmo",
+   "numero": 3,
+   "temas": [
+    "Neurite Óptica"
+   ],
+   "enunciado": "A neuropatia óptica tóxica medicamentosa ocorre, com frequência, nos pacientes que fazem uso de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Etambutol"
+    },
+    {
+     "letra": "B",
+     "texto": "Cloroquina"
+    },
+    {
+     "letra": "C",
+     "texto": "Tamoxifeno"
+    },
+    {
+     "letra": "D",
+     "texto": "Tetraciclina"
+    },
+    {
+     "letra": "E",
+     "texto": "Fenotiazina"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000021624",
+   "codigo": "4000021624",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neurooftalmo",
+   "numero": 4,
+   "temas": [
+    "Neurite Óptica"
+   ],
+   "enunciado": "Paciente do sexo feminino, de 28 anos, previamente hígida, apresenta-se com quadro de dor ocular de início há seis horas no olho direito, de caráter progressivo, com escotoma e dor à movimentação lateralizada do olhar. No exame ocular, movimentos dos olhos normais, acuidade visual 20/20 bilateralmente, reflexos pupilares com reação fotomotora diminuída do olho direito. RM demonstrou duas lesões periventriculares na substância branca, sem realce de gadolínio. Qual é o diagnóstico do sintoma visual?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Toxoplasmose"
+    },
+    {
+     "letra": "B",
+     "texto": "Glaucoma."
+    },
+    {
+     "letra": "C",
+     "texto": "Neurite óptica."
+    },
+    {
+     "letra": "D",
+     "texto": "Síndrome ocular isquêmica."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000002303",
+   "codigo": "4000002303",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neurooftalmo",
+   "numero": 5,
+   "temas": [
+    "Lesão Retroquiasmática"
+   ],
+   "enunciado": "Em relação a um achado de hemianopsia homônima diante da avaliação subjetiva do campo de visão, ou seja, o exame do campo visual que justifica o diagnóstico de lesão, caracteriza-se como:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Quiasma óptico."
+    },
+    {
+     "letra": "B",
+     "texto": "Radiações ópticas."
+    },
+    {
+     "letra": "C",
+     "texto": "Nervo oculomotor."
+    },
+    {
+     "letra": "D",
+     "texto": "Nervo zigomático facial."
+    },
+    {
+     "letra": "E",
+     "texto": "Segundo nervo craniano."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000127610",
+   "codigo": "4000127610",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neurooftalmo",
+   "numero": 6,
+   "temas": [
+    "Lesão do Quiasma Óptico"
+   ],
+   "enunciado": "Um menino com 5 anos e 11 meses de idade faz seguimento de rotina em Unidade Básica de Saúde desde o nascimento, sem antecedentes morbidos relevantes. Em sua última consulta, há um ano, sua estatura era de 110 cm; na consulta atual está medindo 111 cm. Há 4 meses, passou a apresentar cefaleia holocraniana diária, de intensidade moderada a forte e di culdade visual. A avaliação oftalmolóogica revelou hemianopsia bitemporal. A principal hipótese diagnósticada para esse caso é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "cordoma."
+    },
+    {
+     "letra": "B",
+     "texto": "schwannoma."
+    },
+    {
+     "letra": "C",
+     "texto": "craniofaringeoma."
+    },
+    {
+     "letra": "D",
+     "texto": "tumor de plexo coroide."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000107823",
+   "codigo": "4000107823",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neurooftalmo",
+   "numero": 7,
+   "temas": [
+    "Neurite Óptica",
+    "Quadro Clínico",
+    "Neurologia"
+   ],
+   "enunciado": "Qual a principal etiologia da neurite óptica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Sífilis."
+    },
+    {
+     "letra": "B",
+     "texto": "Esclerose múltipla."
+    },
+    {
+     "letra": "C",
+     "texto": "Lúpus eritematoso sistêmico."
+    },
+    {
+     "letra": "D",
+     "texto": "Tuberculose."
+    },
+    {
+     "letra": "E",
+     "texto": "Arterite temporal."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000095423",
+   "codigo": "4000095423",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neurooftalmo",
+   "numero": 8,
+   "temas": [
+    "Hiperprolactinemia",
+    "Acromegalia"
+   ],
+   "enunciado": "Qual o achado semiológico mais característico encontraríamos no paciente com uma massa hipofisária e hipotalâmica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hemianopsia bitemporal."
+    },
+    {
+     "letra": "B",
+     "texto": "Hemianopsia binasal."
+    },
+    {
+     "letra": "C",
+     "texto": "Anosmia."
+    },
+    {
+     "letra": "D",
+     "texto": "Escotoma central."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000089468",
+   "codigo": "4000089468",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neurooftalmo",
+   "numero": 9,
+   "temas": [
+    "Síndrome de Horner"
+   ],
+   "enunciado": "A síndrome de Claude Bernard-Horner é caracterizada pelos seguintes aspectos, EXCETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Miose."
+    },
+    {
+     "letra": "B",
+     "texto": "Enoftalmia."
+    },
+    {
+     "letra": "C",
+     "texto": "Amaurose."
+    },
+    {
+     "letra": "D",
+     "texto": "Anidrose facial."
+    },
+    {
+     "letra": "E",
+     "texto": "Ptose palpebral."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000087926",
+   "codigo": "4000087926",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neurooftalmo",
+   "numero": 10,
+   "temas": [
+    "Pupila de ArgyllRobertson"
+   ],
+   "enunciado": "Em relação ao sinal de Argyll-Robertson, é INCORRETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "É frequentemente indicador de neurossífilis."
+    },
+    {
+     "letra": "B",
+     "texto": "Pode estar presente em casos de paralisia geral progressiva, tabes dorsalis e doença Déjerine-Sottas."
+    },
+    {
+     "letra": "C",
+     "texto": "Apresenta-se com abolição dos reflexos fotomotor e do consensual, preservação da convergência, atrofia da íris e miose."
+    },
+    {
+     "letra": "D",
+     "texto": "Habitualmente bilateral."
+    },
+    {
+     "letra": "E",
+     "texto": "Nenhuma das acima."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000099656",
+   "codigo": "4000099656",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neurooftalmo",
+   "numero": 11,
+   "temas": [
+    "Hipertensão Intracraniana"
+   ],
+   "enunciado": "São sinais fundoscópicos de hipertensão intracraniana, EXCETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cruzamentos arteriovenosos patológicos."
+    },
+    {
+     "letra": "B",
+     "texto": "Borramento das bordas da papila."
+    },
+    {
+     "letra": "C",
+     "texto": "Sobrelevação do disco óptico."
+    },
+    {
+     "letra": "D",
+     "texto": "Ingurgitamento vascular peripapilar."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000096376",
+   "codigo": "4000096376",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neurooftalmo",
+   "numero": 12,
+   "temas": [
+    "Lesão do Quiasma Óptico"
+   ],
+   "enunciado": "A alternativa que apresenta o defeito de campo visual geralmente presente nas lesões tumorais que envolvem o quiasma óptico central é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hemianopsia bitemporal."
+    },
+    {
+     "letra": "B",
+     "texto": "Hemianopsia homônima congruente."
+    },
+    {
+     "letra": "C",
+     "texto": "Hemianopsia homônima incompleta."
+    },
+    {
+     "letra": "D",
+     "texto": "Quadrantopsia inferior homônima."
+    },
+    {
+     "letra": "E",
+     "texto": "Quadrantopsia superior homônima."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000096347",
+   "codigo": "4000096347",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neurooftalmo",
+   "numero": 13,
+   "temas": [
+    "Hipertensão Intracraniana"
+   ],
+   "enunciado": "Em relação à apresentação clínica de paciente com papiledema, assinale a alternativa INCORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ocorre dor ao movimento ocular."
+    },
+    {
+     "letra": "B",
+     "texto": "A manifestação é bilateral."
+    },
+    {
+     "letra": "C",
+     "texto": "O reflexo fotomotor direto está intacto."
+    },
+    {
+     "letra": "D",
+     "texto": "A pressão na punção lombar está elevada."
+    },
+    {
+     "letra": "E",
+     "texto": "A resposta visual evocada é normal."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000091996",
+   "codigo": "4000091996",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neurooftalmo",
+   "numero": 14,
+   "temas": [
+    "Lesão do Quiasma Óptico"
+   ],
+   "enunciado": "Paciente do sexo feminino, 58 anos, apresenta quadro de perda visual em campos temporais bilateralmente (hemianopsia bitemporal). O local anatômico da lesão é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Nervo óptico."
+    },
+    {
+     "letra": "B",
+     "texto": "Trato óptico."
+    },
+    {
+     "letra": "C",
+     "texto": "Projeção parietal da radiação óptica."
+    },
+    {
+     "letra": "D",
+     "texto": "Projeção occipital da radiação óptica."
+    },
+    {
+     "letra": "E",
+     "texto": "Quiasma óptico."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000003254",
+   "codigo": "4000003254",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neurooftalmo",
+   "numero": 15,
+   "temas": [
+    "Síndrome de Horner"
+   ],
+   "enunciado": "A síndrome de Claude Bernard-Horner consiste em:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Enoftalmia, Midríase e Ptose."
+    },
+    {
+     "letra": "B",
+     "texto": "Exoftalmia, Surdez e Ptose."
+    },
+    {
+     "letra": "C",
+     "texto": "Enoftalmia, Miose e Ptose."
+    },
+    {
+     "letra": "D",
+     "texto": "Exoftalmia, Miose e Ptose."
+    },
+    {
+     "letra": "E",
+     "texto": "Exoftalmia, Midríase e Surdez"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047018",
+   "codigo": "4000047018",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neurooftalmo",
+   "numero": 16,
+   "temas": [
+    "Lesão do Quiasma Óptico"
+   ],
+   "enunciado": "A compressão do quiasma óptico pelo adenoma hipofisário determina qual das condições visuais abaixo listadas?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Quadrantopsia inferonasal direita."
+    },
+    {
+     "letra": "B",
+     "texto": "Quadrantopsia inferonasal esquerda."
+    },
+    {
+     "letra": "C",
+     "texto": "Alta miopia."
+    },
+    {
+     "letra": "D",
+     "texto": "Glaucoma agudo."
+    },
+    {
+     "letra": "E",
+     "texto": "Hemianopsia bitemporal."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000007322",
+   "codigo": "4000007322",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neurooftalmo",
+   "numero": 17,
+   "temas": [
+    "Hipertensão Intracraniana"
+   ],
+   "enunciado": "Paciente, olho único (olho direito perdido por trauma ocular há 20 anos), queixa-se de cefaleia intensa sem dor ocular e “borramento” visual leve. Ao exame, a acuidade visual do olho esquerdo é 20/30 e as bordas da papila estão mal delimitadas. Como deve estar o teste do reflexo pupilar e qual é o provável diagnóstico?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Normal. Atrofia óptica."
+    },
+    {
+     "letra": "B",
+     "texto": "Normal. Neurite óptica."
+    },
+    {
+     "letra": "C",
+     "texto": "Diminuído. Edema de papila por hipertensão intracraniana."
+    },
+    {
+     "letra": "D",
+     "texto": "Diminuído. Neurite óptica."
+    },
+    {
+     "letra": "E",
+     "texto": "Normal. Edema de papila por hipertensão intracraniana."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000096446",
+   "codigo": "4000096446",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neurooftalmo",
+   "numero": 18,
+   "temas": [
+    "Hipertensão Intracraniana"
+   ],
+   "enunciado": "O edema de papila, constatado ao exame do fundo de olho: Respostas: 1 12",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "está relacionado com as infecções do SNC"
+    },
+    {
+     "letra": "B",
+     "texto": "aparece sempre nos casos de hipertensão intracraniana"
+    },
+    {
+     "letra": "C",
+     "texto": "é encontrado em todo TCE grave"
+    },
+    {
+     "letra": "D",
+     "texto": "não tem significado clínico"
+    },
+    {
+     "letra": "E",
+     "texto": "pode não ter relação com patologia intracraniana"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": []
+}

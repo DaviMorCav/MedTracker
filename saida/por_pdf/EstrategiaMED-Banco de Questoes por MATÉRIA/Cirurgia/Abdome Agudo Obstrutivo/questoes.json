@@ -1,0 +1,3336 @@
+{
+ "questoes": [
+  {
+   "id": "4000190725",
+   "codigo": "4000190725",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 1,
+   "temas": [
+    "Pseudoobstrução Colônica Síndrome de Ogilvie"
+   ],
+   "enunciado": "Paciente de 65 anos, internado em unidade de terapia intensiva para tratamento de pneumonia viral e síndrome respiratória aguda grave. Em ventilação mecânica invasiva e dieta por sonda nasoenteral. Apresentou distensão abdominal, quando foram realizadas algumas lavagens com solução glicerinada sem retorno satisfatório. Não apresenta diarreia. Exames séricos normais. A tomografia de abdome não evidencia lesões obstrutivas. Trata-se, possivelmente, de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Síndrome de Olgivie."
+    },
+    {
+     "letra": "B",
+     "texto": "Colite pseudomembranosa."
+    },
+    {
+     "letra": "C",
+     "texto": "Colite isquêmica."
+    },
+    {
+     "letra": "D",
+     "texto": "Isquemia mesentérica."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000190385",
+   "codigo": "4000190385",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 2,
+   "temas": [
+    "Volvo Gástrico"
+   ],
+   "enunciado": "Paciente de 89 anos feminina com história de dor tóraco-abdominal, vômitos inicialmente alimentares que progrediram para salivares com laivos de sangue e, no momento da admissão no pronto atendimento, pela incapacidade de vômito, distensão abdominal importante. O médico socorrista tentou passar uma sonda nasogástrica no intuito de aliviar a distensão, sem sucesso. O diagnóstico mais provável e seu tratamento adequado são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "úlcera gástrica; IBP"
+    },
+    {
+     "letra": "B",
+     "texto": "síndrome do piloro hipertrófico; piloroplastia."
+    },
+    {
+     "letra": "C",
+     "texto": "síndrome de Dieulafoy; EDA."
+    },
+    {
+     "letra": "D",
+     "texto": "volvo gástrico; laparotomia exploradora."
+    },
+    {
+     "letra": "E",
+     "texto": "síndrome de Boerhaave; esofagectomia."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000190358",
+   "codigo": "4000190358",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 3,
+   "temas": [
+    "Volvo de Sigmoide"
+   ],
+   "enunciado": "Mulher de 65 anos de idade procura a emergência por dor abdominal em cólica, localizada principalmente em hipogástrio, há 5 dias com parada de eliminação de fezes e atos no mesmo período. Nega febre. Ao exame clínico, encontra-se em bom estado geral, afebril, consciente e orientada. Sinais vitais estáveis. Abdome globoso, ácido, doloroso à palpação do hipogástrio, sem sinais de irritação peritoneal. Toque retal sem lesões tocáveis, sem sangue. Os exames complementares estão normais. Realizou a tomografia computadorizada de abdome total disponibilizada a seguir. O diagnóstico apresentado pela paciente é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Diverticulite aguda pseudotumoral"
+    },
+    {
+     "letra": "B",
+     "texto": "Apendicite aguda hiperplásica"
+    },
+    {
+     "letra": "C",
+     "texto": "Neoplasia de cólon transverso"
+    },
+    {
+     "letra": "D",
+     "texto": "Volvo de sigmoide"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q003-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000190348",
+   "codigo": "4000190348",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 4,
+   "temas": [
+    "Diagnóstico",
+    "Exames de Imagem"
+   ],
+   "enunciado": "Mulher, 68 anos de idade, procura a emergência por dor abdominal em cólica associada a náuseas, vômitos e parada de eliminação de fezes e atos há 3 dias. Nega febre. Refere perda ponderal de 5kg (60kg para 55kg) nos últimos 3 meses. Nega cirurgias prévias. Ao exame clínico, encontra-se em bom estado geral, desidratada 1+/4+ com pressão arterial 110x70mmHg e frequência cardíaca 90bpm. Abdome distendido, ruídos hidroaéreos aumentados, ácido, doloroso à palpação profunda difusamente, sem sinais de irritação peritoneal. Toque retal sem sangue, sem lesões tocáveis, sem fezes. Realizou a tomografia computadorizada de abdome total disponibilizada a seguir: Considerando o quadro clínico e o exame de imagem, qual é o diagnóstico da paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Obstrução tumoral da válvula ileocecal"
+    },
+    {
+     "letra": "B",
+     "texto": "Neoplasia obstrutiva de cólon sigmoide"
+    },
+    {
+     "letra": "C",
+     "texto": "íleo biliar"
+    },
+    {
+     "letra": "D",
+     "texto": "Volvo de ceco"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q004-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000189729",
+   "codigo": "4000189729",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 5,
+   "temas": [
+    "Introdução",
+    "Manif estações Clínicas e Exame Físico"
+   ],
+   "enunciado": "Leia atentamente o texto abaixo, que contém a descrição de um quadro clínico. Com base nas informações contidas no texto, responda a questão. Paciente feminina, 54 anos, internada na Emergência com quadro de dor abdominal e vômitos. O quadro tem cerca 48 horas de evolução. Ao colher a história, o colega de plantão identi cou que os vômitos iniciaram após as 24h do quadro de dor, e tem aspecto escurecido de odor pouco característico. Ao exame (Cesa A paciente apresenta-se desidratada ++ / 4, hemodinamicamente estável e afebril no momento. Não apresenta patologias de base, não usa nenhum medicamento, tem apenas histórico de duas Cesáreas anteriores. Sobre o provável diagnóstico de Abdome Agudo Obstrutivo dessa paciente, assinale a alternativa correta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "os vômitos mais tardios indicam um provável quadro de obstrução de delgado alta ou proximal."
+    },
+    {
+     "letra": "B",
+     "texto": "os vômitos mais tardios indicam um provável quadro de obstrução de cólon com válvula ileocecal competente"
+    },
+    {
+     "letra": "C",
+     "texto": "os vômitos mais tardios indicam um provável quadro de obstrução de delgado baixa ou distal."
+    },
+    {
+     "letra": "D",
+     "texto": "os vômitos mais tardios indicam um quadro de provável obstrução de cólon com válvula ileocecal incompetente."
+    },
+    {
+     "letra": "E",
+     "texto": "os vômitos mais tardios não têm nenhuma relação com o provável sítio da obstrução."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000189727",
+   "codigo": "4000189727",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 6,
+   "temas": [
+    "Introdução",
+    "Aderências Intestinais Bridas"
+   ],
+   "enunciado": "Leia atentamente o texto abaixo, que contém a descrição de um quadro clínico. Com base nas informações contidas no texto, responda a questão. Paciente feminina, 54 anos, internada na Emergência com quadro de dor abdominal e vômitos. O quadro tem cerca 48 horas de evolução. Ao colher a história, o colega de plantão identi cou que os vômitos iniciaram após as 24h do quadro de dor, e tem aspecto escurecido de odor pouco característico. Ao exame (Cesa A paciente apresenta-se desidratada ++ / 4, hemodinamicamente estável e afebril no momento. Não apresenta patologias de base, não usa nenhum medicamento, tem apenas histórico de duas Cesáreas anteriores. Considerando a história, o quadro clínico e a hipótese de Abdome Agudo Obstrutivo dessa paciente, assinale a alternativa correta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o mais provável fator etiológico é neoplasia colônica."
+    },
+    {
+     "letra": "B",
+     "texto": "o mais provável fator etiológico são bridas e aderências pós-operatórias."
+    },
+    {
+     "letra": "C",
+     "texto": "o mais provável fator etiológico é hérnia incisional."
+    },
+    {
+     "letra": "D",
+     "texto": "o mais provável fator etiológico é metabólica."
+    },
+    {
+     "letra": "E",
+     "texto": "o mais provável fator etiológico é ileoadinâmico."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000189492",
+   "codigo": "4000189492",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 7,
+   "temas": [
+    "Exames de Imagem"
+   ],
+   "enunciado": "Uma paciente de 72 anos de idade chega ao pronto-socorro com história de distensão abdominal há dois dias, parada de eliminação de atus e de fezes há um dia. Nega náuseas ou vômitos. Com base nesses dados clínicos e na radiogra a apresentada, o diagnóstico mais provável é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "síndrome de Ogilvie."
+    },
+    {
+     "letra": "B",
+     "texto": "volvo de sigmoide."
+    },
+    {
+     "letra": "C",
+     "texto": "volvo de ceco."
+    },
+    {
+     "letra": "D",
+     "texto": "obstrução intestinal baixa."
+    },
+    {
+     "letra": "E",
+     "texto": "diverticulite aguda."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q007-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000189059",
+   "codigo": "4000189059",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 8,
+   "temas": [
+    "Volvo de Sigmoide"
+   ],
+   "enunciado": "Paciente idoso da entrada no pronto atendimento com dor abdominal e vômitos fecalóides de início súbito, seus sinais vitais estão dentro da normalidade para a sua idade. Na rotina radiológica nota-se o sinal do grão de café. O provável diagnóstico desse paciente, é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "pancreatite aguda."
+    },
+    {
+     "letra": "B",
+     "texto": "apendicite aguda."
+    },
+    {
+     "letra": "C",
+     "texto": "úlcera péptica perfurada."
+    },
+    {
+     "letra": "D",
+     "texto": "volvo de sigmoide."
+    },
+    {
+     "letra": "E",
+     "texto": "diverticulite aguda."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000187871",
+   "codigo": "4000187871",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 9,
+   "temas": [
+    "Exames Complementares"
+   ],
+   "enunciado": "Qual distúrbio hidroeletrolítico e ácido básico está mais frequentemente associado ao abdome agudo obstrutivo do intestino delgado proximal? (DENNIS L. KASPER, STEPHEN L. HAUSER, J. LARRY JAMESON . Medicina Interna de Harrison, parte 2, Seção 7 -19.Ed– 2016.)",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Alcalose, hipocalemia e hipocloremia."
+    },
+    {
+     "letra": "B",
+     "texto": "Alcalose, hipocalemia e hipercloremia."
+    },
+    {
+     "letra": "C",
+     "texto": "Acidose, hipocaliemia e hipocloremia"
+    },
+    {
+     "letra": "D",
+     "texto": "Acidose, hipocaliemia e hipercloremia"
+    },
+    {
+     "letra": "E",
+     "texto": "Acidose, hipercalemia e hipercloremia."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000187482",
+   "codigo": "4000187482",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 10,
+   "temas": [
+    "Aderências Intestinais Bridas"
+   ],
+   "enunciado": "Mulher, 45 anos de idade, procura pronto-atendimento por dor abdominal há dois dias associada a náuseas, vômitos e parada de eliminação de fezes e atos. Nega febre. Nega comorbidades. Relata antecedente cirúrgico de histerectomia subtotal por miomas uterinos há 5 anos. Ao exame físico, encontra-se em regular estado geral, corada, desidratada 1+/4+. Abdome distendido, ruídos hidroaéreos aumentados, timpânico à percussão, doloroso à palpação difusamente, sem sinais de irritação peritoneal. Ausência de hérnias inguinofemorais. Toque retal sem lesões, com pequena quantidade de fezes pastosas em ampola retal. Realizou exame radiográfico, mostrado a seguir: Considerando o quadro clínico da paciente, qual é a causa de base da condição apresentada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Pancreatite aguda"
+    },
+    {
+     "letra": "B",
+     "texto": "Aderências pós-operatórias"
+    },
+    {
+     "letra": "C",
+     "texto": "Úlcera gástrica perfurada"
+    },
+    {
+     "letra": "D",
+     "texto": "Intussuscepção intestinal"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q010-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000187349",
+   "codigo": "4000187349",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 11,
+   "temas": [
+    "Manif estações Clínicas e Exame Físico"
+   ],
+   "enunciado": "Paciente feminina de 62 anos queixando-se de dor abdominal difusa há 4 dias, em cólicas, associada a distensão abdominal e vômitos fétidos e escuros. Relata que há 4 meses vem apresentando alguns episódios esporádicos de sangramento nas fezes, bem como redução da frequência evacuatória. Nega febre. Nega trauma. Nega cirurgias prévias. Ao exame físico: regular estado geral, descorada, desidratada, anictérica, afebril. Semiologia cardíaca e pulmonar normais. Abdome distendido, com ruídos, doloroso a palpação difusa, sem sinais de irritação peritoneal. Toque retal nota-se lesão ulcerada circunferencial distando 5 centímetros da borda anal. Foras realizadas as radiogra as e a tomogra a de abdome e pelve abaixo. Assinale a alternativa que corresponde ao diagnóstico sindrômico.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Abdome agudo inflamatório."
+    },
+    {
+     "letra": "B",
+     "texto": "Abdome agudo vascular."
+    },
+    {
+     "letra": "C",
+     "texto": "Abdome agudo obstrutivo."
+    },
+    {
+     "letra": "D",
+     "texto": "Abdome agudo perfurativo."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q011-1.jpg",
+     "antes_das_alternativas": true
+    },
+    {
+     "arquivo": "imagens/q011-2.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000187348",
+   "codigo": "4000187348",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 12,
+   "temas": [
+    "Neoplasia Colorretal"
+   ],
+   "enunciado": "Paciente feminina de 62 anos queixando-se de dor abdominal difusa há 4 dias, em cólicas, associada a distensão abdominal e vômitos fétidos e escuros. Relata que há 4 meses vem apresentando alguns episódios esporádicos de sangramento nas fezes, bem como redução da frequência evacuatória. Nega febre. Nega trauma. Nega cirurgias prévias. Ao exame físico: regular estado geral, descorada, desidratada, anictérica, afebril. Semiologia cardíaca e pulmonar normais. Abdome distendido, com ruídos, doloroso a palpação difusa, sem sinais de irritação peritoneal. Toque retal nota-se lesão ulcerada circunferencial distando 5 centímetros da borda anal. Foras realizadas as radiogra as e a tomogra a de abdome e pelve abaixo. A conduta mais adequada para este caso é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Colostomia descompressiva."
+    },
+    {
+     "letra": "B",
+     "texto": "Proctocolectomia total."
+    },
+    {
+     "letra": "C",
+     "texto": "Radioterapia exclusiva."
+    },
+    {
+     "letra": "D",
+     "texto": "Amputação abdominoperineal."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q012-1.jpg",
+     "antes_das_alternativas": true
+    },
+    {
+     "arquivo": "imagens/q012-2.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000186860",
+   "codigo": "4000186860",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 13,
+   "temas": [
+    "Introdução",
+    "Manif estações Clínicas e Exame Físico",
+    "Classif icações"
+   ],
+   "enunciado": "Nos pacientes com obstrução colônica do tipo “alça fechada” o local com maior risco para perfuração é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Válvula ileocecal."
+    },
+    {
+     "letra": "B",
+     "texto": "Cólon ascendente."
+    },
+    {
+     "letra": "C",
+     "texto": "Ceco."
+    },
+    {
+     "letra": "D",
+     "texto": "Cólon transverso."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186436",
+   "codigo": "4000186436",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 14,
+   "temas": [
+    "Tratamento Conservador x Tratamento Cirúrgico",
+    "Neoplasia Colorretal"
+   ],
+   "enunciado": "Paciente de 57 anos admitido em Pronto Socorro com quadro de dor abdominal de forte intensidade. Realizada rotina de abdome agudo com evidência de pneumoperitônio. Ao toque retal, diagnosticada lesão de reto a 5 cm de margem anal, estenosante. Submetido a laparotomia de urgência, com identi cação de válvula ileocecal competente e perfuração de ceco. Diante dos achados pré e intra-operatórios, qual a melhor conduta a ser tomada durante a cirurgia de urgência?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Colectomia total com ressecção de lesão primária e ileostomia terminal."
+    },
+    {
+     "letra": "B",
+     "texto": "Colectomia direita com ileostomia à Mikulicz."
+    },
+    {
+     "letra": "C",
+     "texto": "Colectomia total com ressecção da lesão primária e íleo reto anastomose."
+    },
+    {
+     "letra": "D",
+     "texto": "Rafia de ceco com ileostomia em alça à montante da lesão."
+    },
+    {
+     "letra": "E",
+     "texto": "Rafia de ceco com amputação abdominoperineal do reto."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186226",
+   "codigo": "4000186226",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 15,
+   "temas": [
+    "Neoplasia Colorretal"
+   ],
+   "enunciado": "Paciente de 64 anos dá entrada na sala de emergência com quadro de distensão abdominal importante com parada de eliminação de fezes e atos há 4 dias. Refere que foi diagnosticado recentemente com câncer de reto baixo e vai iniciar quimioterapia e radioterapia neoadjuvantes. Supondo que o paciente tenha a válvula ileocecal competente, qual é o segmento do intestino grosso com maior risco de perfuração?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cólon transverso."
+    },
+    {
+     "letra": "B",
+     "texto": "Cólon sigmoide."
+    },
+    {
+     "letra": "C",
+     "texto": "Ceco."
+    },
+    {
+     "letra": "D",
+     "texto": "Cólon ascendente."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000185277",
+   "codigo": "4000185277",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 16,
+   "temas": [
+    "Abdome Agudo Obstrutivo"
+   ],
+   "enunciado": "A respeito do abdome agudo obstrutivo (AAO), assinale a alternativa",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "AAO classifica-se como alto ou baixo, de acordo com o distúrbio metabólico decorrente do quadro de obstrução."
+    },
+    {
+     "letra": "B",
+     "texto": "Obstrução intestinal em alça fechada é considerada uma emergência cirúrgica."
+    },
+    {
+     "letra": "C",
+     "texto": "Volvo de sigmoide e bridas são causas extrínsecas de obstrução intestinal."
+    },
+    {
+     "letra": "D",
+     "texto": "Neoplasias gástricas ou estenoses antropilóricas não são causas de AAO, pois não provocam parada de eliminação de gases e fezes."
+    },
+    {
+     "letra": "E",
+     "texto": "Algumas vezes, a primeira manifestação de uma neoplasia de cólon é o quadro obstrutivo."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000183908",
+   "codigo": "4000183908",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 17,
+   "temas": [
+    "Tratamento Conservador x Tratamento Cirúrgico",
+    "Tratamento das Hérnias Inguinais"
+   ],
+   "enunciado": "Hérnias Complicadas Médico de plantão numa Unidade de Pronto Atendimento (UPA) atende a um paciente de 76 anos com dor abdominal há três dias, anorexia, náuseas, vômitos e parada na eliminação de gases e fezes, piorando nas últimas 24 h, e seguida de vômitos fecalóides. O paciente é hipertenso e faz uso de losartana. Ao exame clínico, está desidratado e descorado, apresentando TA (160 X 100 mmHg), FC = 110, SAT = 96% em ar ambiente. O abdômen está distendido, sem cicatrizes cirúrgicas, ruídos hidroaéreos débeis à palpação, bastante doloroso difusamente, com descompressão brusca positiva em fossas ilíacas. Há a presença de hérnia inguinal direita não redutível. O toque retal revela a ausência de fezes, as paredes retais com aspecto normal, a próstata aumentada e de consistência endurecida. Realizou exame radiológico simples no local que revelou alças intestinais com distensão e níveis hidroaéreos, ausência de fezes em ampola retal; hemograma = 15.000 leucócitos e desvio à esquerda e PCR= 160 mg/dl. Baseando-se no relato, avalie as afirmativas abaixo. Entre as afirmativas, estão corretas",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I e IV."
+    },
+    {
+     "letra": "B",
+     "texto": "I e II."
+    },
+    {
+     "letra": "C",
+     "texto": "III e IV."
+    },
+    {
+     "letra": "D",
+     "texto": "II e III."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q017-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000183260",
+   "codigo": "4000183260",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 18,
+   "temas": [
+    "Cirurgia",
+    "Aderências Intestinais Bridas"
+   ],
+   "enunciado": "Uma mulher de 65 anos de idade compareceu ao pronto-socorro devido à dor abdominal iniciada havia dois dias, associada a náuseas, vômitos e parada na eliminação de gases e fezes. No exame físico, constatou-se que a paciente se apresentava consciente, eupneica, desidratada +/4+, corada, com frequência cardíaca de 100 bpm, pressão arterial de 120 mmHg x 70 mmHg e com um abdome distendido, doloroso e sem sinais de peritonite. Havia uma incisão mediana infraumbilical, que, segundo a paciente, resultava de uma histerectomia por miomatose uterina feita havia dez anos. Foi realizada uma tomogra a de abdome sem contraste, que apontou distensão abdominal às custas de obstrução de intestino delgado (não havendo distensão colônica), sem causa definida pelo exame. O exame não indicou presença de líquido livre, pneumatose intestinal ou pneumoperitônio. Assinale a alternativa que apresenta a melhor conduta a ser adotada nesse caso hipotético.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "passagem de sonda nasogástrica, hidratação e observação"
+    },
+    {
+     "letra": "B",
+     "texto": "tomografia de abdome com contraste endovenoso"
+    },
+    {
+     "letra": "C",
+     "texto": "ultrassonografia de abdome"
+    },
+    {
+     "letra": "D",
+     "texto": "colonoscopia"
+    },
+    {
+     "letra": "E",
+     "texto": "laparotomia exploradora"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000183118",
+   "codigo": "4000183118",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 19,
+   "temas": [
+    "Neoplasias",
+    "Cirurgia"
+   ],
+   "enunciado": "Homem, 64 anos de idade, chega ao pronto-socorro com quadro de perda ponderal de 10 kg há 3 meses, empachamento pós-prandial e vômitos há 2 semanas. Refere que os episódios de vômitos apresentam o alimento ingerido e acontecem 2 horas após as refeições. Não há presença de bile. Refere melhora após os vômitos. Tem antecedentes de tabagismo, etilismo e laparotomia exploradora prévia há 12 anos por ferimento de arma de fogo. Ao exame físico o paciente apresenta- se emagrecido, sem dor a palpação, com abdome levemente distendido em andar superior esquerdo. Qual é a hipótese diagnóstica sindrômica mais compatível com o quadro clínico descrito e sua a principal causa etiológica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Síndrome de mau esvaziamento gástrico e neoplasia do cárdia."
+    },
+    {
+     "letra": "B",
+     "texto": "Abdome agudo obstrutivo por neoplasia colorretal."
+    },
+    {
+     "letra": "C",
+     "texto": "Abdome agudo obstrutivo por aderências."
+    },
+    {
+     "letra": "D",
+     "texto": "Síndrome de mau esvaziamento gástrico e neoplasia de região antro pilórica."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000182821",
+   "codigo": "4000182821",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 20,
+   "temas": [
+    "Manif estações Clínicas e Exame Físico",
+    "Cirurgia"
+   ],
+   "enunciado": "Paciente de 64 anos veio à Emergência por dor abdominal em cólica e vômitos, com início há 12 horas. Referiu uma evacuação normal seguida de uma diarreica logo após o início do quadro, não ocorrendo mais eliminação de gases ou fezes desde então. Informou ter sido submetido a laparotomia por ferimento penetrante abdominal com lesão no fígado e no intestino delgado há mais de 20 anos. Negou comorbidades, exceto colelitíase assintomática. Ao exame, apresentava discreta distensão abdominal, concentrada no epigástrio que se encontrava timpânico. Ao toque, a ampola retal estava vazia. A radiogra a simples de abdômen mostrou distensão hidroaérea do intestino com formação de imagem de “pilha de moedas” e formação de níveis hidroaéreos em diferentes alturas. Assinale a assertiva correta sobre esse quadro clínico.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Presença de níveis hidroaéreos sugere obstrução intestinal baixa."
+    },
+    {
+     "letra": "B",
+     "texto": "Vômitos no início do quadro e ausência de grande distensão sugerem obstrução intestinal alta."
+    },
+    {
+     "letra": "C",
+     "texto": "O paciente deve ter válvula ileocecal competente, o que explicaria o quadro clínico e os achados radiológicos."
+    },
+    {
+     "letra": "D",
+     "texto": "A causa mais provável do quadro é íleo biliar, por ter sido negligenciado o tratamento da colelitíase."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000182713",
+   "codigo": "4000182713",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 21,
+   "temas": [
+    "Cirurgia",
+    "Exames de Imagem"
+   ],
+   "enunciado": "Sobre a avaliação por imagem na obstrução do intestino delgado, é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A radiografia de abdômen agudo pode confirmar o diagnóstico, sendo os achados mais sutis ou ausentes se a avaliação for muito precoce."
+    },
+    {
+     "letra": "B",
+     "texto": "A ultrassonografia e a ressonância magnética são métodos menos precisos para o diagnóstico, mas podem ser utilizados para avaliar pacientes gestantes, devido ao risco da radiação ionizante."
+    },
+    {
+     "letra": "C",
+     "texto": "A tomografia computadorizada é o método de maior acurácia no diagnóstico e na avaliação da causa da obstrução."
+    },
+    {
+     "letra": "D",
+     "texto": "A presença de líquido livre intraperitoneal na tomografia computadorizada é um critério adequado para diferenciar entre a obstrução com e a sem isquemia associada."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000182408",
+   "codigo": "4000182408",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 22,
+   "temas": [
+    "Cirurgia",
+    "Obstrução Intestinal Mecânica"
+   ],
+   "enunciado": "Paciente, sexo feminino, 65 anos de idade, procura o Pronto Socorro por empachamento e distensão abdominal há cinco dias. A paciente apresentou náuseas e alguns episódios de vômitos nas últimas 24 horas. Relata, também, hiporexia, perda de peso e obstipação progressiva, há três meses, não sendo investigada previamente. A paciente realizou artroplastia total de quadril esquerdo há 5 anos. Ao exame físico, regular estado geral, corada, desidratada, T axilar: 36ºC, FC: 88bpm, PA: 128x78mmHg, FR: 24imp; ausculta cardíaca e respiratória sem alterações; abdome distendido, tenso, com dor à palpação difusa e com descompressão brusca negativa; toque retal sem alterações. Foi realizada radiografía de abdome Indique a conduta cirúrgica mais adequada, caso a paciente não apresente melhora com o tratamento clínico instituído no Pronto Socorro.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Lavagem intestinal no centro cirúrgico."
+    },
+    {
+     "letra": "B",
+     "texto": "Peritoneostomia descompressiva."
+    },
+    {
+     "letra": "C",
+     "texto": "Videolaparoscopia para reversão do volvo."
+    },
+    {
+     "letra": "D",
+     "texto": "Retossigmoidectomia com colostomia."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q022-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000182407",
+   "codigo": "4000182407",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 23,
+   "temas": [
+    "Cirurgia",
+    "Obstrução Intestinal Mecânica"
+   ],
+   "enunciado": "Paciente, sexo feminino, 65 anos de idade, procura o Pronto Socorro por empachamento e distensão abdominal há cinco dias. A paciente apresentou náuseas e alguns episódios de vômitos nas últimas 24 horas. Relata, também, hiporexia, perda de peso e obstipação progressiva, há três meses, não sendo investigada previamente. A paciente realizou artroplastia total de quadril esquerdo há 5 anos. Ao exame físico, regular estado geral, corada, desidratada, T axilar: 36ºC, FC: 88bpm, PA: 128x78mmHg, FR: 24imp; ausculta cardíaca e respiratória sem alterações; abdome distendido, tenso, com dor à palpação difusa e com descompressão brusca negativa; toque retal sem alterações. Foi realizada radiografía de abdome Indique o exame complementar que deveria ter sido realizado há três meses, no momento em que se iniciaram os primeiros sintomas.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tomografia computadorizada com contraste."
+    },
+    {
+     "letra": "B",
+     "texto": "Colonoscopia."
+    },
+    {
+     "letra": "C",
+     "texto": "Radiografia de abdome."
+    },
+    {
+     "letra": "D",
+     "texto": "Ultrassonografia de abdome."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q023-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000182406",
+   "codigo": "4000182406",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 24,
+   "temas": [
+    "Cirurgia",
+    "Obstrução Intestinal Mecânica"
+   ],
+   "enunciado": "Paciente, sexo feminino, 65 anos de idade, procura o Pronto Socorro por empachamento e distensão abdominal há cinco dias. A paciente apresentou náuseas e alguns episódios de vômitos nas últimas 24 horas. Relata, também, hiporexia, perda de peso e obstipação progressiva, há três meses, não sendo investigada previamente. A paciente realizou artroplastia total de quadril esquerdo há 5 anos. Ao exame físico, regular estado geral, corada, desidratada, T axilar: 36ºC, FC: 88bpm, PA: 128x78mmHg, FR: 24imp; ausculta cardíaca e respiratória sem alterações; abdome distendido, tenso, com dor à palpação difusa e com descompressão brusca negativa; toque retal sem alterações. Foi realizada radiografía de abdome. Diante desse caso clínico e da análise do exame de imagem, indique a principal suspeita etiológica que levou a paciente a procurar o Pronto Socorro.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Aderência intestinal."
+    },
+    {
+     "letra": "B",
+     "texto": "Volvo de sigmoide."
+    },
+    {
+     "letra": "C",
+     "texto": "Neoplasia maligna de cólon."
+    },
+    {
+     "letra": "D",
+     "texto": "Fecaloma."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q024-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000182190",
+   "codigo": "4000182190",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 25,
+   "temas": [
+    "Pseudoobstrução Colônica Síndrome de Ogilvie",
+    "Cirurgia"
+   ],
+   "enunciado": "Homem de 90 anos, com internação prolongada e imobilização por tratamento cirúrgico de fratura do colo do fêmur. Estava em antibioticoterapia para tratamento de pneumonia nosocomial e passou a apresentar parada de eliminação de atos e fezes associada à distensão abdominal dolorosa. Ao exame, o estado geral era bom, entretanto o abdome era distendido, doloroso à palpação super cial, hipertimpânico e sem sinais de irritação peritoneal. A radiogra a simples de abdome mostrou importante distensão gasosa de todo o cólon. Qual o provável diagnóstico e a melhor conduta indicada neste caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Íleo metabólico; compensação dos distúrbios hidroeletrolíticos e dieta laxativa."
+    },
+    {
+     "letra": "B",
+     "texto": "Megacólon funcional; colectomia total com ileostomia temporária e sepultamento do reto."
+    },
+    {
+     "letra": "C",
+     "texto": "Pseudo obstrução colônica aguda; descompressão endoscópica do cólon."
+    },
+    {
+     "letra": "D",
+     "texto": "Volvo colônico; colonoscopia descompressiva e compensação dos distúrbios e hidroeletrolíticos."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000182094",
+   "codigo": "4000182094",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 26,
+   "temas": [
+    "Cirurgia Inf antil",
+    "Cirurgia",
+    "Íleo Paralítico"
+   ],
+   "enunciado": "Criança de 5 anos, queixa-se de vômitos 3 vezes ao dia há 3 dias, acompanhados de diarreia aquosa de médio volume, 5 vezes ao dia. Hoje a mãe notou que a criança está apática, com dor abdominal e diminuição das evacuações. Não está se alimentando adequadamente. Exame físico: regular estado geral, descorado +/4+, febril, hidratado. Aparelho respiratório: sem alterações. Aparelho cardiovascular: 2 bulhas rítmicas normofonéticas sem sopros, FC: 130 bpm, PA: 90 x 50 mmHg, pulsos cheios, tempo de enchimento capilar> 2 segundos. Abdome: distensão abdominal, com dor à palpação difusa e ruídos hidroaéreos diminuídos. Exames laboratoriais: Na: 135 mEq/L, K: 2,9 mEq/L, Ca iônico: 1/2 mg/dl. Escala de alvarado modificada: 3. Qual a hipótese diagnóstica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Constipação intestinal."
+    },
+    {
+     "letra": "B",
+     "texto": "Íleo paralítico"
+    },
+    {
+     "letra": "C",
+     "texto": "Apendicite aguda."
+    },
+    {
+     "letra": "D",
+     "texto": "Adenite mesentérica."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000181709",
+   "codigo": "4000181709",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 27,
+   "temas": [
+    "Cirurgia",
+    "Obstrução Intestinal Mecânica"
+   ],
+   "enunciado": "Um homem de 35 anos de idade, com antecedente de hérnia incisional há 2 anos, decorrente de laparotomia mediana por ferimento de arma branca, vai ao pronto-socorro com queixa de um dia de dor abdominal, náuseas, vômitos e abaulamento irredutível no local da incisão abdominal. O abdome está distendido e é difusamente doloroso. Os ruídos hidroaéreos estão aumentados e têm timbre alterado. Não tem sinais de peritonite. A área da hérnia está hiperemiada. Entre as opções abaixo, a melhor conduta para este paciente, além de jejum, hidratação venosa e sonda gástrica aberta deve ser:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tratamento inicial com antibioticoterapia e observação."
+    },
+    {
+     "letra": "B",
+     "texto": "Cirurgia de urgência, corrigindo a hérnia com tela absorvível."
+    },
+    {
+     "letra": "C",
+     "texto": "Cirurgia de urgência, corrigindo a hérnia com tela de polipropileno."
+    },
+    {
+     "letra": "D",
+     "texto": "Redução manual da hérnia e observação."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000181704",
+   "codigo": "4000181704",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 28,
+   "temas": [
+    "Cirurgia",
+    "Íleo Biliar"
+   ],
+   "enunciado": "Senhora de 78 anos de idade vai ao pronto-socorro com dor abdominal há 3 dias. Antecedentes: diabetes e revascularização do miocárdio. Tem história de crises de dor epigástrica em cólica e de febre. Está desidratada e taquicárdica. A pressão arterial é normal. O abdome está distendido, com ruídos hidroaéreos aumentados. Não tem nenhuma cicatriz de cirurgia abdominal. No toque retal, tem fezes na ampola. Fez a radiografia de abdome ilustrada a seguir Entre as opções diagnósticas seguintes, a mais provável para este paciente é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "apendicite aguda."
+    },
+    {
+     "letra": "B",
+     "texto": "litíase intravesical."
+    },
+    {
+     "letra": "C",
+     "texto": "inconclusiva, requer tomografia de abdome total."
+    },
+    {
+     "letra": "D",
+     "texto": "íleo biliar"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q028-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000181183",
+   "codigo": "4000181183",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 29,
+   "temas": [
+    "Íleo Biliar",
+    "Íleo Biliar"
+   ],
+   "enunciado": "Sobre o íleo biliar, atribua V (verdadeiro) ou F (falso) às afirmativas a seguir. ( ) Ocorre devido a uma fístula colecistoentérica, geralmente para o duodeno. ( ) Seu quadro clínico ocorre devido à obstrução mecânica do intestino delgado. ( ) Pneumobilia é frequentemente observado em uma tomografia de abdome. ( ) Geralmente, a obstrução ocorre no jejuno próximo ao ângulo de Treitz. ( ) Na maioria das vezes, o tratamento é expectante, realizando-se a colecistectomia e a correção da fístula após regressão do quadro obstrutivo. Assinale a alternativa que contém, de cima para baixo, a sequência correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "V, V, V, F, F."
+    },
+    {
+     "letra": "B",
+     "texto": "V, F, F, V, F."
+    },
+    {
+     "letra": "C",
+     "texto": "V, F, V, F, V."
+    },
+    {
+     "letra": "D",
+     "texto": "F, V, F, V, V."
+    },
+    {
+     "letra": "E",
+     "texto": "F, F, V, V, F."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000181178",
+   "codigo": "4000181178",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 30,
+   "temas": [
+    "Intussuscepção ou Invaginação Intestinal"
+   ],
+   "enunciado": "A invaginação ou intussuscepção intestinal é a penetração de uma porção do intestino proximal no distal, em decorrência de sua peristalse. Sobre a invaginação ou intussuspceção intestinal, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A tríade clássica de Ombredane consiste de vômitos biliosos, fossa ilíaca direita vazia e fezes em “geleia de morango”."
+    },
+    {
+     "letra": "B",
+     "texto": "A apresentação de sangramento anal está associada à isquemia do intestino e, portanto, ocorrerá alguns dias após a instalação do quadro."
+    },
+    {
+     "letra": "C",
+     "texto": "As alternativas de tratamento radiológicas têm melhores resultados do que as operatórias, com menores taxas de recorrência."
+    },
+    {
+     "letra": "D",
+     "texto": "Os casos idiopáticos, ou seja, sem uma doença estrutural de base, são menos comuns e acometem crianças mais velhas."
+    },
+    {
+     "letra": "E",
+     "texto": "Pode ter velocidade de progressão muito rápida, chegando a se exteriorizar pelo ânus, simulando um prolapso retal."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000192693",
+   "codigo": "4000192693",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 31,
+   "temas": [
+    "Volvo de Ceco",
+    "Ceco e Apêndice Vermif orme"
+   ],
+   "enunciado": "Embora tenha elasticidade, uma dilatação aguda do ceco que pode ser medida por uma radiogra a abdominal simples pode resultar em necrose isquêmica e perfuração da parede intestinal. Neste contexto, o valor de corte, em centímetros, para este tipo de lesão é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "6 cm"
+    },
+    {
+     "letra": "B",
+     "texto": "8 cm"
+    },
+    {
+     "letra": "C",
+     "texto": "10 cm"
+    },
+    {
+     "letra": "D",
+     "texto": "12 cm"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000191073",
+   "codigo": "4000191073",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 32,
+   "temas": [
+    "Aderências Intestinais Bridas"
+   ],
+   "enunciado": "Com relação à obstrução intestinal por bridas e aderências, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A necessidade de ressecções intestinais é de 80% nos pacientes operados nas primeiras 24 horas da admissão."
+    },
+    {
+     "letra": "B",
+     "texto": "Na cirurgia videolaparoscópica, o pneumoperitônio e o uso de trocateres evitam a formação de bridas e aderências no pós-operatório."
+    },
+    {
+     "letra": "C",
+     "texto": "O sofrimento isquêmico intestinal é geralmente abordado com medidas clínicas, como hidratação e uso de vasodilatadores."
+    },
+    {
+     "letra": "D",
+     "texto": "Em 90% dos casos, medidas clínicas garantem a resolução espontânea da situação."
+    },
+    {
+     "letra": "E",
+     "texto": "Os exames laboratoriais são determinantes para o diagnóstico de sofrimento isquêmico intestinal."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000178598",
+   "codigo": "4000178598",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 33,
+   "temas": [
+    "Cirurgia",
+    "Aderências Intestinais Bridas",
+    "Obstrução Intestinal Mecânica"
+   ],
+   "enunciado": "Homem de 55 anos refere vômitos biliosos, dor abdominal tipo cólica e parada de eliminação de gases e fezes há cerca de 3 horas. Fez cirurgia por úlcera péptica perfurada há 5 anos. Seu exame físico evidencia: cicatriz de incisão mediana xifopubiana, abdome pouco distendido e doloroso à palpação profunda, sem sinais de irritação peritoneal. Não foi possível palpar massas e/ou visceromegalias. A imagem a seguir corresponde à radiografia de abdome desse paciente. Nesse caso, além de reposição hidroeletrolítica, qual é a conduta mais adequada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Videolaparoscopia diagnóstica."
+    },
+    {
+     "letra": "B",
+     "texto": "Laparotomia exploradora de emergência."
+    },
+    {
+     "letra": "C",
+     "texto": "Sondagem nasogástrica e observação clínica."
+    },
+    {
+     "letra": "D",
+     "texto": "Descompressão colônica por retossigmoidoscopia."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q033-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000170571",
+   "codigo": "4000170571",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 34,
+   "temas": [
+    "Obstrução Intestinal Alta",
+    "Cirurgia"
+   ],
+   "enunciado": "Uma mulher de 45 anos de idade, sem comorbidades, chegou ao pronto-socorro com dor e distensão abdominal há cerca de cinco dias. Ontem, passou a apresentar vômitos fecaloides. Ao exame físico, apresentava-se em regular estado geral, desidratada, descorada +/4+, eupneica, com frequência cardíaca de 90 bpm e pressão arterial de 110 x 70 mmHg. O exame d o abdome revelava distensão e dor difusa, mas sem sinais de peritonite. Não apresentava alterações na gasometria arterial nem leucocitose. Com base nesse caso hipotético, assinale a alternativa que apresenta a descrição correta dessa obstrução intestinal.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "mecânica, baixa e não complicada"
+    },
+    {
+     "letra": "B",
+     "texto": "mecânica, alta e não complicada"
+    },
+    {
+     "letra": "C",
+     "texto": "funcional, alta e complicada"
+    },
+    {
+     "letra": "D",
+     "texto": "funcional, baixa e não complicada"
+    },
+    {
+     "letra": "E",
+     "texto": "funcional, alta e não complicada"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000170362",
+   "codigo": "4000170362",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 35,
+   "temas": [
+    "Manif estações Clínicas e Exame Físico",
+    "Hérnias Complicadas",
+    "Apresentação Clínica"
+   ],
+   "enunciado": "Paciente de 32 anos vai à emergência do Hospital Universitário com dor em região inguinal esquerda, apresentando neste local abaulamento que se estende à bolsa escrotal ipsilateral. Ruídos hidroaéreos estão presentes na bolsa escrotal. Apresenta vômitos entéricos, distensão abdominal e ausência de eliminação de gases há 24 horas. Sobre esse paciente, é CORRETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Apresenta hérnia inguinal que, mais provavelmente, origina-se lateralmente aos vasos epigástricos inferiores."
+    },
+    {
+     "letra": "B",
+     "texto": "Apresenta hérnia inguinal tipo IV de Nyhus e, portanto, deve ser corrigida pelo reparo de Marcy."
+    },
+    {
+     "letra": "C",
+     "texto": "Esta hérnia cruza o trígono de Calot."
+    },
+    {
+     "letra": "D",
+     "texto": "Hérnia inguinal é causa frequente de obstrução do intestino delgado, sendo a enterectomia fundamental no tratamento."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169926",
+   "codigo": "4000169926",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 36,
+   "temas": [
+    "Cirurgia",
+    "Aderências Intestinais Bridas"
+   ],
+   "enunciado": "Paciente masculino, 65 anos, chega ao pronto atendimento com quadro de dor e distensão abdominal há 3 dias, vômitos e parada de eliminação de gases e fezes. Têm histórico prévio de ferimento por arma branca em abdome, cirurgias abdominais posteriores para reconstrução de trânsito intestinal e hernioplastia incisional. Ao exame físico, apresenta-se hipotenso, febril e com leve taquipneia. Apresenta sinais de peritonite difusa à palpação abdominal. Toque retal com ampola retal vazia, sem demais alterações. Apresenta leucocitose importante, com desvio à esquerda e função renal alterada. Após terapêutica clínica iniciada na urgência, qual a provável hipótese diagnóstica e o tratamento adequado?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Volvo de sigmoide – laparotomia exploradora."
+    },
+    {
+     "letra": "B",
+     "texto": "Obstrução de delgado (brida) – manter tratamento clínico."
+    },
+    {
+     "letra": "C",
+     "texto": "Neoplasia de retossigmoide – colonoscopia."
+    },
+    {
+     "letra": "D",
+     "texto": "Obstrução de delgado (brida) – laparotomia exploradora."
+    },
+    {
+     "letra": "E",
+     "texto": "Colecistite aguda – colecistectomia videolaparoscópica."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169596",
+   "codigo": "4000169596",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 37,
+   "temas": [
+    "Quadro Clínico",
+    "Critérios Diagnósticos",
+    "Fecaloma"
+   ],
+   "enunciado": "Mulher de 75 anos de idade está internada em uma enfermaria de clínica médica, com queixa de dor e distensão abdominal progressivas há 4 dias. Segundo a família, a paciente iniciou concomitantemente um quadro de confusão mental aguda, com períodos de prostração seguidos de agitação psicomotora. Negaram sintomas urinários, mas relataram constipação há 5 dias. Está em uso de meperidina para controle de dor, a qual foi iniciada após cirurgia de prótese de joelho há 3 meses. Tem diagnóstico prévio de hipertensão arterial sistêmica e neoplasia de mama, a qual foi tratada com sucesso há 12 anos, estando em acompanhamento regular com mastologista. O exame clínico evidenciou desatenção e utuação do nível de consciência, com escala de coma de Glasgow (ECG) de 14. O seu abdome era distendido, com ruídos hidroaéreos aumentados, timpânico e com dor discreta à palpação difusamente. O toque retal apresentava fezes endurecidas em ampola, sendo possível verificar presença de saída de atos. Foi solicitada radiogra a de abdome, que pode ser vista na figura a seguir: (Radiografia de abdome) Os exames laboratoriais realizados evidenciaram creatinina sérica de 0,9 mg/dL, ureia sérica de 23 mg/dL, sódio de 140 mEq/L, potássio de 5,1 mEq/L e magnésio de 2,2 mg/dL. Quais os diagnósticos apresentados pela paciente neste momento?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Semioclusão intestinal e metástase em sistema nervoso central."
+    },
+    {
+     "letra": "B",
+     "texto": "Fecaloma e delirium hipoativo."
+    },
+    {
+     "letra": "C",
+     "texto": "Síndrome de Ogilvie e demência do tipo vascular."
+    },
+    {
+     "letra": "D",
+     "texto": "Isquemia mesentérica e encefalopatia metabólica."
+    },
+    {
+     "letra": "E",
+     "texto": "Abdome agudo perfurativo e encefalopatia associada a sepse."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q037-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000168125",
+   "codigo": "4000168125",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 38,
+   "temas": [
+    "Pseudoobstrução Colônica Síndrome de Ogilvie"
+   ],
+   "enunciado": "Um paciente está internado na UTI com quadro de COVID-19 avançado. O paciente encontra-se em uso de drogas vasoativas e em ventilação mecânica. O plantão da cirurgia geral foi acionado para avaliar um quadro de distensão abdominal. Na tomografia foram observadas as seguintes imagens. Qual o possível diagnóstico e a conduta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Perfuração intestinal, tratamento cirúrgico."
+    },
+    {
+     "letra": "B",
+     "texto": "Pseudo-obstrução colônica, tratamento cirúrgico."
+    },
+    {
+     "letra": "C",
+     "texto": "Ileo Paralítico, tratamento conservador com infusão intravenosa de procinéticos."
+    },
+    {
+     "letra": "D",
+     "texto": "Síndrome de Bouveret, tratamento por meio de colonoscopia descompressiva."
+    },
+    {
+     "letra": "E",
+     "texto": "Síndrome de Ogilvie, tratamento conservador com infusão intravenosa de neostigmina."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [
+    {
+     "arquivo": "imagens/q038-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000167101",
+   "codigo": "4000167101",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 39,
+   "temas": [
+    "Aderências Intestinais Bridas"
+   ],
+   "enunciado": "Um paciente com dor e distensão abdominal associadas a vômitos deu entrada no prontoatendimento. A suspeita é de uma obstrução do intestino delgado. Qual das seguintes alternativas representa a causa mais comum, em geral, desse tipo de obstrução?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Doença de Crohn."
+    },
+    {
+     "letra": "B",
+     "texto": "Neoplasia."
+    },
+    {
+     "letra": "C",
+     "texto": "Retocolite ulcerativa."
+    },
+    {
+     "letra": "D",
+     "texto": "Aderências."
+    },
+    {
+     "letra": "E",
+     "texto": "Hérnia interna."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000166472",
+   "codigo": "4000166472",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 40,
+   "temas": [
+    "Neoplasia Colorretal"
+   ],
+   "enunciado": "Paciente do sexo feminino, 64 anos, dá entrada no serviço de urgência apresentando quadro de dor abdominal difusa, tipo cólica, progressiva, associada a vômitos e parada de eliminação de gases e fezes, com evolução de 3 dias. Apresentava-se em REG, bastante desidratado, taquicárdico, taquipneico e discretamente hipotenso. Seu abdome é distendido, difusamente doloroso à palpação difusamente, sem irritação peritoneal. Os exames laboratoriais evidenciaram anemia, leucocitose moderada, hiponatremia, hipopotassemia e acidose metabólica. A radiogra a de abdome evidencia distensão significativa de cólon, porém sem distensão importante do intestino delgado. A tomogra a de abdome confirmou os dados acima e evidenciou área de estenose tumoral a nível da transição retossigmoidea e sinais de dissecção gasosa da parede do cólon direito. Sobre o caso descrito acima, assinale a alternativa INCORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Os dados acima nos permitem afirmar que o paciente apresenta válvula íleo-cecal competente."
+    },
+    {
+     "letra": "B",
+     "texto": "O tratamento com maiores chances de sucesso para o caso é a sondagem nasogástrica descompressiva, ressuscitação volêmica, correção dos distúrbios eletrolíticos, antibioticoterapia e observação clínica por 48 horas."
+    },
+    {
+     "letra": "C",
+     "texto": "O paciente deve ter tratamento adequado instituído urgentemente devido ao risco iminente de perfuração do ceco."
+    },
+    {
+     "letra": "D",
+     "texto": "A colostomia é parte do acervo técnico cirúrgico possível para o caso acima."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000165605",
+   "codigo": "4000165605",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 41,
+   "temas": [
+    "Abdome Agudo Obstrutivo",
+    "Cirurgia"
+   ],
+   "enunciado": "Homem, 62 anos de idade, é admitido no serviço de emergência devido a dor abdominal em cólica, vômitos e distensão abdominal há 4 dias. Última evacuação há 5 dias e, desde então, não elimina gases. Refere cólica abdominal há 3 meses, com vômitos esporádicos que melhorava com jejum e medicamento antiespasmódico. Tem hipertensão arterial controlada e nega operações abdominais prévias. Ao exame físico: Bom estado, desidratado, eupneico. Abdome: distendido, ruídos hidroaéreos aumentados, doloroso à palpação profunda sem irritação peritoneal. Toque retal: sem fezes na ampola. Exames laboratoriais: Hb: 10,9 g/dL; Ht: 38%; Creatinina: 2,9 mg/dL; Ureia: 110 mg/dL. Demais exames sem alterações. Realizada a tomografia de abdome apresentada. Qual é a principal hipótese diagnóstica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Abdome agudo obstrutivo ao nível do sigmoide."
+    },
+    {
+     "letra": "B",
+     "texto": "Síndrome de Ogilvie."
+    },
+    {
+     "letra": "C",
+     "texto": "Abdome agudo obstrutivo ao nível de delgado."
+    },
+    {
+     "letra": "D",
+     "texto": "Íleo paralítico."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q041-1.jpg",
+     "antes_das_alternativas": true
+    },
+    {
+     "arquivo": "imagens/q041-2.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000164954",
+   "codigo": "4000164954",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 42,
+   "temas": [
+    "Volvo de Sigmoide",
+    "Cirurgia"
+   ],
+   "enunciado": "Homem, 50 anos, é admitido com quadro de parada de eliminação de gases e fezes, além de dor abdominal. Exame físico: hipertimpanismo abdominal. Radiografia (Rx) anteroposterior e TC do abdome, a seguir. A melhor descrição das imagens e a hipótese diagnóstica mais provável, respectivamente, são radiogra a com distensão de alça cólica cujo ápice encontra-se no quadrante superior:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "direito do abdome e, na TC, há rotação mesentérica com afilamento do sigmoide / volvo de sigmoide"
+    },
+    {
+     "letra": "B",
+     "texto": "esquerdo do abdome e, na TC, há rotação mesentérica com afilamento do ceco / volvo de ceco"
+    },
+    {
+     "letra": "C",
+     "texto": "direito do abdome e, na TC, há pneumatose intestinal / isquemia mesentérica"
+    },
+    {
+     "letra": "D",
+     "texto": "esquerdo do abdome e, na TC, há linfonodomegalia mesentérica / obstrução intestinal por tumor de cólon"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q042-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000164818",
+   "codigo": "4000164818",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 43,
+   "temas": [
+    "Hérnias Complicadas",
+    "Cirurgia",
+    "Hérnia Complicada"
+   ],
+   "enunciado": "Paciente feminina, 65 anos, dá entrada no serviço de emergência com dor abdominal tipo cólica, náuseas e vômitos há 2 dias. História de hipertensão arterial em tratamento medicamentoso. Nega cirurgias prévias. Ao exame: abdome com distensão abdominal, RHA aumentados, presença de abaulamento irredutível abaixo do ligamento inguinal à esquerda, sem sinais flogísticos locais. A principal hipótese diagnóstica e a melhor conduta neste momento seriam:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hérnia femoral encarcerada – inguinotomia com correção da hérnia. Se sofrimento intestinal realizar laparotomia exploradora."
+    },
+    {
+     "letra": "B",
+     "texto": "Tumor metastático para região inguinal – Tomografia de abdome e pelve com contraste."
+    },
+    {
+     "letra": "C",
+     "texto": "Hérnia femoral encarcerada – Redução manual da hérnia sob analgesia e posterior herniorrafia de maneira eletiva."
+    },
+    {
+     "letra": "D",
+     "texto": "Lipoma de cordão – ultrassom de região inguinal."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000164396",
+   "codigo": "4000164396",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 44,
+   "temas": [
+    "Cirurgia",
+    "Fecaloma"
+   ],
+   "enunciado": "Uma senhora de 68 anos procura o pronto-socorro por dores abdominais em cólica, mais localizadas em baixo-ventre, e di culdade para evacuar, que foi piorando ao longo dos últimos 6 meses. Vinha evacuando a cada 4 dias, sendo que atualmente está há 1 semana sem evacuar. Queixa-se ainda de náuseas e vômitos. Não tem antecedentes relevantes, salvo hipertensão arterial, que trata com diurético. Refere tabagismo de 1 maço/dia, por “mais de 20 anos”. Nega febre. Refere emagrecimento de 10 kg (de 80 para 70 kg) nos últimos 6 meses. Está desidratada. Tem distensão abdominal, sem peritonismo. Fez a radiografia ilustrada a seguir. A conduta neste momento deve ser:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Preparo anterógrado para colonoscopia."
+    },
+    {
+     "letra": "B",
+     "texto": "Lavagem retal, inicialmente."
+    },
+    {
+     "letra": "C",
+     "texto": "Laparotomia de urgência."
+    },
+    {
+     "letra": "D",
+     "texto": "Tomografia de abdômen e pelve, com contraste por via retal."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q044-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000164386",
+   "codigo": "4000164386",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 45,
+   "temas": [
+    "Cirurgia",
+    "Aderências Intestinais Bridas"
+   ],
+   "enunciado": "Uma paciente de 33 anos queixa-se de dor abdominal difusa, que vem aumentando, e parada de eliminação de atos e fezes há 2 dias. Tem náuseas e teve 2 episódios de vômitos. Nega febre ou sintomas urinários. Nega episódios prévios semelhantes. Antecedentes: histerectomia total abdominal. Está em bom estado geral, corada, anictérica, acianótica, afebril, mas desidratada1+/4+. O abdômen está distendido e é doloroso difusamente à palpação. A descompressão brusca é negativa. Os ruídos hidroaéreos estão presentes, mas diminuídos. Toque retal: ausência de fezes em ampola; sem massas palpáveis. Hemoglobina: 14,2 mg/dL, proteína C reativa: 28 mg/L, Na+: 141 mEq/L, K+: 3,4 mEq/L. Foi submetida inicialmente a tratamento clínico, com jejum, sonda gástrica aberta e hidratação, iniciado há 12 horas. Fez a tomogra a de abdômen ilustrada a seguir. Conduta de maior risco para esta paciente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Manter o tratamento clínico por mais 12 horas."
+    },
+    {
+     "letra": "B",
+     "texto": "Laparotomia exploradora."
+    },
+    {
+     "letra": "C",
+     "texto": "Fazer trânsito intestinal com contraste baritado pela sonda gástrica."
+    },
+    {
+     "letra": "D",
+     "texto": "Laparoscopia."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q045-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000153208",
+   "codigo": "4000153208",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 46,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Paciente de 60 anos de idade, masculino, procura hospital pronto-socorro com história de parada de eliminação de atos e fezes há cerca de 1 semana. Nega vômitos. Ao exame físico, paciente em regular estado geral, desidratado, dispneico, taquicárdico. Abdome globoso, hipertimpânico, doloroso à palpação difusa, com sinais de irritação peritoneal. Toque retal com ampola retal vazia, sem fezes, sem muco, sem sangue em “dedo-de-luva”. Solicitadas radiogra as de tórax e abdome, demonstrando distensão volumosa de cólon e ceco (maior que 12 cm), com níveis hidroaéreos, sem distensão de intestino delgado. Baseado nessas informações, qual a conduta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Sonda nasogástrica."
+    },
+    {
+     "letra": "B",
+     "texto": "Observação."
+    },
+    {
+     "letra": "C",
+     "texto": "Laparotomia exploradora."
+    },
+    {
+     "letra": "D",
+     "texto": "Clister glicerinado."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000174548",
+   "codigo": "4000174548",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 47,
+   "temas": [
+    "Fecaloma"
+   ],
+   "enunciado": "Um paciente de 75 anos é internado por distensão abdominal, vômitos, crises de cólicas cada vez mais intensas e frequentes e parada de evacuação e de eliminação de gases há 6 dias. Nega emagrecimento recente. Proveniente de casa de repouso, o paciente é acamado e totalmente dependente. Está em regular estado geral, mas muito desidratado. Pulso: 110 bpm, PA: 110 x 70 mmHg. O abdome está distendido e tem sinal de Gersuny+. Etapa do exame físico que possibilita a confirmação do diagnóstico:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Toque retal."
+    },
+    {
+     "letra": "B",
+     "texto": "Palpação do canal inguinal."
+    },
+    {
+     "letra": "C",
+     "texto": "Ausculta dos ruídos hidroaéreos."
+    },
+    {
+     "letra": "D",
+     "texto": "Pesquisa de círculos de Skoda."
+    },
+    {
+     "letra": "E",
+     "texto": "Descompressão brusca."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000173910",
+   "codigo": "4000173910",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 48,
+   "temas": [
+    "Pseudoobstrução Colônica Síndrome de Ogilvie"
+   ],
+   "enunciado": "Em um paciente com pseudo-obstrução dos cólons, a neostigmina é frequentemente usada como terapêutica de primeira linha. Qual droga é usada para neutralizar o principal efeito colateral da neostigmina?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Adenosina."
+    },
+    {
+     "letra": "B",
+     "texto": "Atropina."
+    },
+    {
+     "letra": "C",
+     "texto": "Betabloqueadores."
+    },
+    {
+     "letra": "D",
+     "texto": "Epinefrina."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000173371",
+   "codigo": "4000173371",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 49,
+   "temas": [
+    "Íleo Paralítico"
+   ],
+   "enunciado": "Paciente do sexo masculino, 40 anos, foi submetido a colectomia esquerda seguida de colostomia tipo Hartmann, devido a tumor de cólon obstrutivo. Durante a cirurgia, observou-se edema e dilatação de todo o intestino delgado e do cólon. No 5º dia de pós-operatório, o paciente está em regular estado geral, eupneico, afebril, permanece com distensão abdominal e alto débito de líquido bilioso pela sonda nasogástrica, ruídos abdominais diminuídos e eliminação precária de gases pela colostomia. A radiogra a simples de abdome mostra distensão de intestino delgado e cólon. Das possibilidades abaixo, a mais provável seria:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Obstrução intestinal por bridas."
+    },
+    {
+     "letra": "B",
+     "texto": "Íleo paralítico."
+    },
+    {
+     "letra": "C",
+     "texto": "Obstrução intestinal por hérnia interna."
+    },
+    {
+     "letra": "D",
+     "texto": "Obstrução da colostomia."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000172182",
+   "codigo": "4000172182",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 50,
+   "temas": [
+    "Manif estações Clínicas e Exame Físico",
+    "Tratamento Conservador x Tratamento Cirúrgico"
+   ],
+   "enunciado": "Classif icações João 54 anos, procura o PS por dor abdominal em cólica, difusa, há 72 horas, associada a distensão abdominal e parada de eliminação de gases e fezes. Refere alteração do hábito intestinal há 3 meses, com necessidade de laxativos para evacuar, além de sangue nas fezes e alteração do formato. Nega vômitos. Não tem antecedentes mórbidos relevantes e nega operações prévias. Ao exame físico está em bom estado geral, corado, desidratado, IMC: 31kg/m2. Abdome: ácido, distendido, pouco doloroso à palpação, sem sinais de irritação peritoneal e sem massas palpáveis. No toque retal, ausência de fezes na ampola, presença de lesão ulcerada circunferencial a 6 cm da borda anal e presença de sangue. Realizada tomogra a de abdome e pelve: ausência de lesões hepáticas, sem líquido livre. Distensão apenas de cólon e espessamento do reto médio distal com linfonodos aumentados no mesorreto. Qual é a conduta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ileostomia em alça por laparotomia."
+    },
+    {
+     "letra": "B",
+     "texto": "Retossigmoidectomia oncológica e colostomia terminal."
+    },
+    {
+     "letra": "C",
+     "texto": "Colostomia em alça por laparotomia."
+    },
+    {
+     "letra": "D",
+     "texto": "Amputação de reto com linfadenectomia."
+    },
+    {
+     "letra": "E",
+     "texto": "Biopsia"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000170204",
+   "codigo": "4000170204",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 51,
+   "temas": [
+    "Síndrome de Mirizzi",
+    "Tratamento",
+    "Exame Físico e História Clínica"
+   ],
+   "enunciado": "Um paciente de 68 anos de idade, diabético controlado, dá entrada no hospital com sepse de foco abdominal, taquicárdico, dispneico, com murphy + à palpação e abdome muito distendido com relatos de parada de eliminação de gazes e fezes. Realizou ultrassom de abdome que evidenciou colecistite aguda en sematosa complicada e bloqueada. Foi submetido a laparatomia exploradora em que se notou fístula entre a vesícula e duodeno e com cálculo biliar impactando a válvula íleo cecal, caracterizando um síndrome de Mirizzi com íleo biliar. Nessa situação, a melhor conduta e a classificação do Mirizzi seriam, respectivamnete:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "colectomia direita e drenagem percutânea da via biliar e Mirizzi tipo II."
+    },
+    {
+     "letra": "B",
+     "texto": "ileostomia em alça com colangiografia intraoperatória e Mirizzi tipo IV."
+    },
+    {
+     "letra": "C",
+     "texto": "enterotomia com retirada do cálculo com colecistectomia e Mirizzi tipo Vb."
+    },
+    {
+     "letra": "D",
+     "texto": "colostomia em Alça com colecistectomia e Mirizzi tipo III."
+    },
+    {
+     "letra": "E",
+     "texto": "enterectomia com colecistendese e Mirizzi tipo Va."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000170187",
+   "codigo": "4000170187",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 52,
+   "temas": [
+    "Divertículo de Meckel",
+    "Diagnóstico",
+    "Manif estações Clínicas"
+   ],
+   "enunciado": "Paciente de 31 anos, sexo feminino, com duas cirurgias anteriores prévias, ooforectómica direita e apendicectomia, respectivamente. Relata, há 1 semana, dores em fossa ilíaca direita, com leve distensão, dores tipo cólica, náuseas e vômitos e piora do trânsito intestinal, cando mais constipada. Ao exame físico, não apresentava peritonite, mas era notável uma massa palpável na topografia de fossa ilíaca direita. Foi solicitado um RX de abdome total e uma tomografia de abdome total cujas imagens estão apresentadas a seguir. Frente às imagens e ao quadro clínico, a principal hipótese diagnóstica e melhor conduta seriam, respectivamente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "doença de Crohn estenosante; uso de terapia biológica (Anti Tnf-alfa)."
+    },
+    {
+     "letra": "B",
+     "texto": "neoplasia mucinosa de delgado e quimioterapia adjuvante."
+    },
+    {
+     "letra": "C",
+     "texto": "GIST do delgado; laparotomia exploradora."
+    },
+    {
+     "letra": "D",
+     "texto": "intussuscepção intestinal por provável divertículo de Meckel; ressecção local por cirurgia."
+    },
+    {
+     "letra": "E",
+     "texto": "corpo estranho devido a cirurgia prévia; laparotomia exploradora."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000151988",
+   "codigo": "4000151988",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 53,
+   "temas": [
+    "Volvo de Sigmoide",
+    "Cirurgia"
+   ],
+   "enunciado": "Um paciente de 83 anos está internado há 1 mês por insu ciência respiratória grave por COVID-19. Traqueostomizado, atualmente está em programa de desmame, tanto das drogas vasoativas quanto da ventilação mecânica. Há 2 dias, começou a apresentar dor e distensão abdominal. A PCR passou de 40 mg/L para 90 mg/L (normal: até 3 mg/L) e os leucócitos subiram de 14.500/mm³ para 17.000/mm³. Não tem sinais de peritonismo. Fez a radiogra a ilustrada a seguir. A melhor conduta inicial, em condições ideais, além de manter em jejum com hidratação intravenosa, seria:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Colonoscopia descompressiva."
+    },
+    {
+     "letra": "B",
+     "texto": "Intervenção cirúrgica."
+    },
+    {
+     "letra": "C",
+     "texto": "Neostigmina."
+    },
+    {
+     "letra": "D",
+     "texto": "Passagem de sonda nasogástrica e retal."
+    },
+    {
+     "letra": "E",
+     "texto": "Lavagem intestinal."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q053-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000147365",
+   "codigo": "4000147365",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 54,
+   "temas": [
+    "Cirurgia"
+   ],
+   "enunciado": "Paciente masculino de 80 anos, tabagista, com antecedente de DM, HAS, IAM há 3 meses e DPOC, deu entrada no pronto-socorro com quadro de dor e distensão abdominal há 3 dias, associada à parada de eliminação de gases e fezes, e vômitos fecaloides. Ao exame físico, apresentava-se em REG, desidratado, descorado e afebril. PA: 100 x 70 mmHg, FC: 102 bpm; FR: 20 ipm. O abdome apresentava-se distendido, com ruídos hidroaéreos com timbre metálico, sem sinais de irritação peritoneal. Toque retal com ampola vazia. O hemograma era de 17.000 leucócitos, sem desvio à esquerda, e a rotina radiológica de abdome agudo mostrou distensão colônica, sem distensão do intestino delgado, ceco com diâmetro de 16 cm, stop gasoso no sigmoide e sinal de Rigler. Diante da provável hipótese diagnóstica, qual é a conduta para o caso apresentado?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Transversostomia descompressiva com incisão transversa no hipocôndrio direito, sem laparotomia."
+    },
+    {
+     "letra": "B",
+     "texto": "Cirurgia de Hartmann."
+    },
+    {
+     "letra": "C",
+     "texto": "Sigmoidectomia com anastomose primária."
+    },
+    {
+     "letra": "D",
+     "texto": "Passagem de stent expansível transtumoral via colonoscopia."
+    },
+    {
+     "letra": "E",
+     "texto": "Colectomia total com ileostomia terminal e sepultamento do coto retal."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000146104",
+   "codigo": "4000146104",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 55,
+   "temas": [
+    "Cirurgia",
+    "Síndrome da Artéria Mesentéria Superior"
+   ],
+   "enunciado": "As imagens abaixo foram realizadas na investigação de uma paciente feminina, 24 anos de idade, com queixas de dor e distensão abdominal pós-prandial e eructações frequentes há aproximadamente 2 meses. Relata perda ponderal importante neste mesmo período. As imagens evidenciam compressão da terceira porção duodenal entre a artéria mesentérica superior e a aorta, com consequente dilatação a montante. Tratase da:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Síndrome de Wilkie."
+    },
+    {
+     "letra": "B",
+     "texto": "Síndrome de Foley."
+    },
+    {
+     "letra": "C",
+     "texto": "Síndrome de Prader Willi."
+    },
+    {
+     "letra": "D",
+     "texto": "Síndrome de Cocket."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q055-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000145962",
+   "codigo": "4000145962",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 56,
+   "temas": [
+    "Volvo de Sigmoide",
+    "Cirurgia"
+   ],
+   "enunciado": "Mulher de 86 anos de idade internada em terapia intensiva há 12 dias por edema agudo de pulmão, secundário a insu ciência cardíaca descompensada. Piorou nos últimos 5 dias, com necessidade de intubação orotraqueal e uso de droga vasoativa. Solicitada avaliação da cirurgia geral devido ausência de evacuação há 4 dias, mesmo após medidas laxativas. Ao exame: abdome distendido, hipertimpânico, tenso; toque retal com ampola vazia, sem massas palpáveis ou sangue em dedo de luva. Radiogra a de abdome realizada no leito identi cou grande distensão do cólon, com sinal do \"\"grão de café\"\" ou “U” invertido, achado este confirmado por tomogra a de abdome, que não identi cou líquido livre, pneumoperitônio ou pneumatose intestinal. Qual é a conduta para o caso no momento?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Colonoscopia descompressiva."
+    },
+    {
+     "letra": "B",
+     "texto": "Laparotomia exploradora para retossigmoidectomia à Hartmann."
+    },
+    {
+     "letra": "C",
+     "texto": "Neostigmina por via endovenosa."
+    },
+    {
+     "letra": "D",
+     "texto": "Laparotomia exploradora para colectomia total com ileostomia terminal."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000145712",
+   "codigo": "4000145712",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 57,
+   "temas": [
+    "Volvo de Sigmoide",
+    "Gastroenterologia"
+   ],
+   "enunciado": "Paciente, 75 anos, é atendido no serviço de emergência, com relato de ser portador de distúrbios psiquiátricos tratados com drogas psicotrópicas. Há ainda história de início súbito de dor abdominal intensa, vômitos e constipação. O exame do abdome mostra acentuada distensão e timpanismo aumentado à percussão. As radiogra as abdominais revelam um cólon sigmoide marcadamente dilatado parecendo um tubo dobrado, com seu ápice no quadrante superior direito. Observa-se nível hidroaéreo no cólon dilatado e ausência de gás no reto. Um clister opaco mostra o ponto da obstrução com a deformidade patognomônica em “bico de pássaro”. A hipótese diagnóstica para esse caso é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "volvo de cólon sigmoide."
+    },
+    {
+     "letra": "B",
+     "texto": "diverticulite de cólon sigmoide."
+    },
+    {
+     "letra": "C",
+     "texto": "neoplasia de cólon."
+    },
+    {
+     "letra": "D",
+     "texto": "perfuração de víscera oca."
+    },
+    {
+     "letra": "E",
+     "texto": "hérnia inguinal encarcerada."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000144518",
+   "codigo": "4000144518",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 58,
+   "temas": [
+    "Gastroenterologia",
+    "Aderências Intestinais Bridas"
+   ],
+   "enunciado": "Paciente idoso, 80 anos, com quadro de vômitos incoercíveis, de aspecto bilioso, há cerca de 24 horas, acompanhado de distensão abdominal importante, com timpanismo ao exame físico e presença de ruídos metálicos. Encontra-se com PA: 80x50, FC: 102, FR: 24, desidratado 3/4+, sonolento. Tem história de cirurgia abdominal por câncer de cólon há cerca de 20 anos. Sobre o diagnóstico e tratamento:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Raio-X de abdome; estabilização hemodinâmica"
+    },
+    {
+     "letra": "B",
+     "texto": "Não necessita de exame de imagem, cirurgia imediata"
+    },
+    {
+     "letra": "C",
+     "texto": "Raio-X de abdome, cirurgia imediata"
+    },
+    {
+     "letra": "D",
+     "texto": "USG de abdome; estabilização hemodinâmica."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000144470",
+   "codigo": "4000144470",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 59,
+   "temas": [
+    "Hérnias Complicadas",
+    "Cirurgia"
+   ],
+   "enunciado": "Paciente masculino, 40 anos, com dor abdominal de forte intensidade há 24 horas, mais intensa em fossa ilíaca esquerda, acompanhada de distensão abdominal e vômitos fecalóides. Ao exame físico o paciente se encontrava taquicardico, com distensão abdominal importante, sem irritação peritoneal e observou-se presença de hérnia inguinal esquerda, irredutível as manobras, com dor importante a manipulação. O Raio X de abdome evidenciou distensão de alças de intestino delgado, com a presença de níveis hidroaéreos. O exame laboratorial evidenciou leucocitose com desvio a esquerda. Durante a fase de hidratação e início de antibioticoterapia, o médico foi informado pelo enfermeiro que a hérnia havia reduzido de forma espontânea. Ao examinar o paciente, o médico confirma a redução espontânea do material herniado. Qual a melhor conduta diante dessa nova situação clínica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Manter o paciente em observação na Unidade de Pronto Atendimento e após 06 horas, se mantiver o atual exame físico, dar alta para o domicílio com antibiótico oral."
+    },
+    {
+     "letra": "B",
+     "texto": "Dar alta para o domicílio com orientações dietéticas."
+    },
+    {
+     "letra": "C",
+     "texto": "Encaminhar o paciente para cirurgia de urgência, apesar da redução espontânea da hérnia."
+    },
+    {
+     "letra": "D",
+     "texto": "Dar alta para domicílio e orientar procurar o serviço de cirurgia geral ambulatorial mente."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000143211",
+   "codigo": "4000143211",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 60,
+   "temas": [
+    "Hérnias Complicadas",
+    "Cirurgia"
+   ],
+   "enunciado": "Ao operar hérnia estrangulada de Richter no canal femoral de uma mulher, espera-se que a porção necrosada esteja:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "na borda antimesentérica"
+    },
+    {
+     "letra": "B",
+     "texto": "nos linfonodos do meso"
+    },
+    {
+     "letra": "C",
+     "texto": "na borda mesentérica"
+    },
+    {
+     "letra": "D",
+     "texto": "nos vasos do meso"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000142825",
+   "codigo": "4000142825",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 61,
+   "temas": [
+    "Tratamento Conservador x Tratamento Cirúrgico",
+    "Tratamento"
+   ],
+   "enunciado": "Abadia, Bete, Célia e Diogo são pacientes com síndrome de abdome agudo obstrutivo. Abadia, uma mulher de 52 anos de idade, tem obstrução intestinal devido a volvo de ceco. Bete, uma mulher de 59 anos de idade, tem obstrução do intestino delgado causada por íleo biliar. Célia, uma mulher de 45 anos de idade, teve obstrução do intestino delgado após cirurgia aberta da vesícula biliar há 20 dias. Diogo, um homem de 28 anos de idade, tem obstrução parcial do intestino delgado associada a hérnia inguinal encarcerada. Entre os pacientes apresentados, quem tem maior probabilidade de responder ao tratamento não cirúrgico é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Abadia."
+    },
+    {
+     "letra": "B",
+     "texto": "Bete."
+    },
+    {
+     "letra": "C",
+     "texto": "Célia."
+    },
+    {
+     "letra": "D",
+     "texto": "Diogo."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000142759",
+   "codigo": "4000142759",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 62,
+   "temas": [
+    "Abdome Agudo Obstrutivo",
+    "Cirurgia"
+   ],
+   "enunciado": "Mulher, 56 anos de idade, apresenta dor abdominal em cólica há 72 horas, seguidas de náuseas, vômitos e obstipação. Há 06 horas, a dor tornou-se persistente, mais intensa, agora com vômito fétido de coloração acastanhada. Refere cirurgia por apendicite aguda complicada há 04 anos. Ao exame, está hipotensa, taquicardíaca, mucosas secas, pele úmida e pegajosa, com abdômen distendido, timpânico, ruídos hidroaéreos raros, principalmente no mesogástrio, com sinais de irritação peritoneal. Considerando a possibilidade de abdômen agudo, qual o diagnóstico sindrômico do quadro clínico?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Isquêmico."
+    },
+    {
+     "letra": "B",
+     "texto": "Inflamatório."
+    },
+    {
+     "letra": "C",
+     "texto": "Obstrutivo."
+    },
+    {
+     "letra": "D",
+     "texto": "Perfurativo."
+    },
+    {
+     "letra": "E",
+     "texto": "Infeccioso."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000141986",
+   "codigo": "4000141986",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 63,
+   "temas": [
+    "Obstrução Intestinal Baixa",
+    "Cirurgia"
+   ],
+   "enunciado": "Paciente do sexo feminino, 56 anos, apresenta quadro de dor abdominal difusa, tipo cólica, de intensidade progressiva, há 3 dias, associada a parada de eliminação de gases e fezes. Apresentou 2 episódios de vômitos de coloração escura e nega febre. Refere constipação crônica que piorou nos últimos 6 meses, com perda de peso não referido. Ao exame físico, apresentase em Regular estado geral, algo emagrecida, bastante desidratada, taquicárdica, levemente taquipneica e hipotensa. Seu abdome é distendido, hipertimpânico, difusamente doloroso à palpação, sem sinais de irritação peritoneal. Movimento peristáltico visível a nível do epigástrio. Ruídos hidroaéreos aumentados em volume e frequência. À radiogra a de abdome, observamos volumosa distensão de cólon com interrupção do padrão gasoso a nível do sigmoide, ausência de gás no reto e discreta presença de gases no intestino delgado. Assinale a alternativa",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O próximo passo no tratamento desta paciente é a colonoscopia, por ser diagnóstica e terapêutica neste caso."
+    },
+    {
+     "letra": "B",
+     "texto": "Há indicação de laparotomia urgente devido ao risco de perfuração do ceco."
+    },
+    {
+     "letra": "C",
+     "texto": "O tratamento inicial com sondagem nasogástrica provavelmente será pouco efetivo no alívio da distensão abdominal desta paciente."
+    },
+    {
+     "letra": "D",
+     "texto": "A radiografia de abdome sugere que esta paciente apresenta válvula ileocecal competente."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000141042",
+   "codigo": "4000141042",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 64,
+   "temas": [
+    "Abdome Agudo Obstrutivo",
+    "Cirurgia",
+    "Hérnia Diaf ragmática Congênita"
+   ],
+   "enunciado": "Paciente de 30 anos de idade, masculino, sem patologias prévias, chega à sala de emergência com fortes dores abdominais e intenso desconforto respiratório, com saturação de 83% e FR = 27 incursões por min., com distensão abdominal importante, com suspeita de peritonite e sinais clínicos sugestivos de abdome agudo obstrutivo. Realizado raio X de tórax e de abdome agudo, que evidenciou grande opaci cação em hemitórax à esquerda, com elevação da cúpula diafragmática à esquerda e níveis hidroaéreos em topografia de hemitórax à esquerda. Sobre o relato, pode-se afirmar que se trata, possivelmente, de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "pneumonia extensa à esquerda."
+    },
+    {
+     "letra": "B",
+     "texto": "pneumotórax espontâneo secundário a bleb."
+    },
+    {
+     "letra": "C",
+     "texto": "hemotórax à esquerda secundário a provável trauma fechado."
+    },
+    {
+     "letra": "D",
+     "texto": "lesão pleural à esquerda com hemotórax."
+    },
+    {
+     "letra": "E",
+     "texto": "hérnia diafragmática congênita crônica agudizada."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000138798",
+   "codigo": "4000138798",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 65,
+   "temas": [
+    "Síndrome da Artéria Mesentéria Superior"
+   ],
+   "enunciado": "A síndrome de Wilkie, ou síndrome da arte",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "obstruc"
+    },
+    {
+     "letra": "B",
+     "texto": "achado de quebra-noz caracterIstico na radiografia com contraste."
+    },
+    {
+     "letra": "C",
+     "texto": "compressa"
+    },
+    {
+     "letra": "D",
+     "texto": "compressa"
+    },
+    {
+     "letra": "E",
+     "texto": "compressão mecânica da segunda porção duodenal."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000138793",
+   "codigo": "4000138793",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 66,
+   "temas": [
+    "Neoplasia Colorretal"
+   ],
+   "enunciado": "Uma paciente de 81 anos de idade, portadora de demência senil, hipertensão arterial, diabetes tipo 2 e artrite reumatoide, sem antecedentes familiares de neoplasia, deu entrada no pronto-socorro com dor abdominal em hipogastro e fossa ilíaca esquerda, sem irradiação há duas semanas, com piora progressiva. Estava em investigação por constipação intestinal com médico da unidade de saúde próxima à sua casa. Durante a investigação, realizou uma tomogra a computadorizada de abdome total com contraste, que evidenciou a imagem abaixo. Com base nesse caso hipotético, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A paciente apresenta quadro de diverticulite complicada, com coleção, e deve ser submetida à drenagem."
+    },
+    {
+     "letra": "B",
+     "texto": "A paciente apresenta apenas coprostase e deve prosseguir com a investigação da constipação por meio de colonoscopia."
+    },
+    {
+     "letra": "C",
+     "texto": "Por ser portadora de demência senil, a paciente não possui queixa principal confiável."
+    },
+    {
+     "letra": "D",
+     "texto": "A paciente apresenta tumoração em cólon esquerdo e deve ser submetida à ressecção cirúrgica."
+    },
+    {
+     "letra": "E",
+     "texto": "A paciente apresenta tumoração em ovário esquerdo e deve ser encaminhada para a ginecologia."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q066-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000138790",
+   "codigo": "4000138790",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 67,
+   "temas": [
+    "Obstrução Intestinal Alta"
+   ],
+   "enunciado": "Um paciente de 63 anos de idade deu entrada no pronto-socorro por dor abdominal e distensão há cinco dias, com parada de eliminação de gases e fezes. Tinha história prévia de apendicectomia laparotômica há quinze anos. Realizou uma radiogra a de abdome agudo, que mostrou empilhamento de moeda e níveis hidroaéreos. Foi diagnosticado com abdome agudo obstrutivo e não apresentou resposta ao tratamento clínico, sendo submetido à laparotomia exploradora. No intraoperatório, foram observadas bridas, que foram desfeitas sem necessidade de ressecção de alça. No terceiro dia pós- operatório, sua sonda nasogástrica ainda apontava débito de 900 mL, com abdome distendido. Com base nessa situação hipotética, assinale a alternativa que apresenta a melhor conduta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "realizar tomografia para avaliar a causa"
+    },
+    {
+     "letra": "B",
+     "texto": "fechar a sonda nasogástrica e observar se o paciente apresentará piora clínica"
+    },
+    {
+     "letra": "C",
+     "texto": "reabordar o paciente cirurgicamente"
+    },
+    {
+     "letra": "D",
+     "texto": "sacar sonda e iniciar dieta hídrica"
+    },
+    {
+     "letra": "E",
+     "texto": "aguardar melhora, manter sonda aberta, corrigir possíveis distúrbios hidroeletrolíticos e introduzir nutrição parenteral"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000138628",
+   "codigo": "4000138628",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 68,
+   "temas": [
+    "Diagnóstico",
+    "Abdome Agudo Obstrutivo",
+    "Exames de Imagem"
+   ],
+   "enunciado": "Um paciente de 82 anos de idade, obstipado crônico, com quadro de dor abdominal difusa, associada com náuseas e diminuição de eliminação de gases e fezes nos últimos dois dias, nega cirurgias anteriores ou emagrecimento. Ao exame físico, com distensão difusa moderada, sem sinais de peritonite. Com base nesse caso hipotético, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A hérnia interna pode ser descartada, pois não realizou cirurgia prévia."
+    },
+    {
+     "letra": "B",
+     "texto": "O volvo de sigmoide parece ser o diagnóstico mais provável."
+    },
+    {
+     "letra": "C",
+     "texto": "A ultrassonografia abdominal seria o primeiro exame para a avaliação diagnóstica."
+    },
+    {
+     "letra": "D",
+     "texto": "A neoplasia de cólon é pouco provável, pois não há emagrecimento significativo."
+    },
+    {
+     "letra": "E",
+     "texto": "Embora se possa iniciar a avaliação com uma radiografia simples, a tomografia será realizada."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000133719",
+   "codigo": "4000133719",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 69,
+   "temas": [
+    "Hérnias Complicadas",
+    "Cirurgia",
+    "Hérnia Femoral"
+   ],
+   "enunciado": "A técnica mais recomendada para o reparo da hérnia femoral estrangulada com necrose segmentar de intestino delgado é a de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "McVay."
+    },
+    {
+     "letra": "B",
+     "texto": "Bassini."
+    },
+    {
+     "letra": "C",
+     "texto": "Shouldice."
+    },
+    {
+     "letra": "D",
+     "texto": "Lichtenstein."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000137318",
+   "codigo": "4000137318",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 70,
+   "temas": [
+    "Cirurgia",
+    "Síndrome da Artéria Mesentéria Superior"
+   ],
+   "enunciado": "Paciente de 48 anos, diabética tipo 2, tabagista, com diagnóstico de neoplasia de mama esquerda, submetida a tratamento cirúrgico (mastectomia radical e linfadenectomia) e quimioterapia adjuvante há 6 meses. Durante o tratamento quimioterápico, apresentou importante perda ponderal, aproximadamente 25 kg, sendo o seu peso atual apenas 43 kg. Comparece ao Pronto-Socorro com queixa de dor abdominal em região epigástrica, sensação de plenitude pós-prandial, saciedade precoce, anorexia, náuseas e vômitos biliares. Esses sintomas eram esporádicos, porém tornaram-se mais intensos nos últimos três dias. Refere alívio da dor ao assumir a posição genupeitoral. Ao exame físico: emagrecida, descorada ++/4, desidratada ++/4, eupneica, afebril. Ausculta pulmonar e cardíaca sem alterações. FC: 102 bpm, PA: 100 x 60 mmHg, FR: 18 irpm. Abdome escavado, ácido, pouco doloroso e distendido no andar superior do abdome, sem massas palpáveis, RHA presentes. Exames laboratoriais: Hb: 9,7 g/dL; Leuco: 10,50 mil/mm³ (sem desvio à esquerda); PCR: 15 mg/dL; K: 3,0 mmol/L, Creatinina: 1,22 mg/dl; Ureia: 34 mg/dl. Gasometria compatível com alcalose metabólica. Após passagem de sonda nasogástrica, hidratação endovenosa e início da correção dos distúrbios hidroeletrolíticos e ácido- básicos, foi realizada tomografia contrastada de abdome (imagem a seguir). Em relação ao caso, qual é o provável diagnóstico e o respectivo tratamento?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Volvo gástrico, distorção e gastropexia endoscópica."
+    },
+    {
+     "letra": "B",
+     "texto": "Síndrome de Bouveret, endoscopia digestiva alta e litotripsia."
+    },
+    {
+     "letra": "C",
+     "texto": "Síndrome de Wilkie, duodenojejunostomia."
+    },
+    {
+     "letra": "D",
+     "texto": "Gastroparesia diabética, tratamento clínico com controle glicêmico, mudanças dietéticas e procinéticos."
+    },
+    {
+     "letra": "E",
+     "texto": "Estenose pré-pilórica por doença ulcerosa péptica, antrectomia, vagotomia troncular e reconstrução a Billroth II."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q070-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000127758",
+   "codigo": "4000127758",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 71,
+   "temas": [
+    "Tratamento",
+    "Cirurgia"
+   ],
+   "enunciado": "Paciente de 66 anos, procura emergência referindo dor abdominal em cólica há três dias associado a distensão abdominal e vômitos. Ele relata que há um dia passou a apresentar febre, dispneia e fraqueza. De antecedentes pessoais refere ser diabético controlado com hipoglicemiantes orais e hipertenso em uso de valsartana e anlodipina e também cirurgia para apendicite na adolescência. Ao exame físico ele está desidratado, corado, febril (37,8º C). No exame do abdome, o paciente apresenta uma incisão mediana infra umbilical, distensão abdominal com ruídos hidroaéreos diminuídos e dor difusa a palpação abdominal. Uma tomogra a de abdome é solicitada e mostra um padrão de intestino delgado com alças nas e alças grossas com paredes espessadas captando contraste, pneumatose intestinal e líquido livre na cavidade. Qual o diagnóstico e conduta para este caso:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Obstrução por bridas. Deve ser tratado com sonda nasogástrica em drenagem, hidratação e correção de distúrbios eletrolíticos e reavaliação em 24 horas."
+    },
+    {
+     "letra": "B",
+     "texto": "Obstrução com sinais clínicos e tomográficos de complicação. Deve ser realizada correção dos distúrbios hidro eletrolíticos e indicar cirurgia de urgência."
+    },
+    {
+     "letra": "C",
+     "texto": "Pseudo obstrução intestinal. Deve ser conduzido com correção dos distúrbios hidro eletrolíticos, colocação de uma sonda retal e nasogástrica e reavaliação em 24 horas."
+    },
+    {
+     "letra": "D",
+     "texto": "Obstrução intestinal por tumor de colo sigmoide. Deve ser submetido a uma colonoscopia descompressiva após a correção dos distúrbios hidro eletrolíticos."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000107729",
+   "codigo": "4000107729",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 72,
+   "temas": [
+    "Abdome Agudo Obstrutivo",
+    "Complicações",
+    "Íleo Biliar"
+   ],
+   "enunciado": "Paciente idosa dá entrada no pronto-socorro com distensão abdominal, icterícia e vômitos incoercíveis. No raio X simples de abdome, observa-se a tríade de Rigler. Qual o provável diagnóstico?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Síndrome de Mirizzi"
+    },
+    {
+     "letra": "B",
+     "texto": "Síndrome de Mallory-Weiss"
+    },
+    {
+     "letra": "C",
+     "texto": "Síndrome de Boerhaave"
+    },
+    {
+     "letra": "D",
+     "texto": "Doença de Buschke-Lowenstein"
+    },
+    {
+     "letra": "E",
+     "texto": "Íleo biliar"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000103420",
+   "codigo": "4000103420",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 73,
+   "temas": [
+    "Abdome Agudo Obstrutivo",
+    "Complicações",
+    "Cirurgia"
+   ],
+   "enunciado": "Homem de 61 anos chega à sala de emergência com fortes dores abdominais, em cólicas, difusamente, e distensão abdominal há 2 horas; refere vômitos fétidos e parada de eliminação de gases, sem febre. Nega hérnias e cirurgias prévias. Exame físico: sinais vitais sem alterações; distensão abdominal, ruídos hidroaéreos aumentados, com hipertimpanismo e dor à palpação abdominal. Imagem demonstrada a seguir. Diante desse caso, pode-se considerar qual das hipóteses diagnósticas?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Aderências peritoneais."
+    },
+    {
+     "letra": "B",
+     "texto": "Doença inflamatória intestinal."
+    },
+    {
+     "letra": "C",
+     "texto": "Íleo biliar."
+    },
+    {
+     "letra": "D",
+     "texto": "Neoplasia de cólon direito."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q073-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000101708",
+   "codigo": "4000101708",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 74,
+   "temas": [
+    "Cirurgia",
+    "Neoplasia Colorretal"
+   ],
+   "enunciado": "Homem, 79 anos de idade, foi admitido no serviço de emergência por obstrução intestinal devido a tumor de sigmoide. Trata-se de doente com hipertensão arterial controlada e coronariopatia com antecedente de colocação de “stent”. Realizada tomogra a de abdome que evidenciou distensão importante do cólon e lesão estenosante do sigmoide, sem invasão de estruturas adjacentes ou metástases. Durante a cirurgia evoluiu com instabilidade hemodinâmica e aumento importante de lactato. Qual é o melhor tratamento operatório nesta condição?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Retossigmoidectomia com anastomose primária e colostomia de proteção."
+    },
+    {
+     "letra": "B",
+     "texto": "Retossigmoidectomia com anastomose primária e ileostomia de proteção."
+    },
+    {
+     "letra": "C",
+     "texto": "Colectomia subtotal com anastomose primária e ileostomia de proteção."
+    },
+    {
+     "letra": "D",
+     "texto": "Colectomia subtotal com anastomose primária."
+    },
+    {
+     "letra": "E",
+     "texto": "Retossigmoidectomia com colostomia terminal e sepultamento do reto."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000095646",
+   "codigo": "4000095646",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 75,
+   "temas": [
+    "Manif estações Clínicas e Exame Físico",
+    "Cirurgia"
+   ],
+   "enunciado": "Homem de 72 anos, 70kg, chegou ao pronto-socorro com história de há 12 horas dor abdominal intensa, tipo cólica; há 4 horas parada de eliminação de atos e fezes, com vômitos de líquido amarronzado e com odor fétido, redução do volume urinário e queda importante do estado geral. Refere alteração do hábito intestinal há cerca de um mês passando a car mais obstipado. Nega cirurgias abdominais prévias. Ao exame: pressão arterial = 100 x 70 mmHg, pulso = frequência cardíaca = 110bpm, temperatura = 37,4°C, descorado, e com distensão abdominal importante. Das alterações de exame físico descritas abaixo será mais compatível com o quadro clínico deste paciente o achado de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "desaparecimento da macicez hepática."
+    },
+    {
+     "letra": "B",
+     "texto": "descompressão positiva em hipocôndrio direito."
+    },
+    {
+     "letra": "C",
+     "texto": "massa compressível em hipocôndrio direito"
+    },
+    {
+     "letra": "D",
+     "texto": "ruídos hidroaéreos metálicos"
+    },
+    {
+     "letra": "E",
+     "texto": "sinal do obturador positivo."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000084065",
+   "codigo": "4000084065",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 76,
+   "temas": [
+    "Volvo de Ceco",
+    "Cirurgia"
+   ],
+   "enunciado": "Paciente jovem, sem instabilidade hemodinâmica, deu entrada na emergência com quadro de dor abdominal e distensão. A tomografia computadorizada evidenciou presença de volvo de ceco. O tratamento realizado será:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "enteropexia à direita"
+    },
+    {
+     "letra": "B",
+     "texto": "ileostomia descompressiva"
+    },
+    {
+     "letra": "C",
+     "texto": "colonoscopia com cecostomia"
+    },
+    {
+     "letra": "D",
+     "texto": "colectomia direita e anastomose primária"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000084000",
+   "codigo": "4000084000",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 77,
+   "temas": [
+    "Manif estações Clínicas e Exame Físico",
+    "Cirurgia",
+    "Exames de Imagem"
+   ],
+   "enunciado": "Paciente feminina de 40 anos, foi submetida a cirurgia bariátrica há 2 anos com perda ponderal de 50 kg. Há cerca de 2 dias iniciou quadro de dor em mesogástrio cursando com parada de eliminação de gases e fezes. Apresentava taquicardia , temperatura axilar de 38ºC e dor a palpação difusa do abdome ao exame físico. Leucograma com leucocitose e desvio para esquerda. Radiogra a de abdome agudo evidenciando distensão de delgado sem dilatação colônica.Tomogra a de abdome e pelve com contraste venoso demonstrou ingurgitamento dos vasos da raiz do mesentério com adensamento da gordura e dilatação de alça de delgado com níveis hidroaéreos. Qual a conduta mais apropriada no momento?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Observação por 24 horas"
+    },
+    {
+     "letra": "B",
+     "texto": "Cirurgia de urgência"
+    },
+    {
+     "letra": "C",
+     "texto": "Repetir a Tomografia Computadorizada"
+    },
+    {
+     "letra": "D",
+     "texto": "Ressonância magnética"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000081309",
+   "codigo": "4000081309",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 78,
+   "temas": [
+    "Abdome Agudo Obstrutivo",
+    "Cirurgia"
+   ],
+   "enunciado": "A obstrução intestinal possui várias causas. Das afirmativas abaixo, qual está ERRADA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A obstrução mecânica da luz intestinal pode ocorrer por íleo biliar, fecaloma e bezoar."
+    },
+    {
+     "letra": "B",
+     "texto": "Os vômitos são fecaloides quando a obstrução ocorre antes do ângulo de Treitz."
+    },
+    {
+     "letra": "C",
+     "texto": "Pode haver obstrução por lesão da parede intestinal como ocorre nas doenças inflamatórias, diverticulite de cólon e neoplasias."
+    },
+    {
+     "letra": "D",
+     "texto": "Neoplasia de cólon e diverticulite são causas mais frequentes de obstrução nos idosos."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000078068",
+   "codigo": "4000078068",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 79,
+   "temas": [
+    "Doença Inf lamatória Intestinal",
+    "Cirurgia"
+   ],
+   "enunciado": "Mulher de 35 anos com doença de Crohn de íleo distal em tratamento ambulatorial, deu entrada em unidade de pronto atendimento com vômitos associados à parada de eliminação de gases e fezes há 4 dias. Ao exame físico apresenta distensão abdominal, sem sinais de irritação peritoneal. A radiogra a simples de abdome revelou importante distensão do intestino delgado com ausência de gases e fezes no cólon. Qual a principal hipótese diagnóstica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Abdome agudo obstrutivo por estenose da doença de Crohn."
+    },
+    {
+     "letra": "B",
+     "texto": "Abdome agudo obstrutivo por atonia ileal."
+    },
+    {
+     "letra": "C",
+     "texto": "Abdome agudo obstrutivo por bridas secundárias à doença de Crohn."
+    },
+    {
+     "letra": "D",
+     "texto": "Abdome agudo por mega cólon tóxico."
+    },
+    {
+     "letra": "E",
+     "texto": "Nenhuma das alternativas anteriores."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000063051",
+   "codigo": "4000063051",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 80,
+   "temas": [
+    "Pseudoobstrução Colônica Síndrome de Ogilvie",
+    "Cirurgia"
+   ],
+   "enunciado": "É uma causa de pseudo-obstrução intestinal:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Bezoar."
+    },
+    {
+     "letra": "B",
+     "texto": "Síndrome de Ogilvie."
+    },
+    {
+     "letra": "C",
+     "texto": "Ascaridíase."
+    },
+    {
+     "letra": "D",
+     "texto": "Síndrome de Bouveret."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000062451",
+   "codigo": "4000062451",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 81,
+   "temas": [
+    "Pseudoobstrução Colônica Síndrome de Ogilvie",
+    "Cirurgia"
+   ],
+   "enunciado": "Sobre a síndrome de Ogilvie, marque a alternativa incorreta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tem como apresentação clínica uma marcante dilatação do cólon;"
+    },
+    {
+     "letra": "B",
+     "texto": "O uso da Neostigmina é contraindicado nesses casos;"
+    },
+    {
+     "letra": "C",
+     "texto": "A exclusão da presença de obstrução mecânica é obrigatória;"
+    },
+    {
+     "letra": "D",
+     "texto": "A colonoscopia descompressiva pode ser tentada caso falhe o tratamento de suporte, com o risco de perfuração intestinal;"
+    },
+    {
+     "letra": "E",
+     "texto": "Condições associadas são: ventilação mecânica, sepse e infarto agudo do miocárdio;"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000034344",
+   "codigo": "4000034344",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 82,
+   "temas": [
+    "Cirurgia",
+    "Aderências Intestinais Bridas",
+    "Exames de Imagem"
+   ],
+   "enunciado": "Paciente do sexo masculino, 38 anos, é atendido na UPA queixando-se de dor e distensão abdominal, com parada da eliminação de fezes há quatro dias e de gases há cerca de 24 horas. Relata ainda náuseas e hiporexia. História pregressa de cirurgia bariátrica há dois anos (IMC atual = 27Kg/m²) e apendicectomia há 22 anos. Abdome bem distendido, algo doloroso, mas sem irritação peritoneal. Toque retal mostrou esfíncter normotônico, com ausência de fezes e de sangue na ampola retal. A conduta propedêutica MAIS ADEQUADA para se iniciar a avaliação é solicitar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "colonoscopia."
+    },
+    {
+     "letra": "B",
+     "texto": "dosagem de amilase e lipase séricas."
+    },
+    {
+     "letra": "C",
+     "texto": "radiografia de abdome."
+    },
+    {
+     "letra": "D",
+     "texto": "ultrassonografia abdominal."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000122958",
+   "codigo": "4000122958",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 83,
+   "temas": [
+    "Abdome Agudo Obstrutivo",
+    "Cirurgia"
+   ],
+   "enunciado": "Paciente de 78 anos, masculino, proveniente do interior do Ceará, com quadro de obstrução intestinal. Tem parada de eliminação de flatos e fezes há 10 dias, com inúmeras tentativas malsucedidas de clister, e início de vômitos fecalóides há 36 horas, 2 episódios. Apresenta-se algo toxêmico, com PA 100 x 70 mmHg, FC 90, FR 24, temperatura axilar de 36,9° C. Diurese presente mas não mensurada, e GCS 15. Sobre o tipo de obstrução aqui encontrada, o nível anatômico que marca este tipo de obstrução, e o melhor tratamento aqui a ser estabelecido é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "obstrução alta – válvula íleo-cecal – laparoscopia"
+    },
+    {
+     "letra": "B",
+     "texto": "obstrução baixa – válvula íleo-cecal – laparotomia"
+    },
+    {
+     "letra": "C",
+     "texto": "obstrução baixa – ângulo de Treitz - colonoscopia"
+    },
+    {
+     "letra": "D",
+     "texto": "obstrução alta – piloro – laparotomia"
+    },
+    {
+     "letra": "E",
+     "texto": "obstrução baixa – válvula íleo cecal – colonoscopia"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000121970",
+   "codigo": "4000121970",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 84,
+   "temas": [
+    "Tratamento",
+    "Cirurgia"
+   ],
+   "enunciado": "Qual o tratamento a ser empregado em um paciente com volvo de sigmoide sem sinais de necrose colônica que não respondeu à drenagem colônica com o uso do sigmoidoscópio flexível?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Colonoscopia para desfazer o volvo."
+    },
+    {
+     "letra": "B",
+     "texto": "Sigmoidostomia."
+    },
+    {
+     "letra": "C",
+     "texto": "Transversostomia."
+    },
+    {
+     "letra": "D",
+     "texto": "Terapia de suporte clínico e sigmoidectomia eletiva."
+    },
+    {
+     "letra": "E",
+     "texto": "Operação de Hartmann."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120778",
+   "codigo": "4000120778",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 85,
+   "temas": [
+    "Diagnóstico",
+    "Cirurgia",
+    "Exames Complementares"
+   ],
+   "enunciado": "Menina de 14 anos apresenta dor e distensão abdominal há 2 dias, com piora progressiva, associada a vômitos esverdeados e parada da eliminação de gases e fezes. RX de abdome (imagem a seguir). Em relação a esse RX de abdome, é CORRETO afirmar que foi realizado:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Em pé e apresenta níveis hidroaéreos sugestivos de obstrução intestinal e imagem de “empilhamento de moedas”, localizando obstrução em nível de intestino delgado."
+    },
+    {
+     "letra": "B",
+     "texto": "Em decúbito dorsal e apresenta níveis hidroaéreos sugestivos de obstrução intestinal e imagem de “empilhamento de moedas”, localizando obstrução em nível de intestino delgado."
+    },
+    {
+     "letra": "C",
+     "texto": "Em pé e apresenta haustrações que não compreendem todo o diâmetro das alças, localizando obstrução em nível de cólon, com imagem sugestiva de grande quantidade de fezes no reto."
+    },
+    {
+     "letra": "D",
+     "texto": "Em pé e apresenta níveis hidroaéreos não escalonados, sugestivos de quadro diarreico, com presença de quantidade moderada de gás na região do reto."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q085-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000114918",
+   "codigo": "4000114918",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 86,
+   "temas": [
+    "Abdome Agudo Obstrutivo",
+    "Cirurgia",
+    "Tratamento Cirúrgico das Doenças Inf lamatórias Intestinais"
+   ],
+   "enunciado": "Paciente do sexo feminino, com 37 anos, sabidamente com doença de Chron, evoluiu com quadro de parada de eliminação de fezes e atos, vômitos fecalóides. Feito Rx de abdômen, com suspeição para abdômen agudo obstrutivo. Decidido por cirurgia, com achado de estenose de ílio distal (50 cm da válvula ilio cecal), com extensão de 2 cm. A melhor conduta cirúrgica:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Enterectomia + colectomia direita, com iliostomia e fístula mucosa."
+    },
+    {
+     "letra": "B",
+     "texto": "Dilatação da estenose mecânica."
+    },
+    {
+     "letra": "C",
+     "texto": "Ressecção do segmento estenosado, com anastomose primária."
+    },
+    {
+     "letra": "D",
+     "texto": "Plastia da estenose tipo Heineke-Mikulicz com biópsia."
+    },
+    {
+     "letra": "E",
+     "texto": "Enterectomia com anastomose ilio retal."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000106406",
+   "codigo": "4000106406",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 87,
+   "temas": [
+    "Abdome Agudo Obstrutivo",
+    "Cirurgia"
+   ],
+   "enunciado": "Homem de 46 anos vítima de ferimento por projétil de arma de fogo, com lesão exclusiva de coluna torácica, evoluiu com dé ct neurológico motor e sensitivo completo em nível de T11. Tratamento cirúrgico para retirada de fragmentos ósseos do canal medular. Encontra-se no 5° pós-operatório com distensão abdominal, sem evacuar e eliminar gases desde o procedimento. Ao exame físico afebril, normotenso, eupneico, corado e hidratado. Abdome com importante distensão, timpânico, sem irritação peritoneal. Toque retal com gás na ampola e sem fezes. Exames laboratoriais: Hb 9,7g/dL; Leucócitos 11,33 mil/mm³ (sem desvio); PCR 78. RX simples de abdome apresentado. Qual o tratamento neste momento?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Colonoscopia"
+    },
+    {
+     "letra": "B",
+     "texto": "Laparoscopia"
+    },
+    {
+     "letra": "C",
+     "texto": "Lavagem intestinal."
+    },
+    {
+     "letra": "D",
+     "texto": "Colectomia"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q087-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000100475",
+   "codigo": "4000100475",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 88,
+   "temas": [
+    "Íleo Pósoperatório",
+    "Cirurgia",
+    "Íleo Paralítico"
+   ],
+   "enunciado": "Paciente do sexo masculino, 40 anos, foi submetido a colectomia esquerda seguida de colostomia tipo Hartmann, devido a tumor de cólon obstrutivo. Durante a cirurgia, observou-se edema e dilatação de todo o intestino delgado e do cólon. No 5° dia de pós-operatório, o paciente está em regular estado geral, eupneico, afebril, permanece com distensão abdominal e alto débito de líquido bilioso pela sonda nasogástrica, ruídos abdominais diminuídos e eliminação precária de gases pela colostomia. A radiogra a simples de abdome mostra distensão de intestino delgado e cólon. Das possibilidades abaixo, a mais provável seria:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Obstrução intestinal por bridas"
+    },
+    {
+     "letra": "B",
+     "texto": "Íleo paralítico"
+    },
+    {
+     "letra": "C",
+     "texto": "Obstrução intestinal por hérnia interna"
+    },
+    {
+     "letra": "D",
+     "texto": "Obstrução da colostomia"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000085490",
+   "codigo": "4000085490",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 89,
+   "temas": [
+    "Obstrução Intestinal Alta",
+    "Cirurgia"
+   ],
+   "enunciado": "Considere as assertivas abaixo sobre a obstrução intestinal. I - O uso de contraste hidrossolúvel (gastrogra na) está indicado para avaliação de necessidade de cirurgia imediata em pacientes com obstrução intestinal. II. - Hérnia interna é a causa mais comum de volvo secundário do intestino delgado. III. - O sinal do redemoinho, visto à tomografia computadorizada, pode estar presente no volvo do intestino delgado. Quais são corretas?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Apenas I"
+    },
+    {
+     "letra": "B",
+     "texto": "Apenas II"
+    },
+    {
+     "letra": "C",
+     "texto": "Apenas III"
+    },
+    {
+     "letra": "D",
+     "texto": "Apenas II e III"
+    },
+    {
+     "letra": "E",
+     "texto": "I, II e III"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000032901",
+   "codigo": "4000032901",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 90,
+   "temas": [
+    "Pseudoobstrução Colônica Síndrome de Ogilvie",
+    "Cirurgia"
+   ],
+   "enunciado": "Homem de 73 anos, com insu ciência cardíaca, submetido a gastrectomia subtotal por neoplasia maligna evolui no quarto dia pós-operatório com distensão abdominal importante, sem dor, mas com dilatação muito importante do ceco e cólon ascendente evidenciada na radiografia de abdome. Na avaliação laboratorial, há hipocalemia e hipomagnesemia. Qual é o diagnóstico MAIS PROVÁVEL?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Colite por citomegalovírus."
+    },
+    {
+     "letra": "B",
+     "texto": "Íleo paralítico"
+    },
+    {
+     "letra": "C",
+     "texto": "Megacólon tóxico."
+    },
+    {
+     "letra": "D",
+     "texto": "Pseudo-obstrução colônica aguda."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000088357",
+   "codigo": "4000088357",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 91,
+   "temas": [
+    "Cirurgia",
+    "Volvo Gástrico"
+   ],
+   "enunciado": "Paciente 78 anos, chega a emergência com quadro de dor abdominal intensa e constante no abdome superior, regurgitações com pouco vômito e insucesso de sondagem gástrica (tríade de Borchardt). RX e TC do tórax revelaram víscera com gás no tórax. Qual o diagnóstico provável?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hérnia de hiato estrangulada."
+    },
+    {
+     "letra": "B",
+     "texto": "Volvo gástrico mesoaxial."
+    },
+    {
+     "letra": "C",
+     "texto": "Volvo gástrico organoaxial."
+    },
+    {
+     "letra": "D",
+     "texto": "Hérnia de bochdalek."
+    },
+    {
+     "letra": "E",
+     "texto": "Hérnia de Morgagni encarcerda."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000067736",
+   "codigo": "4000067736",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo Obstrutivo",
+   "numero": 92,
+   "temas": [
+    "Obstrução Intestinal Alta",
+    "Cirurgia"
+   ],
+   "enunciado": "Paulo Roberto, 22 anos, com síndrome de Peutz-Jeghers, deu entrada no serviço de emergência com quadro de oclusão intestinal. Realizou tomogra a computadorizada, que evidenciou distensão do intestino delgado com imagem em alvo. A principal hipótese diagnóstica para esse quadro obstrutivo é: Respostas: 1 12 23 34 45 56 67 78 89",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Invaginação intestinal."
+    },
+    {
+     "letra": "B",
+     "texto": "Torção mesentérica."
+    },
+    {
+     "letra": "C",
+     "texto": "Estenose luminal."
+    },
+    {
+     "letra": "D",
+     "texto": "Hérnia interna."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": []
+}

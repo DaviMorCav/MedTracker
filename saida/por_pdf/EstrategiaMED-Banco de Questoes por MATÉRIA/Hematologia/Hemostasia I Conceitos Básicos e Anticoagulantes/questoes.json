@@ -1,0 +1,2182 @@
+{
+ "questoes": [
+  {
+   "id": "4000184373",
+   "codigo": "4000184373",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 2,
+   "temas": [
+    "Heparina não f racionada"
+   ],
+   "enunciado": "Homem, 32a, internado há três dias após fratura de tíbia por acidente automobilístico, apresentou quadro de dispneia súbita. Foi feito o diagnóstico de tromboembolismo pulmonar e iniciada a anticoagulação plena com heparina não fracionada. No dia seguinte, após apresentar fraqueza em dimídio direito, foi suspensa a heparina e realizada tomogra a computadorizada de crânio. A CONDUTA É:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Prescrever vitamina K."
+    },
+    {
+     "letra": "B",
+     "texto": "Retomar a heparina não fracionada."
+    },
+    {
+     "letra": "C",
+     "texto": "Prescrever plasma fresco congelado."
+    },
+    {
+     "letra": "D",
+     "texto": "Prescrever protamina."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q002-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000183892",
+   "codigo": "4000183892",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 3,
+   "temas": [
+    "Anticoagulantes orais diretos"
+   ],
+   "enunciado": "Paciente de 48 anos, portador de cardiomiopatia hipertró ca em forma apical (Yamaguchi) e com brilação atrial, vinha em uso de succinato de metoprolol 100 mg e dabigratan 150 mg de 12/12 horas para controle de sintomas. Apresentou hematúria maciça, com instabilidade hemodinâmica e choque hipovolêmico. Após estabilização clínica e transfusão de hemoderivados, realizou TC que evidenciou imagem sugestiva de neoplasia de bexiga. Ao ser avaliado por um urologista, este indicou abordagem cirúrgica de urgência. Antes de iniciar a cirurgia, é necessário fazer a reversão da anticoagulação com",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "protamina."
+    },
+    {
+     "letra": "B",
+     "texto": "andexanet alfa."
+    },
+    {
+     "letra": "C",
+     "texto": "complexo protrombínico."
+    },
+    {
+     "letra": "D",
+     "texto": "idarucizumabe"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000182115",
+   "codigo": "4000182115",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 4,
+   "temas": [
+    "Anticoagulantes antagonistas da vitamina K",
+    "Trombose na gestação",
+    "Heparinas"
+   ],
+   "enunciado": "Primigesta, 34 anos, com 16 semanas de gestação, comparece ao ambulatório de gestação de alto risco para iniciar seguimento de pré-natal. Sem queixas clínicas e obstétricas. Antecedentes pessoais: cardiopatia reumática com válvula metálica, classe funcional I, em uso de warfarin 5 mg uma vez ao dia. O resultado do RNI (Razão Normalizada Internacional) colhido há 1 semana apresenta valor de 1,8 vezes o controle. Qual é a melhor conduta com relação à anticoagulação dessa paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Aumentar a dose de warfarin para 7,5 mg uma vez ao dia."
+    },
+    {
+     "letra": "B",
+     "texto": "Suspender warfarin e iniciar dose terapêutica de enoxaparina."
+    },
+    {
+     "letra": "C",
+     "texto": "Manter a dose de warfarin 5 mg uma vez ao dia."
+    },
+    {
+     "letra": "D",
+     "texto": "Suspender warfarin e iniciar AAS 100 mg uma vez ao dia."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000181613",
+   "codigo": "4000181613",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 5,
+   "temas": [
+    "Heparina baixo peso molecular",
+    "Anticoagulantes orais diretos"
+   ],
+   "enunciado": "São considerados anticoagulantes, por bloqueio do fator Xa, EXCETO",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "rivaroxabana."
+    },
+    {
+     "letra": "B",
+     "texto": "edoxabana."
+    },
+    {
+     "letra": "C",
+     "texto": "enoxaparina."
+    },
+    {
+     "letra": "D",
+     "texto": "dabigatrana."
+    },
+    {
+     "letra": "E",
+     "texto": "apixabana."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000181343",
+   "codigo": "4000181343",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 6,
+   "temas": [
+    "Anticoagulantes antagonistas da vitamina K"
+   ],
+   "enunciado": "Mulher de 55 anos faz uso crônico de varfarina 5mg ao dia, devido trombose venosa profunda há 4 meses. A paciente é diabética e apresenta uma infecção grave na perna. Devido a piora do quadro e odor, ela foi à emergência, onde foi indicada amputação suprapatelar, devido a gangrena úmida. INR do dia: 3. O que a equipe cirúrgica deve fazer para diminuir o risco de sangramento durante a amputação?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Suspender o varfarina, transfundir plaquetas."
+    },
+    {
+     "letra": "B",
+     "texto": "Suspender o varfarina, aplicar sulfato de protamina."
+    },
+    {
+     "letra": "C",
+     "texto": "Suspender o varfarina, realizar a amputação em 5 dias."
+    },
+    {
+     "letra": "D",
+     "texto": "Suspender o varfarina, aplicar vitamina K e reservar plasma."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000181250",
+   "codigo": "4000181250",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 7,
+   "temas": [
+    "Diagnóstico da trombocitopenia induzida pela heparina HIT"
+   ],
+   "enunciado": "Paciente crítico, durante internação prolongada em unidade de terapia intensiva, e em uso de pro laxia medicamentosa contra eventos tromboembólicos, apresenta trombocitopenia induzida pela heparina. Em relação ao quadro apresentado, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Costuma ocorrer mais frequentemente antes do 5º dia de uso da heparina."
+    },
+    {
+     "letra": "B",
+     "texto": "Há presença de anticorpos antiplaquetários dirigidos contra o fator 4 plaquetário."
+    },
+    {
+     "letra": "C",
+     "texto": "Em geral, esse diagnóstico não está associado a complicações trombóticas."
+    },
+    {
+     "letra": "D",
+     "texto": "Possui baixa incidência em pacientes com exposição recorrente à heparina."
+    },
+    {
+     "letra": "E",
+     "texto": "O sangramento gastrointestinal é uma manifestação comum, atingindo cerca de 50% dos pacientes."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000191044",
+   "codigo": "4000191044",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 8,
+   "temas": [
+    "Anticoagulantes antagonistas da vitamina K",
+    "Manejo do sangramento associado aos anticoagulantes orais"
+   ],
+   "enunciado": "Mulher, 69 anos, é admitida no pronto-socorro com queixa de fezes escurecidas e fraqueza. Tem estenose mitral, brilação atrial, acidente vascular cerebral isquêmico prévio e está em uso de anticoagulação oral com warfarina. Encontra-se em bom estado geral, descorada 2+/4+ e hemodinamicamente estável. Exames laboratoriais: hemoglobina = 7,0 g/dl e INR = 14,5. O tratamento de escolha para essa paciente é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Transfusão de crioprecipitado."
+    },
+    {
+     "letra": "B",
+     "texto": "Reposição de complexo protrombínico ou plasma fresco."
+    },
+    {
+     "letra": "C",
+     "texto": "Reposição de fator VII ativado."
+    },
+    {
+     "letra": "D",
+     "texto": "Transfusão de um concentrado de plaquetas por aférese."
+    },
+    {
+     "letra": "E",
+     "texto": "Administração de protamina."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000170067",
+   "codigo": "4000170067",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 9,
+   "temas": [
+    "Anticoagulantes antagonistas da vitamina K"
+   ],
+   "enunciado": "Assinale a alternativa que apresenta a razão para a utilização de anticoagulante injetável concomitante ao início da terapia por varfarina na anticoagulação.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A varfarina bloqueia a ativação de fatores da cascata de coagulação e a produção dos inibidores de coagulação (proteína C e S) dependentes da vitamina K."
+    },
+    {
+     "letra": "B",
+     "texto": "Não se pode confiar na absorção oral da varfarina, sendo esse o motivo pelo qual há tanta variabilidade no resultado do tempo de protrombina."
+    },
+    {
+     "letra": "C",
+     "texto": "O uso de anticoagulantes parenterais traz benefício na terapêutica intra-hospitalar pela sua fácil via de administração."
+    },
+    {
+     "letra": "D",
+     "texto": "A varfarina é uma pró-droga que chega inativada ao fígado, pelo contato com as proteínas C e S, sendo somente ativada após o efeito de primeira passagem pela enzima P450."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169031",
+   "codigo": "4000169031",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 10,
+   "temas": [
+    "Diagnóstico da trombocitopenia induzida pela heparina HIT"
+   ],
+   "enunciado": "Um homem de 78 anos, obeso, recebe enoxaparina pro lática no pós-operatório de artroplastia de quadril. No 6º dia após o início do anticoagulante, detecta-se plaquetopenia de 50 mil/microL, caindo para 40 mil no dia seguinte. A conduta mais adequada é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "trocar heparina de baixo peso molecular por heparina não fracionada em dose plena."
+    },
+    {
+     "letra": "B",
+     "texto": "suspender heparina e iniciar fondaparinux."
+    },
+    {
+     "letra": "C",
+     "texto": "apenas observar, com contagem diária de plaquetas e suspender heparina se cair abaixo de 10 mil/microL."
+    },
+    {
+     "letra": "D",
+     "texto": "manter enoxaparina na dose profilática e administrar corticosteroide 1 mg/kg/dia IV."
+    },
+    {
+     "letra": "E",
+     "texto": "suspender enoxaparina e iniciar heparina não fracionada em dose profilática."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000168566",
+   "codigo": "4000168566",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 11,
+   "temas": [
+    "Trombocitopenia induzida pela heparina HIT"
+   ],
+   "enunciado": "A corrida pelo desenvolvimento de vacinas contra o SARS-COV-2 resultou na rápida aprovação de imunizantes pelas agências regulatórias. Infelizmente, isto aumentou as chances de aparecimento de efeitos colaterais inicialmente não descritos nos estudos. Um dos eventos mais graves foi a Trombocitopenia Trombótica Induzida por Vacina (VfTT). Esta complicação lembra muito a siopatologia da Trombocitopenia Induzida pela Heparina (HIT), cujo principal anticorpo envolvido é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Anti-C5;"
+    },
+    {
+     "letra": "B",
+     "texto": "Anti-PF4;"
+    },
+    {
+     "letra": "C",
+     "texto": "Anti-glicoproteína IIB/lllA;"
+    },
+    {
+     "letra": "D",
+     "texto": "ADAMTS-13;"
+    },
+    {
+     "letra": "E",
+     "texto": "Anti-CD55 e 59."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000166199",
+   "codigo": "4000166199",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 12,
+   "temas": [
+    "Anticoagulantes antagonistas da vitamina K"
+   ],
+   "enunciado": "Um paciente de 59 anos de idade foi à consulta, no ambulatório de clínica médica, para controle do tempo de protrombina/INR pelo uso de varfarina, devido à brilação atrial crônica, e pediu exemplos de alimentos que deveria evitar. Com base nesse caso hipotético, assinale a alternativa que apresenta todos os alimentos que deverão ser evitados.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "agrião, palmito e suco de"
+    },
+    {
+     "letra": "B",
+     "texto": "espinafre, tomate e suco de laranja"
+    },
+    {
+     "letra": "C",
+     "texto": "couve-flor, cenoura e suco de limão"
+    },
+    {
+     "letra": "D",
+     "texto": "nabo, repolho e suco de uva"
+    },
+    {
+     "letra": "E",
+     "texto": "alface, brócolis e chá verde"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163445",
+   "codigo": "4000163445",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 13,
+   "temas": [
+    "Anticoagulantes antagonistas da vitamina K"
+   ],
+   "enunciado": "Um paciente adulto em uso de varfarina realizou dosagem de Tempo de Atividade de Protrombina (TAP) que apresentou resultado de Relação Normatizada Internacional (RNI) igual a 8. O paciente não apresenta sangramento, equimoses ou hematomas. Nesse caso, a conduta correta a ser adotada é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "suspender a varfarina, administrar vitamina K intramuscular e reintroduzir varfarina quando o RNI estiver abaixo de 2."
+    },
+    {
+     "letra": "B",
+     "texto": "reduzir a dose de varfarina em 50% e reavaliar o paciente ambulatorialmente em uma semana com novo TAP/RNI."
+    },
+    {
+     "letra": "C",
+     "texto": "suspender a varfarina, administrar plasma fresco e reintroduzir varfarina com dose ajustada no dia seguinte."
+    },
+    {
+     "letra": "D",
+     "texto": "reduzir a dose de varfarina em 25%, administrar vitamina K via oral e reavaliar o paciente em uma semana com novo TAP/RNI."
+    },
+    {
+     "letra": "E",
+     "texto": "suspender a varfarina e monitorar o TAP/RNI, reintroduzindo a varfarina em dose reduzida, assim que o RNI voltar a faixa terapêutica indicada."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000145130",
+   "codigo": "4000145130",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 14,
+   "temas": [
+    "Anticoagulantes orais diretos",
+    "Novos anticoagulantes orais NOACs"
+   ],
+   "enunciado": "Anticoagulantes orais diretos DOAC Com relação às indicações dos anticoagulantes, assinale a alternativa correta",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A rivaroxabana foi aprovada para reduzir o risco de AVC e embolia sistêmica em pacientes com FA de etiologia não valvar."
+    },
+    {
+     "letra": "B",
+     "texto": "O Edoxaban pode ser utilizado indiscriminadamente e com segurança, mesmo em paciente com insuficiência hepática."
+    },
+    {
+     "letra": "C",
+     "texto": "Pacientes com Embolia Pulmonar não podem ser tratados com rivaroxabana."
+    },
+    {
+     "letra": "D",
+     "texto": "O apixabana somente deve ser utilizado em pacientes com embolia sistêmica e FA de etiologia valvar."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000072762",
+   "codigo": "4000072762",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 15,
+   "temas": [
+    "Fisiologia"
+   ],
+   "enunciado": "Qual proteína é o mediador primário da adesão plaquetária?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Colágeno."
+    },
+    {
+     "letra": "B",
+     "texto": "Endotelina."
+    },
+    {
+     "letra": "C",
+     "texto": "Fator tissular."
+    },
+    {
+     "letra": "D",
+     "texto": "Trombina."
+    },
+    {
+     "letra": "E",
+     "texto": "Fator de Von Willebrand."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000065640",
+   "codigo": "4000065640",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 16,
+   "temas": [
+    "Heparina baixo peso molecular"
+   ],
+   "enunciado": "A heparina de baixo peso molecular possui como um mecanismo de ação a inibição do fator:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Xa."
+    },
+    {
+     "letra": "B",
+     "texto": "IXa."
+    },
+    {
+     "letra": "C",
+     "texto": "VIIa."
+    },
+    {
+     "letra": "D",
+     "texto": "Va."
+    },
+    {
+     "letra": "E",
+     "texto": "IVa."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000050042",
+   "codigo": "4000050042",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 17,
+   "temas": [
+    "Anticoagulantes antagonistas da vitamina K",
+    "Antagonistas da vitamina K"
+   ],
+   "enunciado": "Paciente masculino de 76 anos procura a emergência devido à preocupação com resultado de exame laboratorial alterado. Nega sintomas. Apresenta história de brilação atrial, dislipidemia, diabetes e hipertensão arterial. Faz uso de rosuvastatina 20 mg ao dia, metformina 850 mg duas vezes ao dia e enalapril 20 mg ao dia. Apresenta FC 68/min, PA 134/80 mmHg, FR 12/min, temperatura 36,7 °C, e SpO₂ 99% em ar ambiente. Ao exame físico, não se constata equimose, hematoma ou sangramentos. Revisão de sistemas é negativa. Exame laboratorial trazido demonstra tempo de protrombina/INR = 8,5. Qual é a conduta correta para esse caso, segundo guidelines recentes?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Omitir varfarina até nível terapêutico e, então, reiniciar varfarina com redução de 10- 15% na dose semanal."
+    },
+    {
+     "letra": "B",
+     "texto": "Administrar vitamina K oral e omitir varfarina até nível terapêutico e, então, reiniciar varfarina com redução de 10- 15% na dose semanal."
+    },
+    {
+     "letra": "C",
+     "texto": "Administrar vitamina K parenteral e omitir varfarina até nível terapêutico e, então, reiniciar varfarina com redução de 10-15% na dose semanal."
+    },
+    {
+     "letra": "D",
+     "texto": "Administrar plasma fresco congelado e omitir varfarina até nível terapêutico e, então, reiniciar varfarina com redução de 10-15% na dose semanal."
+    },
+    {
+     "letra": "E",
+     "texto": "Administrar concentrado de complexo protrombínico e omitir varfarina até nível terapêutico e, então, reiniciar varfarina com redução de 10-15% na dose semanal."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000009563",
+   "codigo": "4000009563",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 18,
+   "temas": [
+    "Anticoagulantes antagonistas da vitamina K",
+    "Anticoagulação oral"
+   ],
+   "enunciado": "A varfarina é altamente e caz na prevenção de fenômenos tromboembólicos na FA, com redução de 64% do risco nos pacientes adequadamente tratados. NÃO podemos aceitar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Menos metade dos pacientes não são adequadamente tratados, por motivos que variam desde a dificuldade de controle frequente de RNI até alto risco de sangramento."
+    },
+    {
+     "letra": "B",
+     "texto": "Pacientes em uso de varfarina nem sempre se encontram na faixa terapêutica adequada (em geral RNI entre 5 e 6)."
+    },
+    {
+     "letra": "C",
+     "texto": "Ocorre interação medicamentosa, principalmente antibióticos e anti-inflamatórios."
+    },
+    {
+     "letra": "D",
+     "texto": "Ocorre interação com alimentos, uso irregular da medicação, intercorrências clínicas agudas, entre outros."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000124569",
+   "codigo": "4000124569",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 19,
+   "temas": [
+    "Anticoagulantes antagonistas da vitamina K",
+    "Antagonistas da vitamina K"
+   ],
+   "enunciado": "Paciente chegou ao OS, com INR de 6, sem sangramentos com exame físico normal. De qual droga abaixo ele mais se beneficiará?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Vitamina K1 2,5 mg via oral"
+    },
+    {
+     "letra": "B",
+     "texto": "Plasma fresco"
+    },
+    {
+     "letra": "C",
+     "texto": "Complexo protrombínico"
+    },
+    {
+     "letra": "D",
+     "texto": "Vitamina K 10 mg IV"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000122800",
+   "codigo": "4000122800",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 20,
+   "temas": [
+    "Fármacos e agentes relacionados a hemostasia secundária"
+   ],
+   "enunciado": "Atualmente temos disponível uma maior variedade de anticoagulantes orais. O início da terapia com cada um deles varia bastante. A recomendação correta sobre o início do tratamento em um paciente adulto com trombose venosa profunda é o uso da:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "warfarina: iniciar com 5mg/dia, sempre associado a outro anticoagulante, preferencialmente enoxaparina. Manter a associação até INR adequado e não se deve aumentar a dose de warfarina antes de 05 dias de tratamento."
+    },
+    {
+     "letra": "B",
+     "texto": "rivaroxabana: iniciar 15mg de 12/12h por 15 dias, seguido de 20mg 1x /dia, sendo necessário associar outro anticoagulante nos primeiros 07 dias de tratamento."
+    },
+    {
+     "letra": "C",
+     "texto": "dabigatrana; iniciar 110mg 2x/dia por 15 dias. Manutenção com 110mg 1x/dia e não há necessidade de associação com outro anticoagulante."
+    },
+    {
+     "letra": "D",
+     "texto": "apixabana: iniciar com 05mg 2x/dia por 07 dias, seguido de 5mg 1x/dia e não há necessidade de associação com outro anticoagulante."
+    },
+    {
+     "letra": "E",
+     "texto": "os anticoagulantes orais devem sempre ser acompanhados de uso de heparina devido ao risco de deficiência de proteína C e S."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000101430",
+   "codigo": "4000101430",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 21,
+   "temas": [
+    "Anticoagulantes antagonistas da vitamina K",
+    "Antagonistas da Vitamina K"
+   ],
+   "enunciado": "A conduta para o paciente que faz uso de warfarina no período pré-operatório é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Suspender a dose de warfarina do dia anterior, iniciando heparina de baixo peso molecular em dose profilática."
+    },
+    {
+     "letra": "B",
+     "texto": "Ajustar a dose de warfarina para manter RNI abaixo de 1,5 no dia da cirurgia, iniciando heparina de baixo peso molecular em dose terapêutica."
+    },
+    {
+     "letra": "C",
+     "texto": "Suspender a dose de warfarina cinco dias antes do procedimento, iniciando heparina de baixo peso molecular em dose terapêutica."
+    },
+    {
+     "letra": "D",
+     "texto": "Substituir a dose de warfarina por anticoagulante oral inibidor de fator Xa trinta dias antes do procedimento."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000079315",
+   "codigo": "4000079315",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 22,
+   "temas": [
+    "Anticoagulantes antagonistas da vitamina K",
+    "Trombose Venosa Prof unda TVP"
+   ],
+   "enunciado": "Atualmente temos disponível uma maior variedade de anticoagulantes orais. O início da terapia com cada um deles varia bastante. A recomendação correta sobre o início do tratamento em um paciente adulto com trombose venosa profunda é o uso da",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "warfarina: iniciar com 5mg/dia, sempre associado a outro anticoagulante, preferencialmente enoxaparina. Manter a associação até INR adequado e não se deve aumentar a dose de warfarina antes de 05 dias de tratamento."
+    },
+    {
+     "letra": "B",
+     "texto": "rivaroxabana: iniciar 15mg de 12/12h por 15 dias, seguido de 20mg 1x/dia, sendo necessário associar outro anticoagulante nos primeiros 07 dias de tratamento."
+    },
+    {
+     "letra": "C",
+     "texto": "dabigatrana: iniciar 110mg 2x/dia por 15 dias. Manutenção com 110mg 1x/dia e não há necessidade de associação com outro anticoagulante."
+    },
+    {
+     "letra": "D",
+     "texto": "apixabana: iniciar com 05mg 2x/dia por 07 dias, seguido de 5mg 1x/dia e não há necessidade de associação com outro anticoagulante."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000042925",
+   "codigo": "4000042925",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 23,
+   "temas": [
+    "Fármacos e agentes relacionados a hemostasia primária antiplaquetários"
+   ],
+   "enunciado": "Sobre os distúrbios plaquetários a alternativa que corresponde aquela em que há de ciência da glicoproteína do complexo GpIb/V/IX é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Von Willebrand"
+    },
+    {
+     "letra": "B",
+     "texto": "Trombastenia de Glanzmann"
+    },
+    {
+     "letra": "C",
+     "texto": "Bernard-Soullier"
+    },
+    {
+     "letra": "D",
+     "texto": "Síndrome de Diamond- Blackfann"
+    },
+    {
+     "letra": "E",
+     "texto": "Síndrome de Evans"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000124487",
+   "codigo": "4000124487",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 24,
+   "temas": [
+    "Fármacos e agentes relacionados a hemostasia secundária"
+   ],
+   "enunciado": "Considere as assertivas abaixo sobre vantagens do novo anticoagulante oral rivaroxabana quando comparado com warfarin. I - É usado em dose xa (de acordo com a função renal), sem necessidade da monitorização laboratorial rotineira da anticoagulação; II. - A reversão da intoxicação pelo fármaco ocorre com a administração de doses menores de vitamina K; III. - O início do efeito anticoagulante é mais rápido. Quais são CORRETAS?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Apenas I."
+    },
+    {
+     "letra": "B",
+     "texto": "Apenas II."
+    },
+    {
+     "letra": "C",
+     "texto": "Apenas III."
+    },
+    {
+     "letra": "D",
+     "texto": "Apenas I e III."
+    },
+    {
+     "letra": "E",
+     "texto": "I, II e III."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000121712",
+   "codigo": "4000121712",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 25,
+   "temas": [
+    "Anticoagulantes antagonistas da vitamina K",
+    "Anticoagulação oral",
+    "Anticoagulantes orais diretos"
+   ],
+   "enunciado": "Assinale a alternativa que correlaciona corretamente o anticoagulante com seu principal mecanismo de ação.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Warfarin - agonista da vitamina K."
+    },
+    {
+     "letra": "B",
+     "texto": "Heparina - agonista da antitrombina III."
+    },
+    {
+     "letra": "C",
+     "texto": "Dabigratana - agonista da trombina."
+    },
+    {
+     "letra": "D",
+     "texto": "Rivaroxabana - inibidor indireto do fator Vila."
+    },
+    {
+     "letra": "E",
+     "texto": "Fondaparinux - inibidor direto do fator de Vila."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000110675",
+   "codigo": "4000110675",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 26,
+   "temas": [
+    "Anticoagulantes antagonistas da vitamina K",
+    "Cirurgia"
+   ],
+   "enunciado": "Homem, 67 anos, em uso de warfarina devido a brilação atrial há 3 meses, em investigação etiológica. Vem ao ambulatório de anticoagulação relatando 3 idas ao pronto socorro por equimoses e epistaxe, sempre com intoxicação cumarínica, tendo recebido vitamina k nessas ocasiões. Utiliza o medicamento em horários diversos, eventualmente com e eventualmente sem alimentação, em geral sem folhas verdes. Solicita sua orientação quanto ao uso correto da warfarina. Você orienta que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Deverá suspender a warfarina e usar ácido acetilsalicílico"
+    },
+    {
+     "letra": "B",
+     "texto": "Deverá manter warfarina, sempre após almoço rico em folhas verdes, com controle de atividade de protrombina semestral"
+    },
+    {
+     "letra": "C",
+     "texto": "Deverá usar em jejum e suspender folhas verdes enquanto estiver utilizando warfarina, com controle de tempo de tromboplastina parcial ativada"
+    },
+    {
+     "letra": "D",
+     "texto": "Deverá manter medicação em jejum e poderá usar folhas verdes à vontade, desde que o faça regularmente e com controle de atividade de protrombina"
+    },
+    {
+     "letra": "E",
+     "texto": "Como o diagnóstico foi há mais de 28 dias, não tem mais indicação de anticoagulantes ou antiagregantes"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000104387",
+   "codigo": "4000104387",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 27,
+   "temas": [
+    "Heparinas"
+   ],
+   "enunciado": "Assinale a alternativa que contém as melhores terapias para reverter anticoagulação causada pelo uso da Heparina:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Plasma Fresco e Criopreciptado"
+    },
+    {
+     "letra": "B",
+     "texto": "Vitamina K e Plasma Fresco"
+    },
+    {
+     "letra": "C",
+     "texto": "Plasma Fresco e Sulfato de Protamina"
+    },
+    {
+     "letra": "D",
+     "texto": "Ácido Trenexâmico e Plasma Fresco"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000064335",
+   "codigo": "4000064335",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 28,
+   "temas": [
+    "Anticoagulantes antagonistas da vitamina K",
+    "Agentes anticoagulantes",
+    "Anticoagulantes orais diretos"
+   ],
+   "enunciado": "Com relação aos anticoagulantes orais e seus respectivos mecanismos de ação, numere a coluna da direita de acordo com sua correspondência com a coluna da esquerda. 1. Inibidor direto da trombina. 2. Inibidor direto do fator Xa. 3. Antagonista da vitamina K. ( ) Warfarin. ( ) Rivaroxabana. ( ) Dabigatrana. ( ) Apixabana. Assinale a alternativa que apresenta a numeração CORRETA da coluna da direita, de cima para baixo.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1 – 3 – 2 – 1."
+    },
+    {
+     "letra": "B",
+     "texto": "3 – 2 – 2 – 1."
+    },
+    {
+     "letra": "C",
+     "texto": "1 – 3 – 3 – 2."
+    },
+    {
+     "letra": "D",
+     "texto": "3 – 2 – 1 – 2."
+    },
+    {
+     "letra": "E",
+     "texto": "2 – 1 – 1 – 3."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000056623",
+   "codigo": "4000056623",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 29,
+   "temas": [
+    "Anticoagulantes antagonistas da vitamina K",
+    "Fator VII",
+    "Fator II"
+   ],
+   "enunciado": "Todos os fatores de coagulação a seguir são dependentes de vitamina K, exceto:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Fator X;"
+    },
+    {
+     "letra": "B",
+     "texto": "Fator VII;"
+    },
+    {
+     "letra": "C",
+     "texto": "Proteína C;"
+    },
+    {
+     "letra": "D",
+     "texto": "Proteína S;"
+    },
+    {
+     "letra": "E",
+     "texto": "Fator VIII;"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000052109",
+   "codigo": "4000052109",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 30,
+   "temas": [
+    "Anticoagulantes antagonistas da vitamina K"
+   ],
+   "enunciado": "Paciente de 35 anos, em uso de contraceptivo oral, apresenta trombose venosa profunda aguda de membro inferior. No 4° dia de uso de cumarínico apresentou necrose cutânea nos membros inferiores. Concluímos que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "houve piora do quadro trombótico"
+    },
+    {
+     "letra": "B",
+     "texto": "houve inibição dos fatores VIII, IX e X da coagulação"
+    },
+    {
+     "letra": "C",
+     "texto": "houve uma dosagem excessiva de cumarínico"
+    },
+    {
+     "letra": "D",
+     "texto": "houve complicação do uso do cumarínico"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000033560",
+   "codigo": "4000033560",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 31,
+   "temas": [
+    "Tratamento da trombocitopenia induzida pela heparina HIT",
+    "Fondaparinux"
+   ],
+   "enunciado": "Diagnóstico da trombocitopenia induzida pela heparina HIT J.K.L, 67 anos, sexo feminino, balconista, está em uso de dose terapêutica de enoxaparina por trombose venosa profunda após artroplastia de joelho. Após 6º dia de uso da referida medicação, a contagem de plaquetas é de 66.000/mm³ (contagem de plaquetas antes da anticoagulação era de 212.000/mm³). Não está em uso de outros medicamentos e apresenta-se assintomática. Diante deste contexto, assinale a alternativa ERRADA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Deve-se evitar o uso de fondaparinux (inibidor indireto de fator Xa)."
+    },
+    {
+     "letra": "B",
+     "texto": "Esta condição resulta da formação de anticorpos contra complexo heparina/fator-4- plaquetário."
+    },
+    {
+     "letra": "C",
+     "texto": "Inibidores diretos da trombina constituem-se em opção terapêutica."
+    },
+    {
+     "letra": "D",
+     "texto": "Trombose (arterial ou venosa) é uma complicação frequente."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000126258",
+   "codigo": "4000126258",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 32,
+   "temas": [
+    "Anticoagulantes antagonistas da vitamina K"
+   ],
+   "enunciado": "São fatores de coagulação sintetizados no fígado e dependentes da vitamina K:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Fibrinogênio, II, VIII e X."
+    },
+    {
+     "letra": "B",
+     "texto": "II, V, VIII e X."
+    },
+    {
+     "letra": "C",
+     "texto": "II, VII, IX e X."
+    },
+    {
+     "letra": "D",
+     "texto": "Fibrinogênio, VIII, IX e X."
+    },
+    {
+     "letra": "E",
+     "texto": "VII, VIII, Fibrinogênio e IX."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000098117",
+   "codigo": "4000098117",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 33,
+   "temas": [
+    "Anticoagulantes antagonistas da vitamina K"
+   ],
+   "enunciado": "Homem, 40a, faz uso cronicamente de varfarina 10 mg/dia, e possui antecedente de trombose venosa profunda. Chega ao pronto-socorro com sangramento gengival e urinário volumoso. Bom estado geral; FC = 80 bpm; PA = 110 x 80 mmHg; Hb = 12,5 g/dl; Ht = 38% RNI = 10. O tratamento é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Transfundir plasma fresco congelado."
+    },
+    {
+     "letra": "B",
+     "texto": "Administrar imunoglobulina intravenosa."
+    },
+    {
+     "letra": "C",
+     "texto": "Administrar vitamina K."
+    },
+    {
+     "letra": "D",
+     "texto": "Suspender a varfarina e observar."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000088328",
+   "codigo": "4000088328",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 34,
+   "temas": [
+    "Anticoagulantes orais diretos"
+   ],
+   "enunciado": "Com relação aos agentes antitrombóticos listados abaixo, qual representa um inibidor do fator Xa?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Dabigatrana."
+    },
+    {
+     "letra": "B",
+     "texto": "Prasugrel."
+    },
+    {
+     "letra": "C",
+     "texto": "Rivaroxaban."
+    },
+    {
+     "letra": "D",
+     "texto": "Tirofiban."
+    },
+    {
+     "letra": "E",
+     "texto": "Femprocumona."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000088286",
+   "codigo": "4000088286",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 35,
+   "temas": [
+    "Heparina não f racionada"
+   ],
+   "enunciado": "Imediatamente após a administração intravenosa de 5.000 UI de heparina, seu efeito pode ser revertido com:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "10 mg de sulfato de protamina."
+    },
+    {
+     "letra": "B",
+     "texto": "20 mg de sulfato de protamina."
+    },
+    {
+     "letra": "C",
+     "texto": "30 mg de sulfato de protamina."
+    },
+    {
+     "letra": "D",
+     "texto": "40 mg de sulfato de protamina."
+    },
+    {
+     "letra": "E",
+     "texto": "50 mg de sulfato de protamina."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000071868",
+   "codigo": "4000071868",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 36,
+   "temas": [
+    "Diagnóstico da trombocitopenia induzida pela heparina HIT"
+   ],
+   "enunciado": "Uma das formas de diagnóstico de trombocitopenia induzida por heparina é a aplicação do algoritmo 4T, composto de quatro critérios. Quando os quatro critérios envolvidos sugerem o diagnóstico de trombocitopenia por heparina ocorre a seguinte combinação:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Queda maior do que 50% e plaquetas maiores do que 20.000/mm³, início 5-14 dias após a exposição a heparina, presença de novo episódio de trombose e ausência de outros diagnósticos."
+    },
+    {
+     "letra": "B",
+     "texto": "Queda maior do que 30% ou plaquetas menores do que 20.000/mm³, início 15-30 dias após a exposição à heparina, necrose de pele nova e ausência de diagnóstico alternativo."
+    },
+    {
+     "letra": "C",
+     "texto": "Queda maior do que 30% ou plaquetas menores do que 20.000/mm³, início 15-30 dias após a exposição à heparina, petéquias e sangramentos e ausência de diagnóstico alternativo."
+    },
+    {
+     "letra": "D",
+     "texto": "Queda maior do que 50% e plaquetas maiores do que 20.000/mm³, início 5-14 dias após a exposição a heparina, petéquias e sangramentos e ausência de outros diagnósticos."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000061497",
+   "codigo": "4000061497",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 37,
+   "temas": [
+    "Laboratório da hemostasia"
+   ],
+   "enunciado": "Para investigar alterações de hemorragia ou de coagulação, pode ser utilizada a dosagem do Tempo de Tromboplastina Parcial (PTT), que avalia a via:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Extrínseca e comum e deficiência de fatores X e XI."
+    },
+    {
+     "letra": "B",
+     "texto": "Extrínseca e comum e deficiência de fatores VI, IX e XI."
+    },
+    {
+     "letra": "C",
+     "texto": "Intrínseca e comum e deficiência de fatores VIII, IX e XI."
+    },
+    {
+     "letra": "D",
+     "texto": "Intrínseca e comum e deficiência de fatores V, VI, VII e X."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047969",
+   "codigo": "4000047969",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 38,
+   "temas": [
+    "Laboratório da hemostasia"
+   ],
+   "enunciado": "Sobre os distúrbios da coagulação, relacione as colunas a seguir: (A) Uso terapêutico de heparina; (B) Uso terapêutico de cumarínico; (C) Prolongamento do TP e TTPa; (D) Prolongamento do TTPa; (E) Anormalidade isolada do TP. ( ) Deficiência do fator VII; ( ) Hemofilias ou deficiência do fator XI; ( ) Deficiência de fatores V, X, II, ou fibrinogênio; ( ) Alargamento do TP; ( ) Alargamento do TTPa.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "E-D-C-B-A."
+    },
+    {
+     "letra": "B",
+     "texto": "E-B-C-A-D."
+    },
+    {
+     "letra": "C",
+     "texto": "D-E-C-A-B."
+    },
+    {
+     "letra": "D",
+     "texto": "C-E-D-A-B."
+    },
+    {
+     "letra": "E",
+     "texto": "D-C-E-B-A."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000032194",
+   "codigo": "4000032194",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 39,
+   "temas": [
+    "Heparina não f racionada"
+   ],
+   "enunciado": "Em relação a paciente submetido a pro laxia para trombose venosa profunda por tempo prolongado com heparina não fracionada, assinale a alternativa ERRADA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Esta droga é clareada principalmente pelos receptores situados no endotélio, macrófagos e rins"
+    },
+    {
+     "letra": "B",
+     "texto": "Pode apresentar trombocitopenia autoimune"
+    },
+    {
+     "letra": "C",
+     "texto": "Seu mecanismo de ação se faz por inativação de vários fatores da cascata de coagulação, sendo os mais sensíveis a trombina e o fator Xa"
+    },
+    {
+     "letra": "D",
+     "texto": "Sua maior afinidade por proteínas plasmáticas lhe confere maior biodisponibilidade e maior meia-vida plasmática"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000021900",
+   "codigo": "4000021900",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 40,
+   "temas": [
+    "Anticoagulantes antagonistas da vitamina K",
+    "Hematologia"
+   ],
+   "enunciado": "A warfarina é um dos medicamentos mais utilizados em caso de necessidade de anticoagulacão prolongada. A dose inicial, em geral, é de 5 mg por dia, devendo ser ajustada até manter um INR entre:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1,0 e 1,5."
+    },
+    {
+     "letra": "B",
+     "texto": "1,5 e 2,0."
+    },
+    {
+     "letra": "C",
+     "texto": "2,0 e 3,0"
+    },
+    {
+     "letra": "D",
+     "texto": "3,0 e 3,5."
+    },
+    {
+     "letra": "E",
+     "texto": "3,5 e 4,0."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000087582",
+   "codigo": "4000087582",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 41,
+   "temas": [
+    "Anticoagulantes antagonistas da vitamina K",
+    "Anticoagulantes orais diretos",
+    "Heparinas"
+   ],
+   "enunciado": "Com relação às drogas anticoagulantes é correto afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "as heparinas de baixo peso molecular são eficientes na profilaxia da trombose venosa, mas não no tratamento da trombose já estabelecida."
+    },
+    {
+     "letra": "B",
+     "texto": "a anticoagulação realizada com heparina intravenosa deve ser monitorada com medidas diárias da atividade da protrombina."
+    },
+    {
+     "letra": "C",
+     "texto": "a terapia anticoagulante com dicumarínicos deve sempre ser iniciada com doses maiores do que a dose de manutenção (dose de ataque)."
+    },
+    {
+     "letra": "D",
+     "texto": "o uso de heparina é contra-indicado no primeiro e no terceiro trimestres da gravidez."
+    },
+    {
+     "letra": "E",
+     "texto": "os dicumarínicos podem apresentar efeito prócoagulante no início do tratamento."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000079967",
+   "codigo": "4000079967",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 42,
+   "temas": [
+    "Anticoagulantes orais diretos",
+    "Tratamento Cirúrgico",
+    "Tratamento Clínico"
+   ],
+   "enunciado": "Homem de 89 anos relata antecedente de arritmia cardíaca, em uso de rivaroxabana 20 mg ao dia, há 3 meses. Evoluiu, há 4 horas, com disartria sem outros sinais neurológicos focais. O paciente realizou CT crânio cujo resultado apresenta-se ao lado (VER IMAGEM). O manejo correto desse paciente é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Iniciar ácido tranexâmico endovenoso."
+    },
+    {
+     "letra": "B",
+     "texto": "Realizar neurocirurgia de urgência."
+    },
+    {
+     "letra": "C",
+     "texto": "Iniciar concentrado de complexo protrombínico."
+    },
+    {
+     "letra": "D",
+     "texto": "Associar aspirina 100 mg via enteral."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q042-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000011932",
+   "codigo": "4000011932",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 43,
+   "temas": [
+    "Tratamento da trombocitopenia induzida pela heparina HIT"
+   ],
+   "enunciado": "Diagnóstico da trombocitopenia induzida pela heparina HIT Homem de 55 anos, paraplégico por acidente automobilístico há 15 anos, é internado por pneumonia adquirida na comunidade. Está no oitavo dia de internamento hospitalar (DIH), com boa resposta ao antibiótico endovenoso, quando foi observado edema isolado de perna esquerda. Ultrassonogra a com doppler evidenciou trombose venosa profunda na perna edemaciada, mesmo com uso diário de enoxaparina 40mg via SC. Os exames da admissão mostravam plaquetas: 300.000/mm3. O exame de hoje (8º DIH) evidencia plaquetas: 60.000/mm3. Paciente não fez uso de quaisquer medicamentos nos 12 meses prévios ao internamento. Qual conduta deve ser adotada nesse momento?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Suspender enoxaparina e iniciar warfarin."
+    },
+    {
+     "letra": "B",
+     "texto": "Trocar enoxaparina por fondoparinux."
+    },
+    {
+     "letra": "C",
+     "texto": "Manter enoxaparina em 1mg/kg de peso 2x/dia."
+    },
+    {
+     "letra": "D",
+     "texto": "Trocar enoxaparina por heparina não fracionada."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000115476",
+   "codigo": "4000115476",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 44,
+   "temas": [
+    "Fármacos e agentes relacionados a hemostasia secundária"
+   ],
+   "enunciado": "Em relação à terapia anticoagulante, é correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A enoxaparina tem a vantagem de não necessitar de controle do T TPa e pode ser usada em paciente com disfunção renal leve a moderada, bastando fazer o ajuste de dose recomendado em bula."
+    },
+    {
+     "letra": "B",
+     "texto": "A enoxaparina tem menor risco de levar a plaquetopenia e trombose relacionadas à heparina do que a heparina não fracionada, entretanto não pode ser usada no tratamento dessas condições."
+    },
+    {
+     "letra": "C",
+     "texto": "O início do tratamento com varfarina requer associação com heparina ou heparinoides nos dois primeiros dias. Caso o RNI não atinja a faixa ideal, deve-se aumentar a dose da heparina até que ele alcance a faixa terapêutica desejada."
+    },
+    {
+     "letra": "D",
+     "texto": "Os novos anticoagulantes orais, como rivaroxabana e dabigatrana, têm a grande vantagem de não necessitarem de controle do RNI ou TTPa, mas só são indicados para pacientes com prótese valvar metálica."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000069958",
+   "codigo": "4000069958",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 45,
+   "temas": [
+    "Heparina baixo peso molecular"
+   ],
+   "enunciado": "Uma mulher de 48 anos foi diagnosticada com trombose venosa profunda em seu membro inferior esquerdo. Um clínico recém formado está em duvida na escolha do anticoagulante a ser prescrito. A respeito da heparina de baixo peso molecular, qual das opções abaixo NÃO consiste em uma vantagem em relação à heparina.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Melhor biodisponibilidade"
+    },
+    {
+     "letra": "B",
+     "texto": "Clearance dose-dependente"
+    },
+    {
+     "letra": "C",
+     "texto": "Maior meia-vida após injeção subcutânea."
+    },
+    {
+     "letra": "D",
+     "texto": "Menor risco de trombocitopenia induzida pela heparina."
+    },
+    {
+     "letra": "E",
+     "texto": "Efeito anticoagulante previsível."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000066689",
+   "codigo": "4000066689",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 46,
+   "temas": [
+    "Anticoagulantes antagonistas da vitamina K"
+   ],
+   "enunciado": "Uma senhora de 75 anos é admitida na emergência com quadro de dispneia de início progressivo. Alega história prévia de hipertensão arterial e brilação atrial permanente. Realiza laboratório com evidência de INR de 9.5. Qual das condutas abaixo é a mais apropriada neste momento:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Vitamina K 10 mg IV"
+    },
+    {
+     "letra": "B",
+     "texto": "Vitamina K 01 ampola IM"
+    },
+    {
+     "letra": "C",
+     "texto": "Vitamina k 5 mg oral"
+    },
+    {
+     "letra": "D",
+     "texto": "Plasma fresco"
+    },
+    {
+     "letra": "E",
+     "texto": "Vitamina K 10mg IV + plasma fresco"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000060695",
+   "codigo": "4000060695",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 47,
+   "temas": [
+    "Heparina baixo peso molecular",
+    "Heparina não f racionada"
+   ],
+   "enunciado": "As heparinas podem ser usadas na gravidez?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Sim, tanto a heparina não fracionada quanto as de baixo peso molecular."
+    },
+    {
+     "letra": "B",
+     "texto": "Não, nenhuma heparina pode ser usada na gravidez."
+    },
+    {
+     "letra": "C",
+     "texto": "Apenas a heparina não fracionada."
+    },
+    {
+     "letra": "D",
+     "texto": "Apenas as heparinas de baixo peso molecular."
+    },
+    {
+     "letra": "E",
+     "texto": "Nenhuma das anteriores."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000049630",
+   "codigo": "4000049630",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 48,
+   "temas": [
+    "Diagnóstico da trombocitopenia induzida pela heparina HIT"
+   ],
+   "enunciado": "Paciente de 62 anos foi submetido à cirurgia de prótese total de quadril esquerdo há 5 dias. Em uso de tramadol, heparina não fracionada e ranitidina. Evolui com sinais de trombose venosa profunda do membro operado. No pré-operatório a contagem de plaquetas era 240.000/mm³ e agora 70.000/mm³. Assinale opção mais correta neste caso:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Trata-se de trombocitopenia induzida por heparina. Devemos suspender a heparina em uso imediatamente e iniciar uso de warfarina."
+    },
+    {
+     "letra": "B",
+     "texto": "Um episódio de trombocitopenia induzida por heparina é contraindicação absoluta para uso posterior de qualquer forma de heparina."
+    },
+    {
+     "letra": "C",
+     "texto": "Trata-se de trombocitopenia induzida por heparina, que é facilitada pela associação com tramadol. Devemos suspender a heparina em uso e iniciar heparina de baixo peso molecular."
+    },
+    {
+     "letra": "D",
+     "texto": "A conduta pode ser mantida, pois o nível de plaquetas não é crítico."
+    },
+    {
+     "letra": "E",
+     "texto": "Esta síndrome é causada por anticorpos contra complexo antigênico formado de fator plaquetário 4(FP 4) e heparina, devendo suspender a heparina e iniciar fondaparinux."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000029853",
+   "codigo": "4000029853",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 49,
+   "temas": [
+    "Anticoagulantes antagonistas da vitamina K"
+   ],
+   "enunciado": "Paciente de 54 anos em anticoagulação com cumarínico há 3 meses, devido à trombose venosa profunda, cursou com sangramento genital intenso, procurando atendimento médico. Avaliada pelo plantonista, que encontrou a paciente pálida, com frequência cardíaca de 120bpm e hipotensão de 80 x 40mmHg. Exames laboratoriais mostravam hemoglobina: 8,2mg/dL; RNI: > 10. Portadora de hipertensão arterial e miomatose uterina. Após prescrição de hidratação venosa com 2000ml de cristaloide, a paciente evoluiu com melhora da pressão arterial para 110 x 70mmHg, frequência cardíaca caiu para 100bpm e apareceram crepitações em bases pulmonares bilateralmente. A paciente ainda mantinha quadro de sangramento ativo. Considerando o caso clínico descrito, assinale a alternativa MAIS adequada para o controle do sangramento.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Administrar vitamina K intravenosa de 12/12 horas."
+    },
+    {
+     "letra": "B",
+     "texto": "Transfundir plasma fresco congelado na dose de 15ml/kg de peso."
+    },
+    {
+     "letra": "C",
+     "texto": "Administrar complexo protrombínico na dose de 25UI/kg."
+    },
+    {
+     "letra": "D",
+     "texto": "Realizar histerectomia de urgência para tratamento da miomatose uterina."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000084042",
+   "codigo": "4000084042",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 50,
+   "temas": [
+    "Anticoagulantes antagonistas da vitamina K",
+    "Antagonistas da vitamina K",
+    "Heparinas"
+   ],
+   "enunciado": "Paciente feminina, com brilação atrial crônica e prótese mecânica de válvula mitral, está anticoagulada a pleno com cumarínico. Esta paciente será submetida a uma cirurgia eletiva com risco alto de sangramento. Qual a conduta mais adequada a ser seguida?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Manter a anticoagulação oral inalterada e cuidar na hemostasia cirúrgica."
+    },
+    {
+     "letra": "B",
+     "texto": "Suspender o anticoagulante oral uma semana antes do procedimento."
+    },
+    {
+     "letra": "C",
+     "texto": "Trocar o anticoagulante oral temporariamente por heparina e suspender esta antes do procedimento."
+    },
+    {
+     "letra": "D",
+     "texto": "Trocar o anticoagulante oral por AAS 200 mg/dia uma semana antes do procedimento;"
+    },
+    {
+     "letra": "E",
+     "texto": "Trocar o anticoagulante oral por AAS 200 mg/dia e clopidogrel 75 mg/dia uma semana antes do procedimento."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000083116",
+   "codigo": "4000083116",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 51,
+   "temas": [
+    "Anticoagulantes antagonistas da vitamina K",
+    "Laboratório da hemostasia"
+   ],
+   "enunciado": "A varfarina é um anticoagulante oral prescrito para anticoagulação ambulatorial dos pacientes. Qual o teste mais usado para monitorizar seu uso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tempo de Protrombina (TP)."
+    },
+    {
+     "letra": "B",
+     "texto": "Plaquetas."
+    },
+    {
+     "letra": "C",
+     "texto": "Tempo de coagulação."
+    },
+    {
+     "letra": "D",
+     "texto": "Hemograma."
+    },
+    {
+     "letra": "E",
+     "texto": "Tempo de Tromboplastina Parcial (TTP)."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000074819",
+   "codigo": "4000074819",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 52,
+   "temas": [
+    "Heparina não f racionada"
+   ],
+   "enunciado": "Qual das seguintes opções abaixo menciona o melhor teste para acompanhar terapia heparínica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tempo de protrombina."
+    },
+    {
+     "letra": "B",
+     "texto": "Tempo parcial de tromboplastina."
+    },
+    {
+     "letra": "C",
+     "texto": "Tempo de sangramento."
+    },
+    {
+     "letra": "D",
+     "texto": "Contagem de plaquetas."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000057832",
+   "codigo": "4000057832",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 53,
+   "temas": [
+    "Laboratório da hemostasia"
+   ],
+   "enunciado": "Em pacientes com suspeita de doenças hemorrágicas, pelo menos cinco testes laboratoriais devem ser inicialmente realizados: Tempo de Tromboplastina Parcial ativada (TTPa); Tempo de Protrombina (TP); Tempo de Sangramento (TS); Tempo de Trombina (TT) e contagem de plaquetas. Sobre estes testes, pode-se afirmar que (assinale a opção CORRETA):",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O Tempo de Tromboplastina Parcial ativada (TTPa) tem como valor de referência cerca de 30 minutos ou relação inferior a 1.2 e presta-se a avaliar a integridade das vias intrínseca e comum da coagulação."
+    },
+    {
+     "letra": "B",
+     "texto": "O Tempo de Protrombina (TP) tem valor de referência expresso em tempo (em torno de 14 segundos) ou em percentual (70-100%) e presta-se a avaliar a integridade das vias extrínseca e comum da coagulação."
+    },
+    {
+     "letra": "C",
+     "texto": "O Tempo de Sangramento (TS) avalia o tempo de coagulação do plasma citratado na presença de trombina, permitindo testar a conversão de fibrinogênio em fibrina."
+    },
+    {
+     "letra": "D",
+     "texto": "O Tempo de Trombina (TT) é o teste de triagem clínica mais utilizado para avaliar a integridade da função plaquetária e da parede vascular."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000013698",
+   "codigo": "4000013698",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 54,
+   "temas": [
+    "Laboratório da hemostasia"
+   ],
+   "enunciado": "No que se refere à dengue, doença que afeta milhões de pessoas no mundo, julgue o item subsecutivo. O Tempo de Protrombina (TP) avalia a via extrínseca da cascata de coagulação, sendo altamente sensível aos fatores II, V, VII, IX e X.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000050623",
+   "codigo": "4000050623",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 55,
+   "temas": [
+    "Trombocitopenia induzida pela heparina HIT"
+   ],
+   "enunciado": "Sobre a trombocitopenia induzida por heparina (TIH), é correto afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a TIH usualmente ocorre dentro de poucas horas após a exposição primária à terapia com heparina."
+    },
+    {
+     "letra": "B",
+     "texto": "a TIH ocorre com a heparina não fracionada de origem bovina ou porcina, mas não com a heparina de baixo peso molecular."
+    },
+    {
+     "letra": "C",
+     "texto": "Mesmo pequenas exposições à heparina podem causar a TIH."
+    },
+    {
+     "letra": "D",
+     "texto": "No caso de TIH, é obrigatório suspender a heparina e iniciar imediatamente o anticoagulante oral Warfarin."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000043348",
+   "codigo": "4000043348",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 56,
+   "temas": [
+    "Anticoagulantes orais diretos"
+   ],
+   "enunciado": "Em relação às drogas anticoagulantes, assinale a alternativa que contém um inibidor direto do fator Xa.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Dabigatrana."
+    },
+    {
+     "letra": "B",
+     "texto": "Rivaroxabana."
+    },
+    {
+     "letra": "C",
+     "texto": "Warfarina."
+    },
+    {
+     "letra": "D",
+     "texto": "Rituximab."
+    },
+    {
+     "letra": "E",
+     "texto": "Clopidogrel."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000094920",
+   "codigo": "4000094920",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 57,
+   "temas": [
+    "Intoxicação por Anticoagulantes",
+    "Sumário dos Tóxicos e Antídotos",
+    "Heparinas"
+   ],
+   "enunciado": "Qual é o antídoto da heparina?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "vitamina k"
+    },
+    {
+     "letra": "B",
+     "texto": "estrógeno"
+    },
+    {
+     "letra": "C",
+     "texto": "sulfato de protamina"
+    },
+    {
+     "letra": "D",
+     "texto": "gluconato de cálcio"
+    },
+    {
+     "letra": "E",
+     "texto": "plasmina"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000064172",
+   "codigo": "4000064172",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 58,
+   "temas": [
+    "Trombocitopenia induzida pela heparina HIT"
+   ],
+   "enunciado": "Sobre a trombocitopenia induzida pela heparina é correto afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "nesses casos a transfusão de plaquetas é bem aplicada."
+    },
+    {
+     "letra": "B",
+     "texto": "a heparina deve ser substituída por varfarina enquanto houver a trombocitopenia."
+    },
+    {
+     "letra": "C",
+     "texto": "é mais comum a sua ocorrência quando se utiliza heparina de baixo peso molecular."
+    },
+    {
+     "letra": "D",
+     "texto": "é um processo mediado por anticorpos dirigidos contra neoantígenos de complexos heparina-PF4."
+    },
+    {
+     "letra": "E",
+     "texto": "acontece mais comumente em homens em comparação com mulheres, e nos pacientes clínicos em relação aos cirúrgicos."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000043846",
+   "codigo": "4000043846",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 59,
+   "temas": [
+    "Anticoagulantes orais diretos"
+   ],
+   "enunciado": "Qual das drogas abaixo é um anticoagulante que tem como mecanismo de ação a inibição direta da trombina?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Enoxaparina."
+    },
+    {
+     "letra": "B",
+     "texto": "Dabigatran."
+    },
+    {
+     "letra": "C",
+     "texto": "Warfarina."
+    },
+    {
+     "letra": "D",
+     "texto": "Estreptoquinase."
+    },
+    {
+     "letra": "E",
+     "texto": "Clopidogrel."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000022758",
+   "codigo": "4000022758",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 60,
+   "temas": [
+    "Heparina baixo peso molecular",
+    "Tratamento da trombocitopenia induzida pela heparina HIT"
+   ],
+   "enunciado": "Diagnóstico da trombocitopenia induzida pela heparina HIT Um paciente de 65 anos encontra-se internado por sepse grave em UTI. Além de antibióticos, foram prescritos enoxaparina subcutânea e ranitidina IV para pro laxia de trombose venosa profunda e de úlcera de estresse, respectivamente. No 9ª dia de admissão, foram observadas lesões necróticas na pele do abdome. A contagem de plaquetas em hemograma de controle é de 40.000/mm³ (na admissão era de 80.000/mm³). O restante do hemograma é normal, compatível com a resolução clínica do seu quadro infeccioso. Não são observados sangramentos espontâneos. Que conduta é a mais recomendada dentre as descritas abaixo?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Substituição da enoxaparina por heparina não fracionada."
+    },
+    {
+     "letra": "B",
+     "texto": "Substituição da enoxaparina por warfarin."
+    },
+    {
+     "letra": "C",
+     "texto": "Suspensão da enoxaparina."
+    },
+    {
+     "letra": "D",
+     "texto": "Suspensão da ranitidina."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q060-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000008263",
+   "codigo": "4000008263",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 61,
+   "temas": [
+    "Tratamento da trombocitopenia induzida pela heparina HIT"
+   ],
+   "enunciado": "Diagnóstico da trombocitopenia induzida pela heparina HIT Paciente de 45 anos, internado há 10 dias por fratura complexa de fêmur. Está em uso de Heparina não fracionada (Heparina sódica) para pro laxia de Trombose Venosa Profunda desde o início do internamento. Seus exames iniciais revelam Hb = 12,4 g/dl, Leucócitos = 12.350/mm³ e Plaquetas 190.000/mm³. No décimo dia do internamento, um novo hemograma mostrou Hb = 9,5 g/dl, Leucócitos = 7.200/mm³ e Plaquetas = 65.000/mm³. Não há sangramentos nem sinais de trombose venosa. Além de suspender o uso de heparina o que mais deve ser feito?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Iniciar argatroban."
+    },
+    {
+     "letra": "B",
+     "texto": "Transfundir plaquetas."
+    },
+    {
+     "letra": "C",
+     "texto": "Associar prednisona."
+    },
+    {
+     "letra": "D",
+     "texto": "Iniciar warfarina."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000045504",
+   "codigo": "4000045504",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 62,
+   "temas": [
+    "Trombocitopenia induzida pela heparina HIT"
+   ],
+   "enunciado": "Sobre a trombocitopenia induzida por administração de heparina, é correto afirmar que ela:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "é autolimitada, com a contagem de plaquetas abaixo de 100.000 e ocorre nos tratamentos com duração maior que 6 meses."
+    },
+    {
+     "letra": "B",
+     "texto": "ocorre entre o quinto e décimo dias de tratamento e é decorrente de processo autoimune dependente de IgG."
+    },
+    {
+     "letra": "C",
+     "texto": "é transitória, pouco comum no início do tratamento e reversível com a substituição do agente anticoagulante."
+    },
+    {
+     "letra": "D",
+     "texto": "é restrita ao uso de heparinas de baixo peso molecular."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000009228",
+   "codigo": "4000009228",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 63,
+   "temas": [
+    "Tratamento da trombocitopenia induzida pela heparina HIT",
+    "Heparina não f racionada"
+   ],
+   "enunciado": "Diagnóstico da trombocitopenia induzida pela heparina HIT Paciente de 60 anos encontra-se internado para tratamento de trombose venosa profunda em membro inferior direito com boa resposta no 3° dia de internamento hospitalar. No quarto dia passou a apresentar petéquias difusas com nível de plaquetas de 3.500 (esse valor era 325.000 no primeiro dia de internamento). Está somente com heparinização plena com heparina não-fracionada. Recebeu, então, o diagnóstico de trombocitopenia induzida por heparina. Qual a conduta mais adequada no momento? Respostas: 1 12 23 34 45 56",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Suspender a heparina e transfundir plaquetas."
+    },
+    {
+     "letra": "B",
+     "texto": "Suspender a heparina e iniciar warfarin."
+    },
+    {
+     "letra": "C",
+     "texto": "Suspender a heparina e iniciar enoxiparina."
+    },
+    {
+     "letra": "D",
+     "texto": "Suspender a heparina e não utilizar outro anticoagulante."
+    },
+    {
+     "letra": "E",
+     "texto": "Suspender a heparina e iniciar argatroban"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": [
+  {
+   "id": "4000184426",
+   "codigo": "4000184426",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Hemostasia I Conceitos Básicos e Anticoagulantes",
+   "numero": 1,
+   "temas": [
+    "Anticoagulantes antagonistas da vitamina K"
+   ],
+   "enunciado": "Homem, 64a, procura Pronto Socorro queixando-se de sangue na urina. Antecedente pessoal: válvula mitral metálica, hipertensão arterial, uso diário de losartana e warfarina. Exame físico: PA=125x84mmHg; FC=79bpm; oximetria de pulso=97% (ar ambiente). RNI=4,87; Hb=13,1g/dL; Ht=39%; plaquetas=232.000/mm³; exame de urina: hemácias >100/campo, leucócitos 20/campo, proteína +/4. Realizada sondagem vesical com diurese hematúrica, sem coágulos. PARA CORREÇÃO DO VALOR DO RNI, DEVE-SE:",
+   "alternativas": [],
+   "gabarito": null,
+   "imagens": [],
+   "revisar": [],
+   "motivo_exclusao": "sem alternativas"
+  }
+ ]
+}

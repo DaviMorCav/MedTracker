@@ -1,0 +1,4259 @@
+{
+ "questoes": [
+  {
+   "id": "4000128123",
+   "codigo": "4000128123",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 1,
+   "temas": [
+    "Avaliação da estática f etal"
+   ],
+   "enunciado": "Mulher tercigista e secundipara (partos normais). Fez pré-natal adequado e nega alterações em exames laboratoriais. Deu entrada na emergência da Maternidade com 38 semanas de gestação, queixando-se de dor em baixo ventre, apresentando 4 contrações de 40 segundos cada, em intervalo de 10 minutos. Batimento cardíaco fetal: 144bpm. Ao toque vaginal, colo dilatado 9cm, no, bolsa integra, apresentação em +1 de De Lee com Lambda em correspondência com estreito superior da bacia à esquerda e anteriormente. Identifique a apresentação e a variedade de posição fetal.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cefálica fletida e occipito esquerda posterior (OEP)."
+    },
+    {
+     "letra": "B",
+     "texto": "Cefálica defletida e mento esquerda anterior (MEA)."
+    },
+    {
+     "letra": "C",
+     "texto": "Cefálica fletida e occipito esquerda anterior (OEA)."
+    },
+    {
+     "letra": "D",
+     "texto": "Cefálica defletida e bregma esquerda anterior (BEA)."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119120",
+   "codigo": "4000119120",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 2,
+   "temas": [
+    "Pontos de ref erência da apresentação f etal",
+    "Apresentação",
+    "Avaliação da estática f etal"
+   ],
+   "enunciado": "A apresentação fetal mostrada na imagem abaixo é?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Occipto esquerda anterior."
+    },
+    {
+     "letra": "B",
+     "texto": "Bregmática."
+    },
+    {
+     "letra": "C",
+     "texto": "Occipto direita posterior."
+    },
+    {
+     "letra": "D",
+     "texto": "Occipto transversa esquerda."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q002-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000114667",
+   "codigo": "4000114667",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 3,
+   "temas": [
+    "Posição",
+    "Pontos de ref erência da apresentação f etal",
+    "Avaliação da estática f etal"
+   ],
+   "enunciado": "Durante a condução de um trabalho de parto, ao realizar o toque, o obstetra evidencia apresentação cefálica etida, com lambda fetal em posição 2h em relação aos ponteiros do relógio. Isso significa que o dorso fetal está:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "esquerda anterior."
+    },
+    {
+     "letra": "B",
+     "texto": "esquerda posterior."
+    },
+    {
+     "letra": "C",
+     "texto": "direita anterior."
+    },
+    {
+     "letra": "D",
+     "texto": "direita posterior."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000108010",
+   "codigo": "4000108010",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 4,
+   "temas": [
+    "Def inição dos principais conceitos"
+   ],
+   "enunciado": "As relações útero-fetais de nem o posicionamento espacial do concepto no útero e na bacia materna e têm importância fundamental na assistência ao parto. Sobre isso, assinale a alternativa CORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Na apresentação pélvica incompleta modo de nádegas, o ponto de reparo e o dorso fetal encontram-se diametralmente opostos."
+    },
+    {
+     "letra": "B",
+     "texto": "Na situação transversa, a bacia materna estará incompletamente ocupada, e o polo cefálico do concepto estará no flanco materno."
+    },
+    {
+     "letra": "C",
+     "texto": "No primeiro oblíquo da bacia obstétrica, encontramos variedades de posições OEA ou ODP nas apresentações cefálicas fletidas."
+    },
+    {
+     "letra": "D",
+     "texto": "As variedades sagitais altas, respectivamente OP e OS, são comumente encontradas nas bacias antropoide e platipeloide."
+    },
+    {
+     "letra": "E",
+     "texto": "O lado materno em que se encontra o dorso fetal define a posição do feto nas apresentações cefálicas e nas pélvicas."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000107675",
+   "codigo": "4000107675",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 5,
+   "temas": [
+    "Variedade de posição"
+   ],
+   "enunciado": "Um feto estando em OEA, pode-se dizer que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a situação é de flexão."
+    },
+    {
+     "letra": "B",
+     "texto": "a apresentação é longitudinal."
+    },
+    {
+     "letra": "C",
+     "texto": "a atitude é anterior."
+    },
+    {
+     "letra": "D",
+     "texto": "a posição é esquerda."
+    },
+    {
+     "letra": "E",
+     "texto": "o assinclitismo é posterior."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000102030",
+   "codigo": "4000102030",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 6,
+   "temas": [
+    "Cef álica"
+   ],
+   "enunciado": "O recém-nascido de parto normal que pode apresentar máscara equimótica, nas primeiras horas após o parto, é aquele que durante o trabalho de parto apresentava-se em:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "cefálica fletida."
+    },
+    {
+     "letra": "B",
+     "texto": "defletida de primeiro grau."
+    },
+    {
+     "letra": "C",
+     "texto": "defletida de segundo grau."
+    },
+    {
+     "letra": "D",
+     "texto": "defletida de terceiro grau."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000098120",
+   "codigo": "4000098120",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 7,
+   "temas": [
+    "Estática f etal"
+   ],
+   "enunciado": "Em um feto a termo, o diâmetro biparietal tem aproximadamente 9,5 cm, semelhante ao diâmetro:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Occipitofrontal."
+    },
+    {
+     "letra": "B",
+     "texto": "Occipitomentoniano."
+    },
+    {
+     "letra": "C",
+     "texto": "Suboccipitobregmático."
+    },
+    {
+     "letra": "D",
+     "texto": "Suboccipitofrontal."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000093587",
+   "codigo": "4000093587",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 8,
+   "temas": [
+    "Pélvica"
+   ],
+   "enunciado": "Qual o tipo de apresentação pélvica apresentada na figura abaixo?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Incompleta de nádegas"
+    },
+    {
+     "letra": "B",
+     "texto": "Completa de nádegas"
+    },
+    {
+     "letra": "C",
+     "texto": "Modo de pés"
+    },
+    {
+     "letra": "D",
+     "texto": "Completa padrão"
+    },
+    {
+     "letra": "E",
+     "texto": "Incompleta de joelho"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q008-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000054927",
+   "codigo": "4000054927",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 9,
+   "temas": [
+    "Atitude"
+   ],
+   "enunciado": "A relação entre o eixo longitudinal fetal e o da mãe é denominada:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Posição fetal."
+    },
+    {
+     "letra": "B",
+     "texto": "Apresentação fetal."
+    },
+    {
+     "letra": "C",
+     "texto": "Atitude fetal."
+    },
+    {
+     "letra": "D",
+     "texto": "Insinuação fetal."
+    },
+    {
+     "letra": "E",
+     "texto": "Descida fetal."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000053041",
+   "codigo": "4000053041",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 10,
+   "temas": [
+    "Def inição dos principais conceitos"
+   ],
+   "enunciado": "Para descrever e estudar o mecanismo de parto, é necessário conhecer as relações espaciais entre o organismo materno e o produto conceptual, utilizando-se para isso nomenclatura e definições convencionadas. Tal nomenclatura orienta a documentação do parto e a comunicação entre os pro ssionais para que haja, posteriormente, entendimento dos acontecimentos. Analise as relações uterofetais abaixo relacionadas. I - O conceito de atitude reside na relação das diversas partes fetais entre si. II - A situação consiste na relação entre o maior eixo da cavidade uterina e o maior eixo fetal. III - A apresentação é definida como a região fetal que ocupa a área do estreito inferior e nela se vai insinuar. IV - Adota-se a definição de posição fetal, da escola alemã, que a descreve como a relação do dorso fetal com o lado materno. V - A variedade de posição complementa a orientação espacial do concepto ao relacionar um ponto de referência da apresentação fetal com um ponto de referência ósseo da bacia materna, levando-se em consideração as faces anterior, posterior ou lateral da gestante. Estão corretas",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "somente I e IV."
+    },
+    {
+     "letra": "B",
+     "texto": "somente I, II e V."
+    },
+    {
+     "letra": "C",
+     "texto": "somente I, II e IV."
+    },
+    {
+     "letra": "D",
+     "texto": "somente I, II, IV e V."
+    },
+    {
+     "letra": "E",
+     "texto": "somente I, II, III e IV."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046974",
+   "codigo": "4000046974",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 11,
+   "temas": [
+    "Avaliação do estreito superior"
+   ],
+   "enunciado": "Quando no toque vaginal, NÃO se consegue atingir o promontório, conclui-se que a bacia da mulher apresenta",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Diâmetro anteroposterior amplo."
+    },
+    {
+     "letra": "B",
+     "texto": "Diâmetro transverso amplo."
+    },
+    {
+     "letra": "C",
+     "texto": "Diâmetro transverso estreito."
+    },
+    {
+     "letra": "D",
+     "texto": "Diâmetro oblíquo amplo."
+    },
+    {
+     "letra": "E",
+     "texto": "Diâmetro oblíquo estreito."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046115",
+   "codigo": "4000046115",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 12,
+   "temas": [
+    "Apresentação"
+   ],
+   "enunciado": "Para a avaliação fetal durante o trabalho de parto, o toque vaginal permite identi car a apresentação fetal e seus pontos de reparo. Em qual dos itens essa correlação está incorreta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cefálica defletida de 1º grau = Ângulo anterior do bregma."
+    },
+    {
+     "letra": "B",
+     "texto": "Cefálica defletida de 3º grau = Queixo."
+    },
+    {
+     "letra": "C",
+     "texto": "Cefálica defletida de 2º grau = Raiz do nariz."
+    },
+    {
+     "letra": "D",
+     "texto": "Cefálica fletida = Lambda."
+    },
+    {
+     "letra": "E",
+     "texto": "Pélvica = Acrômio."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000039734",
+   "codigo": "4000039734",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 13,
+   "temas": [
+    "Pontos de ref erência da apresentação f etal",
+    "Cef álica"
+   ],
+   "enunciado": "A apresentação, na estática fetal, corresponde \"\"a região fetal que se loca na área do estreito superior, ocupando-a em seu todo, ai tende a insinuar-se e, durante o trabalho de parto, é sede de mecanismo bem determinado.\"\" (REZENDE, 2013). Na apresentação fetal cefálica etida (vértice ou occipital), o ponto de referência e a linha de orientação respectivamente, são",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "acrômio e dorso fetal."
+    },
+    {
+     "letra": "B",
+     "texto": "lambda e sutura sagital."
+    },
+    {
+     "letra": "C",
+     "texto": "bregma e sutura sagitometópica."
+    },
+    {
+     "letra": "D",
+     "texto": "glabela e linha metópica."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000025163",
+   "codigo": "4000025163",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 14,
+   "temas": [
+    "Atitude",
+    "Cef álica"
+   ],
+   "enunciado": "A linha de orientação na apresentação cefálica fletida é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "lambda"
+    },
+    {
+     "letra": "B",
+     "texto": "bregma"
+    },
+    {
+     "letra": "C",
+     "texto": "sutura metópica"
+    },
+    {
+     "letra": "D",
+     "texto": "sutura sagital"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000025115",
+   "codigo": "4000025115",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 15,
+   "temas": [
+    "Avaliação da estática f etal"
+   ],
+   "enunciado": "Paciente de 39 semanas é admitida com queixa de dor em baixo ventre. Ao exame, observam-se 5 contrações em 10 minutos, colo dilatado 9 cm, apresentação cefálica em OEA, plano +1 de De Lee. Podemos afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o dorso fetal encontra-se a esquerda."
+    },
+    {
+     "letra": "B",
+     "texto": "o feto apresenta deflexão de 1 grau."
+    },
+    {
+     "letra": "C",
+     "texto": "paciente está em período expulsivo."
+    },
+    {
+     "letra": "D",
+     "texto": "a insinuação ainda não ocorreu."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000001259",
+   "codigo": "4000001259",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 17,
+   "temas": [
+    "Avaliação da estática f etal"
+   ],
+   "enunciado": "Qual a nomenclatura obstétrica na figura abaixo?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "OEA"
+    },
+    {
+     "letra": "B",
+     "texto": "OEP"
+    },
+    {
+     "letra": "C",
+     "texto": "ODP"
+    },
+    {
+     "letra": "D",
+     "texto": "ODA"
+    },
+    {
+     "letra": "E",
+     "texto": "OTA"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q017-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000118608",
+   "codigo": "4000118608",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 18,
+   "temas": [
+    "Pontos de ref erência da apresentação f etal",
+    "Cef álica",
+    "Avaliação da estática f etal"
+   ],
+   "enunciado": "Considere a imagem abaixo. Na apresentação fetal cefálica de etida de primeiro grau, o número que mostra o ponto de referência fetal é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "5"
+    },
+    {
+     "letra": "B",
+     "texto": "1"
+    },
+    {
+     "letra": "C",
+     "texto": "4"
+    },
+    {
+     "letra": "D",
+     "texto": "3"
+    },
+    {
+     "letra": "E",
+     "texto": "2"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [
+    {
+     "arquivo": "imagens/q018-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000115149",
+   "codigo": "4000115149",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 19,
+   "temas": [
+    "Rotação interna",
+    "Variedade de posição",
+    "Avaliação da estática f etal"
+   ],
+   "enunciado": "Os diagramas abaixo representam variedades de posição do polo cefálico etido durante a evolução do trabalho de parto. Qual das alternativas abaixo define CORRETAMENTE a nomenclatura obstétrica de cada um deles e a ordem da rotação interna fisiológica desde a insinuação até o desprendimento do polo cefálico?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "OS, OEA, OET e A, B, C"
+    },
+    {
+     "letra": "B",
+     "texto": "OS, ODA, ODT e B, C, A"
+    },
+    {
+     "letra": "C",
+     "texto": "OP, OEA, OET e C, A, B"
+    },
+    {
+     "letra": "D",
+     "texto": "OP, ODA, ODT e C, B, A"
+    },
+    {
+     "letra": "E",
+     "texto": "OS, OEA, ODT e B, A, C"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q019-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000114295",
+   "codigo": "4000114295",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 20,
+   "temas": [
+    "Pontos de ref erência da apresentação f etal",
+    "Avaliação da estática f etal"
+   ],
+   "enunciado": "Você está de plantão na sala de parto e vai avaliar uma paciente multípara, a termo, em trabalho de parto. Ao toque vaginal, você palpa a raiz do nariz do feto e percorre a sutura metópica com a ponta de seu dedo. A dilatação está completa, a bolsa rota, com líquido amniótico claro e com grumos. De acordo com o exame físico pode-se a rmar que se trata de uma apresentação:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Defletida de 2° grau."
+    },
+    {
+     "letra": "B",
+     "texto": "Defletida de 1° grau."
+    },
+    {
+     "letra": "C",
+     "texto": "Defletida de 3° grau."
+    },
+    {
+     "letra": "D",
+     "texto": "Transversa."
+    },
+    {
+     "letra": "E",
+     "texto": "Córmica."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000099433",
+   "codigo": "4000099433",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 21,
+   "temas": [
+    "Apresentação",
+    "Variedade de posição"
+   ],
+   "enunciado": "Em avaliação de paciente durante o trabalho de parto, observa-se toque vaginal com dilatação de 8cm, bolsa rôta, apresentação cefálica com bregma em direção à eminência íleopectínea direita. A rma-se que a apresentação é cefálica defletida de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1º grau, bregma direita posterior."
+    },
+    {
+     "letra": "B",
+     "texto": "1º grau, bregma direita anterior."
+    },
+    {
+     "letra": "C",
+     "texto": "2º grau, bregma esquerda posterior."
+    },
+    {
+     "letra": "D",
+     "texto": "2º grau, bregma esquerda anterior."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000095903",
+   "codigo": "4000095903",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 22,
+   "temas": [
+    "Morf ologia da bacia"
+   ],
+   "enunciado": "Primigesta de 28 anos apresenta-se em trabalho de parto a termo. Pelvimetria clínica é realizada. Ela tem uma pelve ovalada, com o diâmetro anteroposterior do estreito pélvico maior do que o diâmetro transverso. O feto se encontra em variedade de posição occipito-direita-posterior. Qual o tipo mais provável de pelve?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ginecoide."
+    },
+    {
+     "letra": "B",
+     "texto": "Androide."
+    },
+    {
+     "letra": "C",
+     "texto": "Antropoide."
+    },
+    {
+     "letra": "D",
+     "texto": "Platipeloide."
+    },
+    {
+     "letra": "E",
+     "texto": "Androgênica."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000092077",
+   "codigo": "4000092077",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 23,
+   "temas": [
+    "Def inição dos principais conceitos"
+   ],
+   "enunciado": "Sobre estática fetal é INCORRETO afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Situação é a relação entre os grandes eixos longitudinais fetal e uterino."
+    },
+    {
+     "letra": "B",
+     "texto": "Apresentação é a região fetal que se localiza na área do estreito superior."
+    },
+    {
+     "letra": "C",
+     "texto": "Atitude é a relação entre as partes fetais que precisa flexionar-se para ajustar seu comprimento ao continente uterino."
+    },
+    {
+     "letra": "D",
+     "texto": "A altura da apresentação está insinuada quando ocupa a área do estreito superior."
+    },
+    {
+     "letra": "E",
+     "texto": "Posição fetal é a relação do dorso fetal com o lado materno, podendo ser descrita como primeira ou segunda posição."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000083122",
+   "codigo": "4000083122",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 24,
+   "temas": [
+    "Def inição dos principais conceitos"
+   ],
+   "enunciado": "Analise as figuras abaixo: I. Na figura I, a situação é longitudinal e a apresentação é pélvica completa. II. Na figura II, a apresentação é cefálica defletida de 3º grau ou de face. III. Na figura III, a situação é transversa e a via de parto sempre será cesariana. IV. Na figura I, a atitude fetal é de flexão e a posição fetal é esquerda. Quais estão corretas?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Apenas I e II."
+    },
+    {
+     "letra": "B",
+     "texto": "Apenas III e IV."
+    },
+    {
+     "letra": "C",
+     "texto": "Apenas I, II e III."
+    },
+    {
+     "letra": "D",
+     "texto": "Apenas II, III e IV."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q024-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000080994",
+   "codigo": "4000080994",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 25,
+   "temas": [
+    "Def inição dos principais conceitos"
+   ],
+   "enunciado": "Nas apresentações de vértice, a cabeça se ete gradualmente, substituindo seus maiores diâmetros por outros menores, tal como:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "suboccipitobregmático 10,5 cm"
+    },
+    {
+     "letra": "B",
+     "texto": "occipofrontal 11 cm"
+    },
+    {
+     "letra": "C",
+     "texto": "suboccipitofrontal 11 cm"
+    },
+    {
+     "letra": "D",
+     "texto": "occipitomentoniano 11 cm"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000080975",
+   "codigo": "4000080975",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 26,
+   "temas": [
+    "Estreito superior"
+   ],
+   "enunciado": "Conhecer o trajeto através do qual se dará o parto transpélvico é fundamental. Chama-se conjugata vera anatômica a medida cujo traçado vai:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "do promontório à face posterior do púbis"
+    },
+    {
+     "letra": "B",
+     "texto": "do promontório à borda superior da sínfise púbica"
+    },
+    {
+     "letra": "C",
+     "texto": "da linha inominada ao promontório"
+    },
+    {
+     "letra": "D",
+     "texto": "da eminência íleopectínea ao promontório"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000078927",
+   "codigo": "4000078927",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 27,
+   "temas": [
+    "Cef álica"
+   ],
+   "enunciado": "Uma apresentação cefálica de fronte ou defletida de segundo grau demonstra",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "extensão parcial da cabeça e ponto de referência fetal: naso ou raiz do nariz"
+    },
+    {
+     "letra": "B",
+     "texto": "flexão parcial da cabeça e ponto de referência fetal: bregma ou grande fontanela"
+    },
+    {
+     "letra": "C",
+     "texto": "extensão total da cabeça e ponto de referência fetal: mento"
+    },
+    {
+     "letra": "D",
+     "texto": "flexão total da cabeça e ponto de referência: occipício ou pequena fontanela"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000068406",
+   "codigo": "4000068406",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 28,
+   "temas": [
+    "Cef álica"
+   ],
+   "enunciado": "Assinale a alternativa que corresponde a um deflexão de terceiro grau.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Assinclitismo anterior"
+    },
+    {
+     "letra": "B",
+     "texto": "Assinclitismo posterior"
+    },
+    {
+     "letra": "C",
+     "texto": "Apresentação de face"
+    },
+    {
+     "letra": "D",
+     "texto": "Apresentação de bregma"
+    },
+    {
+     "letra": "E",
+     "texto": "Apresentação de fronte"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000068399",
+   "codigo": "4000068399",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 29,
+   "temas": [
+    "Estática f etal"
+   ],
+   "enunciado": "Em apresentação cefálica defletida de primeiro grau, o diâmetro de insinuação é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "occípito-frontal."
+    },
+    {
+     "letra": "B",
+     "texto": "suboccípito-bregmático."
+    },
+    {
+     "letra": "C",
+     "texto": "suboccípito-frontal."
+    },
+    {
+     "letra": "D",
+     "texto": "submento-bregmático."
+    },
+    {
+     "letra": "E",
+     "texto": "suboccípito-mentoniano."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000049906",
+   "codigo": "4000049906",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 30,
+   "temas": [
+    "Ausculta batimentos cardíacos f etais BCF",
+    "Variedade de posição"
+   ],
+   "enunciado": "Parturiente a termo, ao toque, revela tratar de uma variedade de posição SEA (variedade de posição). Qual o quadrante uterino no qual se auscultam melhor os batimentos do coração-fetal?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Superior direito"
+    },
+    {
+     "letra": "B",
+     "texto": "Superior esquerdo"
+    },
+    {
+     "letra": "C",
+     "texto": "Inferior direito"
+    },
+    {
+     "letra": "D",
+     "texto": "Inferior esquerdo"
+    },
+    {
+     "letra": "E",
+     "texto": "Em torno da cicatriz umbilical"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000049002",
+   "codigo": "4000049002",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 31,
+   "temas": [
+    "Pontos de ref erência da apresentação f etal",
+    "Insinuação"
+   ],
+   "enunciado": "Uma mulher está em trabalho de parto com feto em apresentação cefálica, de etida de primeiro grau, com ponto de referência voltado para a iminência iliopectínea esquerda. Com base nesse caso hipotético, assinale a alternativa que apresenta, correta e respectivamente, o diâmetro de insinuação fetal e a variedade de posição.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "subocciptofrontal e BEP"
+    },
+    {
+     "letra": "B",
+     "texto": "occiptofrontal e BEA"
+    },
+    {
+     "letra": "C",
+     "texto": "subocciptobregmático e BEA"
+    },
+    {
+     "letra": "D",
+     "texto": "submentobregmático e BEP"
+    },
+    {
+     "letra": "E",
+     "texto": "occiptomentoneiro e BEP"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000038636",
+   "codigo": "4000038636",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 32,
+   "temas": [
+    "Cef álica"
+   ],
+   "enunciado": "No mecanismo do trabalho de parto, o maior diâmetro do crânio fetal é o occípito mentoniano, que corresponde à apresentação",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "defletida de segundo grau."
+    },
+    {
+     "letra": "B",
+     "texto": "fletida."
+    },
+    {
+     "letra": "C",
+     "texto": "defletida de primeiro grau."
+    },
+    {
+     "letra": "D",
+     "texto": "defletida de terceiro grau."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000028310",
+   "codigo": "4000028310",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 33,
+   "temas": [
+    "Pontos de ref erência da apresentação f etal",
+    "Apresentação"
+   ],
+   "enunciado": "A linha de orientação na apresentação cefálica fletida é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "lambda"
+    },
+    {
+     "letra": "B",
+     "texto": "bregma"
+    },
+    {
+     "letra": "C",
+     "texto": "sutura metópica"
+    },
+    {
+     "letra": "D",
+     "texto": "sutura sagital"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000028297",
+   "codigo": "4000028297",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 34,
+   "temas": [
+    "Pélvica",
+    "Situação",
+    "Avaliação da estática f etal"
+   ],
+   "enunciado": "Ao examinar a parturiente, o interno relatou que o maior eixo fetal coincidia com o maior eixo uterino. O dorso fetal era palpado à esquerda do abdome materno, e a escava não estava completamente ocupada. Então, definiu, nessa ordem:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "atitude, situação e apresentação do concepto (esta última, cefálica fletida não insinuada)"
+    },
+    {
+     "letra": "B",
+     "texto": "situação, posição e apresentação do concepto (esta última, pélvica)"
+    },
+    {
+     "letra": "C",
+     "texto": "situação, variedade de posição e apresentação do concepto (esta última, córmica)"
+    },
+    {
+     "letra": "D",
+     "texto": "atitude, situação e variedade de posição do concepto (esta última, occipitoesquerda anterior)"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000026925",
+   "codigo": "4000026925",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 35,
+   "temas": [
+    "Situação",
+    "Apresentação",
+    "Avaliação da estática f etal"
+   ],
+   "enunciado": "Analise a imagem a seguir. Na ilustração, o feto encontra-se em:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Situação pélvica e apresentação longitudinal."
+    },
+    {
+     "letra": "B",
+     "texto": "Situação longitudinal e apresentação pélvica."
+    },
+    {
+     "letra": "C",
+     "texto": "Situação longitudinal e apresentação cefálica."
+    },
+    {
+     "letra": "D",
+     "texto": "Situação cefálica e apresentação longitudinal."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q035-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000024132",
+   "codigo": "4000024132",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 36,
+   "temas": [
+    "Cef álica"
+   ],
+   "enunciado": "Durante o trabalho de parto, o feto realiza movimento de exão visando substituir diâmetros maiores por menores, facilitando assim o mecanismo de parto. O maior e o menor diâmetro da cabeça fetal são respectivamente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Occipitofrontal e occipitomentoniano."
+    },
+    {
+     "letra": "B",
+     "texto": "Occipitomentoniano e suboccipitobregmático."
+    },
+    {
+     "letra": "C",
+     "texto": "Occipitofrontal e occipitobregmático."
+    },
+    {
+     "letra": "D",
+     "texto": "Suboccipitofrontal e suboccipitobregmático"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000021414",
+   "codigo": "4000021414",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 37,
+   "temas": [
+    "Cef álica"
+   ],
+   "enunciado": "O maior diâmetro da cabeça fetal normal é o:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "biparietal"
+    },
+    {
+     "letra": "B",
+     "texto": "bitemporal"
+    },
+    {
+     "letra": "C",
+     "texto": "occipitofrontal"
+    },
+    {
+     "letra": "D",
+     "texto": "suboccipitobregmático"
+    },
+    {
+     "letra": "E",
+     "texto": "occipitomentoniano"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000011807",
+   "codigo": "4000011807",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 38,
+   "temas": [
+    "Avaliação do estreio inf erior"
+   ],
+   "enunciado": "Em uma pelvimetria interna ao toque, a melhor bacia para progressão de parto normal é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ângulo subpubico maior que 90 graus, espinhas planas, promontório inatingível."
+    },
+    {
+     "letra": "B",
+     "texto": "Ângulo subpubico menor que 90 graus, espinhas planas, promontório inatingível."
+    },
+    {
+     "letra": "C",
+     "texto": "Ângulo subpubico maior que 90 graus, espinhas salientes, promontório inatingível."
+    },
+    {
+     "letra": "D",
+     "texto": "Ângulo subpubico menor que 90 graus, espinhas planas, promontório saliente."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000003768",
+   "codigo": "4000003768",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 39,
+   "temas": [
+    "Cef álica"
+   ],
+   "enunciado": "Você está de plantão quando é chamado para atender a uma paciente levada pelos vizinhos com queixa de contração há mais ou menos cinco horas. Refere que a contração cou mais frequente na última hora. Primigesta, com 24 anos de idade. Trouxe o cartão de pré-natal informando que realizou 10 consultas, tomou todas as vacinas e realizou todos os exames de rotina. Não houve intercorrência durante a gestação. Idade Gestacional pela Data da Última Menstruação: 37 semanas 2/7 e Idade Gestacional pela primeira USG realizado na 8ª semana: 38 semanas 2/7. Nas apresentações cefálicas, na maioria das vezes, o mento se aproxima do externo, o que constitui apresentação?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Defletida de 1º grau."
+    },
+    {
+     "letra": "B",
+     "texto": "Defletida de 2º grau."
+    },
+    {
+     "letra": "C",
+     "texto": "Defletida de 3º grau."
+    },
+    {
+     "letra": "D",
+     "texto": "Cefálica fletida."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000001150",
+   "codigo": "4000001150",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 40,
+   "temas": [
+    "Avaliação da estática f etal"
+   ],
+   "enunciado": "O ponto de referência da apresentação cefálica defletida de segundo grau é?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Lambda"
+    },
+    {
+     "letra": "B",
+     "texto": "Bregma"
+    },
+    {
+     "letra": "C",
+     "texto": "Glabela"
+    },
+    {
+     "letra": "D",
+     "texto": "Mento"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000127857",
+   "codigo": "4000127857",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 41,
+   "temas": [
+    "Avaliação da estática f etal"
+   ],
+   "enunciado": "Na apresentação fetal, em relação aos pontos de referência e linhas de orientação, marque V para as a rmativas verdadeiras e F para as falsas. ( ) Na apresentação cefálica fletida, o ponto de referência fetal é o lâmbda e a sutura de orientação é a sutura sagital. ( ) Na apresentação cefálica de etida de primeiro grau, o ponto de referência é a glabela e a linha de orientação é a sutura sagitometópica. ( ) Na apresentação cefálica defletida de terceiro grau, o ponto de referência é o mento e a linha de orientação, a facial. ( ) Na apresentação córmica, o ponto de referência é o acrômio e a linha de orientação é o dorso. Assinale a sequência correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "V, F, V, V"
+    },
+    {
+     "letra": "B",
+     "texto": "V, F, F, V"
+    },
+    {
+     "letra": "C",
+     "texto": "F, V, V, F"
+    },
+    {
+     "letra": "D",
+     "texto": "F, V, F, F"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000127579",
+   "codigo": "4000127579",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 42,
+   "temas": [
+    "Avaliação da estática f etal"
+   ],
+   "enunciado": "No trabalho de parto, na apresentação:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Defletida de 2° grau, o ponto de referência fetal é a glabela."
+    },
+    {
+     "letra": "B",
+     "texto": "Bregmática, a linha de orientação é a sutura metópica."
+    },
+    {
+     "letra": "C",
+     "texto": "Facial, o ponto de referência fetal é o bregma."
+    },
+    {
+     "letra": "D",
+     "texto": "Pélvica incompleta, também denominada pelvipodálica, as coxas e as pernas estãofletidas."
+    },
+    {
+     "letra": "E",
+     "texto": "Pélvica, a linha de orientação é o sulco interglúteo e o ponto de referência fetal a pube."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000118427",
+   "codigo": "4000118427",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 43,
+   "temas": [
+    "Pontos de ref erência da apresentação f etal",
+    "Cef álica",
+    "Avaliação da estática f etal"
+   ],
+   "enunciado": "A imagem mostra um feto em apresentação cefálica",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Fletida completa."
+    },
+    {
+     "letra": "B",
+     "texto": "Defletida de 1º grau."
+    },
+    {
+     "letra": "C",
+     "texto": "Defletida de 2º grau."
+    },
+    {
+     "letra": "D",
+     "texto": "Defletida de 3º grau."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q043-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000110066",
+   "codigo": "4000110066",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 44,
+   "temas": [
+    "Pelvimetria",
+    "Bacia obstétrica trajeto duro"
+   ],
+   "enunciado": "A bacia ou pelve é o canal ósseo do parto constituída pelos ilíacos, sacro e cóccix com as respectivas articulações (sín se púbica, sacro-ilíacas e sacro-coccígea). A seu respeito pode-se afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O plano do estreito inferior divide a pelve em grande e pequena bacia ou escavação, essa última o verdadeiro trajeto duro do parto."
+    },
+    {
+     "letra": "B",
+     "texto": "Os diâmetros mais importantes da pequena bacia são o diâmetro biespinha (24 cm), bicrista (28 cm), sacropúbico externo ou Baudelocque (20 cm)."
+    },
+    {
+     "letra": "C",
+     "texto": "Há 4 tipos fundamentais de bacia: ginecoide (feminina, 50%), antropoide (dos macacos, 25%), androide (masculina, 20%) e platipeloide (achatada, 5%)."
+    },
+    {
+     "letra": "D",
+     "texto": "Os eixos da bacia são paralelos ao centro de cada plano. Têm grande valor para auxiliar o obstetra sobre a direção a dar às trações, como, por exemplo, na extração a fórcipe."
+    },
+    {
+     "letra": "E",
+     "texto": "A radiopelvimetria, pelos seus benefícios, pode ser realizada nas últimas semanas da gravidez, para se obter as dimensões da bacia."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000109159",
+   "codigo": "4000109159",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 45,
+   "temas": [
+    "Def inição dos principais conceitos"
+   ],
+   "enunciado": "Para se acompanhar um trabalho de parto, o médico deve conhecer os pontos de referência fetais e maternos e as relações uterofetais. Em relação a esses conceitos, é correto afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "as apresentações cefálicas fletidas têm o bregma com ponto de referência."
+    },
+    {
+     "letra": "B",
+     "texto": "nas variedades em ODP, o ponto de referência fetal se relaciona com a iminência ileopectina direita materna."
+    },
+    {
+     "letra": "C",
+     "texto": "os fetos com dorso à direita mantém seus pontos de referência sempre do lado direito."
+    },
+    {
+     "letra": "D",
+     "texto": "os fetos em apresentação pélvica completa, em SEA apresentam o dorso do lado esquerdo."
+    },
+    {
+     "letra": "E",
+     "texto": "nas apresentações defletidas de terceiro grau, o ponto de referência fetal, nasio, apresenta-se mais frequentemente nas esquerdas anteriores."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000106042",
+   "codigo": "4000106042",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 46,
+   "temas": [
+    "Estática f etal"
+   ],
+   "enunciado": "No mecanismo do trabalho de parto, o maior diâmetro do crânio fetal é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Occipito-frontal."
+    },
+    {
+     "letra": "B",
+     "texto": "Suboccípito bregmático."
+    },
+    {
+     "letra": "C",
+     "texto": "Occípito mentoniano."
+    },
+    {
+     "letra": "D",
+     "texto": "Suboccípito frontal."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000103067",
+   "codigo": "4000103067",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 47,
+   "temas": [
+    "Situação"
+   ],
+   "enunciado": "No final da gestação qual a situação fetal mais comum?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Córmica."
+    },
+    {
+     "letra": "B",
+     "texto": "Transversa."
+    },
+    {
+     "letra": "C",
+     "texto": "Cefálica."
+    },
+    {
+     "letra": "D",
+     "texto": "Longitudinal."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000098231",
+   "codigo": "4000098231",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 48,
+   "temas": [
+    "Variedade de posição"
+   ],
+   "enunciado": "Na evolução de um parto por via vaginal, diagnosticou-se a variedade de posição occipitossacra. A cabeça, que já está fletida, acentua-se a flexão e é exposta primeiramente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Lambda"
+    },
+    {
+     "letra": "B",
+     "texto": "Bregma"
+    },
+    {
+     "letra": "C",
+     "texto": "Astérios"
+    },
+    {
+     "letra": "D",
+     "texto": "Ptérios"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000088391",
+   "codigo": "4000088391",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 49,
+   "temas": [
+    "Variedade de posição"
+   ],
+   "enunciado": "Ao examinar uma parturiente com 37 semanas de gestação, o obstetra percebe que o colo uterino está dilatado para 8 cm, a bolsa está rota e ele identi ca estruturas como nariz, lábios e queixo, este apontando para a eminência ileopectínea esquerda. A descrição correta dessa variedade de posição é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Mento Direita Anterior."
+    },
+    {
+     "letra": "B",
+     "texto": "Mento Direita Transversa."
+    },
+    {
+     "letra": "C",
+     "texto": "Mento Esquerda posterior."
+    },
+    {
+     "letra": "D",
+     "texto": "Mento Esquerda Anterior."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000083932",
+   "codigo": "4000083932",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 50,
+   "temas": [
+    "Estática f etal"
+   ],
+   "enunciado": "Em relação aos diâmetros fetais no termo, pode-se afirmar que o de maior extensão é o:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Occipto-frontal."
+    },
+    {
+     "letra": "B",
+     "texto": "Submento-bregmático."
+    },
+    {
+     "letra": "C",
+     "texto": "Suboccípito-bregmático."
+    },
+    {
+     "letra": "D",
+     "texto": "Occípito-mentoneiro."
+    },
+    {
+     "letra": "E",
+     "texto": "Submento-bregmático"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000082830",
+   "codigo": "4000082830",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 51,
+   "temas": [
+    "Def inição dos principais conceitos"
+   ],
+   "enunciado": "Considerando a imagem apresentada, analise as assertivas abaixo: I. A apresentação fetal é cefálica. II. A situação fetal é longitudinal. III. A variedade de posição é Occípito Esquerda Anterior (OEA). IV. A altura da apresentação está no plano zero De Lee. Quais estão corretas?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Apenas I e II."
+    },
+    {
+     "letra": "B",
+     "texto": "Apenas I e III."
+    },
+    {
+     "letra": "C",
+     "texto": "Apenas II e IV."
+    },
+    {
+     "letra": "D",
+     "texto": "Apenas I, II e III."
+    },
+    {
+     "letra": "E",
+     "texto": "I. II. III e IV."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q051-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000077734",
+   "codigo": "4000077734",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 52,
+   "temas": [
+    "Cef álica"
+   ],
+   "enunciado": "A apresentação fetal é definida como a região fetal que se apresenta na área do estreito superior. A variedade de posição refere-se à relação entre os pontos de referências maternos e fetais. Nos casos de apresentação cefálica de etida de primeiro grau, o ponto de referência fetal utilizado para identificar a variedade de posição da apresentação é o (a):",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Mento"
+    },
+    {
+     "letra": "B",
+     "texto": "Bregma"
+    },
+    {
+     "letra": "C",
+     "texto": "Glabela"
+    },
+    {
+     "letra": "D",
+     "texto": "Occipito"
+    },
+    {
+     "letra": "E",
+     "texto": "Lambda"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000044096",
+   "codigo": "4000044096",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 53,
+   "temas": [
+    "Pélvica"
+   ],
+   "enunciado": "Apresentação pélvica agripina corresponde à(a)",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Completa."
+    },
+    {
+     "letra": "B",
+     "texto": "Pélvico-Podálica."
+    },
+    {
+     "letra": "C",
+     "texto": "Modo de pés."
+    },
+    {
+     "letra": "D",
+     "texto": "Modo de joelhos."
+    },
+    {
+     "letra": "E",
+     "texto": "Modo de nádega."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000038273",
+   "codigo": "4000038273",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 54,
+   "temas": [
+    "Atitude"
+   ],
+   "enunciado": "Durante o trabalho de parto, no toque vaginal, sente-se como referência a fronte fetal. Portanto, a apresentação é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "occipitoposterior."
+    },
+    {
+     "letra": "B",
+     "texto": "em assinclitismo anterior."
+    },
+    {
+     "letra": "C",
+     "texto": "em assinclitismo posterior."
+    },
+    {
+     "letra": "D",
+     "texto": "defletida de 2° grau."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000035548",
+   "codigo": "4000035548",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 55,
+   "temas": [
+    "Variedade de posição",
+    "Avaliação da estática f etal"
+   ],
+   "enunciado": "A variedade de posição OEA significa:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Apresentação cefálica, ponto de referência lambda, e está em correspondência com o estreito superior à direita e anteriormente."
+    },
+    {
+     "letra": "B",
+     "texto": "Apresentação cefálica, ponto de referência lambda, e está em correspondência com o estreito superior à esquerda e anteriormente."
+    },
+    {
+     "letra": "C",
+     "texto": "Apresentação cefálica, ponto de referência bregma, e está em correspondência com o estreito superior à esquerda e anteriormente."
+    },
+    {
+     "letra": "D",
+     "texto": "Apresentação cefálica, ponto de referência bregma, e está em correspondência com o estreito superior à direita e anteriormente."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000035528",
+   "codigo": "4000035528",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 56,
+   "temas": [
+    "Estreito superior",
+    "Avaliação do estreito superior"
+   ],
+   "enunciado": "Na avaliação pelo toque vaginal, qual conjugata é avaliada para estimar o diâmetro da conjugata obstétrica na pelvimetria clínica:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Conjugata anatômica."
+    },
+    {
+     "letra": "B",
+     "texto": "Conjugata exitus."
+    },
+    {
+     "letra": "C",
+     "texto": "Conjugata diagonalis."
+    },
+    {
+     "letra": "D",
+     "texto": "Conjugata bi- espinha isquiática."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000029558",
+   "codigo": "4000029558",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 57,
+   "temas": [
+    "Situação",
+    "Apresentação"
+   ],
+   "enunciado": "Na situação transversa, a apresentação fetal pode ser:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Acrômio direita anterior."
+    },
+    {
+     "letra": "B",
+     "texto": "Occipito esquerda anterior."
+    },
+    {
+     "letra": "C",
+     "texto": "Occipito esquerda transversal."
+    },
+    {
+     "letra": "D",
+     "texto": "Sacral direita posterior."
+    },
+    {
+     "letra": "E",
+     "texto": "Occipitopúbica."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000003496",
+   "codigo": "4000003496",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 58,
+   "temas": [
+    "Estática f etal"
+   ],
+   "enunciado": "Adolescente, 14 anos, primigesta com 38 semanas e 3 dias de gestação deu entrada na Maternidade Balbina Mestrinho com queixa de dor há 12 horas com piora há 4 horas. Dinâmica uterina presente, 3 contrações em 10 minutos, movimentos fetais presentes, AU = 35 cm, AF = 146 bpm, rítmico. Bolsa íntegra. Ao toque: colo no, centralizado, pérvio para 8,0 cm, +1 de De Lee, AF = 141 bpm, rítmico. Em relação aos diâmetros fetais no termo, qual o de maior extensão?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Occipitomentoniano."
+    },
+    {
+     "letra": "B",
+     "texto": "Suboccipitobregmático."
+    },
+    {
+     "letra": "C",
+     "texto": "Submentobregmático."
+    },
+    {
+     "letra": "D",
+     "texto": "Occipitofrontal."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000001835",
+   "codigo": "4000001835",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 59,
+   "temas": [
+    "Morf ologia da bacia"
+   ],
+   "enunciado": "Primigesta de 28 anos apresenta-se em trabalho de parto a termo. Pelvimetria clínica é realizada. Ela tem uma pelve ovalada, com o diâmetro ântero-posterior do estreito pélvico maior do que o diâmetro transverso. O feto se encontra em variedade de posição occipito-direita-posterior. Qual é o tipo mais provável de pelve?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ginecoide."
+    },
+    {
+     "letra": "B",
+     "texto": "Androide."
+    },
+    {
+     "letra": "C",
+     "texto": "Antropoide."
+    },
+    {
+     "letra": "D",
+     "texto": "Platipeloide."
+    },
+    {
+     "letra": "E",
+     "texto": "Androgênica."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000124406",
+   "codigo": "4000124406",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 60,
+   "temas": [
+    "Posição",
+    "Situação"
+   ],
+   "enunciado": "Na apresentação cefálica defletida, com mento na posição transversa direita, qual a situação e a posição fetal?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Longitudinal, esquerda."
+    },
+    {
+     "letra": "B",
+     "texto": "Longitudinal, posterior."
+    },
+    {
+     "letra": "C",
+     "texto": "Longitudinal, direita."
+    },
+    {
+     "letra": "D",
+     "texto": "Longitudinal, anterior."
+    },
+    {
+     "letra": "E",
+     "texto": "Transversa, direita."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000118441",
+   "codigo": "4000118441",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 61,
+   "temas": [
+    "Posição",
+    "Situação",
+    "Apresentação"
+   ],
+   "enunciado": "Durante a realização da primeira manobra de Leopold-Zweifel, foi observado polo fetal volumoso, de superfície resistente, móvel. A segunda manobra revelou presença de pequenas partes orientadas para o lado direito materno. Na terceira manobra, foi apreendido um polo menor do que o inicial, liso e consistente. Com esses achados, conclui-se que a situação, a apresentação e a posição fetais são, respectivamente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Frontal, face, inferior."
+    },
+    {
+     "letra": "B",
+     "texto": "Oblíqua, pélvica, direita."
+    },
+    {
+     "letra": "C",
+     "texto": "Sagital, vértice, posterior."
+    },
+    {
+     "letra": "D",
+     "texto": "Transversa, córmica, superior."
+    },
+    {
+     "letra": "E",
+     "texto": "Longitudinal, cefálica, esquerda."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000109746",
+   "codigo": "4000109746",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 62,
+   "temas": [
+    "Palpação obstétrica manobras de LeopoldZweif el",
+    "Avaliação da estática f etal"
+   ],
+   "enunciado": "Durante a palpação obstétrica, você identi ca a escava vazia, polo cefálico à direita e dorso anterior. Pode-se a rmar que o feto está em:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Situação transversa, atitude córmica e sigla usada é AD A."
+    },
+    {
+     "letra": "B",
+     "texto": "Situação transversa, apresentação córmica e a sigla usada é AD A."
+    },
+    {
+     "letra": "C",
+     "texto": "Apresentação transversa, atitude córmica e a sigla usada é AEP."
+    },
+    {
+     "letra": "D",
+     "texto": "Apresentação transversa, situação anterior e a sigla usada é AEA."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000102186",
+   "codigo": "4000102186",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 65,
+   "temas": [
+    "Estática f etal"
+   ],
+   "enunciado": "Durante o trabalho de parto, o mecanismo de exão é o movimento que visa substituir diâmetros maiores por menores, visando a passagem do feto através da bacia materna. Dos listados abaixo, aponte a alternativa que representa o MENOR diâmetro da cabeça fetal:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Occipitomentoniano."
+    },
+    {
+     "letra": "B",
+     "texto": "Occipitofrontal."
+    },
+    {
+     "letra": "C",
+     "texto": "Suboccipitobregmático."
+    },
+    {
+     "letra": "D",
+     "texto": "Suboccipitofrontal."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000100805",
+   "codigo": "4000100805",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 66,
+   "temas": [
+    "Descida",
+    "Variedade de posição"
+   ],
+   "enunciado": "Se, no trabalho de parto, a gestante estiver com feto em OET, em +3 de DeLee, pode-se entender que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O lambda se encontra em relação à sinostose sacroilíaca E da mãe."
+    },
+    {
+     "letra": "B",
+     "texto": "O bregma se encontra em relação ao diâmetro transverso à D da mãe."
+    },
+    {
+     "letra": "C",
+     "texto": "O biparietal se encontra 3 cm abaixo da espinha isquiática."
+    },
+    {
+     "letra": "D",
+     "texto": "O hipomóclio deverá se realizar no diâmetro transverso da bacia."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000091355",
+   "codigo": "4000091355",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 67,
+   "temas": [
+    "Assinclitismo"
+   ],
+   "enunciado": "Que diagnóstico, dentre os abaixo, pode ser estabelecida com base na figura?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Assinclitismo posterior."
+    },
+    {
+     "letra": "B",
+     "texto": "Assinclitismo anterior."
+    },
+    {
+     "letra": "C",
+     "texto": "Variedade de posição frontal direita transversa."
+    },
+    {
+     "letra": "D",
+     "texto": "Variedade de posição occipital direita anterior."
+    },
+    {
+     "letra": "E",
+     "texto": "Variedade de posição occipital direita transversa."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q067-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000091292",
+   "codigo": "4000091292",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 68,
+   "temas": [
+    "Situação",
+    "Variedade de posição"
+   ],
+   "enunciado": "Assinale a alternativa que completa, correta e respectivamente as lacunas da frase. O feto está encaixado em apresentação pélvica, em situação ............ e a variedade de posição é sacroposterior.......... .",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Longitudinal - direita."
+    },
+    {
+     "letra": "B",
+     "texto": "Longitudinal - esquerda."
+    },
+    {
+     "letra": "C",
+     "texto": "Transversa - direita."
+    },
+    {
+     "letra": "D",
+     "texto": "De nádegas - esquerda."
+    },
+    {
+     "letra": "E",
+     "texto": "De nádegas - direita."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q068-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000074816",
+   "codigo": "4000074816",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 69,
+   "temas": [
+    "Def inição dos principais conceitos",
+    "Avaliação da estática f etal"
+   ],
+   "enunciado": "Uma primigesta encontra-se em trabalho de parto, normotensa, com gestação de termo. Ao exame obstétrico, apresenta AU de 34 cm, apresentação cefálica, com foco audível à esquerda com 144 bpm. A dinâmica uterina é de 2 contrações de média intensidade com 40 segundos de duração. Ao toque, o colo encontra-se medianizado, no, pérvio para 2 cm, bolsa íntegra, apresentação cefálica. Frente a essas informações, considerando as condições que têm maior frequência, seria possível avaliar a apresentação, posição e variedade de posição? Sendo possível, como será essa representação?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Não é possível avaliar com 2 cm de dilatação."
+    },
+    {
+     "letra": "B",
+     "texto": "Sim, em OEA."
+    },
+    {
+     "letra": "C",
+     "texto": "Sim, em OEP."
+    },
+    {
+     "letra": "D",
+     "texto": "Sim, em ODA."
+    },
+    {
+     "letra": "E",
+     "texto": "Sim, em ODP."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000058813",
+   "codigo": "4000058813",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 70,
+   "temas": [
+    "Atitude"
+   ],
+   "enunciado": "A relação entre o eixo longitudinal fetal e o da mãe é denominada:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Posição fetal"
+    },
+    {
+     "letra": "B",
+     "texto": "Apresentação fetal"
+    },
+    {
+     "letra": "C",
+     "texto": "Atitude fetal"
+    },
+    {
+     "letra": "D",
+     "texto": "Insinuação fetal"
+    },
+    {
+     "letra": "E",
+     "texto": "Descida fetal"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000054154",
+   "codigo": "4000054154",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 71,
+   "temas": [
+    "Pontos de ref erência da apresentação f etal",
+    "Cef álica"
+   ],
+   "enunciado": "Na apresentação cefálica fletida, ao exame do toque vaginal identifica-se:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Mento e boca."
+    },
+    {
+     "letra": "B",
+     "texto": "Sutura sagital e mento."
+    },
+    {
+     "letra": "C",
+     "texto": "Fontanela lambidoide e occípito."
+    },
+    {
+     "letra": "D",
+     "texto": "Nariz e glabela."
+    },
+    {
+     "letra": "E",
+     "texto": "Sutura sagital e glabela."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000054077",
+   "codigo": "4000054077",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 72,
+   "temas": [
+    "Pontos de ref erência da apresentação f etal",
+    "Cef álica"
+   ],
+   "enunciado": "A linha de orientação e o ponto de referência nas apresentações cefálicas defletidas de 1° grau são, respectivamente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Sutura metópica e fronte."
+    },
+    {
+     "letra": "B",
+     "texto": "Sutura sagitometópica e bregma."
+    },
+    {
+     "letra": "C",
+     "texto": "Sutura sagital e bregma."
+    },
+    {
+     "letra": "D",
+     "texto": "Sutura metópica e bregma."
+    },
+    {
+     "letra": "E",
+     "texto": "Sutura occiptobregma."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000050941",
+   "codigo": "4000050941",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 73,
+   "temas": [
+    "Estreito superior",
+    "Avaliação do estreito superior"
+   ],
+   "enunciado": "O diâmetro traçado do bordo superior da sínfise púbica ao promontório, denomina- se:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Conjugata vera obstétrica."
+    },
+    {
+     "letra": "B",
+     "texto": "Conjugata anatômica."
+    },
+    {
+     "letra": "C",
+     "texto": "Conjugata diagonalis."
+    },
+    {
+     "letra": "D",
+     "texto": "Diâmetro mínimo."
+    },
+    {
+     "letra": "E",
+     "texto": "Todas estão corretas."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046953",
+   "codigo": "4000046953",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 74,
+   "temas": [
+    "Def inição dos principais conceitos"
+   ],
+   "enunciado": "Para descrever e estudar o mecanismo de parto, é necessário conhecer as relações espaciais entre o organismo materno e o produto conceptual, utilizando-se para isso nomenclatura e definições convencionadas. Tal nomenclatura orienta a documentação do parto e a comunicação entre os pro ssionais para que haja, posteriormente, entendimento dos acontecimentos. Quanto às relações útero-fetais abaixo relacionadas, assinale aquela que contém o conceito INCORRETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O conceito de atitude reside na relação das diversas partes fetais entre si."
+    },
+    {
+     "letra": "B",
+     "texto": "A situação consiste na relação entre o maior eixo da cavidade uterina e o maior eixo fetal."
+    },
+    {
+     "letra": "C",
+     "texto": "A apresentação é definida como a região fetal que ocupa a área do estreito inferior e nela se vai insinuar."
+    },
+    {
+     "letra": "D",
+     "texto": "Adota-se a definição de posição fetal, da escola alemã, que a descreve como a relação do dorso fetal com o lado materno."
+    },
+    {
+     "letra": "E",
+     "texto": "A variedade de posição complementa a orientação espacial do concepto ao relacionar um ponto de referência da apresentação fetal com um ponto de referência ósseo da bacia materna, levando-se em consideração as faces anterior, posterior ou lateral da gestante."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000045624",
+   "codigo": "4000045624",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 75,
+   "temas": [
+    "Avaliação da estática f etal"
+   ],
+   "enunciado": "As guras abaixo demonstram a evolução de trabalho de parto de uma gestação com apresentação cefálica no primeiro tempo do mecanismo de parto. Qual é, respectivamente, a situação, a posição, a variedade de posição, o ponto de referência fetal, e quantos graus a cabeça precisa rodar para ocorrer o nascimento?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cefálica, longitudinal, OET, pequena fontanela, 90°."
+    },
+    {
+     "letra": "B",
+     "texto": "Longitudinal, cefálica, ODT, bregma, 45°."
+    },
+    {
+     "letra": "C",
+     "texto": "Pélvica, longitudinal, esquerda, OSD sacro, 90°."
+    },
+    {
+     "letra": "D",
+     "texto": "Transversa, direita, ODA, bregma, 180°."
+    },
+    {
+     "letra": "E",
+     "texto": "Longitudinal, esquerda, OET, pequena fontanela, 90°."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [
+    {
+     "arquivo": "imagens/q075-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000042803",
+   "codigo": "4000042803",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 76,
+   "temas": [
+    "Variedade de posição"
+   ],
+   "enunciado": "Variedade de posição, em obstetrícia, é a",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "relação das diversas partes fetais entre si."
+    },
+    {
+     "letra": "B",
+     "texto": "relação entre a apresentação e o estreito superior da bacia."
+    },
+    {
+     "letra": "C",
+     "texto": "relação entre a apresentação e o estreito inferior da bacia."
+    },
+    {
+     "letra": "D",
+     "texto": "relação entre o ponto de referência fetal e o ponto de referência da pelve materna."
+    },
+    {
+     "letra": "E",
+     "texto": "relação entre o lado materno e o dorso fetal."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000041475",
+   "codigo": "4000041475",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 77,
+   "temas": [
+    "Variedade de posição",
+    "Avaliação da estática f etal"
+   ],
+   "enunciado": "A seguinte imagem corresponde a qual variedade de posição?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "OEA."
+    },
+    {
+     "letra": "B",
+     "texto": "ODA."
+    },
+    {
+     "letra": "C",
+     "texto": "BEA."
+    },
+    {
+     "letra": "D",
+     "texto": "OP."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q077-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000039995",
+   "codigo": "4000039995",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 78,
+   "temas": [
+    "Avaliação da estática f etal"
+   ],
+   "enunciado": "As relações de um feto em Occipto Esquerda Anterior (OEA) assinale (F) falso ou (V) verdadeiro: I. A apresentação é longitudinal.; II. O dorso está à esquerda.; III. A posição é cefálica.; IV. As nádegas estão no fundo do útero.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "F, V, F, V."
+    },
+    {
+     "letra": "B",
+     "texto": "V, F, V, F."
+    },
+    {
+     "letra": "C",
+     "texto": "F, V, F, F."
+    },
+    {
+     "letra": "D",
+     "texto": "F, F, V, V."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000037241",
+   "codigo": "4000037241",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 79,
+   "temas": [
+    "Estática f etal"
+   ],
+   "enunciado": "Para entender o mecanismo de parto, é necessário conhecer as relações espaciais entre o organismo materno e o produto conceptual. Assinale a nomenclatura CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A atitude fetal consiste na relação entre o maior eixo da cavidade uterina e o maior eixo fetal"
+    },
+    {
+     "letra": "B",
+     "texto": "Apresentação é a região fetal que ocupa a área do estreito inferior da bacia materna e só pode ser definida durante o trabalho de parto."
+    },
+    {
+     "letra": "C",
+     "texto": "Posição fetal é a relação do dorso fetal com a bacia materna."
+    },
+    {
+     "letra": "D",
+     "texto": "Variedade de posição relaciona um ponto de referência ósseo da apresentação fetal com um ponto de referência ósseo da bacia materna."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000035026",
+   "codigo": "4000035026",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 80,
+   "temas": [
+    "Estreito superior",
+    "Avaliação do estreito superior"
+   ],
+   "enunciado": "Sobre os diâmetros do estreito superior da bacia, é VERDADEIRO afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O diâmetro1 Corresponde à conjugata obstétrica ou Vera obstétrica."
+    },
+    {
+     "letra": "B",
+     "texto": "O diâmetro 2 corresponde à conjungata anatômica ou Vera anatômica."
+    },
+    {
+     "letra": "C",
+     "texto": "O diâmetro 3 corresponde à conjungata diagonal ou diagonalis."
+    },
+    {
+     "letra": "D",
+     "texto": "O diâmetro 2 corresponde à conjungata diagonal ou diagonalis."
+    },
+    {
+     "letra": "E",
+     "texto": "O diâmetro3 Corresponde à conjugata obstética ou Vera obstétrica."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q080-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000019683",
+   "codigo": "4000019683",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 81,
+   "temas": [
+    "Variedade de posição"
+   ],
+   "enunciado": "Segundo os autores franceses (seguido pelos latinos) a variedade de posição mais frequente no mecanismo do parto é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Direita anterior (ODA)"
+    },
+    {
+     "letra": "B",
+     "texto": "Esquerda posterior (OEP)"
+    },
+    {
+     "letra": "C",
+     "texto": "Esquerda anterior (OEA)"
+    },
+    {
+     "letra": "D",
+     "texto": "Direita posterior (ODP)"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000003110",
+   "codigo": "4000003110",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 82,
+   "temas": [
+    "Avaliação da estática f etal"
+   ],
+   "enunciado": "Parturiente encaminhada para HUPAA em trabalho de parto. Durante exame observou-se dilatação 7 cm, linha de orientação a sutura sagito-metópica e o ponto referência ao toque encontra-se próximo a iminência iliopectínea à direita. Diante desse quadro, é CORRETO afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O feto encontra-se cefálico e fletido."
+    },
+    {
+     "letra": "B",
+     "texto": "O feto encontra-se defletido primeiro grau."
+    },
+    {
+     "letra": "C",
+     "texto": "O feto encontra-se cefálico e defletido terceiro grau."
+    },
+    {
+     "letra": "D",
+     "texto": "O feto encontra-se defletido segundo grau e variedade posição bda."
+    },
+    {
+     "letra": "E",
+     "texto": "A variedade da posição observada foi certamente OD A (Occipito Direita Anterior)."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000125210",
+   "codigo": "4000125210",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 83,
+   "temas": [
+    "Def inição dos principais conceitos"
+   ],
+   "enunciado": "Ao examinar a parturiente, o interno relatou que o maior eixo fetal coincidia com o maior eixo uterino. O dorso fetal era palpado à esquerda do abdome materno e a escava não estava completamente ocupada. Então, definiu, nessa ordem:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Atitude, situação e apresentação do concepto (esta última, cefálica fletida nãoinsinuada)."
+    },
+    {
+     "letra": "B",
+     "texto": "Situação, posição e apresentação do concepto (esta última, pélvica)."
+    },
+    {
+     "letra": "C",
+     "texto": "Situação, variedade de posição e apresentação do concepto (esta última, córmica)."
+    },
+    {
+     "letra": "D",
+     "texto": "Atitude, situação e variedade de posição do concepto (esta última, occipito-esquerda-anterior)."
+    },
+    {
+     "letra": "E",
+     "texto": "Atitude, posição e variedade de posição, pois a apresentação fetal só poderia serreconhecida pelo toque vaginal."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000115734",
+   "codigo": "4000115734",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 84,
+   "temas": [
+    "Pontos de ref erência da apresentação f etal",
+    "Apresentação",
+    "Avaliação da estática f etal"
+   ],
+   "enunciado": "Durante o exame de uma paciente em trabalho de parto, você identi ca o acrômio como ponto de referência. Trata-se de uma apresentação:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cefálica, defletida de 2º grau."
+    },
+    {
+     "letra": "B",
+     "texto": "Cefálica fletida."
+    },
+    {
+     "letra": "C",
+     "texto": "Pélvica."
+    },
+    {
+     "letra": "D",
+     "texto": "Córmica."
+    },
+    {
+     "letra": "E",
+     "texto": "Cefálica, defletida de 3º grau."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000083199",
+   "codigo": "4000083199",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 85,
+   "temas": [
+    "Bacia obstétrica trajeto duro",
+    "Morf ologia da bacia"
+   ],
+   "enunciado": "Com relação à anatomia da pelve feminina, assinale aquela que for verdadeira.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A bacia ou pelve é dividida em pelve maior e pelve menor, separadas pela linha terminal, uma margem óssea encurvada que vai do promontório (articulação da quinta vértebra lombar com a primeira sacral) até a margem superior da sínfise púbica."
+    },
+    {
+     "letra": "B",
+     "texto": "No estudo dos diâmetros da bacia, a pelve é considerada dividida em bacia maior e menor. Do ponto de vista obstétrico para a avaliação da via de parto é necessário apenas o conhecimento das dimensões da bacia maior."
+    },
+    {
+     "letra": "C",
+     "texto": "A pelvigrafia interna avalia o ângulo sub púbico, também denominado arcada púbica ou arco sub púbico. Anatomicamente, representa o ápice do triângulo anterior do estreito inferior."
+    },
+    {
+     "letra": "D",
+     "texto": "Segundo Caldwell e Moloy (1933) há três tipos de bacia, classificados com base na forma do estreito superior: ginecóide, andróide e platipelóide."
+    },
+    {
+     "letra": "E",
+     "texto": "O osso ilíaco é constituído pela fusão de dois ossos (ílio e isquio) em um processo que se completa entre os 5 e 6 anos."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000082843",
+   "codigo": "4000082843",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 86,
+   "temas": [
+    "Situação"
+   ],
+   "enunciado": "Qual a situação fetal na figura?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cefálica."
+    },
+    {
+     "letra": "B",
+     "texto": "Transversa."
+    },
+    {
+     "letra": "C",
+     "texto": "Longitudinal."
+    },
+    {
+     "letra": "D",
+     "texto": "Oblíqua"
+    },
+    {
+     "letra": "E",
+     "texto": "Córmica."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q086-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000080056",
+   "codigo": "4000080056",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 87,
+   "temas": [
+    "Estática f etal"
+   ],
+   "enunciado": "O maior diâmetro da cabeça fetal é o:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Occipitomentoniano"
+    },
+    {
+     "letra": "B",
+     "texto": "Biparietal"
+    },
+    {
+     "letra": "C",
+     "texto": "Occipitofrontal"
+    },
+    {
+     "letra": "D",
+     "texto": "Bitemporal"
+    },
+    {
+     "letra": "E",
+     "texto": "Suboccipitobregmático"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000071418",
+   "codigo": "4000071418",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 88,
+   "temas": [
+    "Def inição dos principais conceitos"
+   ],
+   "enunciado": "Em relação à estática fetal, a afirmação correta é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Atitude fetal, situação logitudinal, apresentação cefálica fletida, posição dorso à direita, variedade de posição occípito-ilíaca direita posterior."
+    },
+    {
+     "letra": "B",
+     "texto": "Atitude fetal, situação transversa, apresentação cefálica córmica, posição dorso inferior, variedade de posição espádua-ilíaca direita anterior."
+    },
+    {
+     "letra": "C",
+     "texto": "Atitude fetal situação transversa, apresentação cefálica fletida, posição dorso à esquerda, variedade de posição occípito-ilíaca esquerda anterior."
+    },
+    {
+     "letra": "D",
+     "texto": "Atitude fetal, situação longitudinal, apresentação cefálica defletida de primeiro grau, posição dorso à direita variedade de poisção occípito-ilíaca esquerda anterior"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000061148",
+   "codigo": "4000061148",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 89,
+   "temas": [
+    "Antropoide"
+   ],
+   "enunciado": "Qual é o tipo de bacia que apresenta maior chance para que a insinuação ocorra em apresentações ântero-posteriores?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Mista."
+    },
+    {
+     "letra": "B",
+     "texto": "Antropoide."
+    },
+    {
+     "letra": "C",
+     "texto": "Ginecoide."
+    },
+    {
+     "letra": "D",
+     "texto": "Androide."
+    },
+    {
+     "letra": "E",
+     "texto": "Platipeloide."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000059827",
+   "codigo": "4000059827",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 90,
+   "temas": [
+    "Avaliação do estreito superior"
+   ],
+   "enunciado": "No exame obstétrico da bacia, qual diâmetro deverá ser examinado pelo tocólogo para avaliação do estreito superior?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Conjugata diagonalis."
+    },
+    {
+     "letra": "B",
+     "texto": "Conjugata anatômica."
+    },
+    {
+     "letra": "C",
+     "texto": "Conjugata vera obstétrica."
+    },
+    {
+     "letra": "D",
+     "texto": "Conjugata exitus."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000045745",
+   "codigo": "4000045745",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 91,
+   "temas": [
+    "Avaliação da estática f etal"
+   ],
+   "enunciado": "Em relação à estática fetal da figura abaixo (VER IMAGEM), qual a situação, posição, apresentação e variedade deposição do feto na figura?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Longitudinal, direita, cefálica e ODA."
+    },
+    {
+     "letra": "B",
+     "texto": "Longitudinal, esquerda, cefálica e OEA."
+    },
+    {
+     "letra": "C",
+     "texto": "Longitudinal, direita, cefálica e OEA."
+    },
+    {
+     "letra": "D",
+     "texto": "Longitudinal, direita, cefálica e ODP."
+    },
+    {
+     "letra": "E",
+     "texto": "Longitudinal, esquerda, cefálica e OEP."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q091-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000045656",
+   "codigo": "4000045656",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 92,
+   "temas": [
+    "Def inição dos principais conceitos"
+   ],
+   "enunciado": "Na estática fetal, analisam-se as relações do produto conceptual com a bacia e o útero maternos. Em relação a esses conhecimentos, marque a INCORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A apresentação pélvica pode ser completa (ou pelvipodálica) ou incompleta (modo de nádegas)."
+    },
+    {
+     "letra": "B",
+     "texto": "Situação é a relação do dorso fetal com o lado materno."
+    },
+    {
+     "letra": "C",
+     "texto": "Variedade de posição é a relação de pontos de referência fetais e maternos. A variedade de posição mais comum é a occipito-esquerda anterior (OEA), onde o lâmbda se relaciona com a eminência ileopectínea esquerda materna."
+    },
+    {
+     "letra": "D",
+     "texto": "A apresentação é a relação do segmento fetal que se relaciona com a bacia materna, que pode ser avaliada pelo exame físico (palpação ou toque vaginal) ou exame ultrassonográfico."
+    },
+    {
+     "letra": "E",
+     "texto": "Para expressar a altura da apresentação, adotamos o critério de De Lee, considerando- se o diâmetro biespinha ciática ou linha interespinhosa como plano zero."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000040048",
+   "codigo": "4000040048",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 93,
+   "temas": [
+    "Antropoide"
+   ],
+   "enunciado": "Que tipo de bacia favorece as variedades de posição OS e OP durante a insinuação no trabalho de parto?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Antropoide"
+    },
+    {
+     "letra": "B",
+     "texto": "Ginecoide"
+    },
+    {
+     "letra": "C",
+     "texto": "Androide"
+    },
+    {
+     "letra": "D",
+     "texto": "Platipeloide"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000026688",
+   "codigo": "4000026688",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 94,
+   "temas": [
+    "Avaliação da estática f etal"
+   ],
+   "enunciado": "Dizer que a apresentação fetal está em \"oea\" significa:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O feto está na 1ª posição e a apresentação é cefálica de vértice."
+    },
+    {
+     "letra": "B",
+     "texto": "O feto está em situação transversal."
+    },
+    {
+     "letra": "C",
+     "texto": "A posição fetal é à direita."
+    },
+    {
+     "letra": "D",
+     "texto": "O feto está na 2ª posição."
+    },
+    {
+     "letra": "E",
+     "texto": "A apresentação fetal é de face."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000022869",
+   "codigo": "4000022869",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 95,
+   "temas": [
+    "Pontos de ref erência da apresentação f etal",
+    "Insinuação"
+   ],
+   "enunciado": "Durante o trabalho de parto, na apresentação cefálica, a variedade de posição mais frequentemente percebida ao toque é a:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Occípito esquerda anterior (OEA)."
+    },
+    {
+     "letra": "B",
+     "texto": "Occípito esquerda posterior (OEP)."
+    },
+    {
+     "letra": "C",
+     "texto": "Occípito direita posterior (ODP)."
+    },
+    {
+     "letra": "D",
+     "texto": "Occípito direita anterior (ODA)."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000005651",
+   "codigo": "4000005651",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 96,
+   "temas": [
+    "Estreito superior",
+    "Bacia obstétrica e pelvimetria"
+   ],
+   "enunciado": "Com relação à pelve feminina, assinale a alternativa incorreta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O estreito superior da pequena bacia é delimitado por uma linha imaginária que vai da borda superior da sínfise púbica ao promontório."
+    },
+    {
+     "letra": "B",
+     "texto": "No estreito superior da pequena bacia, o diâmetro transverso é menor que o ântero- posterior."
+    },
+    {
+     "letra": "C",
+     "texto": "Durante a passagem do feto pelo canal de parto, o segmento mais difícil é o pólo cefálico."
+    },
+    {
+     "letra": "D",
+     "texto": "É constituída de partes ósseas, músculos e aponeuroses."
+    },
+    {
+     "letra": "E",
+     "texto": "Ao examinarmos uma bacia, durante o exame de toque, os pontos que devemos observar são o promontório, as espinhas ilíacas e o ângulo sub-púbico."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000001087",
+   "codigo": "4000001087",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 97,
+   "temas": [
+    "Avaliação da estática f etal"
+   ],
+   "enunciado": "Sobre a imagem apresentada, analise as assertivas: I. A atitude fetal é de flexão. II. A situação fetal é cefálica. III. Em relação à variedade de posição, trata-se de um OEA. IV. Nesta imagem, está formalmente indicada uma cesárea. V. O plano de De Lee é o +4. Indique a alternativa CORRETA. (VER IMAGEM)",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Somente as assertivas I e II estão corretas."
+    },
+    {
+     "letra": "B",
+     "texto": "Somente as assertivas I, II e III estão corretas."
+    },
+    {
+     "letra": "C",
+     "texto": "Somente as assertivas I e III estão corretas."
+    },
+    {
+     "letra": "D",
+     "texto": "Todas as assertivas estão corretas."
+    },
+    {
+     "letra": "E",
+     "texto": "Todas as assertivas estão erradas."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q097-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000125296",
+   "codigo": "4000125296",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 98,
+   "temas": [
+    "Tempos da apresentação cef álica",
+    "Variedade de posição"
+   ],
+   "enunciado": "Na variedade de posição conhecida como O.E.A.:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o ponto de reparo da apresentação fetal é o bregma."
+    },
+    {
+     "letra": "B",
+     "texto": "a sutura sagital do polo cefálico fetal coincide com o segundo oblíquo do estreitosuperior da bacia materna."
+    },
+    {
+     "letra": "C",
+     "texto": "o lado do dorso e o ponto de reparo da apresentação fetal são diametralmente opostos."
+    },
+    {
+     "letra": "D",
+     "texto": "o ponto de reparo da apresentação fetal, após a rotação interna fisiológica, ficará relacionado com a região subpúbica materna."
+    },
+    {
+     "letra": "E",
+     "texto": "o ponto de reparo da apresentação fetal, no movimento de restituição, deslocar-se-ápara o diâmetro contralateral da bacia materna no qual ocorreu a insinuação."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000125292",
+   "codigo": "4000125292",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 99,
+   "temas": [
+    "Def inição dos principais conceitos"
+   ],
+   "enunciado": "Sobre as relações útero-fetais, assinale a alternativa INCORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Uma situação longitudinal pode ocorrer tanto em córmicos quanto em pélvicos."
+    },
+    {
+     "letra": "B",
+     "texto": "Uma apresentação cefálica pode ter uma posição esquerda."
+    },
+    {
+     "letra": "C",
+     "texto": "Uma situação transversa não admite apresentação pélvica."
+    },
+    {
+     "letra": "D",
+     "texto": "Uma apresentação cefálica nunca coexiste com situação transversa."
+    },
+    {
+     "letra": "E",
+     "texto": "Uma variedade de posição OEA só ocorre em cefálicos."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000123196",
+   "codigo": "4000123196",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 100,
+   "temas": [
+    "Rotação interna",
+    "Variedade de posição"
+   ],
+   "enunciado": "Mulher com 37 semanas de gestação, com pré-natal de baixo risco, chegou ao centro obstétrico em trabalho de parto espontâneo, com 8 cm de dilatação, apresentação cefálica no plano +1 de DeLee. (VER IMAGEM) Dentre os modos de desprendimento do polo cefálico propostos, qual o mais provável para esse caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Occipitossacro."
+    },
+    {
+     "letra": "B",
+     "texto": "Occipitoposterior direito."
+    },
+    {
+     "letra": "C",
+     "texto": "Occipitoanterior direito."
+    },
+    {
+     "letra": "D",
+     "texto": "Occipitotransverso esquerdo."
+    },
+    {
+     "letra": "E",
+     "texto": "Occipitotransverso direito."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q100-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000117417",
+   "codigo": "4000117417",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 101,
+   "temas": [
+    "Pontos de ref erência da apresentação f etal",
+    "Avaliação da estática f etal"
+   ],
+   "enunciado": "Na apresentação fetal cefálica fletida, qual número mostra o ponto de referência fetal?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1."
+    },
+    {
+     "letra": "B",
+     "texto": "2."
+    },
+    {
+     "letra": "C",
+     "texto": "3."
+    },
+    {
+     "letra": "D",
+     "texto": "4."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q101-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000116841",
+   "codigo": "4000116841",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 102,
+   "temas": [
+    "Ginecóide",
+    "Morf ologia da bacia"
+   ],
+   "enunciado": "A classificação dos tipos de bacia por meio de estudos radiológicos leva em consideração a importância prática das alterações das bacias no prognóstico do parto. Assinale o tipo de bacia feminina mais comum e que apresenta melhor prognóstico para o parto vaginal.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Androide."
+    },
+    {
+     "letra": "B",
+     "texto": "Ginecoide."
+    },
+    {
+     "letra": "C",
+     "texto": "Antropoide."
+    },
+    {
+     "letra": "D",
+     "texto": "Platipeloide."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000105230",
+   "codigo": "4000105230",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 103,
+   "temas": [
+    "Variedade de posição"
+   ],
+   "enunciado": "Durante a avaliação da estática fetal, constatou-se que a variedade de posição era OEA. Sobre esta nomenclatura, é INCORRETO dizer que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O ponto de referência fetal é a fontanela bregmática."
+    },
+    {
+     "letra": "B",
+     "texto": "É uma cefálica fletida."
+    },
+    {
+     "letra": "C",
+     "texto": "A linha de orientação é a sutura sagital."
+    },
+    {
+     "letra": "D",
+     "texto": "O ponto de referência materno é a iminência iliopectínea."
+    },
+    {
+     "letra": "E",
+     "texto": "A posição é esquerda e a situação é longitudinal."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000095537",
+   "codigo": "4000095537",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 104,
+   "temas": [
+    "Apresentação",
+    "Variedade de posição"
+   ],
+   "enunciado": "Primigesta admitida em trabalho de parto apresenta ao exame de toque vaginal cervicodilatação de 8 cm, bolsa rota, feto em apresentação cefálica, bregma na direção da articulação sacroilíaca direita.Trata-se de uma apresentação cefálica defletida de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "2° grau; bregma esquerda anterior."
+    },
+    {
+     "letra": "B",
+     "texto": "1° grau; occipto esquerda anterior."
+    },
+    {
+     "letra": "C",
+     "texto": "2° grau; bregma; direita posterior."
+    },
+    {
+     "letra": "D",
+     "texto": "1° grau; bregma direita posterior."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000095529",
+   "codigo": "4000095529",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 105,
+   "temas": [
+    "Estreito superior",
+    "Bacia obstétrica trajeto duro"
+   ],
+   "enunciado": "As medidas da conjugata vera anatômica, conjugata vera obstétrica e conjugata diagonalis são respectivamente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "12 cm; 10,5 cm e 11 cm."
+    },
+    {
+     "letra": "B",
+     "texto": "11 cm; 10,5 cm e 12 cm."
+    },
+    {
+     "letra": "C",
+     "texto": "11 cm; 12 cm e 10,5 cm."
+    },
+    {
+     "letra": "D",
+     "texto": "10,5 cm; 11 cm e 12 cm."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000075774",
+   "codigo": "4000075774",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 106,
+   "temas": [
+    "Def inição dos principais conceitos",
+    "Avaliação da estática f etal"
+   ],
+   "enunciado": "Gestante a termo, em trabalho de parto no nal do segundo período. O parâmetro da estática fetal que NÃO se consegue avaliar ao toque é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Atitude."
+    },
+    {
+     "letra": "B",
+     "texto": "Apresentação."
+    },
+    {
+     "letra": "C",
+     "texto": "Variedade de posição."
+    },
+    {
+     "letra": "D",
+     "texto": "Altura da apresentação."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000062446",
+   "codigo": "4000062446",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 107,
+   "temas": [
+    "Estática f etal"
+   ],
+   "enunciado": "Na estática fetal, analisam-se as relações do produto conceptual com a bacia e o útero maternos. Em relação a esses conhecimentos, assinale a alternativa correta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A apresentação pélvica pode ser completa (apresentação de nádegas) ou incompleta (modo de joelhos)."
+    },
+    {
+     "letra": "B",
+     "texto": "Posição é a relação entre os grandes eixos longitudinais fetal e uterino."
+    },
+    {
+     "letra": "C",
+     "texto": "Na posição occipito-esquerda anterior o bregma corresponde com o estreito superior esquerda."
+    },
+    {
+     "letra": "D",
+     "texto": "Apresentação de 1° grau é chamada bregmática, de 2° grau de face e a de 3° grau de fronte."
+    },
+    {
+     "letra": "E",
+     "texto": "O critério de De Lee consideranda o diâmetro biespinha ciática ou linha interespinhosa como plano zero."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000059638",
+   "codigo": "4000059638",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 108,
+   "temas": [
+    "Cef álica"
+   ],
+   "enunciado": "No acompanhamento do trabalho de parto, situação longitudinal, apresentação cefálica de etida de segundo grau ou fronte indicam o ponto de referência, a linha de orientação e o símbolo utilizados, respectivamente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Glabela, linha metópica e N."
+    },
+    {
+     "letra": "B",
+     "texto": "Bregma, linha facial e B."
+    },
+    {
+     "letra": "C",
+     "texto": "Glabela, linha facial e N."
+    },
+    {
+     "letra": "D",
+     "texto": "Mento, sutura sagitometópica e B."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000054999",
+   "codigo": "4000054999",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 109,
+   "temas": [
+    "Cef álica"
+   ],
+   "enunciado": "Na apresentação cefálica etida os maiores diamêtros da cabeça fetal são o biparietal e o suboccipitobregmático que medem:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "8 cm;"
+    },
+    {
+     "letra": "B",
+     "texto": "9,5 cm;"
+    },
+    {
+     "letra": "C",
+     "texto": "11 cm;"
+    },
+    {
+     "letra": "D",
+     "texto": "12 cm;"
+    },
+    {
+     "letra": "E",
+     "texto": "13,5 cm."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000044459",
+   "codigo": "4000044459",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 110,
+   "temas": [
+    "Cef álica"
+   ],
+   "enunciado": "A maior circunferência da cabeça fetal é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Occipital."
+    },
+    {
+     "letra": "B",
+     "texto": "Occipitomentoniana."
+    },
+    {
+     "letra": "C",
+     "texto": "Suboccipitobregmática."
+    },
+    {
+     "letra": "D",
+     "texto": "Suboccipitofrontal."
+    },
+    {
+     "letra": "E",
+     "texto": "Biparietal."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000044449",
+   "codigo": "4000044449",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 111,
+   "temas": [
+    "Bacia obstétrica e pelvimetria"
+   ],
+   "enunciado": "Quanto aos diâmetros da bacia obstétrica, é correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O conjugata vera obstétrico mede 9,5cm e vai do promontório até a face interna do pube."
+    },
+    {
+     "letra": "B",
+     "texto": "O conjugata diagonális não é um recurso clínico para pelvimetria e mede em torno de 12cm."
+    },
+    {
+     "letra": "C",
+     "texto": "O diâmetro coccige-púbico, que mede 10,5 cm, é substituído pelo subsacro- subpúbico, com 13 cm."
+    },
+    {
+     "letra": "D",
+     "texto": "Os diâmetros oblíquos vão da articulação sacroilíaca de um lado até a linha inominada do lado oposto."
+    },
+    {
+     "letra": "E",
+     "texto": "O conjugata exitus mede 10,5 cm."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000040009",
+   "codigo": "4000040009",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 112,
+   "temas": [
+    "Pelvimetria"
+   ],
+   "enunciado": "A conformação da pelve feminina pode facilitar a passagem do concepto durante o trabalho de parto. Considerando-se a pelve, a conjugata que pode ser medida no toque vaginal é a:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Conjugata vera anatômica."
+    },
+    {
+     "letra": "B",
+     "texto": "Conjugata vera obstétrica."
+    },
+    {
+     "letra": "C",
+     "texto": "Conjugata diagonalis."
+    },
+    {
+     "letra": "D",
+     "texto": "Conjugata exitus."
+    },
+    {
+     "letra": "E",
+     "texto": "Conjugata obstrétrica."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000022207",
+   "codigo": "4000022207",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 113,
+   "temas": [
+    "Estreito superior"
+   ],
+   "enunciado": "Assinale a alternativa que identifica precisamente as referências anatômicas dos principais diâmetros da bacia obstétrica:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a conjugata vera anatômica representa referência do estreito inferior da bacia e mede 12cm"
+    },
+    {
+     "letra": "B",
+     "texto": "o diâmetro sagital posterior é referência do estreito médio da bacia"
+    },
+    {
+     "letra": "C",
+     "texto": "o diâmetro bi-isquiático representa o estreito inferior da bacia obstétrica"
+    },
+    {
+     "letra": "D",
+     "texto": "a conjugata vera obstétrica é o diâmetro promontopúbico mínimo do estreito superior da bacia"
+    },
+    {
+     "letra": "E",
+     "texto": "o diâmetro sagital posterior é importante referência do estreito médio da bacia, também chamado conjugata veraanatômica"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000022194",
+   "codigo": "4000022194",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 114,
+   "temas": [
+    "Avaliação do estreito superior"
+   ],
+   "enunciado": "O diâmetro anteroposterior do estreito superior da pelve materna, que representa a menor distância entre o promontório do sacro e a sínfise púbica, é denominado:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "conjugata vera anatômica"
+    },
+    {
+     "letra": "B",
+     "texto": "conjugata vera obstétrica"
+    },
+    {
+     "letra": "C",
+     "texto": "2º plano de Hodge"
+    },
+    {
+     "letra": "D",
+     "texto": "conjugatadiagonalis"
+    },
+    {
+     "letra": "E",
+     "texto": "1º plano de Hodge"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000020752",
+   "codigo": "4000020752",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 115,
+   "temas": [
+    "Avaliação da estática f etal"
+   ],
+   "enunciado": "A figura a seguir representa um feto em situação longitudinal, com apresentação pélvica completa. A variedade de posição é sacroilíaca:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "esquerda posterior."
+    },
+    {
+     "letra": "B",
+     "texto": "direita posterior."
+    },
+    {
+     "letra": "C",
+     "texto": "direita transversa."
+    },
+    {
+     "letra": "D",
+     "texto": "esquerda anterior."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q115-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000020307",
+   "codigo": "4000020307",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 116,
+   "temas": [
+    "Avaliação do estreito superior"
+   ],
+   "enunciado": "A figura a seguir representa o exame físico da pelve óssea de uma gestante em trabalho de parto. Esse exame tem o objetivo de verificar a possibilidade de parto via vaginal. Qual é o diâmetro aferido?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Conjugado verdadeiro anatômico."
+    },
+    {
+     "letra": "B",
+     "texto": "Conjugado verdadeiro obstétrico."
+    },
+    {
+     "letra": "C",
+     "texto": "Conjugado diagonal."
+    },
+    {
+     "letra": "D",
+     "texto": "Interespinhoso."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q116-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000014717",
+   "codigo": "4000014717",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 117,
+   "temas": [
+    "Morf ologia da bacia"
+   ],
+   "enunciado": "Existem 4 tipos de bacia obstétrica que são classificadas de acordo com o formato do estreito superior e leva-se em consideração no prognóstico do parto. Qual destas afirmações é VERDADEIRA em relação a essas bacias obstétricas?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A bacia ginecoide: bacia dos macacos, corresponde a 25% dos casos, tem maiorchance de distócia no estreito superior."
+    },
+    {
+     "letra": "B",
+     "texto": "A bacia androide: bacia masculina, corresponde a 20% dos casos, é o pior tipo debacia, há aumento de incidência de obliquas posteriores e chance crescente de distóciacom a progressão da apresentação."
+    },
+    {
+     "letra": "C",
+     "texto": "A bacia platipeloide: bacia feminina, corresponde a 50% dos casos, tem melhor prognóstico para o parto vaginal."
+    },
+    {
+     "letra": "D",
+     "texto": "A bacia antropoide: bacia achatada, corresponde a 5% dos casos, a insinuação demaneira geral, ocorre na variedade de posição transversa, o prognóstico de parto é bom."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000014690",
+   "codigo": "4000014690",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 118,
+   "temas": [
+    "Estreito superior"
+   ],
+   "enunciado": "Os estreitos, bacia obstétrica, possuem os diâmetros conjugados no seu estreito superior, qual das a rmativas é VERDADEIRA no que se relaciona a estes conjugados?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O conjugado diagonal mede 12 centímetros e vai da borda inferior da sínfise púbica até o promontório."
+    },
+    {
+     "letra": "B",
+     "texto": "O conjugado verdadeiro (obstétrico) mede 12 centímetros e vai do promontório até a borda superior da sínfise púbica."
+    },
+    {
+     "letra": "C",
+     "texto": "O conjugado anatômico mede 10 cm e vai do promontório até a borda inferior da sínfise púbica."
+    },
+    {
+     "letra": "D",
+     "texto": "O conjugado verdadeiro (obstétrico) mede 11 cm e vai do promontório ao meio da borda superior da sínfise púbica."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000012250",
+   "codigo": "4000012250",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 119,
+   "temas": [
+    "Posição"
+   ],
+   "enunciado": "Paciente gestante de 38 semanas, em seguimento pré-natal de rotina na Unidade Básica de Saúde da Família, foi examinada pelo pro ssional pré- natalista que evidenciou os seguintes achados: dorso fetal do lado direito do abdome materno, polo cefálico em contato com o estreito superior da bacia. Ante o exame descrito, qual a posição fetal?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Direita."
+    },
+    {
+     "letra": "B",
+     "texto": "Oblíqua."
+    },
+    {
+     "letra": "C",
+     "texto": "Cefálica."
+    },
+    {
+     "letra": "D",
+     "texto": "Longitudinal."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000000224",
+   "codigo": "4000000224",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 120,
+   "temas": [
+    "Bacia obstétrica e pelvimetria"
+   ],
+   "enunciado": "Com relação à pelve feminina, assinale a alternativa INCORRETA: Respostas: 1 12 23 34 45 56 67 78 89 100 111",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O estreito superior da pequena bacia é delimitado por uma linha imaginária que vai da borda superior da sínfise púbica ao promontório."
+    },
+    {
+     "letra": "B",
+     "texto": "No estreito superior da pequena bacia, o diâmetro transverso é menor que o anteroposterior."
+    },
+    {
+     "letra": "C",
+     "texto": "Durante a passagem do feto pelo canal de parto, o segmento mais difícil é o polo cefálico."
+    },
+    {
+     "letra": "D",
+     "texto": "É constituída de partes ósseas, músculos e aponeuroses."
+    },
+    {
+     "letra": "E",
+     "texto": "Ao examinarmos uma bacia, durante o exame de toque, os pontos que devemos observar são o promontório, as espinhas ilíacas e o ângulo subpúbico."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": [
+  {
+   "id": "4000011587",
+   "codigo": "4000011587",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 16,
+   "temas": [
+    "Pontos de ref erência da apresentação f etal"
+   ],
+   "enunciado": "Paciente, 38 anos, primigesta, 40 semanas gestacionais, é internada em trabalho de parto. IMC: 27, PA: 120X80mmHg, FC: 92 bpm, T: 36,3°C, corada e hidratada. Dinâmica uterina de 3 contrações de 40 segundos em 10 minutos, altura uterina: 38cm, BCF: 140bpm em quadrante inferior direito, apresentação cefálica e bolsa integra. Feito abertura do Partograma que evidenciou a seguinte evolução: Diante do quadro descrito, indique a variedade de posição fetal na última hora avaliada.",
+   "alternativas": [],
+   "gabarito": null,
+   "imagens": [
+    {
+     "arquivo": "imagens/q016-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": [],
+   "motivo_exclusao": "sem alternativas"
+  },
+  {
+   "id": "4000104049",
+   "codigo": "4000104049",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 63,
+   "temas": [
+    "Mecanismo de parto",
+    "Cef álica"
+   ],
+   "enunciado": "Dentre as imagens abaixo, qual apresenta maior dificuldade na progressão no canal de parto?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "ida oib pr ed"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q063-1.jpg",
+     "antes_das_alternativas": true
+    },
+    {
+     "arquivo": "imagens/q063-2.jpg",
+     "antes_das_alternativas": false
+    },
+    {
+     "arquivo": "imagens/q063-3.jpg",
+     "antes_das_alternativas": false
+    },
+    {
+     "arquivo": "imagens/q063-4.jpg",
+     "antes_das_alternativas": false
+    }
+   ],
+   "revisar": [],
+   "motivo_exclusao": "sem alternativas"
+  },
+  {
+   "id": "4000104003",
+   "codigo": "4000104003",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bacia Obstétrica e Pelvimetria e Estática Fetal",
+   "numero": 64,
+   "temas": [
+    "Pelvimetria"
+   ],
+   "enunciado": "Gestante com 35 anos de idade, sem doenças prévias, é admitida no centro obstétrico, com 39 semanas, em trabalho de parto espontâneo. Exame clínico inicial em bom estado geral, altura uterina 37 cm, dinâmica uterina presente, BCF 146 bpm, apresentação cefálica, colo no, medianizado, 7 cm, plano 0 de De Lee, bolsa rota espontaneamente, líquido claro. Qual das manobras abaixo é a indicada neste momento para avaliação da possibilidade de distocia de trajeto?",
+   "alternativas": [],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q064-1.jpg",
+     "antes_das_alternativas": true
+    },
+    {
+     "arquivo": "imagens/q064-2.jpg",
+     "antes_das_alternativas": false
+    },
+    {
+     "arquivo": "imagens/q064-3.jpg",
+     "antes_das_alternativas": false
+    },
+    {
+     "arquivo": "imagens/q064-4.jpg",
+     "antes_das_alternativas": false
+    }
+   ],
+   "revisar": [],
+   "motivo_exclusao": "sem alternativas"
+  }
+ ]
+}

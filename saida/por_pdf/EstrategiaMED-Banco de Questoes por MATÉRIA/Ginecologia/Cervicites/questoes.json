@@ -1,0 +1,1046 @@
+{
+ "questoes": [
+  {
+   "id": "4000128128",
+   "codigo": "4000128128",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cervicites",
+   "numero": 1,
+   "temas": [
+    "Complicações"
+   ],
+   "enunciado": "Mulher, 40 anos de idade, foi atendida na Emergência por apresentar dor pélvica há um dia. Primípara com parto normal há 4 anos. Refere ciclos menstruais regulares, última menstruação há oito dias. Método contraceptivo: coito interrompido. Também refere aparecimento de secreção amarelada por via vaginal, há três dias. O quadro clínico apresentado pela paciente pode evoluir com as seguintes sequelas:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Câncer de endométrio, hidrossalpinge, infertilidade."
+    },
+    {
+     "letra": "B",
+     "texto": "Dor pélvica crônica, infertilidade, obstrução tubária."
+    },
+    {
+     "letra": "C",
+     "texto": "Hidrossalpinge, hiperplasia endometrial, cisto ovariano."
+    },
+    {
+     "letra": "D",
+     "texto": "Obstrução tubária, dismenorreia, insuficiência ovariana precoce."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000127714",
+   "codigo": "4000127714",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cervicites",
+   "numero": 2,
+   "temas": [
+    "Clamídia",
+    "Tratamento",
+    "Risco de inf ecção"
+   ],
+   "enunciado": "Paciente 30 anos de idade, usuária de DIU (Dispositivo Intra-uterino) de cobre, procura ambulatório de planejamento familiar com sinais clínicos sugestivos de infecção por clamídia, assintomática. A conduta correta a ser tomada é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Não remover o DIU e usar antibiótico."
+    },
+    {
+     "letra": "B",
+     "texto": "Retirar o DIU e antibioticoterapia."
+    },
+    {
+     "letra": "C",
+     "texto": "Apenas observar até que se torne sintomática"
+    },
+    {
+     "letra": "D",
+     "texto": "Retirar o DIU e não usar antibiótico"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000125780",
+   "codigo": "4000125780",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cervicites",
+   "numero": 3,
+   "temas": [
+    "Clamídia",
+    "Quadro clínico"
+   ],
+   "enunciado": "Mulher, 20 anos, G0, apresentando sangramento irregular e sinusorragia há 3 meses, vem para avaliação. Antecedentes: menarca aos 11 anos, sexarca aos 15 anos. Tabagista. Pela história clínica, em relação as I.S.T., qual é o agente etiológico que precisaria ser investigado como causador destes sintomas?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Vírus herpes simples."
+    },
+    {
+     "letra": "B",
+     "texto": "Haemophilus ducrey."
+    },
+    {
+     "letra": "C",
+     "texto": "Treponema paliddum."
+    },
+    {
+     "letra": "D",
+     "texto": "Clamídia trachomatys."
+    },
+    {
+     "letra": "E",
+     "texto": "Klebsiella granullomatis."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119569",
+   "codigo": "4000119569",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cervicites",
+   "numero": 4,
+   "temas": [
+    "Etiologia",
+    "Diagnóstico"
+   ],
+   "enunciado": "Paciente de 25 anos de idade, sexualmente ativa, refere corrimento vaginal aumentado e sangramento ao coito há cerca de um mês. Ao exame, observa-se conteúdo vaginal amarelado, sem odor, em grande quantidade. O colo do útero apresenta área de ectopia sangrante 1 cm ao redor do orifício externo. Qual exame subsidiário está indicado e qual o agente etiológico em relação ao resultado?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Exame de secreção vaginal, se diplococos gram negativos intracelulares, o agente é gonococo."
+    },
+    {
+     "letra": "B",
+     "texto": "Colposcopia com biópsia, se coilocitose, o agente é tricomonas."
+    },
+    {
+     "letra": "C",
+     "texto": "Cultura de secreção vaginal, se hifas e esporos, o agente é candida albicans."
+    },
+    {
+     "letra": "D",
+     "texto": "Pcr de secreção endocervical, se cariomegalia, o agente é hpv."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000108177",
+   "codigo": "4000108177",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cervicites",
+   "numero": 5,
+   "temas": [
+    "Diagnóstico",
+    "Quadro clínico"
+   ],
+   "enunciado": "A.M.L., 17 anos, com história de dispareunia e sinusorragia recentes. Contracepção: anticoncepcional hormonal oral. Ao exame físico: abdome ácido, vulva e vagina sem alterações, colo uterino com hiperemia, secreção turva e friável e toque vaginal normal. Qual o provável diagnóstico e a conduta mais adequada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cervicite; colher uma citologia"
+    },
+    {
+     "letra": "B",
+     "texto": "Ectopia; cauterização"
+    },
+    {
+     "letra": "C",
+     "texto": "Cervicite; pesquisa de clamídia e gonococo"
+    },
+    {
+     "letra": "D",
+     "texto": "Câncer de colo; biópsia"
+    },
+    {
+     "letra": "E",
+     "texto": "Cervicite; colposcopia"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000050671",
+   "codigo": "4000050671",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cervicites",
+   "numero": 6,
+   "temas": [
+    "Tratamento",
+    "Diagnóstico",
+    "Quadro clínico"
+   ],
+   "enunciado": "Paciente de 28 anos, G2C2, utiliza pílula anticoncepcional como método contraceptivo (contendo etinilestradiol 30 mcg + drospirenona 3 mg). O último parto foi há 2 anos. Está separada do marido. Não tem companheiro xo. Não usa preservativo. Refere último coito há 30 dias. Vem à consulta ginecológica queixando-se de corrimento claro, pequena quantidade, sem odor fétido. Refere disúria moderada. Exame especular: vulva e vagina sem alterações. Conteúdo vaginal claro, aspecto mucoide. Colo com ectopia e friabilidade com sangramento fácil da mucosa cervical. Toque: colo friável, corpo uterino em anteverso exão, tamanho normal. Anexos e paramétrios sem alterações. Nesse caso, qual a hipótese diagnóstica, o método diagnóstico e a conduta, respectivamente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cancro mole – bacterioscopia corada pelo Gram e identificação de morfotipos de H. ducreyi – ciprofloxacina 500 mg via oral, de 12 em 12 horas, por 3 dias."
+    },
+    {
+     "letra": "B",
+     "texto": "Sífilis – VDRL e teste treponêmico – penicilina benzatina 2,4 milhões UI intramuscular (sendo 1,2 milhões UI em cada glúteo), dose única."
+    },
+    {
+     "letra": "C",
+     "texto": "Neisseria gonorrhoeae – cultura em meio de Thayer-Martin – ceftriaxona 500 mg IM, dose única."
+    },
+    {
+     "letra": "D",
+     "texto": "Chlamydia Trachomatis – captura híbrida para clamídia – doxiciclina 100 mg via oral, de 12 em 12 horas, por 7 dias."
+    },
+    {
+     "letra": "E",
+     "texto": "Micoplasma – cultura para micoplasma – metronidazol 2 gramas via oral, dose única."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000033009",
+   "codigo": "4000033009",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cervicites",
+   "numero": 7,
+   "temas": [
+    "Clamídia"
+   ],
+   "enunciado": "Em geral, o sangramento após a relação sexual, ocorre nas mulheres com idade entre 20 e 40 anos e mais frequentemente em multíparas. Dentre as causas envolvidas na etiologia, a cervicite pode ser citada e está frequentemente associada às infecções por:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Papiloma vírus humano HPV NIC I"
+    },
+    {
+     "letra": "B",
+     "texto": "Neisseria gonorrhoeae"
+    },
+    {
+     "letra": "C",
+     "texto": "Herpes vírus"
+    },
+    {
+     "letra": "D",
+     "texto": "Clamydia trachomatis"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000006864",
+   "codigo": "4000006864",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cervicites",
+   "numero": 8,
+   "temas": [
+    "Gonococo"
+   ],
+   "enunciado": "Paciente foi ao ginecologista com queixa de corrimento vaginal e sangramento pós coito. Ao exame especular, presença de secreção mucopurulenta saindo do colo uterino. O Gram da secreção cervical revelou diplococos Gram negativos com leucócitos polimofonucleares. Foi solicitada a cultura da secreção. Baseado nos achados acima, qual agente etiológico espera-se encontrar?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Mycoplasma hominis"
+    },
+    {
+     "letra": "B",
+     "texto": "Chamydia Trachomatis"
+    },
+    {
+     "letra": "C",
+     "texto": "Haemophilus Ducreyi"
+    },
+    {
+     "letra": "D",
+     "texto": "Neisseria gonorrhoeae"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000117491",
+   "codigo": "4000117491",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cervicites",
+   "numero": 9,
+   "temas": [
+    "Conjuntivite por Clamídia em Adulto",
+    "Clamídia",
+    "Bactérias atípicas"
+   ],
+   "enunciado": "Chlamydia trachomatis, uma bactéria intracelular obrigatória, está relacionada a várias infecções sendo improvável que seja o agente etiológico de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "linfogranuloma venéreo."
+    },
+    {
+     "letra": "B",
+     "texto": "doença inflamatória pélvica."
+    },
+    {
+     "letra": "C",
+     "texto": "uretrite não-gonocócica."
+    },
+    {
+     "letra": "D",
+     "texto": "ceratoconjuntivite."
+    },
+    {
+     "letra": "E",
+     "texto": "artrite séptica."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000108015",
+   "codigo": "4000108015",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cervicites",
+   "numero": 10,
+   "temas": [
+    "Gonococo"
+   ],
+   "enunciado": "Se uma gestante que refere alergia à penicilina necessita tratamento para infecção por gonococo, a droga de escolha é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Doxiciclina."
+    },
+    {
+     "letra": "B",
+     "texto": "Clloranfenicol."
+    },
+    {
+     "letra": "C",
+     "texto": "Metronidazol."
+    },
+    {
+     "letra": "D",
+     "texto": "Espectinomicina."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000074202",
+   "codigo": "4000074202",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cervicites",
+   "numero": 11,
+   "temas": [
+    "Tratamento",
+    "Quadro clínico"
+   ],
+   "enunciado": "ACL, 30 anos, comparece ao PSGO com queixa de dor em baixo ventre há 1 semana com piora. Nega atraso menstrual. MAC: anticoncepcional hormonal oral. Ao exame físico, corada, apirética e DB negativo. Ao especular: pequeno corrimento cervical. Toque doloroso sem outras alterações. Tem hemograma, urina e ultrasson normais. Hipótese e conduta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cervicite e antiobioticoterapia em casa."
+    },
+    {
+     "letra": "B",
+     "texto": "DIP e internação."
+    },
+    {
+     "letra": "C",
+     "texto": "DIP e antibioticoterapia em casa."
+    },
+    {
+     "letra": "D",
+     "texto": "Cervicite e internação."
+    },
+    {
+     "letra": "E",
+     "texto": "Prenhez ectópica e exame sob anestesia."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000067995",
+   "codigo": "4000067995",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cervicites",
+   "numero": 12,
+   "temas": [
+    "Cervicites"
+   ],
+   "enunciado": "Qual patógeno do trato genital inferior apresenta predileção por epitélio cilíndrico?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Trichomonas vaginalis."
+    },
+    {
+     "letra": "B",
+     "texto": "Gardnerella vaginalis."
+    },
+    {
+     "letra": "C",
+     "texto": "Clamydia trachomatis."
+    },
+    {
+     "letra": "D",
+     "texto": "Candida albicans."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000063817",
+   "codigo": "4000063817",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cervicites",
+   "numero": 13,
+   "temas": [
+    "Uretrites",
+    "Tratamento"
+   ],
+   "enunciado": "Paciente de 19 anos, vida sexual ativa, queixa-se de disúria e urgência miccional há aproximadamente uma semana. Ao exame especular observa-se cervicite mucopurulenta. No exame laboratorial: EAS: leucócitos: 115.000/mm3 e urinocultura negativa. Dentre as alternativas abaixo, a conduta mais apropriada seria:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Coletar colpocitologia"
+    },
+    {
+     "letra": "B",
+     "texto": "Ciprofloxacino por 3 dias"
+    },
+    {
+     "letra": "C",
+     "texto": "Azitromicina em dose única"
+    },
+    {
+     "letra": "D",
+     "texto": "Orientar hiper-hidratação oral"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000040309",
+   "codigo": "4000040309",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cervicites",
+   "numero": 14,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "A.R.T. 20 anos de idade, sexo feminino, vem consultar na UBS com queixas de corrimento vaginal, sangramento intermenstrual, dispareunia e disúria. Nega outros sintomas e comorbidades. Refere menarca aos 14 anos de idade, início da atividade sexual aos 15 anos e que há 1 mês está com um novo parceiro sexual e não tem o habito de usar preservativo, pois usa Anticoncepcional combinado oral. Ao exame especular: visualização de material mucopurulento no orifício externo do colo e sangramento ao toque da espátula ou swab. Após a avaliação clínica o Médico de Família e Comunidade concluiu se tratar de uma infecção por Neisseria gonorrhoeae, porém como não conseguiu descartar a infecção por Chlamydia trachomatis, preconizou tratar com o esquema recomendado pelo Ministério da Saúde para casos não complicados de infecção por estes agentes. Assinale a alternativa correta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ceftriaxona 250 mg intramuscular em dose única + Doxiciclina 150 mg via oral de 12/12 h por 14 dias + Metronidazol 500mg via oral de 12/12 h por 14 dias."
+    },
+    {
+     "letra": "B",
+     "texto": "Ceftriaxona 500 mg intramuscular em dose única, Doxiciclina 100 mg via oral de 12/12 h por 14 dias + Azitromicina 1 g via oral em dose única."
+    },
+    {
+     "letra": "C",
+     "texto": "Ceftriaxona 250 mg intramuscular em dose única (ou Ciprofloxacina 500 mg via oral em dose única) associado à Azitromicina 1 g via oral em dose única."
+    },
+    {
+     "letra": "D",
+     "texto": "Ceftriaxona 125 mg intramuscular em dose única + Azitromicina 1 g via oral em dose única + Doxiciclina 100 mg 12/12 h por 7 dias."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000031582",
+   "codigo": "4000031582",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cervicites",
+   "numero": 15,
+   "temas": [
+    "Clamídia",
+    "Gonococo"
+   ],
+   "enunciado": "Cervicite consiste na in amação da mucosa endocervical, sendo necessário um diagnóstico e tratamento precoces. Em relação às cervicites agudas, é CORRETO afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A forma assintomática é pouco frequente."
+    },
+    {
+     "letra": "B",
+     "texto": "A cauterização é o tratamento de escolha."
+    },
+    {
+     "letra": "C",
+     "texto": "A cervicite aguda não é fator de risco para infertilidade."
+    },
+    {
+     "letra": "D",
+     "texto": "A clamídia e o gonococo são os principais agentes etiológicos."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000025397",
+   "codigo": "4000025397",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cervicites",
+   "numero": 16,
+   "temas": [
+    "Clamídia",
+    "Tratamento",
+    "Gonococo"
+   ],
+   "enunciado": "Gestante de 15 semanas, em primeiro atendimento de consulta pré-natal, apresenta ao exame ginecológico colo friável, sangrante e muco purulento. Nessa situação, a hipótese diagnóstica e o tratamento adequado são, respectivamente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "ectocervicite por gardnerella vaginalis; metronidazol."
+    },
+    {
+     "letra": "B",
+     "texto": "ectocervicite por trichomonas; metronidazol."
+    },
+    {
+     "letra": "C",
+     "texto": "endocervicite por gonoccocus e clamídia; ciprofloxacina + azitromicina."
+    },
+    {
+     "letra": "D",
+     "texto": "endocervicite por gonoccocus e clamídia; ceftriaxona + azitromicina."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000002606",
+   "codigo": "4000002606",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cervicites",
+   "numero": 17,
+   "temas": [
+    "Gonococo"
+   ],
+   "enunciado": "Paciente de 18 anos, múltiplos parceiros sexuais, com queixa de corrimento vaginal amarelado há 2 meses. Iniciou há 7 dias quadro de poliartrite e tenossinovite. O patógeno mais provavelmente envolvido é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Neisseria gonorrhoeae."
+    },
+    {
+     "letra": "B",
+     "texto": "E. coli."
+    },
+    {
+     "letra": "C",
+     "texto": "Chlamydia trachomatis."
+    },
+    {
+     "letra": "D",
+     "texto": "Haemophilus ducreyi."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000103701",
+   "codigo": "4000103701",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cervicites",
+   "numero": 18,
+   "temas": [
+    "Tratamento",
+    "Etiologia",
+    "Diagnóstico"
+   ],
+   "enunciado": "Mulher de 19 anos de idade queixa-se de leucorreia e dor à penetração vaginal profunda há 10 dias. É nuligesta, tem ciclos menstruais regulares e faz uso eventual de preservativos. Não tem antecedentes mórbidos relevantes. O exame especular está mostrado a seguir. Considerando a principal hipótese diagnóstica, qual é o tratamento por via oral em dose única para o caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Secnidal 1 g."
+    },
+    {
+     "letra": "B",
+     "texto": "Ampicilina 1 g."
+    },
+    {
+     "letra": "C",
+     "texto": "Metronidazol 1 g."
+    },
+    {
+     "letra": "D",
+     "texto": "Azitromicina 1 g."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q018-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000037085",
+   "codigo": "4000037085",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cervicites",
+   "numero": 19,
+   "temas": [
+    "Colo uterino",
+    "Colposcopia",
+    "Herpes genital"
+   ],
+   "enunciado": "Em relação às afecções do colo uterino, assinale a alternativa INCORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O ectrópio se manifesta, frequentemente, por aumento da quantidade de muco cervical."
+    },
+    {
+     "letra": "B",
+     "texto": "A infecção por Clamídia Trachomatis, na maioria dos casos, acompanha-se de muco turvo e ulcerações cervicais."
+    },
+    {
+     "letra": "C",
+     "texto": "Eritema e edema cervical com erosões, por vezes confluentes e corrimento abundante, caracterizam a infecção pelo herpes simples."
+    },
+    {
+     "letra": "D",
+     "texto": "Orifícios glandulares espessados podem ser uma forma de manifestação colposcópica do papilomavírus."
+    },
+    {
+     "letra": "E",
+     "texto": "A infecção por gonococos comumente provoca secreção purulenta amarelo- esverdeada."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000034497",
+   "codigo": "4000034497",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cervicites",
+   "numero": 20,
+   "temas": [
+    "Bactérias gramnegativas",
+    "Gonococo"
+   ],
+   "enunciado": "A Gonorréia é diagnosticada laboratorialmente pelo achado de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Diplococo Gram negativo extracelular"
+    },
+    {
+     "letra": "B",
+     "texto": "Diplococo Gram positivo intracelular"
+    },
+    {
+     "letra": "C",
+     "texto": "Diplococo Gram negativo intracelular"
+    },
+    {
+     "letra": "D",
+     "texto": "Diplococo Gram positivo extracelular"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000029644",
+   "codigo": "4000029644",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cervicites",
+   "numero": 21,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Paciente com 23 anos de idade apresenta uma queixa de corrimento vaginal e dispareunia, referindo ter trocado recentemente de parceiro sexual e ser usuária de DIU de cobre. Ao exame, observa-se saída de secreção mucopurulenta pelo orifício externo do colo uterino e colo friável ao toque. Foi colhido material, e pela microscopia, observa- se presença de diplococos Gram-negativos. Qual das alternativas tem a MELHOR opção de tratamento para essa paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ceftriaxona, IM, dose única e doxiciclina via oral, 14 dias."
+    },
+    {
+     "letra": "B",
+     "texto": "Ofloxacino 400 mg, VO, dose única e metronidazol creme vaginal."
+    },
+    {
+     "letra": "C",
+     "texto": "Metronidazol 2 g, VO, dose única, associado à nistatina vaginal."
+    },
+    {
+     "letra": "D",
+     "texto": "Tetraciclina 500 mg, VO, 4 vezes ao dia por 7 dias e ofloxacino 400 mg, dose única."
+    },
+    {
+     "letra": "E",
+     "texto": "Penicilina benzatina 2.400.000 UI/semana, durante 3 semanas."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000103585",
+   "codigo": "4000103585",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cervicites",
+   "numero": 22,
+   "temas": [
+    "Outras cervicites",
+    "Quadro clínico"
+   ],
+   "enunciado": "Mulher de 25 anos, nuligesta em uso de contraceptivo oral combinado. Refere que há 7 dias começou quadro de mialgia inespecí ca, cefaleia e febre não medida, controlada com paracetamol. Há 4 dias dor pélvica e corrimento vaginal mucossanguinolento intenso. Ao exame clínico apresenta-se em regular estado geral; FC 80 bpm; FR 80 ipm; PA 120/70 mmHg; temperatura axilar 37,2°C. Ausculta pulmonar e cardíaca normais, presença de linfonodos inguinais palpáveis, móveis, fibroelásticos e dolorosos. Órgãos genitais externos sem alterações. Exame especular A principal hipótese diagnóstica é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Behçet."
+    },
+    {
+     "letra": "B",
+     "texto": "Tricomoníase."
+    },
+    {
+     "letra": "C",
+     "texto": "Clamídia."
+    },
+    {
+     "letra": "D",
+     "texto": "Herpes simples."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q022-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000084084",
+   "codigo": "4000084084",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cervicites",
+   "numero": 23,
+   "temas": [
+    "Diagnóstico"
+   ],
+   "enunciado": "A Chlamydia trachomatis e a Neisseria gonorrhoeae são importantes agentes causadores de cervicite e doença inflamatória pélvica. Sobre o diagnóstico destes patógenos, de acordo com as evidências atuais, é INCORRETO afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Deve-se solicitar exames diagnósticos para Chlamydia apenas para as paciente com múltiplos parceiros, as que pensam terem sido expostas a DST e as com colo friável e muco turvo."
+    },
+    {
+     "letra": "B",
+     "texto": "O método de captura híbrida (para Chlamydia ou Neisseria) é altamente sensível para o diagnóstico destes patógenos, não requer organismos vivos ou intactos."
+    },
+    {
+     "letra": "C",
+     "texto": "A sorologia para Chlamydia não deve ser realizada de rotina, está indicada somente para algumas situações peculiares."
+    },
+    {
+     "letra": "D",
+     "texto": "A Neisseria é um patógeno de epitélio glandular. O material para cultura deve ser coletado de epitélios glandulares; endocervical, uretra, anal."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000061309",
+   "codigo": "4000061309",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cervicites",
+   "numero": 24,
+   "temas": [
+    "Etiologia"
+   ],
+   "enunciado": "Dentre os agentes abaixo, são considerados causadores das cervicites supurativas o (a):",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Gardnerella vaginalis e a Trichomonas vaginalis."
+    },
+    {
+     "letra": "B",
+     "texto": "Neisseria gonorrhoeae e a Chlamydia trachomatis."
+    },
+    {
+     "letra": "C",
+     "texto": "Treponema pallidum e o Haemophilus ducreyi."
+    },
+    {
+     "letra": "D",
+     "texto": "Trichomonas vaginalis e o Haemophilus ducreyi."
+    },
+    {
+     "letra": "E",
+     "texto": "Gardnerella vaginalis e a Neisseria gonorrhoeae."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000069462",
+   "codigo": "4000069462",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cervicites",
+   "numero": 25,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Paciente de 25 anos de idade, atendida no pronto-atendimento de ginecologia, apresenta quadro clínico e laboratorial compatível com Chlamidia trachomatis. Assinale a opção terapêutica que NÃO deve ser utilizada nesse caso.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ciprofloxacino"
+    },
+    {
+     "letra": "B",
+     "texto": "Ofloxacino."
+    },
+    {
+     "letra": "C",
+     "texto": "Levofloxacino."
+    },
+    {
+     "letra": "D",
+     "texto": "Azitromicina."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000038368",
+   "codigo": "4000038368",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cervicites",
+   "numero": 26,
+   "temas": [
+    "Gonococo"
+   ],
+   "enunciado": "O principal reservatório do gonococo na mulher é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "glândulas de Bartholin."
+    },
+    {
+     "letra": "B",
+     "texto": "vagina."
+    },
+    {
+     "letra": "C",
+     "texto": "ectocervice."
+    },
+    {
+     "letra": "D",
+     "texto": "canal cervical."
+    },
+    {
+     "letra": "E",
+     "texto": "endométrio."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000012618",
+   "codigo": "4000012618",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cervicites",
+   "numero": 27,
+   "temas": [
+    "Gonococo"
+   ],
+   "enunciado": "Paciente, 20 anos, vida sexual ativa e em uso de contraceptivo hormonal, refere corrimento vaginal, amarelado associado à disúria. Ao exame especular, observa-se corrimento endocervical purulento, colo friável e hiperemiado, e o exame do muco cervical revelou a presença de diplococos Gram-negativos intracelulares. O agente etiológico provável é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Chlamydia trachomatis."
+    },
+    {
+     "letra": "B",
+     "texto": "Neisseria gonorrhoeae."
+    },
+    {
+     "letra": "C",
+     "texto": "Trichomonas vaginalis."
+    },
+    {
+     "letra": "D",
+     "texto": "Gardnerella vaginalis."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000087011",
+   "codigo": "4000087011",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cervicites",
+   "numero": 28,
+   "temas": [
+    "Gonococo"
+   ],
+   "enunciado": "Assinale a alternativa INCORRETA sobre a gonococcia.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "É uma doença de transmissão não exclusivamente sexual."
+    },
+    {
+     "letra": "B",
+     "texto": "Facilita a transmissão do HIV."
+    },
+    {
+     "letra": "C",
+     "texto": "Na mulher, é assintomática em 60 a 80% dos casos."
+    },
+    {
+     "letra": "D",
+     "texto": "O diagnóstico laboratorial requer a realização de cultura, tanto no homem como na mulher."
+    },
+    {
+     "letra": "E",
+     "texto": "Ceftriaxone 250 mg intramuscular, em dose única, pode ser uma alternativa de tratamento."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000041213",
+   "codigo": "4000041213",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cervicites",
+   "numero": 29,
+   "temas": [
+    "Clamídia",
+    "Gonococo"
+   ],
+   "enunciado": "Corrimento purulento cervical e uretral, acompanhado de disúria, mulher com vida sexual ativa, leva a pensar em infecção de etiologia:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Estafilocócica/sifilítica."
+    },
+    {
+     "letra": "B",
+     "texto": "Tuberculosa/clamídica."
+    },
+    {
+     "letra": "C",
+     "texto": "Gonocócica/clamídica."
+    },
+    {
+     "letra": "D",
+     "texto": "Estreptocócica/anaeróbica."
+    },
+    {
+     "letra": "E",
+     "texto": "HPV/sifilítica."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000074054",
+   "codigo": "4000074054",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cervicites",
+   "numero": 30,
+   "temas": [
+    "Características gerais"
+   ],
+   "enunciado": "Quanto à infecção gonocócica é correto afirmar: Respostas: 1 12 23",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "é transmitida pela via sexual e seu período de incubação varia entre 15 e 30 dias."
+    },
+    {
+     "letra": "B",
+     "texto": "em pacientes do sexo feminino, cervicite e inflamação das glândulas de Bartholin são raras."
+    },
+    {
+     "letra": "C",
+     "texto": "artrite e tenosinovite são complicações comuns nas formas disseminadas da doença, geralmente com comprometimento poliarticular."
+    },
+    {
+     "letra": "D",
+     "texto": "frequentemente é observada coinfecção por Chlamydia trachomatis, sendo recomendada associação de doxiciclina ou azitromicina ao tratamento antimicrobiano."
+    },
+    {
+     "letra": "E",
+     "texto": "artrite reumatoide não faz parte do diagnóstico diferencial de artrite gonocócica."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": []
+}

@@ -1,0 +1,793 @@
+{
+ "questoes": [
+  {
+   "id": "4000080483",
+   "codigo": "4000080483",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anatomia do Trato Genital Feminino",
+   "numero": 1,
+   "temas": [
+    "Orgãos genitais f emininos"
+   ],
+   "enunciado": "Ligamentos que conectam os ovários aos vasos pélvicos:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "útero-sacros."
+    },
+    {
+     "letra": "B",
+     "texto": "paramétrios."
+    },
+    {
+     "letra": "C",
+     "texto": "infundíbulo-pélvicos."
+    },
+    {
+     "letra": "D",
+     "texto": "redondos."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000042662",
+   "codigo": "4000042662",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anatomia do Trato Genital Feminino",
+   "numero": 2,
+   "temas": [
+    "Vascularização pélvica"
+   ],
+   "enunciado": "Não é ramo da artéria ilíaca interna:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "artéria ovariana"
+    },
+    {
+     "letra": "B",
+     "texto": "artéria uterina"
+    },
+    {
+     "letra": "C",
+     "texto": "artéria vesical superior"
+    },
+    {
+     "letra": "D",
+     "texto": "artéria retal média"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000013772",
+   "codigo": "4000013772",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anatomia do Trato Genital Feminino",
+   "numero": 3,
+   "temas": [
+    "Orgãos genitais f emininos"
+   ],
+   "enunciado": "Sobre a anatomia pélvica feminina, é CORRETO afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O útero é irrigado exclusivamente pelas artérias uterinas esquerda e direita sem grande influência de vasos colaterais vaginais e ovarianos."
+    },
+    {
+     "letra": "B",
+     "texto": "Os ovários são estruturas peritonizadas e fixas à parede pélvica pelos ligamentos ovarianos."
+    },
+    {
+     "letra": "C",
+     "texto": "Os ligamentos redondos são os principais responsáveis pela estabilização do útero na pelve."
+    },
+    {
+     "letra": "D",
+     "texto": "Os ureteres são estruturas retroperitoniais e se inserem na bexiga bilateralmente no trígono vesical."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000001508",
+   "codigo": "4000001508",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anatomia do Trato Genital Feminino",
+   "numero": 4,
+   "temas": [
+    "Vascularização pélvica"
+   ],
+   "enunciado": "Na anatomia vascular uterina, partindo da artéria uterina, a sequência correta é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "artéria arqueada > artéria radial > artéria espiralada."
+    },
+    {
+     "letra": "B",
+     "texto": "artéria radial > artéria espiralada > artéria arqueada."
+    },
+    {
+     "letra": "C",
+     "texto": "artéria espiralada > artéria radial > artéria arqueada."
+    },
+    {
+     "letra": "D",
+     "texto": "artéria radial > artéria arqueada > artéria espiralada."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000101411",
+   "codigo": "4000101411",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anatomia do Trato Genital Feminino",
+   "numero": 5,
+   "temas": [
+    "Anatomia do trato genital f eminino"
+   ],
+   "enunciado": "É correto afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A veia ovariana direita drena para a veia cava inferior, e a veia ovariana esquerda drena para a veia renal esquerda."
+    },
+    {
+     "letra": "B",
+     "texto": "Ambas as veias ovarianas drenam para a veia cava inferior."
+    },
+    {
+     "letra": "C",
+     "texto": "Ambas as artérias ovarianas são ramos da ilíaca comum."
+    },
+    {
+     "letra": "D",
+     "texto": "A artéria ovariana direita é ramo da aorta, e a artéria ovariana esquerda é ramo da artéria renal esquerda."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000070664",
+   "codigo": "4000070664",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anatomia do Trato Genital Feminino",
+   "numero": 6,
+   "temas": [
+    "Vascularização pélvica"
+   ],
+   "enunciado": "A irrigação dos órgãos pélvicos é feita através de várias artérias, entre elas a hipogástrica. Essa artéria, também conhecida como artéria ilíaca interna, possui ramos parietais e viscerais. Dois dos ramos parietais da divisão posterior dessa artéria são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Obturatória e umbilical."
+    },
+    {
+     "letra": "B",
+     "texto": "Iliolombar e glútea superior."
+    },
+    {
+     "letra": "C",
+     "texto": "Sacral lateral e pudenda interna."
+    },
+    {
+     "letra": "D",
+     "texto": "Pudenda interna e glútea inferior."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000048169",
+   "codigo": "4000048169",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anatomia do Trato Genital Feminino",
+   "numero": 7,
+   "temas": [
+    "Anatomia da parede abdominal"
+   ],
+   "enunciado": "Com relação à anatomia da pelve feminina, todas as assertivas a seguir estão corretas, exceto:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a fáscia de Camper e a fáscia de Scarpa são constituintes do tecido subcutâneo"
+    },
+    {
+     "letra": "B",
+     "texto": "a fáscia do teto abdominal é formada pela aponeurose do músculo piramidal e pela porção interna do transverso do abdome"
+    },
+    {
+     "letra": "C",
+     "texto": "o ligamento ileopectíneo (ligamento de Cooper) é a área mais densa do periósteo púbico"
+    },
+    {
+     "letra": "D",
+     "texto": "o assoalho da pelve é formado pelo diafragma da pelve, que é constituído pelos músculos levantador do ânus e coccígeo"
+    },
+    {
+     "letra": "E",
+     "texto": "o limite do períneo é a sínfise púbica, anterolateralmente os ramos isquiopúblicos e a tuberosidade do ísquio, posteriormente o ligamento sacrotuberoso e o cóccix posteriormente"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000031701",
+   "codigo": "4000031701",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anatomia do Trato Genital Feminino",
+   "numero": 8,
+   "temas": [
+    "Vascularização pélvica"
+   ],
+   "enunciado": "Em relação à anatomia da pelve feminina, são características únicas de sua vascularização, EXCETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Os vasos pélvicos desempenham pouco papel na sustentação pélvica."
+    },
+    {
+     "letra": "B",
+     "texto": "Há variação anatômica significativa entre indivíduos no padrão de ramificação dos vasos ilíacos internos."
+    },
+    {
+     "letra": "C",
+     "texto": "A vascularização pélvica é um sistema de grande volume, alto fluxo e com capacidade expansiva enorme ao longo da vida reprodutiva."
+    },
+    {
+     "letra": "D",
+     "texto": "A vascularização pélvica é suprida com uma rede extensa de conexões colaterais que fornecem comunicação anastomótica rica entre os diferentes sistemas vasculares principais."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000028168",
+   "codigo": "4000028168",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anatomia do Trato Genital Feminino",
+   "numero": 9,
+   "temas": [
+    "Vascularização pélvica"
+   ],
+   "enunciado": "Quando se descreve a vascularização da pelve feminina, descarta-se a seguinte afirmação:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o suprimento sanguíneo uterino vem do ramo ascendente da artéria uterina e do ramo medial da artéria ovariana"
+    },
+    {
+     "letra": "B",
+     "texto": "a artéria uterina pode originar-se da ilíaca interna como ramo independente ou ter origem comum com as artérias pudenda e vaginal"
+    },
+    {
+     "letra": "C",
+     "texto": "cada artéria uterina dá origem a numerosos ramos que penetram na parede uterina e se dividem em grupos de artérias arqueadas anteriores e posteriores"
+    },
+    {
+     "letra": "D",
+     "texto": "a artéria uterina, após passar por baixo do ureter, divide-se em ramo maior, ascendente, e menor, descendente"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000016135",
+   "codigo": "4000016135",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anatomia do Trato Genital Feminino",
+   "numero": 10,
+   "temas": [
+    "Orgãos genitais f emininos"
+   ],
+   "enunciado": "Em relação à anatomia da genitália interna, é INCORRETO afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O complexo ligamentar úterossacro/cardinal suspende o útero e a parte superior da vagina em sua orientação normal e tem a função de manter o comprimento e o eixo vaginal quase horizontal em uma mulher em ortostatismo para que ele possa ser suportado pela placa levantadora."
+    },
+    {
+     "letra": "B",
+     "texto": "O espaço retovaginal inicia-se caudalmente na margem superior do corpo perineal, se estende superiormente entre a vagina posterior e o reto através do cul-de-sac posterior, sendo este a sua borda mais cefálica e seus limites laterais, os pilares retais e o feixe cardinal inferior à esquerda e a fáscia do músculo psoas à direita."
+    },
+    {
+     "letra": "C",
+     "texto": "Os ligamentos redondos são extensões da musculatura uterina, se inserem no fundo uterino anterior e inferior às trompas de falópio, percorrem retroperitonealmente as camadas do ligamento largo, entram no canal inguinal e terminam nos grandes lábios e o seu homólogo masculino é o gubernaculum testis."
+    },
+    {
+     "letra": "D",
+     "texto": "As artérias uterinas se originam da divisão anterior das artérias ilíacas internas no retroperitônio e podem compartilhar uma origem comum com a artéria umbilical obliterada, pudenda interna ou artéria vaginal."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000003570",
+   "codigo": "4000003570",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anatomia do Trato Genital Feminino",
+   "numero": 11,
+   "temas": [
+    "Vascularização pélvica"
+   ],
+   "enunciado": "A artéria uterina se origina mais frequentemente de qual artéria:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Pudenda interna"
+    },
+    {
+     "letra": "B",
+     "texto": "Ilíaca externa"
+    },
+    {
+     "letra": "C",
+     "texto": "Obturatória"
+    },
+    {
+     "letra": "D",
+     "texto": "Ilíaca interna"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000080158",
+   "codigo": "4000080158",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anatomia do Trato Genital Feminino",
+   "numero": 12,
+   "temas": [
+    "Vascularização pélvica"
+   ],
+   "enunciado": "Em relação à irrigação dos órgãos pélvicos, podemos a rmar que a artéria uterina e artéria ovariana são ramos, respectivamente, da:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Aorta abdominal e ilíaca comum"
+    },
+    {
+     "letra": "B",
+     "texto": "Ilíaca externa e renal"
+    },
+    {
+     "letra": "C",
+     "texto": "Ilíaca comum e pudenda interna"
+    },
+    {
+     "letra": "D",
+     "texto": "Ilíaca interna e aorta abdominal"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046838",
+   "codigo": "4000046838",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anatomia do Trato Genital Feminino",
+   "numero": 13,
+   "temas": [
+    "Vascularização pélvica"
+   ],
+   "enunciado": "A irrigação ovariana provém da artéria ovariana, que é ramo direto da:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Artéria ilíaca interna"
+    },
+    {
+     "letra": "B",
+     "texto": "Artéria ilíaca externa"
+    },
+    {
+     "letra": "C",
+     "texto": "Artéria aorta"
+    },
+    {
+     "letra": "D",
+     "texto": "Artéria umbilical"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000037097",
+   "codigo": "4000037097",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anatomia do Trato Genital Feminino",
+   "numero": 14,
+   "temas": [
+    "Orgãos genitais f emininos"
+   ],
+   "enunciado": "O segmento da tuba uterina que fica adjacente ao ovário na referência anatômica é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O infundíbulo."
+    },
+    {
+     "letra": "B",
+     "texto": "As fímbrias."
+    },
+    {
+     "letra": "C",
+     "texto": "A ampola."
+    },
+    {
+     "letra": "D",
+     "texto": "O segmento intersticial."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000002987",
+   "codigo": "4000002987",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anatomia do Trato Genital Feminino",
+   "numero": 15,
+   "temas": [
+    "Vascularização pélvica"
+   ],
+   "enunciado": "As veias ovarianas direita e esquerda drenam, respectivamente, para:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Veia renal direita e veia cava inferior."
+    },
+    {
+     "letra": "B",
+     "texto": "Veia cava inferior e veia renal esquerda."
+    },
+    {
+     "letra": "C",
+     "texto": "Ambas para a veia cava inferior."
+    },
+    {
+     "letra": "D",
+     "texto": "Veia renal direita e veia renal esquerda."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000079753",
+   "codigo": "4000079753",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anatomia do Trato Genital Feminino",
+   "numero": 16,
+   "temas": [
+    "Orgãos genitais f emininos"
+   ],
+   "enunciado": "Estende-se da parede pélvica até o bordo aderente do ovário, é acompanhado pelos vasos ováricos que entram na pelve menor junto da bifurcação da artéria ilíaca comum. Essa descrição corresponde ao:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ligamento infundíbulo pélvico."
+    },
+    {
+     "letra": "B",
+     "texto": "Ligamento tubo-ovárico."
+    },
+    {
+     "letra": "C",
+     "texto": "Ligamento útero-ovárico."
+    },
+    {
+     "letra": "D",
+     "texto": "Ligamento largo."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000059286",
+   "codigo": "4000059286",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anatomia do Trato Genital Feminino",
+   "numero": 17,
+   "temas": [
+    "Vascularização pélvica"
+   ],
+   "enunciado": "Durante uma cirurgia de Histerectomia Total Abdominal, uma temível complicação é a hemorragia do sítio cirúrgico. Nesse momento, é prudente lembrar que a artéria uterina é ramo da:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "aorta abdominal."
+    },
+    {
+     "letra": "B",
+     "texto": "ilíaca interna."
+    },
+    {
+     "letra": "C",
+     "texto": "ilíaca externa."
+    },
+    {
+     "letra": "D",
+     "texto": "ovariana."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000044754",
+   "codigo": "4000044754",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anatomia do Trato Genital Feminino",
+   "numero": 18,
+   "temas": [
+    "Vascularização pélvica"
+   ],
+   "enunciado": "A anatomia interna do aparelho genital feminino é bastante irrigada, correspondendo a uma rede vascular, com inúmeras anastomoses, para garantir uma correta irrigação e drenagem. Sobre a rede vascular do aparelho genital feminino, assinale a alternativa CORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A artéria ovariana direita é ramo da artéria renal."
+    },
+    {
+     "letra": "B",
+     "texto": "A veia ovariana direita drena para a veia cava inferior."
+    },
+    {
+     "letra": "C",
+     "texto": "A artéria ovariana esquerda é ramo da artéria mesentérica."
+    },
+    {
+     "letra": "D",
+     "texto": "A veia ovariana esquerda drena para a veia esplênica."
+    },
+    {
+     "letra": "E",
+     "texto": "As artérias ováricas são ramos das ilíacas correspondentes"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000037021",
+   "codigo": "4000037021",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anatomia do Trato Genital Feminino",
+   "numero": 19,
+   "temas": [
+    "Anatomia do trato genital f eminino"
+   ],
+   "enunciado": "Em cirurgias pélvicas, a lesão traumática de nervos originados a partir do plexo lombar é uma possível complicação que gera alterações sensitivo-motoras na coxa. Qual dentre os nervos abaixo não é originado no plexo lombar?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Nervo femoral."
+    },
+    {
+     "letra": "B",
+     "texto": "Nervo cutâneo lateral femoral."
+    },
+    {
+     "letra": "C",
+     "texto": "Nervo obturador."
+    },
+    {
+     "letra": "D",
+     "texto": "Nervo pudendo."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000117458",
+   "codigo": "4000117458",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anatomia do Trato Genital Feminino",
+   "numero": 20,
+   "temas": [
+    "Anatomia da parede abdominal"
+   ],
+   "enunciado": "Na incisão de Pfannenstiel, como as camadas da parede abdominal são abertas?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Pele e subcutâneo no sentido transverso, aponeurose e músculo no sentido longitudinal, peritônio no sentido transverso."
+    },
+    {
+     "letra": "B",
+     "texto": "Pele e subcutâneo no sentido transverso, aponeurose, músculo e peritônio no sentido longitudinal."
+    },
+    {
+     "letra": "C",
+     "texto": "Pele, subcutâneo e aponeurose no sentido transverso; músculo e peritônio no sentido longitudinal."
+    },
+    {
+     "letra": "D",
+     "texto": "Pele, subcutâneo, aponeurose e músculo no sentido transverso, peritônio no sentido longitudinal."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000073449",
+   "codigo": "4000073449",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anatomia do Trato Genital Feminino",
+   "numero": 21,
+   "temas": [
+    "Vascularização pélvica"
+   ],
+   "enunciado": "A artéria hipogástrica é a mais importante via de irrigação arterial da pelve. Dela derivam todos os ramos vasculares pélvicos, tanto os parietais quanto os viscerais, com exceção de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Artérias ovarianas."
+    },
+    {
+     "letra": "B",
+     "texto": "Artérias pudendas internas."
+    },
+    {
+     "letra": "C",
+     "texto": "Artérias vesicais."
+    },
+    {
+     "letra": "D",
+     "texto": "Vasos hemorroidários."
+    },
+    {
+     "letra": "E",
+     "texto": "Artéria umbílico-vesical obliterada."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000054562",
+   "codigo": "4000054562",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anatomia do Trato Genital Feminino",
+   "numero": 22,
+   "temas": [
+    "Orgãos genitais f emininos"
+   ],
+   "enunciado": "Sobre a anatomia do sistema genital feminino, marque a alternativa correta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A irrigação dos ovários é feita pelas artérias ovarianas que são originárias (na maior parte das vezes) da aorta abdominal. A drenagem dos ovários é feita pelas veias ovarianas e ambas geralmente desembocam nas respectivas veias renais."
+    },
+    {
+     "letra": "B",
+     "texto": "A parede anterior da bexiga está em contato direto com o colo uterino e vagina."
+    },
+    {
+     "letra": "C",
+     "texto": "Ligamento de Mackenrodt, que também é conhecido como ligamento cardinal, é uma das estruturas que sustentam o útero."
+    },
+    {
+     "letra": "D",
+     "texto": "O endométrio é formado por epitélio colunar e estroma especializado e é responsável pelo revestimento externo do útero."
+    },
+    {
+     "letra": "E",
+     "texto": "O útero e os ovários são órgãos retroperitoniais."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000116828",
+   "codigo": "4000116828",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anatomia do Trato Genital Feminino",
+   "numero": 23,
+   "temas": [
+    "Anatomia do trato genital f eminino"
+   ],
+   "enunciado": "Analise as afirmativas em relação à anatomia. I - O córtex ovariano corresponde à camada externa que contém o epitélio germinal que origina os folículos. II - Os ovários são estruturas retroperitoneais, na maioria dos casos, sólidas, de cor branca rósea, que apresentam superfície lisa até a puberdade. III - A região da medula ovariana é constituída por estroma de tecido conjuntivo frouxo com presença de bras elásticas, musculares lisas e vasos espiralados, por exemplo. Estão corretas as afirmativas:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I, II e III."
+    },
+    {
+     "letra": "B",
+     "texto": "I e II, apenas."
+    },
+    {
+     "letra": "C",
+     "texto": "I e III, apenas."
+    },
+    {
+     "letra": "D",
+     "texto": "II e III, apenas."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000059029",
+   "codigo": "4000059029",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anatomia do Trato Genital Feminino",
+   "numero": 24,
+   "temas": [
+    "Anatomia do trato genital f eminino"
+   ],
+   "enunciado": "A artéria e a veia ovariana estão contidas no ligamento: Respostas: 1 12 23",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Útero-ovárico."
+    },
+    {
+     "letra": "B",
+     "texto": "Redondo."
+    },
+    {
+     "letra": "C",
+     "texto": "Cardinal."
+    },
+    {
+     "letra": "D",
+     "texto": "Largo."
+    },
+    {
+     "letra": "E",
+     "texto": "Infundibulopélvico."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": []
+}

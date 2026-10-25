@@ -1,0 +1,3805 @@
+{
+ "questoes": [
+  {
+   "id": "4000193633",
+   "codigo": "4000193633",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 1,
+   "temas": [
+    "Tumor Estromal Gastrointestinal GIST"
+   ],
+   "enunciado": "Em relação às linfadenectomias, é correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "No câncer gástrico, recomenda-se, na maior parte do mundo, a realização de linfadenectomias a D3, por maiores evidências de aumento de sobrevida global sem maiores morbidades pósoperatórias."
+    },
+    {
+     "letra": "B",
+     "texto": "Nos tumores malignos de reto, deve-se proceder à linfadenectomia correspondente aos linfonodos da arcada dos vasos mesentéricos inferiores desde sua origem, bem como à linfadenectomia pélvica bilateralmente para todos os casos."
+    },
+    {
+     "letra": "C",
+     "texto": "A excisão total do mesorreto corresponde à linfadenectomia prevista para os tumores malignos do sigmoide e cólon esquerdo."
+    },
+    {
+     "letra": "D",
+     "texto": "Nas neoplasias de mama, deve-se proceder às linfadenectomias axilares ipsilaterais, independentemente do resultado da análise do linfonodo sentinela."
+    },
+    {
+     "letra": "E",
+     "texto": "Nos tumores estromais gastrointestinais (GIST) do estômago, por exemplo, não há necessidade de linfadenectomia de rotina."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000190504",
+   "codigo": "4000190504",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 2,
+   "temas": [
+    "Tratamento do Adenocarcinoma Gástrico"
+   ],
+   "enunciado": "Paciente de 55 anos, masculino, admitido no PS com quadro de hematêmese, enterorragia e melena. Após estabilização do quadro clínico foi submetido a endoscopia digestiva alta e colonoscopia, evidenciando lesão gástrica ulcerada, sem sangramento ativo no momento do exame, que se localizava na “incisura angulares” se estendendo pela pequena curvatura até o corpo gástrico proximal. Realizada biópsia que evidenciou neoplasia gástrica por adenocarcinoma com células em anel de sinete. Qual a melhor conduta para procedimento cirúrgico:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Gastrectomia total com anastomose esôfago-jejunal término-terminal."
+    },
+    {
+     "letra": "B",
+     "texto": "Gastrectomia Billrott I com anastomose término terminal."
+    },
+    {
+     "letra": "C",
+     "texto": "Gastrectomia Billrott II com epiplectomia e anastomose pré-colica, “oralis-totalis”."
+    },
+    {
+     "letra": "D",
+     "texto": "Gastrectomia total com esofagectomia e anastomose esôfago-ileal término terminal."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000190365",
+   "codigo": "4000190365",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 3,
+   "temas": [
+    "Tratamento do Adenocarcinoma Gástrico"
+   ],
+   "enunciado": "Na realização de uma gastrectomia oncológica a D2, os linfonodos do grupamento número 10 correspondem a:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "tronco celíaco."
+    },
+    {
+     "letra": "B",
+     "texto": "esplâncnicos."
+    },
+    {
+     "letra": "C",
+     "texto": "artéria esplênica."
+    },
+    {
+     "letra": "D",
+     "texto": "pancreáticos."
+    },
+    {
+     "letra": "E",
+     "texto": "hepáticos."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000189072",
+   "codigo": "4000189072",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 4,
+   "temas": [
+    "Principais Lesões Benignas"
+   ],
+   "enunciado": "Qual a neoplasia benigna comum do esôfago?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Lipoma."
+    },
+    {
+     "letra": "B",
+     "texto": "Neurofibroma."
+    },
+    {
+     "letra": "C",
+     "texto": "Papiloma."
+    },
+    {
+     "letra": "D",
+     "texto": "Leiomioma."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000188802",
+   "codigo": "4000188802",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 5,
+   "temas": [
+    "Neoplasias Malignas do Estômago",
+    "Tratamento do Adenocarcinoma Gástrico"
+   ],
+   "enunciado": "O câncer gástrico precoce pode ser definido como aquela lesão que invade até no máximo a submucosa da parede do estômago (T1b) sem considerar a presença ou ausência de metástase linfonodal. Com relação para a melhor elegibilidade para ressecção endoscópica das lesões de cânceres gástricos precoces, marque, dentre as alternativas abaixo, a mais correta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Paciente com lesões polipóides de no máximo 2,0 cm de tamanho, não ulceradas, invadindo no máximo até a mucosa gástrica, com linfonodomegalias perigástricas descartadas por ecoendoscopia."
+    },
+    {
+     "letra": "B",
+     "texto": "Paciente com lesões planas de no máximo 1,0cm de tamanho, não ulceradas, invadindo no máximo até a submucosa gástrica, com linfonodomegalias perigástricas descartadas por ecoendoscopia."
+    },
+    {
+     "letra": "C",
+     "texto": "Paciente com lesões de no máximo 3,0cm de tamanho, não ulceradas, invadindo no máximo até a mucosa gástrica, com linfonodomegalias perigástricas descartada por ecoendoscopia."
+    },
+    {
+     "letra": "D",
+     "texto": "Paciente com lesões ulceradas de no máximo 1,0cm de tamanho, invadindo no máximo até a mucosa gástrica, bem diferenciadas, com linfonodomegalias perigástricas descartada por ecoendoscopia."
+    },
+    {
+     "letra": "E",
+     "texto": "Paciente com lesões polipoides de no máximo 2,0cm de tamanho, não ulceradas, invadindo no máximo até a subserosa gástrica, bem diferenciadas, com linfonodomegalias perigástricas descartadas por ecoendoscopia."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000187872",
+   "codigo": "4000187872",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 6,
+   "temas": [
+    "Neoplasias do Esôf ago"
+   ],
+   "enunciado": "Sobre o câncer de esôfago, é INCORRETO afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Adenocarcinoma e espinocelular são tipos histológicos frequentes."
+    },
+    {
+     "letra": "B",
+     "texto": "A maioria dos adenocarcinomas ocorre na porção proximal do esôfago."
+    },
+    {
+     "letra": "C",
+     "texto": "Tabagismo tem relação de risco com o desenvolvimento de carcinomas espinocelulares de esôfago."
+    },
+    {
+     "letra": "D",
+     "texto": "Rouquidão pode indicar invasão tumoral do nervo laríngeo recorrente."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000187838",
+   "codigo": "4000187838",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 7,
+   "temas": [
+    "Neoplasias Malignas do Esôf ago"
+   ],
+   "enunciado": "Sobre o tratamento do câncer de esôfago, podemos afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ressecção endoscópica é opção para tumores com linfonodos suspeitos."
+    },
+    {
+     "letra": "B",
+     "texto": "Esofagectomia transtorácica e trans-hiatal permitem a mesma extensão de linfadenectomia."
+    },
+    {
+     "letra": "C",
+     "texto": "Neoadjuvância pode ser utilizada em tumores localmente avançados."
+    },
+    {
+     "letra": "D",
+     "texto": "Tumores de 4 cm tem baixo potencial de metástases linfonodais."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000187836",
+   "codigo": "4000187836",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 8,
+   "temas": [
+    "Classif icação Histológica de Lauren"
+   ],
+   "enunciado": "Quantos aos subtipos de câncer gástrico na classificação de Lauren é INCORRETO afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O tipo difuso de Lauren está associado a fatores ambientais enquanto o intestinal está associado a fatores familiares."
+    },
+    {
+     "letra": "B",
+     "texto": "O tipo difuso de Lauren acomete pacientes mais jovens."
+    },
+    {
+     "letra": "C",
+     "texto": "O tipo difuso de Lauren apresenta células em anel de sinete."
+    },
+    {
+     "letra": "D",
+     "texto": "O tipo intestinal apresenta formação de tecido glandular ao histopatológico."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000187807",
+   "codigo": "4000187807",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 9,
+   "temas": [
+    "Leiomiomas"
+   ],
+   "enunciado": "Tumor benigno intramural ou submucoso mais comum do estômago é: (MACHI J, TAKEDA J, KAKEGAWA T. Tumores do Estômago e do Duodeno. In: COELHO J. C. U. Aparelho Digestivo Clínica e Cirurgia. São Paulo: Atheneu, 2005)",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Adenoma"
+    },
+    {
+     "letra": "B",
+     "texto": "Lipoma"
+    },
+    {
+     "letra": "C",
+     "texto": "Fibroma"
+    },
+    {
+     "letra": "D",
+     "texto": "Leiomioma"
+    },
+    {
+     "letra": "E",
+     "texto": "Pâncreas ectópico"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000187717",
+   "codigo": "4000187717",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 10,
+   "temas": [
+    "Linf omas Gástricos"
+   ],
+   "enunciado": "Em relação ao linfoma gástrico tipo MALT é correto afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cirurgia com gastrectomia total é sempre o tratamento de escolha"
+    },
+    {
+     "letra": "B",
+     "texto": "A erradicação do H. pyloripoderá ser o suficiente parao tratamento"
+    },
+    {
+     "letra": "C",
+     "texto": "Quimioterapia não tem papel efetivo no seu tratamento"
+    },
+    {
+     "letra": "D",
+     "texto": "Esta associado a infecção por Epstein-Barr"
+    },
+    {
+     "letra": "E",
+     "texto": "Nenhuma das anteriores"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000187715",
+   "codigo": "4000187715",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 11,
+   "temas": [
+    "Classif icação de Borrmann"
+   ],
+   "enunciado": "Em relação a classificação de Bormann para tumores gástricos, a Linite Plástica corresponde:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tipo I"
+    },
+    {
+     "letra": "B",
+     "texto": "Tipo II"
+    },
+    {
+     "letra": "C",
+     "texto": "Tipo III"
+    },
+    {
+     "letra": "D",
+     "texto": "Tipo IV"
+    },
+    {
+     "letra": "E",
+     "texto": "Tipo V"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000187039",
+   "codigo": "4000187039",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 12,
+   "temas": [
+    "Fatores de Risco",
+    "Tratamento do Adenocarcinoma Gástrico",
+    "Adenocarcinoma Gástrico"
+   ],
+   "enunciado": "Sobre o câncer gástrico, assinale a opção INCORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Síndromes hereditárias de câncer colorretal como a Polipose Adenomatosa Familiar e a síndrome de Lynch são fatores de risco para câncer gástrico."
+    },
+    {
+     "letra": "B",
+     "texto": "Baixo consumo de frutas e verduras, resultando em dieta pobre em fibra, é um fator de risco para câncer gástrico."
+    },
+    {
+     "letra": "C",
+     "texto": "A laparoscopia tem alta taxa de sensibilidade para detectar metástases ocultas e portanto é útil no estadiamento."
+    },
+    {
+     "letra": "D",
+     "texto": "A ressecção endoscópica é possível em casos selecionados: tumores pequenos, limitados à mucosa e com fatores de risco favoráveis."
+    },
+    {
+     "letra": "E",
+     "texto": "Um maior número de linfonodos ressecados têm trazido melhor prognóstico, com isso, a ressecção linfonodal extensa (D3) tem sido indicada."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186849",
+   "codigo": "4000186849",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 13,
+   "temas": [
+    "Estadiamento",
+    "Adenocarcinoma de Esôf ago"
+   ],
+   "enunciado": "Paciente de 71 anos em investigação de disfagia e perda ponderal é submetido a endoscopia digestiva alta que evidencia lesão ulcerada em esôfago distal, distando 3 centímetros da cárdia. O exame histopatológico revela adenocarcinoma infiltrativo. Pela classificação de Siewert, este paciente é classificado em tipo:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "II"
+    },
+    {
+     "letra": "B",
+     "texto": "I"
+    },
+    {
+     "letra": "C",
+     "texto": "III"
+    },
+    {
+     "letra": "D",
+     "texto": "IV"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186234",
+   "codigo": "4000186234",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 14,
+   "temas": [
+    "Diagnóstico",
+    "Apresentação Clínica"
+   ],
+   "enunciado": "Paciente de 45 anos, portador de adenocarcinoma gástrico, foi submetido a uma gastrectomia total. Estadiamento patológico pT3NxM0. Qual tratamento adjuvante é mais adequado?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Reoperar o paciente"
+    },
+    {
+     "letra": "B",
+     "texto": "Tratamento paliativo"
+    },
+    {
+     "letra": "C",
+     "texto": "Quimioterapia exclusiva"
+    },
+    {
+     "letra": "D",
+     "texto": "Quimioterapia e radioterapia"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000185335",
+   "codigo": "4000185335",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 15,
+   "temas": [
+    "Adenocarcinoma Gástrico",
+    "Apresentação Clínica"
+   ],
+   "enunciado": "Homem, 65 anos de idade, é levado ao Ambulatório de Cirurgia Geral com história de dor em epigástrio, de moderada intensidade, com piora à alimentação há dois meses. O paciente refere, também, hiporexia, alguns episódios de náuseas e vômitos e perda de peso (não mensurada) neste mesmo período. Relata tabagismo 30 cigarros/dia e etilismo social há 30 anos. Ao exame físico, regular estado geral, descorado +2/+4, ictérico +1/+4, FC: 72bpm, PA: 110x74mmHg; ausculta cardíaca e respiratória sem alterações; abdome um pouco distendido; ruídos hidroaéreos presentes, ácido; dor à palpação profunda de epigástrio, sem sinais de irritação peritoneal; palpado nódulo em região umbilical, medindo cerca de 1,0cm. Os exames laboratoriais iniciais apresentaram Hb: 10g/dL, Ht: 32%, Leucócitos totais: 9500células/mm³, Ureia: 35mg/dL, Creatinina: 1,0mg/dL, Na: 142mEq/L, K:4,0mEq/L, Bilirrubinas totais 3,5mg/dL (direta: 2,5mg/dL e indireta: 1,0mg/dL). Diante do caso clínico e dos exames complementares, indique a principal suspeita diagnóstica que justifique o quadro clínico do paciente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hepatite crônica alcoólica."
+    },
+    {
+     "letra": "B",
+     "texto": "Pancreatite crônica alcoólica."
+    },
+    {
+     "letra": "C",
+     "texto": "Linfoma não-Hodgkin."
+    },
+    {
+     "letra": "D",
+     "texto": "Câncer gástrico."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000185334",
+   "codigo": "4000185334",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 16,
+   "temas": [
+    "Diagnóstico"
+   ],
+   "enunciado": "Homem, 65 anos de idade, é levado ao Ambulatório de Cirurgia Geral com história de dor em epigástrio, de moderada intensidade, com piora à alimentação há dois meses. O paciente refere, também, hiporexia, alguns episódios de náuseas e vômitos e perda de peso (não mensurada) neste mesmo período. Relata tabagismo 30 cigarros/dia e etilismo social há 30 anos. Ao exame físico, regular estado geral, descorado +2/+4, ictérico +1/+4, FC: 72bpm, PA: 110x74mmHg; ausculta cardíaca e respiratória sem alterações; abdome um pouco distendido; ruídos hidroaéreos presentes, ácido; dor à palpação profunda de epigástrio, sem sinais de irritação peritoneal; palpado nódulo em região umbilical, medindo cerca de 1,0cm. Os exames laboratoriais iniciais apresentaram Hb: 10g/dL, Ht: 32%, Leucócitos totais: 9500células/mm³, Ureia: 35mg/dL, Creatinina: 1,0mg/dL, Na: 142mEq/L, K:4,0mEq/L, Bilirrubinas totais 3,5mg/dL (direta: 2,5mg/dL e indireta: 1,0mg/dL). Com base no quadro, indique o exame complementar mais adequado para a confirmação do diagnóstico:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Punção por agulha grossa do fígado guiada por ultrassonografia."
+    },
+    {
+     "letra": "B",
+     "texto": "Tomografia computadorizada do abdome."
+    },
+    {
+     "letra": "C",
+     "texto": "Endoscopia digestiva alta."
+    },
+    {
+     "letra": "D",
+     "texto": "Videolaparoscopia diagnóstica."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000185333",
+   "codigo": "4000185333",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 17,
+   "temas": [
+    "Apresentação Clínica"
+   ],
+   "enunciado": "Homem, 65 anos de idade, é levado ao Ambulatório de Cirurgia Geral com história de dor em epigástrio, de moderada intensidade, com piora à alimentação há dois meses. O paciente refere, também, hiporexia, alguns episódios de náuseas e vômitos e perda de peso (não mensurada) neste mesmo período. Relata tabagismo 30 cigarros/dia e etilismo social há 30 anos. Ao exame físico, regular estado geral, descorado +2/+4, ictérico +1/+4, FC: 72bpm, PA: 110x74mmHg; ausculta cardíaca e respiratória sem alterações; abdome um pouco distendido; ruídos hidroaéreos presentes, ácido; dor à palpação profunda de epigástrio, sem sinais de irritação peritoneal; palpado nódulo em região umbilical, medindo cerca de 1,0cm. Os exames laboratoriais iniciais apresentaram Hb: 10g/dL, Ht: 32%, Leucócitos totais: 9500células/mm³, Ureia: 35mg/dL, Creatinina: 1,0mg/dL, Na: 142mEq/L, K:4,0mEq/L, Bilirrubinas totais 3,5mg/dL (direta: 2,5mg/dL e indireta: 1,0mg/dL). Identifique, entre os achados da história clínica e do exame físico do paciente, o fator de pior prognóstico:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Anemia."
+    },
+    {
+     "letra": "B",
+     "texto": "Nódulo palpável em região umbilical."
+    },
+    {
+     "letra": "C",
+     "texto": "Icterícia."
+    },
+    {
+     "letra": "D",
+     "texto": "Perda de peso."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000184668",
+   "codigo": "4000184668",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 18,
+   "temas": [
+    "Tumor Estromal Gastrointestinal GIST"
+   ],
+   "enunciado": "Paciente de 40 anos apresenta diagnóstico de Gastrointestinal Stromal Tumor (GIST), que é um tipo de tumor mesenquimal do trato gastrointestinal. Sobre o GIST, é CORRETO afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O tumor deriva das células de cajal, presentes no plexo mioentérico."
+    },
+    {
+     "letra": "B",
+     "texto": "Possui disseminação linfonodal com metástase mais comumente para o pulmão."
+    },
+    {
+     "letra": "C",
+     "texto": "O diagnóstico desse tumor é histológico baseado na hematoxilina/eosina e que deve ser positivo para expressão da proteína c-KIT."
+    },
+    {
+     "letra": "D",
+     "texto": "Acomete mais comumente o estomago, seguido do cólon e reto."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000184510",
+   "codigo": "4000184510",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 19,
+   "temas": [
+    "Neoplasias Malignas do Esôf ago",
+    "Adenocarcinoma de Esôf ago"
+   ],
+   "enunciado": "As lesões tumorais da transição esofagogástrica são mais comumente",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "tumores epidermoides."
+    },
+    {
+     "letra": "B",
+     "texto": "tumores adenoescamosos."
+    },
+    {
+     "letra": "C",
+     "texto": "tumores adenocísticos."
+    },
+    {
+     "letra": "D",
+     "texto": "adenocarcinomas."
+    },
+    {
+     "letra": "E",
+     "texto": "tumores estromais gastrointestinais (GISTs, na sigla em inglês)."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000184504",
+   "codigo": "4000184504",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 20,
+   "temas": [
+    "Neoplasias Malignas do Esôf ago",
+    "Cirurgia"
+   ],
+   "enunciado": "A técnica de esofagectomia com reconstrução de trânsito com anastomose gastroesofágica intratorácica denomina-se",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ivor Lewis."
+    },
+    {
+     "letra": "B",
+     "texto": "Braun."
+    },
+    {
+     "letra": "C",
+     "texto": "Marischino."
+    },
+    {
+     "letra": "D",
+     "texto": "Billroth."
+    },
+    {
+     "letra": "E",
+     "texto": "Meyers."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000183915",
+   "codigo": "4000183915",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 21,
+   "temas": [
+    "Estadiamento",
+    "Carcinoma de Células Escamosas CEC"
+   ],
+   "enunciado": "Tratamento do Câncer do Esôf ago e da Transição Esof agoGástrica Paciente de 70 anos, tabagista, com passado de etilismo, apresenta disfagia progressiva há 6 meses acompanhada de perda de 15% do peso corporal. Procura o médico na Unidade Básica de saúde, que solicita endoscopia digestiva alta, a qual demonstra lesão vegetante a 25 cm da arcada dentária superior, ocupando 70% da luz esofágica que foi biopsiada. A biópsia apresenta como resultado carcinoma de células escamosas do esôfago. Sabendo que, durante o estadiamento, não houve evidência de comprometimento linfonodal, metástases e nem invasão de órgão adjacentes, (T3N0M0), a conduta mais adequada é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "esofagectomia seguida de tratamento adjuvante."
+    },
+    {
+     "letra": "B",
+     "texto": "esofagectomia radical em três campos."
+    },
+    {
+     "letra": "C",
+     "texto": "quimioterapia + radioterapia exclusiva."
+    },
+    {
+     "letra": "D",
+     "texto": "quimioterapia + radioterapia neoadjuvante."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000183700",
+   "codigo": "4000183700",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 22,
+   "temas": [
+    "Classif icação de Borrmann"
+   ],
+   "enunciado": "A classificação de Borrmann para câncer gástrico IV equivale ao câncer",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "do fundo gástrico."
+    },
+    {
+     "letra": "B",
+     "texto": "ulceroinfiltrativo."
+    },
+    {
+     "letra": "C",
+     "texto": "do antro gástrico."
+    },
+    {
+     "letra": "D",
+     "texto": "protuso."
+    },
+    {
+     "letra": "E",
+     "texto": "infiltrativo difuso."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000183425",
+   "codigo": "4000183425",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 23,
+   "temas": [
+    "Carcinoma de Células Escamosas CEC",
+    "Neoplasias Malignas do Esôf ago",
+    "Adenocarcinoma de Esôf ago"
+   ],
+   "enunciado": "O gráfico abaixo demonstra a tendência de incidência dos principais tipos de tumores esofágicos entre 1975 e 2001. Analise-o com atenção. Sobre ele, assinale a alternativa CORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A linha A corresponde a tumores que acometem mais brancos que negros."
+    },
+    {
+     "letra": "B",
+     "texto": "Os tumores da linha B podem ser classificados como tipo I de Siewert"
+    },
+    {
+     "letra": "C",
+     "texto": "Os tumores da linha C são os de pior prognóstico."
+    },
+    {
+     "letra": "D",
+     "texto": "O HPV é um fator de risco para os tumores da linha B."
+    },
+    {
+     "letra": "E",
+     "texto": "Os tumores da linha A são mais comuns em mulheres."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q023-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000183421",
+   "codigo": "4000183421",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 24,
+   "temas": [
+    "Métodos Complementares"
+   ],
+   "enunciado": "O paciente da questão anterior realizou a TC de abdome abaixo. Nela podemos constatar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "existe uma metástase hepática no caudado."
+    },
+    {
+     "letra": "B",
+     "texto": "a lesão se localiza no fundo gástrico."
+    },
+    {
+     "letra": "C",
+     "texto": "há linfadenomegalia na curvatura menor."
+    },
+    {
+     "letra": "D",
+     "texto": "a lesão invade o lobo esquerdo hepático."
+    },
+    {
+     "letra": "E",
+     "texto": "se identifica ascite."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q024-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000183262",
+   "codigo": "4000183262",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 25,
+   "temas": [
+    "Diagnóstico",
+    "Obstrução",
+    "Apresentação Clínica"
+   ],
+   "enunciado": "Um homem de setenta anos de idade, com antecedentes de hipertensão arterial sistêmica e tabagismo, foi atendido no pronto-socorro devido a vômitos incoercíveis iniciados havia um dia. Encontrava-se em mau estado geral, desidratado, co m frequência cardíaca de 120 bpm e com pressão arterial de 80 mmHg x 60 mmHg. Seu abdome estava ácido e indolor, com distensão do epigastro. Foi passada uma sonda nasogástrica com débito inicial de 1.500 mL. Com base nesse caso hipotético, assinale a alternativa que apresenta o melhor exame para a determinação do diagnóstico etiológico desse paciente, após estabilização inicial.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "endoscopia digestiva alta"
+    },
+    {
+     "letra": "B",
+     "texto": "exame contrastado de esôfago, estômago e duodeno"
+    },
+    {
+     "letra": "C",
+     "texto": "tomografia computadorizada de abdome"
+    },
+    {
+     "letra": "D",
+     "texto": "radiografia simples de abdome"
+    },
+    {
+     "letra": "E",
+     "texto": "ultrassonografia de abdome"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000183067",
+   "codigo": "4000183067",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 26,
+   "temas": [
+    "Manif estações Clínicas",
+    "Apresentação Clínica",
+    "Tratamento"
+   ],
+   "enunciado": "Paciente do sexo feminino, 62 anos, tabagista, hipertensa e diabética, com queixa de sintomas dispépticos há cerca de 6 meses. Em atendimento médico prévio, foi prescrito Omeprazol 40mg diário, o qual fez uso por 4 meses, sem resposta satisfatória da sua sintomatologia, evoluindo com anorexia. Evolui com emagrecimento de cerca de 5kg no período. Nega febre, uso crônico de anti-inflamatórios não hormonais e história familiar de neoplasias do trato gastrointestinal. Você solicita endoscopia digestiva alta e esta evidencia lesão plana, com ulceração rasa e bordas elevadas, de cerca de 2cm, em incisura angularis. Qual das conclusões a seguir sobre o caso descrito é falsa?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Os dados fornecidos não nos permitem diferenciar com segurança diagnósticos como úlcera benigna, neoplasia gástrica precoce ou neoplasia gástrica avançada."
+    },
+    {
+     "letra": "B",
+     "texto": "A observação de anorexia e perda de peso, associada ao fato de ulceração gástrica persistente a despeito do tratamento com inibidor de bomba de prótons pode sugerir etiologia maligna para a lesão descrita."
+    },
+    {
+     "letra": "C",
+     "texto": "A cromoscopia com uso de corantes, a ecoendoscopia e a injeção de solução salina na camada submucosa abaixo da lesão podem fornecer dados referentes a possível ressecabilidade endoscópica da lesão."
+    },
+    {
+     "letra": "D",
+     "texto": "Uma vez que a endoscopia não evidenciou lesão tipo Borrmann IV, a conduta mais segura é o tratamento empírico para Helicobacter pylori, a troca do omeprazol pelo esomeprazol e a repetição da endoscopia após 4 meses."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000182718",
+   "codigo": "4000182718",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 27,
+   "temas": [
+    "Neoplasias Benignas do Estômago",
+    "Pólipos de Glândulas Fúndicas",
+    "Pólipos Adenomatosos"
+   ],
+   "enunciado": "Em relação ao achado de pólipos gástricos em endoscopia digestiva alta realizada para avaliação de queixas dispépticas, é CORRETO afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Os pólipos adenomatosos carregam consigo o risco de transformação maligna, uma vez que se enquadram na sequência adenoma-carcinoma, comportando-se de forma semelhante aos pólipos colônicos."
+    },
+    {
+     "letra": "B",
+     "texto": "Os pólipos de glândulas fúndicas estão relacionados com o uso crônico de bloqueadores de bomba de próton, sendo a manifestação pré-maligna associada ao uso dessas medicações."
+    },
+    {
+     "letra": "C",
+     "texto": "Pólipos hiperplásicos de estômago estão relacionados à infecção pelo"
+    },
+    {
+     "letra": "D",
+     "texto": "A ressecção endoscópica é a terapia padrão para pólipos sésseis maiores de 2cm ou com foco de carcinoma invasivo."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000182599",
+   "codigo": "4000182599",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 28,
+   "temas": [
+    "Classif icação Histológica de Lauren"
+   ],
+   "enunciado": "O sistema de classificação proposto por Lauren em 1965 separa os adenocarcinomas gástricos em tipos intestinal ou difuso com base em sua histologia. É uma característica do tipo",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "disseminação hematogênica."
+    },
+    {
+     "letra": "B",
+     "texto": "células em anel de sinete."
+    },
+    {
+     "letra": "C",
+     "texto": "associação com atrofia gástrica e metaplasia intestinal."
+    },
+    {
+     "letra": "D",
+     "texto": "maior incidência em homens idosos."
+    },
+    {
+     "letra": "E",
+     "texto": "instabilidade de microssatélites (mutações do gene APC)."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000182598",
+   "codigo": "4000182598",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 29,
+   "temas": [
+    "Fatores de Risco",
+    "Epidemiologia"
+   ],
+   "enunciado": "Assinale a alternativa que apresenta um fator de risco para o desenvolvimento do câncer de estômago (adenocarcinoma).",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Baixo consumo de gorduras ou de proteínas."
+    },
+    {
+     "letra": "B",
+     "texto": "Alto nível socioeconômico."
+    },
+    {
+     "letra": "C",
+     "texto": "Presença de pólipos de glândulas fúndicas."
+    },
+    {
+     "letra": "D",
+     "texto": "Baixo consumo definitratos."
+    },
+    {
+     "letra": "E",
+     "texto": "Sexo feminino."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000181873",
+   "codigo": "4000181873",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 30,
+   "temas": [
+    "Tratamento do Adenocarcinoma Gástrico"
+   ],
+   "enunciado": "Para um paciente com adenocarcinoma gástrico de 3cm localizado em antro gástrico, com comprometimento linfonodal de tronco celíaco e sem metástases hepática, a melhor técnica cirúrgica e a reconstrução deverão ser:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Gastrectomia subtotal com linfadenectomia a D2 + Y de Roux."
+    },
+    {
+     "letra": "B",
+     "texto": "Gastrectomia total com linfadenctomia a D1 + Billroth I."
+    },
+    {
+     "letra": "C",
+     "texto": "Gastrectomia parcial com linfadenectomia a D2 + Billroth II."
+    },
+    {
+     "letra": "D",
+     "texto": "Gastrectomia subtotal com linfadenectomia a D2 + Billroth I."
+    },
+    {
+     "letra": "E",
+     "texto": "Gastrectomia total com linfadenectomia a D1 + Y de Roux."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000181829",
+   "codigo": "4000181829",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 31,
+   "temas": [
+    "Linf omas Gástricos"
+   ],
+   "enunciado": "O linfoma do tipo MALT gástrico apresenta-se normalmente como uma doença indolente e multifocal com sintomas inespecíficos do trato digestivo. Qual seria a melhor opção relacionada ao tratamento da patologia em questão?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O único tratamento curativo possível do linfoma MALT é a gastrectomia total associado a quimioterapia."
+    },
+    {
+     "letra": "B",
+     "texto": "Os Sintomas B (febre, calafrios e perda de peso) são de aparecimento precoce e relacionam-se a menor resposta ao tratamento do linfoma MALT."
+    },
+    {
+     "letra": "C",
+     "texto": "A erradicação do H. pylori pode regredir a neoplasia nos estágios iniciais."
+    },
+    {
+     "letra": "D",
+     "texto": "A infecção por H. pylori acomete cerca de 50% dos casos e o tratamento do H. pylori não possui impacto no tratamento do linfoma MALT."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000181751",
+   "codigo": "4000181751",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 32,
+   "temas": [
+    "Fatores de Risco"
+   ],
+   "enunciado": "Senhora de 47 anos de idade, tabagista, obesa e etilista social, é atendida no ambulatório por dispepsia há vários anos. Já fez tratamento para erradicação de mas agora queixa-se de perda ponderal significativa no último mês. O fator de risco a que este tumor está mais comumente relacionado é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "etilismo."
+    },
+    {
+     "letra": "B",
+     "texto": "infecção por"
+    },
+    {
+     "letra": "C",
+     "texto": "obesidade."
+    },
+    {
+     "letra": "D",
+     "texto": "tabagismo."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000181533",
+   "codigo": "4000181533",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 33,
+   "temas": [
+    "Sintomas e Investigação Diagnóstica"
+   ],
+   "enunciado": "Paciente feminina, 51 anos, queixa-se de disfagia para alimentos sólidos, com cerca de 2 meses de evolução. Refere emagrecimento de cerca de 8% do peso corporal neste período. Realizou endoscopia digestiva alta que demonstrou lesão elevada de aspecto vegetante, envolvendo 50% da circunferência, há 25 cm da arcada dentária superior. Foram coletados fragmentos para análise anatomopatológica. Em relação a este caso clínico, analise as assertivas abaixo classificando-as em verdadeiro (V) ou falso (F). A localização da lesão, no terço médio do esôfago, leva a pensar na hipótese de adenocarcinoma de esôfago. O estadiamento desta lesão pode ser realizado com tomogra a computadorizada de tórax e abdome e ultrassom endoscópico. História crônica de tabagismo ou etilismo levam a pensar que esta lesão provavelmente é um adenocarcinoma esofágico. Con rmado o diagnóstico de neoplasia, a ablação por radiofrequência é o tratamento de escolha por possuir menor invasividade. A disfagia ocorre tardiamente na evolução do câncer de esôfago, ocorrendo quando há cerca de 50% da luz acometida.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "V – F – V – V – F."
+    },
+    {
+     "letra": "B",
+     "texto": "F – V – F – V – V."
+    },
+    {
+     "letra": "C",
+     "texto": "V – F – V – V – V."
+    },
+    {
+     "letra": "D",
+     "texto": "V – V – V – F – V."
+    },
+    {
+     "letra": "E",
+     "texto": "F – V – F – F – V."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000181349",
+   "codigo": "4000181349",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 34,
+   "temas": [
+    "Métodos Complementares"
+   ],
+   "enunciado": "No ambulatório de cirurgia oncológica, uma paciente de 54 anos com história de perda de peso recente, traz uma endoscopia com achados de lesão gástrica de 1 cm ulcerada. O exame histopatológico da biópsia endoscópica é compatível com adenocarcinoma moderadamente diferenciado. Qual exame complementar para estadiamento é mais acurado para detectar progressão locorregional da neoplasia?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tomografia por emissão de prótons (PET - CT)."
+    },
+    {
+     "letra": "B",
+     "texto": "Tomografia abdominal com contraste."
+    },
+    {
+     "letra": "C",
+     "texto": "Laparoscopia diagnóstica."
+    },
+    {
+     "letra": "D",
+     "texto": "US endoscópico."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000181335",
+   "codigo": "4000181335",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 35,
+   "temas": [
+    "Adenocarcinoma de Esôf ago"
+   ],
+   "enunciado": "A incidência de adenocarcinoma esofágico vem aumentando nas últimas 4 décadas em vários países, como Estados Unidos. Qual a principal explicação para esse fato?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Aumento da incidência de obesidade."
+    },
+    {
+     "letra": "B",
+     "texto": "Aumento no consumo de cigarro e álcool."
+    },
+    {
+     "letra": "C",
+     "texto": "Aumento da qualidade de notificação dos casos."
+    },
+    {
+     "letra": "D",
+     "texto": "Aumento do consumo de café e bebidas quentes."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000181240",
+   "codigo": "4000181240",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 36,
+   "temas": [
+    "Tumor Estromal Gastrointestinal GIST"
+   ],
+   "enunciado": "Em relação ao GIST gástrico, é correto afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "são tumores oriundos das células de Cajal localizadas na camada mucosa do trato gastrointestinal."
+    },
+    {
+     "letra": "B",
+     "texto": "a obtenção de margens cirúrgicas amplas mostra significativa melhora na taxa de sobrevida global dos pacientes."
+    },
+    {
+     "letra": "C",
+     "texto": "a alteração no gene KIT é rara nos GIST."
+    },
+    {
+     "letra": "D",
+     "texto": "a maioria dos tumores GIST apresentam envolvimento sindrômico, principalmente com a doença de von-Hippel- Lindau."
+    },
+    {
+     "letra": "E",
+     "texto": "no tratamento, a linfadenectomia não se faz obrigatória dada a raridade no envolvimento dos linfonodos."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000181239",
+   "codigo": "4000181239",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 37,
+   "temas": [
+    "Leiomiomas",
+    "Tumor Estromal Gastrointestinal GIST",
+    "Lipomas"
+   ],
+   "enunciado": "Uma mulher de 30 anos realizou endoscopia digestiva alta devido à dor epigástrica há 3 semanas e perda do apetite. Segue o laudo do procedimento: Introdução do gastroscópio sem di culdades pelo músculo cricofaríngeo. Mucosa esofágica sem alterações em todo seu trajeto. gástrica sem resíduos alimentares e pregueado mucoso preservado. Na grande curvatura do corpo gástrico distal, observa-se lesão elevada de 2,5 cm, arredondada, recoberta por mucosa normal (aspecto submucoso), endurecida ao toque e pouco móvel. Biópsias endoscópicas foram realizadas. Mucosa do antro sem alterações. Piloro prévio e centrado. Bulbo duodenal sem deformidades. Mucosa bulbar sem alterações. Segunda porção duodenal de fácil acesso e sem alterações endoscópicas. O exame anatomopatológico realizado nos fragmentos obtidos através das biópsias endoscópicas revelou tratar-se de mucosa com aspecto histológico normal. Diante do laudo apresentado, qual é a conduta adequada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Iniciar inibidor de bomba de próton (IBP) por 60 dias e, se melhora dos sintomas, suspender medicação."
+    },
+    {
+     "letra": "B",
+     "texto": "Repetir biópsia endoscópica."
+    },
+    {
+     "letra": "C",
+     "texto": "Solicitar ecoendoscopia alta com punção da lesão gástrica."
+    },
+    {
+     "letra": "D",
+     "texto": "Solicitar tomografia computadorizada para melhor avaliação de lesão gástrica."
+    },
+    {
+     "letra": "E",
+     "texto": "Gastrectomia total laparoscópica."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000181234",
+   "codigo": "4000181234",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 38,
+   "temas": [
+    "Diagnóstico",
+    "Estadiamento"
+   ],
+   "enunciado": "Um homem de 82 anos, nascido e residente nos Estados Unidos, está no Brasil há 1 ano. Vem ao ambulatório acompanhado pelo lho com história de disfagia progressiva há 6 meses, dor retroesternal e perda de peso acentuada. Refere hipertensão arterial leve, sem outras comorbidades. Traz endoscopia digestiva alta realizada há 1 semana. Segue foto de lesão identificada na junção esofagogástrica (cárdia). Diante da história clínica e do achado endoscópico, qual é a hipótese diagnóstica, a classificação a ser utilizada e a conduta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Papilomatose / Classificação de Kodsi / Ressecção endoscópica."
+    },
+    {
+     "letra": "B",
+     "texto": "Adenocarcinoma / Classificação de Kudo / Ressecção endoscópica."
+    },
+    {
+     "letra": "C",
+     "texto": "Adenocarcinoma / Classificação de Siewert / Estadiamento da doença."
+    },
+    {
+     "letra": "D",
+     "texto": "Carcinoma espinocelular (CEC) / Classificação de Kudo / Estadiamento da doença."
+    },
+    {
+     "letra": "E",
+     "texto": "Carcinoma espinocelular (CEC) / Classificação de Siewert / Ablação com plasma de argônio e gastrostomia endoscópica."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q038-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000192969",
+   "codigo": "4000192969",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 39,
+   "temas": [
+    "Neoplasias Malignas do Estômago"
+   ],
+   "enunciado": "O câncer gástrico difuso hereditário é considerado uma síndrome hereditária autossômica dominante relacionada à mutação do gene",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "K-ras."
+    },
+    {
+     "letra": "B",
+     "texto": "P 53."
+    },
+    {
+     "letra": "C",
+     "texto": "CDH1."
+    },
+    {
+     "letra": "D",
+     "texto": "BRCA3."
+    },
+    {
+     "letra": "E",
+     "texto": "APC."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000191860",
+   "codigo": "4000191860",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 40,
+   "temas": [
+    "Adenocarcinoma de Esôf ago"
+   ],
+   "enunciado": "Homem, 59 anos de idade, evoluiu com disfagia progressiva há 3 meses e perda de 5 kg no período. Foi submetido a endoscopia digestiva alta que evidenciou lesão ulcerada no esôfago distal, ocupando 70% da luz do órgão. A biópsia revelou tratar-se de adenocarcinoma. Qual é o principal fator de risco para este tipo de tumor?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Acalásia avançada."
+    },
+    {
+     "letra": "B",
+     "texto": "Tagabismo."
+    },
+    {
+     "letra": "C",
+     "texto": "Doença do refluxo gastroesofágico."
+    },
+    {
+     "letra": "D",
+     "texto": "Ingestão de bebida quente."
+    },
+    {
+     "letra": "E",
+     "texto": "Infecção por"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000191824",
+   "codigo": "4000191824",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 41,
+   "temas": [
+    "Tumor Estromal Gastrointestinal GIST"
+   ],
+   "enunciado": "Paciente 55 anos de idade, apresentava queixas inespecí cas de dor epigástrica de longa data e procurou uma USF onde foi encaminhado para realizar um exame endoscópico Foi visualizado, em antro gástrico, lesão subepitelial de 2,5 cm. Como seguimento do caso foi encaminhado para Ecoendoscopia que veri cou lesão de 2,5 cm, situada na camada muscular própria do estômago, bem delimitada. Na ocasião foi realizada Biópsia da lesão cuja resultado da Imuno Histoquímica foi positiva para CD117, CD34 e DOG1. Diante do achado o diagnóstico é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Adenocarcinoma pouco diferenciado, com células em anel de sinete."
+    },
+    {
+     "letra": "B",
+     "texto": "Linfoma gástrico"
+    },
+    {
+     "letra": "C",
+     "texto": "GIST - Tumor estromal gastrintestinal"
+    },
+    {
+     "letra": "D",
+     "texto": "Tumor Neuroendócrino tipo II"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000191546",
+   "codigo": "4000191546",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 42,
+   "temas": [
+    "Neoplasias Malignas do Estômago"
+   ],
+   "enunciado": "A mutação do gene CDH1 é responsável pela presença de câncer hereditário no seguinte órgão:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "adrenal."
+    },
+    {
+     "letra": "B",
+     "texto": "esôfago."
+    },
+    {
+     "letra": "C",
+     "texto": "pâncreas."
+    },
+    {
+     "letra": "D",
+     "texto": "estômago."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000191160",
+   "codigo": "4000191160",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 43,
+   "temas": [
+    "Anatomia Vascular do Trato Gastrointestinal",
+    "Tratamento do Adenocarcinoma Gástrico"
+   ],
+   "enunciado": "Para o tratamento cirúrgico do câncer gástrico, comumente é realizado a linfadenectomia D2; dentre as estruturas dissecadas, inclui-se o tronco celíaco, ramo direto da aorta abdominal. Quais os ramos vasculares que geralmente compõe esta estrutura?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Artéria mesentérica superior, artéria esplênica, artéria hepática própria."
+    },
+    {
+     "letra": "B",
+     "texto": "Artéria gástrica direita, artéria hepática própria, artéria gastroduodenal."
+    },
+    {
+     "letra": "C",
+     "texto": "Artéria gástrica esquerda, artéria hepática comum, artéria esplênica."
+    },
+    {
+     "letra": "D",
+     "texto": "Artéria hepática direita, artéria gástrica esquerda, artéria esplênica."
+    },
+    {
+     "letra": "E",
+     "texto": "Artéria mesentérica inferior, artéria gástrica esquerda, artéria comum."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000191070",
+   "codigo": "4000191070",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 44,
+   "temas": [
+    "Pólipos de Glândulas Fúndicas"
+   ],
+   "enunciado": "Com relação aos pólipos gástricos, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Os pólipos adenomatosos não apresentam alto risco para o desenvolvimento de malignidade."
+    },
+    {
+     "letra": "B",
+     "texto": "O risco para o desenvolvimento de carcinoma é de, aproximadamente, 80% a 90%."
+    },
+    {
+     "letra": "C",
+     "texto": "Os pólipos das glândulas fúndicas são geralmente benignos, e estão fortemente associados ao uso de inibidores de bomba de próton."
+    },
+    {
+     "letra": "D",
+     "texto": "A ressecção cirúrgica é indicada quando o pólipo for maior que 1 cm, mesmo sem apresentar foco com- provado de carcinoma invasivo."
+    },
+    {
+     "letra": "E",
+     "texto": "As lesões pedunculadas devem ser abordadas preferencialmente por gastrectomia parcial."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000190924",
+   "codigo": "4000190924",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 45,
+   "temas": [
+    "Neoplasias Benignas do Esôf ago",
+    "Neoplasias Malignas do Esôf ago"
+   ],
+   "enunciado": "Com relação aos tumores benignos do esôfago, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Os tumores benignos da submucosa incluem lipomas, hemangiomas e tumores neurais."
+    },
+    {
+     "letra": "B",
+     "texto": "Os papilomas escamosos ocorrem com mais regularidade no esôfago proximal."
+    },
+    {
+     "letra": "C",
+     "texto": "Os tumores benignos da camada muscular incluem tumores de células granulares e pólipos fibrovasculares."
+    },
+    {
+     "letra": "D",
+     "texto": "Os pólipos fibrovasculares são encontrados frequentemente no esôfago distal e não causam obstrução da via aérea."
+    },
+    {
+     "letra": "E",
+     "texto": "Os tumores benignos do esôfago são mais comuns que o câncer do esôfago na população geral."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000175864",
+   "codigo": "4000175864",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 46,
+   "temas": [
+    "Carcinoma de Células Escamosas CEC",
+    "Adenocarcinoma de Esôf ago"
+   ],
+   "enunciado": "Em relação ao câncer do esôfago assinale a alternativa CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o carcinoma de células escamosas é mais comum no esôfago distal e o adenocarcinoma é mais comum no esôfago médio e proximal;"
+    },
+    {
+     "letra": "B",
+     "texto": "o adenocarcinoma é mais comum no esôfago distal e médio e o carcinoma de células escamosas é mais comum no esôfago proximal;"
+    },
+    {
+     "letra": "C",
+     "texto": "o carcinoma de células escamosas é mais comum no esôfago distal e médio e o adenocarcinoma é mais comum no esôfago proximal;"
+    },
+    {
+     "letra": "D",
+     "texto": "adenocarcinoma é mais comum no esôfago distal e o carcinoma de células escamosas é mais comum no esôfago médio e proximal;"
+    },
+    {
+     "letra": "E",
+     "texto": "o adenocarcinoma e o carcinoma de células escamosas são encontrados de forma semelhante em todo o esôfago."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000175706",
+   "codigo": "4000175706",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 47,
+   "temas": [
+    "Tumor Estromal Gastrointestinal GIST"
+   ],
+   "enunciado": "Mulher, 51 anos, foi submetida a gastrectomia parcial com ressecção completa de GIST de 6 cm, com índice mitótico de 14/50 campo de alta potência, presença de mutação c-Kit positiva e sem metástase no estadiamento. A conduta, nesse caso, é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "realizar quimioterapia adjuvante."
+    },
+    {
+     "letra": "B",
+     "texto": "realizar quimioterapia e radioterapia adjuvante."
+    },
+    {
+     "letra": "C",
+     "texto": "totalizar gastrectomia."
+    },
+    {
+     "letra": "D",
+     "texto": "só acompanhamento clínico com exames de estadiamento a cada 6 meses."
+    },
+    {
+     "letra": "E",
+     "texto": "realizar terapia alvo adjuvante com inibidor da tirosina quinase."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000173547",
+   "codigo": "4000173547",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 48,
+   "temas": [
+    "Sintomas e Investigação Diagnóstica",
+    "Carcinoma de Células Escamosas CEC"
+   ],
+   "enunciado": "Métodos Complementares Homem, 66 anos. Admitido com disfagia e tosse há 3 meses. Perda de 13 kg. Traz o esofagograma abaixo: Sobre as possibilidades terapêuticas, assinale a adequada.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Pode ser cirúrgico após quimio e radioterapia (CROSS)."
+    },
+    {
+     "letra": "B",
+     "texto": "Não ressecável. Realizar by-pass gástrico retroesternal."
+    },
+    {
+     "letra": "C",
+     "texto": "Pode ser cirúrgico após radio e braquiterapia,"
+    },
+    {
+     "letra": "D",
+     "texto": "Cirúrgico. Imunonutrição pré-operatória por jejunostomia."
+    },
+    {
+     "letra": "E",
+     "texto": "Não ressecável. Passar endoprótese endoscópica."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [
+    {
+     "arquivo": "imagens/q048-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000173544",
+   "codigo": "4000173544",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 49,
+   "temas": [
+    "Adenocarcinoma Gástrico",
+    "Cirurgia"
+   ],
+   "enunciado": "Paciente, 62 anos, sexo feminino, tabagista e etilista, realizou endoscopia digestiva alta devido à queixa de dispepsia. Na endoscopia, foi evidenciada uma lesão polipoide medindo 2cm em antro. Essa lesão foi ressecada por completo e enviada para histopatológico, que evidenciou adenocarcinoma gástrico bem diferenciado com invasão apenas da mucosa, sem ulceração. Realizou estadiamento adequado sem sinais de neoplasia em linfonodos ou a distância. Sobre o caso em questão, assinale a alternativa CORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O tratamento da paciente já foi feito, devendo apenas ser realizado acompanhamento para observação de sinais de recorrência."
+    },
+    {
+     "letra": "B",
+     "texto": "A paciente deverá ser submetida à gastrectomia total e quimioterapia."
+    },
+    {
+     "letra": "C",
+     "texto": "A paciente deverá ser submetida à gastrectomia subtotal com linfadenectomia para, então, definir ou não a necessidade de quimioterapia."
+    },
+    {
+     "letra": "D",
+     "texto": "Além da ressecção endoscópica, a paciente deverá passar por tratamento radioterápico."
+    },
+    {
+     "letra": "E",
+     "texto": "Além da ressecção endoscópica, a paciente deverá passar por quimioterapia."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169779",
+   "codigo": "4000169779",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 50,
+   "temas": [
+    "Classif icação Histológica de Lauren",
+    "Apresentação Clínica"
+   ],
+   "enunciado": "O câncer gástrico apresenta diferenças geográ cas, étnicas e socioeconômicas significativas na distribuição. Existem duas variantes histológicas principais de adenocarcinoma gástrico: o tipo intestinal, mais frequente, e o tipo difuso, menos comum. A respeito do câncer gástrico, analise as afirmativas. I- O câncer gástrico difuso hereditário é uma forma de apresentação, sendo herdado como um traço autossômico recessivo com baixa penetrância. Além disso, tem um comportamento menos agressivo e associado a bom prognóstico. II- A Agência Internacional para Pesquisa do Câncer da Organização Mundial da Saúde (IARC) classi cou o pylori III- A operação de Billroth II (gastrojejunostomia) apresenta um risco menor para câncer gástrico tardio do que a operação de Billroth I (gastroduodenostomia). IV- O modelo de câncer gástrico do tipo intestinal descreve uma progressão de gastrite crônica para gastrite atró ca crônica, metaplasia intestinal, displasia e, nalmente, para adenocarcinoma. Outras condições que causam atro a gástrica estão associadas a um risco aumentado de adenocarcinomas gástricos. V- O risco de câncer gástrico distal é aumentado em populações de baixa renda. Em contraste, os cânceres gástricos proximais são associados a classes de maior poder aquisitivo. Estão corretas as afirmativas",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "II, III e V, apenas."
+    },
+    {
+     "letra": "B",
+     "texto": "I, II, III e IV, apenas."
+    },
+    {
+     "letra": "C",
+     "texto": "I, III e IV, apenas."
+    },
+    {
+     "letra": "D",
+     "texto": "II, IV e V, apenas."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000169537",
+   "codigo": "4000169537",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 51,
+   "temas": [
+    "Fatores de Risco",
+    "Classif icação Histológica de Lauren",
+    "Métodos Complementares"
+   ],
+   "enunciado": "Quanto ao adenocarcinoma gástrico, assinalar a alternativa CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A infecção pelo Helicobacter pylori é considerada fator de risco para o desenvolvimento do câncer de estômago em função do estímulo ao surgimento de pólipos de glândulas fúndicas."
+    },
+    {
+     "letra": "B",
+     "texto": "O uso crônico de inibidores de bomba de prótons é fator de risco estabelecido para o desenvolvimento de câncer de estômago."
+    },
+    {
+     "letra": "C",
+     "texto": "O adenocarcinoma gástrico do tipo difuso corresponde a uma neoplasia bem diferenciada, com maior incidência em homens, além de possuir um melhor prognóstico que o subtipo intestinal de Lauren."
+    },
+    {
+     "letra": "D",
+     "texto": "A laparoscopia de estadiamento é parte da avaliação padrão para o câncer gástrico, uma vez que pode detectar metástases ocultas, apesar de achados negativos de carcinomatose peritoneal por exames como PET-CT e TC de abdome."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169535",
+   "codigo": "4000169535",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 52,
+   "temas": [
+    "Carcinoma de Células Escamosas CEC",
+    "Adenocarcinoma de Esôf ago",
+    "Métodos Complementares"
+   ],
+   "enunciado": "Sobre as neoplasias de esôfago, é CORRETO afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Álcool e tabagismo são fortes fatores de risco para o adenocarcinoma de esôfago."
+    },
+    {
+     "letra": "B",
+     "texto": "Se não houver metástases à distância, a ressecção cirúrgica é sempre o primeiro tratamento proposto, seguido ou não de quimioterapia, conforme o resultado na análise histológica."
+    },
+    {
+     "letra": "C",
+     "texto": "Pacientes com esôfago de Barret, com displasia de baixo grau, têm indicação de ressecção cirúrgica profilática."
+    },
+    {
+     "letra": "D",
+     "texto": "Ultrassom endoscópico auxilia na avaliação da profundidade do tumor e dos linfonodos regionais acometidos."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000168318",
+   "codigo": "4000168318",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 53,
+   "temas": [
+    "Tratamento do Adenocarcinoma Gástrico",
+    "Estadiamento"
+   ],
+   "enunciado": "Assinale a assertiva correta sobre o tratamento cirúrgico de câncer gástrico.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A laparoscopia diagnóstica está indicada nos tumores precoces."
+    },
+    {
+     "letra": "B",
+     "texto": "A reconstrução em Y de Roux deve ser realizada apenas na gastrectomia total."
+    },
+    {
+     "letra": "C",
+     "texto": "As margens cirúrgicas devem ser maiores nos tumores do tipo difuso."
+    },
+    {
+     "letra": "D",
+     "texto": "O benefício da gastrectomia por laparoscopia é evidente, principalmente nos tumores mais avançados."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000168312",
+   "codigo": "4000168312",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 54,
+   "temas": [
+    "Disf agia Esof ágica Disf agia de Condução",
+    "Sintomas e Investigação Diagnóstica"
+   ],
+   "enunciado": "Carcinoma de Células Escamosas CEC Paciente masculino, de 57 anos, consultou por vir apresentando di culdade para engolir alimentos sólidos há 4 meses e emagrecimento de 9 kg nesse período. Para investigação, realizou raio X contrastado de esôfago (imagem abaixo). Que diagnóstico, dentre os propostos, é o mais provável?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Acalásia."
+    },
+    {
+     "letra": "B",
+     "texto": "Carcinoma do esôfago."
+    },
+    {
+     "letra": "C",
+     "texto": "Estenose péptica."
+    },
+    {
+     "letra": "D",
+     "texto": "Megaesôfago chagásico."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q054-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000167961",
+   "codigo": "4000167961",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 55,
+   "temas": [
+    "Classif icação de Borrmann"
+   ],
+   "enunciado": "O sistema de classificação de Borrmann para câncer gástrico foi descrito em 1926 e é utilizado para dividir o carcinoma gástrico em 05(cinco) tipos conforme sua característica macroscópica. A figura a seguir representa:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tipo I"
+    },
+    {
+     "letra": "B",
+     "texto": "Tipo II"
+    },
+    {
+     "letra": "C",
+     "texto": "Tipo III"
+    },
+    {
+     "letra": "D",
+     "texto": "Tipo IV"
+    },
+    {
+     "letra": "E",
+     "texto": "Tipo v"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q055-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000167799",
+   "codigo": "4000167799",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 56,
+   "temas": [
+    "Carcinoma de Células Escamosas CEC"
+   ],
+   "enunciado": "Um paciente de 35 anos de idade vem apresentando dor abdominal e disfagia para sólidos de forma progressiva. Além disso, demonstra perda de peso, sendo 10% do peso corporal em três meses. O paciente fez uso de omeprazol 40 mg sem melhora. Também há lesões dolorosas e descamativas nas mãos e nos pés dele, como mostra a figura a seguir. Observaram-se PA = 110 mmHg x 70 mmHg, SatO2 = 98% em ar ambiente e FC = 60 bpm. Endoscopia indicou uma larga massa na mucosa esofagena. Diante disso, o endoscopista realizou uma biópsia. Disponível em: <https://comocuidardospes.blogspot.com/ 2018/01/querato dermia-palmoplantar-causas-tratamentos.html>. Acesso em: 1-nov. 2021. Acerca desse caso clínico e considerando os conhecimentos médicos correlatos, julgue o item a seguir. A presença de uma massa grande na mucosa é altamente sugestiva de neoplasia de esôfago.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q056-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000167798",
+   "codigo": "4000167798",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 57,
+   "temas": [
+    "Métodos Complementares"
+   ],
+   "enunciado": "Um paciente de 35 anos de idade vem apresentando dor abdominal e disfagia para sólidos de forma progressiva. Além disso, demonstra perda de peso, sendo 10% do peso corporal em três meses. O paciente fez uso de omeprazol 40 mg sem melhora. Também há lesões dolorosas e descamativas nas mãos e nos pés dele, como mostra a figura a seguir. Observaram-se PA = 110 mmHg x 70 mmHg, SatO2 = 98% em ar ambiente e FC = 60 bpm. Endoscopia indicou uma larga massa na mucosa esofagena. Diante disso, o endoscopista realizou uma biópsia. Disponível em: <https://comocuidardospes.blogspot.com/ 2018/01/querato dermia-palmoplantar-causas-tratamentos.html>. Acesso em: 1-nov. 2021. Acerca desse caso clínico e considerando os conhecimentos médicos correlatos, julgue o item a seguir. Tomogra a de tórax apresenta acurácia maior que ultrassom endoscópico para a identi cação de doença localmente avançada.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q057-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000167797",
+   "codigo": "4000167797",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 58,
+   "temas": [
+    "Sintomas e Investigação Diagnóstica",
+    "Carcinoma de Células Escamosas CEC"
+   ],
+   "enunciado": "Neoplasias Malignas do Esôf ago Um paciente de 35 anos de idade vem apresentando dor abdominal e disfagia para sólidos de forma progressiva. Além disso, demonstra perda de peso, sendo 10% do peso corporal em três meses. O paciente fez uso de omeprazol 40 mg sem melhora. Também há lesões dolorosas e descamativas nas mãos e nos pés dele, como mostra a figura a seguir. Observaram-se PA = 110 mmHg x 70 mmHg, SatO2 = 98% em ar ambiente e FC = 60 bpm. Endoscopia indicou uma larga massa na mucosa esofagena. Diante disso, o endoscopista realizou uma biópsia. Disponível em: <https://comocuidardospes.blogspot.com/ 2018/01/querato dermia-palmoplantar-causas-tratamentos.html>. Acesso em: 1-nov. 2021. Acerca desse caso clínico e considerando os conhecimentos médicos correlatos, julgue o item a seguir. O paciente apresenta uma condição genética chamada tilose palmoplantar.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q058-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000167796",
+   "codigo": "4000167796",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 59,
+   "temas": [
+    "Sintomas e Investigação Diagnóstica",
+    "Carcinoma de Células Escamosas CEC"
+   ],
+   "enunciado": "Um paciente de 35 anos de idade vem apresentando dor abdominal e disfagia para sólidos de forma progressiva. Além disso, demonstra perda de peso, sendo 10% do peso corporal em três meses. O paciente fez uso de omeprazol 40 mg sem melhora. Também há lesões dolorosas e descamativas nas mãos e nos pés dele, como mostra a figura a seguir. Observaram-se PA = 110 mmHg x 70 mmHg, SatO2 = 98% em ar ambiente e FC = 60 bpm. Endoscopia indicou uma larga massa na mucosa esofagena. Diante disso, o endoscopista realizou uma biópsia. Disponível em: <https://comocuidardospes.blogspot.com/ 2018/01/querato dermia-palmoplantar-causas-tratamentos.html>. Acesso em: 1-nov. 2021. Acerca desse caso clínico e considerando os conhecimentos médicos correlatos, julgue o item a seguir. Possivelmente, o diagnóstico seja adenocarcinoma de esôfago.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q059-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000167795",
+   "codigo": "4000167795",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 60,
+   "temas": [
+    "Sintomas e Investigação Diagnóstica"
+   ],
+   "enunciado": "Um paciente de 35 anos de idade vem apresentando dor abdominal e disfagia para sólidos de forma progressiva. Além disso, demonstra perda de peso, sendo 10% do peso corporal em três meses. O paciente fez uso de omeprazol 40 mg sem melhora. Também há lesões dolorosas e descamativas nas mãos e nos pés dele, como mostra a figura a seguir. Observaram-se PA = 110 mmHg x 70 mmHg, SatO2 = 98% em ar ambiente e FC = 60 bpm. Endoscopia indicou uma larga massa na mucosa esofagena. Diante disso, o endoscopista realizou uma biópsia. Disponível em: <https://comocuidardospes.blogspot.com/ 2018/01/querato dermia-palmoplantar-causas-tratamentos.html>. Acesso em: 1-nov. 2021. Acerca desse caso clínico e considerando os conhecimentos médicos correlatos, julgue o item a seguir. A presença de disfagia sólida sugere uma perda de, pelo menos, 70% da luz esofágica.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q060-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000167506",
+   "codigo": "4000167506",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 61,
+   "temas": [
+    "Fatores de Risco",
+    "Apresentação Clínica"
+   ],
+   "enunciado": "Quanto ao câncer gástrico, é correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O nódulo de Virchow, linfonodomegalia axilar direita causada por comprometimento hematogênico, é considerado um dos sinais de doença avançada."
+    },
+    {
+     "letra": "B",
+     "texto": "A videolaparoscopia diagnóstica é considerada ferramenta necessária para o adequado estadiamento de todos os pacientes portadores de câncer gástrico."
+    },
+    {
+     "letra": "C",
+     "texto": "A linfadenectomia D2, considerada padrão no tratamento cirúrgico do câncer gástrico, consiste na retirada dos linfonodos dos grupos 1, 2, 3, 4, 5 e 6."
+    },
+    {
+     "letra": "D",
+     "texto": "No tratamento de adenocarcinomas gástricos, as gastrectomias podem ser do tipo subtotal, total ou em cunha, a depender da localização do tumor no estômago."
+    },
+    {
+     "letra": "E",
+     "texto": "A gastrite atrófica presente nos estômagos com pH alcalino, onde pouco se encontra bactérias do tipo"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000167100",
+   "codigo": "4000167100",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 63,
+   "temas": [
+    "Fatores de Risco",
+    "Epidemiologia"
+   ],
+   "enunciado": "Sobre o câncer gástrico, é correto afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "afeta, com maior frequência, as mulheres e a faixa etária entre 40-50 anos, sendo também o tipo de câncer mais comum no Japão."
+    },
+    {
+     "letra": "B",
+     "texto": "o Helicobacter pylori pode ser considerado um dos fatores contribuintes para o câncer gástrico por gerar gastrite hipertrófica."
+    },
+    {
+     "letra": "C",
+     "texto": "o câncer gástrico difuso hereditário é uma forma herdada de carcinoma gástrico resultante da mutação do gene da E-caderina, com aproximadamente 80% de possibilidade de desenvolvimento de câncer gástrico durante a vida."
+    },
+    {
+     "letra": "D",
+     "texto": "alimentos ricos em sal, como carnes defumadas, juntamente com o alto consumo de frutas cítricas e vegetais, são associados a um risco aumentado de câncer gástrico."
+    },
+    {
+     "letra": "E",
+     "texto": "os pacientes com anemia perniciosa também têm um aumento no risco de desenvolvimento de câncer gástrico. A hipercloridria é a característica definidora dessa condição."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000166813",
+   "codigo": "4000166813",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 64,
+   "temas": [
+    "Tratamento do Adenocarcinoma Gástrico",
+    "Estadiamento"
+   ],
+   "enunciado": "Paciente de 54 anos, portador de adenocarcinoma gástrico em pequena curvatura, Bormamm 2, localizado a 5 cm da transição esofagogástrica, tipo histológico difuso de Lauren, estadiado como T2 N1 M0. Nesse caso, qual é a melhor conduta terapêutica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Quimioterapia perioperatória e gastrectomia subtotal com linfadenectomia D2."
+    },
+    {
+     "letra": "B",
+     "texto": "Gastrectomia subtotal com linfadenectomia D2 e quimioterapia pós-operatória."
+    },
+    {
+     "letra": "C",
+     "texto": "Quimioterapia perioperatória e gastrectomia total com linfadenectomia D2."
+    },
+    {
+     "letra": "D",
+     "texto": "Gastrectomia total com linfadenectomia D2 e quimiorradioterapia pós-operatória."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000164669",
+   "codigo": "4000164669",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 65,
+   "temas": [
+    "Linf omas Gástricos"
+   ],
+   "enunciado": "Em relação aos linfomas gástricos, é correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "é a neoplasia gástrica de maior frequência."
+    },
+    {
+     "letra": "B",
+     "texto": "raramente provoca anorexia e perda de peso."
+    },
+    {
+     "letra": "C",
+     "texto": "a lesão pode se apresentar como uma massa tumoral."
+    },
+    {
+     "letra": "D",
+     "texto": "quase sempre é parte de uma doença generalizada."
+    },
+    {
+     "letra": "E",
+     "texto": "o tratamento cirúrgico é sempre a melhor escolha."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163636",
+   "codigo": "4000163636",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 66,
+   "temas": [
+    "Tratamento do Adenocarcinoma Gástrico",
+    "Estadiamento"
+   ],
+   "enunciado": "Após tratamento neoadjuvante, uma paciente de 54 anos, com diagnóstico de adenocarcinoma tipo intestinal de 2 cm no antro gástrico, realiza tomogra a que demonstra adenopatias em tronco celíaco, ausência de metástases hepáticas ou ascite. Atualmente, apresenta-se com bom estado geral e sem outras comorbidades. Para essa paciente, qual o próximo passo para o seu tratamento?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Gatrectomia parcial com linfadenectomia D1 e reconstrução a BII."
+    },
+    {
+     "letra": "B",
+     "texto": "Gatrectomia parcial com linfadenectomia D2 e reconstrução a BII."
+    },
+    {
+     "letra": "C",
+     "texto": "Gatrectomia total com linfadenectomia D2 e reconstrução em Y de Roux."
+    },
+    {
+     "letra": "D",
+     "texto": "Gatrectomia subtotal com linfadenectomia D2 e reconstrução em Y de Roux."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163432",
+   "codigo": "4000163432",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 67,
+   "temas": [
+    "Neoplasias Malignas do Esôf ago"
+   ],
+   "enunciado": "A respeito dos fatores etiopatogênicos das neoplasias malignas do esôfago, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O megaesôfago chagásico não é fator de risco para o carcinoma epidermoide do esôfago."
+    },
+    {
+     "letra": "B",
+     "texto": "O esôfago de Barrett é fator de risco para o carcinoma espinocelular do esôfago."
+    },
+    {
+     "letra": "C",
+     "texto": "A queratose familiar palmar e plantar não é fator de risco para o adenocarcinoma do esôfago."
+    },
+    {
+     "letra": "D",
+     "texto": "A síndrome de Plummer-Vinson é fator de risco para o adenocarcinoma do esôfago."
+    },
+    {
+     "letra": "E",
+     "texto": "A estenose cáustica do esôfago não é fator de risco para o carcinoma espinocelular do esôfago."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000158971",
+   "codigo": "4000158971",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 68,
+   "temas": [
+    "Adenocarcinoma de Esôf ago"
+   ],
+   "enunciado": "Homem, 58 anos, obeso, com história de pirose e regurgitação de longa data, evolui com disfagia progressiva e perda ponderal nos últimos 4 meses. Endoscopia digestiva revela lesão ulcerada e estenosante no esôfago distal até a transição esofagogástrica (TEG). MARQUE A ALTERNATIVA CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Trata-se de um carcinoma escamoso de esôfago distal, esse tumor responde melhor à radioterapia do que o adenocarcinoma."
+    },
+    {
+     "letra": "B",
+     "texto": "Os principais fatores de risco para esse tumor são tabagismo e etilismo."
+    },
+    {
+     "letra": "C",
+     "texto": "A classificação de Siewert é usada para tumores do esôfago distal e da junção esofagogástrica. O tumor dessa questão pode ser classificado como Siewert III."
+    },
+    {
+     "letra": "D",
+     "texto": "Trata-se de um adenocarcinoma do esôfago distal, o próximo exame para estadiamento é a tomografia computadorizada de tórax e abdome."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000171686",
+   "codigo": "4000171686",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 69,
+   "temas": [
+    "Tumor Estromal Gastrointestinal GIST"
+   ],
+   "enunciado": "Paciente apresentando endoscopia digestiva alta com abaulamento, sem comprometimento da mucosa em antro gástrico e ecoendoscopia que sugere tratar-se de um GIST gástrico (Tumor de Células Estromais). O critério diagnóstico imuno histoquímico mais específico e o tratamento mais adequado são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Oncogene HER2 positivo e gastrectomia subtotal com linfadenectomia D2."
+    },
+    {
+     "letra": "B",
+     "texto": "Oncogene CD 117 positivo e gastrectomia subtotal."
+    },
+    {
+     "letra": "C",
+     "texto": "Oncogene c-KIT positivo e gastrectomia em cunha."
+    },
+    {
+     "letra": "D",
+     "texto": "Oncogene PDGFR-alpha e gastrectomia em cunha."
+    },
+    {
+     "letra": "E",
+     "texto": "Oncogene c-KIT positivo e gastrectomia subtotal com linfadenectomia D2."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000171139",
+   "codigo": "4000171139",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 70,
+   "temas": [
+    "Epidemiologia"
+   ],
+   "enunciado": "O tipo histológico de neoplasia maligna do estômago mais frequente no Brasil é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Linfoma."
+    },
+    {
+     "letra": "B",
+     "texto": "Sarcoma."
+    },
+    {
+     "letra": "C",
+     "texto": "Adenocarcinoma."
+    },
+    {
+     "letra": "D",
+     "texto": "Carcinoma escamocelular."
+    },
+    {
+     "letra": "E",
+     "texto": "Tumor estromal (GIST maligno)."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000151620",
+   "codigo": "4000151620",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 71,
+   "temas": [
+    "Fatores de Risco"
+   ],
+   "enunciado": "Paciente de 45 anos procura o ambulatório de cirurgia preocupado com o fato de que um amigo de infância ter sido diagnosticado com câncer gástrico. Ele refere dor epigástrica em queimação de longa data, é tabagista, consome bebidas alcoólicas socialmente e faz uso de losartana e amlodipina para tratamento de hipertensão arterial. Seu exame físico não apresenta alterações. Uma endoscopia digestiva alta é solicitada e revela uma gastrite erosiva de antro associada ao Helicobacter pylori. Quais medidas preventivas ao surgimento de um adenocarcinoma gástrico devem ser adotadas para este paciente, EXCETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Erradicar o Helicobacter pylori"
+    },
+    {
+     "letra": "B",
+     "texto": "Solicitar ao paciente que pare de fumar"
+    },
+    {
+     "letra": "C",
+     "texto": "Orientar ingesta de frutas e vegetais frescos"
+    },
+    {
+     "letra": "D",
+     "texto": "Orientar a ingesta de proteínas, principalmente na forma de carnes defumadas."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000147006",
+   "codigo": "4000147006",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 72,
+   "temas": [
+    "Síndromes Pósgastrectomia",
+    "Adenocarcinoma Gástrico"
+   ],
+   "enunciado": "Paciente de 50 anos, masculino, vai à consulta devido a quadro de dispepsia, sensação de plenitude pós-prandial, perda ponderal de cerca de 10Kg nos últimos 60 dias e dor abdominal esporádica. O paciente tem histórico de ser tabagista e hipertenso, atualmente em uso de hidroclorotiazida e losartan, e faz uso irregular de inibidor de bomba devido à gastrectomia parcial decorrente de úlcera gástrica há 10 anos. Após investigação, o paciente recebeu diagnóstico de neoplasia gástrica. Sobre esse quadro, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O diagnóstico mais provável, nesse caso, é linfoma gástrico."
+    },
+    {
+     "letra": "B",
+     "texto": "A presença de massa palpável em fundo gástrico, nódulo axilar e periumbilical é indicação para cirurgia de urgência."
+    },
+    {
+     "letra": "C",
+     "texto": "No adenocarcinoma, a consanguinidade e o tipo sanguíneo não são fatores de risco para a doença."
+    },
+    {
+     "letra": "D",
+     "texto": "A presença de gastrite atrófica e a cirurgia de gastrectomia parcial geralmente atrasam o surgimento de neoplasias gástricas."
+    },
+    {
+     "letra": "E",
+     "texto": "Em fases iniciais da doença, o prognóstico de cura é acima de 90%."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000146995",
+   "codigo": "4000146995",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 73,
+   "temas": [
+    "Fatores de Risco",
+    "Epidemiologia"
+   ],
+   "enunciado": "Em relação ao câncer gástrico assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Há uma maior prevalência geral entre as mulheres."
+    },
+    {
+     "letra": "B",
+     "texto": "Pacientes com anemia perniciosa têm risco aumentado de desenvolver câncer gástrico."
+    },
+    {
+     "letra": "C",
+     "texto": "A linite plástica é o termo usado para descrever o câncer gástrico tipo 3 de Borrmann."
+    },
+    {
+     "letra": "D",
+     "texto": "O sistema de Lauren classifica o câncer gástrico em tipo intestinal e anaplásico."
+    },
+    {
+     "letra": "E",
+     "texto": "O câncer gástrico do tipo intestinal de Lauren é mais comum em pacientes jovens."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000146889",
+   "codigo": "4000146889",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 74,
+   "temas": [
+    "Carcinoma de Células Escamosas CEC",
+    "Adenocarcinoma de Esôf ago"
+   ],
+   "enunciado": "As alternativas abaixo contêm somente condições que predispõem ao câncer de esôfago, EXCETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tabagismo e etilismo."
+    },
+    {
+     "letra": "B",
+     "texto": "Síndrome de Boerhaave e síndrome de Chilaiditi"
+    },
+    {
+     "letra": "C",
+     "texto": "Megaesôfago e ingestão de agentes corrosivos."
+    },
+    {
+     "letra": "D",
+     "texto": "Síndrome de Plummer-Vinson e Esôfago de Barrett."
+    },
+    {
+     "letra": "E",
+     "texto": "TILOSE palmoplantar e epitélio colunar na transição esôfago-gástrica com metaplasia intestinal e displasia."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000145966",
+   "codigo": "4000145966",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 75,
+   "temas": [
+    "Tratamento do Adenocarcinoma Gástrico"
+   ],
+   "enunciado": "Homem, 62 anos de idade, com queixa de dor epigástrica, náusea, vômitos e perda ponderal de 12kg nos últimos 4 meses (10% do peso corporal). Etilista de 5 latas de cerveja aos nais de semana; tabagista 25 anos-maço. Realizou endoscopia digestiva alta, com achado de lesão ulcerada e estenosante em região de antro gástrico, impedindo a progressão do aparelho. Anatomopatológico compatível com adenocarcinoma gástrico, moderadamente diferenciado. Tomogra a computadorizada de tórax, abdome e pelve com imagem compatível em antro gástrico, sem lesões metastáticas ou acometimento linfonodal. Em relação ao tratamento neste momento, pode-se afirmar que o tratamento adequado é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Gastrectomia subtotal com linfadenectomia D2."
+    },
+    {
+     "letra": "B",
+     "texto": "Gastrectomia total com linfadenectomia D2 e quimioterapia intraperitoneal."
+    },
+    {
+     "letra": "C",
+     "texto": "Quimioterapia neoadjuvante seguida de gastrectomia subtotal com linfadenectomia D3."
+    },
+    {
+     "letra": "D",
+     "texto": "Derivação com gastroenteroanastomose seguida de quimioterapia paliativa."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000145419",
+   "codigo": "4000145419",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 76,
+   "temas": [
+    "Def inição de CA Gástrico Precoce versus Superf icial",
+    "Estadiamento"
+   ],
+   "enunciado": "Homem, 53 anos de idade, com pirose realizou endoscopia digestiva alta para investigação. Foi identi cada lesão de 1,5cm elevada, sem ulceração, na parede anterior de corpo gástrico, próximo à grande curvatura. O exame anatomopatológico resultou compatível com adenocarcinoma. Assinale a alternativa que representa a conduta adequada no momento:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Solicitar tomografia de tórax, abdome e pelve, e ultrassonografia endoscópica."
+    },
+    {
+     "letra": "B",
+     "texto": "Encaminhar o paciente para tratamento endoscópico, com mucosectomia por se tratar de lesão precoce."
+    },
+    {
+     "letra": "C",
+     "texto": "Encaminhar paciente para tratamento cirúrgico com gastrectomia total + linfadenectomia a D2."
+    },
+    {
+     "letra": "D",
+     "texto": "Solicitar tomografia de tórax, abdome e pelve, seguida de laparoscopia diagnóstica para excluir carcinomatose peritoneal."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000144388",
+   "codigo": "4000144388",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 77,
+   "temas": [
+    "Tratamento do Adenocarcinoma Gástrico"
+   ],
+   "enunciado": "Paciente de 37 anos, sexo feminino, apresenta EDA com lesão ulcerada em incisura angularis do estômago com 1 cm, anatomopatológico confirma adenocarcinoma gástrico GIi tipo intestinal, qual a melhor conduta cirúrgica para esse caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Gastrectomia parcial com linfadenectomia D1."
+    },
+    {
+     "letra": "B",
+     "texto": "Gastrectomia parcial com linfadenectomia D2."
+    },
+    {
+     "letra": "C",
+     "texto": "Gastrectomia total com linfadenectomia D1."
+    },
+    {
+     "letra": "D",
+     "texto": "Gastrectomia total com linfadenectomia D2."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000144053",
+   "codigo": "4000144053",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 78,
+   "temas": [
+    "Tratamento do Adenocarcinoma Gástrico"
+   ],
+   "enunciado": "Paciente masculino, 54 anos, tabagista e hipertenso em tratamento regular, ECOG 2, portador de adenocarcinoma moderadamente diferenciado de fundo gástrico. Foi submetido a tratamento cirúrgico eletivo com Gastrectomia Total com linfadenectomia a D2 e Reconstrução a “Y de Roux”. Devido à localização do tumor, a linfadenectomia a D2 deve contemplar a cadeia linfática nº 10. Na figura abaixo, identi que a topogra a desta cadeia linfonodal e marque a resposta correspondente.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Letra A da imagem."
+    },
+    {
+     "letra": "B",
+     "texto": "Letra B da imagem."
+    },
+    {
+     "letra": "C",
+     "texto": "Letra C da imagem."
+    },
+    {
+     "letra": "D",
+     "texto": "Letra D da imagem."
+    },
+    {
+     "letra": "E",
+     "texto": "Letra E da imagem."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [
+    {
+     "arquivo": "imagens/q078-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000143798",
+   "codigo": "4000143798",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 79,
+   "temas": [
+    "Adenocarcinoma Gástrico",
+    "Tumor Estromal Gastrointestinal GIST",
+    "Tumor Carcinoide Gástrico"
+   ],
+   "enunciado": "Sobre as neoplasias gástricas, assinale Verdadeiro (V) ou Falso (F): ( ) O carcinoma gástrico precoce é definido como tumor limitado à mucosa e que não apresenta metástases linfonodais. ( ) A endoscopia digestiva alta com biópsia é o exame mais importante para o diagnóstico do carcinoma gástrico. ( ) O carcinoma epidermóide é o tipo mais comum de câncer gástrico, seguido pelo linfoma gástrico e pelo GIST. ( ) O câncer gástrico é um dos cânceres mais incidentes na atualidade e tem uma incidência maior que o câncer colorretal no Brasil. Assinale a alternativa correta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "F, V, F, F"
+    },
+    {
+     "letra": "B",
+     "texto": "V, V, V, V"
+    },
+    {
+     "letra": "C",
+     "texto": "V, V, F, F"
+    },
+    {
+     "letra": "D",
+     "texto": "F, V, V, V"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000143499",
+   "codigo": "4000143499",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 80,
+   "temas": [
+    "Classif icação de Borrmann"
+   ],
+   "enunciado": "Na classificação morfológica dos tumores do estômago, Bormann 4, é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tumor ulcerado."
+    },
+    {
+     "letra": "B",
+     "texto": "Infiltrativo local."
+    },
+    {
+     "letra": "C",
+     "texto": "Infiltrativo difuso (Linite)."
+    },
+    {
+     "letra": "D",
+     "texto": "Escavado."
+    },
+    {
+     "letra": "E",
+     "texto": "Ulcerado e infiltrativo local."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000143305",
+   "codigo": "4000143305",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 81,
+   "temas": [
+    "Neoplasias Malignas do Estômago"
+   ],
+   "enunciado": "No câncer gástrico, os linfonodos correspondentes à arte respectivamente,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "6 e 3."
+    },
+    {
+     "letra": "B",
+     "texto": "7 e 8."
+    },
+    {
+     "letra": "C",
+     "texto": "5 e 10."
+    },
+    {
+     "letra": "D",
+     "texto": "9 e 8."
+    },
+    {
+     "letra": "E",
+     "texto": "7 e 4."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000143222",
+   "codigo": "4000143222",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 82,
+   "temas": [
+    "Adenocarcinoma de Esôf ago"
+   ],
+   "enunciado": "Os tumores da junção esofagogástrica possuem comportamento biológico distinto do adenocarcinoma gástrico e, por isso, outra classificação é realizada. O comportamento e o nome de classificação distinta deles, respectivamente, são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "menos agressivo que o câncer gástrico / Dor"
+    },
+    {
+     "letra": "B",
+     "texto": "menos agressivo que o GIST maligno / Heller"
+    },
+    {
+     "letra": "C",
+     "texto": "mais agressivo que o câncer gástrico / Siewert"
+    },
+    {
+     "letra": "D",
+     "texto": "mais agressivo que o carcinoma escamoso de esôfago / Thal-Hatafuku"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000142481",
+   "codigo": "4000142481",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 83,
+   "temas": [
+    "Tratamento do Adenocarcinoma Gástrico"
+   ],
+   "enunciado": "O papel da linfadenectomia estendida para o câncer de estômago ainda é controverso. De acordo com a classificação do agrupamento de linfonodos regionais pela localização do tumor primário, qual estação dissecção D2?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Artéria gástrica esquerda."
+    },
+    {
+     "letra": "B",
+     "texto": "Pequena curvatura."
+    },
+    {
+     "letra": "C",
+     "texto": "Paracárdico direito."
+    },
+    {
+     "letra": "D",
+     "texto": "Hepatoduodenal posterior."
+    },
+    {
+     "letra": "E",
+     "texto": "Tronco celíaco."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000141666",
+   "codigo": "4000141666",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 84,
+   "temas": [
+    "Tratamento do Adenocarcinoma Gástrico",
+    "Estadiamento",
+    "Epidemiologia"
+   ],
+   "enunciado": "Em relação ao câncer gástrico, é correto afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "sua incidência está aumentando em todo o mundo, apesar do tratamento do Helicobacter pylori."
+    },
+    {
+     "letra": "B",
+     "texto": "nos casos avançados, a ressecção combinada de órgãos adjacentes não deve ser realizada, mesmo quando possível a ressecção R0."
+    },
+    {
+     "letra": "C",
+     "texto": "os carcinomas precoces são aqueles que não infiltram além da submucosa, independentemente do estado linfonodal."
+    },
+    {
+     "letra": "D",
+     "texto": "o principal exame para o estadiamento é a PET-CT."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000141251",
+   "codigo": "4000141251",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 85,
+   "temas": [
+    "Tumor Estromal Gastrointestinal GIST"
+   ],
+   "enunciado": "Uma paciente de 67 anos de idade iniciou fezes escuras com sangue, dor abdominal e disfagia há seis meses. Evoluiu com emagrecimento espontâneo de 5 kg em 15 dias. Realizou colonoscopia e endoscopia para investigação da causa do melena. Na endoscopia digestiva alta, foi encontrado um tumor de 6 cm liso, com ulceração central, localizado no estômago. Considerando esse caso clínico, acerca dos tumores estromais gastrointestinais (GIST), assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Os GIST podem se formar em qualquer segmento do trato gastrointestinal, principalmente, no estômago, no intestino delgado e no cólon."
+    },
+    {
+     "letra": "B",
+     "texto": "Os fatores de risco mais comuns para malignidade são o tamanho da lesão e os números de metástases linfonodais."
+    },
+    {
+     "letra": "C",
+     "texto": "Os lugares mais propícios para a progressão do GIST são o cérebro e o pulmão."
+    },
+    {
+     "letra": "D",
+     "texto": "A ruptura do tumor intra-abdominal é extremamente comum e, com a devida estabilidade hemodinâmica, ele pode ser embolizado."
+    },
+    {
+     "letra": "E",
+     "texto": "A imuno-histoquímica não ajuda no diagnóstico diferencial para outros tumores gástricos."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000141250",
+   "codigo": "4000141250",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 86,
+   "temas": [
+    "Fatores de Risco",
+    "Diagnóstico",
+    "Estadiamento"
+   ],
+   "enunciado": "Um paciente de 62 anos de idade procura atendimento em consultório por dor epigástrica, saciedade precoce e perda de 5 kg no último mês, sem alterações nos seus hábitos alimentares. É realizada uma endoscopia digestiva alta, associada a ultrassom endoscópico e a biópsia. O resultado do anatomopatológico foi positivo para adenocarcinoma gástrico que invade a submucosa. Os linfonodos regionais não apresentaram metástases. Em relação a esse caso clínico e ao adenocarcinoma gástrico, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A classificação de tumor primário (T) é T2."
+    },
+    {
+     "letra": "B",
+     "texto": "As tomografias computadorizadas de crânio, tórax, abdome e pelve são mandatórias para a avaliação de metástases."
+    },
+    {
+     "letra": "C",
+     "texto": "Múltiplas biópsias (de seis a oito) devem ser realizadas em áreas diferentes da lesão, a fim de aumentar o rendimento para 98%."
+    },
+    {
+     "letra": "D",
+     "texto": "A tomografia computadorizada por emissão de pósitrons (PET-TC) é essencial para o diagnóstico de metástases a distância, visto que 80% dos cânceres gástricos são PET-ávidos."
+    },
+    {
+     "letra": "E",
+     "texto": "A infecção de"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000141134",
+   "codigo": "4000141134",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 87,
+   "temas": [
+    "Apresentação Clínica"
+   ],
+   "enunciado": "Mulher, 58a, retorna à Unidade Básica de Saúde com resultado de ultrassonogra a pélvica, solicitada por quadro de dor abdominal há 20 dias, e emagrecimento de aproximadamente 10 Kg em 3 meses. Ultrassonogra a pélvica: massa em ovário esquerdo e ascite. Exame físico no dia do retorno: linfonodos: endurecidos em torno 1,0 cm nas regiões supraclavicular e axilar esquerdas; toque retal: nodulações endurecidas comprimindo a ampola retal. A HIPÓTESE DIAGNÓSTICA É NEOPLASIA DO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Reto."
+    },
+    {
+     "letra": "B",
+     "texto": "Estômago."
+    },
+    {
+     "letra": "C",
+     "texto": "Ovário."
+    },
+    {
+     "letra": "D",
+     "texto": "Sistema reticulo endotelial."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000141047",
+   "codigo": "4000141047",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 88,
+   "temas": [
+    "Sintomas e Investigação Diagnóstica",
+    "Adenocarcinoma de Esôf ago"
+   ],
+   "enunciado": "Os principais fatores de risco para o adenocarcinoma esofágico são",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "tabagismo e etilismo."
+    },
+    {
+     "letra": "B",
+     "texto": "megaesôfago e tilose palmoplantar."
+    },
+    {
+     "letra": "C",
+     "texto": "doença do refluxo crônica e esôfago de Barrett."
+    },
+    {
+     "letra": "D",
+     "texto": "ingestão de substâncias quentes e idade avançada."
+    },
+    {
+     "letra": "E",
+     "texto": "antecedentes de neoplasias de orofaringe e laringe."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000140999",
+   "codigo": "4000140999",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 89,
+   "temas": [
+    "Disf agia Esof ágica Disf agia de Condução",
+    "Sintomas e Investigação Diagnóstica"
+   ],
+   "enunciado": "Paciente de 65 anos, tabagista ativo e etilista, com história de di culdade de deglutição de carne vermelha, associada a queixa de pirose e queimação retroesternal, iniciado inibidor de bomba de prótons e orientada interrupção do tabagismo, ajuste de dieta e medidas antirrefluxo. Após dois meses, o paciente retorna com perda ponderal de 8 kg e progressão do distúrbio de deglutição para alimentos pastosos. A conduta preconizada pelas diretrizes atuais, nesse momento, é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "aumentar ou trocar o inibidor de bomba de prótons."
+    },
+    {
+     "letra": "B",
+     "texto": "associar bromoprida ao tratamento atual."
+    },
+    {
+     "letra": "C",
+     "texto": "realizar um ultrassom hepático."
+    },
+    {
+     "letra": "D",
+     "texto": "realizar uma endoscopia digestiva alta."
+    },
+    {
+     "letra": "E",
+     "texto": "associar vitamina B12 ao tratamento atual."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000138926",
+   "codigo": "4000138926",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 90,
+   "temas": [
+    "Disf agia Esof ágica Disf agia de Condução",
+    "Acalásia Secundária Chagásica"
+   ],
+   "enunciado": "Neoplasias Malignas do Esôf ago Um paciente do sexo masculino, com 60 anos de idade, procurou ambulatório com queixa de disfagia progressiva, existente havia 10 anos, com piora importante 2 meses antes desse atendimento ambulatorial. No momento, queixava-se de que não conseguia se alimentar nem de líquidos, com perda ponderal de 8 kg no período. Como antecedentes importantes, apresentava uma carga tabágica de 20 maços/ano, etilismo de meio litro de destilados ao dia, epidemiologia positiva para doença de Chagas, sem históricos de câncer na família. A partir do caso clínico hipotético apresentado, julgue o item a seguir. O tratamento cirúrgico deve ser realizado de imediato, devido à impossibilidade de ingesta oral pelo paciente.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000138925",
+   "codigo": "4000138925",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 91,
+   "temas": [
+    "Disf agia Esof ágica Disf agia de Condução",
+    "Carcinoma de Células Escamosas CEC"
+   ],
+   "enunciado": "Um paciente do sexo masculino, com 60 anos de idade, procurou ambulatório com queixa de disfagia progressiva, existente havia 10 anos, com piora importante 2 meses antes desse atendimento ambulatorial. No momento, queixava-se de que não conseguia se alimentar nem de líquidos, com perda ponderal de 8 kg no período. Como antecedentes importantes, apresentava uma carga tabágica de 20 maços/ano, etilismo de meio litro de destilados ao dia, epidemiologia positiva para doença de Chagas, sem históricos de câncer na família. A partir do caso clínico hipotético apresentado, julgue o item a seguir. Câncer de esôfago é uma das possíveis hipóteses diagnósticas, pois o paciente apresenta vários fatores de risco para essa doença.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000138922",
+   "codigo": "4000138922",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 92,
+   "temas": [
+    "Esof agograma Baritado",
+    "Disf agia Esof ágica Disf agia de Condução",
+    "Neoplasias Malignas do Esôf ago"
+   ],
+   "enunciado": "Um paciente do sexo masculino, com 60 anos de idade, procurou ambulatório com queixa de disfagia progressiva, existente havia 10 anos, com piora importante 2 meses antes desse atendimento ambulatorial. No momento, queixava-se de que não conseguia se alimentar nem de líquidos, com perda ponderal de 8 kg no período. Como antecedentes importantes, apresentava uma carga tabágica de 20 maços/ano, etilismo de meio litro de destilados ao dia, epidemiologia positiva para doença de Chagas, sem históricos de câncer na família. A partir do caso clínico hipotético apresentado, julgue o item a seguir. O primeiro exame a ser solicitado para esclarecimento diagnóstico é o esofagograma.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000133731",
+   "codigo": "4000133731",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 93,
+   "temas": [
+    "Tratamento do Adenocarcinoma Gástrico"
+   ],
+   "enunciado": "Mulher de 42 anos realiza EDA para investigação de plenitude pós-prandial e perda ponderal de 20% de seu peso em três meses, sem medidas dietéticas. O exame evidencia lesão ulcerosa Borrmann III, pré-pilórica, em pequena curvatura, 10cm abaixo da JEG. O histopatológico confirma células de anel de sinete. Após estadiamento, não foram encontradas evidências de metástases. O tratamento cirúrgico, nesse caso, deve consistir em:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "gastrectomia subtotal com linfadenectomia a D2."
+    },
+    {
+     "letra": "B",
+     "texto": "gastrectomia total com linfadenectomia a D3."
+    },
+    {
+     "letra": "C",
+     "texto": "antrectomia com reconstrução a BII."
+    },
+    {
+     "letra": "D",
+     "texto": "ressecção endoscópica."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000133729",
+   "codigo": "4000133729",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 94,
+   "temas": [
+    "Classif icação Histológica de Lauren",
+    "Classif icação de Borrmann"
+   ],
+   "enunciado": "Mulher de 42 anos realiza EDA para investigação de plenitude pós-prandial e perda ponderal de 20% de seu peso em três meses, sem medidas dietéticas. O exame evidencia lesão ulcerosa Borrmann III, pré-pilórica, em pequena curvatura, 10cm abaixo da JEG. O histopatológico confirma células de anel de sinete. As características dessa lesão quanto à classificação de Borrmann e o tipo tumoral de Lauren para esse caso, respectivamente, são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "pólipo séssil, tipo difuso."
+    },
+    {
+     "letra": "B",
+     "texto": "linite plástica, tipo intestinal ."
+    },
+    {
+     "letra": "C",
+     "texto": "bordos elevados, tipo intestinal ."
+    },
+    {
+     "letra": "D",
+     "texto": "bordos elevados e infiltrados, tipo difuso."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000133724",
+   "codigo": "4000133724",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 95,
+   "temas": [
+    "Complicações",
+    "Adenocarcinoma de Esôf ago"
+   ],
+   "enunciado": "Mulher de 57 anos e com sobrepeso apresenta doença do re uxo gastroesofágico há 20 anos. Relata que nos últimos seis meses houve piora dos sintomas paulatinamente e que está com di culdade de ingestão de alimentos sólidos, necessitando da ajuda de líquido para deglutir. Também refere perda ponderal de mais de 10% e que faz uso regular de omeprazol há 10 anos. A endoscopia digestiva alta (EDA) evidenciou estenose esbranquiçada e friável na transição do 1/3 distal, mas sem sinais de esofagite após a passagem desse trecho. Nesse caso, é esperado que a biópsia realizada na região de estenose apresente o seguinte histopatológico:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "linfoma MALT."
+    },
+    {
+     "letra": "B",
+     "texto": "adenocarcinoma."
+    },
+    {
+     "letra": "C",
+     "texto": "metaplasia de Barret ."
+    },
+    {
+     "letra": "D",
+     "texto": "tuberculose esofagiana."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000132787",
+   "codigo": "4000132787",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 96,
+   "temas": [
+    "Estadiamento"
+   ],
+   "enunciado": "Em paciente portador de neoplasia maligna do esôfago, não faz parte do estadiamento pré-operatório:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Exame físico."
+    },
+    {
+     "letra": "B",
+     "texto": "Manometria esofágica."
+    },
+    {
+     "letra": "C",
+     "texto": "Ultrassom endoscópico."
+    },
+    {
+     "letra": "D",
+     "texto": "Tomografia do tórax."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000131030",
+   "codigo": "4000131030",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 97,
+   "temas": [
+    "Fatores de Risco",
+    "Epidemiologia"
+   ],
+   "enunciado": "Dentre os fatores de risco do câncer gástrico, qual é considerado, isoladamente, o mais importante?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Helicobacter pylori"
+    },
+    {
+     "letra": "B",
+     "texto": "Alcoolismo."
+    },
+    {
+     "letra": "C",
+     "texto": "Tabagismo."
+    },
+    {
+     "letra": "D",
+     "texto": "Gastrite crônica atrófica ."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000131028",
+   "codigo": "4000131028",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 98,
+   "temas": [
+    "Tratamento do Câncer do Esôf ago e da Transição Esof agoGástrica"
+   ],
+   "enunciado": "Em relação aos marcadores tumorais no seguimento dos pacientes operados de tumor de esôfago, é verdadeiro afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O CA 19.9 e o 125 têm grande sensibilidade e especificidade."
+    },
+    {
+     "letra": "B",
+     "texto": "O CEA é o mais empregado, embora com baixa sensibilidade e especificidade."
+    },
+    {
+     "letra": "C",
+     "texto": "O CA 72.4 é o único utilizado."
+    },
+    {
+     "letra": "D",
+     "texto": "Nenhum marcador pode ser utilizado."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000129960",
+   "codigo": "4000129960",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 99,
+   "temas": [
+    "Apresentação Clínica"
+   ],
+   "enunciado": "Paciente sexo masculino, 60 anos, apresentando dor abdominal inespecí ca há 2 meses, inapetência, emagrecimento e perda de apetite. No exame físico apresenta lesão em cicatriz umbilical, conforme imagem, cuja biópsia mostrou células em anel de sinete. Sobre a condução do caso descrito, é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O próximo passo é realizar a tomografia de abdômen com contraste venoso e oral para esclarecimento diagnóstico."
+    },
+    {
+     "letra": "B",
+     "texto": "Deve-se indicar uma endoscopia digestiva alta e caso resulte em normal indicar uma colonoscopia."
+    },
+    {
+     "letra": "C",
+     "texto": "O diagnóstico é de hérnia encarcerada e o tratamento é cirúrgico."
+    },
+    {
+     "letra": "D",
+     "texto": "Deve-se indicar a videolaparoscopia para estadiamento e planejamento do tratamento da doença."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q099-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000129773",
+   "codigo": "4000129773",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 100,
+   "temas": [
+    "MALT",
+    "Hematologia",
+    "Linf onodos e Tecidos Linf oides Associados a Mucosas MALT"
+   ],
+   "enunciado": "A primeira opção de tratamento que se imagina para um linfoma de células B (MALT) confinado ao estômago é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Gastrectomia subtotal."
+    },
+    {
+     "letra": "B",
+     "texto": "Antibioticoterapia para erradicação do Helicobacter pylori."
+    },
+    {
+     "letra": "C",
+     "texto": "Radioterapia + quimioterapia."
+    },
+    {
+     "letra": "D",
+     "texto": "Radioterapia."
+    },
+    {
+     "letra": "E",
+     "texto": "Quimioterapia."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000128415",
+   "codigo": "4000128415",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 101,
+   "temas": [
+    "Disf agia Esof ágica Disf agia de Condução",
+    "Carcinoma de Células Escamosas CEC"
+   ],
+   "enunciado": "Adenocarcinoma de Esôf ago Paciente, 72 anos, do sexo masculino, tabagista e etilista. com história de disfagia progressiva, há aproximadamente um mês, associada à perda de 10 Kg. No momento, refere apenas ingestão de líquidos:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Pelas características da disfagia. diagnóstico diferencial com dirvertículo faringoesolageano é obrigatório."
+    },
+    {
+     "letra": "B",
+     "texto": "Endoscopia digestiva alta é o exame de escolha nesse paciente e o achado de lesão do terço médio é altamente sugestivo de adenocarcinoma."
+    },
+    {
+     "letra": "C",
+     "texto": "Rádio e quimioterapia não tem espaço no tratamento dos tumores esofágicos, independente do tipo histológico."
+    },
+    {
+     "letra": "D",
+     "texto": "Na vigência de fístula esôfago-brônquica, mesmo com achado de metástase hepática, a esofagectomia deve ser indicada como escolha paliativa."
+    },
+    {
+     "letra": "E",
+     "texto": "Os tumores de terço distal cresceram muito em incidência nos últimos anos, já sendo mais frequentes do que os tumores do terço médio."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000124942",
+   "codigo": "4000124942",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 102,
+   "temas": [
+    "Sistema TNM do CEC e do Adenocarcinoma de Esôf ago",
+    "Carcinoma de Células Escamosas CEC"
+   ],
+   "enunciado": "De acordo com o estadiamento Tumor-Linfonodo-Metástase (TNM – AJCC Câncer Staging Manual, ed 7, 2010), um paciente que apresenta um carcinoma de células escamosas esofágico, que invade a submucosa, com 2 metástases para linfonodos regionais e sem metástases à distancia é classificado como:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "T1bN1M0"
+    },
+    {
+     "letra": "B",
+     "texto": "T1aN1M0"
+    },
+    {
+     "letra": "C",
+     "texto": "T2N1M0"
+    },
+    {
+     "letra": "D",
+     "texto": "T2N2M0"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000124203",
+   "codigo": "4000124203",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 103,
+   "temas": [
+    "Tumor Estromal Gastrointestinal GIST"
+   ],
+   "enunciado": "Qual o local mais comum de incidência de GIST (tumor estromal gastrointestinal) no aparelho digestivo?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Esôfago."
+    },
+    {
+     "letra": "B",
+     "texto": "Estômago."
+    },
+    {
+     "letra": "C",
+     "texto": "Fígado."
+    },
+    {
+     "letra": "D",
+     "texto": "Intestino delgado."
+    },
+    {
+     "letra": "E",
+     "texto": "Cólon."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000123447",
+   "codigo": "4000123447",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 104,
+   "temas": [
+    "Tratamento do Adenocarcinoma Gástrico",
+    "Cirurgia"
+   ],
+   "enunciado": "Paciente de 78 anos, hipertensa e ex-tabagista, iniciou com quadro clínico de dor epigástrica, perda de 8% do peso habitual e vômitos pós-alimentares. Endoscopia digestiva alta evidenciou lesão ulcerada circunferencial na região pré-pilórica, impedindo a passagem do endoscópio para o duodeno, com estase do conteúdo gástrico (ao exame anatomopatológico: adenocarcinoma gástrico pouco diferenciado tipo intestinal). Tomogra a computadorizada de abdômen identi cou lesão expansiva na região do antro/piloro, em contato com a cabeça do pâncreas, sem invasão de estruturas adjacentes e ausência de metástases à distância. Que conduta, dentre as abaixo, é a mais adequada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Laparoscopia com o objetivo de avaliar a presença de metástases peritoneais e orientar o tratamento não cirúrgico."
+    },
+    {
+     "letra": "B",
+     "texto": "Ultrassonografia endoscópica com o objetivo de determinar a profundidade de invasão da parede e indicar quimioterapia neoadjuvante."
+    },
+    {
+     "letra": "C",
+     "texto": "Laparotomia exploradora para avaliar a extensão da doença e definir a realização de ressecção ou derivação gastrointestinal."
+    },
+    {
+     "letra": "D",
+     "texto": "Gastrectomia parcial distal laparoscópica, por tratar-se de paciente idosa com doença localizada."
+    },
+    {
+     "letra": "E",
+     "texto": "Gastrectomia total com linfadenectomia a D2."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000111268",
+   "codigo": "4000111268",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 105,
+   "temas": [
+    "Estadiamento",
+    "Adenocarcinoma de Esôf ago",
+    "Métodos Complementares"
+   ],
+   "enunciado": "Homem, 63 anos, em acompanhamento em Unidade Básica de Saúde por conta de queixa de azia há mais de 10 anos, vem apresentando disfagia para alimentos sólidos. Realizou exame de endoscopia digestiva alta que revelou lesão ulcerada, subestenosante na região do esôfago distal até a transição esôfago-gástrica. A biópsia está em análise. Qual é a principal suspeita anátomo-patológica e a próxima etapa para estadiamento do caso, de acordo com esta hipótese?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Adenocarcinoma; tomografia de pescoço, tórax, abdome e pelve."
+    },
+    {
+     "letra": "B",
+     "texto": "Adenocarcinoma; tomografia de tórax e laparoscopia."
+    },
+    {
+     "letra": "C",
+     "texto": "Carcinoma espino-celular; tomografia por emissão de pósitrons (PET-CT)."
+    },
+    {
+     "letra": "D",
+     "texto": "Carcinoma espino-celular; tomografia de pescoço, tórax, abdome e pelve."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000111145",
+   "codigo": "4000111145",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 106,
+   "temas": [
+    "Tumor Estromal Gastrointestinal GIST"
+   ],
+   "enunciado": "Homem, 54 anos de idade, apresentou hematêmese. Realizada endoscopia digestiva alta que evidenciou abaulamento no corpo gástrico (grande curvatura), com pequena úlcera e sinais de sangramento recente. Biópsia revelou tratar-se de tumor estromal do trato gastrointestinal (GIST). Tomogra a de tórax e abdome: lesão de 10cm na grande curvatura/corpo gástrico, sem invasões de estruturas adjacentes. Sem sinais de lesões hepáticas ou pulmonares, ascite ou implantes peritoneais. Qual é a melhor conduta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Gastrectomia sem linfadenectomia."
+    },
+    {
+     "letra": "B",
+     "texto": "Gastrectomia com linfadenectomia."
+    },
+    {
+     "letra": "C",
+     "texto": "Quimio-radioterapia neoadjuvante."
+    },
+    {
+     "letra": "D",
+     "texto": "Quimioterapia neoadjuvante."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000102987",
+   "codigo": "4000102987",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 107,
+   "temas": [
+    "Tratamento do Adenocarcinoma Gástrico"
+   ],
+   "enunciado": "Paciente de 70 anos, hipertenso controlado, com adenocarcinoma gástrico com células em anel de sinete medindo 1,4cm, sem ulceração, localizado na grande curvatura de corpo distal. Estadiado por ecoendoscopia como restrito à mucosa. Qual é a conduta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Gastrectomia em cunha com pesquisa de linfonodo sentinela e linfadenectomia regional."
+    },
+    {
+     "letra": "B",
+     "texto": "Gastrectomia subtotal com linfadenectomia D2."
+    },
+    {
+     "letra": "C",
+     "texto": "Mucosectomia endoscópica."
+    },
+    {
+     "letra": "D",
+     "texto": "Dissecção endoscópica submucosa (ESD)."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000099859",
+   "codigo": "4000099859",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 108,
+   "temas": [
+    "Apresentação Clínica"
+   ],
+   "enunciado": "Paciente do sexo feminino, 73 anos, procurou o setor de emergência com queixa de nódulo umbilical doloroso com aumento progressivo há 4 meses. Exame físico revelou nódulo umbilical medindo 2 cm, doloroso e aderido. Qual diagnóstico mais provável e qual principal doença relacionada a esse achado?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Pioderma grangrenoso – Doença de Crohn."
+    },
+    {
+     "letra": "B",
+     "texto": "Hérnia encarcerada – Hérnia umbilical."
+    },
+    {
+     "letra": "C",
+     "texto": "Nódulo de Sister Mary Joseph – neoplasias de trato gastrointestinal ou ginecológicas."
+    },
+    {
+     "letra": "D",
+     "texto": "Granuloma piogênico – Trauma."
+    },
+    {
+     "letra": "E",
+     "texto": "Quelóide – Cirurgia de acesso umbilical prévia."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q108-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000095734",
+   "codigo": "4000095734",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 109,
+   "temas": [
+    "Classif icação Histológica de Lauren"
+   ],
+   "enunciado": "Sobre câncer gástrico, o tipo histológico adenocarcinoma tipo difuso de Lauren, está mais frequentemente associado às condições abaixo, EXCETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "pacientes jovens."
+    },
+    {
+     "letra": "B",
+     "texto": "tipo sanguíneo A."
+    },
+    {
+     "letra": "C",
+     "texto": "células em anel de sinete."
+    },
+    {
+     "letra": "D",
+     "texto": "disseminação transmuraI/Iinfática."
+    },
+    {
+     "letra": "E",
+     "texto": "metaplasia intestinal."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000092868",
+   "codigo": "4000092868",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 110,
+   "temas": [
+    "Tratamento do Adenocarcinoma Gástrico",
+    "Cirurgia"
+   ],
+   "enunciado": "Em relação ao adenocarcinoma gástrico, é correto afirmar: Respostas: 1 12 23 34 45 56 67 78 89 100",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O subtipo intestinal de Lauren está fortemente associado a mutações do gene CDH1."
+    },
+    {
+     "letra": "B",
+     "texto": "A linfadenectomia D2 está indicada para todos os pacientes."
+    },
+    {
+     "letra": "C",
+     "texto": "A linfadenectomia D3 está indicada para pacientes com estágio intermediário."
+    },
+    {
+     "letra": "D",
+     "texto": "A neoadjuvância não tem papel no câncer gástrico."
+    },
+    {
+     "letra": "E",
+     "texto": "O subtipo intestinal de Lauren tem uma forte associação com gastrite atrófica e infecção por H. Pylori."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": [
+  {
+   "id": "4000167436",
+   "codigo": "4000167436",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Neoplasias de Estômago e Esôfago",
+   "numero": 62,
+   "temas": [
+    "Neoplasias Malignas do Esôf ago",
+    "Cirurgia"
+   ],
+   "enunciado": "Homem, 57a, refere di culdade em se alimentar com alimentos sólidos e depois a líquidos há três meses, associada a perda de peso de 5 Kg no período. Há uma semana apresenta tosse todas as vezes que tenta ingerir líquidos e com a própria saliva. Antecedente pessoal: alcoolista e tabagista há longo tempo. A endoscopia mostra uma lesão vegetante e estenosante de esôfago a 22 cm da arcada dentária superior. A COMPLICAÇÃO CLÍNICA DESCRITA HÁ UMA SEMANA ASSOCIADA A ESSE DIAGNÓSTICO É:",
+   "alternativas": [],
+   "gabarito": null,
+   "imagens": [],
+   "revisar": [],
+   "motivo_exclusao": "sem alternativas"
+  }
+ ]
+}

@@ -1,0 +1,2750 @@
+{
+ "questoes": [
+  {
+   "id": "4000184050",
+   "codigo": "4000184050",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 1,
+   "temas": [
+    "Pediatria",
+    "Classif icação e Tratamento da Crise"
+   ],
+   "enunciado": "Caso 8 Paciente de 5 anos, sexo masculino, com antecedente de dermatite atópica, rinite alérgica e internações prévias por crises de sibilância, foi admitido no setor de emergência, apresentando quadro de febre de até 39.5 ºC, tosse e di culdade para respirar há dois dias. Apresenta o seguinte exame clínico inicial: I. regular estado geral, corado, hidratado, alerta, orientado; II. 2 BRNF, sem sopros, FC: 152 bpm, PA: 88x46 mmHg; III. murmúrio vesicular presente, reduzido bilateralmente, com estertores crepitantes em base direita e sibilos difusos, tiragem subdiafragmática, intercostal e de fúrcula, com tempo expiratório prolongado, FR: 42 irpm; saturação de oxigênio de 92% em ar ambiente, 96% em máscara de Venturi 50%; tempo de enchimento capilar de 2 segundos, pulsos cheios; IV. peso 20 Kg. Realizou o exame radiológico apresentado. Qual é a prescrição inicial mais adequada (itens 1-3) e o antimicrobiano a ser introduzido (item 4)?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1) Salbutamol 600 mcg, via inalatória, 3x com intervalo de 20 minutos;"
+    },
+    {
+     "letra": "B",
+     "texto": "1) Salbutamol 200 mcg, via inalatória, 3x com intervalo de 20 minutos;"
+    },
+    {
+     "letra": "C",
+     "texto": "1) Salbutamol 200 mcg, via inalatória, 3x com intervalo de 20 minutos;"
+    },
+    {
+     "letra": "D",
+     "texto": "1) Salbutamol 600 mcg, via inalatória, 3x com intervalo de 20 minutos;"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q001-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000183366",
+   "codigo": "4000183366",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 2,
+   "temas": [
+    "Pediatria",
+    "Tratamento da Crise Aguda"
+   ],
+   "enunciado": "Adolescente de 12 anos, do sexo masculino, obeso, asmático em tratamento irregular da intercrise, chega na emergência com tosse seca, tempo expiratório prolongado, sem sibilância e afebril. Sua saturação de oxigênio é de 90% em ar ambiente, está bradipneico, e a gasometria arterial evidencia acidose respiratória. O tratamento inicial nesse caso é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Intubação traqueal após sequência rápida com quetamina."
+    },
+    {
+     "letra": "B",
+     "texto": "Nebulização inicial com Salbutamol e magnésio intravenoso."
+    },
+    {
+     "letra": "C",
+     "texto": "Salbutamol inalado contínuo e ventilação não invasiva confortável."
+    },
+    {
+     "letra": "D",
+     "texto": "Salbutamol e metilprednisolona, ambos intravenosos."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000182372",
+   "codigo": "4000182372",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 3,
+   "temas": [
+    "Pediatria",
+    "Classif icação e Tratamento da Crise"
+   ],
+   "enunciado": "Criança do sexo masculino de 7 anos de idade é admitida na unidade de emergência com desconforto respiratório. Há 2 dias, o paciente iniciou com quadro de coriza, que evoluiu nas últimas 24 horas com cansaço para respirar. Ao exame físico está em regular estado geral, pálido e com tiragem subdiafragmática e de fúrcula. Apresenta saturação periférica de oxigênio de 89% em ar ambiente, frequência respiratória de 40ipm, frequência cardíaca de 135bpm e temperatura axilar de 36,6ºC. Ausculta pulmonar apresenta murmúrios vesiculares reduzidos globalmente, com sibilos inspiratórios e expiratórios, além de tempo expiratório prolongado. Tem história prévia de asma e faz uso contínuo de beclometasona inalatória. Na unidade de emergência foi iniciado tratamento com salbutamol inalatório e corticoide sistêmico. Sobre o caso clínico, assinale a alternativa correta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O paciente apresenta uma crise de asma grave. Caso não responda ao tratamento inicial com salbutamol inalatório, mantendo-se em crise grave, deverá ser feito sulfato de magnésio."
+    },
+    {
+     "letra": "B",
+     "texto": "O paciente apresenta uma crise de asma moderada. Caso tenha resposta parcial ao salbutamol inalatório, passando a ter critérios de crise moderada ou leve, deverá ser feito sulfato de magnésio."
+    },
+    {
+     "letra": "C",
+     "texto": "O paciente apresenta uma crise de asma grave. Como o sulfato de magnésio não é liberado para crianças desta faixa etária, deverá ser feita a intubação orotraqueal de imediato, caso não responda ao tratamento inicial."
+    },
+    {
+     "letra": "D",
+     "texto": "O paciente apresenta uma crise de asma moderada. Desta forma, devemos associar o brometo de ipratrópio inalatório ao salbutamol, caso o paciente tenha resposta parcial ao tratamento inicial."
+    },
+    {
+     "letra": "E",
+     "texto": "O paciente apresenta uma crise de asma grave. Por isso, devemos dar preferência à administração endovenosa do corticoide, uma vez que sua absorção é mais lenta quando feito por via oral."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000181387",
+   "codigo": "4000181387",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 4,
+   "temas": [
+    "Síndrome do Lactente Sibilante Bebê chiador",
+    "Pediatria"
+   ],
+   "enunciado": "A mãe de uma criança de 12 meses de idade vem ao ambulatório porque sua lha já teve quatro crises de sibilância no último semestre. Ela pergunta ao médico qual a gravidade do problema. Quais sinais de alarme devem ser investigados para identificar a presença ou não de doenças subjacentes de maior gravidade?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Crise que iniciaram após episódio de bronquiolite que necessitou do uso prolongado de oxigênio."
+    },
+    {
+     "letra": "B",
+     "texto": "Crises de início tardio, no segundo semestre de vida, após exposição à fumaça de cigarro."
+    },
+    {
+     "letra": "C",
+     "texto": "Crises de tosse seca noturna que podem estar relacionadas com asma atópica."
+    },
+    {
+     "letra": "D",
+     "texto": "Crises de sibilância recorrente responsiva a broncodilatadores."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000170591",
+   "codigo": "4000170591",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 5,
+   "temas": [
+    "Pediatria",
+    "Classif icação e Tratamento da Crise"
+   ],
+   "enunciado": "Uma criança de sete anos de idade, com antecedente pessoal de asma, iniciou quadro de dispneia e sibilância há três horas, sem resposta às medidas terapêuticas iniciadas em sua casa (administração de oito entrada no serviço de emergência agitado, com fala entrecortada, FR de 34 ipm, FC de 120 bpm, saturação de 89% em ar ambiente, sibilos difusos e tiragem intercostal e subcostal. Com base nesse caso hipotético, assinale a alternativa que apresenta a melhor proposta terapêutica de acordo com a Global Initiative For Asthma.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "máscara de oxigênio para alcançar saturação entre 94 e 98%, salbutamol, ipratrópio e corticoide endovenoso"
+    },
+    {
+     "letra": "B",
+     "texto": "máscara de oxigênio para alcançar saturação entre 98 e 100%, salbutamol, corticoide inalatório e aminofilina"
+    },
+    {
+     "letra": "C",
+     "texto": "máscara de oxigênio para alcançar saturação entre 94 e 98%, terbutalina, ipratrópio e corticoide oral"
+    },
+    {
+     "letra": "D",
+     "texto": "máscara de oxigênio para alcançar saturação entre 98 e 100%, salbutamol, corticoide endovenoso e sulfato de magnésio"
+    },
+    {
+     "letra": "E",
+     "texto": "máscara de oxigênio para alcançar saturação entre 94 e 98%, salbutamol, aminofilina e corticoide oral ou endovenoso"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000170009",
+   "codigo": "4000170009",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 6,
+   "temas": [
+    "Classif icação do controle clínico da asma"
+   ],
+   "enunciado": "Assinale a alternativa que apresenta o quadro clínico de uma criança com asma parcialmente controlada, de acordo com a Global Iniciative for Asthma",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tosse seca durante 4 dias na semana, utilizando medicação de resgate 3 vezes na semana, consegue brincar normalmente e dorme a noite toda."
+    },
+    {
+     "letra": "B",
+     "texto": "Cansaço para correr em todas as brincadeiras, utiliza medicação de resgate para tosse todas as vezes que brinca e tosse noturna."
+    },
+    {
+     "letra": "C",
+     "texto": "Uso de medicação de controle (beclometasona), brinca normalmente, dorme a noite toda e apresentou uso de medicação de resgate há 4 meses."
+    },
+    {
+     "letra": "D",
+     "texto": "Uso de medicação de controle, tosse todos os dias, apresenta tosse noturna e faz uso de medicação de resgate a maioria dos dias da semana."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169506",
+   "codigo": "4000169506",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 7,
+   "temas": [
+    "Tratamento de Manutenção"
+   ],
+   "enunciado": "Com relação aos dispositivos geradores de aerossóis utilizados no tratamento de manutenção da asma brônquica na infância, assinalar a alternativa CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Inaladores de pó seco, quando acoplados a um espaçador valvulado, duplicam a deposição pulmonar de medicação."
+    },
+    {
+     "letra": "B",
+     "texto": "Nebulizadores ultrassônicos são preferíveis aos inaladores pressurizados dosimetrados, pois mantêm a estabilidade de todas as drogas preventivas utilizadas."
+    },
+    {
+     "letra": "C",
+     "texto": "Inaladores de pó seco são geradores de aerossol de última geração, podendo ser utilizados em todas as idades."
+    },
+    {
+     "letra": "D",
+     "texto": "Os inaladores pressurizados acoplados a espaçadores devem, preferencialmente, ser utilizados fora do período de choro."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169062",
+   "codigo": "4000169062",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 8,
+   "temas": [
+    "Pediatria",
+    "Classif icação e Tratamento da Crise"
+   ],
+   "enunciado": "Escolar de 6 anos de idade, asmático, chegou ao pronto atendimento com queixa de di culdade para respirar iniciada ho je. Nega febre. Refere não ter usado nenhuma medicação. Ao exame físico apresenta di culdade para conversar, utilizando frases curtas e pausadas, preferindo car sentado. Consciente, orientado, corado, hidratado, anictérico, BRNF sem sopros, FC: 110 bpm. Murmúrio vesicular diminuído com sibilos intensos, utilizando musculatura torácica acessória. FR: 28 ipm e SatO₂: 92% em ar ambiente. Abdome sem alterações. Tempo de enchimento capilar normal. Entre as seguintes propostas terapêuticas, a conduta inicial mais adequada para este caso é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "salbutamol inalatório a cada 20 min. na 1ª hora."
+    },
+    {
+     "letra": "B",
+     "texto": "salmeterol inalatório e reavaliação em 20 min."
+    },
+    {
+     "letra": "C",
+     "texto": "salbutamol inalatório a cada 20 min. na 1ª hora e metilprednisolona endovenosa."
+    },
+    {
+     "letra": "D",
+     "texto": "salmeterol inalatório, metilprednisolona endovenosa e reavaliação em 20 min."
+    },
+    {
+     "letra": "E",
+     "texto": "salbutamol inalatório a cada 20 min. na 1ª hora e prednisolona oral."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169059",
+   "codigo": "4000169059",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 9,
+   "temas": [
+    "Diagnóstico",
+    "Tratamento de Manutenção",
+    "Pediatria"
+   ],
+   "enunciado": "Criança de 5 anos de idade apresenta episódios mensais de tosse, dispneia e sibilos. Mãe refere que esses episódios atrapalham o sono e são responsáveis por faltas frequentes à escola. O último foi há 10 dias. Queixa-se também que a pele de seu lho é seca com lesões eritematosas e pruriginosas. Antecedentes familiares: mãe com rinite; pai teve asma quando criança e uma irmã com asma e rinite. Entre as seguintes propostas terapêuticas, a mais apropriada para este caso é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "antagonista dos receptores dos leucotrienos;"
+    },
+    {
+     "letra": "B",
+     "texto": "corticoide inalatório;"
+    },
+    {
+     "letra": "C",
+     "texto": "corticoide inalatório;"
+    },
+    {
+     "letra": "D",
+     "texto": "corticoide inalatório;"
+    },
+    {
+     "letra": "E",
+     "texto": "antagonista dos receptores dos leucotrienos;"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000168727",
+   "codigo": "4000168727",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 10,
+   "temas": [
+    "Classif icação e Tratamento da Crise"
+   ],
+   "enunciado": "Em uma Unidade de Pronto Atendimento (UPA), é atendida criança de nove anos, sexo feminino, sabidamente asmática, que apresenta crise aguda grave de sibilância associada a tosse, coriza nasal e odinofagia. Ao exame clinico são encontrados: febre (38.5°C), saturação de oxigênio em ar ambiente de 89%. frequência respiratória aumentada, sibilos expiratórios difusos em ambos hemitórax e uso de musculatura acessória. Foi realizado o tratamento inicial da crise com oxigenioterapia por cânula nasal (2L/min) e broncodilatador em aerossol com espaçador, cinco jatos a cada 20 minutos, durante uma hora. A paciente obteve resposta parcial, mantendo ainda sibilos expiratórios esparsos e uso de musculatura acessória, com saturação de oxigênio de 93% com oxigenioterapia (2L/min). Considerando o caso neste momento, qual das seguintes medicações deve ser incluída imediatamente à prescrição da paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Antibioticoterapia para Gram positivo por via venosa"
+    },
+    {
+     "letra": "B",
+     "texto": "Broncodilatador de longa duração, dois jatos, com espaçador"
+    },
+    {
+     "letra": "C",
+     "texto": "Corticoide por via oral (prednisona) 1 a 2mg/kg de peso"
+    },
+    {
+     "letra": "D",
+     "texto": "Epinefrina (adrenalina) por via intramuscular, dose única"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000167822",
+   "codigo": "4000167822",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 11,
+   "temas": [
+    "Fatores de Risco para sibilância em lactentes",
+    "Pediatria"
+   ],
+   "enunciado": "Um paciente de 9 meses de idade foi levado à emergência por seus pais, os quais relataram que, há uma semana, o lho iniciou com quadro de coriza nasal e tosse. Porém, na última noite, iniciou com febre de 38 °C e parecia estar cansado, com a respiração ofegante; inclusive, não está conseguindo mamar. Faz acompanhamento com pediatra e tem todas as vacinas em dia. O paciente tem um irmão de 6 anos de idade, que é asmático, e o pai também tem asma. Ao exame físico, verificaram-se FC = 150 bpm, FR = 80 irpm, SatO2 = 89% em AA e temperatura = 36,5 °C. Observaram-se oroscopia sem petéquias, sem placas, sem lesões, e otoscopia, com membrana timpânica translúcida, sem abaulamento, sem secreção. Ausculta cardíaca BNF, RR, 2t, sem sopro, e ausculta pulmonar MVUD, com sibilos difusos bilateralmente, apresentando tiragem sub e intercostal. Constatou-se também abdome RHA+, depressível; sem megalias, sem fáscies de dor à palpação. A respeito desse caso clínico e tendo em vista os conhecimentos médicos correlatos, julgue o item a seguir. Para avaliar a predisposição da asma, é sempre importante avaliar o histórico familiar de atopia.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000166902",
+   "codigo": "4000166902",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 12,
+   "temas": [
+    "Tratamento de Manutenção",
+    "Pediatria"
+   ],
+   "enunciado": "Qual é o tratamento de primeira linha e o mais efetivo para crianças com asma persistente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Corticosteroides inalados."
+    },
+    {
+     "letra": "B",
+     "texto": "Antagonistas dos receptores."
+    },
+    {
+     "letra": "C",
+     "texto": "Macrolídeos."
+    },
+    {
+     "letra": "D",
+     "texto": "Beta 2-agonistas de longa duração."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000166290",
+   "codigo": "4000166290",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 13,
+   "temas": [
+    "Tratamento de Manutenção",
+    "Pediatria"
+   ],
+   "enunciado": "Menino, 5 anos de idade, faz acompanhamento por asma em uma UBS há 6 meses. Na última consulta, há 3 meses, foi prescrito beclometasona, 100 mcg/dia, spray oral para uso contínuo e salbutamol, 400 mcg/dose, spray oral, para os sintomas e agudizações. Neste retorno, a mãe refere que, nos últimos 30 dias, o lho apresentou um episódio de despertar noturno por tosse e um episódio semanal de chiado e tosse ao jogar bola. Durante a consulta, constatou-se boa adesão ao tratamento, uso adequado dos dispositivos inalatórios e ausência de outras morbidades no período interconsulta. A conduta a ser tomada para essa criança, em relação à medicação de manutenção, é prescrever",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "beclometasona 400 mcg/dia spray oral, associado a antileucotrieno 5 mg/dia"
+    },
+    {
+     "letra": "B",
+     "texto": "beclometasona 200 mcg/dia spray oral."
+    },
+    {
+     "letra": "C",
+     "texto": "a associação formoterol 6 mcg/ budesonida 200 mcg, pó para aspiração de 12/12 horas."
+    },
+    {
+     "letra": "D",
+     "texto": "a associação salmeterol 25 mcg/ fluticasona 125 mcg, spray oral de 12/12 horas."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000166142",
+   "codigo": "4000166142",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 14,
+   "temas": [
+    "Pediatria",
+    "Classif icação e Tratamento da Crise"
+   ],
+   "enunciado": "Um paciente de quatro anos de idade, com exacerbação de asma, foi levado ao serviço de emergência agitado, com fala entrecortada, oximetria de 90% em ar ambiente, FR de 42 ipm, FC de 155 bpm e murmúrio vesicular muito diminuído, com raros sibilos. Com base nesse caso hipotético, é correto a rmar que, após instalar monitorização e oxigênio, seguindo as recomendações da",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "iniciar beta-2 agonista de curta duração, inalatório (6 puffs), e, se houver persistência dos sintomas, repetir a cada 20 minutos e considerar a associação de brometo de ipratrópio; caso haja falha de resposta durante a primeira hora de tratamento, será necessário prescrever prednisolona 2 mg/kg."
+    },
+    {
+     "letra": "B",
+     "texto": "iniciar beta-2 agonista de curta duração, inalatório (2"
+    },
+    {
+     "letra": "C",
+     "texto": "iniciar beta-2 agonista de curta duração, inalatório (6"
+    },
+    {
+     "letra": "D",
+     "texto": "iniciar beta-2 agonista de curta duração, inalatório (2"
+    },
+    {
+     "letra": "E",
+     "texto": "iniciar beta-2 agonista de curta duração, inalatório (6"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000164984",
+   "codigo": "4000164984",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 15,
+   "temas": [
+    "Pediatria",
+    "Asma",
+    "Classif icação e Tratamento da Crise"
+   ],
+   "enunciado": "Menina, 12 anos, portadora de asma em acompanhamento irregular é admitida com desconforto respiratório e tosse pouco produtiva, de início há 6 horas. O pai informa que administrou 20 “jatos” de salbutamol a cerca de 20 minutos. Exame físico, incompleto, pois a criança só aceita car sentada: fala entrecortada; agitação; frequência respiratória = 42irpm; SpO2 = 91%, em ar ambiente; batimento de asa de nariz; retração de fúrcula e tiragem intercostal. O manejo inicial mais adequado é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "repetir o salbutamol; solicitar Rx do tórax; não ofertar oxigênio suplementar"
+    },
+    {
+     "letra": "B",
+     "texto": "não repetir o salbutamol; prescrever corticoide oral esolicitar Rx do tórax"
+    },
+    {
+     "letra": "C",
+     "texto": "repetir o salbutamol; prescrever corticoide oral e ofertar oxigênio suplementar"
+    },
+    {
+     "letra": "D",
+     "texto": "iniciar agonista de longa duração do receptor beta adrenérgeico e corticoide oral"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163523",
+   "codigo": "4000163523",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 16,
+   "temas": [
+    "Diagnóstico",
+    "Pediatria",
+    "Quadro Clínico"
+   ],
+   "enunciado": "Em relação à asma na criança, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A asma é uma doença crônica que geralmente tem início em idade escolar."
+    },
+    {
+     "letra": "B",
+     "texto": "O tratamento do refluxo gastroesofágico geralmente melhora o controle da asma."
+    },
+    {
+     "letra": "C",
+     "texto": "A presença de sibilos persistentes com deformidade do tórax é sugestiva de asma."
+    },
+    {
+     "letra": "D",
+     "texto": "Teste cutâneo alérgico positivo e eosinofilia indicam resposta inadequada ao uso de corticoide inalatório."
+    },
+    {
+     "letra": "E",
+     "texto": "A resposta ao tratamento com corticoide é sugestiva de asma."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000157408",
+   "codigo": "4000157408",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 17,
+   "temas": [
+    "Síndrome do Lactente Sibilante Bebê chiador",
+    "Pediatria"
+   ],
+   "enunciado": "Sabemos que nem todos os lactentes sibilantes vão desenvolver asma após os seis anos de idade. Assinale a combinação de fatores que indicam lactentes sibilantes com maior probabilidade de desenvolver asma:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "um dos pais com asma e diagnóstico médico de rinite alérgica."
+    },
+    {
+     "letra": "B",
+     "texto": "diagnóstico médico de rinite alérgica e internação prévia."
+    },
+    {
+     "letra": "C",
+     "texto": "eosinofilia > 4 e antecedente de bronquiolite."
+    },
+    {
+     "letra": "D",
+     "texto": "sibilância não associada ao resfriado e internação prévia em UTI por bronquiolite."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000151670",
+   "codigo": "4000151670",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 18,
+   "temas": [
+    "Tratamento de Manutenção",
+    "Pediatria",
+    "Classif icação do controle clínico da asma"
+   ],
+   "enunciado": "Menino de 8 anos com diagnóstico de asma persistente, atualmente em uso de corticosteróide inalatório em dose moderada. Nos últimos 2 meses, apresentou 3 crises com controle domiciliar, sendo utilizado broncodilatador de ação curta por 5 dias. Tem apresentado sintomas de tosse noturna 1 ou 2 vezes na semana e queixa-se de chiado e tosse durante aula de educação física na escola. Quanto ao tratamento deste paciente, assinale a alternativa mais adequada para o caso.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A técnica de administração da medicação pouco interfere no tratamento, sendo necessário, neste caso, associar broncodilatador inalatório de longa duração ao tratamento"
+    },
+    {
+     "letra": "B",
+     "texto": "Avaliar a técnica de administração da medicação, verificar a presença de fatores desencadeantes. Se tudo estiver adequado, associar antileucotrieno ao tratamento."
+    },
+    {
+     "letra": "C",
+     "texto": "Avaliar a técnica de administração da medicação, verificar a presença de fatores desencadeantes. Se tudo estiver adequado, aumentar o corticosteróide (dose alta) inalatório e associar antileucotrieno ao tratamento."
+    },
+    {
+     "letra": "D",
+     "texto": "Avaliar a técnica de administração da medicação, verificar a presença de fatores desencadeantes. Se tudo estiver adequado, associar broncodilatador inalatório de longa duração ao tratamento."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000146368",
+   "codigo": "4000146368",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 19,
+   "temas": [
+    "Pediatria",
+    "Classif icação do controle clínico da asma"
+   ],
+   "enunciado": "Menino de 8 anos, com diagnóstico de asma, está em uso de beclometasona inalatória 200 mcg por dia há 1 mês. Retorna hoje para reavaliação. A mãe refere melhora dos sintomas. No último mês, ele não apresentou mais despertar noturno, apresentou episódios de tosse 3 vezes por semana, com boa resposta ao uso de salbutamol em todos esses episódios, e não teve limitações às atividades físicas. Assinale a alternativa que apresenta a classificação da asma e a respectiva conduta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Asma controlada – manter a dose da medicação."
+    },
+    {
+     "letra": "B",
+     "texto": "Asma parcialmente controlada – aumentar a dose da medicação."
+    },
+    {
+     "letra": "C",
+     "texto": "Asma parcialmente controlada – rever a técnica de inalação."
+    },
+    {
+     "letra": "D",
+     "texto": "Asma não controlada – aumentar a dose do corticoide inalatório."
+    },
+    {
+     "letra": "E",
+     "texto": "Asma não controlada – associar antileucotrieno ao corticoide inalatório."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000146049",
+   "codigo": "4000146049",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 20,
+   "temas": [
+    "Pediatria",
+    "Classif icação e Tratamento da Crise"
+   ],
+   "enunciado": "Menino, 8 anos de idade, com diagnóstico prévio de asma controlada e sensibilização a gatos, em uso domiciliar de corticoide inalatório, em dose baixa. Admitido em Unidade de Emergência com tosse e cansaço, iniciados há cerca de 2 horas, depois de ter ido à casa de uma tia que possui dois gatos de estimação. Ao exame: BEG, orientado, fala satisfatória, com leve tiragem intercostal e subdiafragmática. Sinais vitais: frequência cardíaca: 98 batimentos/minuto; frequência respiratória: 28 incursões/minuto; saturação de O₂: 95%, em ar ambiente. Sibilos expiratórios, bilateralmente. A conduta adequada para este menino deve ser:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Oxigênio suplementar de baixo fluxo. Iniciar o uso do broncodilatador por via inalatória, corticosteroide endovenoso. Solicitar radiografia de tórax e gasometria arterial."
+    },
+    {
+     "letra": "B",
+     "texto": "Oxigenioterapia suplementar, broncodilatador por via inalatória, corticosteroides por via oral de 12/12 horas. Colher gasometria arterial antes de iniciar terapêutica."
+    },
+    {
+     "letra": "C",
+     "texto": "Sala de emergência, monitorização cardíaca, iniciar oxigênio suplementar. Gasometria arterial. Broncodilatador por via inalatória, corticosteroide por via endovenosa."
+    },
+    {
+     "letra": "D",
+     "texto": "Broncodilatador por via inalatória e corticosteroide por via oral. Não estão indicados exames complementares para o caso neste momento, pela estabilidade clínica."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000146048",
+   "codigo": "4000146048",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 21,
+   "temas": [
+    "Pediatria",
+    "Classif icação e Tratamento da Crise"
+   ],
+   "enunciado": "Menino, 8 anos de idade, com diagnóstico prévio de asma controlada e sensibilização a gatos, em uso domiciliar de corticoide inalatório, em dose baixa. Admitido em Unidade de Emergência com tosse e cansaço, iniciados há cerca de 2 horas, depois de ter ido à casa de uma tia que possui dois gatos de estimação. Ao exame: BEG, orientado, fala satisfatória, com leve tiragem intercostal e subdiafragmática. Sinais vitais: frequência cardíaca: 98 batimentos/minuto; frequência respiratória: 28 incursões/minuto; saturação de O₂: 95%, em ar ambiente. Sibilos expiratórios, bilateralmente. Classi que a crise de asma, considerando os dados clínicos:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Leve"
+    },
+    {
+     "letra": "B",
+     "texto": "Grave"
+    },
+    {
+     "letra": "C",
+     "texto": "Moderada"
+    },
+    {
+     "letra": "D",
+     "texto": "Intensa"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000145898",
+   "codigo": "4000145898",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 22,
+   "temas": [
+    "Diagnóstico",
+    "Pediatria"
+   ],
+   "enunciado": "Um menino de oito anos de idade, previamente saudável, tem história de tosse há quarenta dias, principalmente durante atividades físicas, quando joga bola. Também queixa-se de coriza e prurido nasal com tempo frio e cheiros fortes. Ao exame físico, nota-se pele ressecada, com manchas brancas em membros. Com base nesse caso hipotético, assinale a alternativa que apresenta o exame complementar de escolha para o diagnóstico.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "prova de função pulmonar"
+    },
+    {
+     "letra": "B",
+     "texto": "radiografia de seios da face"
+    },
+    {
+     "letra": "C",
+     "texto": "radiografia de tórax"
+    },
+    {
+     "letra": "D",
+     "texto": "parasitológico de fezes"
+    },
+    {
+     "letra": "E",
+     "texto": "PPD"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000144742",
+   "codigo": "4000144742",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 23,
+   "temas": [
+    "Pediatria",
+    "Classif icação e Tratamento da Crise"
+   ],
+   "enunciado": "Menino, 8 anos de idade, chega ao PS em regular estado geral, agitado, taquidispneico, com retração intercostal e subdiafragmática moderada. Frequência respiratória de 36 irpm e saturação arterial de oxigênio (SatO2) 92% em ar ambiente. Ausculta pulmonar com MV diminuído globalmente e sibilos difusos. Mãe refere que ele tem asma e no trajeto de 40 minutos utilizou salbutamol inalatório por 2 vezes, 4 pu s/vez. De acordo com as recomendações do GINA (Global Initiative for Asthma, 2020) qual é a conduta mais adequada quanto ao fornecimento de oxigênio?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Não há necessidade de oferta de O2 suplementar porque a SatO” está acima de 90%."
+    },
+    {
+     "letra": "B",
+     "texto": "Máscara simples de oxigênio, porque fornece concentrações de oxigênio acima de 60%."
+    },
+    {
+     "letra": "C",
+     "texto": "Cateter de O² com fluxo de 2 L/minuto, mantendo SatO² alvo acima de 92%."
+    },
+    {
+     "letra": "D",
+     "texto": "Máscara de Venturi com fração inspirada de oxigênio de 50%, mantendo SatO² alvo acima de 94%."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000144740",
+   "codigo": "4000144740",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 24,
+   "temas": [
+    "Tratamento de Manutenção",
+    "Pediatria",
+    "Classif icação do controle clínico da asma"
+   ],
+   "enunciado": "Menino, 7 anos de idade, apresenta episódios recorrentes de tosse seca, chiado e falta de ar nos últimos 3 meses, com uso frequente de broncodilatador. Refere, ainda, falta de ar e chiado no peito ao correr ou subir escadas. Nega crises graves ou internação. Para o controle da asma deste paciente é indicado:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "uso diário de corticoide inalatório em dose alta e broncodilatador de longa ação nas crises."
+    },
+    {
+     "letra": "B",
+     "texto": "uso de corticoide inalatório em dose alta com broncodilatador de longa ação, diariamente e nas crises."
+    },
+    {
+     "letra": "C",
+     "texto": "uso diário de antileucotrieno e broncodilatador de longa ação nas crises."
+    },
+    {
+     "letra": "D",
+     "texto": "uso diário de corticoide inalatório em dose baixa e broncodilatador de curta ação nas crises."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000144541",
+   "codigo": "4000144541",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 25,
+   "temas": [
+    "Diagnóstico",
+    "Pediatria"
+   ],
+   "enunciado": "No diagnóstico de asma, sobre a(s) indicação(ões) para investigação adicional para lactantes sibilantes assinale V (verdadeiro) ou F (falso) nas alternativas a seguir. () Associação dos sintomas com desencadeantes típicos, como as IVASs. () Sintomas precoces, iniciados ainda no período neonatal. () Ausência de resposta às medicações de controle para asma. () Vômitos associados à dificuldade de crescimento. Assinale a alternativa que apresenta a sequência correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "F -V -V -V"
+    },
+    {
+     "letra": "B",
+     "texto": "V -V -V -F"
+    },
+    {
+     "letra": "C",
+     "texto": "F-V-F-V"
+    },
+    {
+     "letra": "D",
+     "texto": "V -F -V -F"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000144290",
+   "codigo": "4000144290",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 26,
+   "temas": [
+    "Pediatria",
+    "Classif icação e Tratamento da Crise"
+   ],
+   "enunciado": "Menina de 12 anos de idade com diagnóstico de asma desde os 2 anos de idade, sem uso de medicações de forma contínua. Chega ao pronto socorro com tosse, chiado, dispneia e vômitos há 1 dia. Exame físico: temperatura axilar: 36,7º C; frequência respiratória: 38 rpm; frequência cardíaca: 118 bpm; Sat 02 91 %; pico de uxo expiratório 40% do predito. Dispneia moderada com tiragens intercostais, de fúrcula e sibilos expiratórios. Consciente e acianótica. O tratamento inicial ideal para essa paciente seria o B2 agonista de ação curta inalatório",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "em doses elevadas e repetidas e, caso não haja resposta na primeira hora, corticoide endovenoso."
+    },
+    {
+     "letra": "B",
+     "texto": "em doses elevadas e repetidas associado ao brometo de ipratroprium e corticoide endovenoso."
+    },
+    {
+     "letra": "C",
+     "texto": "em doses habituais e repetidas e, caso não haja resposta na primeira hora, corticoide endovenoso."
+    },
+    {
+     "letra": "D",
+     "texto": "em doses habituais e repetidas associado à aminofilina endovenosa."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000143245",
+   "codigo": "4000143245",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 27,
+   "temas": [
+    "Tratamento de Manutenção"
+   ],
+   "enunciado": "Escolar de 8 anos, com asma brônquica, em uso domiciliar de inalatórios ( baixa dose), é levado à emergência devido à crise grave de broncoespasmo com saturação de oxigênio de 90% e tiragem subcostal moderada. Necessitou de terapia de resgate com oxigenoterapia, salbutamol e corticoterapia sistêmica, apresentando melhora da saturação de oxigênio após uma hora, seguida de alta hospitalar. A melhor terapêutica domiciliar da asma desse paciente, após o episódio, é prescrever",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "curta duração + corticoide em baixa dose inalatórios"
+    },
+    {
+     "letra": "B",
+     "texto": "longa duração + corticoide em baixa dose inalatórios"
+    },
+    {
+     "letra": "C",
+     "texto": "curta duração + corticoide em média dose inalatórios"
+    },
+    {
+     "letra": "D",
+     "texto": "longa duração + corticoide em média dose inalatórios"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000142905",
+   "codigo": "4000142905",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 28,
+   "temas": [
+    "Pediatria",
+    "Classif icação e Tratamento da Crise"
+   ],
+   "enunciado": "Caso clínico 1A9-I Um menino de nove anos de idade foi levado à emergência de um hospital por sua mãe devido a crise de asma iniciada havia dois dias. Conforme a mãe, o menino tinha crises desde os quatro anos de idade, tendo chegado a fazer mais de três episódios ao mês. No último ano, teve de ser levado várias vezes ao pronto--socorro, mas não fazia nenhum tratamento preventivo. Ao exame físico, apresentava-se agitado, falando pouco, frequência respiratória de 36 irpm; frequência cardíaca de 120 bpm; SaO2 = 90%. À ausculta pulmonar, apresentava sibilância moderada e disseminada em todo o tórax. Assinale a opção correta quanto à conduta e à orientação na avaliação da alta hospitalar no caso clínico 1A9-I.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Deve-se prescrever amoxicilina oral para uso em domicílio, a fim de evitar infecção respiratória secundária."
+    },
+    {
+     "letra": "B",
+     "texto": "O paciente pode receber alta se sua saturação de oxigênio em ar ambiente estiver se mantendo entre 91% e 93% por, no mínimo, 12 horas."
+    },
+    {
+     "letra": "C",
+     "texto": "Devem-se prescrever corticoide oral e salbutamol spray por cinco dias e corticoide inalatório a ser usado após esse período, além do encaminhamento para o serviço médico na atenção primária."
+    },
+    {
+     "letra": "D",
+     "texto": "Realizar uma radiografia de tórax antes da alta hospitalar para verificação da área pulmonar e cardíaca."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000142904",
+   "codigo": "4000142904",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 29,
+   "temas": [
+    "Pediatria",
+    "Classif icação e Tratamento da Crise"
+   ],
+   "enunciado": "Caso clínico 1A9-I Um menino de nove anos de idade foi levado à emergência de um hospital por sua mãe devido a crise de asma iniciada havia dois dias. Conforme a mãe, o menino tinha crises desde os quatro anos de idade, tendo chegado a fazer mais de três episódios ao mês. No último ano, teve de ser levado várias vezes ao pronto--socorro, mas não fazia nenhum tratamento preventivo. Ao exame físico, apresentava-se agitado, falando pouco, frequência respiratória de 36 irpm; frequência cardíaca de 120 bpm; SaO2 = 90%. À ausculta pulmonar, apresentava sibilância moderada e disseminada em todo o tórax. No caso clínico 1A9-I, a conduta médica adequada na primeira hora de atendimento ao menino consiste em",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "prescrever resgate com quatro jatos de salbutamol"
+    },
+    {
+     "letra": "B",
+     "texto": "administrar metilprednisolona por via intravenosa na dose de 40 mg/kg."
+    },
+    {
+     "letra": "C",
+     "texto": "fazer uma dose de ataque de salbutamol endovenoso, 50 mcg/kg, correr em 5 minutos."
+    },
+    {
+     "letra": "D",
+     "texto": "administrar adrenalina por via intramuscular em dose única, de 0,6 mg/kg."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000142044",
+   "codigo": "4000142044",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 30,
+   "temas": [
+    "Pediatria",
+    "Asma"
+   ],
+   "enunciado": "Na investigação de uma criança asmática de 3 anos, na sua segunda hospitalização, realiza-se anamnese, tentando encontrar o principal fator desencadeante do broncoespasmo. A resposta mais provável será:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Infecção viral"
+    },
+    {
+     "letra": "B",
+     "texto": "Poeira doméstica"
+    },
+    {
+     "letra": "C",
+     "texto": "Infecção bacteriana"
+    },
+    {
+     "letra": "D",
+     "texto": "Animal doméstico"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000141843",
+   "codigo": "4000141843",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 31,
+   "temas": [
+    "Pediatria",
+    "Asma",
+    "Classif icação e Tratamento da Crise"
+   ],
+   "enunciado": "Paciente com 6 anos, apresentando histórico de rinite alérgica e dermatite atópica, inicia com tosse e sibilância há 2 horas. É atendido no pronto socorro com diagnóstico de asma aguda. Recebe salbutamol inalatório (4 vezes, em intervalos de 15 minutos), corticoide e oxigênio a 2 l/min. Ainda assim, o paciente continuava com disfunção respiratória e com saturação de oxigênio de 90%. Entre as medicações abaixo, qual pode ser considerada como alternativa MAIS adequada para esse momento?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Fenoterol, por inalação."
+    },
+    {
+     "letra": "B",
+     "texto": "Sulfato de magnésio, intravenoso."
+    },
+    {
+     "letra": "C",
+     "texto": "Quetamina, intravenosa."
+    },
+    {
+     "letra": "D",
+     "texto": "Adrenalina, intramuscular."
+    },
+    {
+     "letra": "E",
+     "texto": "Aminofilina, intravenosa."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000141567",
+   "codigo": "4000141567",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 32,
+   "temas": [
+    "Pediatria",
+    "Classif icação e Tratamento da Crise"
+   ],
+   "enunciado": "A crise asmática (exacerbação) é uma das emergências mais comuns nos serviços de emergências pediátricas. Considerando o manejo atual de tratamento da crise asmática, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O sulfato de magnésio é indicado nas exacerbações graves, tem efeito imediato e pode ser repetido até 3 vezes."
+    },
+    {
+     "letra": "B",
+     "texto": "O corticoide intravenoso tem efeito superior ao corticoide oral, portanto é o indicado na crise asmática."
+    },
+    {
+     "letra": "C",
+     "texto": "A oxigenoterapia não é prioridade no manejo da exacerbação da asma."
+    },
+    {
+     "letra": "D",
+     "texto": "O uso da adrenalina é desencorajado, devido aos efeitos colaterais indesejáveis, como arritmias e isquemia miocárdica."
+    },
+    {
+     "letra": "E",
+     "texto": "O uso de aminofilina intravenosa previne o risco de intubação."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000140686",
+   "codigo": "4000140686",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 34,
+   "temas": [
+    "Pediatria",
+    "Tratamento da Crise Aguda"
+   ],
+   "enunciado": "Menino, 6 anos de idade, com diagnóstico prévio de asma, dá entrada em serviço de emergência referenciada transferido de unidade de pronto atendimento devido à crise asmática. A queixa é de desconforto respiratório há um dia, sem outros sintomas associados. No serviço de origem, o paciente foi admitido em regular estado geral, pálido, hipoativo, com fala entrecortada, FC: 140 bpm, FR: 45 irpm, satO2: 92% em máscara não-reinalante, ausculta pulmonar globalmente diminuída, com tempo expiratório prolongado, tiragem subdiafragmática, intercostal e de fúrcula. Recebeu corticoide sistêmico, além de salbutamol e brometo de ipratrópio inalatórios por uma hora. Após essas medidas, o paciente chega ao serviço atual em regular estado geral, corado, FC: 145 bpm, FR 36 irpm, alerta e orientado, com ausculta pulmonar com murmúrio vesicular presente bilateralmente com sibilos difusos, tempo expiratório prolongado, tiragem subdiafragmática e intercostal, satO2: 93% em máscara não-reinalante. A próxima medida a ser instituída deve ser:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Administrar salbutamol e ipratrópio inalatórios de 3 em 3 horas."
+    },
+    {
+     "letra": "B",
+     "texto": "Sedar e proceder intubação orotraqueal."
+    },
+    {
+     "letra": "C",
+     "texto": "Sedar e colocar em ventilação não invasiva."
+    },
+    {
+     "letra": "D",
+     "texto": "Administrar sulfato de magnésio endovenoso."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000138292",
+   "codigo": "4000138292",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 35,
+   "temas": [
+    "Pediatria",
+    "Classif icação e Tratamento da Crise"
+   ],
+   "enunciado": "Criança de 4 anos com asma aguda grave, internada na UTI, em uso de beta-agonista. Dos efeitos colaterais podemos esperar, exceto:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Isquemia miocárdica."
+    },
+    {
+     "letra": "B",
+     "texto": "Tremores."
+    },
+    {
+     "letra": "C",
+     "texto": "Hipercalemia."
+    },
+    {
+     "letra": "D",
+     "texto": "Taquicardia."
+    },
+    {
+     "letra": "E",
+     "texto": "Hipoxemia."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000138270",
+   "codigo": "4000138270",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 36,
+   "temas": [
+    "Síndrome do Lactente Sibilante Bebê chiador",
+    "Pneumologia"
+   ],
+   "enunciado": "Paciente de 2 anos de idade foi levada pelos seus pais ao consultório do pneumologista pediátrico pois apresentou nos últimos seis meses três episódios de exacerbação respiratória, com tosse e chiado, tendo feito uso de corticoide oral. Pai possui asma e mãe possui rinite. Qual o tratamento mais aconselhável deve ser iniciado para o controle da doença respiratória?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Uso de corticoide via oral em dias alternados."
+    },
+    {
+     "letra": "B",
+     "texto": "Início de corticoide inalatório."
+    },
+    {
+     "letra": "C",
+     "texto": "Início de corticoide inalatório associado a broncodilatador de longa duração [LABA]."
+    },
+    {
+     "letra": "D",
+     "texto": "Uso de broncodilatador de curta duração somente nas crises [SABA]."
+    },
+    {
+     "letra": "E",
+     "texto": "Uso de corticoide inalatório associado a broncodilatador de longa duração [LABA] e montelucaste."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000133241",
+   "codigo": "4000133241",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 37,
+   "temas": [
+    "Pediatria",
+    "Asma"
+   ],
+   "enunciado": "A asma é uma doença crônica frequente na infância em relação a asma infantil assinale a alternativa CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A história familiar positiva não é critério diagnóstico em crianças maiores de 5 anos;"
+    },
+    {
+     "letra": "B",
+     "texto": "O uso de broncodilatador de ação longa está indicado em crianças abaixo de 1 ano;"
+    },
+    {
+     "letra": "C",
+     "texto": "O diagnóstico de asma pode ser feito em lactentes pelo número de crises e internações;"
+    },
+    {
+     "letra": "D",
+     "texto": "A prescrição de corticoide oral deve ser feita para todos os pacientes com diagnóstico de asma moderada;"
+    },
+    {
+     "letra": "E",
+     "texto": "A espirometria é o principal teste de função pulmonar empregado no diagnóstico e seguimento de crianças maiores com asma."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000133123",
+   "codigo": "4000133123",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 38,
+   "temas": [
+    "Tratamento de Manutenção",
+    "Pediatria"
+   ],
+   "enunciado": "Pré-escolar de 3 anos foi levado ao pediatra do posto de saúde por apresentar crises de sibilância desde os oito meses de vida. No primeiro episódio, foi internado por sete dias e fez uso de medicações por via inalatória e intravenosa. Desde então, evoluiu com crises de cansaço, falta de ar, tosse seca, chiado no peito e coriza de três em três meses, muitas vezes necessitando de observação clínica em unidades de pronto-atendimento. Há 6 meses, desde que mudaram de casa e começou a frequentar a creche, a mãe observa que ele cansa com facilidade quando corre, apresenta tosse noturna e as crises se tornaram mensais. Faz nebulização com salbutamol para melhora das crises. A mãe relata que ela teve crises de bronquite até dez anos de idade. O exame físico mostra bom estado geral; FR = 28 irpm, eupneico, oximetria de pulso = 98%; sem outras alterações. Baseado nestes dados, além dos cuidados de higiene ambiental, o tratamento farmacológico inicial, de primeira escolha, deve ser o uso diário de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Corticóide inalatório associado a beta-2 inalatório de ação prolongada."
+    },
+    {
+     "letra": "B",
+     "texto": "Corticóide inalatório associado a beta-2 agonista inalatório de ação curta."
+    },
+    {
+     "letra": "C",
+     "texto": "Corticóide inalatório."
+    },
+    {
+     "letra": "D",
+     "texto": "Antileucotrieno por via oral."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000129838",
+   "codigo": "4000129838",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 39,
+   "temas": [
+    "Pediatria",
+    "Classif icação e Tratamento da Crise"
+   ],
+   "enunciado": "Pré escolar de 4 anos, em acompanhamento no ambulatório de pneumologia por asma brônquica, comparece ao pronto atendimento pela manhã após ter passado a noite com tosse e falta de ar. Ao exame evidente desconforto respiratório, saturando 90% em ar ambiente, sibilos difusos à ausculta. Após 3 ciclos inalatórios de beta-agonistas de ação curta não apresentou melhora significativa. Mantido com beta-agonistas a cada 20 minutos e iniciado prednisona oral. Após uma hora ainda estava com sibilos e di culdade respiratória, saturando 92% em oxigênio suplementar. Foi então admitido para internação. Sobre esta situação, analise as alternativas abaixo. I – Deve receber corticosteroides de forma endovenosa por serem mais eficazes que pela via oral. II – A fisioterapia torácica não é recomendada no manejo inicial deste paciente. III – A exacerbação grave da asma em crianças raramente provoca insuficiência respiratória com necessidade de ventilação mecânica. Estão corretas as assertivas.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I apenas."
+    },
+    {
+     "letra": "B",
+     "texto": "I e II apenas."
+    },
+    {
+     "letra": "C",
+     "texto": "I e III apenas."
+    },
+    {
+     "letra": "D",
+     "texto": "II e III apenas."
+    },
+    {
+     "letra": "E",
+     "texto": "I, II e III."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000129536",
+   "codigo": "4000129536",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 40,
+   "temas": [
+    "Síndrome do Lactente Sibilante Bebê chiador",
+    "Pediatria"
+   ],
+   "enunciado": "A mãe de uma criança de cinco anos de idade relata que o lho apresentou crises de sibilância durante os três primeiros anos de vida e não mais após essa idade; relata também que as crises eram desencadeadas principalmente por vírus e que foi melhorando com o crescimento. Nunca foi hospitalizado e não havia sintomas de eczema nem de rinossinusite. Assinale a alternativa que contém a hipótese diagnóstica mais provável para o que essa criança apresentou?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Sibilância transitória da infância."
+    },
+    {
+     "letra": "B",
+     "texto": "Displasia broncopulmonar."
+    },
+    {
+     "letra": "C",
+     "texto": "Bronquioliopatia pós-viral."
+    },
+    {
+     "letra": "D",
+     "texto": "Asma atópica."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120562",
+   "codigo": "4000120562",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 41,
+   "temas": [
+    "Funcional",
+    "Asma"
+   ],
+   "enunciado": "Um menino de oito anos de idade, com suspeita de asma, irá realizar espirometria para confirmação diagnóstica. Com base nesse caso hipotético, assinale a alternativa que apresenta o parâmetro que confirma o diagnóstico.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "redução da relação volume expiratório forçado de 1 s/capacidade vital forçada(VEF1/CVF)"
+    },
+    {
+     "letra": "B",
+     "texto": "aumento da relação VEF1/CVF"
+    },
+    {
+     "letra": "C",
+     "texto": "aumento da CVF"
+    },
+    {
+     "letra": "D",
+     "texto": "aumento do VEF1"
+    },
+    {
+     "letra": "E",
+     "texto": "espirometria normal"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119770",
+   "codigo": "4000119770",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 42,
+   "temas": [
+    "Diagnóstico",
+    "Asma",
+    "Classif icação e Tratamento da Crise"
+   ],
+   "enunciado": "Na criança em estado de mal asmático, é correto afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a intubação traqueal precoce evita complicações da hipoxemia e hipercapnia graves."
+    },
+    {
+     "letra": "B",
+     "texto": "o sulfato de magnésio intravenoso é terapia broncodilatadora adjuvante e tem bom perfil de segurança."
+    },
+    {
+     "letra": "C",
+     "texto": "a inalação com altas doses de salbutamol (0,5 mg/kg/hora) é contraindicada porcausar taquicardia extrema."
+    },
+    {
+     "letra": "D",
+     "texto": "a aminofilina intravenosa tem bom perfil de segurança e deve ser usada nos casosrefratários à inalação com doses habituais de fenoterol."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000114459",
+   "codigo": "4000114459",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 43,
+   "temas": [
+    "Fatores de gravidade na crise de asma",
+    "Asma"
+   ],
+   "enunciado": "Com relação à crise aguda de asma, na emergência,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "os corticoides inalados são indicados em doses elevadas e associados ao beta-2-agonistas de longa duração."
+    },
+    {
+     "letra": "B",
+     "texto": "a adrenalina subcutânea é uma boa opção broncodilatadora."
+    },
+    {
+     "letra": "C",
+     "texto": "mucolíticos associados à tapotagem podem acelerar o processo de recuperação dacrise."
+    },
+    {
+     "letra": "D",
+     "texto": "o uso de sulfato de magnésio IV pode reduzir a necessidade de internação nospacientes que não respondem aos broncodilatadores e ao uso de corticoide sistêmico."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000111494",
+   "codigo": "4000111494",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 44,
+   "temas": [
+    "Síndrome do Lactente Sibilante Bebê chiador",
+    "Diagnóstico",
+    "Epidemiologia"
+   ],
+   "enunciado": "Menino, 1 ano e 6 meses de vida, está em acompanhamento ambulatorial devido a sibilância recorrente. O primeiro episódio foi com 7 meses de vida, iniciado por tosse, coriza e febre baixa, evoluindo com desconforto respiratório. Foi internado devido hipoxemia, recebeu alta hospitalar após dois dias com receitas de inalação com soro siológico e lavagem nasal. Ocorreram mais 5 episódios, nos quais ele recebeu prednisolona e inalações com salbutamol, sempre com boa resposta, e sem novas internações. O último episódio foi há 1 mês. A mãe notou que não é sempre que a sibilância é precedida por sintomas respiratórios virais. Refere que ca assintomático entre os episódios, sem limitações nas atividades do dia-a-dia. Sono tranquilo. João nasceu de termo, sem intercorrências, começou a frequentar a creche com 6 meses de vida. Mora com mãe, pai e irmão de 7 anos, todos sem comorbidades conhecidas. Apresenta ausculta pulmonar normal, a única alteração ao exame clínico é a presença de um eczema em face, acometendo maxilares e mento, poupando o maciço central da face, com xerodermia difusa. Baseado nos critérios de Castro-Rodriguez (Índice Preditivo de Asma) para diagnóstico de asma em lactentes, podemos afirmar que a probabilidade desta criança ter asma é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Alta, devido à ocorrência de mais de 3 episódios em um ano e à boa resposta ao corticoide e ao broncodilatador."
+    },
+    {
+     "letra": "B",
+     "texto": "Alta, devido ao diagnóstico pessoal de dermatite atópica e à presença de sibilância sem desencadeante viral."
+    },
+    {
+     "letra": "C",
+     "texto": "Baixa, devido à ausência de história familiar de doenças atópicas, sendo o quadro atribuível à entrada precoce na creche."
+    },
+    {
+     "letra": "D",
+     "texto": "Baixa, devido à ausência de sintomas no período intercrítico e à ausência de interferência no sono e nas atividades do dia-a-dia."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000074251",
+   "codigo": "4000074251",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 45,
+   "temas": [
+    "Corticoides Inalatórios"
+   ],
+   "enunciado": "Menina, 4 anos de idade, com diagnóstico asma desde há dois anos, faz uso de beclometasona 100 mcg/ 2 vezes ao dia de forma correta (com espaçador e máscara) porém, vem tendo crises mais que 2 vezes por semana, quando faz uso de medicação de alívio e apresenta despertar noturno 1 vez por semana. Classifique o estado clínico atual da asma e indique a conduta sobre a corticoterapia.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Não controlada; manter dose de corticoterapia que está alta."
+    },
+    {
+     "letra": "B",
+     "texto": "Não controlada; aumentar a dose de corticoterapia que está baixa."
+    },
+    {
+     "letra": "C",
+     "texto": "Parcialmente controlada; manter dose de corticoterapia que está média."
+    },
+    {
+     "letra": "D",
+     "texto": "Parcialmente controlada; manter dose de corticoterapia que está baixa."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000063809",
+   "codigo": "4000063809",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 46,
+   "temas": [
+    "Laboratorial",
+    "Funcional"
+   ],
+   "enunciado": "Um menino de oito anos de idade, com suspeita de asma, irá realizar espirometria para confirmação diagnóstica. Com base nesse caso hipotético, assinale a alternativa que apresenta o parâmetro que confirma o diagnóstico.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "aumento da relação VEF1/CVF"
+    },
+    {
+     "letra": "B",
+     "texto": "redução da relação VEF1/CVF"
+    },
+    {
+     "letra": "C",
+     "texto": "aumento da CVF"
+    },
+    {
+     "letra": "D",
+     "texto": "aumento do VEF1"
+    },
+    {
+     "letra": "E",
+     "texto": "espirometria normal"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000062855",
+   "codigo": "4000062855",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 47,
+   "temas": [
+    "Quadro Clínico",
+    "Clínico"
+   ],
+   "enunciado": "O diagnóstico de asma é eminentemente clínico. Os sintomas que sugerem a asma são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Desnutrição, ausência de sibilância, atopia e eosinofilia."
+    },
+    {
+     "letra": "B",
+     "texto": "Tosse crônica, vômitos, bronquiolite e dispneia."
+    },
+    {
+     "letra": "C",
+     "texto": "Sibilância, dispneia, desconforto torácico e tosse."
+    },
+    {
+     "letra": "D",
+     "texto": "Ausência de resposta a broncodilatadores, tosse noturna, atopia e vômito."
+    },
+    {
+     "letra": "E",
+     "texto": "Dor torácica, apatia, sensibilidade ao ar e cianose."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000062178",
+   "codigo": "4000062178",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 48,
+   "temas": [
+    "Classif icação do controle clínico da asma",
+    "Asma",
+    "Asma"
+   ],
+   "enunciado": "Você recebe em seu consultório os pais de uma criança de três anos diagnosticada com asma há 6 meses. Ela está em uso de dose baixa de corticosteroide inalatório com controle efetivo das crises. Os pais estão preocupados e gostariam de suspender o uso da medicação pelo medo dos efeitos colaterais. Em relação aos efeitos colaterais do uso dos corticosteroides inalatórios em doses baixas, é CORRETO afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O seu uso por mais de um ano deve ser evitado, pois após esse prazo pode ocorrer supressão do eixo hipotálamo-hipofisário."
+    },
+    {
+     "letra": "B",
+     "texto": "Os pais devem ser orientados que o uso da medicação é necessário, mas que a criança pode ter prejuízo em sua estatura final."
+    },
+    {
+     "letra": "C",
+     "texto": "O uso de corticosteroides inalatórios em doses baixas por longos períodos deve ser evitado, uma vez que aumenta o risco de fraturas ósseas."
+    },
+    {
+     "letra": "D",
+     "texto": "Os pais devem ser tranquilizados, pois os estudos atuais demonstraram que embora exista algum efeito no crescimento ósseo linear este é não progressivo e reversível."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000061125",
+   "codigo": "4000061125",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 49,
+   "temas": [
+    "Classif icação do controle clínico da asma",
+    "Prevenção"
+   ],
+   "enunciado": "No segmento do paciente asmático, é importante a distinção entre o asmático grave e o asmático não controlado. Nesse contexto de diferenciação entre ambos, considere as afirmativas a seguir. I. A falta de condicionamento físico pode ser erroneamente diagnosticada como asma. II. A obesidade é uma comorbidade que precisa ser abordada, pois é uma condição associada ao não controle da asma. III. A técnica de uso dos dispositivos inalados é de fácil compreensão e sua reavaliação periódica é desnecessária. IV. O contato com tabagistas e o controle ambiental não interferem no controle ou na gravidade do as- mático que está em vigência de tratamento medicamentoso. Assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Somente as afirmativas I e II são corretas."
+    },
+    {
+     "letra": "B",
+     "texto": "Somente as afirmativas I e IV são corretas."
+    },
+    {
+     "letra": "C",
+     "texto": "Somente as afirmativas III e IV são corretas."
+    },
+    {
+     "letra": "D",
+     "texto": "Somente as afirmativas I, II e III são corretas."
+    },
+    {
+     "letra": "E",
+     "texto": "Somente as afirmativas II, III e IV são corretas."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000059158",
+   "codigo": "4000059158",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 50,
+   "temas": [
+    "Tratamento da Crise Aguda"
+   ],
+   "enunciado": "Um escolar de 6 anos é levado ao pronto socorro atendimento em crise de tosse emetizante há 12 horas. A mãe relata tosse, chiado, dispneia e vômitos. Ao exame físico, está lúcido, orientado, acianótico e afebril, com FR= 33irpm, FC = 128bpm, SaTO² = 91%, dispneia moderada com relação subdiafragmática e sibilos expiratórios. O tratamento indicado, nesse momento, é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Corticosteroide oral"
+    },
+    {
+     "letra": "B",
+     "texto": "Aminofilina intravenosa"
+    },
+    {
+     "letra": "C",
+     "texto": "Corticosteroide intravenoso"
+    },
+    {
+     "letra": "D",
+     "texto": "Adrenalina subcutânea"
+    },
+    {
+     "letra": "E",
+     "texto": "Beta-2-agonistas de ação curta por via inalatória"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000052558",
+   "codigo": "4000052558",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 51,
+   "temas": [
+    "Etapas do Tratamento de Manutenção"
+   ],
+   "enunciado": "A asma é uma doença respiratória crônica que afeta de 1 a 18 % da população em diferentes países. É muito importante que o pediatra ou médico assistente da criança e adolescente saibam identi car a asma, avaliar seu grau de controle e escolher a melhor terapêutica para o controle clínico e redução dos riscos futuros. A opção abaixo está INCORRETA em relação à terapêutica de controle (manutenção) da asma em adolescentes maiores que doze anos é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Corticoide inalado em baixa dose é a primeira opção de tratamento no step 02 (passo ou etapa 02 do tratamento de manutenção da asma."
+    },
+    {
+     "letra": "B",
+     "texto": "Antagonista do receptor de leucotrienos (LTRA é uma opção alternativa (segunda opção de tratamento no step 02 (passo ou etapa 02 do tratamento de manutenção da asma."
+    },
+    {
+     "letra": "C",
+     "texto": "Corticoide inalado em baixa dose associado à beta-2 agonista de longa duração (LABA é uma primeira opção de tratamento no step 03 (passo ou etapa 03 do tratamento de manutenção da asma."
+    },
+    {
+     "letra": "D",
+     "texto": "Dose média de corticoide inalado é uma opção alternativa (segunda opção de tratamento no step 03 (passo ou etapa 03 do tratamento de manutenção da asma."
+    },
+    {
+     "letra": "E",
+     "texto": "Corticoide oral em baixa dose é uma opção alternativa (segunda opção de tratamento no step 03 (passo ou etapa 03 do tratamento de manutenção da asma."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000050866",
+   "codigo": "4000050866",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 52,
+   "temas": [
+    "Fatores de gravidade na crise de asma"
+   ],
+   "enunciado": "Segundo GINA 2019 (Global Initiative for Asthma), qual alternativa contempla somente critérios de crise aguda de asma grave ou severa em crianças abaixo de 5 anos?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Agitação, saturação de O₂ < 94%, tórax silencioso e inabilidade em falar frases."
+    },
+    {
+     "letra": "B",
+     "texto": "Agitação, saturação de O₂ < 92%, diminuição de murmúrio vesicular em bases e inabilidade em falar palavras."
+    },
+    {
+     "letra": "C",
+     "texto": "Confusão e/ou agitação, saturação de O₂ < 90%, tórax silencioso e inabilidade em falar frases."
+    },
+    {
+     "letra": "D",
+     "texto": "Irritabilidade, frequência cardíaca >220 batimentos por minuto, saturação de O₂ < 94% e inabilidade em falar frases."
+    },
+    {
+     "letra": "E",
+     "texto": "Confusão e/ou agitação, saturação de O₂ < 92%, tórax silencioso e inabilidade em falar palavras."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000045680",
+   "codigo": "4000045680",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 53,
+   "temas": [
+    "Tratamento da Crise Aguda"
+   ],
+   "enunciado": "Escolar, seis anos, asmático, é levado ao serviço de urgência com falta de ar, tosse seca e aperto no peito há um dia. Exame físico: consciente, responsivo, calmo, dispneia e tiragem intercostal leves, FR: 30 irpm, síbilos expiratórios difusos à ausculta pulmonar. Sat 02: 96%. Recebeu três doses de beta 2 agonista inalado a cada 20 minutos e após uma hora mantinha a mesma FR, com melhora discreta dos sibilos e da dispneia, com Sat O2: 94%. A conduta adequada é adicionar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Oxigênio, brometo de ipratrópio, corticosteroide intravenoso e hospitalizar o paciente."
+    },
+    {
+     "letra": "B",
+     "texto": "Oxigênio, corticosteroide oral ou intravenoso, manter beta 2 agonista a cada uma hora e reavaliar o paciente."
+    },
+    {
+     "letra": "C",
+     "texto": "Oxigênio, corticosteroide oral ou intravenoso, manter beta 2 agonista a cada 20 minutos e reavaliar em uma hora."
+    },
+    {
+     "letra": "D",
+     "texto": "Corticosteroide oral ou intravenoso, aumentar os intervalos de beta 2 agonista a cada duas horas e reavaliar o paciente."
+    },
+    {
+     "letra": "E",
+     "texto": "Nenhuma das anteriores."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000033585",
+   "codigo": "4000033585",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 54,
+   "temas": [
+    "Classif icação e Tratamento da Crise"
+   ],
+   "enunciado": "Criança de oito anos de idade, consulta na UBS com relato de ter iniciado febre baixa, coriza e tosse há dois dias. Nas últimas 24 horas, houve piora com dispneia, \"\"chieira\"\" e dor torácica. Nega uso de medicamentos em casa. Relata duas a três crises semelhantes por ano, desde os quatros anos de idade. Nega internações no último ano. No momento, responde às perguntas com frases e prefere car sentado e não deitar. Ao exame: FC = 110bpm, FR=25irpm, SatO₂=92% e Pico de Fluxo Expiratório = 60% do valor previsto. À ausculta pulmonar, apresenta sibilos ins e expiratórios difusos, com tempo expiratório prolongado. A conduta terapêutica inicial (\"\"dose de ataque\"\") MAIS ADEQUADA é prescrever:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "-2-agonista de curta duração associado a Brometo de Ipratropium, em inalador dosimetrado com espaçador, β quatro jatos de 30 em 30 minutos por duas horas."
+    },
+    {
+     "letra": "B",
+     "texto": "-2-agonista de curta duração, em inalador dosimetrado com espaçador, quatro jatos de 20 em 20 minutos por β uma hora."
+    },
+    {
+     "letra": "C",
+     "texto": "micronebulização com"
+    },
+    {
+     "letra": "D",
+     "texto": "micronebulização com"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000026055",
+   "codigo": "4000026055",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 55,
+   "temas": [
+    "Etiologia e f isiopatologia",
+    "Quadro Clínico",
+    "Quadro clínico"
+   ],
+   "enunciado": "A asma consiste em uma das principais causas de internação hospitalar no Sistema Único de Saúde (SUS), apesar de ser considerada uma condição sensível à Atenção Primária à Saúde. Sobre os indicativos clínicos que sugerem asma na infância, MARQUE A CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tosse mais frequente à tarde."
+    },
+    {
+     "letra": "B",
+     "texto": "Relato dos cuidadores de “chiado”."
+    },
+    {
+     "letra": "C",
+     "texto": "Cefaleia."
+    },
+    {
+     "letra": "D",
+     "texto": "Sintomas podem ser desencadeados ou agravados por infecções virais."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000022563",
+   "codigo": "4000022563",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 56,
+   "temas": [
+    "Emergências Pediátricas",
+    "Manejo da exacerbação prontosocorro",
+    "Tratamento da Crise Aguda"
+   ],
+   "enunciado": "Com relação ao tratamento da asma aguda na infância, qual é a conduta preconizada no primeiro atendimento em Pronto Atendimento.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "β"
+    },
+    {
+     "letra": "B",
+     "texto": "2 agonista inalatório a cada 20 minutos (3 doses) β"
+    },
+    {
+     "letra": "C",
+     "texto": "Sulfato de magnésio endovenoso"
+    },
+    {
+     "letra": "D",
+     "texto": "Corticóide inalatório"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000020804",
+   "codigo": "4000020804",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 57,
+   "temas": [
+    "Quadro Clínico",
+    "Quadro clínico"
+   ],
+   "enunciado": "Assinale a alternativa incorreta sobre os achados que sugerem fortemente o diagnóstico de asma:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Mais de um sintoma (sibilos, respiração encurtada, tosse e aperto no peito)."
+    },
+    {
+     "letra": "B",
+     "texto": "Produção crônica de escarro."
+    },
+    {
+     "letra": "C",
+     "texto": "Sintomas que, frequentemente, pioram à noite e de manhã cedo."
+    },
+    {
+     "letra": "D",
+     "texto": "Sintomas que variam em frequência e intensidade."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000020791",
+   "codigo": "4000020791",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 58,
+   "temas": [
+    "Fatores de gravidade na crise de asma",
+    "Exacerbação de asma"
+   ],
+   "enunciado": "Sobre os fatores de risco para exacerbação da asma em adolescentes assinale a alternativa incorreta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Obesidade."
+    },
+    {
+     "letra": "B",
+     "texto": "Eosinofilia no sangue."
+    },
+    {
+     "letra": "C",
+     "texto": "Rinite alérgica."
+    },
+    {
+     "letra": "D",
+     "texto": "VEF1 maior que 80%."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000020776",
+   "codigo": "4000020776",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 59,
+   "temas": [
+    "Tratamento de Manutenção",
+    "Tratamento de manutenção da asma"
+   ],
+   "enunciado": "Assinale a alternativa incorreta sobre os objetivos do tratamento da asma:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O impacto da asma refere-se à intensidade e o risco futuro refere-se à frequência dos sintomas."
+    },
+    {
+     "letra": "B",
+     "texto": "Em longo prazo, os objetivos do tratamento da asma são redução do impacto e redução do risco futuro."
+    },
+    {
+     "letra": "C",
+     "texto": "O risco futuro engloba as várias consequências negativas na evolução da asma e de seu tratamento."
+    },
+    {
+     "letra": "D",
+     "texto": "A otimização da farmacoterapia tem mínimos (ou nenhum efeitos adversos)."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000020759",
+   "codigo": "4000020759",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 60,
+   "temas": [
+    "Quadro Clínico",
+    "Quadro clínico"
+   ],
+   "enunciado": "São sintomas característicos da asma todos os abaixo, exceto:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tosse."
+    },
+    {
+     "letra": "B",
+     "texto": "Aperto no peito."
+    },
+    {
+     "letra": "C",
+     "texto": "Rouquidão."
+    },
+    {
+     "letra": "D",
+     "texto": "Falta de ar."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000017413",
+   "codigo": "4000017413",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 61,
+   "temas": [
+    "Fatores de gravidade na crise de asma",
+    "Emergências Pediátricas",
+    "Crise Grave"
+   ],
+   "enunciado": "(ADAPTADA)Menino de 3 anos dá entrada à Unidade de Urgência e Emergência Pediátrica apresentando rinorreia hialina, febre, tosse seca e sibilância iniciados há 2 dias. Segundo acompanhante, a criança já apresentou sibilância prévia e notou a piora súbita da dispneia nas últimas 4 horas. Ao exame físico: criança sonolenta, afebril, entrada de ar muito reduzida bilateralmente, sem sibilos no momento, FR: 66irpm, esforço respiratório importante, saturação de O₂ = 85% em ar ambiente. FC: 160bpm, pulsos cheios, tempo de enchimento capilar menor que 2 segundos. Em relação ao reconhecimento, classificação e manejo do quadro descrito, assinale a alternativa CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A exacerbação apresentada por essa criança de acordo com os dados clínicos é classificada como moderada e deve ser imediatamente ofertado O₂ suplementar no cateter nasal a 2 litros/minuto."
+    },
+    {
+     "letra": "B",
+     "texto": "A exacerbação apresentada por essa criança é considerada grave e, portanto, deve-se colocar a criança em fonte de O₂ suplementar, iniciar corticoide venoso e proceder radiografia de tórax com urgência."
+    },
+    {
+     "letra": "C",
+     "texto": "A exacerbação é classificada como grave e é necessário ofertar O₂ e prontamente administrar doses repetidas de B2 agonista inalatório na primeira hora, reavaliando em seguida."
+    },
+    {
+     "letra": "D",
+     "texto": "A exacerbação é considerada muito grave e, portanto, a infusão de sulfato de magnésio deve ser administrada o mais precoce possível, juntamente com oferta de O₂ suplementar."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000011207",
+   "codigo": "4000011207",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 62,
+   "temas": [
+    "Asma"
+   ],
+   "enunciado": "Acerca das patologias na infância, julgue o item a seguir. Suponha-se que uma criança com três anos de idade tenha diagnóstico de rinite de repetição, episódios de sibilância sem resfriado (virose), último hemograma que revelou eosino lia e antecedente familiar de asma. Nesse caso, há grande probabilidade de que a sibilância persista na vida adulta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000125629",
+   "codigo": "4000125629",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 63,
+   "temas": [
+    "Outras Medicações",
+    "Tratamento de Manutenção",
+    "Broncodilatadores Beta2agonista de curta duração"
+   ],
+   "enunciado": "Kaylane, 8 anos, portadora de asma brônquica dá entrada na urgência com quadro de desconforto respiratório, tosse seca, agitação psicomotora, incapaz de falar palavras completas, tiragem subcostal intensa. AR: MV diminuídos e com sibilos expiratórios. Oximetria de pulso: 88%. Assinale a alternativa INCORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O tratamento inicial deverá basear-se na administração de oxigênio, beta2-agonistas e corticóide."
+    },
+    {
+     "letra": "B",
+     "texto": "O brometo de ipatrópio é uma medicação adjuvante e trará benefícios, mesmo após o atendimento na sala vermelha."
+    },
+    {
+     "letra": "C",
+     "texto": "O uso do sulfato de magnésio poderá ser necessário."
+    },
+    {
+     "letra": "D",
+     "texto": "A mistura hélio-oxigênio pode ajudar no tratamento de Kaylane, mesmo com FiO2 menores."
+    },
+    {
+     "letra": "E",
+     "texto": "Caso seja necessário a intubação, manter um volume corrente alto é importante para o paciente asmático, mesmo com frequência respiratória menor."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119181",
+   "codigo": "4000119181",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 64,
+   "temas": [
+    "Classif icação do controle clínico da asma",
+    "Asma"
+   ],
+   "enunciado": "Paulo tem 6 anos de idade, é asmático e, no último mês apresentou crises semanais na escola impedindo que praticasse atividade física em uma das ocasiões. Em duas noites, nesse período, acordou à noite com crise de sibilância. Todas as crises foram tratadas com broncodilatador. De acordo com as Diretrizes da iniciativa Global para Asma, a asma de Paulo encontra-se:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Clinicamente controlada."
+    },
+    {
+     "letra": "B",
+     "texto": "Parcialmente controlada."
+    },
+    {
+     "letra": "C",
+     "texto": "Não controlada."
+    },
+    {
+     "letra": "D",
+     "texto": "A descrição apresentada não fornece dados que permitam a adequada classificação do controle clínico da asma do menino."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000118044",
+   "codigo": "4000118044",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 65,
+   "temas": [
+    "Tratamento de Manutenção",
+    "Classif icação do controle clínico da asma",
+    "Asma"
+   ],
+   "enunciado": "Menino de 4 anos de idade com diagnóstico de asma, em uso diário de uticasona spray 100 µg, de 12/12 horas, há 7 meses, com controle de sintomas. Refere que neste período apresentou apenas duas exacerbações, tendo utilizado salbutamol (ß2-agonista de curta duração) com controle completo. No último mês, a mãe refere que as crises pioraram de frequência: tem apresentado falta de ar, tosse e sibilos 3x/semana com necessidade de medicação de alívio para remissão dos sintomas. Nega sintomas noturnos, limitação nas atividades diárias e crises induzidas pelo exercício. Qual a conduta CORRETA com relação ao caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Manter a dose da fluticasona; utilizar salbutamol nas exacerbações e aguardar melhora do quadro."
+    },
+    {
+     "letra": "B",
+     "texto": "Suspender a fluticasona e introduzir montelucaste de sódio 5 mg/dia."
+    },
+    {
+     "letra": "C",
+     "texto": "Trocar a fluticasona por beclometasona (em propelente norflurano - Clenil HFA ®) na dose de 250 µg/dia."
+    },
+    {
+     "letra": "D",
+     "texto": "Manter a fluticasona, porém aumentar a sua dose de utilização para 200 µg de 12/12h."
+    },
+    {
+     "letra": "E",
+     "texto": "Trocar a fluticasona por salmeterol/fluticasona 25/125 µg de 12/12 h."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000115842",
+   "codigo": "4000115842",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 66,
+   "temas": [
+    "Classif icação e Tratamento da Crise"
+   ],
+   "enunciado": "Assinale a alternativa correta quanto à conduta a ser tomada no manejo da crise de asma na infância:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A efetividade do corticoesteroide injetável, quando comparada à do oral, é superior especialmente em casos graves."
+    },
+    {
+     "letra": "B",
+     "texto": "O uso de broncodilatador deve ser iniciado em casa, em crianças com episódios prévios de sibilância, assim que os sintomas forem percebidos."
+    },
+    {
+     "letra": "C",
+     "texto": "Para determinar a gravidade da crise, devem ser considerados todos os sintomas apresentados."
+    },
+    {
+     "letra": "D",
+     "texto": "A radiografia de tórax deve ser sempre solicitada, especialmente em casos de suspeita de complicações e/ou de infecção bacteriana associada."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000113506",
+   "codigo": "4000113506",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 67,
+   "temas": [
+    "Pediatria",
+    "Classif icação e Tratamento da Crise"
+   ],
+   "enunciado": "Escolar de sete anos é levado à unidade de emergência pediátrica com queixa de tosse seca, chiado, dispneia e vômitos há 12 horas. Ao exame físico: regular estado geral, orientado, acianótico, afebril, FR: 44irpm, FC: 120bpm, SaO2: 90%, dispneia moderada com retrações intercostais e sibilos expiratórios. O tratamento indicado neste momento é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "corticosteroide via oral"
+    },
+    {
+     "letra": "B",
+     "texto": "adrenalina intravenosa"
+    },
+    {
+     "letra": "C",
+     "texto": "corticosteroide intravenoso"
+    },
+    {
+     "letra": "D",
+     "texto": "anticolinérgico por via inalatória"
+    },
+    {
+     "letra": "E",
+     "texto": "β"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000111006",
+   "codigo": "4000111006",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 68,
+   "temas": [
+    "Fatores de gravidade na crise de asma",
+    "Asma"
+   ],
+   "enunciado": "Das alternativas abaixo, qual apresenta o fator de risco mais fortemente associado a crises de asma fatais ou quase fatais?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Uso pouco frequente de corticosteroides sistêmicos."
+    },
+    {
+     "letra": "B",
+     "texto": "Asma lábil, com poucas variações de função pulmonar."
+    },
+    {
+     "letra": "C",
+     "texto": "História de internação prévia por asma grave em UTI, com ou sem suporte ventilatório."
+    },
+    {
+     "letra": "D",
+     "texto": "Cinco ou mais visitas à emergência ou três ou mais hospitalizações por asma no último semestre."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000102151",
+   "codigo": "4000102151",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 69,
+   "temas": [
+    "Classif icação e Tratamento da Crise"
+   ],
+   "enunciado": "Escolar de oito anos é levado ao pronto-socorro em crise de asma iniciada na noite anterior. A mãe relata tosse, chiado, dispneia e vômitos. Exame físico: lúcido, orientado, acianótico, TAX: 36,7°C, FR: 38 irpm, FC: 118 bpm, SatO₂: 93%, dispneia moderada com retrações intercostais e sibilos expiratórios. O tratamento indicado neste momento é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "2-agonistas de ação curta por via inalatória. β"
+    },
+    {
+     "letra": "B",
+     "texto": "Corticosteroide intravenoso."
+    },
+    {
+     "letra": "C",
+     "texto": "Anticolinérgico por via inalatória."
+    },
+    {
+     "letra": "D",
+     "texto": "Corticosteroide via oral. ida oib pr ed"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000096081",
+   "codigo": "4000096081",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 70,
+   "temas": [
+    "Classif icação e Tratamento da Crise"
+   ],
+   "enunciado": "Criança de 8 anos é levado ao pronto-socorro infantil em crise asmática, iniciada na noite anterior. A mãe informa que a criança está apresentando cansaço respiratório, chiado, tosse e vômitos persistentes. Ao exame físico, encontra-se lúcido, orientado, acianótico, Tax = 36,8ºC; FR = 39 ipm; FC = 119 bpm; SatO2 em ar ambiente = 90%, dispneia moderada com retrações intercostais e sibilos expiratórios. Qual tratamento indicado para o caso clínico acima?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Corticoterapia via oral e aminofilina intravenosa."
+    },
+    {
+     "letra": "B",
+     "texto": "Aminofilina intravenosa e corticoterapia via intravenosa."
+    },
+    {
+     "letra": "C",
+     "texto": "Corticoterapia intravenosa e broncodilatador de longa ação inalatório."
+    },
+    {
+     "letra": "D",
+     "texto": "Anticolinérgico (Atrovent) via inalatória e broncodilatador de longa ação inalatório."
+    },
+    {
+     "letra": "E",
+     "texto": "B2 agonista de ação curta via inalatória e corticoterapia intravenosa."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000092922",
+   "codigo": "4000092922",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 71,
+   "temas": [
+    "Classif icação e Tratamento da Crise"
+   ],
+   "enunciado": "Criança de 12 anos é trazida à emergência devido à falta de ar. Relata tosse seca há 24 horas e nega febre.No exame físico a criança se encontra em regular estado geral, corada, hidratada. Sinais vitais mostram uma frequência cardíaca de 120 bpm e frequência respiratória de 42 irpm com saturação de 92% em ar ambiente. A ausculta pulmonar mostra sibilos expiratórios difusos. Marque a alternativa com a melhor conduta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Oxigenioterapia e aminofilina venosa."
+    },
+    {
+     "letra": "B",
+     "texto": "Corticoide venoso e nebulização com soro fisiológico."
+    },
+    {
+     "letra": "C",
+     "texto": "Nebulização com soro fisiológico e corticoide venoso."
+    },
+    {
+     "letra": "D",
+     "texto": "Corticoide inalatório e adrenalina subcutânea."
+    },
+    {
+     "letra": "E",
+     "texto": "Nebulização com ß2 agonista e oxigenioterapia."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000086313",
+   "codigo": "4000086313",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 72,
+   "temas": [
+    "Classif icação e Tratamento da Crise",
+    "Asma"
+   ],
+   "enunciado": "Escolar, 7 anos, é levado por sua mãe ao serviço de emergência pediátrica com relato de tosse seca há 3 dias que evolui, hoje, com sensação de falta de ar e febre. Exame físico: alerta, afebril, conversando, com tosse seca, discreta triagem intercostal e ausculta respiratória apresentando sibilos difusos, FR = 34 irpm; FC = 105 bpm; SaTO₂ = 96% em ar ambiente. A terapêutica inicial mais adequada, neste momento é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Corticoide intramuscular, oxigênio e nebulização com adrenalina."
+    },
+    {
+     "letra": "B",
+     "texto": "Oxigênio, corticoide intravenoso e ß2 agonista a cada 20 minutos na primeira hora, via nebulização ou spray com espaçador."
+    },
+    {
+     "letra": "C",
+     "texto": "ß 2 agonista a cada 20 minutos na primeira hora via nebulização ou spray com espaçador."
+    },
+    {
+     "letra": "D",
+     "texto": "Corticoide intramuscular e ß2 agonista a cada 20 minutos na primeira hora via nebulização ou spray com espaçador."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000082142",
+   "codigo": "4000082142",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 73,
+   "temas": [
+    "Diagnóstico",
+    "Tratamento de Manutenção",
+    "Epidemiologia"
+   ],
+   "enunciado": "Em relação à asma brônquica na criança, marque a alternativa incorreta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Aeroalérgenos, exposição a vírus e atividade física são desencadeantes de crise aguda de asma."
+    },
+    {
+     "letra": "B",
+     "texto": "A espirometria não é viável em menores de 6 anos."
+    },
+    {
+     "letra": "C",
+     "texto": "Ter pais com asma não aumenta o risco da doença na criança."
+    },
+    {
+     "letra": "D",
+     "texto": "Um teste terapêutico com broncodilatadores é útil."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000081560",
+   "codigo": "4000081560",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 74,
+   "temas": [
+    "Exacerbação de asma",
+    "Asma",
+    "Manejo da exacerbação"
+   ],
+   "enunciado": "Mudou o tempo (do calor intenso, começou a ventar e a temperatura caiu), e a mãe do Pedro Henrique, um escolar que possui 8 anos de idade, notou que a asma começou a manifestar-se na criança. Inicialmente com tosse seca, que evoluiu para taquidispneia, com di culdade para falar. Levado ao pronto socorro, o menino foi examinado pelo pediatra de plantão que evidenciou sibilos bilateralmente audíveis com estetoscópio. Nesse caso, a conduta inicial é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "injeção endovenosa de hidrocortisona"
+    },
+    {
+     "letra": "B",
+     "texto": "realizar aerosolterapia com salbutamol"
+    },
+    {
+     "letra": "C",
+     "texto": "injeção intramuscular de dexametasona"
+    },
+    {
+     "letra": "D",
+     "texto": "aerosolterapia com brometo de ipatrópio"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000060455",
+   "codigo": "4000060455",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 75,
+   "temas": [
+    "Tratamento da Crise Aguda"
+   ],
+   "enunciado": "Sobre o manejo da crise asmática na criança, considere as afirmativas a seguir. I. Nas crianças acima de 6 anos de idade, aceita-se a saturação de 90% como adequada e não se indica a oxigenoterapia. II. Determinar a gravidade da crise implica na escolha do dispositivo inalatório a ser utilizado. III. A dispneia súbita no paciente asmático não define necessariamente o diagnóstico de crise. IV. O uso do sulfato de magnésio é reservado aos pacientes que não responderam à terapia inicial da crise. Assinale a alternativa CORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Somente as afirmativas I e II são corretas."
+    },
+    {
+     "letra": "B",
+     "texto": "Somente as afirmativas I e IV são corretas."
+    },
+    {
+     "letra": "C",
+     "texto": "Somente as afirmativas III e IV são corretas."
+    },
+    {
+     "letra": "D",
+     "texto": "Somente as afirmativas I, II e III são corretas."
+    },
+    {
+     "letra": "E",
+     "texto": "Somente as afirmativas II, III e IV são corretas."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000058237",
+   "codigo": "4000058237",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 76,
+   "temas": [
+    "Tratamento de Manutenção",
+    "Pediatria"
+   ],
+   "enunciado": "João Paulo, 6 anos, está sendo atendido pelo pediatra devido à mãe referir que a criança tosse muito ao correr e não consegue acompanhar seus amigos no jogo de futebol, pois sempre interrompe as atividades físicas antes de seus colegas. Desde a fase de lactente, apresenta episódios de tosse, cansaço e é levado à urgência para realizar aerossol com intervalos trimestrais. Apresenta despertar noturno duas vezes na semana por tosse. Aos 3 anos, iniciou episódios de lesões pruriginosas em dobras cutâneas e face. O pai tem rinite alérgica e teve crises de cansaço na infância. Ao exame clínico, encontra-se em bom estado geral, eupneico, afebril, boa perfusão periférica, ACP: normal. Com base nestas informações, o médico realizará como tratamento:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Salbutamol 6/6 horas nas crises."
+    },
+    {
+     "letra": "B",
+     "texto": "Fenoterol 6/6 horas diariamente."
+    },
+    {
+     "letra": "C",
+     "texto": "Prednisolona 0,5- 1 mg/kg – 7 dias (nas crises)."
+    },
+    {
+     "letra": "D",
+     "texto": "Beclometasona 1 jato de 8/8 horas, diariamente."
+    },
+    {
+     "letra": "E",
+     "texto": "Fluticasona 1 jato de 12/12 horas nas crises."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000058229",
+   "codigo": "4000058229",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 77,
+   "temas": [
+    "Pediatria",
+    "Classif icação e Tratamento da Crise"
+   ],
+   "enunciado": "M.S.P., 8 anos, está sendo atendido no serviço de urgência. A responsável relata que o paciente iniciou coriza nasal hialina ontem e febre de 37,9 °C. É asmático e estava usando o spray de salbutamol e beclometasona há um mês. Hoje, a tosse cou persistente, piora do cansaço e di culdade para respirar. Ao exame, encontra-se calmo, taquidispneico ++/4+; boa perfusão periférica, saturação 93%. Após a realização na urgência de broncodilatador inalatório de curta duração por 3 ocasiões seguidas com intervalo de 20 minutos, não apresentou melhora. Manteve saturação de O2 de 92% em ar ambiente e peak flow de 50% do esperado para idade e peso. A próxima conduta do médico será:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Aumentar a dose de beclometasona inalatória para 2 jatos de 12 em 12 horas e fazer salbutamol inalatório de 2 em 2 horas. Acrescentar oxigênio com saturação de 90%."
+    },
+    {
+     "letra": "B",
+     "texto": "Associar brometo de ipratropio. Deixar B2 inalatório de 20 em 20 minutos e reavaliar em 1 hora. Iniciar oxigenioterapia com saturação 90%."
+    },
+    {
+     "letra": "C",
+     "texto": "Iniciar oxigenioterapia. Acrescentar corticoterapia oral. Deixar B2 inalatório de 20 em 20 minutos e reavaliar em 1 hora."
+    },
+    {
+     "letra": "D",
+     "texto": "Fazer B2 inalatório de 20 em 20 minutos, acrescentar corticoterapia e iniciar oxigenioterapia quando a saturação atingir 90%."
+    },
+    {
+     "letra": "E",
+     "texto": "Iniciar oxigenioterapia. Trocar o corticoide inalatório para fluticasona, manter salbutamol inalatório de 20 em 20 minutos."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000056459",
+   "codigo": "4000056459",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 78,
+   "temas": [
+    "Fatores de gravidade na crise de asma"
+   ],
+   "enunciado": "Em pacientes com asma são fatores de agravo ou complicações da doença:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Anorexia, atopia, insônia"
+    },
+    {
+     "letra": "B",
+     "texto": "Obesidade, tabagismo, e doença refluxo gastresofágico (DRGE)"
+    },
+    {
+     "letra": "C",
+     "texto": "Apnéia, atopia, e anorexia"
+    },
+    {
+     "letra": "D",
+     "texto": "Obesidade, colagenose, e DRGE"
+    },
+    {
+     "letra": "E",
+     "texto": "Febre, atopia e cianose"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000051468",
+   "codigo": "4000051468",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 79,
+   "temas": [
+    "Tratamento da Crise Aguda"
+   ],
+   "enunciado": "Pré-escolar de 5 anos com episódios recorrentes de sibilância dá entrada no pronto atendimento com queixas de falta de ar, sensação de aperto no peito e tosse. Ao exame apresenta-se agitado, dispneia ao repouso, frequência respiratória de 45, frequência cadiaca de 135, saturação O2 de 88%. I - Nesta situação o corticoide deve ser usado preferenciamente por via endovenosa. PORQUE: II - Sua eficácia será melhor do que se utilizado por via oral.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "As asserções I e II são proposições verdadeiras, e a segunda é uma justificativa da primeira."
+    },
+    {
+     "letra": "B",
+     "texto": "As asserções I e II são proposições verdadeiras, mas a segunda não é uma justificativa da primeira."
+    },
+    {
+     "letra": "C",
+     "texto": "A asserção I é uma proposição verdadeira e a asserção II é uma proposição falsa."
+    },
+    {
+     "letra": "D",
+     "texto": "A asserção I é uma proposição falsa e a asserção II é uma proposição verdadeira."
+    },
+    {
+     "letra": "E",
+     "texto": "As asserções I e II são proposições falsas."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000049560",
+   "codigo": "4000049560",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 80,
+   "temas": [
+    "Tratamento da Crise Aguda"
+   ],
+   "enunciado": "Um paciente de nove anos de idade foi atendido em pronto-socorro com quadro de broncoconstrição e sibilância. Os pais referiram que ele apresentara, há cinco anos, diagnóstico de asma, em acompanhamento pediátrico regular. O médico que o assistiu prescreveu: budesonida inalatória; salbutamol; montelucaste; e brometo de ipatrópio. Com base nesse caso hipotético, assinale a alternativa que apresenta, das substâncias acima prescritas, somente aquelas que são indicadas na fase de exacerbação da crise asmática. Respostas: 1 12 23 34 45 56 67 78",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "brometo de ipatrópio e salbutamol"
+    },
+    {
+     "letra": "B",
+     "texto": "salbutamol e budesonida inalatória"
+    },
+    {
+     "letra": "C",
+     "texto": "montelucaste e brometo de ipatrópio"
+    },
+    {
+     "letra": "D",
+     "texto": "budesonida inalatória e montelucaste"
+    },
+    {
+     "letra": "E",
+     "texto": "salbutamol e montelucaste"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": [
+  {
+   "id": "4000141482",
+   "codigo": "4000141482",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Asma",
+   "numero": 33,
+   "temas": [
+    "Pediatria",
+    "Classif icação e Tratamento da Crise"
+   ],
+   "enunciado": "Isabela, 8 anos, deu entrada na Emergência Pediátrica do CHN por volta de 1 h da manhã com queixa de cansaço. Enfermeiro Andersen realizou classificação de risco identi cando os seguintes sinais vitais: FC= 140bpm, FR= 30irpm, Saturação O₂= 89-90%, sem queixas álgicas, porém com esforço respiratório. Isabela recebe classificação vermelha e é encaminhada rapidamente à avaliação médica. Ora. Anna Paula ao examinar Isabela identi ca que a mesma encontra-se: hipohidratada, hipocorada, taquidispneica, com tiragem de fúrcula e tiragem intercostal além de apresentar di culdade para falar. AR: MV reduzido bilateralmente, com sibilos expiratórios bilaterais. Prolongamento do tempo expiratório. Saturação de O₂= 88% em ar ambiente. (A) Qual é a sua conduta inicial? (B) Caso o paciente não melhore, como você procederia?",
+   "alternativas": [],
+   "gabarito": null,
+   "imagens": [],
+   "revisar": [],
+   "motivo_exclusao": "sem alternativas"
+  }
+ ]
+}

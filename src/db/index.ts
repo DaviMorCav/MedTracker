@@ -6,6 +6,7 @@ import type {
   ApostilaProgress,
   LessonReview,
   QuestionLog,
+  QuestionAttempt,
 } from './schema';
 
 export * from './schema';
@@ -19,6 +20,7 @@ export class MedTrackerDB extends Dexie {
   apostila!: Table<ApostilaProgress, [string, number]>;
   reviews!: Table<LessonReview, string>;
   questionLogs!: Table<QuestionLog, number>;
+  questionAttempts!: Table<QuestionAttempt, number>;
 
   constructor() {
     super('MedTrackerDB');
@@ -29,6 +31,10 @@ export class MedTrackerDB extends Dexie {
       apostila: '[volumeId+page], volumeId',
       reviews: 'lessonId, dueDate, step, mastered',
       questionLogs: '++id, lessonId, date',
+    });
+    // v2: respostas a questões individuais do banco de questões
+    this.version(2).stores({
+      questionAttempts: '++id, questionId, materia, date',
     });
   }
 }

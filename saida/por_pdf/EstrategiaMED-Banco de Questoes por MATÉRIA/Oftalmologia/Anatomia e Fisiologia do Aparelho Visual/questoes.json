@@ -1,0 +1,851 @@
+{
+ "questoes": [
+  {
+   "id": "4000140728",
+   "codigo": "4000140728",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anatomia e Fisiologia do Aparelho Visual",
+   "numero": 1,
+   "temas": [
+    "Estrabismo",
+    "Semiologia motora e sensorial do estrabismo",
+    "Of talmopediatria e estrabismo"
+   ],
+   "enunciado": "Menina, 3 meses de idade, está em consulta de puericultura. No exame clínico, foi suspeitado da presença de estrabismo. Colocado um feixe de luz na frente dos olhos, observa-se o reflexo luminoso como demonstrado na figura abaixo. Frente a este achado, qual é o diagnóstico e a conduta adequada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Estrabismo transitório, encaminhar ao oftalmologista se persistir aos 12 meses de vida."
+    },
+    {
+     "letra": "B",
+     "texto": "Pseudoestrabismo devido a epicanto, sem conduta específica."
+    },
+    {
+     "letra": "C",
+     "texto": "Estrabismo convergente, encaminhar imediatamente para avaliação com oftalmologista."
+    },
+    {
+     "letra": "D",
+     "texto": "Estrabismo verdadeiro, solicitar tomografia computadorizada de crânio."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q001-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000128081",
+   "codigo": "4000128081",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anatomia e Fisiologia do Aparelho Visual",
+   "numero": 2,
+   "temas": [
+    "Aparelho Lacrimal"
+   ],
+   "enunciado": "Como sabemos, o filme lacrimal é composto por três camadas. Assinale, dentre as alternativas, a correta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A camada mais espessa do filme lacrimal é a aquosa."
+    },
+    {
+     "letra": "B",
+     "texto": "A camada proteica é rica em imunoglobulinas, possuindo ação antibacteriana."
+    },
+    {
+     "letra": "C",
+     "texto": "As glândulas de Meibomius são responsáveis pela produção da camada aquosa."
+    },
+    {
+     "letra": "D",
+     "texto": "A camada lipídica é responsável por tornar o epitélio corneano uma superfície hidrofílica."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000128080",
+   "codigo": "4000128080",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anatomia e Fisiologia do Aparelho Visual",
+   "numero": 3,
+   "temas": [
+    "Músculos Extraoculares"
+   ],
+   "enunciado": "O músculo intorsor do globo ocular na posição primária do olhar é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "oblíquo superior"
+    },
+    {
+     "letra": "B",
+     "texto": "reto superior"
+    },
+    {
+     "letra": "C",
+     "texto": "oblíquo inferior"
+    },
+    {
+     "letra": "D",
+     "texto": "reto inferior"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000128079",
+   "codigo": "4000128079",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anatomia e Fisiologia do Aparelho Visual",
+   "numero": 4,
+   "temas": [
+    "Aparelho Lacrimal"
+   ],
+   "enunciado": "O conduto lacrimonasal chega à fossa nasal através de qual das estruturas abaixo:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Meato médio."
+    },
+    {
+     "letra": "B",
+     "texto": "Corneto inferior."
+    },
+    {
+     "letra": "C",
+     "texto": "Meato inferior."
+    },
+    {
+     "letra": "D",
+     "texto": "Corneto médio."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000128078",
+   "codigo": "4000128078",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anatomia e Fisiologia do Aparelho Visual",
+   "numero": 5,
+   "temas": [
+    "Músculos Extraoculares"
+   ],
+   "enunciado": "Os músculos levantador da pálpebra superior e orbicular do olho são inervados, respectivamente, por ramos oriundos dos seguintes nervos cranianos:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "III e V;"
+    },
+    {
+     "letra": "B",
+     "texto": "III e VII;"
+    },
+    {
+     "letra": "C",
+     "texto": "III e VI;"
+    },
+    {
+     "letra": "D",
+     "texto": "VI e VII."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000128077",
+   "codigo": "4000128077",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anatomia e Fisiologia do Aparelho Visual",
+   "numero": 6,
+   "temas": [
+    "Túnica Neurossensorial ou Interna"
+   ],
+   "enunciado": "Analise as afirmativas abaixo e marque a alternativa correta: I - Na retina a imagem forma-se invertida, para somente no cérebro ser interpretada de forma correta. II - No fundo de olho, o nervo óptico encontra-se temporal a mácula. III - Os bastonetes são os fotorreceptores presentes na fóvea. V- A papila óptica é envolvida pela pia-máter.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Todas as afirmativas estão corretas;"
+    },
+    {
+     "letra": "B",
+     "texto": "Somente as afirmativas II e III estão corretas;"
+    },
+    {
+     "letra": "C",
+     "texto": "Somente a afirmativa II é correta;"
+    },
+    {
+     "letra": "D",
+     "texto": "Somente a afirmativa I é correta."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000128076",
+   "codigo": "4000128076",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anatomia e Fisiologia do Aparelho Visual",
+   "numero": 7,
+   "temas": [
+    "Anatomia do Aparelho Visual"
+   ],
+   "enunciado": "Considere as assertivas abaixo e assinale a alternativa correta: I- A córnea é uma estrutura avascular, sendo responsável por dois terços do poder óptico do olho. II - Cones são células altamente especializadas, encontrados na retina, responsáveis pela visão em baixos índices de luminosidade e detecção de movimentos, enquanto os bastonetes relacionam-se com a acuidade visual na e visão de cores; III - O humor aquoso é produzido pelo corpo ciliar por ultrafiltração e secreção ativa.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Apenas I e II são corretas;"
+    },
+    {
+     "letra": "B",
+     "texto": "Apenas I e III são corretas;"
+    },
+    {
+     "letra": "C",
+     "texto": "Apenas II e III são corretas;"
+    },
+    {
+     "letra": "D",
+     "texto": "Todas estão corretas."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000128075",
+   "codigo": "4000128075",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anatomia e Fisiologia do Aparelho Visual",
+   "numero": 8,
+   "temas": [
+    "Retina"
+   ],
+   "enunciado": "Com relação à anatomia da retina, assinale a alternativa correta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A região da mácula é responsável pela visão central."
+    },
+    {
+     "letra": "B",
+     "texto": "Os bastonetes estão relacionados com a visão de cores."
+    },
+    {
+     "letra": "C",
+     "texto": "Existe uma grande concentração de bastonetes na região macular."
+    },
+    {
+     "letra": "D",
+     "texto": "Os cones se concentram na periferia retiniana."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000128074",
+   "codigo": "4000128074",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anatomia e Fisiologia do Aparelho Visual",
+   "numero": 9,
+   "temas": [
+    "Acomodação do Cristalino"
+   ],
+   "enunciado": "Assinale a alternativa correta com relação ao processo de acomodação que acontece no olho:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "É definida como um aumento da curvatura posterior do cristalino"
+    },
+    {
+     "letra": "B",
+     "texto": "O gatilho é dado pelo músculo ciliar, que ao ser estimulado, promove a contração das fibras zonulares."
+    },
+    {
+     "letra": "C",
+     "texto": "O processo de acomodação tem por objetivo diminuir o poder refrativo ocular, facilitando a visão de objetos situados a pequenas distâncias."
+    },
+    {
+     "letra": "D",
+     "texto": "Tem origem central, com inervação parassimpática do músculo ciliar, enviada para cada olho de forma simultânea."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000128073",
+   "codigo": "4000128073",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anatomia e Fisiologia do Aparelho Visual",
+   "numero": 10,
+   "temas": [
+    "Cristalino"
+   ],
+   "enunciado": "O cristalino é uma lente transparente biconvexa, responsável por um terço do poder dióptrico do olho. Sabendo disso, marque a alternativa que apresenta o valor aproximado do poder dióptrico do cristalino:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "10 dioptrias;"
+    },
+    {
+     "letra": "B",
+     "texto": "20 dioptrias;"
+    },
+    {
+     "letra": "C",
+     "texto": "45 dioptrias;"
+    },
+    {
+     "letra": "D",
+     "texto": "55 dioptrias."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000128072",
+   "codigo": "4000128072",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anatomia e Fisiologia do Aparelho Visual",
+   "numero": 11,
+   "temas": [
+    "Túnica Vascular ou Média ou Uveal"
+   ],
+   "enunciado": "Marque a alternativa formada pelos componentes da úvea:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cristalino, íris e esclera;"
+    },
+    {
+     "letra": "B",
+     "texto": "Coróide, corpo ciliar e íris;"
+    },
+    {
+     "letra": "C",
+     "texto": "Cristalino, esclera e coróide;"
+    },
+    {
+     "letra": "D",
+     "texto": "Coróide, retina e esclera."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000128071",
+   "codigo": "4000128071",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anatomia e Fisiologia do Aparelho Visual",
+   "numero": 12,
+   "temas": [
+    "Córnea"
+   ],
+   "enunciado": "Qual é a camada corneana mais importante no processo de deturgescência?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "estroma"
+    },
+    {
+     "letra": "B",
+     "texto": "endotélio"
+    },
+    {
+     "letra": "C",
+     "texto": "epitélio"
+    },
+    {
+     "letra": "D",
+     "texto": "membrana de Bowman"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000059282",
+   "codigo": "4000059282",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anatomia e Fisiologia do Aparelho Visual",
+   "numero": 13,
+   "temas": [
+    "Pálpebras"
+   ],
+   "enunciado": "A inervação sensitiva da pálpebra é feita pelo:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "VII nervo craniano (facial)"
+    },
+    {
+     "letra": "B",
+     "texto": "III nervo craniano (oculomotor)"
+    },
+    {
+     "letra": "C",
+     "texto": "IV nervo craniano (troclear)"
+    },
+    {
+     "letra": "D",
+     "texto": "V nervo craniano (trigêmeo)"
+    },
+    {
+     "letra": "E",
+     "texto": "I nervo craniânio (olfatório)"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000059241",
+   "codigo": "4000059241",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anatomia e Fisiologia do Aparelho Visual",
+   "numero": 14,
+   "temas": [
+    "Retina"
+   ],
+   "enunciado": "A membrana limitante interna é a camada da retina:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "De sustentação das células ganglionares"
+    },
+    {
+     "letra": "B",
+     "texto": "Em íntimo contato com a coroide"
+    },
+    {
+     "letra": "C",
+     "texto": "Em íntimo contato com a hialoide"
+    },
+    {
+     "letra": "D",
+     "texto": "Que nutre os fotorreceptores"
+    },
+    {
+     "letra": "E",
+     "texto": "Em íntimo com o epitélio pigmentar da retina"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000059218",
+   "codigo": "4000059218",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anatomia e Fisiologia do Aparelho Visual",
+   "numero": 15,
+   "temas": [
+    "Nervo Óptico"
+   ],
+   "enunciado": "A parte mais curta do nervo óptico é a:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Intraorbitária"
+    },
+    {
+     "letra": "B",
+     "texto": "Intraocular"
+    },
+    {
+     "letra": "C",
+     "texto": "Intracanalicular"
+    },
+    {
+     "letra": "D",
+     "texto": "Intracraniana"
+    },
+    {
+     "letra": "E",
+     "texto": "Nenhuma das alternativas"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000045094",
+   "codigo": "4000045094",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anatomia e Fisiologia do Aparelho Visual",
+   "numero": 16,
+   "temas": [
+    "Córnea"
+   ],
+   "enunciado": "Qual das estruturas a seguir não é uma membrana basal verdadeira?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "membrana de descemet"
+    },
+    {
+     "letra": "B",
+     "texto": "membrana de bruch"
+    },
+    {
+     "letra": "C",
+     "texto": "cápsula do cristalino"
+    },
+    {
+     "letra": "D",
+     "texto": "membrana de bowman"
+    },
+    {
+     "letra": "E",
+     "texto": "nenhuma das anteriores"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000041108",
+   "codigo": "4000041108",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anatomia e Fisiologia do Aparelho Visual",
+   "numero": 17,
+   "temas": [
+    "Pálpebras"
+   ],
+   "enunciado": "Com relação à fisiologia palpebral, assinale a alternativa correta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "em situação de \"luta ou fuga\", estímulo autônomo simpático no músculo estriado levantador da pálpebra promove retração palpebral"
+    },
+    {
+     "letra": "B",
+     "texto": "em situação de estresse, a contração do músculo eretor dos cílios promove horizontalização deles, tornando-os mais sensíveis ao toque para reflexo do fechamento palpebral"
+    },
+    {
+     "letra": "C",
+     "texto": "a porção lípidica do filme lacrimal é exclusivamente produzida por glândulas palpebrais"
+    },
+    {
+     "letra": "D",
+     "texto": "o fechamento da pálpebra está associado a um arco reflexo concomitante de infraversão, chamado reflexo de bell"
+    },
+    {
+     "letra": "E",
+     "texto": "nenhuma das alternativas anteriores"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000041068",
+   "codigo": "4000041068",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anatomia e Fisiologia do Aparelho Visual",
+   "numero": 18,
+   "temas": [
+    "Córnea"
+   ],
+   "enunciado": "(ADAPTADA)",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a superfície anterior é mais curta que a posterior"
+    },
+    {
+     "letra": "B",
+     "texto": "o diâmetro vertical é 1 a 2 mm maior que o horizontal"
+    },
+    {
+     "letra": "C",
+     "texto": "o raio de curvatura da córnea é maior que o raio de curvatura da esclera"
+    },
+    {
+     "letra": "D",
+     "texto": "A córnea recebe muitas terminações nervosas, oriundas das fibras do ramo oftálmico do trigêmeo."
+    },
+    {
+     "letra": "E",
+     "texto": "nenhuma das alternativas anteriores"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000002619",
+   "codigo": "4000002619",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anatomia e Fisiologia do Aparelho Visual",
+   "numero": 19,
+   "temas": [
+    "Paralisia do Nervo Oculomotor III NC"
+   ],
+   "enunciado": "Nas paralisias do nervo oculomotor, é CORRETO afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Com ataxia contralateral e tremulação, a condição é síndrome de Weber."
+    },
+    {
+     "letra": "B",
+     "texto": "Com hemiplegia contralateral, a lesão se situa na área do núcleo vermelho."
+    },
+    {
+     "letra": "C",
+     "texto": "No diabetes, a pupila é poupada."
+    },
+    {
+     "letra": "D",
+     "texto": "Causada por aneurisma, é indolor."
+    },
+    {
+     "letra": "E",
+     "texto": "O olho fica em extorsão é abdução."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000002472",
+   "codigo": "4000002472",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anatomia e Fisiologia do Aparelho Visual",
+   "numero": 20,
+   "temas": [
+    "Aparelho Lacrimal"
+   ],
+   "enunciado": "Analisando o sistema lacrimal, é INCORRETO afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "As glândulas lacrimais acessórias podem estar em contato com a borda tarsal superior na pálpebra superior."
+    },
+    {
+     "letra": "B",
+     "texto": "O estímulo secretório da glândula lacrimal é puramente parassimpático."
+    },
+    {
+     "letra": "C",
+     "texto": "A camada externa de lipídeos do filme lacrimal diminui a tensão superficial para ajudar na estabilidade vertical do filme lacrimal."
+    },
+    {
+     "letra": "D",
+     "texto": "A camada interna de mucina do filme lacrimal tem contribuição parcial das críptas e Henie e das glândulas de Manz."
+    },
+    {
+     "letra": "E",
+     "texto": "O olho seco é encontrado em disautonomia familiar."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000002261",
+   "codigo": "4000002261",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anatomia e Fisiologia do Aparelho Visual",
+   "numero": 21,
+   "temas": [
+    "Pálpebras"
+   ],
+   "enunciado": "Inúmeras doenças sistêmicas podem causar alterações do olho e seus anexos. A ptose é uma manifestação ocular que apresenta as seguintes doenças sistêmicas associadas, EXCETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Miastenia gravis"
+    },
+    {
+     "letra": "B",
+     "texto": "Distrofia miotônica."
+    },
+    {
+     "letra": "C",
+     "texto": "Síndrome de Horner."
+    },
+    {
+     "letra": "D",
+     "texto": "Insuficiência cardíaca."
+    },
+    {
+     "letra": "E",
+     "texto": "Paralisia ou regeneração aberrante de NCIII."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000126445",
+   "codigo": "4000126445",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anatomia e Fisiologia do Aparelho Visual",
+   "numero": 22,
+   "temas": [
+    "Conjuntivites",
+    "Anatomia do Aparelho Visual"
+   ],
+   "enunciado": "Sobre a conjuntiva do globo ocular, analise as afirmativas abaixo: I - Constitui um tecido liso, exível e avascularizado, que tem como função principal servir de barreira contra agressões exógenas, inclusive micro-organismos; II - É uma membrana mucosa que reveste o globo ocular em sua superfície anterior e as pálpebras, superior e inferior, nas suas superfícies posteriores; III - É um reservatório da secreção lacrimal e permite movimentação do globo ocular sem que o atrito entre em sua superfície lisa e a córnea cause dano para a mesma; IV - Nas conjuntivites virais, o infiltrado celular é tipicamente de polimorfonucleares neutrófilos. Está CORRETO o que se afirma em:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I, II, III e IV."
+    },
+    {
+     "letra": "B",
+     "texto": "II, III, e IV, apenas."
+    },
+    {
+     "letra": "C",
+     "texto": "II e III, apenas"
+    },
+    {
+     "letra": "D",
+     "texto": "I, apenas."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000108748",
+   "codigo": "4000108748",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anatomia e Fisiologia do Aparelho Visual",
+   "numero": 23,
+   "temas": [
+    "Córnea"
+   ],
+   "enunciado": "Denomina-se megalocórnea o diâmetro corneano horizontal no recém-nascido que ultrapasse:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "6 mm."
+    },
+    {
+     "letra": "B",
+     "texto": "9 mm."
+    },
+    {
+     "letra": "C",
+     "texto": "10 mm."
+    },
+    {
+     "letra": "D",
+     "texto": "12 mm."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000139602",
+   "codigo": "4000139602",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anatomia e Fisiologia do Aparelho Visual",
+   "numero": 24,
+   "temas": [
+    "Glândulas lacrimais"
+   ],
+   "enunciado": "Quanto à siologia do lme lacrimal, a produção e secreção do componente mucinoso são realizadas em parte pelas glândulas:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Meibomianas"
+    },
+    {
+     "letra": "B",
+     "texto": "Limbares de Manz"
+    },
+    {
+     "letra": "C",
+     "texto": "De Krause"
+    },
+    {
+     "letra": "D",
+     "texto": "De Wolfring"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000126937",
+   "codigo": "4000126937",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Anatomia e Fisiologia do Aparelho Visual",
+   "numero": 25,
+   "temas": [
+    "Córnea",
+    "Anatomia do Aparelho Visual",
+    "Esclera"
+   ],
+   "enunciado": "Em relação às bases morfofuncionais do aparelho da visão, analise as afirmativas abaixo. I - O olho, da mesma maneira que o encéfalo, é derivado do tubo neural, com origem neuroectodérmica. II - A córnea é uma estrutura vascularizada. III - A esclera é formada por tecido conjuntivo denso e corresponde ao branco do olho. IV - A íris é responsável pela cor dos olhos. Está correto o que se afirma em: Respostas: 1 12 23",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "II, apenas."
+    },
+    {
+     "letra": "B",
+     "texto": "I, III e IV, apenas."
+    },
+    {
+     "letra": "C",
+     "texto": "II e III, apenas."
+    },
+    {
+     "letra": "D",
+     "texto": "I, II, III e IV."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": []
+}

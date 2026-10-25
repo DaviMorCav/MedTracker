@@ -1,0 +1,1412 @@
+{
+ "questoes": [
+  {
+   "id": "4000132418",
+   "codigo": "4000132418",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Infecção do Trato Urinário",
+   "numero": 1,
+   "temas": [
+    "Fisiopatologia"
+   ],
+   "enunciado": "Qual é a alteração urológica mais frequentemente associada à infecção urinária na infância?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Refluxo vesicoureteral."
+    },
+    {
+     "letra": "B",
+     "texto": "Válvula de uretra posterior."
+    },
+    {
+     "letra": "C",
+     "texto": "Rim único."
+    },
+    {
+     "letra": "D",
+     "texto": "Divertículo de bexiga."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000131617",
+   "codigo": "4000131617",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Infecção do Trato Urinário",
+   "numero": 2,
+   "temas": [
+    "Diagnóstico laboratorial"
+   ],
+   "enunciado": "Leia o caso clínico a seguir. Lactente de 18 meses, do sexo masculino, é trazido à assistência médica, pois, há 24 horas, apresenta febre e vômitos (dois episódios) pós-alimentares. Ao exame clínico, a criança encontra-se em bom estado geral, temperatura axilar de 38,5 ºC e sem outras anormalidades. Foram então realizados os seguintes exames laboratoriais: hemograma (Ht: 33%, Hb: 11 g/dL, leucócitos totais: 8.460/m³, neutró los: 49%, basó lo: 2%, linfócito: 59%, eosinó lo: 2%, monócitos: 2%) e EAS (aspecto: límpido; cor: amarelo citrino; pH: 6,5; densidade: 1020; nitrito: negativo; proteínas: ausentes; leucócitos: 15 p/c; hemácias: 3 p/c; células epiteliais: 5 p/c; flora bacteriana: moderada; ausência de cilindros ou cristais). A melhor conduta, caso haja suspeita de infecção urinária, é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "iniciar antibioticoterapia para infecção urinária."
+    },
+    {
+     "letra": "B",
+     "texto": "colher urocultura por sondagem uretral."
+    },
+    {
+     "letra": "C",
+     "texto": "realizar ultrassonografia de rins e vias urinárias."
+    },
+    {
+     "letra": "D",
+     "texto": "repetir EAS para confirmação diagnóstica."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000129985",
+   "codigo": "4000129985",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Infecção do Trato Urinário",
+   "numero": 3,
+   "temas": [
+    "Fisiopatologia"
+   ],
+   "enunciado": "Menino de 4 anos com queixa de disúria, polaciúria, afebril e urina avermelhada. Na ta urinária temos esterase leucocitária negativa, nitrito negativo e hemácias positivo. Qual o agente etiológico mais provável?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Proteus."
+    },
+    {
+     "letra": "B",
+     "texto": "Adenovírus."
+    },
+    {
+     "letra": "C",
+     "texto": "Tuberculose."
+    },
+    {
+     "letra": "D",
+     "texto": "Leptospirose."
+    },
+    {
+     "letra": "E",
+     "texto": "Escherichia coli."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119676",
+   "codigo": "4000119676",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Infecção do Trato Urinário",
+   "numero": 4,
+   "temas": [
+    "Tratamento",
+    "Pediatria"
+   ],
+   "enunciado": "Menino de 3 meses apresenta febre 39,5ºC e baixa aceitação do seio materno há 4 dias. EF: REG, hidratado, febril 38,5 ºC. Urina I (sondagem vesical): pH 6,0, densidade 1010, nitrito negativo, proteína +1, leucoesterase +3, leucócitos de 150/campo, hemácias de 20/campo. A conduta é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "antitérmico e retorno para ver o resultado da cultura de urina."
+    },
+    {
+     "letra": "B",
+     "texto": "antibiótico via oral e retorno para ver resultado da cultura de urina."
+    },
+    {
+     "letra": "C",
+     "texto": "internação e antibiótico intravenoso."
+    },
+    {
+     "letra": "D",
+     "texto": "internação e aguardar resultado de cultura de urina."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000118942",
+   "codigo": "4000118942",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Infecção do Trato Urinário",
+   "numero": 5,
+   "temas": [
+    "Investigação por imagem"
+   ],
+   "enunciado": "Lactente masculino com 4 meses de vida trazido em consulta de puericultura com queixa de recusa ao seio, irritabilidade, discreta palidez e febre baixa intermitente. Em urocultura por sondagem vesical foi evidenciado crescimento de 100000000 de colônias de Proteus mirabilis. Após o tratamento adequado, o seguimento ambulatorial inicial desse paciente deve incluir obrigatoriamente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "USG de vias urinárias."
+    },
+    {
+     "letra": "B",
+     "texto": "Cintilografia com DMSA e DTPA."
+    },
+    {
+     "letra": "C",
+     "texto": "Quimioprofilaxia com cefalexina."
+    },
+    {
+     "letra": "D",
+     "texto": "Urografia excretora."
+    },
+    {
+     "letra": "E",
+     "texto": "Uretrocistografia miccional."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000115522",
+   "codigo": "4000115522",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Infecção do Trato Urinário",
+   "numero": 6,
+   "temas": [
+    "Método de coleta",
+    "Tratamento"
+   ],
+   "enunciado": "Lactente, 9 meses de idade, sexo feminino, sem antecedentes mórbidos, apresenta quadro de febre até 40ºC há 2 dias, sem qualquer outro sintoma associado. Ao exame clínico, criança em bom estado geral, sem alterações significativas. Foi optado pela coleta de urina tipo 1 e urocultura por saco coletor. A urina tipo 1 revelou leucocitúria de 250.000/ml e nitrito positivo. A conduta indicada neste caso é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Internação hospitalar e iniciar tratamento com antimicrobiano parenteral empírico atéresultado de urocultura."
+    },
+    {
+     "letra": "B",
+     "texto": "Prescrição de sintomáticos e aguardar resultado de urocultura para definir necessidadede antimicrobiano."
+    },
+    {
+     "letra": "C",
+     "texto": "Recoleta de urocultura por sondagem vesical de alívio e iniciar tratamento ambulatorial com antimicrobiano oral."
+    },
+    {
+     "letra": "D",
+     "texto": "Recoleta de urocultura por sondagem vesical de alívio e internar para tratamento comantimicrobiano endovenoso."
+    },
+    {
+     "letra": "E",
+     "texto": "Coleta de função renal e eletrólitos e aguardar resultados para definir a via deadministração do antimicrobiano."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000112539",
+   "codigo": "4000112539",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Infecção do Trato Urinário",
+   "numero": 7,
+   "temas": [
+    "Pediatria",
+    "Quadro clínico"
+   ],
+   "enunciado": "Menina, branca, previamente hígida com 15 meses de idade atendida em Unidade Básica de Saúde há 3 semanas com a seguinte história: há um dia com quadro de irritabilidade, recusa alimentar, febre de 38 ºC que cedia com antitérmico, diminuição da diurese e urina mais escurecida. Exame físico: criança em bom estado geral, sem alterações, exceto obstrução nasal e presença de roncos de transmissão na ausculta pulmonar. Colhido exames e orientado retorno no dia seguinte, quando foi diagnosticada otite média serosa e foram prescritos soro siológico nasal e antitérmico. Devido a alterações encontradas nos exames laboratoriais do dia anterior, o médico orientou a mãe a repetir o exame de urina e procurar o pediatra que segue a puericultura da criança. Na consulta de rotina, a mãe relata que a febre durou apenas 3 dias. A criança está bem no momento e ela trouxe os exames realizados para avaliação. Exames iniciais (urina colhida por sondagem vesical transuretral). Urina tipo 1: densidade 1,021, pH 5, nitrito negativo, proteína 1+, leucócitos 4-5 por campo e hemácias 4-5 por campo. Urocultura: > 100.000 UFC/mL de E coli. Repetição dos exames (2 semanas após o quadro inicial). Urina tipo 1: densidade 1,013, pH 5, nitrito negativo, proteína negativa, leucócitos 1-2 por campo e hemácias 0-1 por campo. Urocultura: > 100000 UFC/mL de E coli. Qual o provável diagnóstico?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Infecção do trato urinário inferior."
+    },
+    {
+     "letra": "B",
+     "texto": "Bacteriúria assintomática."
+    },
+    {
+     "letra": "C",
+     "texto": "Vulvovaginite."
+    },
+    {
+     "letra": "D",
+     "texto": "Malformação do trato urinário."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000103727",
+   "codigo": "4000103727",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Infecção do Trato Urinário",
+   "numero": 8,
+   "temas": [
+    "Investigação por imagem"
+   ],
+   "enunciado": "Lactente, sexo masculino, 8 meses de idade, evoluiu com um quadro séptico durante uma primoinfecção urinária febril confirmada. Atualmente, na investigação ambulatorial de suas vias urinárias, além de uma ultrassonogra a renal e de vias urinárias, está indicada para esse lactente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "uma avaliação radioisotópica renal com DMSA-Tc, 6 meses após o episódio infeccioso."
+    },
+    {
+     "letra": "B",
+     "texto": "uma cistografia isotópica 4 semanas após o episódio agudo de infecção."
+    },
+    {
+     "letra": "C",
+     "texto": "uma urografia excretora para avaliação da filtração renal em separado."
+    },
+    {
+     "letra": "D",
+     "texto": "uma avaliação radioisotópica renal com DTPA-Tc, 6 meses após o episódio infeccioso."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000097502",
+   "codigo": "4000097502",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Infecção do Trato Urinário",
+   "numero": 9,
+   "temas": [
+    "Quadro clínico"
+   ],
+   "enunciado": "Assinale a alternativa que apresenta um sinal comumente encontrado em um lactente de 2 meses de idade com ITU:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Alteração urinária."
+    },
+    {
+     "letra": "B",
+     "texto": "Hematúria."
+    },
+    {
+     "letra": "C",
+     "texto": "Icterícia."
+    },
+    {
+     "letra": "D",
+     "texto": "Febre."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000095455",
+   "codigo": "4000095455",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Infecção do Trato Urinário",
+   "numero": 10,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Menina com dois anos de idade com quadro de febre e diminuição da aceitação alimentar há 3 dias. Ao exame físico: Bom estado geral, febril, sem sinais localizatórios. Urina tipo I: leucócitos 110.000/mL; hemácias 20.000/mL; nitrito positivo. Coletada urocultura. Qual a melhor opção terapêutica neste momento?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Prescrever antibiótico via oral e solicitar retorno em 48 horas."
+    },
+    {
+     "letra": "B",
+     "texto": "Iniciar antibioticoterapia endovenosa e realizar ultrassonografia na internação."
+    },
+    {
+     "letra": "C",
+     "texto": "Iniciar antibiótico intramuscular e retornar após 1 semana para checar a urocultura."
+    },
+    {
+     "letra": "D",
+     "texto": "Prescrever antibiótico via oral e retorno em 1 semana com ultrassonografia."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000093670",
+   "codigo": "4000093670",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Infecção do Trato Urinário",
+   "numero": 11,
+   "temas": [
+    "Tratamento",
+    "Diagnóstico laboratorial"
+   ],
+   "enunciado": "Uma pré-escolar de 3 anos, feminino, previamente hígida, dá entrada na emergência com queixa de febre alta (39,5°C), vômitos e recusa alimentar há 2 dias. A paciente não apresenta controle es ncteriano e mãe relata que troca fralda menos vezes devido à diminuição de diurese. Ao exame físico mostra-se irritada, descorada (1+/4+), tax 39°C, hiperemia perineal e dor a palpação abdominal. Fralda com odor fétido. Solicitado parcial de urina por saco coletor com presença de intensa flora bacteriana. Neste caso, a conduta é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Iniciar Antibioticoterapia via oral e orientar retorno em 48 horas se a febre persistir."
+    },
+    {
+     "letra": "B",
+     "texto": "Iniciar Antibioticoterapia venosa após coleta de parcial de urina e urocultura por saco coletor."
+    },
+    {
+     "letra": "C",
+     "texto": "Iniciar Antibioticoterapia via oral após coleta parcial de urina e urocultura por saco coletor."
+    },
+    {
+     "letra": "D",
+     "texto": "Iniciar Antibioticoterapia venosa após coleta de parcial de urina e urocultura por cateterismo vesical."
+    },
+    {
+     "letra": "E",
+     "texto": "Iniciar Antibioticoterapia via intramuscular por 3 dias e orientar retorno em 48 horas se a febre persistir."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000085077",
+   "codigo": "4000085077",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Infecção do Trato Urinário",
+   "numero": 12,
+   "temas": [
+    "Inf ecção de Trato Urinário ITU"
+   ],
+   "enunciado": "A respeito da Infecção do trato urinário (ITU) em crianças, marque a sequência correta de V ou F: ( ) 80% das infecções se devem a Klebsiella. ( ) A não circuncisão do prepúcio não altera a incidência de ITU no sexo masculino. ( ) As principais manifestações clínicas são febre, dor abdominal ou nas costas, disúria, aumento da frequência urinária, urgência ou incontinência, hematúria, dor a palpação supra-pública. ( ) Hemoculturas não são recomendadas rotineiramente em crianças acima de 2 meses.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "V-V-F-F"
+    },
+    {
+     "letra": "B",
+     "texto": "F-V-V-V"
+    },
+    {
+     "letra": "C",
+     "texto": "V-V-V-F"
+    },
+    {
+     "letra": "D",
+     "texto": "F-F-V-V"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000084792",
+   "codigo": "4000084792",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Infecção do Trato Urinário",
+   "numero": 13,
+   "temas": [
+    "Quadro clínico"
+   ],
+   "enunciado": "Em relação à infecção do trato urinário (ITU) em crianças é incorreto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Há maior incidência de ITU no primeiro ano de vida, especialmente para o sexo feminino"
+    },
+    {
+     "letra": "B",
+     "texto": "A apresentação clínica da ITU na infância é heterogênea, variando de acordo com o grupo etário e com a localização da infecção"
+    },
+    {
+     "letra": "C",
+     "texto": "Nos adolescentes, a sintomatologia mais comum compreende disúria, polaciúria e dor à micção"
+    },
+    {
+     "letra": "D",
+     "texto": "Os quadros com maior acometimento do estado geral com adinamia, calafrios, dor abdominal e nos flancos sugerem pielonefrite aguda"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000078158",
+   "codigo": "4000078158",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Infecção do Trato Urinário",
+   "numero": 14,
+   "temas": [
+    "Investigação por imagem"
+   ],
+   "enunciado": "Assinale a a rmativa correta sobre a investigação com imagem em um escolar de 7 anos com diagnóstico bem documentado de infecção do trato urinário.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Deve realizar, pois é criança com mais de seis anos."
+    },
+    {
+     "letra": "B",
+     "texto": "No caso de se tratar de uma menina, deve ser feito."
+    },
+    {
+     "letra": "C",
+     "texto": "Indica-se em meninos a partir do segundo episódio."
+    },
+    {
+     "letra": "D",
+     "texto": "Deverá realizar mesmo sendo o primeiro episódio."
+    },
+    {
+     "letra": "E",
+     "texto": "Caso seja a primeira infecção, não há necessidade."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000063961",
+   "codigo": "4000063961",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Infecção do Trato Urinário",
+   "numero": 15,
+   "temas": [
+    "Etiologia"
+   ],
+   "enunciado": "Uma mãe traz seu lho de 4 anos de idade à consulta médica, com história de diurese com coágulos de sangue e o diagnóstico inicial é de cistite hemorrágica aguda. Nega uso de quaisquer medicamentos previamente. Você solicita cultura de urina que se mostra negativa para bactérias. A provável causa para esta cistite é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Picornavírus."
+    },
+    {
+     "letra": "B",
+     "texto": "Schistosoma mansoni."
+    },
+    {
+     "letra": "C",
+     "texto": "Varicela zoster vírus."
+    },
+    {
+     "letra": "D",
+     "texto": "Adenovírus 11 e 21."
+    },
+    {
+     "letra": "E",
+     "texto": "Helicobacterpylori."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000062953",
+   "codigo": "4000062953",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Infecção do Trato Urinário",
+   "numero": 16,
+   "temas": [
+    "Quadro clínico"
+   ],
+   "enunciado": "Em relação à infecção do trato urinário (ITU) na infância, todas as alternativas estão corretas, exceto:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A bactéria mais encontrada em todas as faixas etárias, tanto em meninas quanto em meninos, é a Escherichia coli"
+    },
+    {
+     "letra": "B",
+     "texto": "Em recém-nascidos, lactentes e crianças com febre sem sinal localizatórios, a ITU é o principal achado"
+    },
+    {
+     "letra": "C",
+     "texto": "Em neonatos e lactentes jovens até o sexto mês de vida, a ITU predomina em meninas, enquanto que, após o primeiro ano de vida, predomina em meninos"
+    },
+    {
+     "letra": "D",
+     "texto": "A sondagem vesical ou punção suprapúbica são os métodos de escolha para a coleta de urina em lactentes ou crianças pequenas sem controle esfincteriano."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046307",
+   "codigo": "4000046307",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Infecção do Trato Urinário",
+   "numero": 17,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Bernardo, de 4 meses e meio, é trazido à emergência de hospital pediátrico de referência com quadro de febre há 12 horas, que cede ao uso de antitérmico, mas logo retorna após 4 horas, associado à recusa alimentar e vômitos. Ao exame físico, estado geral regular, febril, sem alterações à ausculta pulmonar e cardíaca, sem sinais de hipertensão intracraniana. Você solicita exames de sangue e urina (coletada por sonda de alívio). Hemograma com leucocitose com desvio à esquerda, Proteína C reativa: 105 mg/dL, Ureia: 15 mg/dL; Creatinina: 0,5 mg/dL. Parcial de urina: Leucócitos: 80.000/mL; Hemácias: <1.000/mL, Nitrito positivo, Bacterioscopia com presença de Bacilos Gram negativos 1+. A conduta mais apropriada é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "internamento, antitérmico de horário, hidratação venosa e aguarda a urocultura."
+    },
+    {
+     "letra": "B",
+     "texto": "internamento, hidratação venosa e antibioticoterapia endovenosa."
+    },
+    {
+     "letra": "C",
+     "texto": "iniciar antibioticoterapia oral, antitérmico retal e solicitar retorno em 48 horas."
+    },
+    {
+     "letra": "D",
+     "texto": "iniciar antibioticoterapia oral e solicitar retorno em 72 horas."
+    },
+    {
+     "letra": "E",
+     "texto": "solicitar ultrassonografia de emergência e aguardar o laudo para ajudar na decisão da conduta."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000042505",
+   "codigo": "4000042505",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Infecção do Trato Urinário",
+   "numero": 18,
+   "temas": [
+    "Tratamento",
+    "Pediatria",
+    "Investigação por imagem"
+   ],
+   "enunciado": "Um lactente de 2 anos e 4 meses de idade é levado a urgência pela mãe por apresentar febre e recusa alimentar há 2 dias. No momento do atendimento, a criança apresenta-se com bom estado geral e sem vômitos e ingerindo o liquido oferecido sem di culdades. O sumário de urina evidenciou urina turva com odor fétido, presença de nitritos e na sedmentoscopia mostrou 30 piócitos por campo. Foi encaminhada urina também para urocultura. Considerando o cenário apresentado, qual a conduta apropriada nesse caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Internar a criança, introduzir antibiótico endovenoso e solicitar ultrassonografia de rins e vias urinárias imediatamente."
+    },
+    {
+     "letra": "B",
+     "texto": "Prescrever antibiótico por via oral, a ser administrado em casa, e solicitar uretrocistografia miccional após 48 horas do início do tratamento."
+    },
+    {
+     "letra": "C",
+     "texto": "Prescrever antibiótico por via oral, a ser administrado em casa, e solicitar ultrassonografia de rins e vias urinárias após resultado da urocultura e término do tratamento."
+    },
+    {
+     "letra": "D",
+     "texto": "Internar a criança, introduzir antibiótico endovenoso e solicitar ultrassonografia de rins e vias urinárias após resultado da urocultura e término do tratamento."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000042375",
+   "codigo": "4000042375",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Infecção do Trato Urinário",
+   "numero": 19,
+   "temas": [
+    "Investigação por imagem"
+   ],
+   "enunciado": "Dos exames citados abaixo, qual é o indicado para diagnosticar cicatriz renal?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Uretrocistografia miccional."
+    },
+    {
+     "letra": "B",
+     "texto": "Cintilografia renal com DTPA."
+    },
+    {
+     "letra": "C",
+     "texto": "Cintilografia renal com DMSA."
+    },
+    {
+     "letra": "D",
+     "texto": "Estudo urodinâmico."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000039664",
+   "codigo": "4000039664",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Infecção do Trato Urinário",
+   "numero": 20,
+   "temas": [
+    "Inf ecção de Trato Urinário ITU"
+   ],
+   "enunciado": "Sobre a investigação da Infecção do Trato Urinário (ITU) na infância, é correto afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "toda criança que tenha diagnóstico de certeza de ITU deverá ser submetida à investigação por imagem, a fim de detectar possível má formação do trato geniturinário."
+    },
+    {
+     "letra": "B",
+     "texto": "a urocultura colhida por saco coletor tem alto valor preditivo positivo."
+    },
+    {
+     "letra": "C",
+     "texto": "o tratamento da ITU deve ser iniciado apenas após o resultado positivo da urocultura, desde que coletada por método confiável."
+    },
+    {
+     "letra": "D",
+     "texto": "a cintilografia renal com DMSA é o exame padrão-ouro na detecção de refluxo vesicoureteral em crianças."
+    },
+    {
+     "letra": "E",
+     "texto": "o exame uretrocistografia miccional deixou de ser realizado em crianças, por não apresentar sensibi- lidade e especificidade maior que a ultrassonogra- fia de rins e vias urinárias."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000035492",
+   "codigo": "4000035492",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Infecção do Trato Urinário",
+   "numero": 21,
+   "temas": [
+    "Prof ilaxia"
+   ],
+   "enunciado": "Em alguns casos de infecção do trato urinário em pediatria, depois de completado o tratamento e no decorrer da investigação de possíveis alterações, a criança deve ser mantida em pro laxia com baixas doses de antibiótico. Recomenda-se a utilização de quimioprofilaxia para a seguinte situação:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Refluxo vesicoureteral de grau 2."
+    },
+    {
+     "letra": "B",
+     "texto": "História familiar específica de malformações do trato genitourinário."
+    },
+    {
+     "letra": "C",
+     "texto": "Incontinência urinária diurna."
+    },
+    {
+     "letra": "D",
+     "texto": "Sexo feminino."
+    },
+    {
+     "letra": "E",
+     "texto": "Nenhuma das alternativas anteriores."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000032605",
+   "codigo": "4000032605",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Infecção do Trato Urinário",
+   "numero": 22,
+   "temas": [
+    "Investigação por imagem"
+   ],
+   "enunciado": "Relacione os exames de avaliação morfofuncional do trato urinário com as suas características; COLUNA I – Exames complementares; 1. Uretrocitografia miccional; 2. Cintilografia renal estática; 3. Cintilografia renal dinâmica; 4. Ultrassonografia dinâmica; COLUNA II – Características; ( ) Determinação da capacidade vesical; ( ) Diferenciação de processos obstrutivos funcionais dos anatômicos; ( ) Avaliação de válvula de uretra posterior; ( ) Detecção precoce de lesões corticais agudas; Assinale a alternativa que apresenta a sequência CORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "2 1 4 3."
+    },
+    {
+     "letra": "B",
+     "texto": "4 1 2 3."
+    },
+    {
+     "letra": "C",
+     "texto": "3 2 1 4."
+    },
+    {
+     "letra": "D",
+     "texto": "4 3 1 2."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000006851",
+   "codigo": "4000006851",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Infecção do Trato Urinário",
+   "numero": 23,
+   "temas": [
+    "Método de coleta"
+   ],
+   "enunciado": "Uma criança de 4 anos com controle es ncteriano é levada para consulta na UBS devido queixas urinárias sugestivas de cistite. A mãe nega história prévia de ITU. Ao exame, encontra-se estável e afebril. Nesse caso, a amostra de urina considerada adequada para urocultura deve ser obtida por:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Saco coletor"
+    },
+    {
+     "letra": "B",
+     "texto": "Jato médio"
+    },
+    {
+     "letra": "C",
+     "texto": "Cateterismo vesical"
+    },
+    {
+     "letra": "D",
+     "texto": "Punção suprapúbica (PSP)"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000125626",
+   "codigo": "4000125626",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Infecção do Trato Urinário",
+   "numero": 24,
+   "temas": [
+    "Inf ecção de Trato Urinário ITU"
+   ],
+   "enunciado": "Roberto, 1 mês de idade, foi internado devido a ITU. Assinale Verdadeiro ( V ) ou Falso ( F ). ( ) São fatores de risco para ITU em pediatria: presença do prepúcio e constipação intestinal. ( ) Para o caso de Roberto, a investigação anatômica do aparelho urinário é obrigatória. ( ) A diferenciação entre cistite e pielonefrite em lactentes é realizada basicamente pelo quadro clínico e urocultura. ( ) EAS tem grande especificidade para diagnóstico de ITU em lactentes. Assinale a sequência CORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "V; V; F; V"
+    },
+    {
+     "letra": "B",
+     "texto": "V; F; V; V"
+    },
+    {
+     "letra": "C",
+     "texto": "F; V; F; V"
+    },
+    {
+     "letra": "D",
+     "texto": "F; F; V; F"
+    },
+    {
+     "letra": "E",
+     "texto": "V; V; F; F"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000098758",
+   "codigo": "4000098758",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Infecção do Trato Urinário",
+   "numero": 25,
+   "temas": [
+    "Fisiopatologia",
+    "Investigação por imagem",
+    "Quadro clínico"
+   ],
+   "enunciado": "Sobre a infecção do trato urinário (ITU) na infância, podemos dizer que as seguintes alternativas estão corretas, EXCETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "ITU é uma das doenças mais comuns em pediatria, com uma maior incidência no primeiro ano de vida, especialmente no sexo masculino nessa faixa etária."
+    },
+    {
+     "letra": "B",
+     "texto": "Em lactentes com ITU, a febre é a principal manifestação, sendo muitas vezes, o único sinal de infecção urinária."
+    },
+    {
+     "letra": "C",
+     "texto": "A investigação por imagens do trato urinário está indicada após o primeiro episódio bem documentado de ITU, em qualquer idade, para ambos os sexos, justificando-se pela frequente associação de ITU a anomalias do trato urinário, principalmente refluxo vesico ureteral."
+    },
+    {
+     "letra": "D",
+     "texto": "Em pacientes pediátricos com obstrução do trato urinário, a bactéria mais frequentemente envolvida é a E. coli."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000080919",
+   "codigo": "4000080919",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Infecção do Trato Urinário",
+   "numero": 26,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Criança de 3 anos comparece a unidade de saúde acompanhando da mãe que informa que a criança vem apresentando choro ao urinar, está indo muito ao banheiro, mas urina em pouca quantidade. Sintomas iniciados há 03 dias, nega febre ou outras queixas. Você solicita EAS que mostrou infecção do trato urinário. Assim você escolhe para tratamento dessa criança:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Levofloxacino"
+    },
+    {
+     "letra": "B",
+     "texto": "Ciprofloxacino"
+    },
+    {
+     "letra": "C",
+     "texto": "Cefalexina"
+    },
+    {
+     "letra": "D",
+     "texto": "Norfloxacino"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000071825",
+   "codigo": "4000071825",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Infecção do Trato Urinário",
+   "numero": 27,
+   "temas": [
+    "Urocultura"
+   ],
+   "enunciado": "Em uma criança sintomática, com qual destas uroculturas você faria o diagnóstico de ITU?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "30.000 UFC/ml, bactéria gram negativa, em urina colhida pelo jato médio."
+    },
+    {
+     "letra": "B",
+     "texto": "500 UFC/ml, bactéria gram negativa, em urina colhida por cateterismo vesical."
+    },
+    {
+     "letra": "C",
+     "texto": "100 UFC/ml, bactéria Gram-negativa, em urina colhida por punção suprapúbica."
+    },
+    {
+     "letra": "D",
+     "texto": "82.000 UFC/ml, bactéria Gram-negativa, em urina colhida por saco coletor."
+    },
+    {
+     "letra": "E",
+     "texto": "80.000 UFC/ml, bactéria Gram-negativa, em urina colhida pelo jato médio."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000068355",
+   "codigo": "4000068355",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Infecção do Trato Urinário",
+   "numero": 28,
+   "temas": [
+    "Urocultura"
+   ],
+   "enunciado": "Qual dos pacientes abaixo apresenta infecção urinária comprovada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Pré-escolar do sexo masculino de dois anos, com febre e diarreia há 48 horas, EAS com 12 piócitos/campo e urinocultura (saco coletor) com 60.000 colônias de E.coli."
+    },
+    {
+     "letra": "B",
+     "texto": "Lactente do sexo feminino de cinco meses, com déficit de crescimento e com urinocultura (cateterismo vesical), com 70.000 colônias de Proteus mirabilis."
+    },
+    {
+     "letra": "C",
+     "texto": "Escolar de oito anos, sexo feminino, assintomática e com urinocultura (jato médio) com 45.000 colônias de E.coli."
+    },
+    {
+     "letra": "D",
+     "texto": "Lactente do sexo feminino de seis meses, com déficit de crescimento e com urinocultura (saco coletor) com 100.000 colônias de E.coli."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000056591",
+   "codigo": "4000056591",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Infecção do Trato Urinário",
+   "numero": 29,
+   "temas": [
+    "Investigação por imagem"
+   ],
+   "enunciado": "No primeiro episódio de infecção urinária em crianças menores de 5 anos, em relação à investigação do trato urinário por imagem, deve-se solicitar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Urografia excretora."
+    },
+    {
+     "letra": "B",
+     "texto": "Cintilografia renal (DMSA)."
+    },
+    {
+     "letra": "C",
+     "texto": "Ecografia rins e vias urinárias."
+    },
+    {
+     "letra": "D",
+     "texto": "Renograma dinâmico (DTPA)."
+    },
+    {
+     "letra": "E",
+     "texto": "Ressonância Magnética."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000049464",
+   "codigo": "4000049464",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Infecção do Trato Urinário",
+   "numero": 30,
+   "temas": [
+    "Tratamento",
+    "Quadro clínico",
+    "Diagnóstico laboratorial"
+   ],
+   "enunciado": "Quanto à infecção urinária (ITU) grave em crianças, assinale a alternativa correta",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A prevalência da infecção do trato urinário é menor em meninos até o sexto mês de vida."
+    },
+    {
+     "letra": "B",
+     "texto": "Em lactente febril, sem foco aparente, com alteração do estado geral e necessidade de antibioticoterapia empírica, deve-se coletar urina tipo I e urocultura antes de se iniciar o antibiótico"
+    },
+    {
+     "letra": "C",
+     "texto": "Crianças com anormalidades obstrutivas urológicas têm o mesmo risco das demais crianças de desenvolverem ITU."
+    },
+    {
+     "letra": "D",
+     "texto": "O agente etiológico mais comumente isolado em urocultura nas infecções comunitárias graves é a Pseudomonas aeruginosa."
+    },
+    {
+     "letra": "E",
+     "texto": "Não consiste em um dos objetivos do tratamento da urosepse infantil a prevenção de recorrências e de complicações a longo prazo, como hipertensão arterial e cicatrizes renais."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046594",
+   "codigo": "4000046594",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Infecção do Trato Urinário",
+   "numero": 31,
+   "temas": [
+    "Fisiopatologia"
+   ],
+   "enunciado": "Na infecção urinaria comunitária diagnosticada durante o período neonatal, o agente microbiano mais isolado é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Staphylococcus aureus."
+    },
+    {
+     "letra": "B",
+     "texto": "Proteus mirabilis."
+    },
+    {
+     "letra": "C",
+     "texto": "Escherichia coli."
+    },
+    {
+     "letra": "D",
+     "texto": "Klebsiella sp."
+    },
+    {
+     "letra": "E",
+     "texto": "Staphylococcus saprofíticos."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000039838",
+   "codigo": "4000039838",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Infecção do Trato Urinário",
+   "numero": 32,
+   "temas": [
+    "Tratamento",
+    "Investigação por imagem"
+   ],
+   "enunciado": "Paciente de 1 ano realiza exame de urina coletado por sonda vesical e o resultado da urocultura mostra mais de 100.000 unidades formadoras de colônia de Escherichia coli. A mãe nega infecção anteriores. A alternativa que apresenta o tratamento e o exame MAIS ADEQUADOS para esse caso é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Amoxicilina e uretrocistografia miccional."
+    },
+    {
+     "letra": "B",
+     "texto": "Cefalexina e ultrassonografia de vias urinárias."
+    },
+    {
+     "letra": "C",
+     "texto": "Ceftriaxona e tomografia computadorizada de abdômen."
+    },
+    {
+     "letra": "D",
+     "texto": "Azitromicina e cintilografia renal."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000024802",
+   "codigo": "4000024802",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Infecção do Trato Urinário",
+   "numero": 33,
+   "temas": [
+    "Investigação por imagem"
+   ],
+   "enunciado": "As infecções de repetição do trato urinário em crianças devem ser sempre investigadas tanto morfologicamente quanto funcionalmente. Assinale a alternativa CORRETA sobre os exames utilizados:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A ultrassonografia de rins e vias urinárias deve ser o exame de escolha para o inicio da investigação podendo ser feito logo após o diagnóstico, mesmo que a criança ainda esteja em uso de antibiótico."
+    },
+    {
+     "letra": "B",
+     "texto": "A urografia excretora é a primeira escolha nos pacientes renais crônicos."
+    },
+    {
+     "letra": "C",
+     "texto": "A uretrocistografia miccional deve ser feita logo após o diagnóstico, antes do inicio do tratamento com antimicrobiano."
+    },
+    {
+     "letra": "D",
+     "texto": "O estudo urodinâmico é útil nas disfunções vesicais mas de pouca utilidade nas ITUs relacionadas à bexiga neurogênica."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000021214",
+   "codigo": "4000021214",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Infecção do Trato Urinário",
+   "numero": 34,
+   "temas": [
+    "Fisiopatologia"
+   ],
+   "enunciado": "Qual o agente etiológico mais comum e qual a respectiva manifestação clínica mais frequente na infecção urinária aguda de um lactente de 1 ano do sexo feminino?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Escherichia coli / disúria, polaciúria e enurese"
+    },
+    {
+     "letra": "B",
+     "texto": "Escherichia coli / febre, irritabilidade, recusa alimentar"
+    },
+    {
+     "letra": "C",
+     "texto": "Staphylococcus aureus / disúria, polaciúria e enurese"
+    },
+    {
+     "letra": "D",
+     "texto": "Staphylococcus aureus / febre, irritabilidade, recusa alimentar"
+    },
+    {
+     "letra": "E",
+     "texto": "Klebsiella /disúria, polaciúria e enurese"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000020761",
+   "codigo": "4000020761",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Infecção do Trato Urinário",
+   "numero": 35,
+   "temas": [
+    "Diagnóstico laboratorial"
+   ],
+   "enunciado": "Assinale a alternatica que apresenta critérios diagnósticos compatíveis com infecção do trato urinário (ITU) em pediatria.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Além de critérios clínicos próprios para cada faixa etária, a presença entre 500 e 50.000 UFC/mL (unidades formadoras de colônia em 1 mililitro de urina) de um patógeno único em amostra coletada após cateterismo uretral, na urocultura indica ITU."
+    },
+    {
+     "letra": "B",
+     "texto": "Além de critérios clínicos próprios para cada faixa etária, a presença de pelo menos 10⁶ UFC/mL de um patógeno único, na urocultura, em jato médio ou suco coletor, indica ITU."
+    },
+    {
+     "letra": "C",
+     "texto": "Além de critérios clínicos próprios para cada faixa etária, a presença de pelo menos10.000 piócitos/mL indica ITU, com sensibilidade superior a 90%."
+    },
+    {
+     "letra": "D",
+     "texto": "Além de critérios clínicos próprios para cada faixa etária, a presença de crescimento bacteriano na urocultura, em qualquer número, após punção suprapúbuca, indica ITU (com exceção de algumas cepas estafilocócicas)."
+    },
+    {
+     "letra": "E",
+     "texto": "Além de critérios clínicos próprios para cada faixa etária, qualquer crescimento bacteriano na urocultura, independentemente do método de coleta (desde que realizado corretamente), indica ITU."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000005857",
+   "codigo": "4000005857",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Infecção do Trato Urinário",
+   "numero": 36,
+   "temas": [
+    "Diagnóstico laboratorial"
+   ],
+   "enunciado": "Dos exames citados a seguir, qual é o padrão ouro para diagnóstico da infecção do trato urinário em pediatria?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Urocultura."
+    },
+    {
+     "letra": "B",
+     "texto": "Ultrassonografia de rins e vias urinárias."
+    },
+    {
+     "letra": "C",
+     "texto": "Hemocultura."
+    },
+    {
+     "letra": "D",
+     "texto": "Urina tipo 1 colhida por sondagem vesical."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000122183",
+   "codigo": "4000122183",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Infecção do Trato Urinário",
+   "numero": 37,
+   "temas": [
+    "Investigação por imagem"
+   ],
+   "enunciado": "Lactente de 14 meses, sexo feminino, apresentou primeiro episódio de infecção do trato urinário, comprovado por urina tipo 1 e urinocultura coletada de forma correta, sendo tratada com antibioticoterapia adequadamente. Após o tratamento, o primeiro exame por imagem que deve ser realizado, segundo a Sociedade de Brasileira de Pediatria (2016), é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Uretrocistografia miccional."
+    },
+    {
+     "letra": "B",
+     "texto": "Cintilografia renal com DMSA."
+    },
+    {
+     "letra": "C",
+     "texto": "Ultrassonografia de rins e vias urinárias."
+    },
+    {
+     "letra": "D",
+     "texto": "Urografia excretora."
+    },
+    {
+     "letra": "E",
+     "texto": "Cintilografia renal com DTPA."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000094581",
+   "codigo": "4000094581",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Infecção do Trato Urinário",
+   "numero": 38,
+   "temas": [
+    "Quadro clínico"
+   ],
+   "enunciado": "Quais são os sinais e sintomas de uma cistite?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Poliúria, febre, mal estar, hematúria, dor abdominal, vômito, diarréia e cólicas intermitentes"
+    },
+    {
+     "letra": "B",
+     "texto": "Não apresenta sintomas aparentes, a cistite só é diagnosticada num exame de rotina"
+    },
+    {
+     "letra": "C",
+     "texto": "Urina mal cheirosa, ausência de febre, disuria, urgência, polaciúria, dor suprapúbica, desconforto perianal e incontinência"
+    },
+    {
+     "letra": "D",
+     "texto": "Nenhuma das alternativas"
+    },
+    {
+     "letra": "E",
+     "texto": "Todas as alternativas"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000066484",
+   "codigo": "4000066484",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Infecção do Trato Urinário",
+   "numero": 39,
+   "temas": [
+    "Quadro clínico"
+   ],
+   "enunciado": "A frequência da infecção urinária é maior no sexo masculino",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "no primeiro ano de vida."
+    },
+    {
+     "letra": "B",
+     "texto": "na criança em idade pré-escolar."
+    },
+    {
+     "letra": "C",
+     "texto": "na criança em idade escolar."
+    },
+    {
+     "letra": "D",
+     "texto": "na adolescência."
+    },
+    {
+     "letra": "E",
+     "texto": "até a retirada da fralda."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000057032",
+   "codigo": "4000057032",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Infecção do Trato Urinário",
+   "numero": 40,
+   "temas": [
+    "Fisiopatologia"
+   ],
+   "enunciado": "Lactente de 1 ano e 10 meses, sexo feminino, iniciou quadro de febre alta há cerca de 3 dias acompanhado de hiporexia, vômitos, dor abdominal e ganho ponderoestatural insatisfatório. O Sumário de Urina evidenciou presença de 22 piócitos/campo, baixa densidade urinária, albuminúria transitória. Considerando tratar-se de Infecção do Trato Urinário em lactente, assinale a opção que indica o agente etiológico mais frequente.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Escherichia coli"
+    },
+    {
+     "letra": "B",
+     "texto": "Serratia"
+    },
+    {
+     "letra": "C",
+     "texto": "Proteus"
+    },
+    {
+     "letra": "D",
+     "texto": "Klebsiella"
+    },
+    {
+     "letra": "E",
+     "texto": "Staphylococcus aureos"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000055348",
+   "codigo": "4000055348",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Infecção do Trato Urinário",
+   "numero": 41,
+   "temas": [
+    "Inf ecção de Trato Urinário ITU"
+   ],
+   "enunciado": "A Infecção do Trato Urinário (ITU) é uma das doenças mais comuns na faixa etária pediátrica, podendo acarretar diversas complicações, desde sepsis até insuficiência renal crônica. Sobre a ITU em crianças, é correto afirmar que: Respostas: 1 12 23 34",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "é comum ocorrer disúria em lactentes, representada por choro durante a micção."
+    },
+    {
+     "letra": "B",
+     "texto": "disúria em pré-escolares e escolares é um sintoma patognomônico de ITU, autorizando tratamento empírico com antibióticos."
+    },
+    {
+     "letra": "C",
+     "texto": "crianças com bacteriúria assintomática não devem ser tratadas, pois o tratamento pode induzir a maior resistência bacteriana."
+    },
+    {
+     "letra": "D",
+     "texto": "crianças com histórico de ITU de repetição, sem anormalidades estruturais, não necessitam receber antibiótico profilático."
+    },
+    {
+     "letra": "E",
+     "texto": "a uretrocistografia miccional é o primeiro exame a ser realizado para investigação das causas de ITU na infância."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": []
+}

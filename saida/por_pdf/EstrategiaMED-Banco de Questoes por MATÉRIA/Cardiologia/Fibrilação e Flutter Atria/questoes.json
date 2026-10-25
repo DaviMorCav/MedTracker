@@ -1,0 +1,2668 @@
+{
+ "questoes": [
+  {
+   "id": "4000127330",
+   "codigo": "4000127330",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 1,
+   "temas": [
+    "Estenose mitral",
+    "Anticoagulação oral"
+   ],
+   "enunciado": "Paciente, 52 anos, sexo masculino, previamente hígido, assintomático, comparece à consulta de rotina no ambulatório. Ao exame físico, chamam atenção sopro em ru ar diastólico 3+/6+ no foco mitral e ritmo cardíaco irregular com frequência cardíaca em torno de 84 batimentos por minuto. Realizado eletrocardiograma ( figura abaixo) e ecocardiograma transtorácico que evidenciou estenose mitral moderada. Qual conduta deve ser tomada nesse momento?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Iniciar uso de rivaroxaban sem necessidade de monitoração do INR."
+    },
+    {
+     "letra": "B",
+     "texto": "Iniciar varfarina e realizar a monitorização do INR ambulatorialmente."
+    },
+    {
+     "letra": "C",
+     "texto": "Internar o paciente para administrar enoxaparina e iniciar uso de varfarina."
+    },
+    {
+     "letra": "D",
+     "texto": "Manter conduta expectante, pois o paciente apresenta baixo risco de complicações"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q001-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000124266",
+   "codigo": "4000124266",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 2,
+   "temas": [
+    "Escores de avaliação de risco tromboembólico e hemorrágico"
+   ],
+   "enunciado": "Na avaliação de paciente de 78 anos, do sexo feminino com diagnóstico prévio de acidente vascular cerebral isquêmico, diabética e hipertensa com brilação atrial não valvar e insu ciência cardíaca (fração de ejeção do ventrículo esquerdo de 32%), qual o valor do escore CHA2DS2-VASC e qual o significado da pontuação encontrada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Escore de 07; elevado risco de sangramento."
+    },
+    {
+     "letra": "B",
+     "texto": "Escore de 05; elevado risco tromboembólico."
+    },
+    {
+     "letra": "C",
+     "texto": "Escore de 08; elevado risco tromboembólico."
+    },
+    {
+     "letra": "D",
+     "texto": "Escore de 08; elevado risco de sangramento."
+    },
+    {
+     "letra": "E",
+     "texto": "Escore de 07; elevado risco tromboembólico."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000112543",
+   "codigo": "4000112543",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 3,
+   "temas": [
+    "Dabigatrana",
+    "Critérios para escolha da estratégia terapêutica"
+   ],
+   "enunciado": "Homem de 66 anos de idade, antecedentes de hipertensão arterial, diabete melito e dislipidemia, refere início de palpitações há 2 meses. Não há insu ciência cardíaca, valvopatia ou doença coronariana. Pressão arterial: 130 x 80 mmHg. Hemograma, coagulograma, função renal, eletrólitos, glicemia, enzimas hepáticas e hormônios tireoidianos: normais. Fração de ejeção ventricular esquerda: normal. O eletrocardiograma realizado no momento da consulta é mostrado a seguir. Admitindo-se que não há contraindicações, nesse momento, a conduta correta é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "encaminhar o paciente ao pronto-socorro para cardioversão elétrica."
+    },
+    {
+     "letra": "B",
+     "texto": "prescrever ácido acetilsalicílico."
+    },
+    {
+     "letra": "C",
+     "texto": "prescrever clopidogrel."
+    },
+    {
+     "letra": "D",
+     "texto": "prescrever dabigatrana ou rivaroxabana."
+    },
+    {
+     "letra": "E",
+     "texto": "prescrever warfarina sódica e amiodarona."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q003-1.jpg",
+     "antes_das_alternativas": true
+    },
+    {
+     "arquivo": "imagens/q003-2.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000081795",
+   "codigo": "4000081795",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 4,
+   "temas": [
+    "Antagonistas da vitamina K",
+    "Escores de avaliação de risco tromboembólico e hemorrágico"
+   ],
+   "enunciado": "Manejo do sangramento associado aos anticoagulantes orais Mulher de 54 anos de idade, com brilação atrial, está anticoagulada com 5 mg/dia de varfarina. Ela desenvolveu uma infecção de trato urinário que foi tratada com cipro axocina 250 mg via oral, de 12 em 12 horas, por 7 dias. Ela chega ao serviço de emergência queixando-se de sangue na urina e ocorrência fácil de hematomas. O exame físico mostra equimoses nos braços. A urina está avermelhada, mas não há coágulos. Após infundir 100 ml de solução salina estéril em sua bexiga, a urina retorna com apenas uma tonalidade rósea. O exame de urina de rotina mostra de 3 a 5 leucócitos por campo e várias hemácias por campo. Não há bactérias presentes. O INR é de 7.0. Qual é a melhor abordagem da coagulopatia desta paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Administrar 10 mg EV de vitamina K;"
+    },
+    {
+     "letra": "B",
+     "texto": "Administrar 2 mg SC de vitamina K;"
+    },
+    {
+     "letra": "C",
+     "texto": "Administrar 1 mg de vitamina K sublingual;"
+    },
+    {
+     "letra": "D",
+     "texto": "Retardar a próxima dose de varfarina até que o INR caia para 2.0;"
+    },
+    {
+     "letra": "E",
+     "texto": "Transfundir 4 unidades de plasma fresco congelado;"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000075274",
+   "codigo": "4000075274",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 5,
+   "temas": [
+    "Anticoagulação oral",
+    "Tratamento"
+   ],
+   "enunciado": "Mulher, 58 anos, em brilação atrial com 72 horas de evolução e CHA₂DS₂-VASc de 4 pontos. Possui clearance de creatinina estimado em 12mL/min. A conduta mais adequada nesta paciente, neste momento, é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "ecocardiograma transesofágico e na ausência de trombo, cardioversão elétrica e anticoagulação com varfarina por 4 semanas"
+    },
+    {
+     "letra": "B",
+     "texto": "anticoagulação prévia por 3 semanas na impossibilidade de eco transesofágico, cardioversão elétrica e anticoagulação com varfarina por toda a vida"
+    },
+    {
+     "letra": "C",
+     "texto": "anticoagulação prévia por 3 semanas na impossibilidade de eco transesofágico, cardioversão elétrica e anticoagulação com varfarina por 4 semanas"
+    },
+    {
+     "letra": "D",
+     "texto": "eco transesofágico e na ausência de trombo, cardioversão elétrica e anticoagulação com DOAC por toda a vida"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000050042",
+   "codigo": "4000050042",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 6,
+   "temas": [
+    "Anticoagulantes antagonistas da vitamina K",
+    "Antagonistas da vitamina K"
+   ],
+   "enunciado": "Paciente masculino de 76 anos procura a emergência devido à preocupação com resultado de exame laboratorial alterado. Nega sintomas. Apresenta história de brilação atrial, dislipidemia, diabetes e hipertensão arterial. Faz uso de rosuvastatina 20 mg ao dia, metformina 850 mg duas vezes ao dia e enalapril 20 mg ao dia. Apresenta FC 68/min, PA 134/80 mmHg, FR 12/min, temperatura 36,7 °C, e SpO₂ 99% em ar ambiente. Ao exame físico, não se constata equimose, hematoma ou sangramentos. Revisão de sistemas é negativa. Exame laboratorial trazido demonstra tempo de protrombina/INR = 8,5. Qual é a conduta correta para esse caso, segundo guidelines recentes?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Omitir varfarina até nível terapêutico e, então, reiniciar varfarina com redução de 10- 15% na dose semanal."
+    },
+    {
+     "letra": "B",
+     "texto": "Administrar vitamina K oral e omitir varfarina até nível terapêutico e, então, reiniciar varfarina com redução de 10- 15% na dose semanal."
+    },
+    {
+     "letra": "C",
+     "texto": "Administrar vitamina K parenteral e omitir varfarina até nível terapêutico e, então, reiniciar varfarina com redução de 10-15% na dose semanal."
+    },
+    {
+     "letra": "D",
+     "texto": "Administrar plasma fresco congelado e omitir varfarina até nível terapêutico e, então, reiniciar varfarina com redução de 10-15% na dose semanal."
+    },
+    {
+     "letra": "E",
+     "texto": "Administrar concentrado de complexo protrombínico e omitir varfarina até nível terapêutico e, então, reiniciar varfarina com redução de 10-15% na dose semanal."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000036378",
+   "codigo": "4000036378",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 7,
+   "temas": [
+    "Medicações usadas para controle da f requência cardíaca"
+   ],
+   "enunciado": "São drogas que podem ser usadas para controle de frequência cardíaca em pacientes hemodinamicamente estáveis com fibrilação atrial de alta resposta ventricular, exceto:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Verapamil."
+    },
+    {
+     "letra": "B",
+     "texto": "Metoprolol."
+    },
+    {
+     "letra": "C",
+     "texto": "Atropina."
+    },
+    {
+     "letra": "D",
+     "texto": "Diltiazem."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000013581",
+   "codigo": "4000013581",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 8,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Homem de 77 anos se queixa de palpitação em repouso. Sem outras queixas. Nega doenças conhecidas ou uso de medicamentos. Ao exame físico, PA: 140 X 90mmHg, FC 116bpm, FR 15ipm, SpO₂ 98%. O ritmo cardíaco é irregular, a primeira bulha é hiperfonética e há sopro mesodiastólico em ru ar no apex do coração. Sem outras alterações ao exame físico. Ecocardiograma: ventrículo esquerdo d e dimensões levemente aumentadas, sem dé cits segmentares da contratilidade e fração de ejeção de 40%. Átrio esquerdo de volume muito aumentado. Estenose mitral moderada e insuficiência mitral moderada de morfologia reumática. Não se visualizam trombos. Eletrocardiograma; Considerando o caso descrito, assinale a alternativa que apresenta a prescrição CORRETA para esse paciente.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Bisoprolol e varfarina."
+    },
+    {
+     "letra": "B",
+     "texto": "Digoxina e enoxaparina."
+    },
+    {
+     "letra": "C",
+     "texto": "Diltiazem e rivaroxabana."
+    },
+    {
+     "letra": "D",
+     "texto": "Metoprolol e apixabana."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q008-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000124569",
+   "codigo": "4000124569",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 9,
+   "temas": [
+    "Anticoagulantes antagonistas da vitamina K",
+    "Antagonistas da vitamina K"
+   ],
+   "enunciado": "Paciente chegou ao OS, com INR de 6, sem sangramentos com exame físico normal. De qual droga abaixo ele mais se beneficiará?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Vitamina K1 2,5 mg via oral"
+    },
+    {
+     "letra": "B",
+     "texto": "Plasma fresco"
+    },
+    {
+     "letra": "C",
+     "texto": "Complexo protrombínico"
+    },
+    {
+     "letra": "D",
+     "texto": "Vitamina K 10 mg IV"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000113210",
+   "codigo": "4000113210",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 10,
+   "temas": [
+    "Conduta na taquiarritmia instável"
+   ],
+   "enunciado": "Homem, 60 anos, tabagista, hipertenso crônico, em tratamento irregular, apresentou há 12h palpitação de início súbito seguida de síncope. Nega episódios de arritmias. Exame físico: PA= 120 X 60 mmHg, FC= 140 bpm, FR= 32 irpm, agitado, confuso, estase jugular bilateral, estertores crepitantes em bases pulmonares, arritmia cardíaca, pulso liforme e edema 2+/4+ em MMII. ECG: fibrilação atrial com resposta ventricular de alta frequência. A conduta imediata é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Anticoagulação"
+    },
+    {
+     "letra": "B",
+     "texto": "Cardioversão elétrica sincronizada"
+    },
+    {
+     "letra": "C",
+     "texto": "Desfibrilação"
+    },
+    {
+     "letra": "D",
+     "texto": "Lanatosídeo IV"
+    },
+    {
+     "letra": "E",
+     "texto": "Metoprolol IV."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000100354",
+   "codigo": "4000100354",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 11,
+   "temas": [
+    "Dabigatrana"
+   ],
+   "enunciado": "Qual dos anticoagulantes abaixo é inibidor direto da trombina?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Rivaroxabana"
+    },
+    {
+     "letra": "B",
+     "texto": "Apixabana"
+    },
+    {
+     "letra": "C",
+     "texto": "Edoxabana"
+    },
+    {
+     "letra": "D",
+     "texto": "Dabigatrana"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000100343",
+   "codigo": "4000100343",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 12,
+   "temas": [
+    "Escores de avaliação de risco tromboembólico e hemorrágico"
+   ],
+   "enunciado": "Os escores de CHA2DS2-VASc e HAS-BLED são utilizados na prática clínica de qual situação?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Fibrilação atrial"
+    },
+    {
+     "letra": "B",
+     "texto": "Insuficiência cardíaca"
+    },
+    {
+     "letra": "C",
+     "texto": "IAM"
+    },
+    {
+     "letra": "D",
+     "texto": "Válvulas cardíacas metálicas"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000097383",
+   "codigo": "4000097383",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 13,
+   "temas": [
+    "Critérios para escolha da estratégia terapêutica",
+    "Medicações usadas para controle do ritmo cardíaco"
+   ],
+   "enunciado": "Homem, 72a, é admitido no pronto-socorro com história de palpitações de início súbito há 1 hora. Nega dispneia, síncope ou queixas prévias de palpitações. Antecedentes pessoais: hipertensão arterial sistêmica em uso de hidroclorotiazida e amlodipina. Exame físico: bom estado geral; FR = 24 irpm; PA = 112 x 68 mmHg, consiente, orientado; pulmões: ausculta: sem alterações; Coração: bulhas rítmicas sem sopros, eletrocardiograma: A CONDUTA É:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cardioversão elétrica."
+    },
+    {
+     "letra": "B",
+     "texto": "Adenosina intravenosa."
+    },
+    {
+     "letra": "C",
+     "texto": "Amiodarona intravenosa."
+    },
+    {
+     "letra": "D",
+     "texto": "Heparina subcutânea"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q013-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000085702",
+   "codigo": "4000085702",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 14,
+   "temas": [
+    "Anticoagulação oral"
+   ],
+   "enunciado": "Paciente de 76 anos, com diabetes melito (com função renal normal), insu ciência cardíaca e brilação atrial, vem fazendo uso de dabigatrana, porém informa ao médico não ter mais condições de continuar comprando o medicamento. Nesse caso, está indicada a substituição de dabigatrana por:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "aspirina (100 mg/dia), devendo seu uso ser iniciado no dia seguinte à suspensão."
+    },
+    {
+     "letra": "B",
+     "texto": "clopidogrel, devendo seu uso ser iniciado no mesmo dia da suspensão."
+    },
+    {
+     "letra": "C",
+     "texto": "heparina (5.000 UI, por via subcutânea, a cada 12 horas) devendo seu uso ser iniciado 3 dias antes da suspensão."
+    },
+    {
+     "letra": "D",
+     "texto": "varfarina, devendo seus uso ser iniciado no dia seguinte à suspensão."
+    },
+    {
+     "letra": "E",
+     "texto": "varfarina, devendo seu uso ser iniciado 3 dias antes da suspensão."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000078307",
+   "codigo": "4000078307",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 15,
+   "temas": [
+    "Fatores clínicos predisponentes",
+    "Tratamento",
+    "Medicações usadas para controle do ritmo cardíaco"
+   ],
+   "enunciado": "Mulher, 78 anos, com diabetes mellitus e insu ciência cardíaca. Fração de ejeção preservada, adequadamente tratada em classe funcional II. É admitida na emergência com história de dispneia súbita e dor torácica em repouso, iniciadas há 6 horas. Considerando o seu eletrocardiograma (ECG) pode-se afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Deve ser realizada manobra vagal para avaliar mais adequadamente a atividade elétrica atrial antes de qualquer intervenção."
+    },
+    {
+     "letra": "B",
+     "texto": "A paciente deve ser internada em unidade fechada para administração de amiodarona venosa, com dose de ataque e manutenção."
+    },
+    {
+     "letra": "C",
+     "texto": "A paciente tem instabilidade clínica e portanto tem indicação de cardioversão elétrica sincronizada, imediata, como o tratamento."
+    },
+    {
+     "letra": "D",
+     "texto": "Deve ser realizado ecocardiograma transesofágico de urgência antes de qualquer tentativa de reversão elétrica ou química para excluir a presença de trombos no átrio esquerdo."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q015-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000068870",
+   "codigo": "4000068870",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 16,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Uma mulher de 50 anos, portadora de hipertensão arterial, hipotireoidismo e dislipidemia procurou o ambulatório com quadro de palpitações. Realizado eletrocardiograma, mostrou brilação atrial com alta resposta ventricular. Optou-se por internação hospitalar e realização de ecocardiograma transesofágico, que não demonstrou trombos intracavitários e apresentou função sistólica do ventrículo esquerdo preservada. Após cardioversão da arritmia, o fármaco recomendado para manutenção do ritmo sinusal é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "atenolol"
+    },
+    {
+     "letra": "B",
+     "texto": "propafenona"
+    },
+    {
+     "letra": "C",
+     "texto": "amiodarona"
+    },
+    {
+     "letra": "D",
+     "texto": "digoxina"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000052062",
+   "codigo": "4000052062",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 17,
+   "temas": [
+    "Escores de avaliação de risco tromboembólico e hemorrágico",
+    "Tratamento"
+   ],
+   "enunciado": "Em relação à fibrilação atrial, marque a INCORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Propafenona, sotalol e amiodarona são drogas que podem ser utilizadas para evitar a recorrência da FA."
+    },
+    {
+     "letra": "B",
+     "texto": "O escore de CHA2 DS2 - VASc é utilizado para avaliação de risco para fenômenos tromboembólicos em pacientes portadores de fibrilação atrial."
+    },
+    {
+     "letra": "C",
+     "texto": "O escore HAS- BLED utiliza variáveis clínicas para identificação de pacientes com risco de hemorragia pelos anticoagulantes orais."
+    },
+    {
+     "letra": "D",
+     "texto": "A cardioversão elétrica pode ser realizada após anticoagulação, por um período mínimo de 2 semanas com varfarina ou rivaroxabana e mantida por pelo menos 3 semanas."
+    },
+    {
+     "letra": "E",
+     "texto": "Betabloqueadores e bloqueadores de canais de cálcio (diltiazem e verapamil) são utilizados para o controle da resposta ventricular."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000049908",
+   "codigo": "4000049908",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 18,
+   "temas": [
+    "Classif icação clínica"
+   ],
+   "enunciado": "Fibrilação Atrial (FA) paroxística é definida pela",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "duração menor do que 7 dias."
+    },
+    {
+     "letra": "B",
+     "texto": "ausência de sintomas."
+    },
+    {
+     "letra": "C",
+     "texto": "ausência de trombos intra-atriais."
+    },
+    {
+     "letra": "D",
+     "texto": "baixa resposta ventricular."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000025621",
+   "codigo": "4000025621",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 19,
+   "temas": [
+    "Anticoagulação oral"
+   ],
+   "enunciado": "Em pacientes idosos com fibrilação atrial paroxística, a melhor e mais segura maneira de reduzir a recorrência de AVC é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Aspirina, 325 mg ao dia."
+    },
+    {
+     "letra": "B",
+     "texto": "Aspirina, 325 mg ao dia, e clopidogrel, 75 mg ao dia."
+    },
+    {
+     "letra": "C",
+     "texto": "Apixabana."
+    },
+    {
+     "letra": "D",
+     "texto": "Warfarin."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000020783",
+   "codigo": "4000020783",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 20,
+   "temas": [
+    "Escores de avaliação de risco tromboembólico e hemorrágico"
+   ],
+   "enunciado": "Um dos muitos acrósticos usados em medicina é o CHADS 2, (evoluiu para CHA2 DS2-VASC), usado para avaliar risco de acidente vascular cerebral em pessoas com brilação atrial, medida importante para médicos que atuam em Atenção Primária à Saúde (APS). Entre as opções abaixo qual a condição clínica é pontuada nesta avaliação de risco? Marque a CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Crise Hipertensiva"
+    },
+    {
+     "letra": "B",
+     "texto": "Hipertensão intracraniana"
+    },
+    {
+     "letra": "C",
+     "texto": "Alteração de ritmo cardíaco"
+    },
+    {
+     "letra": "D",
+     "texto": "Diabetes Mellitus"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000017805",
+   "codigo": "4000017805",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 21,
+   "temas": [
+    "Fibrilação Atrial",
+    "Distúrbios de ritmo cardíaco"
+   ],
+   "enunciado": "Caso clínico- paciente sem doenças prévias; Idade: 19 anos: sexo: feminino; Sinais e sintomas: tremores nas extremidades, nervosismo e palpitações tarquicárdicas (FC = 150 bpm, PA 135 mmHg x 65 mmHg, pulsos radiais palpáveis e arrítimicos); Avaliação cardiovascular evidenciou ictus cordis in situ, ritmo cardíaco irregular em 2 tempos, taquicárdico, bulhas normofonéticas, sem sopros ou ruídos adventícios. Na palpação, percebeu-se glândula tireoide indolor, levemente aumentada e não nodular. Resultado de dosagem séricas: TSH (tirotro na) = 0,05 mU/L (valores de referência = 0,4 - 4,2 mU/L); T4 livre ( tiroxina livre) = 4,0 nanogramas/dL (valores de referência = 0,8 - 2,7 nanograma/dL); anticorpos antirreceptor de TSH (ou Trab) = 2 U/L (valor de referência < 10 U/L); anticorpos antitireoglobulinas = positivo 1/6.400 ( valores de referência não reagente < 1/100); determinação de anticorpos antiperoxidase tireoidiana (anti-TPO) = 70 U/mL ( valores de referência < 35 U/mL). Ecodopplercardiograma = normal. Tira de ritmo eletrocardiográfico (ECG) mostrada na figura a seguir (derivação D2, velocidade do papel: 25 mm/s, calibração: 1 cm= 1 mV). A respeito das informações do caso clínico descrito anteriomente, julgue o item subsequente. A arritimia cardíaca mostrada na tira de ECG é a fibrilação atrial.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q021-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000010578",
+   "codigo": "4000010578",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 22,
+   "temas": [
+    "Síndrome de Wolf f ParkinsonWhite",
+    "Fibrilação Atrial"
+   ],
+   "enunciado": "Uma paciente de 45 anos de idade sente tontura, pressão no peito e fadiga há três horas. Durante o exame, verifica-se que ela apresenta níveis pressóricos de 80 mmHg x 50 mmHg e FC = 140 bpm, associada a má perfusão periférica. Ao ECG, nota-se que ela tem brilação atrial, sendo que um ECG basal prévio mostrou ondas delta. A respeito desse caso clínico, assinale alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Essa paciente não possui risco de taquicardia ventricular, pois a respectiva fibrilação atrial possui complexo QRS estreito, assim o risco maior seria evolução para taquicardia supraventricular."
+    },
+    {
+     "letra": "B",
+     "texto": "A onda delta indica a presença de extrassístoles ventriculares (provável disfunção do nó sinusal); assim, o diagnóstico para esse caso é fibrilação atrial com complexo de QRS alargado."
+    },
+    {
+     "letra": "C",
+     "texto": "A terapia de escolha para essa paciente seria administração de betabloqueadores, com objetivo de redução da frequência cardíaca."
+    },
+    {
+     "letra": "D",
+     "texto": "A terapia com verapamil é uma opção aceitável para ser realizada nessa paciente em caráter de emergência, em razão da rápida absorção e objetivando a redução da frequência cardíaca e do inotropismo cardíaco."
+    },
+    {
+     "letra": "E",
+     "texto": "O diagnóstico clínico dessa paciente é fibrilação atrial em uma paciente portadora de síndrome de Wolff- Parkinson-White, indicado pelas ondas delta no ECG anterior, que mostram uma via acessória ao nó atrioventricular para a comunicação elétrica."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000000735",
+   "codigo": "4000000735",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 23,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Homem de 54 anos queixando-se de palpitações há 72 horas, após ingestão de bebida alcoólica, procura atendimento de urgência. Sem antecedentes de doença cardíaca. PA = 140 x 80 mmHg; FC = 168 bpm, e SatO2 = 98%. Orientado, sem outras queixas. ECG mostra fibrilação atrial. Qual a melhor conduta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Amiodarona + enoxaparina + ecocardiograma transtorácico."
+    },
+    {
+     "letra": "B",
+     "texto": "Metoprolol + enoxaparina + ecocardiograma transesofágico."
+    },
+    {
+     "letra": "C",
+     "texto": "Propafenona + enoxaparina + ecocardiograma transesofágico."
+    },
+    {
+     "letra": "D",
+     "texto": "Cardioversão elétrica + alta na reversão."
+    },
+    {
+     "letra": "E",
+     "texto": "Cardioversão elétrica + enoxaparina + alta na reversão."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000125363",
+   "codigo": "4000125363",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 24,
+   "temas": [
+    "Anticoagulação oral",
+    "Medicações usadas para controle da f requência cardíaca"
+   ],
+   "enunciado": "Medicações usadas para controle do ritmo cardíaco Homem, 64 anos, há 15 dias com dispneia progressiva, no momento, aos pequenos esforços. Apresenta antecedentes de hipertensão arterial, diabetes mellitus tipo 2 e episódio de isquemia cerebral transitória há 4 anos. Apresenta-se na unidade de emergência com FC= 156 bpm, PA= 134/86 mmHg, FR= 20 irpm e SatO2= 95% em ar ambiente. O ritmo cardíaco é irregular e a ausculta não evidencia outras alterações. Na ausculta pulmonar, apresenta estertores nos bilaterais nos terços inferiores. Eletrocardiograma evidencia fibrilação atrial de alta resposta. A conduta inicial para esse paciente é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "controle da frequência cardíaca, anticoagulação e cardioversão elétrica imediata."
+    },
+    {
+     "letra": "B",
+     "texto": "controle da frequência cardíaca, anticoagulação e cardioversão química imediata."
+    },
+    {
+     "letra": "C",
+     "texto": "por se tratar de uma fibrilação atrial aguda, não há indicação de anticoagulação."
+    },
+    {
+     "letra": "D",
+     "texto": "que a decisão quanto a controlar o ritmo ou controlar a frequência cardíaca não pode ser tomada antes de o paciente realizar um ecocardiograma transesofágico."
+    },
+    {
+     "letra": "E",
+     "texto": "controle da frequência cardíaca, anticoagulação e diurético de alça."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000121712",
+   "codigo": "4000121712",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 25,
+   "temas": [
+    "Anticoagulantes antagonistas da vitamina K",
+    "Anticoagulação oral",
+    "Anticoagulantes orais diretos"
+   ],
+   "enunciado": "Assinale a alternativa que correlaciona corretamente o anticoagulante com seu principal mecanismo de ação.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Warfarin - agonista da vitamina K."
+    },
+    {
+     "letra": "B",
+     "texto": "Heparina - agonista da antitrombina III."
+    },
+    {
+     "letra": "C",
+     "texto": "Dabigratana - agonista da trombina."
+    },
+    {
+     "letra": "D",
+     "texto": "Rivaroxabana - inibidor indireto do fator Vila."
+    },
+    {
+     "letra": "E",
+     "texto": "Fondaparinux - inibidor direto do fator de Vila."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120818",
+   "codigo": "4000120818",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 26,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Mulher, 67 anos, com hipertensão arterial controlada, sem alterações de exames laboratoriais. Ecocardiograma (há um ano): aumento do átrio esquerdo. Vem à consulta de rotina assintomática, apresentando o seguinte eletrocardiograma: A conduta mais adequada é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Adenosina e warfarin."
+    },
+    {
+     "letra": "B",
+     "texto": "Amiodarona e AAS."
+    },
+    {
+     "letra": "C",
+     "texto": "Metoprolol e warfarin."
+    },
+    {
+     "letra": "D",
+     "texto": "Digoxina e AAS."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q026-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000113784",
+   "codigo": "4000113784",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 27,
+   "temas": [
+    "Antagonistas da vitamina K"
+   ],
+   "enunciado": "Num paciente em uso de warfarin para anticoagular, qual deve ser o exame de escolha para acompanhar a anticoagulação?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "T TPA."
+    },
+    {
+     "letra": "B",
+     "texto": "Tempo de coagulação."
+    },
+    {
+     "letra": "C",
+     "texto": "Não é necessário exame de acompanhamento"
+    },
+    {
+     "letra": "D",
+     "texto": "INR."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000110630",
+   "codigo": "4000110630",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 28,
+   "temas": [
+    "Anticoagulação oral",
+    "Medicações usadas para controle da f requência cardíaca"
+   ],
+   "enunciado": "Critérios para escolha da estratégia terapêutica Em um paciente com fibrilação atrial de alta resposta ventricular e de tempo indeterminada, a conduta ideal a ser tomada é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Controle de frequência e anticoagulação plena por tempo indeterminado."
+    },
+    {
+     "letra": "B",
+     "texto": "Cardioversão elétrica imediata."
+    },
+    {
+     "letra": "C",
+     "texto": "Cardioversão química imediata."
+    },
+    {
+     "letra": "D",
+     "texto": "Estudo eletrofisiológico e ablação por radiofrequência."
+    },
+    {
+     "letra": "E",
+     "texto": "Controle da frequência e anticoagulação plena por 3 semanas, seguida de cardioversão"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000108725",
+   "codigo": "4000108725",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 29,
+   "temas": [
+    "Estenose mitral",
+    "Fatores clínicos predisponentes"
+   ],
+   "enunciado": "Qual arritmia é mais frequente em pacientes cirúrgicos portadores de Doença Valvar Mitral?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Fibrilação Ventricular."
+    },
+    {
+     "letra": "B",
+     "texto": "Taquicardia Ventricular."
+    },
+    {
+     "letra": "C",
+     "texto": "Extra-sístole atrial."
+    },
+    {
+     "letra": "D",
+     "texto": "Fibrilação Atrial."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000103117",
+   "codigo": "4000103117",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 30,
+   "temas": [
+    "Medicações usadas para controle do ritmo cardíaco",
+    "Cardioversão elétrica"
+   ],
+   "enunciado": "Homem de 73 anos de idade procura a unidade básica de saúde por palpitação de início súbito na noite anterior. Nega dor torácica ou dispneia. É hipertenso bem controlado há 22 anos, em uso de hidroclorotiazida 25 mg/d e captopril 150 mg/d (dose máxima). Nega outros antecedentes mórbidos relevantes e não faz uso de outros medicamentos. No exame clínico, pulso = 102 bpm; pressão arterial = 126 x 80 mmHg; frequência cardíaca = 124 bpm; saturação de oxigênio em ar ambiente = 99%. A ausculta cardíaca revela um ritmo irregularmente irregular, com bulhas taquicárdicas, normofonéticas e sem sopros. Foi realizado um eletrocardiograma na UBS e a principal hipótese diagnóstica foi confirmada. Qual é a conduta para o caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Suspender captopril."
+    },
+    {
+     "letra": "B",
+     "texto": "Realizar cardioversão."
+    },
+    {
+     "letra": "C",
+     "texto": "Introduzir digoxina."
+    },
+    {
+     "letra": "D",
+     "texto": "Massagem carotídea."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000100768",
+   "codigo": "4000100768",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 31,
+   "temas": [
+    "Anticoagulação oral",
+    "Medicações usadas para controle da f requência cardíaca"
+   ],
+   "enunciado": "Tratamento das taquicardias de QRS estreito Roberto, 63 anos, veio ao PS por queixa de palpitações. Estas são desconfortáveis, rápidas e começaram há 2 horas. Nega dor torácica ou dispneia. Tem antecedente de uso de álcool e faz uso regular de 12 unidades de cerveja por dia. Possui DM tipo 2, HAS e asma. Não é sempre aderente com as medicações que incluem metformina, gliclazida, ramipril, salbutamol de demanda e salmeterol+ uticasona. EF: Consciente, odor alcoólico. FC 185bpm, irregular. PA 126x73 e FR 18 ipm. Estase jugular ausente. Ausculta cardíaca normal. Pulmões livres. Qual a interpretação do ECG e a melhor conduta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Flutter atrial, anticoagulação e digitálico."
+    },
+    {
+     "letra": "B",
+     "texto": "Flutter atrial, cardioversão elétrica."
+    },
+    {
+     "letra": "C",
+     "texto": "Fibrilação atrial, cardioversão elétrica."
+    },
+    {
+     "letra": "D",
+     "texto": "Fibrilação atrial, anticoagulação, betabloqueador."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q031-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000098849",
+   "codigo": "4000098849",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 32,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Mulher, 75a, procura atendimento médico por palpitações há um ano. Antecedentes pessoais: hipertensa, diabética de longa data e um acidente vascular cerebral há três meses. Em uso de atenolol 25 mg/dia, anlodipina 10 mg/dia, metformina 2.550 mg/dia e glimepirida 4 mg/dia. Exame físico: PA = 144 x 82 mmHg, neurológico: força grau III e paresia em perna direita. Eletrocardiograma: A conduta é iniciar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Aspirina e warfarin."
+    },
+    {
+     "letra": "B",
+     "texto": "Warfarin."
+    },
+    {
+     "letra": "C",
+     "texto": "Ômega 3."
+    },
+    {
+     "letra": "D",
+     "texto": "Aspirina e clopidogrel."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q032-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000088693",
+   "codigo": "4000088693",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 33,
+   "temas": [
+    "Anticoagulação oral",
+    "Critérios para escolha da estratégia terapêutica"
+   ],
+   "enunciado": "Homem de 68 anos, portador de diabetes mellitus tipo 2 e hipertensão arterial sistêmica, relata que não faz acompanhamento médico regular e, depois da insistência da família, resolveu procurar o cardiologista para uma consulta médica de rotina. O paciente nega sintomas ou outras comorbidades. Encontra-se em uso de Enalapril de 10 mg, de 12/12h, e Metformina de 500 mg, 3x ao dia. Ao exame físico, apresenta-se em bom estado geral, corado, pressão arterial = 136 x 84 mmHg; frequência cardíaca = 114 bpm; ritmo cardíaco irregular, sem sopro, sem outras alterações. Realizou exames cujos resultados estão descritos a seguir: Hb = 13 g/dl; leucócitos = 5.300; plaquetas = 250 mil; Cr = 0,8 mg/dl; Na = 135 mEq/L; K = 4,2 mEq/L; glicemia de jejum = 151 mg/dl; Hb gli = 7,5%; colesterol total = 201; HDL = 43; LDL = 102; triglicerideos = 299 mg/dl, coagulograma normal e o eletrocardiograma reproduzido a seguir: Considerando a história clínica do paciente descrita acima e os resultados dos exames realizados, a conduta adequada para o caso é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Aumentar a dose de Enalapril para 20 mg, de 12/12h, e introduzir o Metoprolol de 25 mg, de 12/12h, pois a meta pressórica deve ser abaixo de 120 x 80 mmHg."
+    },
+    {
+     "letra": "B",
+     "texto": "A introdução de um fibrato para redução do risco cardiovascular."
+    },
+    {
+     "letra": "C",
+     "texto": "Iniciar amiodarona associada à anticoagulação oral que deverá ser mantida por 4 semanas, após a reversão da arritmia."
+    },
+    {
+     "letra": "D",
+     "texto": "A introdução de um novo anticoagulante oral, associado ao controle da frequência cardíaca sem reversão da arritmia."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q033-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000076910",
+   "codigo": "4000076910",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 34,
+   "temas": [
+    "Estenose mitral",
+    "Fibrilação Atrial"
+   ],
+   "enunciado": "Uma paciente de 30 anos procura atendimento na emergência devido à dispneia, palpitações e hemoptise. Ela relatou história de febre reumática diagnosticada aos 7 anos de idade. Exame físico: Paciente lúcida, hipocorada 2+/4+, taquipnéica, acianótica e anictérica. PA: 100 x 78 mmHg, FR: 26 IRPM, Pulso Radial: 98 BPM, Tax: 36,7 graus celsius. Jugulares túrgidas a 45 graus. AR: Estertores nos nos 1/3 inferiores de ambos os pulmões. ACV: Ritmo irregular. B1 hiperfonética no foco mitral. P2>A2. Sopro diastólico 3+/6+ no foco mitral. Sopro diastólico de 2+/6+ no foco pulmonar. Sopro sistólico de 2+/6+ no foco tricúspide. B3 no foco tricúspide. Frequência cardíaca: 130 BPM. Abdômen em ventre de batráquio. Fígado a 6 cm do RCD, doloroso ao toque e pulsátil. Sinal do piparote ausente. Traube com percussão maciça. MMII: edema de 3+/4+, frio, mole e indolor. Assinale a alternativa que contém a lesão cardíaca valvar principal e o fator desencadeante da piora sintomática apresentada pela paciente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Insuficiência mitral e fibrilação atrial."
+    },
+    {
+     "letra": "B",
+     "texto": "Insuficiência mitral e taquicardia paroxística supraventricular."
+    },
+    {
+     "letra": "C",
+     "texto": "Estenose Mitral e fibrilação atrial."
+    },
+    {
+     "letra": "D",
+     "texto": "Estenose Mitral e taquicardia paroxística supraventricular."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000067777",
+   "codigo": "4000067777",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 35,
+   "temas": [
+    "Flutter atrial"
+   ],
+   "enunciado": "Você é chamado pela enfermagem para avaliar um paciente de 33 anos na clínica cirúrgica do Hospital Alcides Carneiro, internado para investigação de nódulo tireoidiano e que iniciou subitamente palpitações. PA: 110 x 60 mmHg, FC: 151 bpm. É realizado um eletrocardiograma de 12 derivações (ECG 1), repetido após manobra vagal e administração de adenosina 6mg IV em bolus (ECG 2). Qual o diagnóstico eletrocardiográfico?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Flutter atrial."
+    },
+    {
+     "letra": "B",
+     "texto": "Fibrilação atrial."
+    },
+    {
+     "letra": "C",
+     "texto": "Taquicardia supraventricular por reentrada nodal."
+    },
+    {
+     "letra": "D",
+     "texto": "Taquicardia atrial multifocal."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q035-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000051883",
+   "codigo": "4000051883",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 36,
+   "temas": [
+    "Antagonistas da vitamina K"
+   ],
+   "enunciado": "No paciente com insu ciência renal em tratamento hemodialítico, com brilação atrial permanente e indicação de anticoagulação, qual das opções abaixo assinala o melhor tratamento farmacológico?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "warfarin com meta de INR entre 2 e 3"
+    },
+    {
+     "letra": "B",
+     "texto": "rivaroxabana 15 mg/dia, com meta de INR entre 2 e 3"
+    },
+    {
+     "letra": "C",
+     "texto": "dabigatrana 2,5 mg/dia, com meta de PT T 2,5 vezes o basal"
+    },
+    {
+     "letra": "D",
+     "texto": "enoxaparina 1 mg/kg/dose 2 x ao dia, sem necessidade de controle"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000048793",
+   "codigo": "4000048793",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 37,
+   "temas": [
+    "Escores de avaliação de risco tromboembólico e hemorrágico"
+   ],
+   "enunciado": "Paciente sexo feminino, 59 anos, portadora de FA intermitente. Seu médico considerou início de terapia anticoagulante. Seu risco de sangramento pelo ChadDSVASc foi 0. Qual outro teste útil para planejar seu tratamento?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Holter por 7 dias."
+    },
+    {
+     "letra": "B",
+     "texto": "Holter 24 horas."
+    },
+    {
+     "letra": "C",
+     "texto": "Ecocardiograma."
+    },
+    {
+     "letra": "D",
+     "texto": "Teste de esteira."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000036886",
+   "codigo": "4000036886",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 38,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Com relação à fibrilação atrial, assinale a alternativa incorreta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "devido à ação inotrópica negativa dos betabloqueadores, devem ser evitados nos pacientes com fibrilação atrial."
+    },
+    {
+     "letra": "B",
+     "texto": "hipertireoidismo e intoxicação alcoólica aguda são causas bem definidas de fibrilação atrial."
+    },
+    {
+     "letra": "C",
+     "texto": "idade >75 anos é um fator de risco para acidente vascular cerebral no paciente portador de fibrilação atrial."
+    },
+    {
+     "letra": "D",
+     "texto": "os bloqueadores dos canais de cálcio verapamil e diltiazem podem ser utilizados para o controle da frequência cardíaca nos pacientes com fibrilação atrial."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000035254",
+   "codigo": "4000035254",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 39,
+   "temas": [
+    "Antagonistas da vitamina K"
+   ],
+   "enunciado": "Paciente em uso de anticoagulante oral (dicumarínico) decorrente de brilação atrial dá entrada na UTI com diagnóstico de acidente vascular encefálico hemorrágico e necessita de abordagem neurocirúrgica. A melhor opção para correção da coagulação neste paciente é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Complexo protrombínico."
+    },
+    {
+     "letra": "B",
+     "texto": "Plasma fresco congelado."
+    },
+    {
+     "letra": "C",
+     "texto": "Vitamina K (fitomenadiona)."
+    },
+    {
+     "letra": "D",
+     "texto": "Infusão de plaquetas."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000019999",
+   "codigo": "4000019999",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 40,
+   "temas": [
+    "Ablação por cateter na f ibrilação atrial"
+   ],
+   "enunciado": "Podemos obter o controle do ritmo na Fibrilação Atrial por diversas condutas, clínicas ou intervencionistas. Indique a alternativa que apresenta conduta INADEQUADA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Evidências sólidas indicam que a ablação da Fibrilação Atrial é mais eficaz do que as drogas antiarrítmicas para controle do ritmo."
+    },
+    {
+     "letra": "B",
+     "texto": "A ablação está indicada como opção para a falência de uma droga antiarrítmica e também como primeira escolha em pacientes selecionados com FA paroxística, sem doença estrutural."
+    },
+    {
+     "letra": "C",
+     "texto": "Pacientes com cardiopatia estrutural e FA paroxística igualmente podem ser considerados para ablação como terapia inicial, desde que se suspeite de taquicardiomiopatia e que o paciente deseje realizar ablação."
+    },
+    {
+     "letra": "D",
+     "texto": "A eficácia da ablação da FA não varia conforme as características clínicas da arritmia e a extensão da cardiopatia de base."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000012826",
+   "codigo": "4000012826",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 41,
+   "temas": [
+    "Eletrocardiograma"
+   ],
+   "enunciado": "Considerando um paciente assintomático, com ECG realizado para início de atividades físicas, qual o diagnóstico e conduta CORRETOS?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Taquicardia por dupla via nodal. Adenosina EV."
+    },
+    {
+     "letra": "B",
+     "texto": "Fibrilação Atrial. Controle da frequência cardíaca e anticoagulação."
+    },
+    {
+     "letra": "C",
+     "texto": "Flutter atrial. Controle da frequência cardíaca, anticoagulação e programação para reversão do ritmo, preferencialmente por cardioversão elétrica."
+    },
+    {
+     "letra": "D",
+     "texto": "Wolf-Parkinson-White. Ablação por Estudo Eletrofisiológico."
+    },
+    {
+     "letra": "E",
+     "texto": "Taquicardia atrial. Manobra vagal."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q041-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000127900",
+   "codigo": "4000127900",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 42,
+   "temas": [
+    "Escores de avaliação de risco tromboembólico e hemorrágico"
+   ],
+   "enunciado": "Critérios para escolha da estratégia terapêutica Um homem com 60 anos de idade foi internado em um hospital municipal com quadro de confusão mental. O paciente reside em outro município, há 300 km do hospital. Na admissão, o paciente se disse assintomático, relatou que não costuma procurar atendimento médico e que preferia morar sozinho no sítio onde nasceu e cuida de uma pequena lavoura. Os familiares que o acompanhavam confirmaram que ele não apresenta comorbidades diagnosticadas, mas relataram que, há 5 dias, o paciente apresentou um episódio de confusão mental, tendo sido levado para internação hospitalar. Acrescentaram que, na ocasião, foi diagnosticada e tratada uma infecção do trato urinário e que, durante o exame físico, detectou-se uma arritmia cardíaca, confirmada por eletrocardiograma, cujo resultado é reproduzido a seguir. O resultado do eletrocardiograma realizado na internação atual apresenta o mesmo padrão. Agora, consciente e orientado, sem queixas, o paciente manifesta desejo de ter alta e de retornar ao seu sítio, a rmando que não pretende realizar outras consultas médicas. Nesse contexto, qual é a conduta médica indicada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Dar alta hospitalar ao paciente após introdução de digoxina."
+    },
+    {
+     "letra": "B",
+     "texto": "Dar alta hospitalar ao paciente após a introdução e o ajuste da dose da varfarina."
+    },
+    {
+     "letra": "C",
+     "texto": "Dar alta hospitalar ao paciente após introdução e ajuste de dose do betabloqueador."
+    },
+    {
+     "letra": "D",
+     "texto": "Orientar os familiares para que busquem, por meios jurídicos, a guarda do idoso e o mantenham na sede do município para iniciar tratamento com varfarina."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q042-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000125695",
+   "codigo": "4000125695",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 43,
+   "temas": [
+    "Escores de avaliação de risco tromboembólico e hemorrágico",
+    "Anticoagulação oral"
+   ],
+   "enunciado": "Critérios para escolha da estratégia terapêutica Homem hipertenso de 78 anos dá entrada no pronto-socorro com queixas de batedeira e dispneia súbita, mesmo ao repouso; nega dor precordial, com evolução de cerca de 4h. Exame físico PA = 150 x 95 mmHg; FC = 135 bpm; T= 36,5ºC; FR = 24 irpm; oximetria de pulso (ar ambiente) = 96%; pulmões sem ruídos adventícios; coração: bulhas arrítmicas, hipofonéticas, não são auscultados sopros. Membros: edema maleolar +/4+, com perfusão imediata. O paciente traz consigo exames ambulatoriais recentes mostrando cavidades cardíacas e fração de ejeção normais e ECG em ritmo sinusal, com sobrecarga atrial esquerda. ECG realizado no momento da admissão. (Conforme imagem do caderno de questões) Com relação ao caso, marque a alternativa INCORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A cardioversão química é uma estratégia terapêutica aceitável para este paciente nas primeiras 48h de tratamento."
+    },
+    {
+     "letra": "B",
+     "texto": "Indicar anticoagulação com inibidores da vitamina K, mantendo RNI entre 2,0 e 3,0."
+    },
+    {
+     "letra": "C",
+     "texto": "As alterações eletrocardiográficas prévias à esta internação aumentam consideravelmente o risco embólico do paciente segundo critérios do CHA2DS2-VASc, visto praticamente dobrarem o risco segundo esses critérios."
+    },
+    {
+     "letra": "D",
+     "texto": "A heparina não-fracionada endovenosa deverá ser utilizada mantendo-se o T TPA de 1,5 a 2 vezes o valor de referência."
+    },
+    {
+     "letra": "E",
+     "texto": "O ecocardiograma transesofágico poderá ser utilizado como alternativa à anticoagulação antes da cardioversão."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q043-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000119495",
+   "codigo": "4000119495",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 44,
+   "temas": [
+    "Fatores clínicos predisponentes"
+   ],
+   "enunciado": "Mulher, 35 anos, tem estenose mitral de origem reumática, veio a consulta e você a avaliou e descobriu que ela tem FA e trouxe ECG de 1 ano, que já mostrava FA. Qual dos achados do exame físico não deveremos encontrar nessa paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "B1 hiperfonética."
+    },
+    {
+     "letra": "B",
+     "texto": "B4."
+    },
+    {
+     "letra": "C",
+     "texto": "Ruflar diastólico."
+    },
+    {
+     "letra": "D",
+     "texto": "Estalido de abertura."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119492",
+   "codigo": "4000119492",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 45,
+   "temas": [
+    "Antagonistas da vitamina K"
+   ],
+   "enunciado": "Mulher, 35 anos, tem estenose mitral de origem reumática, veio à consulta e você a avaliou e descobriu que ela tem FA e trouxe ECG de 1 ano, que já mostrava FA. Em relação à anticoagulação desta paciente, podíamos iniciar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ácido acetilsalicílico."
+    },
+    {
+     "letra": "B",
+     "texto": "Rivaroxabana."
+    },
+    {
+     "letra": "C",
+     "texto": "Warfarin."
+    },
+    {
+     "letra": "D",
+     "texto": "Depende do CHADS2VASc."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000090768",
+   "codigo": "4000090768",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 46,
+   "temas": [
+    "Epidemiologia"
+   ],
+   "enunciado": "A arritmia cardíaca sustentada mais frequente em idosos (idade acima de 65 anos) é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Fibrilação atrial."
+    },
+    {
+     "letra": "B",
+     "texto": "Taquicardia sinusal."
+    },
+    {
+     "letra": "C",
+     "texto": "Bloqueio átrio ventricular de primeiro grau."
+    },
+    {
+     "letra": "D",
+     "texto": "Bradicardia sinusal."
+    },
+    {
+     "letra": "E",
+     "texto": "Síndrome bradicardia taquicardia."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000072891",
+   "codigo": "4000072891",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 47,
+   "temas": [
+    "Fibrilação Atrial",
+    "Fatores clínicos predisponentes"
+   ],
+   "enunciado": "Durante a avaliação de um paciente com doença de Parkinson que se queixa de palpitações, é detectado ritmo cardíaco irregular, sendo suspeitado o diagnóstico de brilação atrial paroxística. Realizado eletrocardiograma de superfície, há dúvida quanto ao ritmo de base, uma vez que os tremores em repouso causam um tremulado na linha de base do registro gráfico. O dado que permitiria afastar o diagnóstico de fibrilação atrial é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ausência de choque valvar em foco aórtico."
+    },
+    {
+     "letra": "B",
+     "texto": "Presença de 4ª bulha à ausculta cardíaca."
+    },
+    {
+     "letra": "C",
+     "texto": "Ausência de onda \"a\" no pulso venoso."
+    },
+    {
+     "letra": "D",
+     "texto": "Presença de anisocardioesfigmia."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000069622",
+   "codigo": "4000069622",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 48,
+   "temas": [
+    "Fatores clínicos predisponentes",
+    "Prevenção de tromboembolismo"
+   ],
+   "enunciado": "São fatores de risco cardioembólico para AVE em pacientes portadores de Fibrilação Atrial:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Passado de Acidente isquêmico transitório e Estenose mitral."
+    },
+    {
+     "letra": "B",
+     "texto": "Hipertensão Arterial Pulmonar e Diabetes Mellitus."
+    },
+    {
+     "letra": "C",
+     "texto": "Idade maior que 75 anos e Prolapso de válvula mitral com regurgitação."
+    },
+    {
+     "letra": "D",
+     "texto": "Hipotireoidismo e Disfunção ventricular esquerda."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000054482",
+   "codigo": "4000054482",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 49,
+   "temas": [
+    "Síndrome de Wolf f ParkinsonWhite"
+   ],
+   "enunciado": "Pacientes do sexo masculino de 37 anos, jogador de tênis, portador de síndrome de Wolf-Parkinson-White, desenvolve taquicardia irregular de complexo largo na frequência de 200 batimentos por minuto. Ele parece confortável e apresenta pequena instabilidade hemodinâmica. Neste momento, o tratamento útil deve incluir:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Digoxina;"
+    },
+    {
+     "letra": "B",
+     "texto": "Amiodarona;"
+    },
+    {
+     "letra": "C",
+     "texto": "Propranolol;"
+    },
+    {
+     "letra": "D",
+     "texto": "Verapamil;"
+    },
+    {
+     "letra": "E",
+     "texto": "Cardioversão corrente direta;"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000043787",
+   "codigo": "4000043787",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 50,
+   "temas": [
+    "Escores de avaliação de risco tromboembólico e hemorrágico"
+   ],
+   "enunciado": "Além de aspectos cardiológicos com importantes complicações, a Fibrilação Atrial causa enormes outras complicações à distância, entre elas os fenômenos emboligênicos. Sobre isso, concluímos que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O escore de risco para hemorragia não contraindica o uso de anticoagulante oral, mas orienta quanto à necessidade de cuidados especiais para tornar o tratamento mais seguro."
+    },
+    {
+     "letra": "B",
+     "texto": "Não ocorre risco de interação de anticoagulação e consumo de álcool."
+    },
+    {
+     "letra": "C",
+     "texto": "Não há necessidade de avaliar, concomitantemente, risco emboligênico e de sangramento."
+    },
+    {
+     "letra": "D",
+     "texto": "O conceito “benefício líquido” não leva em consideração os aspectos positivos da redução de risco de tromboembolismo bem como de hemorragia."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000041342",
+   "codigo": "4000041342",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 51,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Homem de 56 anos comparece a ambulatório de clínica médica com relato de palpitações que se iniciaram há 5 dias. Refere diagnóstico de hipertensão arterial, mas não aderente ao tratamento. Ao exame físico, está em bom estado geral, eupneico, com pressão arterial de 130 x 90 mmHg, frequência cardíaca de 130 bpm, bulhas arrítmicas, sem sopros. Após submeter-se ao eletrocardiograma, é constatado flutter atrial 2:1. Nesse caso, a conduta indicada é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Anticoagulação plena e desfibrilação."
+    },
+    {
+     "letra": "B",
+     "texto": "Cardioversão química com amiodarona."
+    },
+    {
+     "letra": "C",
+     "texto": "Adenosina."
+    },
+    {
+     "letra": "D",
+     "texto": "Inibidores do nódulo AV, considerando que paciente está estável."
+    },
+    {
+     "letra": "E",
+     "texto": "A cardioversão elétrica com 100 J."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000029475",
+   "codigo": "4000029475",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 52,
+   "temas": [
+    "Prevenção de tromboembolismo"
+   ],
+   "enunciado": "Uma mulher de 45 anos é portadora de estenose mitral de origem reumática e faz uso de atenolol. Apresenta-se em classe funcional II. O ecocardiograma transesofágico mostra área valvar mitral de 0,9 cm², com boa morfologia e insu ciência mitral mínima, ausência de trombos no átrio esquerdo; diâmetro e função sistólica do VE preservados. O ritmo no ECG é de fibrilação atrial. Sobre a profilaxia dos fenômenos tromboembólicos, a conduta mais apropriada é prescrever:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Varfarina, com alvo de INR entre 2,5 e 3,5."
+    },
+    {
+     "letra": "B",
+     "texto": "Dabigatrana ou rivaroxabana, sem necessidade de ajuste do INR."
+    },
+    {
+     "letra": "C",
+     "texto": "Varfarina, com alvo de INR entre 2,0 e 3,0."
+    },
+    {
+     "letra": "D",
+     "texto": "Ácido acetilsalicílico associado à varfarina, com alvo de INR entre 2,0 e 3,0."
+    },
+    {
+     "letra": "E",
+     "texto": "Ácido acetilsalicílico."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000016485",
+   "codigo": "4000016485",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 53,
+   "temas": [
+    "Medicações usadas para controle do ritmo cardíaco"
+   ],
+   "enunciado": "Em paciente com brilação atrial aguda e sem cardiopatia estrutural, caso o médico opte por reversão da arritmia com droga, qual das abaixo seria a de primeira escolha?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Amiodarona."
+    },
+    {
+     "letra": "B",
+     "texto": "Propafenona."
+    },
+    {
+     "letra": "C",
+     "texto": "Adenosina."
+    },
+    {
+     "letra": "D",
+     "texto": "Quinidina."
+    },
+    {
+     "letra": "E",
+     "texto": "Sotalol."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000016030",
+   "codigo": "4000016030",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 54,
+   "temas": [
+    "Medicações usadas para controle do ritmo cardíaco"
+   ],
+   "enunciado": "A brilação atrial ocorre com certa frequência em pacientes com insu ciência cardíaca, podendo ser uma das causas de descompensação clínica do paciente. Quando necessário, a reversão dessa arritmia deve ser feita com um antiarrítmico com pouco ou nenhum efeito inotrópico negativo. Qual opção abaixo indica o fármaco preferido para restaurar e manter o ritmo sinusal nesses casos?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Digoxina."
+    },
+    {
+     "letra": "B",
+     "texto": "Quinidina."
+    },
+    {
+     "letra": "C",
+     "texto": "Disopiramida."
+    },
+    {
+     "letra": "D",
+     "texto": "Amiodarona."
+    },
+    {
+     "letra": "E",
+     "texto": "Flecainida."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000113437",
+   "codigo": "4000113437",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 55,
+   "temas": [
+    "Medicações usadas para controle da f requência cardíaca",
+    "Prevenção de tromboembolismo"
+   ],
+   "enunciado": "Cardioversão elétrica Em um paciente com brilação atrial de alta resposta ventricular e de instalação por tempo indeterminado, a conduta ideal a ser tomada será:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Controle de frequência e anticoagulação plena por tempo indeterminado."
+    },
+    {
+     "letra": "B",
+     "texto": "Cardioversão elétrica imediata."
+    },
+    {
+     "letra": "C",
+     "texto": "Cardioversão química imediata."
+    },
+    {
+     "letra": "D",
+     "texto": "Estudo eletrofisiológico e ablação por radiofrequência."
+    },
+    {
+     "letra": "E",
+     "texto": "Controle da frequência e anticoagulação plena por 3 semanas, seguida de cardioversão."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000090869",
+   "codigo": "4000090869",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 56,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Paciente de 65 anos, com história de hipertensão arterial sistêmica, chegou à emergência referindo palpitações há 12 horas. A pressão arterial era de 120 x 80 mmHg. O eletrocardiograma realizado por ocasião da admissão está reproduzido abaixo. Considere as assertivas propostas sobre a condução do caso. I – O uso de betabloqueadores está indicado, já que, na maioria dos casos, obtém-se controle da frequência cardíaca em longo prazo com essa classe de medicamentos; II – O tratamento inicial deve ser feito com cardioversão sincronizada utilizando-se 50 Joules; III – A reversão da arritmia pode ser tentada com o uso intravenoso de verapamil (até 10 mg). Qual (ais) é (são) CORRETA (S)?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Apenas I."
+    },
+    {
+     "letra": "B",
+     "texto": "Apenas II."
+    },
+    {
+     "letra": "C",
+     "texto": "Apenas III."
+    },
+    {
+     "letra": "D",
+     "texto": "Apenas I e II."
+    },
+    {
+     "letra": "E",
+     "texto": "I, II e III."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q056-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000084854",
+   "codigo": "4000084854",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 57,
+   "temas": [
+    "Antagonistas da vitamina K",
+    "Manejo do sangramento associado aos anticoagulantes orais"
+   ],
+   "enunciado": "Homem de 67 anos portador de brilação atrial em uso de warfarina retorna ao ambulatório de cardiologia trazendo resultado de seu último INR, que foi de 6,0. Ele está assintomático e nega episódios de sangramento. Qual deve ser a conduta adotada nesse caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Suspender a warfarin e aguardar o INR ficar menor que 3."
+    },
+    {
+     "letra": "B",
+     "texto": "Transfundir plasma fresco devido ao risco de sangramento."
+    },
+    {
+     "letra": "C",
+     "texto": "Transfundir plaquetas."
+    },
+    {
+     "letra": "D",
+     "texto": "Prescrever complexo protrombínico"
+    },
+    {
+     "letra": "E",
+     "texto": "Prescrever vitamina K 10 mg intravenosa."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000060889",
+   "codigo": "4000060889",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 58,
+   "temas": [
+    "Escores de avaliação de risco tromboembólico e hemorrágico"
+   ],
+   "enunciado": "Qual das seguintes alternativas NÃO está associada ao aumento do risco de AVC embólico em pacientes com brilação atrial?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Diabetes."
+    },
+    {
+     "letra": "B",
+     "texto": "Idade acima de 75 anos."
+    },
+    {
+     "letra": "C",
+     "texto": "Hipercolesterolemia."
+    },
+    {
+     "letra": "D",
+     "texto": "Hipertensão."
+    },
+    {
+     "letra": "E",
+     "texto": "Insuficiência cardíaca."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000054219",
+   "codigo": "4000054219",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 59,
+   "temas": [
+    "Fatores clínicos predisponentes"
+   ],
+   "enunciado": "Paciente de 31 anos, do sexo masculino, dá entrada no pronto-socorro a noite vindo de uma festa onde consumiu bebida alcoólica em grande quantidade associada com energéticos. Referia palpitações de início súbito e tonteira não rotatória, com PA na avalição inicial de 100/60 mmHg e FC de 140 bpm com ritmo irregular. O diagnóstico mais provável é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Taquicardia sinusal."
+    },
+    {
+     "letra": "B",
+     "texto": "Fibrilação atrial."
+    },
+    {
+     "letra": "C",
+     "texto": "Taquicardia ventricular monomórfica."
+    },
+    {
+     "letra": "D",
+     "texto": "Taquicardia por reentrada nodal."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046001",
+   "codigo": "4000046001",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 60,
+   "temas": [
+    "Fatores clínicos predisponentes"
+   ],
+   "enunciado": "Homem, 38 anos, hígido, chegou ao pronto-socorro com queixa de palpitações cardíacas. Relatava ingestão de quantidade excessiva de bebida alcoólica no dia anterior. O seu eletrocardiograma evidenciou arritmia com R-R variável, frequência cardíaca aproximada de 140 bpm e ausência de ondas P. Dentre os achados relacionados abaixo, assinale os esperados ao exame físico desse paciente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Pulsos irregularmente arrítmicos e com amplitude completamente variável; bulhas arrítmicas com fonese variável de B1."
+    },
+    {
+     "letra": "B",
+     "texto": "Pulsos arrítmicos com uma falha a cada 5 batimentos e com amplitude regular, porém reduzida; bulhas arrítmicas e com fonese constante, porém hipofonéticas."
+    },
+    {
+     "letra": "C",
+     "texto": "Pulsos irregularmente arrítmicos e com amplitude completamente variável; bulhas arrítmicas e com fonese constante, porém hiperfonéticas."
+    },
+    {
+     "letra": "D",
+     "texto": "Pulsos arrítmicos com uma falha a cada 4 batimentos e com amplitude regular, porém reduzida; bulhas arrítmicas, hiperfonese de B1 e hipofonese de B2."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000021174",
+   "codigo": "4000021174",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 61,
+   "temas": [
+    "Anticoagulação oral",
+    "Medicações usadas para controle da f requência cardíaca"
+   ],
+   "enunciado": "Critérios para escolha da estratégia terapêutica Paciente de 62 anos dá entrada no serviço de emergências referindo sensação de palpitações há uma semana, com piora após realização de esforço físico. Ao exame, apresenta-se consciente, orientado, eupneico, ritmo cardíaco irregular, pressão arterial de 140 x 80 mmHg e frequência cardíaca de 128 bpm. O ritmo cardíaco está ilustrado no ECG abaixo. (VER IMAGEM) A conduta a ser tomada é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cardioversão elétrica imediata."
+    },
+    {
+     "letra": "B",
+     "texto": "Cardioversão química imediata."
+    },
+    {
+     "letra": "C",
+     "texto": "Controle da frequência cardíaca e anticoagulação por 3-4 semanas, seguidos de cardioversão."
+    },
+    {
+     "letra": "D",
+     "texto": "Controle da frequência cardíaca seguido de ablação do nó atrioventricular e implante de marca-passo."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q061-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000003820",
+   "codigo": "4000003820",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 62,
+   "temas": [
+    "Medicações usadas para controle da f requência cardíaca"
+   ],
+   "enunciado": "A Amiodarona apresenta potencialmente diversos efeitos colaterais, isso tanto em nível cardíaco, quanto fora do sistema cardiovascular. Podemos apontar como potenciais efeitos colaterais da Amiodarona, a:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Fibrose pulmonar."
+    },
+    {
+     "letra": "B",
+     "texto": "Taquicardia."
+    },
+    {
+     "letra": "C",
+     "texto": "Descompensação da glicemia."
+    },
+    {
+     "letra": "D",
+     "texto": "Perversão visual tipo xantocromia."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000124636",
+   "codigo": "4000124636",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 63,
+   "temas": [
+    "Rivaroxabana"
+   ],
+   "enunciado": "Quanto ao uso dos novos anticoagulantes orais, é correto:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Podem ser utilizados em pacientes portadores de FA e prótese mecânica aórtica."
+    },
+    {
+     "letra": "B",
+     "texto": "A dose de Rivaroxabana em pacientes com Clearance de creatinina > 30 e < 50 ml/min é de 15 mg/d."
+    },
+    {
+     "letra": "C",
+     "texto": "É uma alternativa aos pacientes com FA e insufiência renal crônica pela comodidade posológia e segurança."
+    },
+    {
+     "letra": "D",
+     "texto": "A dose da Dabigatrana de 110 mg 2x dia foi superior ao marevan na redução de fenômenos tromboembólicos."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000124633",
+   "codigo": "4000124633",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 64,
+   "temas": [
+    "Escores de avaliação de risco tromboembólico e hemorrágico"
+   ],
+   "enunciado": "Paciente de 60 anos, masculino, hipertenso e em tratamento com enalapril 20 mg/d, hemoglobina glicada de 7 g%, refere palpitação há 4 dias. ECG evidência FA com resposta ventricular de 110 - 120 bpm. PA = 120 x 75 mmHg. Informa ser portador de insufiência renal crônica e em tratamento dialítico 3x na semana. Qual das afirmações abaixo é a correta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "CHADS-VASC de 2 e HAS-BLED de 2, indicam uso de anticoagulação e baixo risco de sangramento."
+    },
+    {
+     "letra": "B",
+     "texto": "CHADS-VASC de 2 e HAS-BLED de 4, indicam uso de anticoagulação e alto risco de sangramento."
+    },
+    {
+     "letra": "C",
+     "texto": "CHADS-VASC de 4 e HAS-BLED de 4, indicam uso de anticoagulação e alto risco de sangramento."
+    },
+    {
+     "letra": "D",
+     "texto": "CHADS-VASC de 4 e HAS-BLED de 2, indicam uso de anticoagulação e baixo risco de sangramento."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000068817",
+   "codigo": "4000068817",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 65,
+   "temas": [
+    "Medicações usadas para controle da f requência cardíaca"
+   ],
+   "enunciado": "Com relação à fibrilação atrial, assinale a alternativa INCORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Devido à ação inotrópica negativa dos betabloqueadores, eles devem ser evitados nos pacientes com fibrilação atrial."
+    },
+    {
+     "letra": "B",
+     "texto": "Hipertireoidismo e intoxicação alcoólica aguda são causas bem definidas de fibrilação atrial."
+    },
+    {
+     "letra": "C",
+     "texto": "Idade superior a 75 anos é um fator de risco para a ocorrência de AVC no paciente portador de fibrilação atrial."
+    },
+    {
+     "letra": "D",
+     "texto": "Os bloqueadores do canal de cálcio verapamil e diltiazem podem ser utilizados para o controle da frequência cardíaca nos pacientes com fibrilação atrial."
+    },
+    {
+     "letra": "E",
+     "texto": "A incidência da fibrilação atrial aumenta com a idade."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000014842",
+   "codigo": "4000014842",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 66,
+   "temas": [
+    "Medicações usadas para controle do ritmo cardíaco"
+   ],
+   "enunciado": "Assinale a alternativa que NÃO representa um efeito colateral típico da amiodarona.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipotireoidismo."
+    },
+    {
+     "letra": "B",
+     "texto": "Bloqueio atrioventricular."
+    },
+    {
+     "letra": "C",
+     "texto": "Necrose tubular aguda."
+    },
+    {
+     "letra": "D",
+     "texto": "Pneumonite intersticial."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000108586",
+   "codigo": "4000108586",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 67,
+   "temas": [
+    "Medicações usadas para controle do ritmo cardíaco",
+    "Bloqueadores dos canais de potássio"
+   ],
+   "enunciado": "A fotossensibilidade, disfunção tiroideana, pneumonite intersticial, disfunção hepática e neuropatia periférica são efeitos adversos particularmente relacionados ao uso crônico de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Quinidina."
+    },
+    {
+     "letra": "B",
+     "texto": "Propafenona"
+    },
+    {
+     "letra": "C",
+     "texto": "Amiodarona"
+    },
+    {
+     "letra": "D",
+     "texto": "Procainamida"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000106228",
+   "codigo": "4000106228",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 68,
+   "temas": [
+    "Anticoagulação oral"
+   ],
+   "enunciado": "Em relação aos anticoagulantes e antiplaquetários, assinale a alternativa em que a medicação apresenta o mecanismo de ação INCORRETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Dabigatrana; inibidor direto da trombina."
+    },
+    {
+     "letra": "B",
+     "texto": "Apixabana; inibidor direto da trombina."
+    },
+    {
+     "letra": "C",
+     "texto": "Rivaroxabana; inibidor direto do fator Xa."
+    },
+    {
+     "letra": "D",
+     "texto": "Ácido Acetilsalicílico (AAS); inibidor da agregação plaquetária."
+    },
+    {
+     "letra": "E",
+     "texto": "Varfarina; antagonista da vitamina K."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000105169",
+   "codigo": "4000105169",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 69,
+   "temas": [
+    "Escores de avaliação de risco tromboembólico e hemorrágico",
+    "Anticoagulação oral"
+   ],
+   "enunciado": "A terapia antitrombótica com anticoagulantes é efetiva em reduzir o risco de embolização sistêmica em paciente com fibrilação atrial de causa não valvular. Leia as afirmativas e assinale a alternativa correta. I. A estratificação do risco de embolização arterial deve ser feita com CHADS2 ou CHA2DS2-VASc. II. A pacientes com score CHADS2 igual a 2 deve ser dada terapia anticoagulante. III. Para pacientes tomando warfarina devemos deixar INR entre 1,5 e 2,0. IV. A dabigatrana é um inibidor direto da trombina e a rivaroxabana é um inibidor do fator Xa. Estão CORRETAS as afirmativas:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "II, III e IV, apenas"
+    },
+    {
+     "letra": "B",
+     "texto": "I, II e IV, apenas."
+    },
+    {
+     "letra": "C",
+     "texto": "I e IV, apenas."
+    },
+    {
+     "letra": "D",
+     "texto": "I, II e III, apenas."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000090397",
+   "codigo": "4000090397",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 70,
+   "temas": [
+    "Medicações usadas para controle da f requência cardíaca",
+    "Tratamento"
+   ],
+   "enunciado": "Medicações usadas para controle do ritmo cardíaco A brilação atrial subaguda (48h) atendida num setor de emergência pode ser revertida por várias estratégias terapêuticas. Assinale a assertiva correta sobre essa síndrome:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A amiodarona intravenosa está contraindicada em pacientes com função sistólica reduzida."
+    },
+    {
+     "letra": "B",
+     "texto": "A propafenona intravenosa apresenta boa efetividade para a reversão da fibrilação atrial subaguda."
+    },
+    {
+     "letra": "C",
+     "texto": "A amiodarona intravenosa é efetiva, mas tem como efeitos adversos a disfunção da tireoide, a pneumonite e opacificação do cristalino já nas primeiras doses."
+    },
+    {
+     "letra": "D",
+     "texto": "Os betabloqueadores intravenosos têm maior efetividade para a reversão da arritmia do que a propafenona e a amiodarona."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000086236",
+   "codigo": "4000086236",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 71,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Em relação ao manejo de fibrilação atrial, associe os fármacos às respectivas indicações. 1 - Adenosina; 2 - Amiodarona; 3 - Sotalol; 4 - Propafenona; 5 - Digoxina. ( ) É a alternativa para reversão domiciliar de fibrilação atrial recorrente em paciente sem cardiopatia estrutural; ( ) Sua utilização prévia está associada à maior taxa de sucesso de cardioversão elétrica; ( ) É utilizado (a) para controle de resposta ventricular. A sequência numérica CORRETA, de cima para baixo, é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1 - 2 - 4."
+    },
+    {
+     "letra": "B",
+     "texto": "2 - 1 - 3."
+    },
+    {
+     "letra": "C",
+     "texto": "2 - 4 - 5."
+    },
+    {
+     "letra": "D",
+     "texto": "4 - 1 - 3."
+    },
+    {
+     "letra": "E",
+     "texto": "4 - 2 - 5."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000050255",
+   "codigo": "4000050255",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 72,
+   "temas": [
+    "Bloqueadores dos canais de potássio"
+   ],
+   "enunciado": "Considerando pacientes em uso crônico de amiodarona, o efeito adverso mais comum relacionado ao uso da medicação é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "hipotireoidismo."
+    },
+    {
+     "letra": "B",
+     "texto": "fibrose pulmonar."
+    },
+    {
+     "letra": "C",
+     "texto": "alteração de enzimas hepáticas."
+    },
+    {
+     "letra": "D",
+     "texto": "ataxia, polineuropatia."
+    },
+    {
+     "letra": "E",
+     "texto": "microcristais de córnea."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000042567",
+   "codigo": "4000042567",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 73,
+   "temas": [
+    "Flutter atrial"
+   ],
+   "enunciado": "O flutter atrial é uma arritmia frequente na Clínica Médica. Sobre esta situação clínica, assinale a alternativa errada:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O Eletrocardiograma (ECG) evidencia ondas F de ativação atrial e o padrão mais comum é a frequência atrial de 300 bpm, com uma frequência ventricular de 150 bpm, com uma relação A:V fixa em torno de 2:1."
+    },
+    {
+     "letra": "B",
+     "texto": "Na ausculta cardíaca, evidenciamos um ritmo regular, geralmente taquicárdico, exceto quando o Bloqueio A:V for variável (4:1 ; 3:1 ; 2:1, etc) situação em que a ausculta cardíaca será semelhante à da fibrilação atrial, com um ritmo cardíaco bem irregular."
+    },
+    {
+     "letra": "C",
+     "texto": "Quando o flutter atrial se mantiver por períodos prolongados, pode ocorrer insuficiência cardíaca e em casos crônicos levar a uma taquicardiomiopatia."
+    },
+    {
+     "letra": "D",
+     "texto": "No tratamento do flutter atrial, as principais medicações usadas para a reversão são a digoxina, procainamida e quinidina, com altos índices de sucesso (> que 80 %), e ao contrário da fibrilação atrial, nunca vai ser necessária a anticoagulação."
+    },
+    {
+     "letra": "E",
+     "texto": "O tratamento definitivo de escolha desta arritmia é a ablação por radiofrequência, com eliminação do circuito de reentrada, mantendo-se intacta a condução AV."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000029619",
+   "codigo": "4000029619",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 74,
+   "temas": [
+    "Fatores clínicos predisponentes"
+   ],
+   "enunciado": "Entre as causas reversíveis de fibrilação atrial, encontram-se:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipotireoidismo e infarto agudo do miocárdio."
+    },
+    {
+     "letra": "B",
+     "texto": "Uso de ácido acetilsalicílico e embolia pulmonar."
+    },
+    {
+     "letra": "C",
+     "texto": "Miocardite e labirintite."
+    },
+    {
+     "letra": "D",
+     "texto": "Choque elétrico e ingesta de álcool."
+    },
+    {
+     "letra": "E",
+     "texto": "Pericardite e hipotireoidismo."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000073738",
+   "codigo": "4000073738",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 75,
+   "temas": [
+    "Classif icação clínica"
+   ],
+   "enunciado": "Fibrilação atrial com episódios que duram até mais de sete dias e sem resposta à cardioversão é classificada como:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Paroxística."
+    },
+    {
+     "letra": "B",
+     "texto": "Permanente."
+    },
+    {
+     "letra": "C",
+     "texto": "Persistente."
+    },
+    {
+     "letra": "D",
+     "texto": "Terminal."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000045466",
+   "codigo": "4000045466",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Fibrilação e Flutter Atria",
+   "numero": 76,
+   "temas": [
+    "Flutter atrial"
+   ],
+   "enunciado": "A arritmia representada no registro eletrocardiográfico abaixo é: Respostas: 1 12 23 34 45 56 67",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "fibrilação atrial."
+    },
+    {
+     "letra": "B",
+     "texto": "taquicardia atrial."
+    },
+    {
+     "letra": "C",
+     "texto": "taquicardia ventricular."
+    },
+    {
+     "letra": "D",
+     "texto": "flutter atrial."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q076-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": []
+}

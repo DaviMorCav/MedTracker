@@ -1,0 +1,841 @@
+{
+ "questoes": [
+  {
+   "id": "4000120605",
+   "codigo": "4000120605",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo em Ginecologia",
+   "numero": 1,
+   "temas": [
+    "Abdome agudo em ginecologia"
+   ],
+   "enunciado": "Uma paciente nuligesta de 28 anos de idade deu entrada no pronto-socorro com queixa de dor em fossa ilíaca esquerda há um dia. Refere ciclos menstruais regulares, com duração de três dias e intervalos de 28 dias, e nega dismenorreia. DUM há quinze dias. Ao exame físico, paciente em bom estado geral, corada, hidratada, afebril, com frequência cardíaca de 86 bpm, pressão arterial de 110 x 70 mmHg, abdome plano, ácido, doloroso à palpação profunda de fossa ilíaca esquerda e DB negativo. Ao toque, útero intrapélvico, móvel, indolor à mobilização, e anexo esquerdo pouco aumentado e discretamente doloroso à manipulação. Hb: 12; leucócitos: 6.700 e PCR: 1. Realizou USG TV, que revelou: cisto hemorrágico de 3 cm em ovário direito. Com base nesse caso hipotético, assinale a alternativa que apresenta a conduta mais adequada.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "videolaparoscopia para ooforoplastia"
+    },
+    {
+     "letra": "B",
+     "texto": "videolaparoscopia para ooforectomia"
+    },
+    {
+     "letra": "C",
+     "texto": "conduta expectante e sintomáticos"
+    },
+    {
+     "letra": "D",
+     "texto": "internação para antibioticoterapia parenteral"
+    },
+    {
+     "letra": "E",
+     "texto": "internação e tratamento com estoprogestativos"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000108146",
+   "codigo": "4000108146",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo em Ginecologia",
+   "numero": 2,
+   "temas": [
+    "Torção anexial",
+    "Causas"
+   ],
+   "enunciado": "C.M.L., 20 anos, atendida no PS pela segunda vez no intervalo de 1 semana, devido a quadro de dor pélvica intensa, com piora progressiva e refratária a analgésicos e anti- inflamatórios. Data da última menstruação: há 20 dias. Contracepção: condon. Ao exame físico: bom estado geral, corada, apirética, normotensa, abdome doloroso, dor à descompressão brusca (DB) duvidosa. Ao especular e toque, colo epitelizado, sem secreções, consistência bro-elástica, útero de volume normal e abaulamento em região de fórnice lateral esquerdo, muito doloroso ao toque. Ao exame de ultrassonogra a, tumoração cística medindo 10 cm no maior diâmetro, aspecto simples e sem debris, em região anexial esquerda de possível origem ovariana. Qual a hipótese diagnóstica mais provável e a conduta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Gravidez ectópica e laparoscopia"
+    },
+    {
+     "letra": "B",
+     "texto": "Cisto de ovário funcional e seguimento ecográfico"
+    },
+    {
+     "letra": "C",
+     "texto": "Cisto hemorrágico roto e laparoscopia"
+    },
+    {
+     "letra": "D",
+     "texto": "Torção de cisto ovariano e laparoscopia"
+    },
+    {
+     "letra": "E",
+     "texto": "Hidrossalpinge e seguimento ecográfico"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000094506",
+   "codigo": "4000094506",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo em Ginecologia",
+   "numero": 3,
+   "temas": [
+    "Abdome agudo em ginecologia",
+    "Causas"
+   ],
+   "enunciado": "Mulher de 25 anos, usuária de anticoncepcional oral regularmente, deu entrada no pronto-socorro com queixa de dor em fossa ilíaca direita há 3 dias, progressiva, de forte intensidade no momento. No exame físico, apresenta-se afebril, com dor à descompressão brusca abdominal (Blumberg +). O diagnóstico menos provável nesse caso é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "apendicite"
+    },
+    {
+     "letra": "B",
+     "texto": "torção de ovário"
+    },
+    {
+     "letra": "C",
+     "texto": "gravidez ectópica"
+    },
+    {
+     "letra": "D",
+     "texto": "DIP"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000083928",
+   "codigo": "4000083928",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo em Ginecologia",
+   "numero": 4,
+   "temas": [
+    "Cisto Hemorrágico roto",
+    "Diagnósticos Dif erenciais",
+    "Cirurgia"
+   ],
+   "enunciado": "Paciente de 35 anos de idade, sexo feminino, procurou auxilio médico na Emergência com queixa de dor abdominal súbita na fossa ilíaca direita acompanhada de sudorese, taquicardia e hipotensão. Na anamnese relatava ter sido submetida a laqueadura tubária. Qual o diagnóstico mais provável para esta paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Apendicite aguda"
+    },
+    {
+     "letra": "B",
+     "texto": "Doença Inflamatória Pélvica"
+    },
+    {
+     "letra": "C",
+     "texto": "Cisto hemático roto de ovário"
+    },
+    {
+     "letra": "D",
+     "texto": "Torção de ovário"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000066062",
+   "codigo": "4000066062",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo em Ginecologia",
+   "numero": 5,
+   "temas": [
+    "Torção anexial"
+   ],
+   "enunciado": "Sabemos que a torção anexial é uma causa importante de cirurgias de urgência em mulheres. Sobre a torção anexial podemos afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O tratamento cirúrgico por vídeo-laparoscopia está formalmente contra-indicado."
+    },
+    {
+     "letra": "B",
+     "texto": "A cirurgia preconizada de rotina é a ooforectomia"
+    },
+    {
+     "letra": "C",
+     "texto": "O lado mais comum da torção anexial é o lado direito"
+    },
+    {
+     "letra": "D",
+     "texto": "Gestação é um fator de proteção"
+    },
+    {
+     "letra": "E",
+     "texto": "CA 125 elevado fecha o diagnóstico"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000062747",
+   "codigo": "4000062747",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo em Ginecologia",
+   "numero": 6,
+   "temas": [
+    "Torção anexial"
+   ],
+   "enunciado": "Em relação à torção anexial, atribua V (verdadeiro) ou F (falso) às afirmativas a seguir. ( ) O ovário esquerdo está mais propenso a torcer em relação ao direito. ( ) Ocorre mais comumente com cistos benignos em relação aos malignos. ( ) A maioria dos casos de torção ovariana ocorre em mulheres no climatério. ( ) A gravidez está associada a um risco aumentado de torção ovariana. ( ) A ausência de uma massa anexial exclui o diagnóstico de torção. Assinale a alternativa que contém, de cima para baixo, a sequência correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "V, V, V, F, F."
+    },
+    {
+     "letra": "B",
+     "texto": "V, F, V, F, V."
+    },
+    {
+     "letra": "C",
+     "texto": "F, V, F, V, F."
+    },
+    {
+     "letra": "D",
+     "texto": "F, V, F, F, V."
+    },
+    {
+     "letra": "E",
+     "texto": "F, F, F, V, V."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000117844",
+   "codigo": "4000117844",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo em Ginecologia",
+   "numero": 7,
+   "temas": [
+    "Causas"
+   ],
+   "enunciado": "Mulher, 30 anos, G2P2, dá entrada no pronto-socorro com dor pélvica aguda, localizada em fossa ilíaca direita. Apresentou descompressão brusca positiva e toque vaginal doloroso em fundo de saco posterior. O clínico de plantão aventou algumas hipóteses, dentre as quais torção de anexo direito, apendicite aguda e prenhez ectópica direita. O ginecologista foi chamado para avaliar a paciente. Qual(is) exame(s) ele deve solicitar para elucidar o diagnóstico?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tomografia computadorizada de pelve."
+    },
+    {
+     "letra": "B",
+     "texto": "Ultrassom transvaginal."
+    },
+    {
+     "letra": "C",
+     "texto": "Ultrassom de abdome total."
+    },
+    {
+     "letra": "D",
+     "texto": "ß- HCG sérico."
+    },
+    {
+     "letra": "E",
+     "texto": "As alternativas b e d são as melhores opções."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000112912",
+   "codigo": "4000112912",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo em Ginecologia",
+   "numero": 8,
+   "temas": [
+    "Causas"
+   ],
+   "enunciado": "Diante de avaliação clínica de paciente com dor pélvica aguda, com beta HCG negativo, pode-se afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "dor à mobilização cervical e à palpação anexial considera-se cisto simples ovariano."
+    },
+    {
+     "letra": "B",
+     "texto": "dor em fossa ilíaca, padrão migratório, sintomas gastrointestinais, considerar infecção do trato urinário."
+    },
+    {
+     "letra": "C",
+     "texto": "ausência de dor à mobilização cervical e palpação anexial, na presença de tumoração, descarta-se torção anexial."
+    },
+    {
+     "letra": "D",
+     "texto": "dor à mobilização cervical e dor à palpação anexial, considerar doença inflamatória pélvica aguda."
+    },
+    {
+     "letra": "E",
+     "texto": "trata-se de gestação ectópica rota."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000085639",
+   "codigo": "4000085639",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo em Ginecologia",
+   "numero": 9,
+   "temas": [
+    "Perf uração uterina"
+   ],
+   "enunciado": "Paciente de 45 anos com sangramento uterino anormal e visualização de pólipos endometriais na USG transvaginal. É submetida a histeroscopia ambulatorial sem energia. Ao realizar o exame, com di culdade por conta de estenose de orifício interno, o histeroscopista observa que perfurou o útero. A conduta mais adequada, neste momento, para esta paciente é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Observação clínica criteriosa por 2 horas."
+    },
+    {
+     "letra": "B",
+     "texto": "Laparoscopia exploradora imediata."
+    },
+    {
+     "letra": "C",
+     "texto": "Reposicionamento do histeroscópio e continuação do exame."
+    },
+    {
+     "letra": "D",
+     "texto": "Interrupção do exame e coagulação do orifício."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000072119",
+   "codigo": "4000072119",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo em Ginecologia",
+   "numero": 10,
+   "temas": [
+    "Torção anexial"
+   ],
+   "enunciado": "Mulher de 32 anos procura atendimento de emergência com dor súbita de forte intensidade em fossa ilíaca direita. Nega atraso menstrual, sem vida sexual ativa. Ultrassonogra a transvaginal evidenciando ovário direito edemaciado, aumentado de volume e com interrupção do fluxo sanguíneo ao doppler. Sobre o diagnóstico mais provável, marque a opção CORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o tratamento consiste na laparoscopia com anexectomia direita pelo risco de embolização"
+    },
+    {
+     "letra": "B",
+     "texto": "laparoscopia imediata para desfazer a torção do anexo, seguida por ooforopexia bilateral é o tratamento de eleição"
+    },
+    {
+     "letra": "C",
+     "texto": "hidratação vigorosa, analgesia e repouso estão indicados como tratamento inicial. A cirurgia deve ser indicada nos casos de falha do tratamento clínico."
+    },
+    {
+     "letra": "D",
+     "texto": "são fatores de risco para torção endometriomas volumosos e mulheres com ligamento redondo alongado."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047094",
+   "codigo": "4000047094",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo em Ginecologia",
+   "numero": 11,
+   "temas": [
+    "Torção anexial",
+    "Tratamento"
+   ],
+   "enunciado": "A. P.M anos apresenta dor aguda em baixo ventre, em pontada, de moderada/forte intensidade associada à distensão abdominal, sem melhora com analgesia. AP: G0P0, 17° dia do ciclo menstrual. EF: dor de forte intensidade à palpação do baixo ventre, predominantemente em FID, DB(–), toque vaginal: massa de consistência cística, com +5 cm de diâmetro em FID, intensa dor à mobilização do colo e à palpação de fundo de saco lateral direito. Ultrassonogra a com Doppler apresentada a seguir: A conduta é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Controle ultrassonoráfico."
+    },
+    {
+     "letra": "B",
+     "texto": "Laparoscopia."
+    },
+    {
+     "letra": "C",
+     "texto": "Dosagem de marcadores tumorais."
+    },
+    {
+     "letra": "D",
+     "texto": "Punção guiada da lesão por ultrassom."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q011-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000111535",
+   "codigo": "4000111535",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo em Ginecologia",
+   "numero": 12,
+   "temas": [
+    "Abdome agudo em ginecologia"
+   ],
+   "enunciado": "Foi admitida pelo médico que está na “porta” do Pronto Socorro uma paciente de 21 anos, com dor pélvica súbita, seguida de lipotimia e dor irradiada para ombro direito. Ao exame físico a paciente apresenta-se pálida, afebril, com posição antálgica dobrando o tronco sobre os joelhos. Ao exame clínico, deitada, a PA é de 100/60mmHg, mas cai para 80/40mmHg quando a paciente ca em pé. Nesse momento a paciente refere “tontura” e sensação de desmaio. O abdome está dolorido difusamente, com descompressão brusca positiva, e não se percebe visceromegalia justamente pela defesa muscular do abdome. Ela é nuligesta, tem ciclos menstruais espontâneos, não usa contracepção e refere dispareunia nos últimos dias. Ao exame ginecológico há pequeno sangramento na vagina, colo sem lesões e dor na tração lateral do colo uterino. Você é o médico ginecologista da retaguarda. Qual deve ser seu próximo passo?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Solicitar tomografa de abdome"
+    },
+    {
+     "letra": "B",
+     "texto": "Solicitar hemograma"
+    },
+    {
+     "letra": "C",
+     "texto": "Solicitar beta-HCG"
+    },
+    {
+     "letra": "D",
+     "texto": "Solicitar ultrassom obstétrico com Doppler"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000110573",
+   "codigo": "4000110573",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo em Ginecologia",
+   "numero": 13,
+   "temas": [
+    "Torção anexial"
+   ],
+   "enunciado": "A respeito de torção de massas anexiais, assinale a incorreta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A mais comum é a rotação do ovário e da tuba uterina, como uma entidade única, ao redor do ligamento largo."
+    },
+    {
+     "letra": "B",
+     "texto": "Pode ocorrer com anexos normais, mas, em 50 a 80% dos casos, massas ovarianas unilaterais são identificadas."
+    },
+    {
+     "letra": "C",
+     "texto": "As taxas de torção mais elevadas são verificadas nas massas anexiais com diâmetro superior a 12 cm."
+    },
+    {
+     "letra": "D",
+     "texto": "Responde por cerca de 3% das emergências ginecológicas."
+    },
+    {
+     "letra": "E",
+     "texto": "Um número desproporcional de casos de torção anexial ocorre durante a gravidez, representando 20 a 25% de todos os casos."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000073005",
+   "codigo": "4000073005",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo em Ginecologia",
+   "numero": 14,
+   "temas": [
+    "Cisto Hemorrágico roto"
+   ],
+   "enunciado": "Uma paciente está sendo atendida no ambulatório de ginecologia de um hospital escola de referência estadual. Refere dor pélvica aguda de forte intensidade que já dura 06 h, que não cedeu com analgésicos, acompanhada de náuseas, vômitos, palidez cutânea, sinais de irritação peritoneal e defesa muscular no abdome inferior. PA 90X40 mmHg. Traz consigo ultrassonogra a, realizada há 15 dias, com laudo de cisto ovariano de conteúdo líquido, homogêneo, medindo 6cm, ausência de ascite. Tem 16 anos, sem filhos. A conduta mais adequada do ginecologista, para o caso exposto será:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Internar e observar."
+    },
+    {
+     "letra": "B",
+     "texto": "Indicar ressonância nuclear magnética."
+    },
+    {
+     "letra": "C",
+     "texto": "Indicar vídeo laparoscopia."
+    },
+    {
+     "letra": "D",
+     "texto": "Indicar tomografia computadorizada de abdome"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000053719",
+   "codigo": "4000053719",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo em Ginecologia",
+   "numero": 15,
+   "temas": [
+    "Torção anexial"
+   ],
+   "enunciado": "Paciente de 24 anos deu entrada no Pronto Socorro com história de dor repentina, contínua e inespecí ca iniciada há 8 horas de forte intensidade em região inguinal direita, com irradiação para fossa ilíaca e anco direitos, sem sangramento ou febre. Ao exame, observa-se dor à palpação de FID com descompressão dolorosa. Toque vaginal di cultado pela dor, mas mostra aumento de volume ovariano à direita. Exame de imagem (ultrassonogra a transvaginal) apresenta ovário de aparência sólida, aumentado de volume, com estruturas císticas na periferia e edema no estroma. O Doppler evidencia diminuição do fluxo venoso. Hemograma sem alterações e Beta HCG negativo. Qual é o diagnóstico mais provável?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Doença inflamatória pélvica."
+    },
+    {
+     "letra": "B",
+     "texto": "Gravidez ectópica."
+    },
+    {
+     "letra": "C",
+     "texto": "Endometriose."
+    },
+    {
+     "letra": "D",
+     "texto": "Torção de ovário."
+    },
+    {
+     "letra": "E",
+     "texto": "Apendicite aguda."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000051328",
+   "codigo": "4000051328",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo em Ginecologia",
+   "numero": 16,
+   "temas": [
+    "Causas"
+   ],
+   "enunciado": "Fazem parte do diagnóstico diferencial da dor pélvica aguda, EXCETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "salpingite ístmica nodosa"
+    },
+    {
+     "letra": "B",
+     "texto": "cisto endometriótico roto"
+    },
+    {
+     "letra": "C",
+     "texto": "gravidez ectópica"
+    },
+    {
+     "letra": "D",
+     "texto": "torção de cisto ovariano"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000088067",
+   "codigo": "4000088067",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo em Ginecologia",
+   "numero": 17,
+   "temas": [
+    "Dor do meio"
+   ],
+   "enunciado": "Na avaliação da paciente ginecológica, o termo Mittelschmerz significa:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Mamilo retraído observado no câncer de mama."
+    },
+    {
+     "letra": "B",
+     "texto": "Amolecimento do colo uterino em gestação inicial."
+    },
+    {
+     "letra": "C",
+     "texto": "Distensão abdominal na pseudociese."
+    },
+    {
+     "letra": "D",
+     "texto": "Hiperpigmentação em pescoço, axila e mamas na Síndrome dos Ovários Policísticos."
+    },
+    {
+     "letra": "E",
+     "texto": "Dor pélvica decorrente da ovulação, que ocorre no meio do ciclo menstrual."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000070100",
+   "codigo": "4000070100",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo em Ginecologia",
+   "numero": 18,
+   "temas": [
+    "Abdome agudo em ginecologia"
+   ],
+   "enunciado": "Mulher de 25 anos de idade chega à emergência, referindo dor em fossa ilíaca direita e em hipogástrio, de início súbito há cerca de duas horas. Apresentou lipotímia com rápida recuperação. Nega náuseas, vômitos ou febre. Vida sexual ativa. Última menstruação há mais ou menos 15 dias. Ao exame: corada, hidratada, eupneica e afebril. PA: 120/80 mmHg e FC: 90 bpm. O abdome está plano, com peristalse normal, ácido e pouco doloroso à palpação profunda no hipogástrio e em fossa ilíaca direita, com descompressão súbita levemente dolorosa, nessa região. Exames complementares: hemograma normal, ultrassonogra a transvaginal evidencia líquido livre em fundo de saco de Douglas em pequena quantidade. Este caso tem como diagnóstico provável:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Rotura de cisto folicular."
+    },
+    {
+     "letra": "B",
+     "texto": "Apendicite aguda."
+    },
+    {
+     "letra": "C",
+     "texto": "Gravidez ectópica rota."
+    },
+    {
+     "letra": "D",
+     "texto": "Doença inflamatória pélvica."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000056982",
+   "codigo": "4000056982",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo em Ginecologia",
+   "numero": 19,
+   "temas": [
+    "Etiologia",
+    "Patologias vulvares",
+    "Dor do meio"
+   ],
+   "enunciado": "Em relação às urgências ginecológicas, marque a resposta INCORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A torção ovariana geralmente é acompanhada de náuseas, vômitos e dor abdominal aguda."
+    },
+    {
+     "letra": "B",
+     "texto": "Os tumores uterinos podem causar dor associada à hemorragia, à necrose ou à compressão de vísceras adjacentes."
+    },
+    {
+     "letra": "C",
+     "texto": "A dor no início do ciclo ou durante a menstruação é denominada Mittelschmerz."
+    },
+    {
+     "letra": "D",
+     "texto": "Sangramento uterino anormal acentuado pode ter causa orgânica ou disfuncional."
+    },
+    {
+     "letra": "E",
+     "texto": "Trauma na região vulvar facilmente evolui com hematoma devido à hipervascularização local."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000052113",
+   "codigo": "4000052113",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo em Ginecologia",
+   "numero": 20,
+   "temas": [
+    "Torção anexial"
+   ],
+   "enunciado": "Marcela, 24 anos, procura o pronto-socorro com queixa de dor em baixo ventre de característica súbita e crescente. Teve sua última menstruação há 20 dias. Não tem história de febre ou corrimento. Nega atividade sexual nos últimos três meses. Realizou ultrassonogra a transvaginal que revelou massa anexial de 13 cm de diâmetro apresentando aspecto em “olho-de- boi”/em alvo, cística, de paredes finas, com baixa perfusão ao estudo Doppler. O provável diagnóstico é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "cisto de corpo lúteo."
+    },
+    {
+     "letra": "B",
+     "texto": "gestação ectópica."
+    },
+    {
+     "letra": "C",
+     "texto": "torção de anexo."
+    },
+    {
+     "letra": "D",
+     "texto": "doença inflamatória pélvica."
+    },
+    {
+     "letra": "E",
+     "texto": "hidrossalpinge."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000007306",
+   "codigo": "4000007306",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo em Ginecologia",
+   "numero": 21,
+   "temas": [
+    "Perf uração uterina"
+   ],
+   "enunciado": "Paciente de 32 anos de idade submeteu-se à histeroscopia para polipectomia. Durante o procedimento, houve perfuração da parede do útero de 0,5 cm antes da retirada do pólipo. Nesse momento, deve-se:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "realizar laparotomia para sutura da lesão com fio de absorção tardia."
+    },
+    {
+     "letra": "B",
+     "texto": "realizar laparoscopia para cauterização elétrica do ponto de perfuração."
+    },
+    {
+     "letra": "C",
+     "texto": "interromper o procedimento e observar a estabilidade hemodinâmica na sala de recuperação."
+    },
+    {
+     "letra": "D",
+     "texto": "retirar o pólipo e observar a estabilidade da lesão na sala de recuperação pós- operatória."
+    },
+    {
+     "letra": "E",
+     "texto": "suturar a lesão por via histeroscópica e retirar o pólipo."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000036502",
+   "codigo": "4000036502",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo em Ginecologia",
+   "numero": 22,
+   "temas": [
+    "Torção anexial"
+   ],
+   "enunciado": "Ao realizar a laparoscopia para uma suspeita de torção ovariana, em jovem nulípara de 18 anos, o cirurgião vê que o pedículo ovariano vascular torceu-se mais uma vez e meia e que o ovário parece um tanto azulado. Qual dos seguintes é melhor manejo nesse ponto?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ooforectomia com excisão próxima ao ovário."
+    },
+    {
+     "letra": "B",
+     "texto": "Ooforectomia com excisão do pedículo vascular para prevenir a possível embolização da trombose."
+    },
+    {
+     "letra": "C",
+     "texto": "Distorcer o pedículo vascular para investigar a viabilidade do ovário."
+    },
+    {
+     "letra": "D",
+     "texto": "Salpingooforectomia bilateral."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000122466",
+   "codigo": "4000122466",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo em Ginecologia",
+   "numero": 23,
+   "temas": [
+    "Torção anexial"
+   ],
+   "enunciado": "Mulher de 29 anos, G2P2A0C0, com queixa de dor moderada em baixo ventre há três dias, com piora súbita há cinco horas. Exame físico: bom estado geral, afebril, descompressão brusca presente, mais acentuada em anco esquerdo. PA 120 x 80 mmHg. Exames laboratoriais: hemograma e urina tipo I normais e teste de gravidez negativo. Ultrassom transvaginal: imagem anecoica de 10 cm de diâmetro ocupando todo parênquima ovariano, com septação interna, sem fluxo ao doppler. O diagnóstico e conduta são, respectivamente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cisto de ovário torcido; laparotomia."
+    },
+    {
+     "letra": "B",
+     "texto": "Abscesso tubovariano; antibioticoterapia."
+    },
+    {
+     "letra": "C",
+     "texto": "Cisto de ovário torcido; anti-inflamatório e observação."
+    },
+    {
+     "letra": "D",
+     "texto": "Abscesso tubovariano; laparotomia."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000050690",
+   "codigo": "4000050690",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Abdome Agudo em Ginecologia",
+   "numero": 24,
+   "temas": [
+    "Causas"
+   ],
+   "enunciado": "M. G., 24 anos, nuligesta, está no oitavo dia do ciclo menstrual e a última menstruação encerrou-se há quatro dias. Foi atendida em um serviço de emergência com quadro de dor pélvica iniciada há 12 dias, com piora significativa há sete horas, principalmente em fossa ilíaca direita, associada à taquicardia, fraqueza e inapetência. Nega alterações urinárias ou intestinais. No exame físico apresentou temperatura axilar de 38,6°C, PA: 100/60 mmHg e pulso de 102 bpm, dor importante à palpação de andar inferior do abdome, com descompressão brusca positiva de fossa ilíaca direita. Ao toque vaginal bimanual sentiu-se aumento de calor local e massa anexial de quatro centímetros em fossa ilíaca direita. O diagnóstico mais provável é: Respostas: 1 12 23",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "gravidez ectópica."
+    },
+    {
+     "letra": "B",
+     "texto": "endometrioma ovariano direito."
+    },
+    {
+     "letra": "C",
+     "texto": "tumor maligno ovariano."
+    },
+    {
+     "letra": "D",
+     "texto": "hidrossalpinge."
+    },
+    {
+     "letra": "E",
+     "texto": "abcesso tubo-ovariano."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": []
+}

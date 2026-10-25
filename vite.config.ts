@@ -24,6 +24,27 @@ export default defineConfig({
               expiration: { maxEntries: 10, maxAgeSeconds: 60 * 60 * 24 * 365 },
             },
           },
+          // Banco de questões (public/questoes): NÃO entra no pré-cache do app.
+          // Cada matéria é guardada só depois de aberta; assim funciona offline
+          // sem baixar ~110 MB de uma vez.
+          {
+            urlPattern: ({ url }: { url: URL }) =>
+              url.pathname.startsWith('/questoes/') && url.pathname.endsWith('.json'),
+            handler: 'StaleWhileRevalidate',
+            options: {
+              cacheName: 'questoes-json',
+              expiration: { maxEntries: 40 },
+            },
+          },
+          {
+            urlPattern: ({ url }: { url: URL }) => url.pathname.startsWith('/questoes/img/'),
+            handler: 'CacheFirst',
+            options: {
+              cacheName: 'questoes-img',
+              expiration: { maxEntries: 3000 },
+              cacheableResponse: { statuses: [0, 200] },
+            },
+          },
         ],
         // Não redireciona navegação — roda como SPA puro offline
         navigateFallback: 'index.html',

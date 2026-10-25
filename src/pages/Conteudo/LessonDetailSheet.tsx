@@ -173,12 +173,12 @@ export const LessonDetailSheet: React.FC<LessonDetailSheetProps> = ({
               </span>
               {accuracy.isWeak && (
                 <span className="text-[11px] font-semibold px-2 py-0.5 rounded-full bg-rose-950/70 text-rose-300 border border-rose-800/60">
-                  ⚠️ Tema Fraco
+                  Tema fraco
                 </span>
               )}
               {isMastered && (
                 <span className="text-[11px] font-semibold px-2 py-0.5 rounded-full bg-amber-950/70 text-amber-300 border border-amber-800/60">
-                  🏆 Dominada
+                  Dominada
                 </span>
               )}
             </div>
@@ -255,8 +255,8 @@ export const LessonDetailSheet: React.FC<LessonDetailSheetProps> = ({
                 Revisão Espaçada
               </span>
               {isMastered && (
-                <span className="text-xs font-medium text-amber-400 flex items-center gap-1">
-                  <span>🏆</span> Dominada
+                <span className="text-xs font-medium text-amber-400">
+                  Dominada
                 </span>
               )}
             </div>
@@ -291,9 +291,6 @@ export const LessonDetailSheet: React.FC<LessonDetailSheetProps> = ({
             ) : (
               <div className="text-xs text-slate-400 bg-slate-900/40 p-2.5 rounded-lg border border-slate-800">
                 Nenhuma revisão ativa agendada.
-                <span className="block text-[11px] text-slate-500 mt-0.5">
-                  (O fluxo completo de agendamento pós-aula será iniciado na Fase 4).
-                </span>
               </div>
             )}
 

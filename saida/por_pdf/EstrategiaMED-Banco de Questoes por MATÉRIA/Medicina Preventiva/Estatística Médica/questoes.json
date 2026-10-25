@@ -1,0 +1,4016 @@
+{
+ "questoes": [
+  {
+   "id": "4000188287",
+   "codigo": "4000188287",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 1,
+   "temas": [
+    "valor p e intervalo de conf iança"
+   ],
+   "enunciado": "O que é intervalo de confiança?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "É uma forma de quantificar a incerteza ou a precisão do resultado de um estudo, principalmente do risco relativo apresentado por um valor denominado estimativa de ponto."
+    },
+    {
+     "letra": "B",
+     "texto": "É uma forma de qualificar as evidencias dos estudos e assim o médico pode tomar as melhores decisões para o paciente."
+    },
+    {
+     "letra": "C",
+     "texto": "É uma forma de dizer se o estudo não é replicável à populações exclusivas e assim nossos estudos devem ser realizados."
+    },
+    {
+     "letra": "D",
+     "texto": "É uma forma de dizer que a sensibilidade do teste realizado é baixa é por isso o resultado é um falso negativo."
+    },
+    {
+     "letra": "E",
+     "texto": "Todas as respostas estão erradas."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000187596",
+   "codigo": "4000187596",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 2,
+   "temas": [
+    "Análise estatística"
+   ],
+   "enunciado": "Qual das seguintes alternativas é a menos relacionada ao poder estatístico de um estudo com desfecho dicotômico?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Magnitude do efeito"
+    },
+    {
+     "letra": "B",
+     "texto": "Erro tipo I"
+    },
+    {
+     "letra": "C",
+     "texto": "Taxa de eventos de desfecho no grupo-controle"
+    },
+    {
+     "letra": "D",
+     "texto": "Erro tipo II"
+    },
+    {
+     "letra": "E",
+     "texto": "O teste estatístico utilizado"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000187594",
+   "codigo": "4000187594",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 3,
+   "temas": [
+    "Testes estatísticos"
+   ],
+   "enunciado": "Consiste em teste estatístico utilizado em pesquisa clínica para descrever o grau de uma associação",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "r de Pearson - entre duas variáveis"
+    },
+    {
+     "letra": "B",
+     "texto": "Coeficiente de regressão - entre dois desfechos"
+    },
+    {
+     "letra": "C",
+     "texto": "Regressão logística - entre duas ou mais medidas"
+    },
+    {
+     "letra": "D",
+     "texto": "U de Mann Whitney"
+    },
+    {
+     "letra": "E",
+     "texto": "Nenhuma das anteriores"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000187593",
+   "codigo": "4000187593",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 4,
+   "temas": [
+    "Testes estatísticos"
+   ],
+   "enunciado": "Consiste em teste estatístico utilizado em pesquisa clínica para modelar os efeitos de variáveis múltiplas",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Azares proporcionais de Cox"
+    },
+    {
+     "letra": "B",
+     "texto": "Qui-quadrado"
+    },
+    {
+     "letra": "C",
+     "texto": "Exato de Fisher"
+    },
+    {
+     "letra": "D",
+     "texto": "Teste F"
+    },
+    {
+     "letra": "E",
+     "texto": "Teste K"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000186671",
+   "codigo": "4000186671",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 5,
+   "temas": [
+    "Medidas de Tendência Central e de Dispersão"
+   ],
+   "enunciado": "A análise descritiva de dados em bioestatística, além da construção de tabelas e gráficos, consistem também no cálculo de medidas que são úteis na produção da visão global dos dados. Medidas de tendência central resumem o conjunto de dados em um único número. São medidas de tendência central, EXCETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Moda."
+    },
+    {
+     "letra": "B",
+     "texto": "Média."
+    },
+    {
+     "letra": "C",
+     "texto": "Amplitude."
+    },
+    {
+     "letra": "D",
+     "texto": "Mediana."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000184603",
+   "codigo": "4000184603",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 6,
+   "temas": [
+    "Mensuração de variáveis"
+   ],
+   "enunciado": "Analise as variáveis de um estudo epidemiológico sobre diabetes mellitus a seguir: I - Ordinal: grau de instrução. II - Nominal: tipo sanguíneo e cor da pele. III - Contínua: número de pessoas portadoras de diabetes encaminhadas para avaliação oftalmológica. IV - Discreta. Valor da última hemoglobina glicada e IMC. Estão CORRETAS as afirmativas:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I, II e III apenas."
+    },
+    {
+     "letra": "B",
+     "texto": "III e IV apenas."
+    },
+    {
+     "letra": "C",
+     "texto": "I e II apenas."
+    },
+    {
+     "letra": "D",
+     "texto": "I, II, III e IV."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000184559",
+   "codigo": "4000184559",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 7,
+   "temas": [
+    "Variável discreta",
+    "Variável ordinal",
+    "Variável contínua"
+   ],
+   "enunciado": "Analise as seguintes variáveis de um estudo epidemiológico e seus exemplos. I. Ordinal: grau de instrução II. Nominal: cor da pele III. Contínua: IMC IV. Discreta: número de pessoas encaminhadas para a atenção secundária Apresentam uma correta correlação de variáveis e exemplos:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I e II, apenas."
+    },
+    {
+     "letra": "B",
+     "texto": "III e IV, apenas."
+    },
+    {
+     "letra": "C",
+     "texto": "I, II e III, apenas."
+    },
+    {
+     "letra": "D",
+     "texto": "I, II, III e IV."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000183171",
+   "codigo": "4000183171",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 8,
+   "temas": [
+    "Medicina Preventiva"
+   ],
+   "enunciado": "No Brasil, a tomada de decisão para o enfrentamento da pandemia de Covid-19 é um desa o devido sua grande extensão territorial, heterogeneidade demográ ca, social e econômica. Estudar a relação entre indicadores de saúde, demográficos, sociais, econômicos e a mortalidade por Covid-19 é de extrema importância neste contexto. Qual teste estatístico deve ser utilizado para verificar se a mortalidade por Covid-19 está relacionada com o número de leitos de UTI, Índice de Gini (numericamente, varia entre 0 e 1), Índice de Desenvolvimento Humano (numericamente, varia entre 0 e 1) e taxa de analfabetismo?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Teste T de Student para duas populações independentes."
+    },
+    {
+     "letra": "B",
+     "texto": "Teste de Correlação de Pearson."
+    },
+    {
+     "letra": "C",
+     "texto": "Teste Qui-quadrado de Independência."
+    },
+    {
+     "letra": "D",
+     "texto": "Teste de McNemar."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000181785",
+   "codigo": "4000181785",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 9,
+   "temas": [
+    "Estimativa e Parâmetro"
+   ],
+   "enunciado": "Avaliar se existe associação entre duas características quantitativas é objetivo de muitos estudos nas ciências da saúde. Um médico deseja avaliar se a pressão arterial está correlacionada à idade das pessoas. Para isso, ele deve utilizar",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a correlação linear simples."
+    },
+    {
+     "letra": "B",
+     "texto": "o teste Qui-Quadrado."
+    },
+    {
+     "letra": "C",
+     "texto": "a correlação curva de Chiari."
+    },
+    {
+     "letra": "D",
+     "texto": "o teste exato de Fisher."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000190969",
+   "codigo": "4000190969",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 10,
+   "temas": [
+    "Amostragem"
+   ],
+   "enunciado": "Uma amostra para um estudo de incidência de erros medicamentosos foi obtida por meio do registro de cada décimo paciente internado em um hospital. Que tipo de amostra é essa?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Amostra estratificada."
+    },
+    {
+     "letra": "B",
+     "texto": "Amostra de probabilidade."
+    },
+    {
+     "letra": "C",
+     "texto": "Amostra de conveniência."
+    },
+    {
+     "letra": "D",
+     "texto": "Amostra aleatória."
+    },
+    {
+     "letra": "E",
+     "texto": "Superamostra."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000190964",
+   "codigo": "4000190964",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 11,
+   "temas": [
+    "Variável dicotômica",
+    "Tipos de variáveis"
+   ],
+   "enunciado": "Escolha a alternativa com o termo mais apropriado para o tipo de dado: Câncer recorrente/não recorrente 5 anos após o tratamento inicial.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Intervalar - contínuo."
+    },
+    {
+     "letra": "B",
+     "texto": "Dicotômico."
+    },
+    {
+     "letra": "C",
+     "texto": "Nominal."
+    },
+    {
+     "letra": "D",
+     "texto": "Ordinal."
+    },
+    {
+     "letra": "E",
+     "texto": "Intervalar-discreto."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000189691",
+   "codigo": "4000189691",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 12,
+   "temas": [
+    "Variável nominal"
+   ],
+   "enunciado": "Em um estudo epidemiológico, é CORRETO afirmar que a variável “tipo sanguíneo” é considerada:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Nominal."
+    },
+    {
+     "letra": "B",
+     "texto": "Contínua."
+    },
+    {
+     "letra": "C",
+     "texto": "Ordinal."
+    },
+    {
+     "letra": "D",
+     "texto": "Discreta."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000175812",
+   "codigo": "4000175812",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 13,
+   "temas": [
+    "Mediana",
+    "Média",
+    "Moda"
+   ],
+   "enunciado": "O que é média, moda e mediana",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A mediana de um conjunto de dados é encontrada somando-se todos os números do conjunto de dados e então dividindo o resultado pelo número de valores do conjunto. A moda é o valor do meio quando o conjunto de dados está ordenado do menor para o maior. A média é o número que aparece mais vezes em um conjunto de dados."
+    },
+    {
+     "letra": "B",
+     "texto": "Nenhuma das respostas abaixo"
+    },
+    {
+     "letra": "C",
+     "texto": "A moda de um conjunto de dados é encontrada somando-se todos os números do conjunto de dados e então dividindo o resultado pelo número de valores do conjunto. A média é o valor do meio quando o conjunto de dados está ordenado do menor para o maior. A mediana é o número que aparece mais vezes em um conjunto de dados."
+    },
+    {
+     "letra": "D",
+     "texto": "Todas as opções"
+    },
+    {
+     "letra": "E",
+     "texto": "A média de um conjunto de dados é encontrada somando-se todos os números do conjunto de dados e então dividindo o resultado pelo número de valores do conjunto. A mediana é o valor do meio quando o conjunto de dados está ordenado do menor para o maior. A moda é o número que aparece mais vezes em um conjunto de dados"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000175572",
+   "codigo": "4000175572",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 14,
+   "temas": [
+    "Moda"
+   ],
+   "enunciado": "Considerando as medidas de tendência central estudadas na bioestatística, um médico gestor deseja descobrir qual é o salário mais comum, isto é, qual é o salário recebido pelo maior número de médicos do hospital. Neste caso, ele deverá usar a",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "variância."
+    },
+    {
+     "letra": "B",
+     "texto": "média."
+    },
+    {
+     "letra": "C",
+     "texto": "mediana."
+    },
+    {
+     "letra": "D",
+     "texto": "moda."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000175301",
+   "codigo": "4000175301",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 15,
+   "temas": [
+    "Variável dependente x Variável independente"
+   ],
+   "enunciado": "Realizou-se um estudo epidemiológico com usuários de Centros de Atenção Psicossocial (CAPS) em um município do Rio Grande do Sul - Brasil, no ano de 2019. Os participantes do estudo foram submetidos à aplicação de um formulário pré- estruturado composto por perguntas acerca de dados sociodemográ cos, utilização dos serviços de saúde, condições de saúde e participação em atividades (variáveis independentes) e melhora percebida pelos usuários de CAPS a partir de sua inserção nesse serviço (variável dependente). A coleta de dados ocorreu no próprio CAPS durante uma única visita ao local. A definição de variável independente está relacionada:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Apenas aos fatores de proteção."
+    },
+    {
+     "letra": "B",
+     "texto": "Apenas aos fatores de risco."
+    },
+    {
+     "letra": "C",
+     "texto": "Ao desfecho."
+    },
+    {
+     "letra": "D",
+     "texto": "À exposição."
+    },
+    {
+     "letra": "E",
+     "texto": "À variável resposta. ida oib pr ed"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000166858",
+   "codigo": "4000166858",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 16,
+   "temas": [
+    "Mediana",
+    "Média",
+    "Moda"
+   ],
+   "enunciado": "Na bioestatística, com relação à Distribuição Normal,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "sua origem está associada à atuação de John Snow, considerado o pai da epidemiologia moderna."
+    },
+    {
+     "letra": "B",
+     "texto": "a área total sob a curva e acima do eixo horizontal é igual a zero."
+    },
+    {
+     "letra": "C",
+     "texto": "a média é igual à mediana que é igual à moda."
+    },
+    {
+     "letra": "D",
+     "texto": "distribuições normais com o mesmo desvio-padrão e diferentes médias possuem a mesma localização, mas diferem quanto à forma."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000166618",
+   "codigo": "4000166618",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 17,
+   "temas": [
+    "Medidas de Tendência Central e de Dispersão"
+   ],
+   "enunciado": "Sete homens foram pesados, e os resultados, em kg, foram: 57.0, 62.9, 63.5, 64.1, 66.1, 67.1, 73.6. A respeito das medidas dispersão e de tendência central, analise as afirmativas a seguir. I. A média é igual a 64.9 kg. II. A mediana é igual a 64,1 kg. III. A variância é igual a 16.6 kg. IV. O desvio-padrão é igual a 5.02 kg. Estão corretas as afirmativas",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I e III, apenas."
+    },
+    {
+     "letra": "B",
+     "texto": "II e IV, apenas."
+    },
+    {
+     "letra": "C",
+     "texto": "I, II e IV, apenas."
+    },
+    {
+     "letra": "D",
+     "texto": "I, II, III e IV."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000166388",
+   "codigo": "4000166388",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 18,
+   "temas": [
+    "Outros tipos de gráf icos",
+    "Representação Gráf ica das Variáveis"
+   ],
+   "enunciado": "Em um estudo ecológico, é possível que um coe ciente de correlação seja apresentado. A esse respeito, analise o gráfico a seguir que foi exibido em um estudo desse tipo: De acordo com os dados, é possível concluir que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Não há correlação."
+    },
+    {
+     "letra": "B",
+     "texto": "A correlação é próxima de -1."
+    },
+    {
+     "letra": "C",
+     "texto": "A correlação é próxima de 1."
+    },
+    {
+     "letra": "D",
+     "texto": "A correlação é próxima de 0."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000166275",
+   "codigo": "4000166275",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 19,
+   "temas": [
+    "valor p e intervalo de conf iança"
+   ],
+   "enunciado": "Em um estudo sobre amamentação e inteligência, de acordo com a escolha da mãe, 165 crianças que eram muito pequenas ao nascer receberam leite materno, enquanto 145 receberam fórmula infantil. Na idade de 8 anos, o quociente de inteligência (QI) dessas crianças foi medido. O QI médio do grupo fórmula infantil foi de 92,8, enquanto o do grupo leite materno foi de 103,0. Por meio de um teste de comparação de médias, veri cou-se diferença significante entre essas duas médias (p < 0,001). Com base nessas informações, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Se o tipo de leite ofertado não estiver relacionado ao QI subsequente, a probabilidade de se obter uma diferença no QI médio igual ou maior que a observada é menor do que 0,001."
+    },
+    {
+     "letra": "B",
+     "texto": "Há evidências causais de que a alimentação com fórmula para bebês muito pequenos reduz o QI aos 8 anos."
+    },
+    {
+     "letra": "C",
+     "texto": "O tipo de leite ofertado à criança não tem relação com o QI subsequente."
+    },
+    {
+     "letra": "D",
+     "texto": "A probabilidade de que o tipo de leite ofertado afete o QI subsequente é inferior a 0,001."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000166274",
+   "codigo": "4000166274",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 20,
+   "temas": [
+    "Testes estatísticos"
+   ],
+   "enunciado": "O volume máximo de oxigênio inalado (VO₂ max) é usado como medida do condicionamento físico. Cem homens saudáveis participaram de uma pesquisa que objetivava verificar se o VO₂ max, em mililitros por quilograma de peso por minuto,diminui quando se aumenta o tempo, em minutos, de realização de atividade física. Qual teste estatístico poderia ser utilizado para verificar se o VO₂ max está relacionado com o tempo de atividade física?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Teste de correlação de Pearson."
+    },
+    {
+     "letra": "B",
+     "texto": "Teste qui-quadrado de independência."
+    },
+    {
+     "letra": "C",
+     "texto": "Teste T para duas amostras dependentes."
+    },
+    {
+     "letra": "D",
+     "texto": "Análise de variância (ANOVA)."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000173689",
+   "codigo": "4000173689",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 21,
+   "temas": [
+    "Medidas de dispersão"
+   ],
+   "enunciado": "Um fator que in uencia a definição de normalidade é a curtose. Dentre as abaixo, marque aquela que não é uma classificação possível quanto à curtose.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Mesocúrtica"
+    },
+    {
+     "letra": "B",
+     "texto": "Platicúrtica"
+    },
+    {
+     "letra": "C",
+     "texto": "Leptocúrtica"
+    },
+    {
+     "letra": "D",
+     "texto": "Epicúrtica"
+    },
+    {
+     "letra": "E",
+     "texto": "Nenhuma das anteriores"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000172199",
+   "codigo": "4000172199",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 22,
+   "temas": [
+    "valor p e intervalo de conf iança",
+    "Desviopadrão"
+   ],
+   "enunciado": "A respeito do planejamento de estudos na área da saúde, metodologia da pesquisa epidemiológica e medidas de ocorrência das doenças, avalie as afirmativas a seguir. I. Quanto mais estreito for o intervalo de con ança, maior a probabilidade de a média amostral estar próxima da média populacional. II. Desvio-padrão = raiz quadrada da média do quadrado dos desvios. III. Em um determinado local onde o Indicador de Swaroop Uemura é alto, pode-se a rmar que provavelmente o coeficiente de mortalidade infantil desse local deve ser alto. Estão corretas as afirmativas",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "III apenas"
+    },
+    {
+     "letra": "B",
+     "texto": "II e III, apenas."
+    },
+    {
+     "letra": "C",
+     "texto": "I e II, apenas."
+    },
+    {
+     "letra": "D",
+     "texto": "I e III, apenas."
+    },
+    {
+     "letra": "E",
+     "texto": "I, II e III."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000170273",
+   "codigo": "4000170273",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 23,
+   "temas": [
+    "Conf iabilidade e Reprodutibilidade"
+   ],
+   "enunciado": "Na epidemiologia clínica, um conceito usado por médicos para descrever a extensão em que medidas de um fenômeno relativamente estável situam-se próximas uma da outra é denominada",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "validade de critério."
+    },
+    {
+     "letra": "B",
+     "texto": "variabilidade biológica."
+    },
+    {
+     "letra": "C",
+     "texto": "variabilidade simples."
+    },
+    {
+     "letra": "D",
+     "texto": "validade de conteúdo."
+    },
+    {
+     "letra": "E",
+     "texto": "confiabilidade."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000170272",
+   "codigo": "4000170272",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 24,
+   "temas": [
+    "Natureza das variáveis",
+    "Variável contínua",
+    "Tipos de variáveis"
+   ],
+   "enunciado": "O peso, a idade e a altura de um indivíduo são, correta e respectivamente, exemplos de variáveis",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "contínua, discreta e discreta."
+    },
+    {
+     "letra": "B",
+     "texto": "contínua, discreta e contínua"
+    },
+    {
+     "letra": "C",
+     "texto": "contínua, contínua e contínua."
+    },
+    {
+     "letra": "D",
+     "texto": "discreta, discreta e discreta."
+    },
+    {
+     "letra": "E",
+     "texto": "discreta, contínua e contínua."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000147435",
+   "codigo": "4000147435",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 25,
+   "temas": [
+    "Desviopadrão"
+   ],
+   "enunciado": "Um grande estudo realizado no Brasil demonstrou que os níveis séricos de vitamina D apresentam distribuição normal na população brasileira, com média e variância iguais a 67,65 nmol/L e 9 nmol2/L2, respectivamente. Sabendo que o estudo teve uma amostra representativa, pode-se a rmar que 95% dos brasileiros apresentam valores de vitamina D que variam entre:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "64,65 a 70,65 nmol/L."
+    },
+    {
+     "letra": "B",
+     "texto": "50,01 a 85,29 nmol/L."
+    },
+    {
+     "letra": "C",
+     "texto": "58,65 a 76,65 nmol/L."
+    },
+    {
+     "letra": "D",
+     "texto": "61,77 a 73,53 nmol/L."
+    },
+    {
+     "letra": "E",
+     "texto": "59,92 a 75,38 nmol/L."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000146136",
+   "codigo": "4000146136",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 26,
+   "temas": [
+    "Desviopadrão"
+   ],
+   "enunciado": "Ao realizar o upload dos glicosímetros para análise dos gráficos ou diários de glicemias, é possível obter duas outras ferramentas para o controle glicêmico: o desviopadrão da média das glicemias e o tempo no alvo. O desvio-padrão avalia a variabilidade glicêmica, que, idealmente, deve ser inferior a 50 mg/dL ou de, no máximo, 1/3 da média das glicemias. Está correto que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Quanto menor o desvio-padrão, mais instável é a glicemia, muitas vezes produzindo HbA1c próxima dos valores ideais, às custas de muita hipoglicemia."
+    },
+    {
+     "letra": "B",
+     "texto": "Quanto maior o desvio-padrão, mais estável é a glicemia, muitas vezes produzindo HbA1c próxima dos valores ideais, às custas de muita hipoglicemia."
+    },
+    {
+     "letra": "C",
+     "texto": "Quanto maior o desvio-padrão, mais instável é a glicemia, muitas vezes produzindo HbA1c próxima dos valores ideais, às custas de muita hipoglicemia."
+    },
+    {
+     "letra": "D",
+     "texto": "Quanto maior o desvio-padrão, mais instável é a glicemia, muitas vezes produzindo HbA1c próxima dos valores ideais, às custas de raras hipoglicemias."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000145300",
+   "codigo": "4000145300",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 27,
+   "temas": [
+    "Medicina Preventiva",
+    "Epidemiologia",
+    "Princípios de Estatística Bioestatística ou Estatística Médica"
+   ],
+   "enunciado": "As variáveis qualitativas também podem ser subdivididas em quais tipos de variáveis?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Variáveis contínuas e variáveis nominais."
+    },
+    {
+     "letra": "B",
+     "texto": "Variáveis discretas e variáveis contínuas."
+    },
+    {
+     "letra": "C",
+     "texto": "Variáveis nominais e variáveis discretas."
+    },
+    {
+     "letra": "D",
+     "texto": "Variáveis nominais e variáveis ordinais."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000145299",
+   "codigo": "4000145299",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 28,
+   "temas": [
+    "Medicina Preventiva",
+    "Epidemiologia",
+    "Medidas de dispersão"
+   ],
+   "enunciado": "Os pacientes João e Gustavo passaram por um processo de emagrecimento durante 3 meses. Após os 3 meses, o paciente que tivesse maior perda de peso seria contemplado com a cirurgia bariátrica. Em caso de empate, seria levada em consideração a maior regularidade na perda de peso durante os 3 meses. O quadro a seguir apresenta a perda de peso mensal dos dois pacientes durante os 3 meses, com a média, a mediana e o desvio padrão para cada paciente. Qual paciente foi contemplado com a cirurgia bariátrica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Gustavo pois obteve menor variação na perda de peso uma vez que sua mediana foi menor comparado a mediana de João."
+    },
+    {
+     "letra": "B",
+     "texto": "João, pois obteve resultados de média e mediana iguais, mostrando maior regularidade na perda de peso."
+    },
+    {
+     "letra": "C",
+     "texto": "Gustavo, pois obteve maior perda de peso no primeiro mês comparado a João."
+    },
+    {
+     "letra": "D",
+     "texto": "João, porque obteve menor desvio padrão."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q028-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000145298",
+   "codigo": "4000145298",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 29,
+   "temas": [
+    "Medicina Preventiva",
+    "Epidemiologia",
+    "Medidas de dispersão"
+   ],
+   "enunciado": "Um hospital realizou um estudo com o intuito de descobrir a média, o desvio padrão e o coe ciente de dispersão da altura de seus funcionários. Chegou-se à conclusão que: média = 180cm; desvio padrão = 8cm. Qual o coe ciente de dispersão encontrado?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "10%."
+    },
+    {
+     "letra": "B",
+     "texto": "8%."
+    },
+    {
+     "letra": "C",
+     "texto": "4,4%."
+    },
+    {
+     "letra": "D",
+     "texto": "1,4%."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000145038",
+   "codigo": "4000145038",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 30,
+   "temas": [
+    "Medidas de Tendência Central e de Dispersão"
+   ],
+   "enunciado": "Em trabalho prospectivo, visando estudar a potassemia (em mEq/L) de pessoas com e sem nefropatia, foram selecionados dois grupos de nove indivíduos. Nos controles, já em ordem crescente, os resultados obtidos foram 3,8 - 4, 1 - 4,3 - 4,3 - 4,3 - 4,5 - 4,5 - 4,8 - 5,0, a partir dos quais foram definidas a média, a mediana e a moda. Comparando-se os valores destas três expressões de tendência central, conclui-se que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a média e a moda são iguais"
+    },
+    {
+     "letra": "B",
+     "texto": "a moda e a mediana são iguais"
+    },
+    {
+     "letra": "C",
+     "texto": "a mediana e a média são iguais"
+    },
+    {
+     "letra": "D",
+     "texto": "os três parâmetros diferem entre eles"
+    },
+    {
+     "letra": "E",
+     "texto": "Os três parâmetros são iguais."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000144729",
+   "codigo": "4000144729",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 31,
+   "temas": [
+    "Medicina Preventiva",
+    "Teste T"
+   ],
+   "enunciado": "Trinta jovens do sexo masculino, sadios, participaram de uma pesquisa cujo objetivo era verificar se a alcalose respiratória, induzida por hiperventilação voluntária, aumenta a capacidade física avaliada pelo tempo de corrida de 800 metros. Nesse estudo, os trinta indivíduos participaram da corrida de 800 metros em dois momentos: um deles em condições normais (sem hiperventilação) e outro após a hiperventilação. Que teste estatístico poderia ser utilizado para verificar se a hiperventilação aumenta a capacidade física?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Teste Qui-quadrado de Pearson."
+    },
+    {
+     "letra": "B",
+     "texto": "Teste t de student pareado."
+    },
+    {
+     "letra": "C",
+     "texto": "Teste t de student para amostras independentes."
+    },
+    {
+     "letra": "D",
+     "texto": "Teste de Kolmogorov-Smirnoff."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000144721",
+   "codigo": "4000144721",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 32,
+   "temas": [
+    "Teste quiquadrado",
+    "Medicina Preventiva"
+   ],
+   "enunciado": "Que teste estatístico poderia ser utilizado em um estudo que objetivasse verificar a associação entre faixa etária e óbito (sim ou não) pela COVID-19?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Teste t de student para amostras independentes."
+    },
+    {
+     "letra": "B",
+     "texto": "Qui-quadrado de Pearson."
+    },
+    {
+     "letra": "C",
+     "texto": "Teste t de student pareado."
+    },
+    {
+     "letra": "D",
+     "texto": "Correlação de Pearson."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000144093",
+   "codigo": "4000144093",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 33,
+   "temas": [
+    "valor p e intervalo de conf iança"
+   ],
+   "enunciado": "O que é intervalo de confiança?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "É o p-valor e demonstra que o estudo não tem validade."
+    },
+    {
+     "letra": "B",
+     "texto": "Demonstra que o estudo não tem validade externa."
+    },
+    {
+     "letra": "C",
+     "texto": "É uma forma de quantificar a incerteza (ou a precisão) do resultado de um estudo."
+    },
+    {
+     "letra": "D",
+     "texto": "Um número que demonstra viés de memória."
+    },
+    {
+     "letra": "E",
+     "texto": "Nenhuma das respostas acima."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000144010",
+   "codigo": "4000144010",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 34,
+   "temas": [
+    "Teste quiquadrado",
+    "Medicina Preventiva"
+   ],
+   "enunciado": "O teste estatístico que correlaciona duas variáveis categóricas é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Qui-quadrado."
+    },
+    {
+     "letra": "B",
+     "texto": "T de student."
+    },
+    {
+     "letra": "C",
+     "texto": "Correlação."
+    },
+    {
+     "letra": "D",
+     "texto": "Regressão."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000143725",
+   "codigo": "4000143725",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 35,
+   "temas": [
+    "valor p e intervalo de conf iança"
+   ],
+   "enunciado": "O Intervalo de confiança 95% é definido por:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "intervalo que indica o tamanho ou importância de um efeito observado."
+    },
+    {
+     "letra": "B",
+     "texto": "intervalo em se distribui 5% dos valores obtidos de um parâmetro na amostra estudada."
+    },
+    {
+     "letra": "C",
+     "texto": "intervalo em que há 95% de probabilidade de um dado resultado ter sido obtido de um \"acaso\"."
+    },
+    {
+     "letra": "D",
+     "texto": "intervalo em que é permitido verificar com 95% de certeza a comparação entre médias de duas populações."
+    },
+    {
+     "letra": "E",
+     "texto": "intervalo em que a média de um parâmetro de uma amostra estudada tem uma probabilidade de 95% de acontecer."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000143532",
+   "codigo": "4000143532",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 36,
+   "temas": [
+    "Erro alf a ou tipo 1"
+   ],
+   "enunciado": "Em um ensaio clínico hipotético, o medicamento de cor vermelha mostrou-se e caz em relação ao medicamento de cor azul (p < 0,05). Entretanto, ao iniciarem a submissão do estudo a uma revista cientí ca, os pesquisadores perceberam que cometeram um erro. Após refazerem os cálculos, eles verificaram que a hipótese nula é verdadeira. Que tipo de erro é esse?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Erro tipo II."
+    },
+    {
+     "letra": "B",
+     "texto": "Erro beta."
+    },
+    {
+     "letra": "C",
+     "texto": "Viés de memória."
+    },
+    {
+     "letra": "D",
+     "texto": "Viés de confusão."
+    },
+    {
+     "letra": "E",
+     "texto": "Erro alfa."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000143258",
+   "codigo": "4000143258",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 37,
+   "temas": [
+    "Medicina Preventiva",
+    "Epidemiologia",
+    "Princípios de Estatística Bioestatística ou Estatística Médica"
+   ],
+   "enunciado": "Na abordagem comunitária, em geral, não é necessário estudar a população inteira para que sejam obtidas informações úteis sobre ela. Há vários métodos para selecionar uma amostra. Em um estudo que, por meio de uma lista de indivíduos, seleciona-se o primeiro indivíduo de forma aleatória e os demais por meio de um intervalo de seleção preestabelecido, o tipo de amostragem probabilística utilizado é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "em múltiplos estágios"
+    },
+    {
+     "letra": "B",
+     "texto": "aleatória estratificada"
+    },
+    {
+     "letra": "C",
+     "texto": "aleatória simples"
+    },
+    {
+     "letra": "D",
+     "texto": "sistemática"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000143029",
+   "codigo": "4000143029",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 38,
+   "temas": [
+    "Erro alf a ou tipo 1"
+   ],
+   "enunciado": "Um pesquisador estuda o efeito do medicamento A sobre a glicemia. O intervalo de con ança de 95% da alteração média da glicemia dos pacientes que recebem placebo é de - 20mgldL ( +/- 7mgldL). A alteração média na glicemia dos pacientes recebendo o medicamento A é de 13mg/dL. O valor de P para comparação de placebo versus medicamento A é de <0,05. No entanto, sabemos que na realidade, o medicamento A não afeta a glicemia mais do que o placebo. Que tipo de erro estatístico ocorreu?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tipo I"
+    },
+    {
+     "letra": "B",
+     "texto": "Tipoll"
+    },
+    {
+     "letra": "C",
+     "texto": "Viés de seleção"
+    },
+    {
+     "letra": "D",
+     "texto": "Viés de medição"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000142583",
+   "codigo": "4000142583",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 39,
+   "temas": [
+    "Erro alf a ou tipo 1"
+   ],
+   "enunciado": "Ao se considerar o problema de comparação entre dois tratamentos, é usual xar como hipótese de interesse a inexistência de diferença entre os dois tratamentos comparados. Como frequentemente a comparação é feita entre um tratamento padrão e um tratamento novo, esta opção implica colocar o ônus da prova de efetividade no tratamento novo. Por essas razões, a hipótese a ser testada é usualmente chamada hipótese nula (H0), que deve ser comparada com uma hipótese alternativa, denominada H1. Em termos técnicos, a decisão de rejeitar H0, quando de fato H0 é verdadeira, é chamada de erro do tipo",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I."
+    },
+    {
+     "letra": "B",
+     "texto": "II."
+    },
+    {
+     "letra": "C",
+     "texto": "III."
+    },
+    {
+     "letra": "D",
+     "texto": "IV."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000142582",
+   "codigo": "4000142582",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 40,
+   "temas": [
+    "Estimativa e Parâmetro"
+   ],
+   "enunciado": "Em uma análise descritiva, as variáveis categóricas são mais apropriadamente representadas pela seguinte representação gráfica:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "diagrama de barras."
+    },
+    {
+     "letra": "B",
+     "texto": "histograma."
+    },
+    {
+     "letra": "C",
+     "texto": "polígono de frequências."
+    },
+    {
+     "letra": "D",
+     "texto": "ogiva."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000141867",
+   "codigo": "4000141867",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 41,
+   "temas": [
+    "Amostragem"
+   ],
+   "enunciado": "Sobre amostragem, assinale a alternativa CORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A amostra do tipo por “conglomerados” é um exemplo de amostra probabilística."
+    },
+    {
+     "letra": "B",
+     "texto": "Amostra probabilística é aquela em que cada elemento da população tem uma probabilidade não conhecida de ser incluída na amostra."
+    },
+    {
+     "letra": "C",
+     "texto": "O sorteio é um dos mecanismos mais frágeis para a obtenção de amostras probabilísticas."
+    },
+    {
+     "letra": "D",
+     "texto": "A amostra estratificada por definição não é probabilística."
+    },
+    {
+     "letra": "E",
+     "texto": "A técnica de amostragem por cotas é probabilística."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000138704",
+   "codigo": "4000138704",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 42,
+   "temas": [
+    "Natureza das variáveis",
+    "Medicina Preventiva",
+    "Variável discreta"
+   ],
+   "enunciado": "O número de filhos, o peso e a idade de um indivíduo são, respectivamente, exemplos de.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "variável contínua, variável discreta e variável discreta."
+    },
+    {
+     "letra": "B",
+     "texto": "variável contínua, variável contínua e variável contínua."
+    },
+    {
+     "letra": "C",
+     "texto": "variável discreta, variável contínua e variável discreta."
+    },
+    {
+     "letra": "D",
+     "texto": "variável discreta, variável contínua e variável contínua."
+    },
+    {
+     "letra": "E",
+     "texto": "variável discreta, variável discreta e variável contínua."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000132891",
+   "codigo": "4000132891",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 43,
+   "temas": [
+    "Mediana"
+   ],
+   "enunciado": "Considere que sete homens foram pesados e os resultados, em kg, foram: 62,9; 64,1; 66,1; 57,6; 62,9;67,1 e 73,6. A massa mediana deles, em kg, é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "62,9."
+    },
+    {
+     "letra": "B",
+     "texto": "64,1."
+    },
+    {
+     "letra": "C",
+     "texto": "57,1."
+    },
+    {
+     "letra": "D",
+     "texto": "64,9."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000132881",
+   "codigo": "4000132881",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 44,
+   "temas": [
+    "Natureza das variáveis",
+    "Medicina Preventiva",
+    "Tipos de variáveis"
+   ],
+   "enunciado": "Em um estudo para diagnóstico situacional da área de abrangência, a variável “pacientes diabéticos” é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Nominal."
+    },
+    {
+     "letra": "B",
+     "texto": "Contínua."
+    },
+    {
+     "letra": "C",
+     "texto": "Ordinal."
+    },
+    {
+     "letra": "D",
+     "texto": "Discreta."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000131312",
+   "codigo": "4000131312",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 45,
+   "temas": [
+    "Medicina Preventiva",
+    "Tipos de variáveis"
+   ],
+   "enunciado": "Os dados obtidos dos participantes de estudos médicos podem ser analisados e interpretados com o auxílio de métodos estatísticos. Nesse sentido, a organização e síntese de dados é importante. É um exemplo de variável categórica nominal:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "estadiamento de uma doença."
+    },
+    {
+     "letra": "B",
+     "texto": "sexo."
+    },
+    {
+     "letra": "C",
+     "texto": "número de indivíduos que compõe a família."
+    },
+    {
+     "letra": "D",
+     "texto": "valor da pressão arterial sistêmica."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000131041",
+   "codigo": "4000131041",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 46,
+   "temas": [
+    "Erro alf a ou tipo 1"
+   ],
+   "enunciado": "Um estudo realizado no ano de 2020 concluiu que o uso de determinada droga reduzia a evolução para formas graves de COVID-19 em 90%. Contudo, outros trabalhos confirmaram que a evolução para formas graves ocorria de forma espontânea, independente do uso do medicamento. Qual tipo de erro que pode ser atribuído a este estudo?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Viés de aferição"
+    },
+    {
+     "letra": "B",
+     "texto": "Efeito Hawthorne"
+    },
+    {
+     "letra": "C",
+     "texto": "Erro alfa ou tipo |"
+    },
+    {
+     "letra": "D",
+     "texto": "Viés de publicação"
+    },
+    {
+     "letra": "E",
+     "texto": "Erro beta ou tipo I"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000129964",
+   "codigo": "4000129964",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 47,
+   "temas": [
+    "Desviopadrão",
+    "Amplitude",
+    "Variância"
+   ],
+   "enunciado": "Na análise descritiva de dados, são medidas de variabilidade,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Moda."
+    },
+    {
+     "letra": "B",
+     "texto": "Amplitude."
+    },
+    {
+     "letra": "C",
+     "texto": "Desvio padrão."
+    },
+    {
+     "letra": "D",
+     "texto": "Variância."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000129815",
+   "codigo": "4000129815",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 48,
+   "temas": [
+    "Tipos de variáveis"
+   ],
+   "enunciado": "A classificação de variáveis em categóricas ou numéricas é importante para:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Escolher os melhores recursos para análise de sua distribuição e selecionar os testes estatísticos que serão empregados no estudo."
+    },
+    {
+     "letra": "B",
+     "texto": "Distinguir aquelas que têm distribuição normal daquelas que seguem o padrão de Moivre."
+    },
+    {
+     "letra": "C",
+     "texto": "Entender os valores de probabilidade, os quais indicarão, com maior chance, qual o valor típico de um conjunto de dados."
+    },
+    {
+     "letra": "D",
+     "texto": "Interpretar corretamente a taxa de falsos negativos e falsos positivos de um estudo de validação diagnóstica."
+    },
+    {
+     "letra": "E",
+     "texto": "Identificar valores extremos, que não devem ser considerados na avaliação de um conjunto de pacientes e seus parâmetros clínicos."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000129791",
+   "codigo": "4000129791",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 49,
+   "temas": [
+    "Medicina Preventiva",
+    "Análise estatística"
+   ],
+   "enunciado": "O intervalo de confiança é um recurso muito utilizado em bioestatística para:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Estabelecer a precisão de uma medida estimada no contexto de uma amostra."
+    },
+    {
+     "letra": "B",
+     "texto": "Excluir a possibilidade de viés de seleção nos estudos clínico-epidemiológicos."
+    },
+    {
+     "letra": "C",
+     "texto": "Favorecer a replicação de estudos que tenham refutado a hipótese nula."
+    },
+    {
+     "letra": "D",
+     "texto": "Indicar se os dados foram obtidos por meio de amostragem probabilística."
+    },
+    {
+     "letra": "E",
+     "texto": "Avaliar a concordância entre dois métodos de diagnóstico."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000129789",
+   "codigo": "4000129789",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 50,
+   "temas": [
+    "Medicina Preventiva",
+    "Epidemiologia",
+    "Princípios de Estatística Bioestatística ou Estatística Médica"
+   ],
+   "enunciado": "As propriedades da distribuição normal ou curva de Gauss têm sido amplamente utilizadas na prática dos pro ssionais de saúde, pois:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Servem para estabelecer critérios diagnósticos, baseados na noção de exatidão, ao invés do conceito de precisão estatística."
+    },
+    {
+     "letra": "B",
+     "texto": "Permitem predizer o resultado de intervenções clínicas, especialmente no caso de dados com curtose próxima a zero e coeficiente de assimetria ao redor de três."
+    },
+    {
+     "letra": "C",
+     "texto": "Se aplicam a um conjunto importante de variáveis antropométricas, demográficas e clínicas, incluindo parâmetros serológicos."
+    },
+    {
+     "letra": "D",
+     "texto": "Possibilitam identificar pacientes em situações extremas, cujos valores de algum parâmetro clínico situam-se entre –1 e +1 desvio-padrão da média."
+    },
+    {
+     "letra": "E",
+     "texto": "Fornecem informações valiosas sobre como se comportam quaisquer características dos pacientes acompanhados em algum serviço de saúde."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000129624",
+   "codigo": "4000129624",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 51,
+   "temas": [
+    "Mediana"
+   ],
+   "enunciado": "Um tipo de gráfico útil para a descrição de dados, visualização de sua variabilidade e comparação entre diferentes grupos é o gráfico em caixas (boxplot). Para se construir um boxplot, obtêm-se primeiro algumas estatísticas. Entre elas, a mediana, que corresponde",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "ao primeiro quartil (Q1)."
+    },
+    {
+     "letra": "B",
+     "texto": "ao segundo quartil (Q2)."
+    },
+    {
+     "letra": "C",
+     "texto": "ao terceiro quartil (Q3)."
+    },
+    {
+     "letra": "D",
+     "texto": "à distância interquartílica (DQ)."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000129623",
+   "codigo": "4000129623",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 52,
+   "temas": [
+    "Medicina Preventiva",
+    "Tipos de variáveis"
+   ],
+   "enunciado": "Em uma análise descritiva, o estado civil de participantes de um estudo é um tipo de variável",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "quantitativa discreta."
+    },
+    {
+     "letra": "B",
+     "texto": "quantitativa contínua."
+    },
+    {
+     "letra": "C",
+     "texto": "categórica ordinal."
+    },
+    {
+     "letra": "D",
+     "texto": "categórica nominal."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000123506",
+   "codigo": "4000123506",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 53,
+   "temas": [
+    "Medidas de dispersão"
+   ],
+   "enunciado": "Os intervalos interquartílicos são medidas",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "de tendência central utilizadas para descrever variáveis com distribuição assimétrica."
+    },
+    {
+     "letra": "B",
+     "texto": "de tendência central utilizadas para descrever variáveis com distribuição simétrica."
+    },
+    {
+     "letra": "C",
+     "texto": "de tendência central utilizadas para descrever exclusivamente variáveis com distribuição normal."
+    },
+    {
+     "letra": "D",
+     "texto": "de dispersão utilizadas para descrever variáveis com distribuição assimétrica."
+    },
+    {
+     "letra": "E",
+     "texto": "de dispersão utilizadas para descrever exclusivamente variáveis com distribuição simétrica."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000096517",
+   "codigo": "4000096517",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 54,
+   "temas": [
+    "Testes estatísticos"
+   ],
+   "enunciado": "Um estudo constata que, em adultos, à medida que o consumo de carne vermelha aumenta, o mesmo ocorre com a incidência de câncer colo-retal. O que melhor descreve a relação entre consumo de carne vermelha e incidência de câncer colo-retal?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Correlação positiva"
+    },
+    {
+     "letra": "B",
+     "texto": "Interação variável"
+    },
+    {
+     "letra": "C",
+     "texto": "Correlação negativa"
+    },
+    {
+     "letra": "D",
+     "texto": "Variação concordante"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000096418",
+   "codigo": "4000096418",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 55,
+   "temas": [
+    "Testes estatísticos"
+   ],
+   "enunciado": "Observou-se que à medida que a cobertura vacinal da vacina anti-pneumocócica aumentou a incidência de otite média aguda diminuiu. Como a cobertura vacinal da vacina antipneumocócica e incidência de otite média aguda se relacionam?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Interação variável."
+    },
+    {
+     "letra": "B",
+     "texto": "Correlação negativa."
+    },
+    {
+     "letra": "C",
+     "texto": "Correlação positiva."
+    },
+    {
+     "letra": "D",
+     "texto": "Variação concordante."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000096317",
+   "codigo": "4000096317",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 56,
+   "temas": [
+    "Erro alf a ou tipo 1"
+   ],
+   "enunciado": "Um pesquisador estuda o efeito do medicamento A sobre a glicemia. O intervalo de con ança de 95% da alteração média da glicemia dos pacientes que recebem placebo é de - 20 mg/dl +/- 7 mg/dl. A alteração média na glicemia dos pacientes recebendo o medicamento A é de 13 mg/dl. O valor de P para a comparação de placebo versus medicamento A é < 0,05. No entanto, sabemos que na realidade, o medicamento A não afeta a glicemia mais do que o placebo. Que tipo de erro estatístico ocorreu?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tipo I."
+    },
+    {
+     "letra": "B",
+     "texto": "Tipo II."
+    },
+    {
+     "letra": "C",
+     "texto": "Viés de seleção."
+    },
+    {
+     "letra": "D",
+     "texto": "Viés de medição."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000095961",
+   "codigo": "4000095961",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 57,
+   "temas": [
+    "Moda"
+   ],
+   "enunciado": "Considere que o seguinte conjunto de dados representa os tempos de sobrevida(em anos) ao câncer de mama de uma determinada população: 2,4,3,1,5. Qual a moda dos tempos de sobrevida da população",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "0"
+    },
+    {
+     "letra": "B",
+     "texto": "2,5"
+    },
+    {
+     "letra": "C",
+     "texto": "3"
+    },
+    {
+     "letra": "D",
+     "texto": "Não há moda nessa questão"
+    },
+    {
+     "letra": "E",
+     "texto": "3,5"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000095941",
+   "codigo": "4000095941",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 58,
+   "temas": [
+    "Média"
+   ],
+   "enunciado": "Considere que o seguinte conjunto de dados representa os tempos de sobrevida(em anos) ao câncer de mama de uma determinada população: 2,4,3,1,5. Qual a média dos tempos de sobrevida da população",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "2"
+    },
+    {
+     "letra": "B",
+     "texto": "3"
+    },
+    {
+     "letra": "C",
+     "texto": "3,5"
+    },
+    {
+     "letra": "D",
+     "texto": "1,5"
+    },
+    {
+     "letra": "E",
+     "texto": "2,5"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000094317",
+   "codigo": "4000094317",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 59,
+   "temas": [
+    "Medidas de dispersão"
+   ],
+   "enunciado": "Sendo responsável por uma Área de Saúde da Família em que a renda familiar per capita mensal se distribua como mostram a figura e tabela abaixo. Nessa população, qual proporção de pessoas vive em famílias com renda familiar mensal per capita maior ou igual a R$ 350,00?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "2,5%"
+    },
+    {
+     "letra": "B",
+     "texto": "25%"
+    },
+    {
+     "letra": "C",
+     "texto": "75%"
+    },
+    {
+     "letra": "D",
+     "texto": "(Média + desvio-padrão)/100"
+    },
+    {
+     "letra": "E",
+     "texto": "É impossível saber com a informação disponível."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q059-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000094239",
+   "codigo": "4000094239",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 60,
+   "temas": [
+    "Desviopadrão"
+   ],
+   "enunciado": "Sendo responsável por uma Área de Saúde da Família cuja população tem um Índice de Massa Corporal (IMC) médio de 22 kg/h² , com desvio-padrão de 2 kg/h² , com distribuição nessa população de forma normal, isto é, seguindo a “curva de Gauss”. Qual a probabilidade de que uma pessoa qualquer dessa população tenha um IMC maior que 26 kg/h²?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "2,5%"
+    },
+    {
+     "letra": "B",
+     "texto": "5%"
+    },
+    {
+     "letra": "C",
+     "texto": "22%"
+    },
+    {
+     "letra": "D",
+     "texto": "25%"
+    },
+    {
+     "letra": "E",
+     "texto": "50%"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000094146",
+   "codigo": "4000094146",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 61,
+   "temas": [
+    "Testes estatísticos"
+   ],
+   "enunciado": "O tipo de variável e a forma de sua distribuição são características importantes para:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A definição do tamanho de amostra a ser empregado na pesquisa."
+    },
+    {
+     "letra": "B",
+     "texto": "A escolha do teste estatístico mais adequado no caso em estudo."
+    },
+    {
+     "letra": "C",
+     "texto": "Determinar a amplitude dos intervalos de confiança."
+    },
+    {
+     "letra": "D",
+     "texto": "Calcular a medida de efeito que liga a exposição ao desfecho de saúde."
+    },
+    {
+     "letra": "E",
+     "texto": "Estimar o valor preditivo positivo para um teste diagnóstico."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000094038",
+   "codigo": "4000094038",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 62,
+   "temas": [
+    "Princípios de Estatística Bioestatística ou Estatística Médica"
+   ],
+   "enunciado": "Assinale a alternativa que expressa a correta diferença entre os conceitos de “amostragem” e “amostra”.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Amostra envolve o sorteio de sujeitos para uma investigação, ao passo que amostragem reflete o quanto um conjunto de indivíduos representa uma população."
+    },
+    {
+     "letra": "B",
+     "texto": "Amostra e amostragem são termos que se referem à mesma ideia (total de participantes do estudo), podendo ser utilizados de modo intercambiável."
+    },
+    {
+     "letra": "C",
+     "texto": "A amostragem é a triagem de indivíduos para um estudo de modo probabilístico e, por sua vez, amostra é a população de onde os indivíduos foram selecionados."
+    },
+    {
+     "letra": "D",
+     "texto": "Se, por um lado, amostragem implica incluir indivíduos num estudo de modo não probabilístico, por outro, amostra é sempre retirada aleatoriamente da população."
+    },
+    {
+     "letra": "E",
+     "texto": "Enquanto a amostragem corresponde à seleção de indivíduos para participar de um estudo, a amostra se refere aos participantes de uma pesquisa."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000086611",
+   "codigo": "4000086611",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 63,
+   "temas": [
+    "Mediana"
+   ],
+   "enunciado": "Medidas de tendência central são muito utilizadas e estudos epidemiológicos visam identi car um valor representativo em torno do qual se agrupam os valores observados em uma amostra. Nesse âmbito, a medida que não sofre interferência de valores extremos é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a média"
+    },
+    {
+     "letra": "B",
+     "texto": "a mediana"
+    },
+    {
+     "letra": "C",
+     "texto": "o desvio padrão"
+    },
+    {
+     "letra": "D",
+     "texto": "o coeficiente de variação"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000076246",
+   "codigo": "4000076246",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 64,
+   "temas": [
+    "Acurácia",
+    "Acurácia x Precisão"
+   ],
+   "enunciado": "Frequentemente nos referimos a um teste ou exame como padrão-ouro ou “gold standard”. Analise as afirmativas abaixo. I – Padrão-ouro representa a acurácia de um teste ou exame. II – Para doenças auto-limitadas os resultados de seguimento podem servir como padrão-ouro. III – Todas as condições clínicas possuem padrão-ouro para o diagnóstico. Assinale a alternativa CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Somente a afirmativa I está correta."
+    },
+    {
+     "letra": "B",
+     "texto": "Somente a afirmativa II está correta."
+    },
+    {
+     "letra": "C",
+     "texto": "Somente a alternativa III está correta."
+    },
+    {
+     "letra": "D",
+     "texto": "Somente as alternativas I e II estão corretas."
+    },
+    {
+     "letra": "E",
+     "texto": "Somente as alternativas I e III estão corretas."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000072899",
+   "codigo": "4000072899",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 65,
+   "temas": [
+    "Variável discreta"
+   ],
+   "enunciado": "Assinale a alternativa que contém uma variável discreta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Peso."
+    },
+    {
+     "letra": "B",
+     "texto": "Estatura."
+    },
+    {
+     "letra": "C",
+     "texto": "Anos de escolaridade."
+    },
+    {
+     "letra": "D",
+     "texto": "Glicemia."
+    },
+    {
+     "letra": "E",
+     "texto": "Pressão arterial sistólica."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000070970",
+   "codigo": "4000070970",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 66,
+   "temas": [
+    "valor p e intervalo de conf iança",
+    "Medicina Preventiva",
+    "Epidemiologia"
+   ],
+   "enunciado": "Em um estudo de coorte sobre diabetes como fator de risco para doença renal crônica, o risco relativo foi de 3,0; e o resultado foi estatisticamente significativo ao nível de p = 0,04. Em relação às informações apresentadas é correto a rmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "4% dos pacientes com doença renal crônica tinham diabetes."
+    },
+    {
+     "letra": "B",
+     "texto": "De todos os pacientes diabéticos, apenas 4% desenvolveram doença renal crônica."
+    },
+    {
+     "letra": "C",
+     "texto": "O histórico de diabetes era 4% mais frequente entre os pacientes com doença renal crônica do que entre os que não desenvolveram a doença."
+    },
+    {
+     "letra": "D",
+     "texto": "Existe a possibilidade de 4% de que a associação observada entre a diabetes e a doença renal crônica seja devida ao acaso."
+    },
+    {
+     "letra": "E",
+     "texto": "O desenvolvimento de doença renal crônica foi 4% maior entre os pacientes com diabetes do que entre os não diabéticos."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000064711",
+   "codigo": "4000064711",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 67,
+   "temas": [
+    "Mediana"
+   ],
+   "enunciado": "A medida menos afetada por valores extremos é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "amplitude."
+    },
+    {
+     "letra": "B",
+     "texto": "mediana."
+    },
+    {
+     "letra": "C",
+     "texto": "média."
+    },
+    {
+     "letra": "D",
+     "texto": "desvio médio."
+    },
+    {
+     "letra": "E",
+     "texto": "desvio padrão."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000054390",
+   "codigo": "4000054390",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 68,
+   "temas": [
+    "Mediana"
+   ],
+   "enunciado": "A medida MENOS AFETADA por valores extremos é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Percentil"
+    },
+    {
+     "letra": "B",
+     "texto": "Média"
+    },
+    {
+     "letra": "C",
+     "texto": "Mediana"
+    },
+    {
+     "letra": "D",
+     "texto": "Desvio padrão"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047543",
+   "codigo": "4000047543",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 69,
+   "temas": [
+    "Variável discreta",
+    "Variável contínua",
+    "Variável nominal"
+   ],
+   "enunciado": "O sexo, o número de doses de vacinas anteriormente aplicadas e o peso das crianças são, respectivamente, variáveis do tipo",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "nominal, discreta e contínua."
+    },
+    {
+     "letra": "B",
+     "texto": "ordinal, discreta e discreta."
+    },
+    {
+     "letra": "C",
+     "texto": "discreta, discreta e discreta."
+    },
+    {
+     "letra": "D",
+     "texto": "ordinal, contínua e discreta."
+    },
+    {
+     "letra": "E",
+     "texto": "nominal, contínua e contínua."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047536",
+   "codigo": "4000047536",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 70,
+   "temas": [
+    "Mediana",
+    "Média",
+    "Moda"
+   ],
+   "enunciado": "A secretaria municipal de saúde de uma cidade brasileira registrou, nos últimos sete meses, a seguinte quantidade de doses de vacinas aplicadas contra o sarampo: 1.100; 1.400, 1.900, 1.700; 1.800; 1.100 e 800 doses. Quais são os valores da média aritmética, da mediana e da moda das doses de vacinas aplicadas nos sete meses, respectivamente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Os valores das três medidas são coincidentes."
+    },
+    {
+     "letra": "B",
+     "texto": "1.400; 1.100; 1.100."
+    },
+    {
+     "letra": "C",
+     "texto": "1.400; 900; 1.900."
+    },
+    {
+     "letra": "D",
+     "texto": "1.400; 1.400; 1.100."
+    },
+    {
+     "letra": "E",
+     "texto": "Não é possível calcular uma das três medidas solicitadas."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000036585",
+   "codigo": "4000036585",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 71,
+   "temas": [
+    "valor p e intervalo de conf iança"
+   ],
+   "enunciado": "O uso de uma amostra para fazer inferências sobre a população é vital para a pesquisa epidemiológica. Considerando esse contexto, analise as seguintes afirmativas e a relação proposta entre elas. I. O intervalo de confiança mais estreito é melhor que um intervalo de confiança mais amplo, PORQUE II. quanto mais estreito for o intervalo de con ança, maior a probabilidade de a média amostral estar próxima da média populacional. A respeito dessas afirmativas, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I e II são verdadeiras, e a II é uma justificativa da I."
+    },
+    {
+     "letra": "B",
+     "texto": "I e II são verdadeiras, mas a II não é uma justificativa da I."
+    },
+    {
+     "letra": "C",
+     "texto": "A I é verdadeira, e a II é falsa."
+    },
+    {
+     "letra": "D",
+     "texto": "A I é falsa, e a II é verdadeira."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000036492",
+   "codigo": "4000036492",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 72,
+   "temas": [
+    "Mediana",
+    "Desviopadrão",
+    "Variância"
+   ],
+   "enunciado": "Na análise estatística de dados contínuos, é importante calcular as medidas de tendência central e as medidas de dispersão. A esse respeito, analise as seguintes associações. I. Variância: é a média do quadrado dos desvios. II. Desvio-padrão: é a raiz quadrada da variância. III. Mediana: indica o valor que aparece com maior frequência na amostra. Estão corretas as associações",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I, II e III."
+    },
+    {
+     "letra": "B",
+     "texto": "I e II, apenas."
+    },
+    {
+     "letra": "C",
+     "texto": "I e III, apenas."
+    },
+    {
+     "letra": "D",
+     "texto": "II e III, apenas."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000036487",
+   "codigo": "4000036487",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 73,
+   "temas": [
+    "Variável discreta"
+   ],
+   "enunciado": "Em um estudo para avaliação de um serviço de saúde, a variável “Número de pessoas na la de espera para cirurgia eletiva” é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "nominal."
+    },
+    {
+     "letra": "B",
+     "texto": "contínua."
+    },
+    {
+     "letra": "C",
+     "texto": "ordinal."
+    },
+    {
+     "letra": "D",
+     "texto": "discreta."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000030083",
+   "codigo": "4000030083",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 74,
+   "temas": [
+    "Quartis"
+   ],
+   "enunciado": "Na bioestatística, valores de x que dividem uma série ordenada de dados em quatro grupos, cada um reunindo 25% das observações, são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "as modas."
+    },
+    {
+     "letra": "B",
+     "texto": "as medianas."
+    },
+    {
+     "letra": "C",
+     "texto": "os quartis."
+    },
+    {
+     "letra": "D",
+     "texto": "as somas dos postos."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000025935",
+   "codigo": "4000025935",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 75,
+   "temas": [
+    "Mediana"
+   ],
+   "enunciado": "Os valores seguintes se referem ao peso de recém-nascidos em quilogramas: 2,9; 4,0; 2,1; 2,8; 3,2; 3,0; 3,1; 3,2; 3,5; 3,2. O resultado do cálculo da mediana desses valores é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "3,0."
+    },
+    {
+     "letra": "B",
+     "texto": "3,10."
+    },
+    {
+     "letra": "C",
+     "texto": "3,15."
+    },
+    {
+     "letra": "D",
+     "texto": "3,20."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000024236",
+   "codigo": "4000024236",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 76,
+   "temas": [
+    "Erro alf a ou tipo 1"
+   ],
+   "enunciado": "Acerca dos conhecimentos de bioestatística, das políticas de saúde e dos conhecimentos médicos correlatos, julgue o item a seguir. O erro tipo 1, em um teste de hipóteses, consiste na rejeição da hipótese nula, quando ela é verdadeira.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000014464",
+   "codigo": "4000014464",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 77,
+   "temas": [
+    "Desviopadrão",
+    "Amplitude",
+    "Variância"
+   ],
+   "enunciado": "Os dados obtidos em qualquer estudo devem ser analisados e interpretados com o auxílio de métodos estatísticos. A primeira etapa desta tarefa é a organização e a síntese dos dados. São medidas de variabilidade, EXCETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Amplitude."
+    },
+    {
+     "letra": "B",
+     "texto": "Mediana."
+    },
+    {
+     "letra": "C",
+     "texto": "Variância."
+    },
+    {
+     "letra": "D",
+     "texto": "Desvio-padrão."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000012347",
+   "codigo": "4000012347",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 78,
+   "temas": [
+    "Variância"
+   ],
+   "enunciado": "Considere três grupos de pacientes. No grupo A existem 9 pacientes hipertensos e um não hipertenso; o grupo B contém 5 hipertensos e 5 não hipertensos e no grupo C existem 7 hipertensos e 3 não hipertensos. O que podemos a rmar sobre a variabilidade da hipertensão nos três grupos?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O grupo A varia mais do que o grupo B."
+    },
+    {
+     "letra": "B",
+     "texto": "O grupo B varia menos do que o grupo C."
+    },
+    {
+     "letra": "C",
+     "texto": "O grupo B varia mais do que os grupos A e C."
+    },
+    {
+     "letra": "D",
+     "texto": "O grupo A varia mais do que os grupos B e C."
+    },
+    {
+     "letra": "E",
+     "texto": "Os três grupos apresentam a mesma variabilidade."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000007811",
+   "codigo": "4000007811",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 79,
+   "temas": [
+    "Amostragem"
+   ],
+   "enunciado": "Em geral, não é necessário estudar a população inteira para se obter o diagnóstico de saúde da comunidade. Nesse sentido, quando se faz uma lista de todos os indivíduos elegíveis para o estudo e sorteiam-se os elementos que farão parte da amostra, assinale a alternativa CORRETA sobre qual o método de amostragem:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Amostragem aleatória estratificada."
+    },
+    {
+     "letra": "B",
+     "texto": "Amostragem em múltiplos estágios."
+    },
+    {
+     "letra": "C",
+     "texto": "Amostragem por conglomerados."
+    },
+    {
+     "letra": "D",
+     "texto": "Amostragem aleatória simples."
+    },
+    {
+     "letra": "E",
+     "texto": "Amostragem sistemática."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000001347",
+   "codigo": "4000001347",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 80,
+   "temas": [
+    "Moda"
+   ],
+   "enunciado": "Em uma avaliação de 100 estudantes universitários, foram encontrados os seguintes resultados: O valor modal do número de irmãos é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1"
+    },
+    {
+     "letra": "B",
+     "texto": "2"
+    },
+    {
+     "letra": "C",
+     "texto": "3"
+    },
+    {
+     "letra": "D",
+     "texto": "9"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q080-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000128200",
+   "codigo": "4000128200",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 81,
+   "temas": [
+    "Mediana",
+    "Teste quiquadrado",
+    "Desviopadrão"
+   ],
+   "enunciado": "Qual das estatísticas mencionadas a seguir é MENOS afetada pelos valores extremos?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Amplitude."
+    },
+    {
+     "letra": "B",
+     "texto": "Desvio-padrão."
+    },
+    {
+     "letra": "C",
+     "texto": "Mediana."
+    },
+    {
+     "letra": "D",
+     "texto": "Qui-quadrado."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000128199",
+   "codigo": "4000128199",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 82,
+   "temas": [
+    "Percentis"
+   ],
+   "enunciado": "1.000 médicos realizaram uma prova nacional para obtenção de título em uma especialidade médica. Um candidato foi informado que seu desempenho 68 (de 100 pontos) correspondeu ao percentil 75. Isto significa que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "25% dos estudantes tiraram 75 ou menos."
+    },
+    {
+     "letra": "B",
+     "texto": "250 candidatos tiraram 75 ou mais."
+    },
+    {
+     "letra": "C",
+     "texto": "250 estudantes tiraram 68 ou mais."
+    },
+    {
+     "letra": "D",
+     "texto": "75% dos candidatos tiraram 68 ou mais."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000113997",
+   "codigo": "4000113997",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 83,
+   "temas": [
+    "Princípios de Estatística Bioestatística ou Estatística Médica"
+   ],
+   "enunciado": "O método universalmente empregado para avaliar a capacidade de generalização de dados considerados internamente válidos para uma população maior é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a inferência estatística."
+    },
+    {
+     "letra": "B",
+     "texto": "a dedução lógica."
+    },
+    {
+     "letra": "C",
+     "texto": "a avaliação de aplicabilidade."
+    },
+    {
+     "letra": "D",
+     "texto": "o estudo de significância."
+    },
+    {
+     "letra": "E",
+     "texto": "o estudo de validade interna."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000113187",
+   "codigo": "4000113187",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 84,
+   "temas": [
+    "Medidas de dispersão"
+   ],
+   "enunciado": "São exemplos de medidas de dispersão ou de variabilidade para uma amostra:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "média aritmética, moda e amplitude."
+    },
+    {
+     "letra": "B",
+     "texto": "desvio padrão, moda e média aritmética."
+    },
+    {
+     "letra": "C",
+     "texto": "mediana, moda e variância."
+    },
+    {
+     "letra": "D",
+     "texto": "moda, amplitude e variância."
+    },
+    {
+     "letra": "E",
+     "texto": "amplitude, variância e desvio padrão."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000113175",
+   "codigo": "4000113175",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 85,
+   "temas": [
+    "Medidas de Tendência Central e de Dispersão"
+   ],
+   "enunciado": "São exemplos de medidas de tendência central:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "mediana, moda e desvio padrão."
+    },
+    {
+     "letra": "B",
+     "texto": "amplitude, variância e mediana."
+    },
+    {
+     "letra": "C",
+     "texto": "moda, variância e mediana."
+    },
+    {
+     "letra": "D",
+     "texto": "média aritmética, mediana e moda."
+    },
+    {
+     "letra": "E",
+     "texto": "amplitude, variância e desvio padrão."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000093321",
+   "codigo": "4000093321",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 86,
+   "temas": [
+    "Percentis"
+   ],
+   "enunciado": "Abaixo são apresentados valores percentis de Pressão Arterial Sistólica (PAS) média de uma amostra probabilística de adultos de Florianópolis. Qual o valor de PAS que separa os 10% da amostra que apresentam os mais altos valores?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "110."
+    },
+    {
+     "letra": "B",
+     "texto": "131."
+    },
+    {
+     "letra": "C",
+     "texto": "144."
+    },
+    {
+     "letra": "D",
+     "texto": "160."
+    },
+    {
+     "letra": "E",
+     "texto": "175."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q086-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000093298",
+   "codigo": "4000093298",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 87,
+   "temas": [
+    "Princípios de Estatística Bioestatística ou Estatística Médica"
+   ],
+   "enunciado": "A interpretação adequada dos resultados de pesquisas é extremamente importante para que os médicos possam escolher os melhores procedimentos diagnósticos, melhores tratamentos e se manterem cienti camente atualizados. Desta forma, interprete os gráficos de dispersão e os resultados das correlações apresentadas abaixo nas figuras A e B: Assinale a alternativa correta em relação ao caso.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O coeficiente de correlação no gráfico A, ao ser calculado, indicará valor positivo."
+    },
+    {
+     "letra": "B",
+     "texto": "Em ambos os casos existe baixa correlação entre as variáveis."
+    },
+    {
+     "letra": "C",
+     "texto": "No gráfico A, a relação entre as duas variáveis não se aproxima da linearidade."
+    },
+    {
+     "letra": "D",
+     "texto": "Ao ser calculado, o coeficiente de correlação dos dados do gráfico B provavelmente será próximo de zero."
+    },
+    {
+     "letra": "E",
+     "texto": "Nenhuma afirmação pode ser feita no gráfico B, pois existe grande dispersão dos pontos."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q087-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000090492",
+   "codigo": "4000090492",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 88,
+   "temas": [
+    "Desviopadrão"
+   ],
+   "enunciado": "Em uma população adulta, observou-se que a média de pressão arterial diastólica era de 100 mmHg e o desvio padrão de 5 mmHg. Considerando que os valores estão dispersos em uma distribuição normal, espera-se encontrar, aproximadamente,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "95% das observações entre 95 mmHg e 105 mmHg."
+    },
+    {
+     "letra": "B",
+     "texto": "95% das observações entre 100 mmHg e 105 mmHg."
+    },
+    {
+     "letra": "C",
+     "texto": "dois terços das observações entre 95 mmHg e 100 mmHg."
+    },
+    {
+     "letra": "D",
+     "texto": "dois terços das observações entre 95 mmHg e 105 mmHg."
+    },
+    {
+     "letra": "E",
+     "texto": "dois terços das observações entre 100 mmHg e 105 mmHg."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000090474",
+   "codigo": "4000090474",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 89,
+   "temas": [
+    "Percentis"
+   ],
+   "enunciado": "Em uma distribuição amostral, o valor P75 (percentil 75)",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "indica que 25% dos valores estão abaixo desse valor e 75% acima."
+    },
+    {
+     "letra": "B",
+     "texto": "indica que 25% dos valores estão acima desse valor e 75% abaixo."
+    },
+    {
+     "letra": "C",
+     "texto": "equivale ao quartil 1."
+    },
+    {
+     "letra": "D",
+     "texto": "corresponde a 75% da média."
+    },
+    {
+     "letra": "E",
+     "texto": "corresponde a 75% do desvio padrão."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000072421",
+   "codigo": "4000072421",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 90,
+   "temas": [
+    "Medicina Preventiva",
+    "Epidemiologia",
+    "Princípios de Estatística Bioestatística ou Estatística Médica"
+   ],
+   "enunciado": "Em um estudo com 9 adultos com obesidade mórbida, o peso em Kg observado foi:120, 122, 123, 125, 126, 128,128, 129 e 178. Qual a moda desta variável?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "131"
+    },
+    {
+     "letra": "B",
+     "texto": "128"
+    },
+    {
+     "letra": "C",
+     "texto": "127"
+    },
+    {
+     "letra": "D",
+     "texto": "126"
+    },
+    {
+     "letra": "E",
+     "texto": "109"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000072416",
+   "codigo": "4000072416",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 91,
+   "temas": [
+    "Medicina Preventiva",
+    "Epidemiologia",
+    "Princípios de Estatística Bioestatística ou Estatística Médica"
+   ],
+   "enunciado": "Na pesquisa clínica, qual a classificação da variável \"pressão arterial\"?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Categórica nominal"
+    },
+    {
+     "letra": "B",
+     "texto": "Categórica ordinal"
+    },
+    {
+     "letra": "C",
+     "texto": "Qualitativa discreta"
+    },
+    {
+     "letra": "D",
+     "texto": "Quantitativa discreta"
+    },
+    {
+     "letra": "E",
+     "texto": "Quantitativa contínua"
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000052730",
+   "codigo": "4000052730",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 92,
+   "temas": [
+    "Variável discreta",
+    "Variável contínua",
+    "Variável nominal"
+   ],
+   "enunciado": "As variáveis sexo, Índice de Massa Corporal (IMC em kg/m²) e número de filhos são, respectivamente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Qualitativa ordinal, quantitativa contínua e quantitativa discreta."
+    },
+    {
+     "letra": "B",
+     "texto": "Qualitativa nominal, quantitativa contínua e quantitativa discreta."
+    },
+    {
+     "letra": "C",
+     "texto": "Qualitativa nominal, quantitativa discreta e quantitativa discreta."
+    },
+    {
+     "letra": "D",
+     "texto": "Qualitativa nominal, quantitativa contínua e quantitativa intervalar."
+    },
+    {
+     "letra": "E",
+     "texto": "Qualitativa ordinal, quantitativa contínua e quantitativa intervalar."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000050616",
+   "codigo": "4000050616",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 93,
+   "temas": [
+    "Tipos de variáveis"
+   ],
+   "enunciado": "As variáveis idade da mãe, sexo e número de filhos tidos, respectivamente, são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "quantitativa discreta; qualitativa ordinal; quantitativa discreta."
+    },
+    {
+     "letra": "B",
+     "texto": "quantitativa contínua; qualitativa nominal; quantitativa discreta."
+    },
+    {
+     "letra": "C",
+     "texto": "quantitativa discreta; qualitativa nominal; quantitativa discreta."
+    },
+    {
+     "letra": "D",
+     "texto": "quantitativa contínua; qualitativa nominal; quantitativa contínua."
+    },
+    {
+     "letra": "E",
+     "texto": "quantitativa discreta; qualitativa nominal; quantitativa contínua."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000050520",
+   "codigo": "4000050520",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 94,
+   "temas": [
+    "Princípios de Estatística Bioestatística ou Estatística Médica"
+   ],
+   "enunciado": "Sobre a curva de distribuição normal (curva de Gauss), assinale a alternativa INCORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A curva é simétrica, unimodal e tem forma de sino."
+    },
+    {
+     "letra": "B",
+     "texto": "Numa distribuição aproximadamente normal a média, a mediana e a moda coincidem."
+    },
+    {
+     "letra": "C",
+     "texto": "Numa distribuição assimétrica, a mediana é mais representativa que a média."
+    },
+    {
+     "letra": "D",
+     "texto": "A área correspondente a dois desvios-padrões para ambos os lados da média corresponde a cerca de 95,5%."
+    },
+    {
+     "letra": "E",
+     "texto": "A duração da gravidez humana tem uma distribuição normal."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047973",
+   "codigo": "4000047973",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 95,
+   "temas": [
+    "Mediana",
+    "Média",
+    "Moda"
+   ],
+   "enunciado": "Para a apresentação e a síntese de variáveis quantitativas (por exemplo, idade, peso, glicemia), são utilizadas medidas de tendência central, das quais as mais utilizadas são a média aritmética, a mediana e a moda. Sobre essas medidas, é incorreto afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A média utiliza os dados observados na amostra estudada."
+    },
+    {
+     "letra": "B",
+     "texto": "A mediana é muito afetada por valores extremos ou discrepantes"
+    },
+    {
+     "letra": "C",
+     "texto": "A moda representa o valor mais frequentemente observado."
+    },
+    {
+     "letra": "D",
+     "texto": "Pode ser observada mais de 1 moda em uma amostra."
+    },
+    {
+     "letra": "E",
+     "texto": "As medidas de tendência central devem ser apresentadas juntamente com medidas de dispersão dos dados."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000025197",
+   "codigo": "4000025197",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 96,
+   "temas": [
+    "Mediana"
+   ],
+   "enunciado": "Para a amostra de dados de hematócrito: 45,43, 45, 46, 52, 50, 47, 44, 51, a mediana é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "44."
+    },
+    {
+     "letra": "B",
+     "texto": "45."
+    },
+    {
+     "letra": "C",
+     "texto": "46."
+    },
+    {
+     "letra": "D",
+     "texto": "47."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000020894",
+   "codigo": "4000020894",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 97,
+   "temas": [
+    "Acurácia x Precisão"
+   ],
+   "enunciado": "Precisão e acurácia são duas propriedades fundamentais das medidas em estudos epidemiológicos. Entre os conceitos relacionados a elas, é CORRETO afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Precisão é a capacidade de refletir a realidade da população e acurácia é a proximidade entre o valor medido e o real."
+    },
+    {
+     "letra": "B",
+     "texto": "Precisão é uma propriedade influenciada pelo método de seleção da amostra e acurácia é determinada pelo cálculo do seu tamanho."
+    },
+    {
+     "letra": "C",
+     "texto": "Precisão é a propriedade de impedir a ocorrência de erros aleatórios e acurácia é a propriedade de impedir erros sistemáticos."
+    },
+    {
+     "letra": "D",
+     "texto": "Precisão pode ser estimada pela crítica aos métodos e acurácia pela observação das estimativas por intervalo."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000005999",
+   "codigo": "4000005999",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 98,
+   "temas": [
+    "valor p e intervalo de conf iança"
+   ],
+   "enunciado": "Indivíduos com obesidade grau 3 (N = 252) foram randomizados para dois tipos de dietas: restrição de carboidratos ou restrição de gorduras. A análise estatística mostrou que os indivíduos que seguiram a dieta com restrição de carboidratos apresentaram perda média de peso de 5,8 kg (desvio padrão = 3,0 kg) enquanto aqueles submetidos à dieta com restrição de gorduras apresentaram perda média de peso de 3,5 kg (desvio padrão = 5,0 kg). Comparando- se a perda média de peso entre esses dois grupos obteve- se um valor de p = 0,003. Adotando- se um nível de signi cância de 5% ( esse valor de p apresentado significa que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Existe diferença estatisticamente significante entre os grupos, pois 99,7% dos indivíduos do grupo da dieta com restrição de carboidratos perderam mais peso do que os indivíduos que seguiram a dieta com restrição de gorduras."
+    },
+    {
+     "letra": "B",
+     "texto": "Existe diferença estatisticamente significante entre os grupos para a média de perda de peso e o poder associado ao teste estatístico é igual a 99,7%."
+    },
+    {
+     "letra": "C",
+     "texto": "Não existe diferença estatisticamente significante entre os grupos no que se refere à perda média de peso e o erro que se comete com esta afirmação é igual a 0,3%."
+    },
+    {
+     "letra": "D",
+     "texto": "Não existe diferença estatisticamente significante entre os grupos no que se refere à perda média de peso, pois a diferença média de peso entre os grupos é de apenas 0,3%."
+    },
+    {
+     "letra": "E",
+     "texto": "Existe diferença estatisticamente significante entre os grupos no que se refere à perda média de peso e o risco de errar ao se afirmar que os dois grupos diferem com relação à perda de peso é igual a 0,3%."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000005902",
+   "codigo": "4000005902",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 99,
+   "temas": [
+    "valor p e intervalo de conf iança"
+   ],
+   "enunciado": "Um pesquisador está interessado em estudar a associação entre hábito de fumar da mãe (sim/não) e o baixo peso ao nascer do bebê (sim/não). Ao revisar a literatura, encontrou quatro diferentes estudos com os seguintes intervalos de 95% de con ança para a medida de associação razão de chances (odds ratio): (I) 0,8 a 0,9; (II) 0,8 a 1,2; (III) 1,2 a 4,1; (IV) 0,5 a 20,5; Adotando-se um nível de signi cância de 5%, qual ou quais desses intervalos de con ança para a razão de chances indica (m) associação entre baixo peso ao nascer e hábito de fumar da mãe?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Somente (I)."
+    },
+    {
+     "letra": "B",
+     "texto": "(I) e (III)."
+    },
+    {
+     "letra": "C",
+     "texto": "Somente (II)."
+    },
+    {
+     "letra": "D",
+     "texto": "(II) e (IV)."
+    },
+    {
+     "letra": "E",
+     "texto": "(I), (III) e (IV)."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000125424",
+   "codigo": "4000125424",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 100,
+   "temas": [
+    "Mediana"
+   ],
+   "enunciado": "Assinale a alternativa que apresenta o valor de X no conjunto de valores 1; 4; X; 7; 5; 3; 1; 8; 9; 2; 7 para que a mediana seja 5.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "5"
+    },
+    {
+     "letra": "B",
+     "texto": "1"
+    },
+    {
+     "letra": "C",
+     "texto": "3"
+    },
+    {
+     "letra": "D",
+     "texto": "0"
+    },
+    {
+     "letra": "E",
+     "texto": "4"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000124518",
+   "codigo": "4000124518",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 101,
+   "temas": [
+    "Medicina Preventiva",
+    "Amostragem"
+   ],
+   "enunciado": "Ao calcular o tamanho amostral em um estudo de delineamento transversal, mesmo após extensa revisão de estudos desenvolvidos com populações similares, um pesquisador não encontrou dados acerca da proporção de indivíduos com o fenômeno de interesse. A fórmula utilizada, reproduzida abaixo, foi para populações consideradas infinitas. Assim, uma postura mais conservadora para maximizar a estimativa do tamanho amostral seria",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "10%."
+    },
+    {
+     "letra": "B",
+     "texto": "25%."
+    },
+    {
+     "letra": "C",
+     "texto": "50%."
+    },
+    {
+     "letra": "D",
+     "texto": "75%."
+    },
+    {
+     "letra": "E",
+     "texto": "100%."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q101-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000124517",
+   "codigo": "4000124517",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 102,
+   "temas": [
+    "Medicina Preventiva",
+    "Média"
+   ],
+   "enunciado": "Um pesquisador estava interessado em verificar se havia diferença estatisticamente significativa nos níveis de colesterol LDL entre homens e mulheres de uma amostra em um estudo transversal. Os níveis de colesterol foram considerados uma variável quantitativa contínua. O procedimento inicial mais adequado desse estudo para comparar as médias dos dois grupos deveria ser aplicar",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O teste t para amostras independentes."
+    },
+    {
+     "letra": "B",
+     "texto": "O teste t para amostras dependentes."
+    },
+    {
+     "letra": "C",
+     "texto": "o teste de Mann-Whitney"
+    },
+    {
+     "letra": "D",
+     "texto": "Um teste de qui-quadrado para a distribuição de valores de colesterol LDL em um grupo e, em seguida, no outro grupo."
+    },
+    {
+     "letra": "E",
+     "texto": "Um teste de normalidade para a distribuição de valores de colesterol LDL em um grupo e, em seguida, no outro grupo."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000121750",
+   "codigo": "4000121750",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 103,
+   "temas": [
+    "Medicina Preventiva",
+    "Variável contínua"
+   ],
+   "enunciado": "Assinale a alternativa que cita a intensidade de correlação entre as variáveis analisadas em um estudo de regressão linear.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Teste correlação de Mann-Whitney."
+    },
+    {
+     "letra": "B",
+     "texto": "Teste de Kruskal-Wallis."
+    },
+    {
+     "letra": "C",
+     "texto": "Regressão pelo método dos quadrados mínimos."
+    },
+    {
+     "letra": "D",
+     "texto": "Coeficiente de correlação de Pearson."
+    },
+    {
+     "letra": "E",
+     "texto": "Teste de Wilcoxon."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000083627",
+   "codigo": "4000083627",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 104,
+   "temas": [
+    "Mediana",
+    "Medicina Preventiva"
+   ],
+   "enunciado": "Analise as seguintes assertivas em relação à distribuição normal e seus elementos característicos e assinale V, se verdadeiras, ou F, se falsas. ( ) Tem um eixo de simetria; ( ) A média aritmética, a mediana e a moda coincidem no mesmo valor pelo qual passa o eixo de simetria; ( ) A distância entre o eixo de simetria e os pontos de inflexão da curva equivalem ao desvio-padrão; ( ) É assintótica ao eixo \"x\" (abscissas), isto é, seus extremos se aproximam cada vez mais do eixo horizontal, sem nunca tocá-lo. A ordem correta de preenchimento dos parênteses, de cima para baixo, é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "F - F - F - F."
+    },
+    {
+     "letra": "B",
+     "texto": "V - F - V - V."
+    },
+    {
+     "letra": "C",
+     "texto": "V - V - F - V."
+    },
+    {
+     "letra": "D",
+     "texto": "F - V - V - F."
+    },
+    {
+     "letra": "E",
+     "texto": "V - V - V - V."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000078126",
+   "codigo": "4000078126",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 105,
+   "temas": [
+    "valor p e intervalo de conf iança",
+    "Medicina Preventiva",
+    "Epidemiologia"
+   ],
+   "enunciado": "Numa publicação em revista médica brasileira conceituada, autores a rmam que o risco relativo de adquirir sí lis congênita sob determinadas condições de parto em uma capital estadual da região Sudeste foi de 0,97 (intervalo de con ança de 95% entre 0,92 e 1,18). Isto indica que, estatisticamente, o risco de sífilis congênita é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "18% maior."
+    },
+    {
+     "letra": "B",
+     "texto": "Igual."
+    },
+    {
+     "letra": "C",
+     "texto": "Menor"
+    },
+    {
+     "letra": "D",
+     "texto": "8% menor."
+    },
+    {
+     "letra": "E",
+     "texto": "Maior"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000078007",
+   "codigo": "4000078007",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 106,
+   "temas": [
+    "Análise multivariada",
+    "Análise multivariada"
+   ],
+   "enunciado": "Durante a análise descritiva de uma amostra, o método mais eficaz de abordagem de mais de uma variável é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Análise multivariada."
+    },
+    {
+     "letra": "B",
+     "texto": "Análise univariada."
+    },
+    {
+     "letra": "C",
+     "texto": "Padronização."
+    },
+    {
+     "letra": "D",
+     "texto": "Randomização"
+    },
+    {
+     "letra": "E",
+     "texto": "Teste qui-quadrado."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000071234",
+   "codigo": "4000071234",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 107,
+   "temas": [
+    "Medidas de Tendência Central e de Dispersão"
+   ],
+   "enunciado": "Calcule a moda, a média e a mediana das alturas dos seguintes alunos (valores em metros): A = 1,20; B = 1,21; C = 1,23; D = 1,25; E = 1,26; F = 1,28; G = 1,28; H = 1,29 e I = 1,80.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1,26; 1,28 e 1,31."
+    },
+    {
+     "letra": "B",
+     "texto": "1,28; 1,31 e 1,26."
+    },
+    {
+     "letra": "C",
+     "texto": "1,31; 1,26 e 1,28."
+    },
+    {
+     "letra": "D",
+     "texto": "1,26; 1,31 e 1,28."
+    },
+    {
+     "letra": "E",
+     "texto": "1,28; 1,26 e 1,31."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000053378",
+   "codigo": "4000053378",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 108,
+   "temas": [
+    "Medidas de dispersão"
+   ],
+   "enunciado": "Qual das alternativas abaixo apresenta apenas medidas de dispersão:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Moda, desvio padrão e variância"
+    },
+    {
+     "letra": "B",
+     "texto": "Amplitude, desvio padrão e variância"
+    },
+    {
+     "letra": "C",
+     "texto": "Mediana, desvio padrão e variância"
+    },
+    {
+     "letra": "D",
+     "texto": "Amplitude, moda e variância"
+    },
+    {
+     "letra": "E",
+     "texto": "Moda, amplitude e desvio padrão."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000044275",
+   "codigo": "4000044275",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 109,
+   "temas": [
+    "Desviopadrão"
+   ],
+   "enunciado": "Numa distribuição de dados semelhantes à Curva Normal, quantas observações se estimam encontrar, aproximadamente, entre ± 2 desvios-padrão?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "16,0%"
+    },
+    {
+     "letra": "B",
+     "texto": "34,0%"
+    },
+    {
+     "letra": "C",
+     "texto": "68,0%"
+    },
+    {
+     "letra": "D",
+     "texto": "95,0%"
+    },
+    {
+     "letra": "E",
+     "texto": "99,0%"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000038000",
+   "codigo": "4000038000",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 110,
+   "temas": [
+    "Medidas de dispersão"
+   ],
+   "enunciado": "As medidas de dispersão são utilizadas para resumir dados e têm por objetivo indicar quão diferentes são os indivíduos em uma amostra. A medida calculada pela fórmula s = (raiz quadrada de s²) é denominada:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "erro padrão da média."
+    },
+    {
+     "letra": "B",
+     "texto": "variância."
+    },
+    {
+     "letra": "C",
+     "texto": "desvio padrão."
+    },
+    {
+     "letra": "D",
+     "texto": "erro padrão."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000037827",
+   "codigo": "4000037827",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 111,
+   "temas": [
+    "Medidas de Tendência Central e de Dispersão"
+   ],
+   "enunciado": "Entre as medidas utilizadas para sintetizar dados, encontram-se aquelas de tendência central, que indicam o centro de uma distribuição, em geral, de uma amostra. A esse respeito, numere a COLUNA II de acordo com a COLUNA I, fazendo a relação das medidas a seus respectivos conceitos. COLUNA I: 1. Média; 2. Mediana; 3. Moda. COLUNA II: ( ) Indica o valor que aparece com maior frequência na amostra.; ( ) É o ponto central da distribuição, que é obtido após todas as observações serem colocadas em ordem crescente (ou decrescente), de acordo com o seu valor.; ( ) É a soma de todos os valores dividida pelo número de amostras. Assinale a sequência CORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1 2 3"
+    },
+    {
+     "letra": "B",
+     "texto": "3 2 1"
+    },
+    {
+     "letra": "C",
+     "texto": "2 3 1"
+    },
+    {
+     "letra": "D",
+     "texto": "2 1 3"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000007625",
+   "codigo": "4000007625",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 112,
+   "temas": [
+    "Medidas de Tendência Central e de Dispersão"
+   ],
+   "enunciado": "Assinale a alternativa que preenche corretamente os espaços em branco. O gráfico abaixo representa a distribuição de valores de colesterol sérico (mg/dl). Observa-se que é uma distribuição e . É mais provável que a média e a mediana dessa distribuição estejam, respectivamente, nos pontos e",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Assimétrica, unimodal, Z, Y."
+    },
+    {
+     "letra": "B",
+     "texto": "Simétrica, bimodal, X, Y."
+    },
+    {
+     "letra": "C",
+     "texto": "Assimétrica, unimodal, X, Y."
+    },
+    {
+     "letra": "D",
+     "texto": "Assimétrica, unimodal, Y, Z"
+    },
+    {
+     "letra": "E",
+     "texto": "Simétrica, bimodal, Z, Y."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q112-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000006599",
+   "codigo": "4000006599",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 113,
+   "temas": [
+    "Medidas de Tendência Central e de Dispersão"
+   ],
+   "enunciado": "Considere as quatro afirmações abaixo: I- A média aritmética é muito afetada por valores extremos; II- A mediana é pouco afetada por valores extremos; III- Pode haver nenhuma, uma, ou mais que uma moda; IV- O desvio-padrão é a raiz quadrada da variância. Pode-se dizer que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Apenas três são corretas."
+    },
+    {
+     "letra": "B",
+     "texto": "Apenas duas são corretas."
+    },
+    {
+     "letra": "C",
+     "texto": "Apenas uma é correta."
+    },
+    {
+     "letra": "D",
+     "texto": "As quatro são corretas."
+    },
+    {
+     "letra": "E",
+     "texto": "Nenhuma é correta."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000106327",
+   "codigo": "4000106327",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Estatística Médica",
+   "numero": 114,
+   "temas": [
+    "Teste quiquadrado",
+    "Medicina Preventiva"
+   ],
+   "enunciado": "O que é e para que serve teste de qui-quadrado? Respostas: 1 12 23 34 45 56 67 78 89 100 111",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "É um teste estatístico utilizado para diferenciar medianas."
+    },
+    {
+     "letra": "B",
+     "texto": "É um teste estatístico utilizado para diferenciar médias."
+    },
+    {
+     "letra": "C",
+     "texto": "É um teste estatístico utilizado para diferenciar proporções."
+    },
+    {
+     "letra": "D",
+     "texto": "É um teste paramétrico utilizado para diferenciar médias."
+    },
+    {
+     "letra": "E",
+     "texto": "É um teste paramétrico utilizado para diferenciar medianas."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": []
+}

@@ -1,0 +1,3499 @@
+{
+ "questoes": [
+  {
+   "id": "4000186647",
+   "codigo": "4000186647",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 1,
+   "temas": [
+    "Rítmo Cardíaco"
+   ],
+   "enunciado": "Lactente, 4 meses, é levado à emergência pediátrica pela mãe, que relata tê-lo encontrado desacordado, cianótico e não responsivo. Ao exame físico, evidencia-se ausência de pulso central. Imediatamente são iniciadas compressões torácicas, abertura de vias aéreas e ventilação. Ao constatar _______________, a conduta mais apropriada é _______________.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "taquicardia ventricular - aplicar adenosina de imediato."
+    },
+    {
+     "letra": "B",
+     "texto": "assistolia - concluir o ciclo de dois minutos e aplicar adrenalina."
+    },
+    {
+     "letra": "C",
+     "texto": "atividade elétrica sem pulso - aplicar adrenalina o mais rápido possível."
+    },
+    {
+     "letra": "D",
+     "texto": "fibrilação ventricular - aplicar adrenalina e, posteriormente, realizar desfibrilação."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000185953",
+   "codigo": "4000185953",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 2,
+   "temas": [
+    "Taquicardia Supraventricular TSV"
+   ],
+   "enunciado": "Pré-escolar, sexo feminino, 4 anos de idade, apresenta quadro de tosse e febre há 1 dia. Hoje mãe notou que ela estava mais prostrada e reclamando de dor torácica, então resolveu levá-la ao pronto atendimento. Na triagem, notado frequência cardíaca de 234 bpm, sendo encaminhada diretamente à sala de emergência. Na avaliação, apresenta pulso central presente e ritmo respiratório regular. Apresenta vias aéreas pérvias, frequência respiratória de 26 irpm, saturação de oxigênio de 96%. Oferecido oxigênio em máscara não-reinalante, com aumento da saturação para 100%. Obtido acesso venoso e instalada monitorização, com frequência cardíaca de 228 bpm, pressão arterial de 80 x 58 mmHg. Pulsos periféricos nos e rápidos, tempo de enchimento capilar de 2 segundos, glicemia capilar de 98 mg/dL. Aplicado gelo em face, sem mudança dos parâmetros. Realizado eletrocardiograma conforme imagem abaixo. Assinale a alternativa que contém a melhor opção para continuidade das condutas preconizadas:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Administrar adenosina endovenosa."
+    },
+    {
+     "letra": "B",
+     "texto": "Iniciar compressões torácicas."
+    },
+    {
+     "letra": "C",
+     "texto": "Realizar desfibrilação."
+    },
+    {
+     "letra": "D",
+     "texto": "Infundir soro fisiológico 20 mL/kg."
+    },
+    {
+     "letra": "E",
+     "texto": "Transferir para serviço cardiológico de referência."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q002-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000184783",
+   "codigo": "4000184783",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 3,
+   "temas": [
+    "Causas de PCR"
+   ],
+   "enunciado": "Menino, 4 anos, é admitido no Setor de Emergência em parada cardiorrespiratória. Iniciaram-se imediatamente as manobras de reanimação cardiopulmonar com massagem cardíaca externa, assistência ventilatória e acesso venoso. Pode-se a rmar, nesta situação, que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "em caso de bradicardia persistente, deve-se detectar e tratar os fatores predisponentes, como, por exemplo, hipoxemia, acidose, hipomagnesemia e hipoglicemia."
+    },
+    {
+     "letra": "B",
+     "texto": "as compressões torácicas devem ser de ao menos 1/3 do diâmetro anteroposterior do tórax, mínimo de 60 compressões/minuto, na proporção de 15 compressões para 2 ventilações."
+    },
+    {
+     "letra": "C",
+     "texto": "a parada cardíaca em crianças é mais frequentemente o resultado final de asfixia progressiva."
+    },
+    {
+     "letra": "D",
+     "texto": "assistolia e atividade elétrica sem pulso são os ritmos cardíacos chocáveis mais frequentes."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000184344",
+   "codigo": "4000184344",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 4,
+   "temas": [
+    "Corpo EstranhoEngasgo"
+   ],
+   "enunciado": "Menina, 10m, é trazida à Emergência por ter apresentado quadro súbito de acesso de tosse e cansaço. Nega febre e coriza. Exame físico: bom estado geral; T=36,5ºC; FR=62irmp; FC=110bpm; pulsos cheios; perfusão periférica=2 segundos; oximetria de pulso= 91% (ar ambiente); batimento de asa nasal; retração intercostal; pulmões: murmúrio vesicular presente, com roncos disseminados bilateralmente; coração: bulhas rítmicas normofonéticas sem sopros. DIAGNÓSTICA É:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Aspiração de corpo estranho."
+    },
+    {
+     "letra": "B",
+     "texto": "Bronquiolite viral aguda."
+    },
+    {
+     "letra": "C",
+     "texto": "Laringite aguda."
+    },
+    {
+     "letra": "D",
+     "texto": "Pneumotórax espontâneo."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000184343",
+   "codigo": "4000184343",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 5,
+   "temas": [
+    "Manejo da Via Aérea"
+   ],
+   "enunciado": "Na condução da parada cardiorrespiratória em assistolia com via aérea definitiva de um lactente de três meses, FREQUÊNCIA DE COMPRESSÕES TORÁCICAS E DE VENTILAÇÃO É, RESPECTIVAMENTE:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "100-120 compressões/min assíncronas e 1 ventilação a cada 2-3 segundos."
+    },
+    {
+     "letra": "B",
+     "texto": "100-110 compressões/min síncronas para cada ventilação."
+    },
+    {
+     "letra": "C",
+     "texto": "110-120 compressões/min assíncronas e 1 ventilação a cada 6 segundos."
+    },
+    {
+     "letra": "D",
+     "texto": "100-120 compressões/min síncronas para cada 4 ventilações."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000183708",
+   "codigo": "4000183708",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 7,
+   "temas": [
+    "Manobra do Desengasgo"
+   ],
+   "enunciado": "Emergências Pediátricas Parada Cardiorrespiratória PCR e Arritmias na Emergência Com relação à reanimação cardiorrespiratória (RCP) em pediatria, deve(m)-se",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "realizar rápida desfibrilação elétrica em paciente com atividade elétrica sem pulso."
+    },
+    {
+     "letra": "B",
+     "texto": "manter compressões torácicas a uma frequência de 80 a 100 batimentos por minuto."
+    },
+    {
+     "letra": "C",
+     "texto": "iniciar RCP no paciente com pulso < 60 bpm e sinais de hipoperfusão, que não responderam à ventilação com pressão positiva."
+    },
+    {
+     "letra": "D",
+     "texto": "iniciar 1 ventilação a cada 6 segundos no paciente com pulso e ventilação inadequada."
+    },
+    {
+     "letra": "E",
+     "texto": "iniciar manobra de Heimlich no paciente inconsciente com obstrução de via aérea superior."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000183638",
+   "codigo": "4000183638",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 8,
+   "temas": [
+    "Suporte Avançado de Vida"
+   ],
+   "enunciado": "Uma criança de 3 anos de idade, vitima de atropelamento, é levada ao PS, inconsciente. Dois médicos plantonistas iniciam o atendimento, garantindo as vias aéreas e realizando as compressões torácicas. As compressões torácicas recomendadas pela American Heart Association",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1/2 do diâmetro anteroposterior e deve-se manter relação compressão: ventilação de 30:2."
+    },
+    {
+     "letra": "B",
+     "texto": "1/2 do diâmetro anteroposterior e deve-se manter o ritmo 20 a 30 respirações/min."
+    },
+    {
+     "letra": "C",
+     "texto": "1/3 do diâmetro anteroposterior e deve-se manter relação compressão: ventilação de 30:2."
+    },
+    {
+     "letra": "D",
+     "texto": "1/3 do diâmetro anteroposterior e deve-se manter o ritmo de 30 a 40 respirações/min."
+    },
+    {
+     "letra": "E",
+     "texto": "1/3 do diâmetro anteroposterior e deve-se manter o ritmo de 20 a 30 respirações/min."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000183479",
+   "codigo": "4000183479",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 9,
+   "temas": [
+    "Rítmo Cardíaco",
+    "Terapia Farmacológica"
+   ],
+   "enunciado": "Uma pré-escolar de 4 anos, peso 15 kg, internada em enfermaria de cardiologia pediátrica, portadora de uma cardiopatia congênita, evoluiu com piora grave do desconforto respiratório. Pediatra de plantão, após avaliação clínica e análise de gasometria arterial, decide pela intubação orotraqueal e instalação de ventilação mecânica assistida. Na sequência, a menor evoluiu com parada cardiorrespiratória (PCR). Em relação à PCR, analise as assertivas abaixo: I. Caso o monitor demonstre assistolia, a dose de epinefrina endovenosa, na diluição 1:1000, deverá ser de 0,1 ml por quilo de peso da menor. II. Se o monitor evidenciar uma taquicardia ventricular e a menor estiver sem quaisquer pulsos palpáveis, está indicado, de imediato, o uso de epinefrina, na diluição 1:1000, na dose de 0,1 ml por quilo de peso da menor. III. Uma vez que o monitor demonstre que a menor está em brilação ventricular, deve-se realizar a cardioversão numa carga de 1,5 J/Kg de peso da menor. Podemos afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "todas estão corretas."
+    },
+    {
+     "letra": "B",
+     "texto": "todas estão incorretas."
+    },
+    {
+     "letra": "C",
+     "texto": "existe apenas uma correta."
+    },
+    {
+     "letra": "D",
+     "texto": "existe apenas uma incorreta."
+    },
+    {
+     "letra": "E",
+     "texto": "a II está correta."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000183246",
+   "codigo": "4000183246",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 10,
+   "temas": [
+    "Acesso Vascular"
+   ],
+   "enunciado": "Assinale a alternativa que apresenta um local preconizado para a passagem de um acesso intraósseo.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "cabeça do fêmur"
+    },
+    {
+     "letra": "B",
+     "texto": "fêmur proximal"
+    },
+    {
+     "letra": "C",
+     "texto": "maléolo lateral"
+    },
+    {
+     "letra": "D",
+     "texto": "esterno"
+    },
+    {
+     "letra": "E",
+     "texto": "fíbula"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000183245",
+   "codigo": "4000183245",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 11,
+   "temas": [
+    "Emergências Pediátricas Parada Cardiorrespiratória PCR e Arritmias na Emergência",
+    "Pediatria"
+   ],
+   "enunciado": "Um paciente de oito meses de idade, previamente hígido, está internado devido a um quadro de bronquiolite. No leito, observou-se que o paciente estava arresponsivo e foi chamada ajuda. Identi cou-se que o paciente apresentava pulso central com frequência cardíaca de 40 bpm. Nesse caso clínico, a conduta inicial mais adequada é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "iniciar, imediatamente, ressuscitação cardiopulmonar."
+    },
+    {
+     "letra": "B",
+     "texto": "administrar, imediatamente, adrenalina endovenosa."
+    },
+    {
+     "letra": "C",
+     "texto": "fazer passagem de marcapasso transcutâneo."
+    },
+    {
+     "letra": "D",
+     "texto": "administrar, imediatamente, atropina endovenosa."
+    },
+    {
+     "letra": "E",
+     "texto": "iniciar ventilação com bolsa-válvula-máscara."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000182983",
+   "codigo": "4000182983",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 12,
+   "temas": [
+    "Pediatria",
+    "Arritmias"
+   ],
+   "enunciado": "Menino de 1 ano, assintomático é encaminhado para avaliação cardiológica devido a alteração detectada na ausculta cardíaca. Eletrocardiograma (imagem). O paciente apresenta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "arritmia sinusal."
+    },
+    {
+     "letra": "B",
+     "texto": "ritmo sinusal alternando com ritmo atrial ectópico."
+    },
+    {
+     "letra": "C",
+     "texto": "extrassístoles supraventriculares."
+    },
+    {
+     "letra": "D",
+     "texto": "extrassístoles ventriculares."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q012-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000182623",
+   "codigo": "4000182623",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 13,
+   "temas": [
+    "Emergências Pediátricas"
+   ],
+   "enunciado": "Emergências Pediátricas Parada Cardiorrespiratória PCR e Arritmias na Emergência Menino, 4 anos de idade, foi resgatado pelo pai da piscina de casa, segundo a família, com menos de 3 minutos de submersão. Recebeu compressões cardíacas e respiração boca a boca com retorno da consciência. Chega ao Pronto Socorro com Glasgow 14, FC = 140 bpm, FR = 30 mrm e Sat O₂ = 89%. Foi ofertado oxigênio em máscara com reservatório, chegando a Sat O₂ = 92%. O restante do exame está sem alterações, sem sinais de comprometimento neurológico. A conduta a ser realizada a seguir é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "intubação orotraqueal em sequência rápida."
+    },
+    {
+     "letra": "B",
+     "texto": "sedação e punção de acesso venoso central."
+    },
+    {
+     "letra": "C",
+     "texto": "realização de tomografia de tórax e administração de antibiótico."
+    },
+    {
+     "letra": "D",
+     "texto": "monitoração cardíaca e correção da hipovolemia."
+    },
+    {
+     "letra": "E",
+     "texto": "aquecimento até temperatura corporal de 37 ºC em leito de UTI."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000181291",
+   "codigo": "4000181291",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 14,
+   "temas": [
+    "Pediatria",
+    "Suporte Avançado de Vida"
+   ],
+   "enunciado": "Segundo as diretrizes mais recentes sobre a alta qualidade da reanimação, durante uma reanimação cardiopulmonar de uma criança de 6 anos, em uma enfermaria de pediatria, após a obtenção de uma via aérea avançada (intubação), qual deve ser a relação de compressões e ventilações com o dispositivo bolsa-valva-cânula, quando existem dois reanimadores?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "15 compressões e depois 2 ventilações."
+    },
+    {
+     "letra": "B",
+     "texto": "15 compressões e depois 1 ventilação."
+    },
+    {
+     "letra": "C",
+     "texto": "30 compressões e depois 2 ventilações."
+    },
+    {
+     "letra": "D",
+     "texto": "30 compressões e depois 1 ventilação."
+    },
+    {
+     "letra": "E",
+     "texto": "Compressões (100 a 120/min) e ventilações (1 cada 2-3 seg), independentes e sem interrupções."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000191015",
+   "codigo": "4000191015",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 15,
+   "temas": [
+    "Taquicardia Supraventricular TSV",
+    "Arritmias"
+   ],
+   "enunciado": "Lactente, 5 meses, é atendido em pronto-socorro pediátrico, com queixa materna de estar hipoativo e “mamando menos”. Está pálido, pouco responsivo, com cianose labial e de extremidades. No exame físico, está afebril, com diminuição do nível de consciência, com frequência respiratória de 68 movimentos/minuto e oximetria evidenciando saturação de O₂ de 85%. PA inaudível. Os pulsos periféricos são nos e o tempo de enchimento capilar de 5 segundos. Um eletrocardiograma é obtido: frequência cardíaca (checada no monitor) de 234 batimentos/minuto, QRS estreito, ritmo regular e di culdade de visualização da onda P.O diagnóstico e a próxima conduta são, respectivamente,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "taquicardia sinusal; analgésico."
+    },
+    {
+     "letra": "B",
+     "texto": "taquicardia supraventricular; massagem carotídea."
+    },
+    {
+     "letra": "C",
+     "texto": "taquicardia ventricular; cardioversão sincronizada."
+    },
+    {
+     "letra": "D",
+     "texto": "taquicardia ventricular; adenosina."
+    },
+    {
+     "letra": "E",
+     "texto": "taquicardia supraventricular; cardioversão sincronizada."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000175228",
+   "codigo": "4000175228",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 16,
+   "temas": [
+    "Taquiarritmias",
+    "Eletrocardiograma ECG",
+    "Taquicardia Supraventricular TSV"
+   ],
+   "enunciado": "Escolar de seis anos, sexo masculino, é trazido à emergência no colo da mãe que refere que seu lho “está morrendo”. Relata que a criança “subitamente cou muito branca e suando frio, além de ter desmaiado”. Exame físico: torporoso, reagindo pouco às solicitações verbais, palidez cutânea, pele mosqueada, diaforese, pulsos nos, enchimento capilar: 4 segundos, SatO2: 90%. De acordo com o quadro clínico descrito e o ECG abaixo, a conduta imediata é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "adenosina IV em “bolus”"
+    },
+    {
+     "letra": "B",
+     "texto": "cardioversão sincronizada"
+    },
+    {
+     "letra": "C",
+     "texto": "amiodarona IV lentamente"
+    },
+    {
+     "letra": "D",
+     "texto": "procainamida IV em “bolus”"
+    },
+    {
+     "letra": "E",
+     "texto": "soro fisiológico IV em 10 minutos"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q016-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000173580",
+   "codigo": "4000173580",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 17,
+   "temas": [
+    "Emergências Pediátricas Parada Cardiorrespiratória PCR e Arritmias na Emergência"
+   ],
+   "enunciado": "Considere a seguinte situação: Criança de 3 anos de idade em parada cardiorrespiratória (PCR), em ambiente hospitalar, com via aérea avançada assegurada. De acordo com o Guia da American Heart Association (AHA) 2020, sobre as recomendações para ressuscitação cardiopulmonar (RCP) em pediatria, assinale a alternativa CORRETA em relação às compressões torácicas e frequência de ventilação que devem ser instituídas.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A relação entre compressão-ventilação deverá ser de 15:2."
+    },
+    {
+     "letra": "B",
+     "texto": "A relação entre compressão-ventilação deverá ser de 10:2."
+    },
+    {
+     "letra": "C",
+     "texto": "A relação entre compressão-ventilação deverá ser de 3:1."
+    },
+    {
+     "letra": "D",
+     "texto": "Administrar compressões contínuas e uma ventilação a cada 5 segundos."
+    },
+    {
+     "letra": "E",
+     "texto": "Administrar compressões contínuas e uma ventilação a cada 2 ou 3 segundos."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000170594",
+   "codigo": "4000170594",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 18,
+   "temas": [
+    "Emergências Pediátricas Parada Cardiorrespiratória PCR e Arritmias na Emergência",
+    "Pediatria"
+   ],
+   "enunciado": "Suporte Avançado de Vida Uma criança de três anos de idade foi internada, em unidade de terapia intensiva pediátrica, para tratamento de pneumonia e choque séptico, em ventilação mecânica, com acesso venoso central e com drogas vasoativas. Evoluiu com parada cardiorrespiratória em assistolia. Com base nesse caso hipotético, assinale a alternativa que apresenta a melhor sequência de atendimento para o paciente, considerando que há vários colegas para ajudar no atendimento.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "epinefrina imediatamente e iniciar reanimação cardiopulmonar por 2 minutos, com relação compressão- ventilação 15:2"
+    },
+    {
+     "letra": "B",
+     "texto": "epinefrina imediatamente e iniciar reanimação cardiopulmonar por 2 minutos, com relação compressão- ventilação 30:2"
+    },
+    {
+     "letra": "C",
+     "texto": "epinefrina imediatamente e iniciar reanimação cardiopulmonar por 2 minutos, com cem a 120 compressões por minuto contínuas, e uma ventilação a cada 2 a 3 segundos"
+    },
+    {
+     "letra": "D",
+     "texto": "reanimação cardiopulmonar por 2 minutos, com relação compressão-ventilação 15:2 e, após 2 minutos, se houver persistência da PCR em assistolia, aplicar epinefrina"
+    },
+    {
+     "letra": "E",
+     "texto": "reanimação cardiopulmonar por 2 minutos, com relação compressão-ventilação 30:2 e, após os 2 minutos, se houver persistência da PCR em assistolia, aplicar epinefrina"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169503",
+   "codigo": "4000169503",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 19,
+   "temas": [
+    "Pediatria",
+    "Corpo EstranhoEngasgo"
+   ],
+   "enunciado": "Lactente com oito meses, ao aspirar corpo estranho, apresenta dificuldade para respirar, cianose perioral e fácies pletóricas. Não consegue emitir sons nem choro. Nessa situação, qual a conduta mais adequada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Colocar o dedo na boca da criança para tentar tirar o corpo estranho."
+    },
+    {
+     "letra": "B",
+     "texto": "Fazer a manobra de Heimlich, ou seja, golpes no abdômen até que a criança volte a respirar."
+    },
+    {
+     "letra": "C",
+     "texto": "Realizar respiração artificial e compressões torácicas."
+    },
+    {
+     "letra": "D",
+     "texto": "Aplicar cinco golpes nas costas e cinco compressões torácicas, repetindo essa sequência se o corpo estranho não for eliminado."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000168276",
+   "codigo": "4000168276",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 20,
+   "temas": [
+    "Emergências Pediátricas Parada Cardiorrespiratória PCR e Arritmias na Emergência",
+    "Pediatria"
+   ],
+   "enunciado": "Assinale a alternativa que contempla a sequência correta no atendimento de uma criança em parada cardiorrespiratória (PCR) testemunhada, de acordo com as Diretrizes para Ressuscitação Cardiopulmonar, da American Heart Association (2020).",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Abrir via aérea, fazer respiração artificial, iniciar compressões torácicas e chamar socorro avançado."
+    },
+    {
+     "letra": "B",
+     "texto": "Avaliar a segurança do local, posicionar a criança em superfície rígida, abrir via aérea, fazer respiração artificial, iniciar compressões torácicas e chamar socorro avançado."
+    },
+    {
+     "letra": "C",
+     "texto": "Avaliar a segurança do local, chamar socorro avançado, posicionar a criança em superfície rígida, iniciar compressões torácicas, abrir via aérea e fazer respiração artificial."
+    },
+    {
+     "letra": "D",
+     "texto": "Chamar socorro avançado, posicionar a criança em superfície rígida, abrir via aérea, fazer respiração artificial e iniciar compressões torácicas."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000168259",
+   "codigo": "4000168259",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 21,
+   "temas": [
+    "Pediatria",
+    "Arritmias"
+   ],
+   "enunciado": "Paciente com 38 semanas de gestação, sem acompanhamento pré-natal, foi trazida à Emergência Obstétrica por sinais de trabalho de parto em evolução. A cardiotocogra a revelou frequência cardíaca de 60 bpm, sem outras manifestações. A ultrassonogra a obstétrica à beira do leito mostrou um bebê bem desenvolvido, sem sinais de alarme. Devido à bradicardia, foi indicada interrupção do parto, sendo o recém-nascido atendido na Sala de Parto. À exceção da frequência cardíaca baixa, o exame clínico foi normal, com escore de Apgar 9/9. O eletrocardiograma demonstrou bloqueio atrioventricular total. Sobre esse bloqueio de apresentação fetal e neonatal, assinale a assertiva correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Bradicardia fetal persistente não justifica a investigação de bloqueio atrioventricular ao nascimento."
+    },
+    {
+     "letra": "B",
+     "texto": "É pouco frequente que a primeira manifestação de lúpus, artrite reumatoide, síndrome de Sjögren ou esclerose múltipla na gestação esteja relacionada ao diagnóstico de um bloqueio atrioventricular ainda durante a vida fetal."
+    },
+    {
+     "letra": "C",
+     "texto": "Hidropsia fetal é incomum nas formas graves, não sendo um marcador de mau prognóstico."
+    },
+    {
+     "letra": "D",
+     "texto": "Pode ocorrer sem lesões cardíacas estruturais associadas, sendo usualmente secundário à presença de colagenose materna, com ou sem expressão clínica."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000167371",
+   "codigo": "4000167371",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 23,
+   "temas": [
+    "Emergências Pediátricas Parada Cardiorrespiratória PCR e Arritmias na Emergência",
+    "Pediatria"
+   ],
+   "enunciado": "Lactente, 3 m , é trazida pe lo s familiares inconsciente, e m apneia e hipotônica. PARA AVALIAÇÃO DE PARADA CARDIORESPIRATÓRIA, O PULSO A SER EXAMINADO É:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Carotídeo."
+    },
+    {
+     "letra": "B",
+     "texto": "Pedioso."
+    },
+    {
+     "letra": "C",
+     "texto": "Radial."
+    },
+    {
+     "letra": "D",
+     "texto": "Braquial."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000164717",
+   "codigo": "4000164717",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 24,
+   "temas": [
+    "Emergências Pediátricas Parada Cardiorrespiratória PCR e Arritmias na Emergência",
+    "Pediatria"
+   ],
+   "enunciado": "Diante de uma reanimação cardiopulmonar em Pediatria, podemos presenciar situações diversi cadas. Assinale a alternativa correta em relação ao assunto.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Amiodarona e lidocaína são drogas que podem ser usadas em situações de assistolia, quando o paciente não responde à epinefrina."
+    },
+    {
+     "letra": "B",
+     "texto": "A partir do momento em que intubamos o paciente a frequência de ventilação passa a ser de 10 ventilações por minuto."
+    },
+    {
+     "letra": "C",
+     "texto": "Tanto nas paradas cardíacas com ritmos chocáveis quanto naquelas com ritmos não chocáveis, há a possibilidade de uma causa reversível estar impedindo o êxito da ressuscitação."
+    },
+    {
+     "letra": "D",
+     "texto": "Em situações de ritmos chocáveis (fibrilação ventricular e taquicardia supraventricular), deve-se imediatamente fazer a desfibrilação do paciente com a dose de 2 joules/kg."
+    },
+    {
+     "letra": "E",
+     "texto": "As compressões devem ser realizadas de maneira contínua na frequência de 100-140 por minuto."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000164709",
+   "codigo": "4000164709",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 25,
+   "temas": [
+    "Emergências Pediátricas Parada Cardiorrespiratória PCR e Arritmias na Emergência",
+    "Pediatria"
+   ],
+   "enunciado": "Você está andando por uma rua e visualiza uma criança imóvel no chão. De acordo com as orientações da Association,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ligar para o SAMU"
+    },
+    {
+     "letra": "B",
+     "texto": "Verificar a segurança do local."
+    },
+    {
+     "letra": "C",
+     "texto": "Iniciar imediatamente a ressuscitação cardiopulmonar."
+    },
+    {
+     "letra": "D",
+     "texto": "Verificar se a criança está responsiva, chamando-a."
+    },
+    {
+     "letra": "E",
+     "texto": "Identificar se a criança está em parada cardiorrespiratória, identificando presença de pulso e movimentos respiratórios."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000164542",
+   "codigo": "4000164542",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 26,
+   "temas": [
+    "Emergências Pediátricas Parada Cardiorrespiratória PCR e Arritmias na Emergência",
+    "Pediatria"
+   ],
+   "enunciado": "Segundo as diretrizes da Academia Americana de Cardiologia publicadas em outubro de 2020, a relação de compressões e ventilações na reanimação de crianças a partir de 1 ano, até obtenção de via aérea avançada, quando realizada por dois ou mais reanimadores, é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "15:2."
+    },
+    {
+     "letra": "B",
+     "texto": "15:1."
+    },
+    {
+     "letra": "C",
+     "texto": "30:2."
+    },
+    {
+     "letra": "D",
+     "texto": "Sem interrupções, é contínua."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000163532",
+   "codigo": "4000163532",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 27,
+   "temas": [
+    "Pediatria",
+    "Causas de PCR"
+   ],
+   "enunciado": "J.M., 4 anos, previamente hígido, após tentativa de ingerir um comprimido de paracetamol, apresentou tosse, evolui com cianose e foi optado por acionar o SAMU. Ao chegar no local, o médico do SAMU encontra a criança em parada cardiorrespiratória (PCR). Realizada ressuscitação cardiopulmonar (RCP) por 15 minutos até retorno da frequência cardíaca e pulso central. Levando em consideração os dados apresentados, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A equipe que está prestando atendimento deve realizar como primeira medida a intubação traqueal."
+    },
+    {
+     "letra": "B",
+     "texto": "A provável causa da PCR foi por hipóxia devido à aspiração de corpo estranho."
+    },
+    {
+     "letra": "C",
+     "texto": "A RCP sem via aérea avançada com mais de um socorrista deve ser realizada 30 compressões para 2 ventilações."
+    },
+    {
+     "letra": "D",
+     "texto": "Se os socorristas realizaram a orientação adequada da RCP, eles devem ter utilizado no mínimo 2 doses de epinefrina no período da reanimação."
+    },
+    {
+     "letra": "E",
+     "texto": "Não é necessário checar o ritmo durante as avaliações a cada 2 minutos pois o paciente foi encontrado pela equipe em assistolia."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000147030",
+   "codigo": "4000147030",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 28,
+   "temas": [
+    "Emergências Pediátricas Parada Cardiorrespiratória PCR e Arritmias na Emergência"
+   ],
+   "enunciado": "Sobre as causas de parada cardiorrespiratória (PCR) na faixa etária pediátrica, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Geralmente é um evento subido."
+    },
+    {
+     "letra": "B",
+     "texto": "Os ritmos cardíacos mais frequentes são a bradicardia e a assistolia."
+    },
+    {
+     "letra": "C",
+     "texto": "As arritmias ventriculares são muito comuns, principalmente em PCR extra-hospitalar."
+    },
+    {
+     "letra": "D",
+     "texto": "Costuma ser de origem cardíaca, sendo a fibrilação ventricular o ritmo mais comum."
+    },
+    {
+     "letra": "E",
+     "texto": "No ambiente hospitalar, as causas mais comuns são infarto agudo do miocárdio e miocardite."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000145903",
+   "codigo": "4000145903",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 29,
+   "temas": [
+    "Emergências Pediátricas Parada Cardiorrespiratória PCR e Arritmias na Emergência",
+    "Pediatria"
+   ],
+   "enunciado": "Uma paciente de três anos de idade foi internada, em unidade de emergência, com pneumonia extensa, evoluindo com sinais de deterioração clínica e parada cardiorrespiratória. A criança está monitorizada e o atendimento será feito por dois socorristas. Com base nessa situação hipotética, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Enquanto não houver via aérea definitiva, a relação entre compressão e ventilação deverá ser de 30:2."
+    },
+    {
+     "letra": "B",
+     "texto": "Após a obtenção de via aérea avançada, deve-se providenciar uma ventilação a cada 2 a 3 s, totalizando vinte a trinta ventilações por minuto."
+    },
+    {
+     "letra": "C",
+     "texto": "Se a paciente estiver em assistolia, a recomendação atual da American Heart Association é realizar dois minutos de RCP e, se o ritmo permanecer não chocável, administrar epinefrina."
+    },
+    {
+     "letra": "D",
+     "texto": "Deve-se administrar bicarbonato de sódio imediatamente, pois, provavelmente, se trata de um quadro de evolução de choque séptico."
+    },
+    {
+     "letra": "E",
+     "texto": "Se não houver acesso venoso ou intraósseo, a epinefrina poderá ser realizada via endotraqueal, na dose de 0,01 mg/kg."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000144302",
+   "codigo": "4000144302",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 30,
+   "temas": [
+    "Emergências Pediátricas Parada Cardiorrespiratória PCR e Arritmias na Emergência",
+    "Pediatria"
+   ],
+   "enunciado": "Criança de 1 ano, vítima de acidente por submersão, é admitida na sala de emergência inconsciente, em apneia e sem pulso central. É iniciada massagem cardíaca imediatamente, colocado coxim sob o ombro, feita aspiração de vias aéreas superiores e fornecidas ventilações com bolsa-valva e máscara. A monitorização cardíaca mostra o seguinte: Qual é a conduta indicada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Administrar lidocaína 1 mg/kg endovenosa."
+    },
+    {
+     "letra": "B",
+     "texto": "Realizar cardioversão sincronizada com 1 J/kg."
+    },
+    {
+     "letra": "C",
+     "texto": "Administrar amiodarona 5 mg/kg endovenosa."
+    },
+    {
+     "letra": "D",
+     "texto": "Realizar desfibrilação com 2 J/kg."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q030-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000143893",
+   "codigo": "4000143893",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 31,
+   "temas": [
+    "Pediatria",
+    "Arritmias"
+   ],
+   "enunciado": "Adolescente, 12 anos, sexo masculino, comparece a UBS solicitando um atestado para realizar atividade física. No momento, sem queixas, sem histórico familiar de alteração cardíaca. Exame físico sem alterações. Traz um exame de ECG que foi realizado há 01 ano, quando precisou realizar uma cirurgia de desvio de septo nasal e no laudo consta arritmia sinusal. Para esse caso você:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Realizada Ecocardiograma"
+    },
+    {
+     "letra": "B",
+     "texto": "Encaminha para parecer da cardiologia"
+    },
+    {
+     "letra": "C",
+     "texto": "Libera a atividade física"
+    },
+    {
+     "letra": "D",
+     "texto": "Solicita teste inclinação ortostática"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000142174",
+   "codigo": "4000142174",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 32,
+   "temas": [
+    "Taquicardia Supraventricular TSV"
+   ],
+   "enunciado": "Uma paciente de 11 anos de idade deu entrada na unidade de pronto atendimento com queixa de mal-estar. Na triagem, apresenta FC = 230 bpm, FR = 28 irpm, SatO2 = 97% em AA, T = 37,2 ºC e pressão arterial no P50. A enfermeira rapidamente transferiu a paciente para a sala de emergência e solicitou avaliação médica. Ao exame físico, ela mostra-se em BEG, corada, hidratada; cardio: búlhas rítmicas normofonéticas tipo 2 sem sopros audíveis, taquicárdica; pulmonar: murmúrio ventricular presente, simétrico, sem ruídos adventícios e sem sinais de desconforto. Veri cam-se abdome plano, ruídos hidroaéreos presentes, ácido, sem visceromegalias, indolor; e também pulsos cheios, tempo de enchimento capilar < 3 seg. Ao exame neurológico, encontra-se em Glasgow 15, ativa, reativa ao exame, com pupilas isocóricas e fotorreagentes, sem sinais focais, sem sinais meníngeos e com pele íntegra. Realizou-se eletrocardiograma no qual se encontra ausência de onda P, QRS estreito e regular, e frequência cardíaca não variável = 230 bpm. Nesse caso clínico, o diagnóstico e a medicação indicada são.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "bradicardia sinusal e epinefrina."
+    },
+    {
+     "letra": "B",
+     "texto": "taquicardia ventricular e amiodarona."
+    },
+    {
+     "letra": "C",
+     "texto": "taquicardia sinusal; contudo, sem medicação específica, deve-se pesquisar e tratar a causa."
+    },
+    {
+     "letra": "D",
+     "texto": "fibrilação atrial e milrinona."
+    },
+    {
+     "letra": "E",
+     "texto": "taquicardia supraventricular e adenosina."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000141150",
+   "codigo": "4000141150",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 33,
+   "temas": [
+    "Emergências Pediátricas Parada Cardiorrespiratória PCR e Arritmias na Emergência",
+    "Pediatria"
+   ],
+   "enunciado": "Menino, 2a, é trazida à Emergência em parada cardiorrespiratória (PCR). A checagem de ritmo identifica assistolia. O PRINCIPAL BENEFÍCIO EM INTUBAR O PACIENTE NESTE TIPO DE PCR, NO QUE DIZ RESPEITO AO RETORNO DA CIRCULAÇÃO ESPONTÂNEA, É:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Permitir que as compressões torácicas sejam realizadas sem interrupções, otimizando a perfusão coronariana."
+    },
+    {
+     "letra": "B",
+     "texto": "Evitar a distensão gástrica e restrição de expansibilidade pulmonar secundárias ao uso do ressuscitador manual."
+    },
+    {
+     "letra": "C",
+     "texto": "Oferecer oxigenação e ventilação de forma mais eficiente, visto que a hipóxia é a causa mais frequente de PCR pediátrica."
+    },
+    {
+     "letra": "D",
+     "texto": "Ter uma via para administração de medicações (endotraqueal) rápida e segura."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000141070",
+   "codigo": "4000141070",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 34,
+   "temas": [
+    "Rítmo Cardíaco",
+    "Pediatria",
+    "Terapia Farmacológica"
+   ],
+   "enunciado": "Menino de 1 ano dá entrada na sala de emergência, trazido pela equipe do SAMU, em parada cardiorrespiratória. Iniciada massagem cardíaca, ventilação e acesso vascular. A monitorização mostra assistolia. A seguir, a conduta mais adequada é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "realizar cardioversão eletríca."
+    },
+    {
+     "letra": "B",
+     "texto": "administrar epinefrina 0,01 mg/kg."
+    },
+    {
+     "letra": "C",
+     "texto": "administrar atropina 0,02 mg/kg."
+    },
+    {
+     "letra": "D",
+     "texto": "iniciar expansão com 20 mL/kg de solução fisiológica."
+    },
+    {
+     "letra": "E",
+     "texto": "infundir bicarbonato de sódio na dose de 1 mEq/kg."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000139885",
+   "codigo": "4000139885",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 35,
+   "temas": [
+    "Pediatria",
+    "Suporte Básico de Vida"
+   ],
+   "enunciado": "Sobre suporte básico de vida em pediatria, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A ressuscitação cardiopulmonar (RCP) em bebês e crianças com ventilações de resgate deve ser iniciada, em vez de compressões torácicas, respeitando A-B-C."
+    },
+    {
+     "letra": "B",
+     "texto": "Em lactente com apneia e pulso central ausente, deve-se iniciar a RCP e checar o pulso a cada 4 min."
+    },
+    {
+     "letra": "C",
+     "texto": "Se a criança apresentar apneia com pulso central presente, deve ser realizado ventilação de resgate, sendo 1 ventilação a cada 10 segundos, totalizando 6 ventilações por minuto."
+    },
+    {
+     "letra": "D",
+     "texto": "Se houver 2 socorristas, deve ser iniciada a RCP com a proporção de 30 compressões para 2 ventilações (30:2)."
+    },
+    {
+     "letra": "E",
+     "texto": "Em lactente com bradipneia, pulso central presente com 50 batimentos por minuto e perfusão periférica ruim, mesmo após ventilação de resgate, deve ser iniciada a RCP."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000138652",
+   "codigo": "4000138652",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 36,
+   "temas": [
+    "Emergências Pediátricas Parada Cardiorrespiratória PCR e Arritmias na Emergência",
+    "Pediatria"
+   ],
+   "enunciado": "A principal causa de parada cardiovascular em crianças é o(a)",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "cardiopatia congênita."
+    },
+    {
+     "letra": "B",
+     "texto": "hipóxia."
+    },
+    {
+     "letra": "C",
+     "texto": "arritmia."
+    },
+    {
+     "letra": "D",
+     "texto": "infarto agudo do miocárdio."
+    },
+    {
+     "letra": "E",
+     "texto": "pneumopatia."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000129675",
+   "codigo": "4000129675",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 37,
+   "temas": [
+    "Quadro Clínico"
+   ],
+   "enunciado": "Leia o caso clínico a seguir. Lactente com 11 meses de idade, sem febre ou história de doença prévia, é levado pelo pai ao pronto-socorro, com relato de que brincava junto com o irmão de cinco anos num quarto de brinquedos em sua casa, sem supervisão contínua de um adulto, quando o pai – que é médico generalista – ouviu tosse persistente, seguida de estridor e broncoespasmo. Ao chegar no quarto, o pai também observou que a criança estava cianótica. Nesse caso, qual é a principal hipótese diagnóstica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Envenenamento."
+    },
+    {
+     "letra": "B",
+     "texto": "Crise asmática."
+    },
+    {
+     "letra": "C",
+     "texto": "Ingestão acidental de corpo estranho."
+    },
+    {
+     "letra": "D",
+     "texto": "Laringotraqueobronquite bacteriana."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000130348",
+   "codigo": "4000130348",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 38,
+   "temas": [
+    "Emergências Pediátricas Parada Cardiorrespiratória PCR e Arritmias na Emergência",
+    "Pediatria"
+   ],
+   "enunciado": "Menina, 5a, chega ao Pronto Socorro em parada cardiorrespiratória (PCR) em assistolia. Ao nal de um ciclo de reanimação cardiopulmonar (RCP), checa-se o ritmo, sendo identi cado ritmo sinusal. Exame físico: FC= 50 bpm; pulso periférico: no e tempo de enchimento capilar = 5 segundos. A CONDUTA É:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Manter RCP de alta qualidade por mais um ciclo de 2 minutos."
+    },
+    {
+     "letra": "B",
+     "texto": "Administrar atropina."
+    },
+    {
+     "letra": "C",
+     "texto": "Administrar epinefrina (1:1000)."
+    },
+    {
+     "letra": "D",
+     "texto": "Suspender a RCP e observar a monitorização, com ênfase na ventilação."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000123381",
+   "codigo": "4000123381",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 39,
+   "temas": [
+    "Emergências Pediátricas Parada Cardiorrespiratória PCR e Arritmias na Emergência",
+    "Pediatria"
+   ],
+   "enunciado": "Criança de 3 anos, ao colocar inadvertidamente um prego em uma tomada, sofreu choque elétrico intenso, resultando em parada cardiorrespiratória. Levada à Emergência, foram efetuadas manobras de reanimação cardiopulmonar (ventilação e compressões torácicas). Na primeira verificação do ritmo cardíaco após a internação, identificou-se fibrilação ventricular. Neste momento, a conduta inicial é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "administrar adrenalina intravenosa (IV)."
+    },
+    {
+     "letra": "B",
+     "texto": "administrar amiodarona IV."
+    },
+    {
+     "letra": "C",
+     "texto": "administrar lidocaína IV."
+    },
+    {
+     "letra": "D",
+     "texto": "realizar cardioversão."
+    },
+    {
+     "letra": "E",
+     "texto": "realizar desfibrilação."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120267",
+   "codigo": "4000120267",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 40,
+   "temas": [
+    "Causas de PCR"
+   ],
+   "enunciado": "Um paciente com oito meses de vida teve inúmeros episódios de diarreia há cinco dias, associada a vômitos e à febre. Foi levado ao pronto-socorro por sua mãe após dois dias do início do quadro e ela recebeu apenas orientações e prescrição de sintomáticos para realizar terapia de reidratação oral em casa. O paciente teve piora da diarreia e diminuição da diurese, evoluindo com irritabilidade e febre. Foi levado novamente ao pronto-socorro, agora em mau estado geral, afebril, letárgico, com frequência respiratória de 64 ipm, saturação de oxigênio de 88%, frequência cardíaca de 180 bpm, pulsos periféricos nos, enchimento capilar de 4 s e pressão arterial de 69 x 40 mmHg. Exames iniciais mostraram: Na 144 mEq/L; K 5,6 mEq/L; Cl 100 mEq/dL; pH 7,21; Bic 12 mmol/L; e Gli 65 mg/dL. Durante expansão inicial com SF 0,9% em via intraóssea, o paciente apresentou PCR em assistolia. Nesse caso hipotético, considerando a principal causa reversível dessa PCR, a melhor conduta será",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "administrar bicarbonato de sódio devido à hipercalemia."
+    },
+    {
+     "letra": "B",
+     "texto": "intensificar a hidratação, pois a principal causa reversível é a hipovolemia."
+    },
+    {
+     "letra": "C",
+     "texto": "realizar push de glicose para reverter a hipoglicemia."
+    },
+    {
+     "letra": "D",
+     "texto": "realizar intubação orotraqueal devido à hipoxemia."
+    },
+    {
+     "letra": "E",
+     "texto": "administrar bicarbonato de sódio para reverter a acidose metabólica."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119933",
+   "codigo": "4000119933",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 41,
+   "temas": [
+    "Taquicardia Supraventricular TSV"
+   ],
+   "enunciado": "Lactente de 3 meses é levado à emergência com quadro de choro excessivo, recusa alimentar e respiração ofegante, com “batedeira” há 3 horas. É levado para a sala de emergência e monitorado, sendo obtido o eletrocardiograma abaixo. Ao exame físico o paciente encontra-se irritado, agitado, com tempo de enchimento capilar de 7 segundos, pulsos periféricos finos e PA: 57 32 mmHg. Dentre os tratamentos abaixo, a melhor conduta inicial é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Manobras vagais, como compressão do globo ocular ou estimulação do seio carotídeo."
+    },
+    {
+     "letra": "B",
+     "texto": "Administração de adenosina intravenosa, na dose inicial de 0,1 mg/kg,"
+    },
+    {
+     "letra": "C",
+     "texto": "Cardioversão elétrica sincronizada, com carga inicial de 2-4 J/kg."
+    },
+    {
+     "letra": "D",
+     "texto": "Desfibrilação imediata com carga inicial de 2-4 J/kg."
+    },
+    {
+     "letra": "E",
+     "texto": "Soro fisiológico 20 mL/kg em seringa."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q041-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000119926",
+   "codigo": "4000119926",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 42,
+   "temas": [
+    "Emergências Pediátricas Parada Cardiorrespiratória PCR e Arritmias na Emergência"
+   ],
+   "enunciado": "Suporte Avançado de Vida Uma criança de 7 anos, 20 kg, arresponsiva e sem pulso, apresenta o seguinte ritmo no traçado do ECG mostrado abaixo. Dentre as hipóteses abaixo, a principal hipótese diagnóstica e sua causa são, respectivamente,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Atividade elétrica sem pulso e hipóxia."
+    },
+    {
+     "letra": "B",
+     "texto": "Assistolia e hipotermia."
+    },
+    {
+     "letra": "C",
+     "texto": "Taquicardia ventricular sem pulso e acidose."
+    },
+    {
+     "letra": "D",
+     "texto": "Taquicardia sinusal e sepse."
+    },
+    {
+     "letra": "E",
+     "texto": "Taquicardia supraventricular e febre."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q042-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000119915",
+   "codigo": "4000119915",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 43,
+   "temas": [
+    "Emergências Pediátricas Parada Cardiorrespiratória PCR e Arritmias na Emergência"
+   ],
+   "enunciado": "Suporte Básico de Vida Um lactente de 6 meses, sexo masculino, é levado no colo da mãe após engasgo. Encontra-se não responsivo e sem pulsos. Após chamar ajuda, a melhor conduta imediata, dentre as abaixo, é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Iniciar imediatamente compressões torácicas, entre 100 a 120 por minuto."
+    },
+    {
+     "letra": "B",
+     "texto": "Iniciar ventilações com bolsa-valva-máscara (BVM), em frequência de 40-60 por minuto."
+    },
+    {
+     "letra": "C",
+     "texto": "Administrar adrenalina na dose de 0,1 mg/kg da solução diluída 1:10.000."
+    },
+    {
+     "letra": "D",
+     "texto": "Levar até a sala de emergência e checar o ritmo antes de tomar alguma conduta."
+    },
+    {
+     "letra": "E",
+     "texto": "Intubação orotraqueal"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000115258",
+   "codigo": "4000115258",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 44,
+   "temas": [
+    "Suporte Básico de Vida",
+    "Desf ibrilador Externo Automático DEA"
+   ],
+   "enunciado": "Em uma reanimação cardiopulmonar em ambiente hospitalar, quando houver a indicação de uso do des brilador manual, estará indicado o uso de pás pediátricas se",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o peso do paciente for inferior a 10 kg ou idade menor que 1 ano."
+    },
+    {
+     "letra": "B",
+     "texto": "o paciente não tiver caracteres sexuais secundários, como pelos ou mamas."
+    },
+    {
+     "letra": "C",
+     "texto": "a carga a ser aplicada para a desfibrilação for inferior a 40 J."
+    },
+    {
+     "letra": "D",
+     "texto": "a idade for menor de 12 anos ou a altura inferior a 1,50 m."
+    },
+    {
+     "letra": "E",
+     "texto": "a distância entre as duas pás for menor que 5 cm devido ao tórax pequeno."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000108934",
+   "codigo": "4000108934",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 45,
+   "temas": [
+    "Taquicardia Supraventricular TSV"
+   ],
+   "enunciado": "Paciente de 10 anos vem ao pronto-socorro com queixa de mal-estar súbito. Ao exame físico, paciente corado, sem desconforto respiratório, pressão arterial no percentil 50 para a idade, com taquicardia importante. Realizada monitorização cardíaca, com frequência de 223 bpm e identificado o traçado abaixo: A conduta inicial para o caso deve ser:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Sulfato de magnésio"
+    },
+    {
+     "letra": "B",
+     "texto": "Manobra vagal"
+    },
+    {
+     "letra": "C",
+     "texto": "Atropina"
+    },
+    {
+     "letra": "D",
+     "texto": "Epinefrina"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q045-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000108917",
+   "codigo": "4000108917",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 46,
+   "temas": [
+    "Taquicardia Supraventricular TSV"
+   ],
+   "enunciado": "Paciente de 10 anos vem ao pronto-socorro com queixa de mal-estar súbito. Ao exame físico, paciente corado, sem desconforto respiratório, pressão arterial no percentil 50 para a idade, com taquicardia importante. Realizada monitorização cardíaca, com frequência de 223 bpm e identificado o traçado abaixo: Qual o diagnóstico do quadro acima?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Fibrilação Ventricular"
+    },
+    {
+     "letra": "B",
+     "texto": "Taquicardia sinusal"
+    },
+    {
+     "letra": "C",
+     "texto": "Taquicardia supraventricular estável"
+    },
+    {
+     "letra": "D",
+     "texto": "Torsades de Pointes"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q046-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000107753",
+   "codigo": "4000107753",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 47,
+   "temas": [
+    "Emergências Pediátricas Parada Cardiorrespiratória PCR e Arritmias na Emergência",
+    "Causas de PCR"
+   ],
+   "enunciado": "Um paciente internado na enfermaria, com 8 anos de vida e peso de 25 kg, subitamente perde a consciência. A enfermeira estava próxima, detectou a ausência de pulso e iniciou as compressões torácicas, enquanto a criança era monitorada. Ao chegar, o pediatra solicitou a interrupção das compressões para ver o seguinte ritmo: Algumas causas reversíveis que podem ser tratadas durante a reanimação cardiopulmonar são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Acidose respiratória e Hipomagnesemia."
+    },
+    {
+     "letra": "B",
+     "texto": "Trauma e alcalose metabólica."
+    },
+    {
+     "letra": "C",
+     "texto": "Hipotermia e hiperlactatemia."
+    },
+    {
+     "letra": "D",
+     "texto": "Hipoglicemia e hipercalemia."
+    },
+    {
+     "letra": "E",
+     "texto": "Hipomagnesemia e febre."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q047-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000095874",
+   "codigo": "4000095874",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 48,
+   "temas": [
+    "Taquicardia sinusal",
+    "Taquiarritmia Sinusal",
+    "Cardiologia"
+   ],
+   "enunciado": "Lactente com um ano de idade apresenta história de febre e frequência cardíaca: 200 bpm. No eletrocardiograma, o traçado demonstra ondas p normais seguidas de QRS (≤ 0,09s); o intervalo P-R é constante. Diante dessas características trata-se de quadro de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Taquicardia sinusal."
+    },
+    {
+     "letra": "B",
+     "texto": "Taquicardia supraventricular."
+    },
+    {
+     "letra": "C",
+     "texto": "Taquicardia ventricular."
+    },
+    {
+     "letra": "D",
+     "texto": "Taquicardia secundária."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000042378",
+   "codigo": "4000042378",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 49,
+   "temas": [
+    "Taquicardia Supraventricular TSV"
+   ],
+   "enunciado": "Criança de 7 meses de vida, apresenta febre baixa há 5 dias associada à tosse, evoluindo com respiração ofegante e mais choroso que o habitual. Levada em atendimento, apresentava taquipneia e estertoração em base de hemitórax à esquerda. Durante a internação para tratamento da pneumonia, o médico foi acionado para avaliar a paciente, que evoluiu de forma súbita com palidez e agitação. Ao exame, observada taquicardia e extremidades frias. Realizado o eletrocardiograma, visto abaixo. Sobre o caso clínico, é correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Trata-se de taquicardia sinusal, com indicação de manobra vagal."
+    },
+    {
+     "letra": "B",
+     "texto": "O eletrocardiograma demonstra ritmo compatível com taquicardia supraventricular, estando indicada adenosina endovenosa."
+    },
+    {
+     "letra": "C",
+     "texto": "Trata-se de taquicardia supraventricular, devendo ser realizada desfibrilação elétrica."
+    },
+    {
+     "letra": "D",
+     "texto": "Trata-se de taquicardia ventricular sustentada, estando indicada cardioversão elétrica."
+    },
+    {
+     "letra": "E",
+     "texto": "Deve ser aferida a temperatura do paciente por se tratar de taquicardia sinusal provavelmente associada à febre."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q049-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000121007",
+   "codigo": "4000121007",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 52,
+   "temas": [
+    "Emergências Pediátricas"
+   ],
+   "enunciado": "Emergências Pediátricas Parada Cardiorrespiratória PCR e Arritmias na Emergência Um menino de doze anos de idade, asmático, com crises não controladas, apresentou quadro de tosse e cansaço há um dia, sem febre. Iniciou, nesse dia, em casa, salbutamol e prednisona, mas manteve quadro de tosse importante e piora da dispneia. Depois de uma hora desse quadro, sua mãe chamou o SAMU. Durante o transporte, apresentou parada respiratória, iniciando ventilação bolsa-valva-máscara com oxigênio a 100%. À entrada na emergência, foi realizada intubação orotraqueal com cânula 6,5, com Cu , sem intercorrências. Foi colocado em ventilação pulmonar mecânica, modo assistido/controlado (PINSP 30 cmH2O, PEEP 5 cmH₂O, FR de 16 rpm e FiO₂ de 100%), apresentando saturação de O₂ de 85%, ausculta com diminuição de murmúrio vesicular à direita e sibilos difusos à esquerda. Evoluiu, após dez minutos, com parada cardíaca em atividade elétrica, sem pulso. Nesse caso hipotético, além das manobras de ressuscitação e epinefrina, deve-se considerar, na tentativa de reversão do quadro,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "desfibrilação com 2 J/kg."
+    },
+    {
+     "letra": "B",
+     "texto": "punção de provável pneumotórax."
+    },
+    {
+     "letra": "C",
+     "texto": "administração de bicarbonato de sódio se a reanimação for prolongada."
+    },
+    {
+     "letra": "D",
+     "texto": "troca da cânula orotraqueal por uma de maior tamanho, sem Cuff."
+    },
+    {
+     "letra": "E",
+     "texto": "aumentar PEEP para 8 cmH2O e FR para 20 rpm."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000118144",
+   "codigo": "4000118144",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 53,
+   "temas": [
+    "Emergências Pediátricas Parada Cardiorrespiratória PCR e Arritmias na Emergência"
+   ],
+   "enunciado": "Abordagem do paciente em parada cardiorrespiratória PCR Com relação à reanimação cardiopulmonar em crianças, é correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A recomendação atual é que o tempo limite de reanimação seja de 20 minutos."
+    },
+    {
+     "letra": "B",
+     "texto": "A frequência de ventilações deve ser 10 a 15 por minuto."
+    },
+    {
+     "letra": "C",
+     "texto": "A via intraóssea deve ser utilizada somente em crianças menores de 3 anos."
+    },
+    {
+     "letra": "D",
+     "texto": "As compressões torácicas podem ser interrompidas no máximo por 10 segundos."
+    },
+    {
+     "letra": "E",
+     "texto": "Para desfibrilação manual, uma carga inicial de 5 J/Kg é aceitável."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000115078",
+   "codigo": "4000115078",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 54,
+   "temas": [
+    "Suporte Básico de Vida",
+    "Suporte Avançado de Vida",
+    "Causas de PCR"
+   ],
+   "enunciado": "Para a abordagem adequada da Parada Cardiorrespiratória (PCR), é fundamental conhecer qual é o ritmo associado ao evento. O ritmo cardíaco mais comumente verificado em crianças com PCR é a:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Assistolia."
+    },
+    {
+     "letra": "B",
+     "texto": "Taquicardia ventricular sem pulso."
+    },
+    {
+     "letra": "C",
+     "texto": "Fibrilação ventricular."
+    },
+    {
+     "letra": "D",
+     "texto": "Atividade elétrica sem pulso."
+    },
+    {
+     "letra": "E",
+     "texto": "Fibrilação atrial."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000106292",
+   "codigo": "4000106292",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 55,
+   "temas": [
+    "Rítmo Cardíaco",
+    "Terapia Farmacológica",
+    "Suporte Avançado de Vida"
+   ],
+   "enunciado": "Você é chamado(a) para a sala de emergência pediátrica e, ao entrar, encontra seu colega plantonista realizando a ressuscitação cardiopulmonar de uma criança de 8 anos de idade. Vocês realizam os ciclos de compressão/ventilação na razão de 15:2. O enfermeiro coloca o monitor cardíaco, obtendo o seguinte ritmo: é realizada a des brilação com 2 J/kg e, em seguida, é administrada uma dose de epinefrina 0,01 mg/kg. É realizada uma segunda verificação do ritmo cardíaco, mantido mesmo achado, sendo feita uma nova des brilação com 4 J/kg. Considerando que o ritmo se mantenha na próxima checagem, a próxima droga indicada",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Gluconato de cálcio"
+    },
+    {
+     "letra": "B",
+     "texto": "Atropina"
+    },
+    {
+     "letra": "C",
+     "texto": "Sufato de magnésio."
+    },
+    {
+     "letra": "D",
+     "texto": "Amiodarona"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q055-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000105870",
+   "codigo": "4000105870",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 56,
+   "temas": [
+    "Taquicardia Supraventricular TSV"
+   ],
+   "enunciado": "Criança com 3 anos de idade apresentando apatia e cansaço aos grandes esforços há 4 dias, hoje apresentou dor em região de tórax anterior com queda do estado geral. Ao exame: mau estado geral, acianótico, anictérico, afebril, hidratado. Tórax: murmúrio vesicular simétrico, sem ruídos adventícios, frequência respiratória = 30 mvm. Aparelho cardiovascular: 2 bulhas rítmicas normofonéticas sem sopros, frequência cardíaca difícil de aferir, tempo de enchimento capilar = 5 segundos, pressão arterial = 70 x 35 mmHg, pulsos periféricos nos. Abdome: plano, normotenso, indolor, fígado no rebordo costal direito, ruídos hidroaéreos positivos, normoativos. Sistema nervoso: sonolento. O eletrocardiograma é apresentado a seguir. Qual a conduta imediata para este paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cardioversão elétrica não sincronizada com 2 J/kg"
+    },
+    {
+     "letra": "B",
+     "texto": "Cardioversão elétrica sincronizada com 1 J/kg"
+    },
+    {
+     "letra": "C",
+     "texto": "Cardioversão química com amiodarona 5 mg/kg"
+    },
+    {
+     "letra": "D",
+     "texto": "Cardioversão química com lidocaína 1 mg/kg"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q056-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000105775",
+   "codigo": "4000105775",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 57,
+   "temas": [
+    "Tratamento",
+    "Diagnóstico"
+   ],
+   "enunciado": "P.J.D, 4 anos, sexo masculino, é trazido ao pronto-socorro pela mãe que refere que paciente estava brincando com as peças de lego do seu irmão quando apresentou crise de tosse seguido de episódio de cianose. Ao exame físico, criança encontra-se em ótimo estado geral, acianótico, FR = 20 irpm, FC = 120 bpm, ausculta pulmonar com murmúrios vesiculares bilateralmente. Realizada radiografia de tórax. A melhor conduta é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Broncoscopia."
+    },
+    {
+     "letra": "B",
+     "texto": "Endoscopia."
+    },
+    {
+     "letra": "C",
+     "texto": "Laringoscopia indireta."
+    },
+    {
+     "letra": "D",
+     "texto": "Acompanhamento radiológico em 24 horas."
+    },
+    {
+     "letra": "E",
+     "texto": "Tomografia de tórax."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q057-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000102201",
+   "codigo": "4000102201",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 58,
+   "temas": [
+    "Emergências Pediátricas Parada Cardiorrespiratória PCR e Arritmias na Emergência"
+   ],
+   "enunciado": "Suporte Avançado de Vida Uma criança, com 5 anos de idade e pesando 20Kg, está na emergência devido a insu ciência respiratória por crise asmática, quando sofre uma parada cardiorrespiratória em taquicardia ventricular sem pulso. Ao iniciar reanimação cardiopulmonar, você solicita:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Desfibrilação 40 joules"
+    },
+    {
+     "letra": "B",
+     "texto": "Cardioversão 20 joules"
+    },
+    {
+     "letra": "C",
+     "texto": "Desfibrilação 20 joules"
+    },
+    {
+     "letra": "D",
+     "texto": "Cardioversão 40 joules"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000091999",
+   "codigo": "4000091999",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 59,
+   "temas": [
+    "Emergências Pediátricas Parada Cardiorrespiratória PCR e Arritmias na Emergência"
+   ],
+   "enunciado": "Suporte Básico de Vida Em relação à Ressuscitação Cardiopulmonar (RCP), segundo as diretrizes de RCP da American Heart Association (AHA) de 2010, e reforçada em 2015, na faixa etária pediátrica, é CORRETO afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A sequência de atendimento recomendada por essas diretrizes inclui a palavra mnemônica ACB, que significa (A) abertura via aérea, (C) compressão torácica e (B) boa respiração."
+    },
+    {
+     "letra": "B",
+     "texto": "A checagem de pulso central não deve ultrapassar 10 segundos. Em lactentes, é recomendado pulso carotídeo e femoral e, em crianças e adolescentes, o pulso branquial."
+    },
+    {
+     "letra": "C",
+     "texto": "Na presença de dois ou mais socorristas, o rodízio das funções deve ser realizado a cada 4 minutos para minimizar a fadiga do ressuscitador."
+    },
+    {
+     "letra": "D",
+     "texto": "Os ritmos cardíacos mais frequentes que indicam RCP, em pediatria, são arritmias ventriculares como fibrilação ventricular e taquicardia ventricular sem pulso."
+    },
+    {
+     "letra": "E",
+     "texto": "Na presença de dois ou mais socorristas no atendimento de crianças e lactentes, é recomendada a relação compressão/ventilação 15:2. Já na presença de 1 socorrista, é recomendada a relação compressão/ventilação 30:2."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000083762",
+   "codigo": "4000083762",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 60,
+   "temas": [
+    "Taquiarritmias",
+    "Taquicardia Supraventricular TSV"
+   ],
+   "enunciado": "Paciente com nove anos, hígido previamente, é admitido no pronto-socorro por sudorese e palpitações de início súbito. Está afebril e normotenso, com saturação de hemoglobina de 96%, taquicardia 210 bpm e velocidade de enchimento capilar de dois segundos. O eletrocardiograma revela ritmo regular com complexos QRS estreitos. O tratamento adequado para essa situação clínica é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Propranolol, via oral."
+    },
+    {
+     "letra": "B",
+     "texto": "Adenosina, intravenosa."
+    },
+    {
+     "letra": "C",
+     "texto": "Noradrenalina, intravenosa."
+    },
+    {
+     "letra": "D",
+     "texto": "Milrinona, via oral."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000051088",
+   "codigo": "4000051088",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 61,
+   "temas": [
+    "Diagnóstico"
+   ],
+   "enunciado": "Lactente de 1 ano e 9 meses é trazida para consulta com pediatria. Mãe relata que nos últimos 6meses a criança apresentou 3 episódios confirmados radiologicamente de pneumonia em pulmão direito, sendo 2 deles com necessidade de internamento. Anteriormente aos quadros de pneumonia, era hígido. Apresenta bom desenvolvimento e ganho de peso. História obstétrica e neonatal sem particularidades. Pais e irmão sem história de doenças respiratórias. Diante disto, assinale a hipótese diagnóstica mais provável para o caso.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Imunodeficiência"
+    },
+    {
+     "letra": "B",
+     "texto": "Fibrose cística"
+    },
+    {
+     "letra": "C",
+     "texto": "Aspiração de corpo estranho"
+    },
+    {
+     "letra": "D",
+     "texto": "Tuberculose"
+    },
+    {
+     "letra": "E",
+     "texto": "Asma"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000050599",
+   "codigo": "4000050599",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 62,
+   "temas": [
+    "Taquicardia Supraventricular TSV"
+   ],
+   "enunciado": "Paciente de 4 meses de vida é atendido em pronto-socorro. A mãe refere que o paciente está há um dia com di culdade nas mamadas e irritabilidade. Também refere palidez. Durante exame físico, observa-se que o paciente se encontra taquicárdico com FC de 240 bpm, normotenso, com tempo de enchimento capilar de 2 segundos e pulsos médios. Segue o eletrocardiograma realizado. Em relação ao caso descrito, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Deve-se realizar a desfibrilação com uma carga de 2J/kg, por se tratar de um quadro de fibrilação ventricular."
+    },
+    {
+     "letra": "B",
+     "texto": "Como o paciente apresenta ritmo sinusal, o diagnóstico é de taquicardia sinusal, sem necessidade de tratamento medicamentoso."
+    },
+    {
+     "letra": "C",
+     "texto": "Deve-se administrar adenosina em bólus rápido na tentativa de reverter o quadro de taquicardia supraventricular."
+    },
+    {
+     "letra": "D",
+     "texto": "Trata-se de taquicardia ventricular, estando indicada a administração de amiodarona na dose de 5mg/kg."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q062-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000049050",
+   "codigo": "4000049050",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 63,
+   "temas": [
+    "Tratamento da Crise Aguda",
+    "Avaliação da Criança Gravemente Enf erma"
+   ],
+   "enunciado": "Uma criança de sete anos de idade foi levada à emergência por falta de ar e chiado no peito há um dia. A mãe referiu história de asma, com uso de corticoide inalatório e salbutamol, que foi interrompido nas férias, há quinze dias. Encontra-se afebril, com pulso de 128 bpm, frequência respiratória de 40 mpm e pressão arterial de 100/80 mmHg. Na ausculta, sibilos inspiratórios e expiratórios em ambos os campos pulmonares, com retração intercostal e subcostal. Após tratamento com albuterol nebulizador e metilprednisolona endovenosa, sem melhora, a criança apresenta-se letárgica e apática, com FC de 150 bpm, PA de 100/70 mmHg e FR de 22 movimentos por minuto. Não se auscultam mais sibilos. Com base nesse caso hipotético, assinale a alternativa que apresenta a conduta mais apropriada para o manejo da criança.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "introduzir antagonistas de receptor de leucotrienos"
+    },
+    {
+     "letra": "B",
+     "texto": "epinefrina inalatória"
+    },
+    {
+     "letra": "C",
+     "texto": "repetir metilprednisolona"
+    },
+    {
+     "letra": "D",
+     "texto": "intubação e ventilação mecânica"
+    },
+    {
+     "letra": "E",
+     "texto": "realizar broncoscopia"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000035976",
+   "codigo": "4000035976",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 64,
+   "temas": [
+    "Taquicardia Supraventricular TSV"
+   ],
+   "enunciado": "Um menino de um ano é levado ao pronto-socorro para ser avaliado por inapetência, agitação e sudorese. Na impressão inicial, ele se mostra letárgico, mas consegue despertar, tem di culdade para respirar e apresenta-se cianótico. A primeira avaliação releva frequência respiratória de 68 irpm, frequência cardíaca de 300 bpm que não varia com atividade ou sono, pressão arterial de 70 x 45 mmHg, pulso braquial fraco e pulso radial ausente, enchimento capilar de 6 segundos, SatO2 de 85% em ar ambiente e ruídos respiratórios bilaterais bons. Você administra oxigênio de alto uxo e coloca a criança no monitor cardíaco. Não há histórico de doença cardíaca congênita. Você observa o seguinte ritmo com pouca variabilidade da frequência cardíaca entre batimentos: o acesso EV foi estabelecido. Qual das seguintes terapias é a mais adequada para esta criança?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Marcar uma consulta com o cardiologista pediátrico para o fim da semana."
+    },
+    {
+     "letra": "B",
+     "texto": "Infusão rápida de adenosina 0,1 mg/Kg EV; se a adenosina não estiver disponível imediatamente, realizar cardioversão sincronizada."
+    },
+    {
+     "letra": "C",
+     "texto": "Realizar desfibrilação imediata sem esperar por acesso IV."
+    },
+    {
+     "letra": "D",
+     "texto": "Estabelecer acesso IV e administrar um bolus de 20 ml/K g de fluido cristalóide isotônico."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q064-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000025780",
+   "codigo": "4000025780",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 65,
+   "temas": [
+    "Manobra de Heimlich",
+    "Pneumologia"
+   ],
+   "enunciado": "A manobra de Heimlich é indicada na tentativa de desobstrução das vias aéreas superiores. Para quem ela está indicada e como é realizada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Para todas as crianças. São realizadas compressões abdominais."
+    },
+    {
+     "letra": "B",
+     "texto": "Para todas as crianças. São realizadas compressões torácicas."
+    },
+    {
+     "letra": "C",
+     "texto": "Para as crianças maiores de um ano. São realizadas compressões abdominais."
+    },
+    {
+     "letra": "D",
+     "texto": "Para as crianças maiores de um ano. São realizadas compressões torácicas."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000024705",
+   "codigo": "4000024705",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 66,
+   "temas": [
+    "Terapia Farmacológica"
+   ],
+   "enunciado": "A adrenalina quando administrada como terapia na reanimação de parada cardíaca tem como objetivo promover:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "vasoconstricção venosa."
+    },
+    {
+     "letra": "B",
+     "texto": "aumento da resistência vascular arterial."
+    },
+    {
+     "letra": "C",
+     "texto": "efeito beta-adrenérgico periférico."
+    },
+    {
+     "letra": "D",
+     "texto": "aumento dos efeitos broncodilatadores."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000020046",
+   "codigo": "4000020046",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 67,
+   "temas": [
+    "Arritmias"
+   ],
+   "enunciado": "Pré-escolar, masculino, 5 anos de idade, está internado para a correção cirúrgica de hérnia inguinal. Ao ser examinado, notou-se que a frequência cardíaca era irregular, sem outras anormalidades no exame físico. O Eletrocardiograma (ECG) demonstra o seguinte traçado. Após análise do eletrocardiograma, o diagnóstico é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Arritmia sinusal."
+    },
+    {
+     "letra": "B",
+     "texto": "Bloqueio AV de 1° grau."
+    },
+    {
+     "letra": "C",
+     "texto": "Bloqueio AV de 2° grau."
+    },
+    {
+     "letra": "D",
+     "texto": "Bloqueio de ramo direito."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q067-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000019877",
+   "codigo": "4000019877",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 68,
+   "temas": [
+    "Respiração e Pulso",
+    "Respondividade",
+    "Vias aéreas"
+   ],
+   "enunciado": "Você está fazendo compras no shopping e encontra escolar, aparentando ter entre 8 a 9 anos de idade, deitado no chão e parece inconsciente. Diante desse cenário, seguindo as Diretrizes de Ressuscitação Cardiopulmonar (RCP) 2015, deve-se:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Chamar por ajuda (192) e solicitar desfibrilador externo automático (DEA), afastar curiosos da cena, checar pulso carotídeo e logo após checar respiração e, se ausentes, iniciar compressões torácicas: ventilações (CT:V = 30:2)."
+    },
+    {
+     "letra": "B",
+     "texto": "Avaliar a responsividade da vítima. Se não responde, chamar por ajuda (192) e solicitar DEA, checar pulso carotídeo e respiração simultaneamente e, se ausentes, iniciar compressões torácicas: ventilações (CV:T = 30:2)."
+    },
+    {
+     "letra": "C",
+     "texto": "Afastar curiosos da cena, checar pulso carotídeo e, logo após, checar respiração e, se presentes, solicitar ajuda pra quem tem carro, transportar a vítima para o carro do ajudante e levá-la imediatamente para o pronto-socorro mais próximo."
+    },
+    {
+     "letra": "D",
+     "texto": "Avaliar a responsividade da vítima. Se não responde, chamar por ajuda (192) e solicitar DEA, checar pulso carotídeo e respiração de modo simultâneo e, se ausentes, iniciar compressões torácicas: ventilações (CT: V = 15:2), se você tiver dispositivo de barreira. Se não possuir esse dispositivo, manter somente compressões torácicas 100 a 120/minuto."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000018230",
+   "codigo": "4000018230",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 69,
+   "temas": [
+    "Emergências Pediátricas",
+    "Causas de PCR"
+   ],
+   "enunciado": "Criança de 5 anos foi encontrada inconsciente na piscina por vigilante de um condomínio e foi removida rapidamente para a unidade de pronto atendimento. Não se sabe o tempo de duração do afogamento. Qual é a causa mais comum de morbimortalidade em hospitalizados afogados?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Distúrbio hidroeletrolítico por aspiração de água."
+    },
+    {
+     "letra": "B",
+     "texto": "Insuficiência cardíaca com edema agudo de pulmão."
+    },
+    {
+     "letra": "C",
+     "texto": "Laringoespasmo seguido de relaxamento da laringe com aspiração de água."
+    },
+    {
+     "letra": "D",
+     "texto": "Desenvolvimento de encefalopatia por hipóxia, com ou sem edema cerebral."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000127538",
+   "codigo": "4000127538",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 70,
+   "temas": [
+    "Atualizações",
+    "Emergências Pediátricas"
+   ],
+   "enunciado": "Emergências Pediátricas Parada Cardiorrespiratória PCR e Arritmias na Emergência Sobre reanimação cardiopulmonar em pediatria, é correto afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "As compressões torácicas devem ter profundidade de aproximadamente 3/4 dodiâmetro anteroposterior do tórax."
+    },
+    {
+     "letra": "B",
+     "texto": "O ritmo mais frequente de parada cardiorrespiratória em crianças de 0 a 8 anos étaquicardia ventricular sem pulso."
+    },
+    {
+     "letra": "C",
+     "texto": "O ritmo mais frequente de parada cardiorrespiratória em crianças de 0 a 8 anos é aatividade elétrica sem pulso."
+    },
+    {
+     "letra": "D",
+     "texto": "O socorrista leigo deve utilizar a manobra de elevação do mento para abrir a via aéreados pacientes."
+    },
+    {
+     "letra": "E",
+     "texto": "O socorrista leigo deve utilizar a manobra de tração da mandíbula para abrir a viaaérea do paciente."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000125403",
+   "codigo": "4000125403",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 71,
+   "temas": [
+    "Emergências Pediátricas"
+   ],
+   "enunciado": "Emergências Pediátricas Parada Cardiorrespiratória PCR e Arritmias na Emergência A equipe do SAMU que atendeu a criança acima trouxe o des brilador manual que mostrou: Qual o ritmo e qual a conduta mais apropriada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Trata-se de fibrilação ventricular. Indicado realizar o choque sincronizado 0,5 – 1 Joule/kg e reiniciar compressões torácicas."
+    },
+    {
+     "letra": "B",
+     "texto": "Trata-se de fibrilação ventricular. Indicado realizar o choque não sincronizado 2 Joules/kg e reavaliar pulso central e, se persistir mesmo ritmo, repetir choque não sincronizado 4 Joules/kg."
+    },
+    {
+     "letra": "C",
+     "texto": "Trata-se de taquicardia ventricular sem pulso. Indicado realizar o choque não sincronizado 2 Joules/kg e reiniciar compressões torácicas."
+    },
+    {
+     "letra": "D",
+     "texto": "Trata-se de fibrilação ventricular. Indicado realizar o choque não sincronizado 2 Joules/kg e reiniciar compressões torácicas."
+    },
+    {
+     "letra": "E",
+     "texto": "Trata-se de taquicardia ventricular sem pulso. Indicado realizar o choque sincronizado 2 Joules/kg e reiniciar compressões torácicas."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q071-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000125402",
+   "codigo": "4000125402",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 72,
+   "temas": [
+    "Respiração e Pulso",
+    "Respondividade",
+    "Vias aéreas"
+   ],
+   "enunciado": "Criança, 4 anos, estava brincando no parque e você a viu cair subitamente, inconsciente. Ao tentar chamá-la, percebe que ela está arresponsiva, não respira e seu pulso central não é palpável. Você está sozinho. Qual é a conduta mais aceitável?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Chamar ajuda, já iniciar as compressões torácicas sincronizadas com ventilação boca-a-boca 30:2, reavaliar pulso após cada 5 ciclos."
+    },
+    {
+     "letra": "B",
+     "texto": "Checar respiração, fazer 2 ventilações de resgate, rever pulso central, iniciar compressões sincronizadas com ventilação 30:2, reavaliar pulso após 5 ciclos."
+    },
+    {
+     "letra": "C",
+     "texto": "Checar respiração, fazer 2 ventilações de resgate, rever pulso central, iniciar compressões sincronizadas com ventilação 30:2, reavaliar pulso após 5 minutos."
+    },
+    {
+     "letra": "D",
+     "texto": "Chamar ajuda, já iniciar as compressões torácicas sincronizadas com ventilação boca-a-boca 30:2, reavaliar pulso após cada 10 ciclos."
+    },
+    {
+     "letra": "E",
+     "texto": "Chamar ajuda, já iniciar as compressões torácicas sincronizadas com ventilação boca-a-boca 15:2, reavaliar pulso após cada 5 ciclos."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000124438",
+   "codigo": "4000124438",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 73,
+   "temas": [
+    "Emergências Pediátricas Parada Cardiorrespiratória PCR e Arritmias na Emergência",
+    "Pediatria"
+   ],
+   "enunciado": "Paciente de 7 anos encontra-se em atendimento na emergência em razão de uma parada cardiorrespiratória por assistolia. Após cerca de 5 minutos, observou-se ritmo organizado no monitor cardíaco. Qual a conduta a ser adotada imediatamente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Suspender as manobras de reanimação e administrar amiodarona por via intravenosa."
+    },
+    {
+     "letra": "B",
+     "texto": "Suspender as manobras de reanimação e otimizar a oxigenoterapia."
+    },
+    {
+     "letra": "C",
+     "texto": "Suspender as manobras de reanimação e realizar cardioversão elétrica sincronizada."
+    },
+    {
+     "letra": "D",
+     "texto": "Verificar o pulso central e, se ausente, administrar vasopressina e atropina ou lidocaína por via intravenosa ou intraóssea."
+    },
+    {
+     "letra": "E",
+     "texto": "Verificar o pulso central e, se ausente, manter as manobras rotineiras de reanimação."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000112006",
+   "codigo": "4000112006",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 74,
+   "temas": [
+    "Tratamento",
+    "Corpo EstranhoEngasgo"
+   ],
+   "enunciado": "Numa tentativa de desobstrução por engasgo em lactente de nove meses de idade, assinale a alternativa ERRADA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Administrar cinco pancadas firmes entre as escápulas usando a base das mãos."
+    },
+    {
+     "letra": "B",
+     "texto": "Fazer compressões abdominais (manobra de Heimelich)."
+    },
+    {
+     "letra": "C",
+     "texto": "Não tentar varredura digital à procura do corpo estranho na boca da criança."
+    },
+    {
+     "letra": "D",
+     "texto": "Segurar a criança em seu antebraço com o abdômen para baixo e a cabeça mais abaixada que o tórax."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000109972",
+   "codigo": "4000109972",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 75,
+   "temas": [
+    "Emergências Pediátricas Parada Cardiorrespiratória PCR e Arritmias na Emergência",
+    "Pediatria"
+   ],
+   "enunciado": "Lactente de 1 ano é encontrado inconsciente no berço da creche. No local, há uma enfermeira que verifica não haver pulso central. Além de chamar ajuda, a primeira conduta a ser tomada é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "abrir a via aérea, inclinando a cabeça e elevando o queixo do bebê."
+    },
+    {
+     "letra": "B",
+     "texto": "iniciar ventilação com ambu e máscara."
+    },
+    {
+     "letra": "C",
+     "texto": "iniciar compressões torácicas."
+    },
+    {
+     "letra": "D",
+     "texto": "aplicar choque com desfibrilador portátil."
+    },
+    {
+     "letra": "E",
+     "texto": "realizar manobra de Heimlich."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000103724",
+   "codigo": "4000103724",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 76,
+   "temas": [
+    "Emergências Pediátricas Parada Cardiorrespiratória PCR e Arritmias na Emergência",
+    "Pediatria"
+   ],
+   "enunciado": "Menino de 8 anos de idade estava no clube jogando futebol quando apresentou perda súbita de consciência. Foi avaliado imediatamente pelo médico do clube, que notou que a criança não respondia e não tinha pulso. O médico chamou ajuda e iniciou as compressões torácicas e ventilação, na relação de 30:2. Os maqueiros do clube levaram a criança até uma sala de emergência onde o médico do clube checou o ritmo cardíaco com as pás do monitor, obtendo o seguinte achado: Qual é a conduta para o caso nesse momento?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Desfibrilação elétrica com carga de 2 J/kg."
+    },
+    {
+     "letra": "B",
+     "texto": "Choque sincronizado com carga de 4 J/kg."
+    },
+    {
+     "letra": "C",
+     "texto": "Amiodarona na dose de 5 mg/kg."
+    },
+    {
+     "letra": "D",
+     "texto": "Adenosina na dose de 0,6 mg/kg."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q076-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000099788",
+   "codigo": "4000099788",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 77,
+   "temas": [
+    "Manobra de Heimlich",
+    "Corpo EstranhoEngasgo"
+   ],
+   "enunciado": "Criança, 6a, engasgou com um pedaço de bala dura. Não consegue falar e respirar efetivamente, tenta tossir mas não consegue. Mantém os olhos “arregalados” e as mãos no pescoço. A conduta imediata é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Deitar a criança no chão e iniciar reanimação cardiopulmonar."
+    },
+    {
+     "letra": "B",
+     "texto": "Varredura digital, às cegas, para retirar o corpo estranho."
+    },
+    {
+     "letra": "C",
+     "texto": "Dar golpes nas costas com a criança em decúbito lateral."
+    },
+    {
+     "letra": "D",
+     "texto": "Rápidas compressões em região epigástrica."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000083054",
+   "codigo": "4000083054",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 78,
+   "temas": [
+    "Suporte Avançado de Vida",
+    "Causas de PCR"
+   ],
+   "enunciado": "Diante de uma criança em Parada Cardiorrespiratória (PCR), deve-se considerar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A primeira avaliação do ritmo deve ser feita obrigatoriamente junto com o reconhecimento da própria PCR."
+    },
+    {
+     "letra": "B",
+     "texto": "O uso de gluconato de cálcio, intravenoso ou por infusão intraóssea, garante o melhor prognóstico nessas situações."
+    },
+    {
+     "letra": "C",
+     "texto": "A administração de adrenalina, intravenosa ou intratraqueal, somente está recomendada nas situações onde há presença de ritmos não chocáveis."
+    },
+    {
+     "letra": "D",
+     "texto": "Após a obtenção e garantia de via aérea avançada, a frequência respiratória a ser imposta ao paciente deverá ser 30 movimentos por minuto."
+    },
+    {
+     "letra": "E",
+     "texto": "No caso de PCR persistente, após a terceira dose de adrenalina intravenosa, está indicada uma dose de 1 ml de atropina intravenosa."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000082951",
+   "codigo": "4000082951",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 79,
+   "temas": [
+    "Taquicardia Supraventricular TSV"
+   ],
+   "enunciado": "A droga de escolha para o tratamento inicial de uma criança com taquicardia supraventricular que se encontra em bom estado clínico geral e sem sinais de descompensação hemodinâmica é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Sulfato de magnésio."
+    },
+    {
+     "letra": "B",
+     "texto": "Adenosina."
+    },
+    {
+     "letra": "C",
+     "texto": "Amiodarona."
+    },
+    {
+     "letra": "D",
+     "texto": "Lidocaína."
+    },
+    {
+     "letra": "E",
+     "texto": "Propranolol."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000055252",
+   "codigo": "4000055252",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 80,
+   "temas": [
+    "Respiração e Pulso",
+    "Respondividade",
+    "Introdução"
+   ],
+   "enunciado": "Um médico está passeando no Boulevard Shopping quando uma avó começa a gritar histericamente, pedindo por socorro porque seu neto de cinco anos estava brincando e desmaiou de repente. A impressão inicial mostra uma possível Parada cardiorrespiratória (PCR). De acordo com as normas de 2015 da AHA, o médico deve",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "iniciar imediatamente a Ressuscitação Cardiorrespiratória pelas compressões torácicas."
+    },
+    {
+     "letra": "B",
+     "texto": "solicitar Monitorização Oxigênio e Veia, porque é a primeira medida a ser realizada em qualquer paciente gravemente enfermo."
+    },
+    {
+     "letra": "C",
+     "texto": "checar a Responsividade, chamar por ajuda e pedir o DEA, checar o pulso central e a respiração simultaneamente por no mínimo 5 e no máximo 10 segundos; se o pulso estiver ausente e a criança não respira ou na presença de gasping, iniciar as compressões torácicas e respiração boca a boca (30:2)."
+    },
+    {
+     "letra": "D",
+     "texto": "iniciar imediatamente ventilação com pressão positiva e depois as compressões torácicas, considerando que a principal causa de PCR em Pediatria é a hipóxia."
+    },
+    {
+     "letra": "E",
+     "texto": "checar a Responsividade, chamar por ajuda e checar o pulso central e a respiração simultaneamente por no mínimo 5 e no máximo 10 segundos; se o pulso estiver ausente e a criança não respirar ou na presença de gasping, chamar por ajuda e pedir o DEA, iniciar as compressões torácicas e respiração boca a boca (15:2)."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000050751",
+   "codigo": "4000050751",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 81,
+   "temas": [
+    "Emergências Pediátricas Parada Cardiorrespiratória PCR e Arritmias na Emergência",
+    "Pediatria"
+   ],
+   "enunciado": "Sobre a parada cárdio-respiratória (PCR) na infância assinale as alternativas que se encontram corretas: I - O prognóstico da PCR na criança é melhor que no adulto; II - A principal causa de PCR hospitalar é a insuficiência respiratória; III - A relação entre massagem e ventilação deve ser de 30:2 em todas as idades e qualquer situação; IV - A frequência da massagem cardíaca deve ficar entre 100 e 120 por minuto.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I e II apenas."
+    },
+    {
+     "letra": "B",
+     "texto": "II e III apenas."
+    },
+    {
+     "letra": "C",
+     "texto": "II e IV apenas."
+    },
+    {
+     "letra": "D",
+     "texto": "I, II e III apenas."
+    },
+    {
+     "letra": "E",
+     "texto": "II, III e IV apenas."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000031652",
+   "codigo": "4000031652",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 82,
+   "temas": [
+    "Arritmias"
+   ],
+   "enunciado": "A carga inicial de uma cardioversão sincronizada em uma escolar de 6 anos, pesando 20 quilos, é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "4 J."
+    },
+    {
+     "letra": "B",
+     "texto": "2 J."
+    },
+    {
+     "letra": "C",
+     "texto": "8 J."
+    },
+    {
+     "letra": "D",
+     "texto": "10 J."
+    },
+    {
+     "letra": "E",
+     "texto": "6 J."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000029709",
+   "codigo": "4000029709",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 83,
+   "temas": [
+    "Bloqueio Atriventricular"
+   ],
+   "enunciado": "A arritmia cardíaca neonatal que está associada com a passagem transplacentária de anticorpos maternos anti-Ro e anti-La é?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Arritmia sinusal"
+    },
+    {
+     "letra": "B",
+     "texto": "Extrassístole ventricular"
+    },
+    {
+     "letra": "C",
+     "texto": "Taquicardia supraventricular"
+    },
+    {
+     "letra": "D",
+     "texto": "Bloqueio atrioventricular"
+    },
+    {
+     "letra": "E",
+     "texto": "Fibrilação atrial"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000026622",
+   "codigo": "4000026622",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 84,
+   "temas": [
+    "Síndrome de Lof f ler",
+    "Pneumologia Pediátrica",
+    "Diagnóstico Dif erencial"
+   ],
+   "enunciado": "Um pré-escolar de 5 anos é levado à unidade de pronto-atendimento pela mãe que relatou quadro de febre, tosse e cansaço há 48 horas. O exame físico revela ausculta pulmonar com estertoração localizada à direita. Raio-X de tórax: hipotransparência em hemitórax direito. Nos últimos 6 meses, é a terceira vez que apresenta os mesmos sintomas e imagem pulmonar no mesmo local. A mãe referiu que a criança sempre foi saudável. Na família, só a criança tem apresentado esses sintomas. O diagnóstico mais provável, para esse caso, é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Síndrome de Loeffler."
+    },
+    {
+     "letra": "B",
+     "texto": "Tumor endobrônquico."
+    },
+    {
+     "letra": "C",
+     "texto": "Aspiração de corpo estranho."
+    },
+    {
+     "letra": "D",
+     "texto": "Tuberculose pulmonar."
+    },
+    {
+     "letra": "E",
+     "texto": "Pneumonia atípica."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000098569",
+   "codigo": "4000098569",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 85,
+   "temas": [
+    "Quadro Clínico",
+    "Diagnóstico"
+   ],
+   "enunciado": "Menino, 3a, chega à Unidade de Emergência Pediátrica com história de tosse, dificuldade respiratória e chiado no peito há 2 horas. A cuidadora nega febre ou quadro viral pregresso. No primeiro ano de vida, relata 3 episódios de sibilância, de curta duração, tratadas no domicílio com nebulização com droga beta 2 agonista. Exame físico: regular estado geral, FC= 130 bpm, FR= 54 irpm, oximetria de pulso (ar ambiente)= 89%; afebril; Pulmão: retração subcostal bilateral, diminuição da entrada de ar à esquerda e sibilos disseminados. Iniciada oxigenioterapia com máscara e nebulização com salbutamol. Radiograma de tórax (Conforme imagem do caderno de questões). A CONDUTA É:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Intubação endotraqueal."
+    },
+    {
+     "letra": "B",
+     "texto": "Manobra de desobstrução."
+    },
+    {
+     "letra": "C",
+     "texto": "Solicitar broncoscopia."
+    },
+    {
+     "letra": "D",
+     "texto": "Punção de tórax à direita."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q085-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000090707",
+   "codigo": "4000090707",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 86,
+   "temas": [
+    "Taquicardia Supraventricular TSV"
+   ],
+   "enunciado": "Qual a droga de escolha para o tratamento da taquicardia supraventricular com pulso e perfusão adequadas na infância?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Amiodarona."
+    },
+    {
+     "letra": "B",
+     "texto": "Procainamida."
+    },
+    {
+     "letra": "C",
+     "texto": "Adenosina."
+    },
+    {
+     "letra": "D",
+     "texto": "Adrenalina."
+    },
+    {
+     "letra": "E",
+     "texto": "Lidocaína."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000079115",
+   "codigo": "4000079115",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 87,
+   "temas": [
+    "Acesso Vascular"
+   ],
+   "enunciado": "Assinale a assertiva correta em relação ao acesso intraósseo.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "É recomendado somente nos casos de parada cardiorrespiratória prolongada."
+    },
+    {
+     "letra": "B",
+     "texto": "Derivados sanguíneos como plasma e plaquetas não podem ser administrados por essa via."
+    },
+    {
+     "letra": "C",
+     "texto": "A osteomielite é uma complicação frequente, ocorrendo em um terço dos casos."
+    },
+    {
+     "letra": "D",
+     "texto": "Está indicado para lactentes, não devendo ser utilizado em crianças maiores."
+    },
+    {
+     "letra": "E",
+     "texto": "A porção anterior proximal da tíbia pode ser utilizada como local de acesso."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000058354",
+   "codigo": "4000058354",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 88,
+   "temas": [
+    "Tratamento",
+    "Quadro Clínico",
+    "Diagnóstico"
+   ],
+   "enunciado": "Lactente 1 ano e 6 meses estava brincando no chão da cozinha, quando a sua mãe ouviu-a tossir intensa. Ela foi até a criança e notou, além da tosse intensa, apresentava cianose e estridor leves com tiragem e taquipneia. Antes desse momento, o menor apresentava-se bem e sem sintomas respiratórios. Foi atendida no pronto atendimento, apresentava-se taquipneico com redução do murmúrio vesicular em ápice direito, associado a alguns sibilos. Assinale o diagnóstico mais provável e terapêutica mais adequada para este caso.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Bronquiolite viral aguda; oxigenoterapia e suporte."
+    },
+    {
+     "letra": "B",
+     "texto": "Crupe espasmódico; inalação com adrenalina"
+    },
+    {
+     "letra": "C",
+     "texto": "Crise de asma; inalação com broncodilatador de curta duração."
+    },
+    {
+     "letra": "D",
+     "texto": "Pneumonia atípica; macrolídeos e inalação com broncodilatador de curta duração."
+    },
+    {
+     "letra": "E",
+     "texto": "Aspiração de corpo estranho; broncoscopia para visualização direta e retirada."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000057280",
+   "codigo": "4000057280",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 89,
+   "temas": [
+    "Acesso Vascular"
+   ],
+   "enunciado": "Na parada cardiorrespiratória (PCR), nas raras situações em que não há acesso venoso ou intraósseo disponível, a via endotraqueal pode ser uma alternativa para um grupo de drogas. As medicações que podem ser utilizadas, via cânula endotraqueal, são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Amiodarona, naloxone, epinefrina e lidocaína."
+    },
+    {
+     "letra": "B",
+     "texto": "Atropina, naloxone, epinefrina e lidocaína."
+    },
+    {
+     "letra": "C",
+     "texto": "Adrenalina, noradrenalina, etomidato e linezolida."
+    },
+    {
+     "letra": "D",
+     "texto": "Atropina, noradrenalina, etomidato e lidocaína."
+    },
+    {
+     "letra": "E",
+     "texto": "Adrenalina, naloxone, etomidato e lidocaína."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000053362",
+   "codigo": "4000053362",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 90,
+   "temas": [
+    "Taquicardia Supraventricular TSV"
+   ],
+   "enunciado": "Lactente de seis meses, sexo masculino, é trazido à emergência por sua mãe que relata que há 12 horas seu lho está irritado, mamando menos, pálido e suando muito. Não há relato de febre ou qualquer sinal de infecção. Exame físico: afebril, sugando a chupeta com ansiedade, pálido irritado, FC: 250bpm, pulsos palpáveis, FR: 60irpm, PA: 90 x 50mmHg, com boa entrada de ar nos pulmões, saturação de O2: 100% em ar ambiente. O monitor cardíaco evidencia complexos QRS estreitos com ausência de onda P. Após paciente ser colocado em oxigenioterapia, a droga de escolha a ser utilizada na reversão desse quadro é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Atropina."
+    },
+    {
+     "letra": "B",
+     "texto": "Lidocaína."
+    },
+    {
+     "letra": "C",
+     "texto": "Verapamil."
+    },
+    {
+     "letra": "D",
+     "texto": "Adenosina."
+    },
+    {
+     "letra": "E",
+     "texto": "Sulfato de magnésio."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000027551",
+   "codigo": "4000027551",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 91,
+   "temas": [
+    "Taquicardia Supraventricular TSV"
+   ],
+   "enunciado": "Lactente de seis meses, sexo masculino, é trazido à emergência com irritabilidade, palidez, gemência e sudorese. Não há relato de febre ou qualquer sinal de infecção. Exame físico: afebril, sugando a chupeta com ansiedade, pálido, irritado, FC: 250bpm, pulsos palpáveis, FR: 64irpm, PA: 80 x 50mmHg, com boa entrada de ar nos pulmões, saturação de O2: 100% em ar ambiente. O monitor cardíaco evidencia complexos QRS estreitos com ausência de onda P. Após paciente ser colocado em oxigenioterapia, a droga de escolha a ser utilizada na reversão desse quadro é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Atropina"
+    },
+    {
+     "letra": "B",
+     "texto": "Lidocaína"
+    },
+    {
+     "letra": "C",
+     "texto": "Verapamil"
+    },
+    {
+     "letra": "D",
+     "texto": "Adenosina"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000007737",
+   "codigo": "4000007737",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 92,
+   "temas": [
+    "Introdução",
+    "Rítmo Cardíaco"
+   ],
+   "enunciado": "Criança de 3 anos chega ao pronto-socorro trazido pelo serviço de resgate, com história de ter sido encontrado submerso em uma caixa d’água de 500 litros. A equipe está procedendo a reanimação cardiorrespiratória. Na chegada, é administrado epinefrina e identi cada ausência de pulsos. Baseado na imagem do ECG apresentado a seguir, (Conforme imagem do caderno de questões) o diagnóstico é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Atividade elétrica sem pulso."
+    },
+    {
+     "letra": "B",
+     "texto": "Ritmo juncional."
+    },
+    {
+     "letra": "C",
+     "texto": "Assistolia devido à ausência de pulsos."
+    },
+    {
+     "letra": "D",
+     "texto": "Arritmia sinusal."
+    },
+    {
+     "letra": "E",
+     "texto": "Dissociação ventrículo-atrial."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q092-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000128059",
+   "codigo": "4000128059",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 93,
+   "temas": [
+    "Emergências Pediátricas Parada Cardiorrespiratória PCR e Arritmias na Emergência",
+    "Pediatria"
+   ],
+   "enunciado": "Você é chamado para avaliar uma criança que desmaiou. Na avaliação inicial, é observado que a criança não respira e não apresenta pulsos detectáveis. Após a chegada do des brilador, é detectado no monitor o seguinte ritmo cardíaco (VER IMAGEM): Com base no traçado acima e na conduta a ser tomada, marque a alternativa correta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Taquicardia supraventricular / Adenosina."
+    },
+    {
+     "letra": "B",
+     "texto": "Taquicardia sinusal / Pesquisar e tratar a causa."
+    },
+    {
+     "letra": "C",
+     "texto": "Fibrilação Ventricular /Choque de 2 J/kg."
+    },
+    {
+     "letra": "D",
+     "texto": "Taquicardia ventricular / Cardioversão sincronizada."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q093-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000123732",
+   "codigo": "4000123732",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 94,
+   "temas": [
+    "Arritmias"
+   ],
+   "enunciado": "Paciente de 9 anos de idade, previamente hígido, desmaia enquanto estava de pé e tem breve perda de consciência. Repete o quadro no mesmo dia e tem crise convulsiva generalizada, de menos de 1 minuto de duração. Sem antecedentes pessoais e familiares compatíveis. Ao exame, glicemia: normal; FC = 50 bpm; RX de tórax normal; ECG: bloqueio atrioventricular 2:1 e complexo QRS amplos. O passo inicial mais apropriado é?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Internação para monitoramento cardíaco."
+    },
+    {
+     "letra": "B",
+     "texto": "Solicitar Holter de 24 horas, monitorando ambulatorialmente."
+    },
+    {
+     "letra": "C",
+     "texto": "Solicitar ecocardiograma de urgência."
+    },
+    {
+     "letra": "D",
+     "texto": "Solicitar EEG ambulatorialmente."
+    },
+    {
+     "letra": "E",
+     "texto": "Internação para realização de curva glicêmica."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000122114",
+   "codigo": "4000122114",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 95,
+   "temas": [
+    "Taquicardia Supraventricular TSV"
+   ],
+   "enunciado": "Um pré-escolar de 3 anos chega ao pronto-socorro com quadro de arritmia. O médico de plantão tenta induzir uma manobra vagal aplicando uma bolsa de gelo na face da criança. Essa criança provavelmente apresenta uma taquicardia:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ventricular hemodinamicamente estável."
+    },
+    {
+     "letra": "B",
+     "texto": "Supraventricular hemodinamicamente estável."
+    },
+    {
+     "letra": "C",
+     "texto": "Supraventricular hemodinamicamente instável."
+    },
+    {
+     "letra": "D",
+     "texto": "Ventricular sem pulso."
+    },
+    {
+     "letra": "E",
+     "texto": "Ventricular hemodinamicamente instável."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000064612",
+   "codigo": "4000064612",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 96,
+   "temas": [
+    "Terapia Farmacológica"
+   ],
+   "enunciado": "A dose de adrenalina na reanimação pediátrica é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1 mg/kg."
+    },
+    {
+     "letra": "B",
+     "texto": "0,1 mg/kg."
+    },
+    {
+     "letra": "C",
+     "texto": "0,01 mg/kg."
+    },
+    {
+     "letra": "D",
+     "texto": "0,001 mg/kg."
+    },
+    {
+     "letra": "E",
+     "texto": "0,0001 mg/kg."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000064602",
+   "codigo": "4000064602",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 97,
+   "temas": [
+    "Introdução"
+   ],
+   "enunciado": "Em Pediatria, o ritmo mais frequentemente encontrado na parada cardiorrespiratória é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Assistolia."
+    },
+    {
+     "letra": "B",
+     "texto": "Fibrilação ventricular."
+    },
+    {
+     "letra": "C",
+     "texto": "Fibrilação atrial."
+    },
+    {
+     "letra": "D",
+     "texto": "Taquicardia ventricular."
+    },
+    {
+     "letra": "E",
+     "texto": "Taquicardia supraventricular."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000009956",
+   "codigo": "4000009956",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 98,
+   "temas": [
+    "Taquicardia Supraventricular TSV"
+   ],
+   "enunciado": "Um lactente de 5 meses chega ao pronto-socorro com frequência cardíaca de 220 batimentos por minuto, pulsos palpáveis e enchimento capilar de 2 segundos. Levado para a sala de emergência, administrado oxigênio e observado no monitor cardíaco: QRS estreito (< 0,09s), intervalo R-P \"menor ou igual a\" 70ms e intervalo R-R constante. Qual das seguintes opções seria mais adequada? Respostas: 1 12 23 34 45 56 67 78 89",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Administração de gluconato de cálcio IV ou IO."
+    },
+    {
+     "letra": "B",
+     "texto": "Administração de epinefrina IV ou IO."
+    },
+    {
+     "letra": "C",
+     "texto": "Administração de bolus rápido de adenosina IV ou IO."
+    },
+    {
+     "letra": "D",
+     "texto": "Administração de atropina IV ou IO."
+    },
+    {
+     "letra": "E",
+     "texto": "Administração de sulfato de magnésio IV ou IO."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": [
+  {
+   "id": "4000184082",
+   "codigo": "4000184082",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 6,
+   "temas": [
+    "Manejo da Via Aérea"
+   ],
+   "enunciado": "Paciente de 2 meses, sexo masculino, foi admitido no pronto atendimento após mãe ter notado que ele estava com os lábios arroxeados. Na admissão, encontrava-se arresponsivo, com perda de tônus muscular e com respiração super cial e hipoxemia, tendo sido prontamente iniciadas ventilações assistidas. O paciente havia recebido as imunizações previstas no calendário vacinal há cerca de 5 horas e teve febre precedendo o quadro. Assinale a alternativa abaixo na qual está representada a escolha da máscara adequada, o posicionamento correto do coxim e o posicionamento correto da mão na máscara.",
+   "alternativas": [],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q006-1.jpg",
+     "antes_das_alternativas": true
+    },
+    {
+     "arquivo": "imagens/q006-2.jpg",
+     "antes_das_alternativas": false
+    },
+    {
+     "arquivo": "imagens/q006-3.jpg",
+     "antes_das_alternativas": false
+    },
+    {
+     "arquivo": "imagens/q006-4.jpg",
+     "antes_das_alternativas": false
+    }
+   ],
+   "revisar": [],
+   "motivo_exclusao": "sem alternativas"
+  },
+  {
+   "id": "4000167450",
+   "codigo": "4000167450",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 22,
+   "temas": [
+    "Emergências Pediátricas Parada Cardiorrespiratória PCR e Arritmias na Emergência"
+   ],
+   "enunciado": "Quadro Clínico e Indicações de Tomograf ia de Crânio Menino, 5a, estava sentado nos ombros do pai quando sofreu queda com trauma na região frontal do crânio no solo. O pai mede cerca de 1,80m. Ele conta que o lho chorou muito e apresentou um episódio de vômito. Nega dor de cabeça e perda de consciência. Exame físico: acordado, movimenta os quatro membros e comunica-se normalmente; hematoma subgaleal em região frontal; otoscopia e rinoscopia normais. A CONDIÇÃO DESCRITA QUE APONTA O RISCO ALTO (PECARN), COM NECESSIDADE DE TOMOGRAFIA DE CRÂNIO OU OBSERVAÇÃO HOSPITALAR É:",
+   "alternativas": [],
+   "gabarito": null,
+   "imagens": [],
+   "revisar": [],
+   "motivo_exclusao": "sem alternativas"
+  },
+  {
+   "id": "4000011621",
+   "codigo": "4000011621",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 50,
+   "temas": [
+    "Emergências Pediátricas Parada Cardiorrespiratória PCR e Arritmias na Emergência"
+   ],
+   "enunciado": "Suporte Básico de Vida Menino, 8 anos de idade, cai subitamente enquanto participava de partida de futebol na quadra de um clube que possui enfermaria bem equipada para suporte a torneios. Veri cou-se que a criança não está responsiva. Considerando as recomendações, atualizadas em 2018, da American Heart Association e da Sociedade Brasileira de Pediatria, para a faixa etária pediátrica, indique duas drogas a serem empregadas, considerando que não houve reversão após desfibrilação.",
+   "alternativas": [],
+   "gabarito": null,
+   "imagens": [],
+   "revisar": [],
+   "motivo_exclusao": "sem alternativas"
+  },
+  {
+   "id": "4000011620",
+   "codigo": "4000011620",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Emergências Pediátricas",
+   "numero": 51,
+   "temas": [
+    "Atualizações",
+    "Desf ibrilador Externo Automático DEA"
+   ],
+   "enunciado": "Menino, 8 anos de idade, cai subitamente enquanto participava de partida de futebol na quadra de um clube que possui enfermaria bem equipada para suporte a torneios. Veri cou-se que a criança não está responsiva. Considerando as recomendações, atualizadas em 2018, da American Heart Association e da Sociedade Brasileira de Pediatria, para a faixa etária pediátrica, sabendo que a criança apresentou necessidade de des brilação cardíaca, especi que um ritmo cardíaco que gerou essa necessidade",
+   "alternativas": [],
+   "gabarito": null,
+   "imagens": [],
+   "revisar": [],
+   "motivo_exclusao": "sem alternativas"
+  }
+ ]
+}

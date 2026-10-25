@@ -1,0 +1,601 @@
+{
+ "questoes": [
+  {
+   "id": "4000080625",
+   "codigo": "4000080625",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diabetes Mellitus Hiperglicemia Hospitalar",
+   "numero": 2,
+   "temas": [
+    "Paciente não crítico"
+   ],
+   "enunciado": "Mulher de 61 anos com antecedente de diabetes foi internada no hospital para tratamento de doença pulmonar obstrutiva crônica descompensada. Como prescrição de medicamentos foram incluídos piperacilina tazobactam 4,5 g 6/6h e prednisona 60 mg pela manhã, além dos broncodilatadores. A paciente foi mantida em dieta oral para diabéticos. Nas últimas 24h, os controles de glicemia capilar foram: 6h = 182; 12h = 211; 17h = 289; 22h = 257. A melhor alternativa terapêutica para controle da hiperglicemia dessa paciente é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "sitagliptina."
+    },
+    {
+     "letra": "B",
+     "texto": "insulina regular conforme glicemia capilar."
+    },
+    {
+     "letra": "C",
+     "texto": "metformina."
+    },
+    {
+     "letra": "D",
+     "texto": "insulina NPH aplicada pela manhã."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000122845",
+   "codigo": "4000122845",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diabetes Mellitus Hiperglicemia Hospitalar",
+   "numero": 3,
+   "temas": [
+    "Paciente não crítico"
+   ],
+   "enunciado": "Homem de 48 anos de idade, com história de diabetes mellitus tipo 2 há 5 anos foi admitido na enfermaria com história de febre e tosse produtiva há 3 dias. Foi feito o diagnóstico de pneumonia de lobo inferior direito pela radiogra a de tórax. Vinha em uso de metformina 850 mg 2 vezes ao dia e sitagliptina 100 mg ao dia. Os exames solicitados na admissão mostravam glicose 284 mg/dL, HbA1C 8,4%, creatina 1,2 mg/dL (CKD-EPI 71 mL/min/1.73 m2). O paciente será mantido em dieta oral para diabéticos. O melhor esquema para manejo da hiperglicemia do paciente é usar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "insulina regular conforme glicemia capilar."
+    },
+    {
+     "letra": "B",
+     "texto": "insulina no esquema basal-bolus."
+    },
+    {
+     "letra": "C",
+     "texto": "sitagliptina e insulina regular conforme glicemia caplar."
+    },
+    {
+     "letra": "D",
+     "texto": "metformina e insulina regular conforme glicemia capilar."
+    },
+    {
+     "letra": "E",
+     "texto": "manter medicação usual e usar insulina regular durante conforme a glicemia."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000048203",
+   "codigo": "4000048203",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diabetes Mellitus Hiperglicemia Hospitalar",
+   "numero": 4,
+   "temas": [
+    "Tratamento",
+    "Avaliação inicial e monitorização"
+   ],
+   "enunciado": "“A prevalência de DM em internados varia de 15% a 35% e aumenta com a idade, a gravidade e a presença de comorbidades. O DM afeta 25% dos internados por cardiopatias, 30% dos portadores de infecção e até 50% dos idosos com demência e em nutrição enteral. O número de internações de diabéticos cresceu de 60% a 140% nos últimos dez anos em diversos países, inclusive no Brasil.” Posicionamento O cial da Sociedade Brasileira de Diabetes sobre o Controle da Glicemia no Paciente Hospitalizado – 2015. Considerando esse cenário, ao admitir na Unidade de Internamento de Clínica Médica um paciente com diabetes e com pneumonia da comunidade em uso domiciliar de Metformina e Glimepirida, com bom controle prévio, você deveria:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "manter as medicações orais de uso domiciliar, uma vez que o paciente possuía bom controle prévio."
+    },
+    {
+     "letra": "B",
+     "texto": "iniciar insulina regular correcional, conforme glicemia capilar, como opção única, visto paciente hospitalizado."
+    },
+    {
+     "letra": "C",
+     "texto": "iniciar insulina basal e correcional, podendo manter a Biguanida de uso domiciliar (Metformina)."
+    },
+    {
+     "letra": "D",
+     "texto": "solicitar glicemia capilar pré-prandial e hemoglobina glicosilada, que serão utilizadas para guiar a terapêutica."
+    },
+    {
+     "letra": "E",
+     "texto": "iniciar insulina correcional, dando preferência à NPH ou a Glargina, nesse caso."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047826",
+   "codigo": "4000047826",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diabetes Mellitus Hiperglicemia Hospitalar",
+   "numero": 5,
+   "temas": [
+    "Tratamento",
+    "Metas glicêmicas",
+    "Avaliação inicial e monitorização"
+   ],
+   "enunciado": "Em relação ao controle da hiperglicemia no ambiente hospitalar, é CORRETO afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O esquema de administração de insulina regular conforme a glicemia capilar é o mais recomendado."
+    },
+    {
+     "letra": "B",
+     "texto": "Deve-se solicitar a hemoglobina glicada no momento da admissão para avaliação do controle prévio."
+    },
+    {
+     "letra": "C",
+     "texto": "Em nenhuma circunstância é recomendada a continuidade dos agentes antidiabéticos orais."
+    },
+    {
+     "letra": "D",
+     "texto": "O uso de análogos de insulina se mostrou, nos estudos, muito superior às insulinas tradicionais."
+    },
+    {
+     "letra": "E",
+     "texto": "A meta glicêmica ideal são glicemias abaixo de 100 mg/dl em jejum e abaixo de 140 mg/dl pós-prandiais."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000037641",
+   "codigo": "4000037641",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diabetes Mellitus Hiperglicemia Hospitalar",
+   "numero": 6,
+   "temas": [
+    "Fisiopatogenia",
+    "Epidemiologia"
+   ],
+   "enunciado": "Aproximadamente 36% dos indivíduos hospitalizados apresentam hiperglicemia e, dois terços deles são diabéticos, sendo que a hiperglicemia agrava o prognóstico. De pacientes com e sem DM, a hiperglicemia que ocorre em pacientes sem diagnóstico prévio de DM é denominada de hiperglicemia por estresse. Sendo INCORRETO que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A hiperglicemia por estresse, principal diagnóstico diferencial do DM entre internados, é caracterizada pela elevação transitória e irreversível da glicemia em situações agudas, como doenças graves, cirurgia, trauma, choque, e pelo uso de medicamentos e de nutrição enteral ou parenteral."
+    },
+    {
+     "letra": "B",
+     "texto": "Essa condição afeta cerca de 10% dos internados e está associada a prognóstico mais grave, com mortalidade de 16%, em comparação a 3% entre os diabéticos e a 1,7% entre os não diabéticos."
+    },
+    {
+     "letra": "C",
+     "texto": "A hiperglicemia decorre da resposta hormonal (epinefrina, glucagon, GH e cortisol) e inflamatória (TNF e interleucinas) ao estresse, o que eleva a produção hepática de glicose e a resistência à insulina e piora a função da célula beta."
+    },
+    {
+     "letra": "D",
+     "texto": "A administração de corticoides, catecolaminas e glicose agrava esse estado."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000033283",
+   "codigo": "4000033283",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diabetes Mellitus Hiperglicemia Hospitalar",
+   "numero": 7,
+   "temas": [
+    "Avaliação inicial e monitorização"
+   ],
+   "enunciado": "Acerca das boas normas, considerações e práticas para o diagnóstico do DM e da hiperglicemia em pacientes hospitalizados, aponte a opção que é considerada INADEQUADA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O diagnóstico de DM deve ser investigado somente nas admissões que ocorrerem suspeita clínica."
+    },
+    {
+     "letra": "B",
+     "texto": "Entre os diabéticos, deve-se identificar o tipo, o tratamento, o nível de controle e a frequência da hipoglicemia."
+    },
+    {
+     "letra": "C",
+     "texto": "A glicemia deve ser dosada em todos os pacientes hospitalizados, com ou sem DM, no momento da admissão e durante a ocorrência dos fatores de risco descritos."
+    },
+    {
+     "letra": "D",
+     "texto": "Perdas e transfusões sanguíneas, hemoglobinopatias, insuficiência renal e uso prolongado de corticoides reduzem a sensibilidade da A1C."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000033272",
+   "codigo": "4000033272",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diabetes Mellitus Hiperglicemia Hospitalar",
+   "numero": 8,
+   "temas": [
+    "Avaliação inicial e monitorização"
+   ],
+   "enunciado": "Para a interpretação dos diagnósticos de diabetes e outras situações clínicas associadas ao aumento da glicose, é importante o conhecimento de situações que causam viés dos métodos utilizados para quanti car a glicose, sendo os listados abaixo, com EXCEÇÃO de um deles. Assinale-o.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A glicemia capilar à beira do leito é um método fácil e rápido, mas se deve utilizar um aparelho calibrado e validado, com acurácia em diferentes amostras, condições de hematócrito, saturação de oxigênio ou de medicamentos."
+    },
+    {
+     "letra": "B",
+     "texto": "A glicemia capilar pode até mesmo ser utilizada se houver edema, hipoperfusão periférica ou choque."
+    },
+    {
+     "letra": "C",
+     "texto": "O uso de resíduos de material em seringas e cateteres, prática comum, aumenta o risco de ocorrência de erros."
+    },
+    {
+     "letra": "D",
+     "texto": "Os glicômetros com glicose desidrogenase (GDH-PQQ) devem ser evitados no caso de pacientes em diálise peritoneal pelo risco de superestimação da glicemia."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000033254",
+   "codigo": "4000033254",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diabetes Mellitus Hiperglicemia Hospitalar",
+   "numero": 9,
+   "temas": [
+    "Fisiopatogenia",
+    "Epidemiologia"
+   ],
+   "enunciado": "A hiperglicemia por estresse, importante diagnóstico diferencial do DM entre pacientes internados, é caracterizada pela elevação transitória e reversível da glicemia em situações agudas, como doenças graves, cirurgia, trauma, choque, e pelo uso de medicamentos e de nutrição enteral ou parenteral. Apresentando diversos fatores de risco listados a seguir, com EXCEÇÃO de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Idade superior a 30 anos."
+    },
+    {
+     "letra": "B",
+     "texto": "Antecedente familiar de DM."
+    },
+    {
+     "letra": "C",
+     "texto": "Obesidade centrípeta."
+    },
+    {
+     "letra": "D",
+     "texto": "Síndrome de ovários policísticos."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000033236",
+   "codigo": "4000033236",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diabetes Mellitus Hiperglicemia Hospitalar",
+   "numero": 10,
+   "temas": [
+    "Hiperglicemia no Paciente Hospitalizado",
+    "Hipoglicemia"
+   ],
+   "enunciado": "Para o entendimento do descontrole da glicemia do paciente internado, é necessário dar a adequada importância à hipoglicemia. Sobre a hipoglicemia, assinale a alternativa INCORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A hipoglicemia afeta de 5 a 20% dos pacientes hospitalizados, principalmente os tratados com antidiabéticos ou insulina."
+    },
+    {
+     "letra": "B",
+     "texto": "A hipoglicemia também pode ocorrer entre os não diabéticos com antecedente de cirurgia digestiva, câncer ou patologias graves."
+    },
+    {
+     "letra": "C",
+     "texto": "A presença de hipoglicemia aumenta a morbimortalidade em diabéticos, isso já não ocorre em pacientes não diabéticos. Independentemente do nível de gravidade."
+    },
+    {
+     "letra": "D",
+     "texto": "Na maioria dos casos, a hipoglicemia é causada pelos desajustes entre as doses de insulina e a quantidade de carboidrato oferecida aos pacientes, constituindo uma das complicações iatrogênicas frequentes."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": [
+  {
+   "id": "4000129228",
+   "codigo": "4000129228",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diabetes Mellitus Hiperglicemia Hospitalar",
+   "numero": 1,
+   "temas": [
+    "Paciente não crítico"
+   ],
+   "enunciado": "Paciente de 62 anos, com diabetes melito tipo 2 em uso de glibenclamida (20 mg/dia) e metformina (2 g/dia), vinha em acompanhamento ambulatorial, sem complicações crônicas do diabetes (a hemoglobina glicada era de 7,2%). Foi internado para tratamento de sepse urinária. Os resultados dos exames laboratoriais e das glicemias capilares das primeiras 24 horas após a internação encontram-se nas tabelas abaixo. Qual a conduta mais adequada para o tratamento da hiperglicemia intra-hospitalar?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Manter a glibenclamida e a metformina e associar insulina regular 6 Ul antes das refeições se a glicemia for > 200 mg/dl."
+    },
+    {
+     "letra": "B",
+     "texto": "Manter a metformina e associar insulina NPH 0,2 U/kg de peso às 22 horas."
+    },
+    {
+     "letra": "C",
+     "texto": "Suspender os anti-hiperglicemiantes orais e prescrever insulina regular 6 Ul antes das refeições se a glicemia for > 200 mg/dl."
+    },
+    {
+     "letra": "D",
+     "texto": "Suspender os anti-hiperglicemiantes orais e prescrever insulina 0,3-0,4 Ul/kg de peso distribuída em basal (NPH) e prandial (regular) fixa antes das refeições."
+    }
+   ],
+   "gabarito": null,
+   "imagens": [
+    {
+     "arquivo": "imagens/q001-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": [],
+   "motivo_exclusao": "sem gabarito"
+  },
+  {
+   "id": "4000033208",
+   "codigo": "4000033208",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diabetes Mellitus Hiperglicemia Hospitalar",
+   "numero": 11,
+   "temas": [
+    "Fisiopatogenia",
+    "Epidemiologia"
+   ],
+   "enunciado": "Com relação aos achados e conceitos de elevação da glicose em pacientes internados, não apenas por diabetes descompensado, mas também por outras doenças sem nexo com o mesmo, podemos DESCONSIDERAR, em termos de estatística, que a hiperglicemia:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Não agrava o prognóstico de pacientes com e sem DM."
+    },
+    {
+     "letra": "B",
+     "texto": "Que ocorre em pacientes sem diagnóstico prévio de DM é denominada de hiperglicemia por estresse."
+    },
+    {
+     "letra": "C",
+     "texto": "Por estresse, principal diagnóstico diferencial do DM entre internados, é caracterizada pela elevação transitória e reversível da glicemia em situações agudas, como doenças graves, cirurgia, trauma, choque, e pelo uso de medicamentos e de nutrição enteral ou parenteral."
+    },
+    {
+     "letra": "D",
+     "texto": "Decorre da resposta hormonal (epinefrina, glucagon, GH e cortisol) e inflamatória (TNF e interleucinas) ao estresse, o que eleva a produção hepática de glicose e a resistência à insulina e piora a função da célula beta."
+    }
+   ],
+   "gabarito": null,
+   "imagens": [],
+   "revisar": [],
+   "motivo_exclusao": "sem gabarito"
+  },
+  {
+   "id": "4000033191",
+   "codigo": "4000033191",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diabetes Mellitus Hiperglicemia Hospitalar",
+   "numero": 12,
+   "temas": [
+    "Fisiopatogenia",
+    "Epidemiologia"
+   ],
+   "enunciado": "Dentro dos conceitos atuais de descontrole metabólico relacionado a situações de internação hospitalar, a hiperglicemia apresenta fundamental importância clínica e também epidemiológica. Acerca disso, marque a opção considerada CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Essa condição afeta cerca de 60% dos internados e está associada a prognóstico mais grave."
+    },
+    {
+     "letra": "B",
+     "texto": "A hiperglicemia está associada a prognóstico mais grave, com mortalidade de 56%, em comparação a 9% entre os diabéticos e a 17% entre os não diabéticos."
+    },
+    {
+     "letra": "C",
+     "texto": "O risco de desenvolver a doença nos três anos seguintes à internação é de 2,6% nos pacientes com glicemia superior a 126 mg/dl e de 9,9% se a glicemia for superior a 200 mg/dl."
+    },
+    {
+     "letra": "D",
+     "texto": "A administração de corticoides, catecolaminas e glicose parece não agravar esse estado."
+    }
+   ],
+   "gabarito": null,
+   "imagens": [],
+   "revisar": [],
+   "motivo_exclusao": "sem gabarito"
+  },
+  {
+   "id": "4000103996",
+   "codigo": "4000103996",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diabetes Mellitus Hiperglicemia Hospitalar",
+   "numero": 13,
+   "temas": [
+    "Hiperglicemia no Paciente Hospitalizado",
+    "Tratamento da Insuf iciência cardíaca",
+    "Inibidores de DPP4"
+   ],
+   "enunciado": "Paciente sexo feminino 78 anos idade, com história de diabetes mellitus tipo 2, hipertensão arterial, dislipidemia, doença arterial coronariana (com 2 episódios de angioplastia prévia), procura o ambulatório queixando-se de astenia e dispneia aos pequenos esforços. Achados pertinentes ao exame físico são: Pressão Arterial 110x60mmHg, Pulso radial 120 bpm, veias jugulares túrgidas, estertores crepitantes nas bases de ambos pulmões, hepatomegalia e edema membros inferiores ++/++++. Paciente fazendo uso de metformina 850 mg 3 vezes ao dia, gliclazida 60mg ao dia, vildagliptina 50mg ao dia e insulina NPH 12 ui subcutânea ao deitar. A conduta mais apropriada para esta paciente seria:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Internar paciente para insulinoterapia intensificada, suspender apenas metformina e iniciar tratamento da insuficiência cardíaca."
+    },
+    {
+     "letra": "B",
+     "texto": "Intensificar insulinoterapia e solicitar consulta com cardiologista e nefrologista."
+    },
+    {
+     "letra": "C",
+     "texto": "Intensificar insulinoterapia, iniciar terapia com diurético de alça e suspender apenas gliclazida e aumentar dose de vildagliptina para 50mg 2 vezes ao dia."
+    },
+    {
+     "letra": "D",
+     "texto": "Internar paciente para insulinoterapia intensificada, suspender todos agentes antidiabéticos orais, iniciar tratamento da insuficiência cardíaca e solicitar exames para avaliação de função renal e hepática."
+    }
+   ],
+   "gabarito": null,
+   "imagens": [],
+   "revisar": [],
+   "motivo_exclusao": "sem gabarito"
+  },
+  {
+   "id": "4000078099",
+   "codigo": "4000078099",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diabetes Mellitus Hiperglicemia Hospitalar",
+   "numero": 14,
+   "temas": [
+    "Paciente não crítico"
+   ],
+   "enunciado": "Homem de 59 anos, com antecedentes de Doença Pulmonar Obstrutiva Crônica (DPOC), ex-tabagista (cerca de 60 anos/maço), hipertensão arterial e diabetes mellitus tipo 2 há cerca de 4 anos, deu entrada há 02 dias no hospital com DPOC, descompensado devido à infecção respiratória, sendo internado na enfermaria. Estava em uso domiciliar de Metformina 1700 mg/dia, que foi suspensa na admissão, e Losartan 100 mg/dia, que foi mantido, e foram prescritos Levo oxacino, Prednisolona IV 3 vezes ao dia, Budesonida e Formoterol inalatórios. Na admissão, exames revelavam: glicemia de jejum = 168 mg/dl, hemoglobina glicada= 8,9 %, ureia = 51 mg/dl (VR 20-50), creatinina = 1,3 mg/dl (VR= 0,5-1,3) Na+ = 142 (VR = 135-145), K += 4,9 (VR =3,5-5,0), TGO = 32 U/L (VR < 35), TGP = 35 U/L (VR <35), hermoglobina = 13,0 hematócrito = 38,5 %, leucócitos = 10600 (com neutro lia), plaquetas = 214,000. O paciente está vigil, alimentando- se por via oral , com aceitação regular da comida. As glicemias capilares do dia anterior revelam os seguintes valores: às 6 h = 295; às 11h = 342 e às 17h = 307. A conduta recomendada para esse caso é prescrever:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Insulina NPH em doses divididas 3 vezes ao dia."
+    },
+    {
+     "letra": "B",
+     "texto": "Insulina Regular conforme os valores de glicemia capilar."
+    },
+    {
+     "letra": "C",
+     "texto": "Metformina em associação com Glibenclamida."
+    },
+    {
+     "letra": "D",
+     "texto": "Insulina NPH em bomba de infusão venosa contínua."
+    }
+   ],
+   "gabarito": null,
+   "imagens": [],
+   "revisar": [],
+   "motivo_exclusao": "sem gabarito"
+  },
+  {
+   "id": "4000049873",
+   "codigo": "4000049873",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diabetes Mellitus Hiperglicemia Hospitalar",
+   "numero": 15,
+   "temas": [
+    "Tratamento",
+    "Metas glicêmicas",
+    "Avaliação inicial e monitorização"
+   ],
+   "enunciado": "Em relação ao controle da glicemia em pacientes hospitalizados, assinale a alternativa INCORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A insulinização de paciente em estado crítico deve ser em esquema basal + bolus com insulinas NPH e regular, respectivamente."
+    },
+    {
+     "letra": "B",
+     "texto": "Em paciente idoso ou com disfunção renal, a dose total diária de insulina por quilograma de peso deve ser menor devido ao risco de hipoglicemia."
+    },
+    {
+     "letra": "C",
+     "texto": "As metas glicêmicas devem ficar entre 140 a 180 mg/dl em paciente internados em UTI."
+    },
+    {
+     "letra": "D",
+     "texto": "Paciente diabético tipo 1 deve receber insulina basal mesmo que seja necessário jejum oral, devido ao risco de descompensação cetótica."
+    },
+    {
+     "letra": "E",
+     "texto": "Em pacientes com hiperglicemia diagnosticada durante a hospitalização, valores de hemoglobina glicada acima de 6,5% sugerem a existência prévia de diabetes e necessidade de tratamento após a alta."
+    }
+   ],
+   "gabarito": null,
+   "imagens": [],
+   "revisar": [],
+   "motivo_exclusao": "sem gabarito"
+  },
+  {
+   "id": "4000049372",
+   "codigo": "4000049372",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diabetes Mellitus Hiperglicemia Hospitalar",
+   "numero": 16,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Conforme a literatura atual sobre o cuidado seguro e adequado para um paciente diabético hospitalizado, com o uso prévio de insulina no domicílio, é CORRETO afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A avaliação do controle glicêmico com uso de hemoglobina glicosada deve ser evitada."
+    },
+    {
+     "letra": "B",
+     "texto": "Para o controle dos episódios de hiperglicemia deve ser utilizada a glicemia capilar e a correção conforme glicemia (sliding scale)."
+    },
+    {
+     "letra": "C",
+     "texto": "Os anti-hiperglicemiantes orais devem ser mantidos durante o internamento, em especial a metformina, por melhorar a mortalidade."
+    },
+    {
+     "letra": "D",
+     "texto": "A glicemia capilar deve ser utilizada como referencial para decisão sobre o uso de insulina basal correcional."
+    },
+    {
+     "letra": "E",
+     "texto": "A insulina de longa duração deve ser evitada, independente dos valores da glicemia, pois isso, habitualmente, para hipoglicemia."
+    }
+   ],
+   "gabarito": null,
+   "imagens": [],
+   "revisar": [],
+   "motivo_exclusao": "sem gabarito"
+  },
+  {
+   "id": "4000121649",
+   "codigo": "4000121649",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Diabetes Mellitus Hiperglicemia Hospitalar",
+   "numero": 17,
+   "temas": [
+    "Critérios diagnósticos",
+    "Epidemiologia",
+    "Metas glicêmicas"
+   ],
+   "enunciado": "Sobre Diabetes Mellitus, assinale a opção CORRETA. Respostas: 1 12",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A Glicemia de 234, isoladamente, já fecha o diagnóstico de diabetes."
+    },
+    {
+     "letra": "B",
+     "texto": "Teste oral de tolerância à glicose deve ser realizado sempre que a glicemia de jejum estiver acima de 90."
+    },
+    {
+     "letra": "C",
+     "texto": "Na presença de sintomas compatíveis, um nível de glicemia de jejum acima de 126 mg/dl já confirma o diagnóstico de diabetes."
+    },
+    {
+     "letra": "D",
+     "texto": "Hiperglicemia em pacientes internados sem diagnóstico prévio de diabetes implica maior mortalidade que níveis semelhantes de glicemia em pacientes sabidamente diabéticos."
+    },
+    {
+     "letra": "E",
+     "texto": "O tratamento intensivo da glicemia, mantendo seus níveis entre 80 e 110 mg/dl, é fundamental como medida para redução de mortalidade em pacientes de terapia intensiva."
+    }
+   ],
+   "gabarito": null,
+   "imagens": [],
+   "revisar": [],
+   "motivo_exclusao": "sem gabarito"
+  }
+ ]
+}

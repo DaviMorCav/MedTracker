@@ -1,0 +1,74 @@
+TESTE em 2364 questões do Banco que o programa não viu
+  direto: 85.8% | via_tema: 87.9%   -> usado: via_tema
+
+Acerto de CADA faixa (não acumulado):
+  ALTA  (1 matéria)  : a matéria está certa em 95.0%   (77% das questões)
+  DUPLA (2 matérias) : a matéria certa está entre as duas em 85.8%   (23% das questões)
+  BAIXA (sem matéria): a certa estaria entre as duas sugeridas em 0.0%   (0% das questões)  <- revisar
+
+Acerto da 1ª matéria por matéria (no teste):
+   61.8%  Hepatologia  (34 testes)
+   69.9%  Endocrinologia  (133 testes)
+   72.4%  Oftalmologia  (29 testes)
+   79.2%  Neurologia  (101 testes)
+   81.8%  Reumatologia  (66 testes)
+   82.8%  Cirurgia  (93 testes)
+   83.0%  Nefrologia  (100 testes)
+   84.3%  Infectologia  (197 testes)
+   85.1%  Dermatologia  (67 testes)
+   85.7%  Psiquiatria  (63 testes)
+   86.2%  Pediatria  (298 testes)
+   86.8%  Cardiologia  (151 testes)
+   86.9%  Otorrinologia  (61 testes)
+   88.4%  Gastroenterologia  (146 testes)
+   88.9%  Hematologia  (63 testes)
+   90.0%  Pneumologia  (50 testes)
+   90.4%  Obstetricia  (188 testes)
+   93.5%  Ortopedia  (108 testes)
+   94.5%  Ginecologia  (200 testes)
+   95.2%  Medicina Preventiva  (252 testes)
+
+Trocas mais comuns (verdadeira -> prevista):
+    11  Pediatria -> Infectologia
+     8  Gastroenterologia -> Cirurgia
+     5  Cirurgia -> Gastroenterologia
+     5  Endocrinologia -> Pediatria
+     4  Infectologia -> Medicina Preventiva
+     4  Dermatologia -> Reumatologia
+     4  Infectologia -> Dermatologia
+     4  Endocrinologia -> Hematologia
+     4  Cardiologia -> Medicina Preventiva
+     4  Ginecologia -> Obstetricia
+
+RESULTADO NO ARQUIVO TODO:
+    7838  arquivo
+   23647  banco
+    7991  previsto_alta
+    4168  previsto_dupla
+
+Quantas matérias cada questão tem:
+   39144  questões com 1 matéria(s)
+    4493  questões com 2 matéria(s)
+       7  questões com 3 matéria(s)
+
+Questões em cada matéria (uma questão pode contar em duas):
+    5487  Pediatria
+    5023  Medicina Preventiva
+    5019  Ginecologia
+    4281  Obstetricia
+    3776  Infectologia
+    3333  Cirurgia
+    2571  Cardiologia
+    2564  Gastroenterologia
+    2167  Endocrinologia
+    1934  Ortopedia
+    1839  Neurologia
+    1609  Nefrologia
+    1604  Psiquiatria
+    1360  Hematologia
+    1327  Otorrinologia
+    1077  Dermatologia
+    1057  Reumatologia
+    1039  Pneumologia
+     579  Oftalmologia
+     505  Hepatologia

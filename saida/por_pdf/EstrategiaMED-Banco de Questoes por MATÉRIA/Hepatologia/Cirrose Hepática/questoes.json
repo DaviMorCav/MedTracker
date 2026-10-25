@@ -1,0 +1,1118 @@
+{
+ "questoes": [
+  {
+   "id": "4000083740",
+   "codigo": "4000083740",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirrose Hepática",
+   "numero": 1,
+   "temas": [
+    "Doença de Caroli"
+   ],
+   "enunciado": "O exame padrão-ouro para o diagnóstico de Doença de Caroli é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Colangiopancreatografia retrógrada endoscópica."
+    },
+    {
+     "letra": "B",
+     "texto": "Ultrassonografia abdominal total."
+    },
+    {
+     "letra": "C",
+     "texto": "Tomografia computadorizada com contraste."
+    },
+    {
+     "letra": "D",
+     "texto": "Tomografia computadorizada sem contraste."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000082621",
+   "codigo": "4000082621",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirrose Hepática",
+   "numero": 2,
+   "temas": [
+    "Cirrose"
+   ],
+   "enunciado": "Um homem de 55 anos com hepatite C crônica se queixa de fadiga. No exame físico, apresenta aranhas vasculares, eritema palmar e o lobo esquerdo do fígado palpável. Não apresenta ascite ou asterixe. Os resultados da análise laboratorial são: aspartato aminotransferase de 100, alanina aminotransferase de 67, fosfatase alcalina de 145 e contagem de plaquetas de 120.000. Na tomogra a computadorizada(TC) abdominal é visualizado contorno hepático nodular, colaterais portossistêmicos, mas não há massas. Qual das seguintes alternativas você recomendaria como próximo passo?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Biópsia hepática;"
+    },
+    {
+     "letra": "B",
+     "texto": "Endoscopia digestiva alta;"
+    },
+    {
+     "letra": "C",
+     "texto": "Iniciar B-bloqueadores não seletivos;"
+    },
+    {
+     "letra": "D",
+     "texto": "Iniciar espironolactona;"
+    },
+    {
+     "letra": "E",
+     "texto": "Ressonância magnética hepática;"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000062003",
+   "codigo": "4000062003",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirrose Hepática",
+   "numero": 3,
+   "temas": [
+    "Escore Meld"
+   ],
+   "enunciado": "Os pacientes com cirrose hepática podem ter seu prognóstico considerado por meio de escores de gravidade como o MELD (Model for end stage Liver Desease). Assinale a alternativa que apresenta, corretamente, todos os parâmetros considerados para essa medida.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Albumina, bilirrubinas, INR."
+    },
+    {
+     "letra": "B",
+     "texto": "Albumina, creatinina, INR."
+    },
+    {
+     "letra": "C",
+     "texto": "Bilirrubinas, creatinina, INR."
+    },
+    {
+     "letra": "D",
+     "texto": "Bilirrubinas, proteínas totais, transaminases."
+    },
+    {
+     "letra": "E",
+     "texto": "Gamaglutamiltransferase, plaquetas, transaminases."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000117536",
+   "codigo": "4000117536",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirrose Hepática",
+   "numero": 4,
+   "temas": [
+    "Cirrose",
+    "Etiologia da cirrose"
+   ],
+   "enunciado": "NÃO é causa de cirrose hepática:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hepatite autoimune."
+    },
+    {
+     "letra": "B",
+     "texto": "Colangite esclerosante primária."
+    },
+    {
+     "letra": "C",
+     "texto": "Deficiência de alfa1-antitripsina."
+    },
+    {
+     "letra": "D",
+     "texto": "Síndrome hepatorrenal."
+    },
+    {
+     "letra": "E",
+     "texto": "Doença de Wilson."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000057231",
+   "codigo": "4000057231",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirrose Hepática",
+   "numero": 5,
+   "temas": [
+    "Colangite Biliar Primária CBP",
+    "Colangite esclerosante primária CEP",
+    "Hipertensão Porta"
+   ],
+   "enunciado": "Em relação à hepatopatia crônica, analise as assertivas abaixo. I. Na colangite biliar primária, os anticorpos antimitocôndria estão presentes em 90% dos casos. II. A hepatite autoimune tipo 2 tem o anti-LKM-1 positivo. III. A colangite esclerosante primária apresenta associação com antígenos HLA-DR3 e DR13. IV. Varizes de esôfago de pequeno calibre com marcas vermelhas necessitam de profilaxia com propranolol. Estão corretas:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I e II, apenas."
+    },
+    {
+     "letra": "B",
+     "texto": "IV, apenas."
+    },
+    {
+     "letra": "C",
+     "texto": "I, II e IV, apenas."
+    },
+    {
+     "letra": "D",
+     "texto": "III e IV, apenas."
+    },
+    {
+     "letra": "E",
+     "texto": "I, II, III e IV."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000009807",
+   "codigo": "4000009807",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirrose Hepática",
+   "numero": 6,
+   "temas": [
+    "Clínica Médica",
+    "Hepatologia",
+    "Classif icação de ChildPugh"
+   ],
+   "enunciado": "Paciente foi atendida no hospital de emergência por quadro de dor em hipocôndrio direito de forte intensidade, náuseas e vômitos após ingestão de alimentos gordurosos. Foi realizada uma ultrassonogra a de abdome superior que evidenciou colelitíase. Depois a paciente foi encaminhada para consulta com um cirurgião digestivo, que optou agendar de forma eletiva a colecistectomia. Durante a cirurgia para retirada da vesícula, visualizou-se um fígado de aspecto nodular e realizou- se uma biópsia hepática. Um mês após a cirurgia, saiu o resultado da biópsia hepática, que confirmou cirrose hepática. Em relação aos escores de prognóstico da cirrose hepática, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O MELD é calculado através de uma fórmula matemática que utiliza bilirrubina, ureia e INR."
+    },
+    {
+     "letra": "B",
+     "texto": "O escore de Child-Pugh utiliza 5 parâmetros, 1 parâmetro clínico e 4 parâmetros laboratoriais."
+    },
+    {
+     "letra": "C",
+     "texto": "A inclusão do potássio sérico no cálculo do MELD poderia aumentar o valor prognóstico desse escore."
+    },
+    {
+     "letra": "D",
+     "texto": "O escore de Child-Pugh divide-se em três grupos distintos (A, B ou C) em ordem decrescente de gravidade."
+    },
+    {
+     "letra": "E",
+     "texto": "O MELD tem sido adotado como critério de alocação de órgãos para o transplante de fígado em todo o mundo."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000125910",
+   "codigo": "4000125910",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirrose Hepática",
+   "numero": 7,
+   "temas": [
+    "Síndrome de BuddChiari"
+   ],
+   "enunciado": "A síndrome de Budd-Chiari ocorre por:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Interrupção do fluxo da artéria hepática."
+    },
+    {
+     "letra": "B",
+     "texto": "Trombose da veia porta."
+    },
+    {
+     "letra": "C",
+     "texto": "Trombose da veia esplênica."
+    },
+    {
+     "letra": "D",
+     "texto": "Trombose das veias supra-hepáticas."
+    },
+    {
+     "letra": "E",
+     "texto": "Interrupção do fluxo do tronco celíaco."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120325",
+   "codigo": "4000120325",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirrose Hepática",
+   "numero": 8,
+   "temas": [
+    "Cirrose"
+   ],
+   "enunciado": "O objetivo do escore APRI é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Estimar risco de ressangramento em pacientes com HD A varicosa."
+    },
+    {
+     "letra": "B",
+     "texto": "Estimar risco de fratura por osteoporose em 10 anos."
+    },
+    {
+     "letra": "C",
+     "texto": "Estimar grau de fibrose hepática."
+    },
+    {
+     "letra": "D",
+     "texto": "Estimar risco de quedas em idosos."
+    },
+    {
+     "letra": "E",
+     "texto": "Estimar grau de disfunção cognitiva em idosos."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000098856",
+   "codigo": "4000098856",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirrose Hepática",
+   "numero": 9,
+   "temas": [
+    "Cirrose"
+   ],
+   "enunciado": "Homem, 53a, foi admitido no hospital com icterícia e dor abdominal inespecí ca. Antecedentes pessoais: cirrose alcoólica há quatro anos (Child-Pugh A6) mantendo ingestão diária de bebida alcoólica. Exame físico: icterícia 2+/4+; teleangiectasias; abdome: fígado não palpável, baço percutível, ausência de ascite; Neurológico: normal; membros: sem edema. Bilirrubina total = 22,3 mg/dl, ALT = 83 UI/ml, AST = 40 UI/ml, RNI = 1,53; plaquetas = 97.000 mm³. Radiograma de tórax: opacidade com broncograma aéreo em base de pulmão direito. Evoluiu com hipotensão e elevação dos níveis de creatinina após início de cefepime. O diagnóstico é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hepatite fulminante secundária antibioticoterapia."
+    },
+    {
+     "letra": "B",
+     "texto": "Insuficiência hepática crônica agudizada."
+    },
+    {
+     "letra": "C",
+     "texto": "Hepatite viral fulminante."
+    },
+    {
+     "letra": "D",
+     "texto": "Choque séptico."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000065197",
+   "codigo": "4000065197",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirrose Hepática",
+   "numero": 10,
+   "temas": [
+    "Etiologia da cirrose"
+   ],
+   "enunciado": "Dentre as opções abaixo, todas são causas de cirrose hepática, com EXCEÇÃO da (o):",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "hipertensão portal."
+    },
+    {
+     "letra": "B",
+     "texto": "hepatite autoimune."
+    },
+    {
+     "letra": "C",
+     "texto": "hemocromatose."
+    },
+    {
+     "letra": "D",
+     "texto": "alcoolismo."
+    },
+    {
+     "letra": "E",
+     "texto": "Doença de Wilson."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000060827",
+   "codigo": "4000060827",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirrose Hepática",
+   "numero": 11,
+   "temas": [
+    "Complicações da cirrose"
+   ],
+   "enunciado": "Sobre cirrose hepática assinale o item INCORRETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "É definida como a presença de parênquima hepático nodular e fibrose difusa, o padrão podendo ser classificado como micro ou macronodular."
+    },
+    {
+     "letra": "B",
+     "texto": "Pode ser a causa de anormalidades bioquímicas que refletem alterações específicas no metabolismo, como biossíntese diminuída de albumina, tempo aumentado de protrombina, entre outras."
+    },
+    {
+     "letra": "C",
+     "texto": "A colestase pode estar presente com um aumento nos níveis de alt e ast, assim como ns concentrações plasmáticas de blirrubina diglicuronídeo e total."
+    },
+    {
+     "letra": "D",
+     "texto": "Qualquer tipo de cirrose hepática pode causar hipertensão porta, que pode resultar no desenvolvimento de drenagem venosa colateral portossistêmica, esplenomegalia e ascite."
+    },
+    {
+     "letra": "E",
+     "texto": "O desenvolvimento de casos colaterais na mucosa fúndica gástrica e no esôfago (varizes gástricas e esofágicas, respectivamente) é um problema clínico sério, já que elas podem sangrar profusamente, resultando, com frequência, em morte."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000060754",
+   "codigo": "4000060754",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirrose Hepática",
+   "numero": 12,
+   "temas": [
+    "Clínica Médica",
+    "Hepatologia",
+    "Manif estações clínicas"
+   ],
+   "enunciado": "Atente para o texto: Hiperestrogenismo (Feminilização) no cirrótico O hiperestrogenismo pode ser manifestado entre outras por ginecomastia, spiders vasculares e alterações na distribuição de pelos e gordura corpóreos. A ginecomastia tem sido relatada em alcoólicos independentes de doença hepática. Os principais estrógenos encontrados no plasma de homens normais - estrona, estradiol - são derivados da secreção direta pelos testículos e adrenais e pela conversão periférica de testosterona e androstenediona. Estudos de clearence metabólico sugerem que uma aumentada produção de estrógenos tanto pelas adrenais quanto pelos testículos em adição a uma aumentada conversão periférica de androstenediona e testosterona a estrógenos ocorrem na doença hepática crônica. As alterações no metabolismo hormonal periférico podem relacionar-se a alterações nos sistemas microssomais enzimáticos em resposta à lesão hepática. Deve ser observado que os sinais clínicos de hipogonadismo e feminilização podem ser vistos em homens com cirrose não alcoólica, embora sejam estas condições mais comuns em cirróticos alcoólicos. Assinale o item CORRETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Há uma incorreção quanto aos estrógenos, sendo apenas de relevo o 17-beta estradiol"
+    },
+    {
+     "letra": "B",
+     "texto": "Só ocorre estrogenismo na doença hepática alcoólica"
+    },
+    {
+     "letra": "C",
+     "texto": "Spiders vasculares devem-se a ação direta do álcool sobre as arteríolas"
+    },
+    {
+     "letra": "D",
+     "texto": "Realmente as alterações no metabolismo hormonal periférico podem relacionar-se a alterações nos sistemas microssomais enzimáticos em resposta à lesão hepática crônica"
+    },
+    {
+     "letra": "E",
+     "texto": "Androstenediona não é androgênio e sim gestagênio"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000022395",
+   "codigo": "4000022395",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirrose Hepática",
+   "numero": 13,
+   "temas": [
+    "Escore Meld"
+   ],
+   "enunciado": "O escore MELD é um sistema de priorização de pacientes no transplante de fígado. Quais são as variáveis para o cálculo deste escore?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Albumina, Creatinina e INR."
+    },
+    {
+     "letra": "B",
+     "texto": "Albumina, INR e Bilirrubinas."
+    },
+    {
+     "letra": "C",
+     "texto": "Creatinina, INR e Bilirrubinas."
+    },
+    {
+     "letra": "D",
+     "texto": "Fibrinogênio, Bilirrubina e Creatinina."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000022240",
+   "codigo": "4000022240",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirrose Hepática",
+   "numero": 14,
+   "temas": [
+    "Classif icação de ChildPugh"
+   ],
+   "enunciado": "Segundo a classificação de Child-Pugh, um paciente com bilirrubina total de 3mg/dL, albumina de 2,9 g/dL, tempo de protrombina de 5 segundos aumentados, ascite leve e sem encefalopatia, corresponde a:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "B – 7 pontos."
+    },
+    {
+     "letra": "B",
+     "texto": "B – 8 pontos."
+    },
+    {
+     "letra": "C",
+     "texto": "B – 9 pontos."
+    },
+    {
+     "letra": "D",
+     "texto": "C – 10 pontos."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000113359",
+   "codigo": "4000113359",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirrose Hepática",
+   "numero": 15,
+   "temas": [
+    "Manif estações clínicas",
+    "Cirrose"
+   ],
+   "enunciado": "Qual dos achados abaixo, ao exame físico, é sugestivo de cirrose hepática?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Contratura Dupuytren e eritema palmar."
+    },
+    {
+     "letra": "B",
+     "texto": "Síndrome do túnel do carpo e coiloníquia."
+    },
+    {
+     "letra": "C",
+     "texto": "Icterícia e pulso de Corrigan."
+    },
+    {
+     "letra": "D",
+     "texto": "Cabeça de medusa no abdome e onda V gigante no pulso venoso."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000103372",
+   "codigo": "4000103372",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirrose Hepática",
+   "numero": 16,
+   "temas": [
+    "Classif icação de ChildPugh"
+   ],
+   "enunciado": "Diante de um paciente cirrótico com hérnia umbilical sem sinais de encarceramento, clinicamente sem sinais de encefalopatia, com ascite moderada apesar de tratamento com diurético, e laboratorialmente com bilirrubina total 2,8 mg/dL, Albumina 2,5 g/L, TAP 5 segundos prolongados, qual é a pontuação no Sistema Child-Pugh e qual corresponde à melhor conduta, RESPECTIVAMENTE?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Child-Pugh 9 pontos – Cirurgia imediata."
+    },
+    {
+     "letra": "B",
+     "texto": "Child-Pugh 10 pontos – Tratar a coagulopatia e realizar a cirurgia."
+    },
+    {
+     "letra": "C",
+     "texto": "Child-Pugh 11 pontos – Adiar cirurgia até que a classe possa ser melhorada."
+    },
+    {
+     "letra": "D",
+     "texto": "Child-Pugh 12 pontos – Cancelar a cirurgia para tratamento conservador."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000025929",
+   "codigo": "4000025929",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirrose Hepática",
+   "numero": 17,
+   "temas": [
+    "Síndrome de BuddChiari"
+   ],
+   "enunciado": "Paciente sexo feminino, 35 anos de idade, com diagnóstico de hepatopatia crônica consequente à Síndrome de Budd- Chiari. Na investigação etiológica, a paciente pode ser portadora de uma das seguintes doenças subjacentes, EXCETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hemoglobinúria paroxística noturna."
+    },
+    {
+     "letra": "B",
+     "texto": "Deficiência de homocisteína."
+    },
+    {
+     "letra": "C",
+     "texto": "Policitemia vera."
+    },
+    {
+     "letra": "D",
+     "texto": "Mutação do fator V de Leiden."
+    },
+    {
+     "letra": "E",
+     "texto": "Neoplasia."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000021305",
+   "codigo": "4000021305",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirrose Hepática",
+   "numero": 18,
+   "temas": [
+    "Síndrome de BuddChiari"
+   ],
+   "enunciado": "No que se refere à síndrome de Budd-Chiari, assinale a alternativa CORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "É uma forma comum de doença hepática com hipertensão portal secundária a trombose das veias hepáticas."
+    },
+    {
+     "letra": "B",
+     "texto": "A icterícia é o sintoma mais comum dessa doença."
+    },
+    {
+     "letra": "C",
+     "texto": "Sintomas de dor abdominal e ascite são incomuns nessa síndrome."
+    },
+    {
+     "letra": "D",
+     "texto": "A biópsia é de fundamental importância na decisão do tratamento."
+    },
+    {
+     "letra": "E",
+     "texto": "A presença de cirrose contraindica transplante hepático."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000001419",
+   "codigo": "4000001419",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirrose Hepática",
+   "numero": 20,
+   "temas": [
+    "Clínica Médica",
+    "Hepatologia",
+    "Tratamento da cirrose"
+   ],
+   "enunciado": "O uso de medicamentos em pacientes com cirrose hepática deverá ser feito com cautela. Há inclusive algumas drogas que são contraindicadas em tais pacientes pelo risco de causar descompensação do quadro, dentre as quais se pode citar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tramadol."
+    },
+    {
+     "letra": "B",
+     "texto": "AAS em pacientes com elevado risco cardiovascular."
+    },
+    {
+     "letra": "C",
+     "texto": "Anti-inflamatório esteroidal."
+    },
+    {
+     "letra": "D",
+     "texto": "Anti-inflamatório não esteroidal."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000126522",
+   "codigo": "4000126522",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirrose Hepática",
+   "numero": 21,
+   "temas": [
+    "Cirrose"
+   ],
+   "enunciado": "Sobre a abordagem do paciente com doença progressiva crônica do fígado compensada, é correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O tratamento etiológio, nessa fase, é de pouca importância por não interferir na evolução da doença."
+    },
+    {
+     "letra": "B",
+     "texto": "O tratamento dos sintomas e complicações não interfere na elegibilidade para o transplante hepático."
+    },
+    {
+     "letra": "C",
+     "texto": "A avaliação da elegibilidade para o transplante hepático é de pouca importância, nessa fase da doença, pelo paciente estar compensado."
+    },
+    {
+     "letra": "D",
+     "texto": "São necessários a investigação etiológica e o rastreamento das complicações para traçar condutas preventivas e terapêuticas."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000081679",
+   "codigo": "4000081679",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirrose Hepática",
+   "numero": 22,
+   "temas": [
+    "Classif icação de ChildPugh"
+   ],
+   "enunciado": "Quais são os critérios de Child-Turcotte modificados por Pugh para prognosticar a cirrose hepática?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "TAP, Albumina, Bilirrubinas, Ascite e Encefalopatia."
+    },
+    {
+     "letra": "B",
+     "texto": "AST, ALT, GGT, TAP e Fosfatase alcalina."
+    },
+    {
+     "letra": "C",
+     "texto": "Ascite, Síndrome hepatorrenal, GGT, TAP e Bilirrubinas."
+    },
+    {
+     "letra": "D",
+     "texto": "Encefalopatia, TAP, Albumina, Bilirrubinas e ALT."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000063928",
+   "codigo": "4000063928",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirrose Hepática",
+   "numero": 23,
+   "temas": [
+    "Albumina"
+   ],
+   "enunciado": "Em paciente cirrótico, avalia-se a função biossintética do fígado por meio do exame de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Albumina."
+    },
+    {
+     "letra": "B",
+     "texto": "Fosfatase alcalina."
+    },
+    {
+     "letra": "C",
+     "texto": "Gamaglutamil transferase."
+    },
+    {
+     "letra": "D",
+     "texto": "Transaminases."
+    },
+    {
+     "letra": "E",
+     "texto": "Plaquetas."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000053162",
+   "codigo": "4000053162",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirrose Hepática",
+   "numero": 24,
+   "temas": [
+    "Classif icação de ChildPugh",
+    "Hepatocarcinoma CHC ou HCC Carcinoma Hepatocelular",
+    "Cirrose"
+   ],
+   "enunciado": "Homem de 42 anos está em acompanhamento ambulatorial devido à cirrose hepática por hepatite C crônica. Está assintomático. Em seu exame físico, mostrava-se lúcido e orientado e apresenta aranhas vasculares, rarefação de pelos e traube ocupado. Os dados vitais são normais. Nesta consulta, trouxe também os seguintes exames (todos realizados esta semana): Ultrassom de abdome total: fígado de aspecto cirrótico, veia porta de 16 mm e baço de 20 cm; ausência de ascite; Bilirrubina total: 1,2 g/dL; Albumina: 4,2 g/dL; RNI: 1,20; Anti-HAV IgG: negativo. Frente a esse quadro clínico, leia as assertivas a seguir e assinale a alternativa CORRETA. I - Este paciente pode ser classificado como Child-Pugh A (5 pontos). II - Este paciente deve realizar novo ultrassom de abdome em seis meses, para rastreio de hepatocarcinoma. III - Este paciente deve ser vacinado contra Hepatite A.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Apenas a assertiva I está correta."
+    },
+    {
+     "letra": "B",
+     "texto": "Apenas as assertivas I e II estão corretas."
+    },
+    {
+     "letra": "C",
+     "texto": "As assertivas I, II e III estão corretas."
+    },
+    {
+     "letra": "D",
+     "texto": "Apenas as assertivas II e III estão corretas."
+    },
+    {
+     "letra": "E",
+     "texto": "Apenas a assertiva II está correta."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046030",
+   "codigo": "4000046030",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirrose Hepática",
+   "numero": 25,
+   "temas": [
+    "Síndrome de BuddChiari"
+   ],
+   "enunciado": "Mulher de 28 anos é atendida no pronto-socorro com náuseas, vômitos e dor no quadrante superior direito do abdome. Apresenta nível sérico de transaminases três vezes maior que os valores de referência e bilirrubina sérica de 3,4 mg/dl (valor de referência até 1,2 mg/dl). A tomogra a computadorizada, sem contraste, evidencia hepatomegalia e ascite. Em sua história prévia, relata trombose venosa profunda três anos atrás, durante puerpério, tendo feito uso de warfarin por três meses. Atualmente, está em uso de anticoncepcional oral. Qual o diagnóstico MAIS PROVÁVEL?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hepatite autoimune."
+    },
+    {
+     "letra": "B",
+     "texto": "Hepatite medicamentosa."
+    },
+    {
+     "letra": "C",
+     "texto": "Obstrução do fluxo hepático venoso."
+    },
+    {
+     "letra": "D",
+     "texto": "Trombose da veia porta."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000039687",
+   "codigo": "4000039687",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirrose Hepática",
+   "numero": 26,
+   "temas": [
+    "Clínica Médica",
+    "Hepatologia",
+    "Avaliação laboratorial das doenças hepáticas"
+   ],
+   "enunciado": "Qual o parâmetro mais importante na avaliação pré-operatória da reserva funcional hepática?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tempo de protrombina"
+    },
+    {
+     "letra": "B",
+     "texto": "Tempo parcial de tromboplastina"
+    },
+    {
+     "letra": "C",
+     "texto": "Albuminemia"
+    },
+    {
+     "letra": "D",
+     "texto": "Transaminases"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000036162",
+   "codigo": "4000036162",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirrose Hepática",
+   "numero": 27,
+   "temas": [
+    "Doença de Caroli"
+   ],
+   "enunciado": "A doença de Caroli consiste numa doença hepática rara que se caracteriza por:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Doença cística associada frequentemente à fibrose hepática."
+    },
+    {
+     "letra": "B",
+     "texto": "Cirrose hepática fulminante."
+    },
+    {
+     "letra": "C",
+     "texto": "Hepatites autoimunes de repetição, principalmente em crianças."
+    },
+    {
+     "letra": "D",
+     "texto": "Icterícia idiopática juvenil."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000068272",
+   "codigo": "4000068272",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirrose Hepática",
+   "numero": 28,
+   "temas": [
+    "Doença de Caroli"
+   ],
+   "enunciado": "A patologia que constitui-se de múltiplas dilatações císticas congênitas da árvore biliar intra-hepática, com o maior risco de malignidade e de recorrência de colangite, podendo até nos casos difusos complicados, ter o transplante como único tratamento eficaz, é denominada doença de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Buerger."
+    },
+    {
+     "letra": "B",
+     "texto": "Castleman."
+    },
+    {
+     "letra": "C",
+     "texto": "Bowen."
+    },
+    {
+     "letra": "D",
+     "texto": "Caroli."
+    },
+    {
+     "letra": "E",
+     "texto": "Cowden."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000013157",
+   "codigo": "4000013157",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirrose Hepática",
+   "numero": 29,
+   "temas": [
+    "Etiologia da cirrose"
+   ],
+   "enunciado": "Paciente do sexo masculino, 35 anos, com diagnóstico de cirrose hepática. São exames úteis na elucidação diagnóstica deste quadro, EXCETO dosagem de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "ferritina."
+    },
+    {
+     "letra": "B",
+     "texto": "alfa1-antitripsina."
+    },
+    {
+     "letra": "C",
+     "texto": "ceruloplasmina."
+    },
+    {
+     "letra": "D",
+     "texto": "CA19-9."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000027281",
+   "codigo": "4000027281",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirrose Hepática",
+   "numero": 31,
+   "temas": [
+    "Cirrose"
+   ],
+   "enunciado": "Marque a alternativa INCORRETA. São preditores de cirrose em adultos com conhecimento ou suspeita de doença hepática:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Discriminante de Bonacini de cirrose maior que 7."
+    },
+    {
+     "letra": "B",
+     "texto": "Presença de ascite."
+    },
+    {
+     "letra": "C",
+     "texto": "Presença de aranha vascular."
+    },
+    {
+     "letra": "D",
+     "texto": "Contagem de plaquetas menor de 200.000."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000015811",
+   "codigo": "4000015811",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirrose Hepática",
+   "numero": 32,
+   "temas": [
+    "Clínica Médica",
+    "Hepatologia",
+    "Manif estações clínicas"
+   ],
+   "enunciado": "Podem ser considerados, se encontrados ao exame físico, como sinais de insu ciência hepática, todas as alternativas, EXCETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Circulação colateral do tipo cabeça de medusa."
+    },
+    {
+     "letra": "B",
+     "texto": "Spiders."
+    },
+    {
+     "letra": "C",
+     "texto": "Icterícia."
+    },
+    {
+     "letra": "D",
+     "texto": "Eritema palmar."
+    },
+    {
+     "letra": "E",
+     "texto": "Asterix."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000009370",
+   "codigo": "4000009370",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirrose Hepática",
+   "numero": 33,
+   "temas": [
+    "Biópsia Hepática",
+    "Cirrose",
+    "Diagnóstico"
+   ],
+   "enunciado": "O exame considerado como “padrão-ouro” para o diagnóstico de cirrose hepática é: Respostas: 1 12 23",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "ultrassonografia."
+    },
+    {
+     "letra": "B",
+     "texto": "tomografia computadorizada."
+    },
+    {
+     "letra": "C",
+     "texto": "histopatológico."
+    },
+    {
+     "letra": "D",
+     "texto": "dosagem de aminotransferases."
+    },
+    {
+     "letra": "E",
+     "texto": "marcadores sorológicos de fibrose."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": [
+  {
+   "id": "4000005733",
+   "codigo": "4000005733",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirrose Hepática",
+   "numero": 19,
+   "temas": [
+    "Classif icação de ChildPugh"
+   ],
+   "enunciado": "Homem, 54 anos de idade, vem em segunda consulta em ambulatório de hepatologia por cirrose hepática por álcool, abstinente há um mês, sem queixas. Não faz uso de medicações. Ao exame físico, apresenta-se em regular estado geral; lúcido; ictérico 1+/4; com PA: 110 x 70 mmHg; FC: 80 bpm; FR: 12 irpm; SatO2: 98%; ausculta sem alterações. Abdome globoso, com macicez móvel presente; fígado não palpável e espaço de Traube ocupado. Sem asterix ou edema de membros inferiores. Traz os exames solicitados na primeira consulta: USG de abdome evidenciando hepatopatia crônica, sem lesões hepáticas focais, com esplenomegalia homogênea e moderada quantidade de líquido livre. Endoscopia digestiva alta com três varizes esofágicas de médio calibre, sem sinais da cor vermelha. Exames séricos revelam Hb: 11 g/dl; leucócitos: 5600/mm3; plaquetas: 70 mil/mm2; Cr: 1,0 mg/dl; Ur: 30 mg/dl; Na: 135 mEq/L; K: 4,0 mEq/L; AST: 20 U/L; ALT: 16 U/L; BT: 2,5 mg/dl (D: 1,9 mg/dl); RNI: 1,5, albumina: 3,2g/dl. Diante desse quadro, indique o escore de Child-Pugh desse paciente:",
+   "alternativas": [],
+   "gabarito": null,
+   "imagens": [],
+   "revisar": [],
+   "motivo_exclusao": "sem alternativas"
+  },
+  {
+   "id": "4000006618",
+   "codigo": "4000006618",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cirrose Hepática",
+   "numero": 30,
+   "temas": [
+    "Classif icação de ChildPugh"
+   ],
+   "enunciado": "Homem, 42 anos de idade, internado com queixas de que, há 6 meses, vem apresentando perda ponderal, com astenia. Há 2 meses, notou aumento do volume abdominal, discreta icterícia e colúria e, há 15 dias, notou aparecimento de discreto edema de MMII bilateral. Nega HAS e DM. Etilista desde 16 anos de idade, ingere 70 g/dia de álcool. Ao exame físico, emagrecido, lúcido, orientado, ictérico +/IV; IMC = 17; PA = 100 x 60 mmHg; PR = 60 bpm. Presença de telangiectasias, ginecomastia bilateral simétrica. Macicez móvel presente. Hepatimetria de 4 cm abaixo do rebordo costal. Exames laboratoriais mostram TP: 43% com RNI: 1,7; albumina: 2,8 mg%; bilirrubina total: 3,1 mg%. Diante do quadro exposto, indique o escore a ser utilizado para o prognóstico, com critérios respectivos, e a classificação do paciente.",
+   "alternativas": [],
+   "gabarito": null,
+   "imagens": [],
+   "revisar": [],
+   "motivo_exclusao": "sem alternativas"
+  }
+ ]
+}

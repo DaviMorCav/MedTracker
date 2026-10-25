@@ -1,0 +1,608 @@
+{
+ "questoes": [
+  {
+   "id": "4000167136",
+   "codigo": "4000167136",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cefaleias na Infância",
+   "numero": 1,
+   "temas": [
+    "Neuropediatria",
+    "Enxaqueca"
+   ],
+   "enunciado": "Paciente de 12 anos queixa-se de cefaleia recorrente, moderada, com intervalos variáveis, de dias, semanas ou meses. A do r é bilateral e pulsátil e, por vezes, acompanhada de irritabilidade, anorexia e náusea. Antes do quadro de dor, vê “bolinhas coloridas” e sente formigamento na língua. Sobre o diagnóstico mais provável, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O paciente está na faixa etária de menor incidência em pediatria."
+    },
+    {
+     "letra": "B",
+     "texto": "Podem fazer parte dos sintomas que precedem a dor: formigamento em hemicorpo, disfasia e disartria."
+    },
+    {
+     "letra": "C",
+     "texto": "O paciente apresenta o tipo de quadro mais comum, que é o de dor precedida por sintomas visuais e sensitivos."
+    },
+    {
+     "letra": "D",
+     "texto": "Para o diagnóstico adequado, é necessário investigar com tomografia de crânio e exames laboratoriais."
+    },
+    {
+     "letra": "E",
+     "texto": "Casos familiares semelhantes são a exceção."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000131074",
+   "codigo": "4000131074",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cefaleias na Infância",
+   "numero": 2,
+   "temas": [
+    "Pediatria",
+    "Cef aleias"
+   ],
+   "enunciado": "Baseado no conhecimento adquirido sobre cefaleias na infância responda:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Orientação parental sobre higiene de sono, alimentação e exercícios físicos aliado a aplicação de um diário de cefaleia dá ao médico subsídios importantes na decisão sobre tratamento medicamentoso."
+    },
+    {
+     "letra": "B",
+     "texto": "As infecções virais são a causa mais comum de cefaleia em emergências pediátricas, seguido dos tumores cerebrais."
+    },
+    {
+     "letra": "C",
+     "texto": "A Migrânea por definição é uma cefaleia hemicrânica, de moderada a forte intensidade, associada a náusea/vômito e que melhora com exercícios físicos e uso de analgésicos."
+    },
+    {
+     "letra": "D",
+     "texto": "A Síndrome de Vômitos Cíclicos, o Torcicolo paroxístico, as Cólicas do lactente assim como a Cefaleia Tensional são Síndromes da infância relacionadas a Migrânea na idade adulta."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000090042",
+   "codigo": "4000090042",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cefaleias na Infância",
+   "numero": 3,
+   "temas": [
+    "Pediatria"
+   ],
+   "enunciado": "O diagnóstico das cefaleias em pediatria é, na maioria das vezes, apenas clínico. Uma boa anamnese e um exame físico detalhado, incluindo o exame neurológico e de fundo de olho, são base fundamental para o diagnóstico desse problema em crianças. A American Academy of Neurology (AAN) e outras entidades, em conjunto, elaboraram uma revisão e criaram critérios baseados em evidências para a real necessidade de se realizar o exame de neuroimagem em pacientes com cefaleia. São eles, exceto",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "alteração da coordenação motora."
+    },
+    {
+     "letra": "B",
+     "texto": "idade superior a 08 anos."
+    },
+    {
+     "letra": "C",
+     "texto": "história de cefaleia como causa de despertar noturno."
+    },
+    {
+     "letra": "D",
+     "texto": "traumatismo craniano."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000079593",
+   "codigo": "4000079593",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cefaleias na Infância",
+   "numero": 4,
+   "temas": [
+    "Critérios Diagnósticos"
+   ],
+   "enunciado": "São critérios diagnósticos para migrânea na infância, segundo a International Headache Society, todos os abaixo, exceto:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cefaleia durando de 1 a 72 horas (sem tratamento ou com tratamento ineficaz)."
+    },
+    {
+     "letra": "B",
+     "texto": "Localização unilateral ou bilateral, de caráter pulsátil."
+    },
+    {
+     "letra": "C",
+     "texto": "Presença de náuseas e/ou vômitos."
+    },
+    {
+     "letra": "D",
+     "texto": "Ausência de fotofobia em todos os episódios."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000079562",
+   "codigo": "4000079562",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cefaleias na Infância",
+   "numero": 5,
+   "temas": [
+    "Critérios Diagnósticos"
+   ],
+   "enunciado": "Segundo a moderna classificação das cefaleias, das alternativas abaixo qual não é uma característica da migrânea?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Afasia motora."
+    },
+    {
+     "letra": "B",
+     "texto": "Déficit de campo visual."
+    },
+    {
+     "letra": "C",
+     "texto": "Hemiparesia."
+    },
+    {
+     "letra": "D",
+     "texto": "Sintomas sensitivos reversíveis."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000079547",
+   "codigo": "4000079547",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cefaleias na Infância",
+   "numero": 6,
+   "temas": [
+    "Pediatria"
+   ],
+   "enunciado": "Assinale a alternativa incorreta em relação às cefaleias na infância e adolescência.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O tratamento medicamentoso da fase aguda é realizado com fármacos antiepilépticos selecionados."
+    },
+    {
+     "letra": "B",
+     "texto": "A cefaleia é um sintoma frequente em pediatria."
+    },
+    {
+     "letra": "C",
+     "texto": "Quando ocorre de forma recorrente ou intensa, desencadeia preocupação tanto para a família quanto para o médico."
+    },
+    {
+     "letra": "D",
+     "texto": "O tratamento medicamentoso na fase aguda é feito preferencialmente com analgésicos comuns."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000044486",
+   "codigo": "4000044486",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cefaleias na Infância",
+   "numero": 7,
+   "temas": [
+    "Cef aleias Primárias"
+   ],
+   "enunciado": "Assinale a alternativa incorreta em relação às cefaleias primárias na infância.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "São distúrbios comuns e estão associados às atividades rotineiras."
+    },
+    {
+     "letra": "B",
+     "texto": "A cefaleia migrânea pode acometer todas as faixas etárias, caracteriza-se por dor moderada a grave, com duração de 01 a 72 horas e pode ser precedida de aura, como estocomas e disfasia."
+    },
+    {
+     "letra": "C",
+     "texto": "O uso de AINEs no tratamento da cefaleia em crianças é efetivo e está relacionado à inibição de protaglandinas."
+    },
+    {
+     "letra": "D",
+     "texto": "A contração muscular gerada por estresse e por brincadeiras exaustivas pode desencadear cefaleias tensionais na infância, as quais podem durar de 30 minutos a 07 dias, com dor leve a moderada, de forma continua."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000033479",
+   "codigo": "4000033479",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cefaleias na Infância",
+   "numero": 8,
+   "temas": [
+    "Características da Dor",
+    "Tratamento Sintomático",
+    "Tratamento Prof ilático"
+   ],
+   "enunciado": "Criança, nove anos de idade, consulta na UBS devido a queixa de cefaleia. Apresentou cinco crises anteriores de cefaleia, que se iniciaram há um ano. A dor é frontotemporal, às vezes unilateral, às vezes bilateral, de intensidade moderada. Nega horário preferencial e observa que é mais comum em situações de estresse. Relata piora da dor com atividade física e com barulho. Quando sente dor, ela usa dipirona, deita-se no quarto mais escuro e dorme até melhorar, o que ocorre em aproximadamente duas a três horas. Há dois dias, a mãe foi chamada na escola pois a criança apresentou vômito associado à cefaleia. Ela relatou que estava fazendo prova e meia hora antes de sentir a dor, começou a enxergar pontos escuros que a dificultavam enxergar. No momento, está sem dor e o exame físico está normal. Assinale a alternativa que contém a hipótese diagnóstica MAIS PROVÁVEL e a conduta MAIS ADEQUADA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cefaleia tensional. Encaminhar para realizar exame de imagem para excluir outras causas"
+    },
+    {
+     "letra": "B",
+     "texto": "Cefaleia tensional. Solicitar avaliação oftalmológica para excluir cefaleia por erro de refração"
+    },
+    {
+     "letra": "C",
+     "texto": "Enxaqueca. Iniciar a profilaxia medicamentosa com topiramato ou propranolol"
+    },
+    {
+     "letra": "D",
+     "texto": "Enxaqueca. Orientar o uso de analgésico ou anti-inflamatório não-esteroide no início da crise"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000085101",
+   "codigo": "4000085101",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cefaleias na Infância",
+   "numero": 9,
+   "temas": [
+    "Tratamento Prof ilático",
+    "Pediatria"
+   ],
+   "enunciado": "Considere as assertivas sobre tratamento profilático de enxaqueca em crianças e adolescentes. I - As indicações para o tratamento devem considerar a ocorrência de 2-3 crises/mês, de crises que interferem no desempenho adequado das atividades diárias e de crises que se acompanham de alterações sensitivas ou motoras. II. - Bloqueadores dos canais de cálcio, betabloqueadores, anti-histamínicos, antidepressivos tricíclicos ou anticonvulsivantes podem ser utilizados. III. - A duração do tratamento recomendado situa-se na faixa de 1-3 meses. Quais são corretas?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Apenas I"
+    },
+    {
+     "letra": "B",
+     "texto": "Apenas II"
+    },
+    {
+     "letra": "C",
+     "texto": "Apenas III"
+    },
+    {
+     "letra": "D",
+     "texto": "Apenas I e II"
+    },
+    {
+     "letra": "E",
+     "texto": "I, II e III"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000072004",
+   "codigo": "4000072004",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cefaleias na Infância",
+   "numero": 10,
+   "temas": [
+    "Características da Dor",
+    "Pródromo e Aura de Enxqueca"
+   ],
+   "enunciado": "Assinale a assertiva correta em relação à cefaleia/enxaqueca na infância",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A realização da tomografia computadorizada de crânio (TCC) é mandatória na investigação diagnóstica."
+    },
+    {
+     "letra": "B",
+     "texto": "Na enxaqueca podem ocorrer sinais neurológicos focais."
+    },
+    {
+     "letra": "C",
+     "texto": "A enxqueca nessa faixa etária tem episódios mais duradouros do que nos adultos."
+    },
+    {
+     "letra": "D",
+     "texto": "Se não houver o relato de \"auras\", o diagnóstico de enxaqueca deve ser afastado."
+    },
+    {
+     "letra": "E",
+     "texto": "Os anti-inflamatórios são contraindicados na enxaqueca em crianças."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000037816",
+   "codigo": "4000037816",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cefaleias na Infância",
+   "numero": 11,
+   "temas": [
+    "Critérios Diagnósticos"
+   ],
+   "enunciado": "Adolescente de 11 anos, sexo feminino, queixa de episódios cefaleia holocraniana frequente, geralmente no nal da tarde, a intensidade é moderada, não interfere suas atividades diárias, nem aumenta com atividade física. Descreve o sintoma como uma pressão/aperto bilateral. Nega náuseas, vômitos, fotofobia ou fonofobia. Relata alivio com ibuprofeno. O quadro descrito acima sugere:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Enxaqueca."
+    },
+    {
+     "letra": "B",
+     "texto": "Tumor cerebral."
+    },
+    {
+     "letra": "C",
+     "texto": "Epilepsia."
+    },
+    {
+     "letra": "D",
+     "texto": "Cefaleia tensional."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000017200",
+   "codigo": "4000017200",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cefaleias na Infância",
+   "numero": 12,
+   "temas": [
+    "Tratamento Prof ilático"
+   ],
+   "enunciado": "A cefaleia é a terceira forma de dor mais comum entre crianças e adolescentes. Sobre essa doença, assinale a alternativa INCORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Na maioria dos pacientes com cefaleias crônicas recorrentes, a anamnese e o exame físico são suficientes para o estabelecimento do diagnóstico da forma de cefaleia, sem necessidade de exames complementares."
+    },
+    {
+     "letra": "B",
+     "texto": "O sumatriptano é uma droga muito utilizada na profilaxia da migrânea."
+    },
+    {
+     "letra": "C",
+     "texto": "A migrânea com e sem aura, assim como a cefaleia tensional, são exemplos de cefaleias na infância e na adolescência."
+    },
+    {
+     "letra": "D",
+     "texto": "A migrânea pode ter como complicação a crise epiléptica."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000045731",
+   "codigo": "4000045731",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cefaleias na Infância",
+   "numero": 13,
+   "temas": [
+    "Critérios Diagnósticos"
+   ],
+   "enunciado": "Dona Márcia traz sua filha, Clara, de 10 anos, ao ambulatório, com queixa de cefaleia frontal há aproximadamente 3 anos. Informa que as crises não têm horário preferencial, são associadas a náuseas e palidez labial e duram cerca de 1 hora. Dona Márcia relata que percebeu que as crises pioram em períodos de provas escolares e quando Clara fica muito tempo assistindo TV. Diante de crianças com quadro semelhante ao de Clara, assinale a alternativa correta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a avaliação da acuidade visual está indicada em toda criança com queixa de cefaleia."
+    },
+    {
+     "letra": "B",
+     "texto": "a duração da dor por períodos menores de 2 horas afasta o diagnóstico de enxaqueca"
+    },
+    {
+     "letra": "C",
+     "texto": "radiografia dos seios da face, fazem parte da triagem diagnóstica dessas crianças"
+    },
+    {
+     "letra": "D",
+     "texto": "o diagnóstico de enxaqueca é muito raro em crianças com menos de 8 anos de idade"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000087983",
+   "codigo": "4000087983",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cefaleias na Infância",
+   "numero": 14,
+   "temas": [
+    "Cef aleias Secundárias"
+   ],
+   "enunciado": "Escolar com história de crises de cefaleia matinais de início abrupto há 1 semana com piora progressiva e sem recuperação total da dor entre as crises. Relata que as crises não são precedidas por aura e não sofrem interferência do som ou da uz. Nega febre, perda de peso e não apresenta sinais neurológicos focais. História familiar positiva para enxaqueca (mãe). Com relação à etiologia da cefaleia neste caso, pode-se AFIRMAR que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Trata-se provavelmente de enxaqueca devido à história familiar positiva e ausência de sinais neurológicos focais."
+    },
+    {
+     "letra": "B",
+     "texto": "A ausência do relato de aura, foto ou fonofobia excluem a hipótese diagnóstica de enxaqueca."
+    },
+    {
+     "letra": "C",
+     "texto": "Uma vez que a criança não apresenta sintomas constitucionais e alterações no exame físico neurológico, torna desnecessária a realização de exames de imagem e punção lombar."
+    },
+    {
+     "letra": "D",
+     "texto": "O diagnóstico de cefaléia tensional é o mais provável, já que é a causa mais comum de cefaléia na infância e este paciente não apresenta nenhum sinal de alerta."
+    },
+    {
+     "letra": "E",
+     "texto": "Vários dados da história sugerem causa secundária."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000126899",
+   "codigo": "4000126899",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cefaleias na Infância",
+   "numero": 15,
+   "temas": [
+    "Tratamento Sintomático",
+    "Pródromo e Aura de Enxqueca"
+   ],
+   "enunciado": "Uma menina de 10 anos de idade é atendida na Unidade Básica de Saúde, com queixa de dor de cabeça recorrente há 6 meses. Refere que a dor é de moderada intensidade, localizada na região frontal, intermitente, com duração aproximada de 2 horas, de caráter pulsátil e acompanhada de náuseas e fotofobia. Relata ainda que os episódios são desencadeados por atividade física, jejum prolongado ou privação de sono. O exame físico é normal. Diante desse quadro, quais são o diagnóstico e o tratamento inicial recomendado?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cefaleia tensional; ibuprofeno."
+    },
+    {
+     "letra": "B",
+     "texto": "Cefaleia tensional; ergotamina."
+    },
+    {
+     "letra": "C",
+     "texto": "Migrânea sem aura; ibuprofeno."
+    },
+    {
+     "letra": "D",
+     "texto": "Migrânea sem aura; ergotamina."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000097402",
+   "codigo": "4000097402",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cefaleias na Infância",
+   "numero": 16,
+   "temas": [
+    "Pediatria"
+   ],
+   "enunciado": "Menino, 8a, previamente hígido, é trazido à consulta médica com queixa de cefaleia holocraniana, em aperto, de início há 3 semanas, de média para forte intensidade e piora ao longo do dia. Há uma semana começou a apresentar despertar noturno, com náuseas e mudança de comportamento. Exame físico: FR = 12 irpm; FC = 70 bpm; PA = 130 x 90 mmHg (acima do percentil 95). A conduta é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Realizar tomografia computadorizada de crânio."
+    },
+    {
+     "letra": "B",
+     "texto": "Coleta de líquido cefalorraquidiano."
+    },
+    {
+     "letra": "C",
+     "texto": "Avaliação de função renal."
+    },
+    {
+     "letra": "D",
+     "texto": "Iniciar anti-hipertensivo."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000017640",
+   "codigo": "4000017640",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cefaleias na Infância",
+   "numero": 17,
+   "temas": [
+    "Pseudotumor Cerebral"
+   ],
+   "enunciado": "Adolescente de 13 anos, obesa (IMC de 33), é vítima de “bullying” na escola. Há cerca de 15 dias está ausente das atividades escolares por referir cefaleia intensa, holocraniana, acompanhada de fotofobia e vômitos. Nega febre ou tosse. Não obteve melhora com analgésicos comuns. Ao exame físico, apresenta-se consciente, orientada, sem sinais de irritação meníngea, com pressão arterial de 140x80 mmHg. A tomogra a de crânio está dentro da normalidade. A pressão liquórica está aumentada, mas a análise quimiocitológica do líquido cefalorraquidiano está normal. O fundo de olho revelou papiledema bilateral. O diagnóstico mais provável é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tumor de hipófise."
+    },
+    {
+     "letra": "B",
+     "texto": "Enxaqueca oftalmoplégica."
+    },
+    {
+     "letra": "C",
+     "texto": "Encefalite viral."
+    },
+    {
+     "letra": "D",
+     "texto": "Síndrome do pseudotumor cerebral."
+    },
+    {
+     "letra": "E",
+     "texto": "Cefaleia tensional."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000002548",
+   "codigo": "4000002548",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Cefaleias na Infância",
+   "numero": 18,
+   "temas": [
+    "Características da Dor"
+   ],
+   "enunciado": "Qual das seguintes características clínicas NÃO faz parte do espectro de enxaqueca em criança? Respostas: 1 12",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cefaleia."
+    },
+    {
+     "letra": "B",
+     "texto": "Perda visual temporária."
+    },
+    {
+     "letra": "C",
+     "texto": "Dor abdominal, cólicas e vômitos."
+    },
+    {
+     "letra": "D",
+     "texto": "Alucinações olfatórias."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": []
+}

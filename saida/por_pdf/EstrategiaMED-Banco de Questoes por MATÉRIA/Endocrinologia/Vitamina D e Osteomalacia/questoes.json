@@ -1,0 +1,613 @@
+{
+ "questoes": [
+  {
+   "id": "4000112388",
+   "codigo": "4000112388",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vitamina D e Osteomalacia",
+   "numero": 1,
+   "temas": [
+    "Outras causas",
+    "Intoxicação"
+   ],
+   "enunciado": "Homem, 72 anos, é levado em consulta, por familiares, por quadro de confusão mental. Exames da chegada demonstram: cálcio total = 14,3 mg/dL (VR: 8,4-10,2 mg/dL) e creatinina = 2,9 mEq/L. Investigação complementar demonstra PTH < 15 pg/mL (VR: 20 – 50 pg/mL). Assinale a alternativa que apresenta o diagnóstico presuntivo mais provável para esse caso.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipoparatireoidismo."
+    },
+    {
+     "letra": "B",
+     "texto": "Hiperplasia de paratireoide."
+    },
+    {
+     "letra": "C",
+     "texto": "Intoxicação por vitamina D."
+    },
+    {
+     "letra": "D",
+     "texto": "Adenoma de paratireoide."
+    },
+    {
+     "letra": "E",
+     "texto": "Carcinoma de paratireoide."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000090833",
+   "codigo": "4000090833",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vitamina D e Osteomalacia",
+   "numero": 2,
+   "temas": [
+    "Vitamina D",
+    "Vitamina D Def iciência e Intoxicação"
+   ],
+   "enunciado": "Partindo do princípio de que a hipovitaminose D é muito prevalente em nosso país e tem uma importância clínica significativa, assinale a alternativa INCORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A hipovitaminose D leva à deficiência na absorção do cálcio e, com isso, pode levar a um quadro de hiperparatireoidismo secundário."
+    },
+    {
+     "letra": "B",
+     "texto": "Entre as ações da vitamina D estão a absorção intestinal do cálcio, modulação da secreção de PTH, função das células ósseas e função muscular."
+    },
+    {
+     "letra": "C",
+     "texto": "Indivíduos com síndromes de má absorção intestinal como ocorre após cirurgia bariátrica e doença inflamatória intestinal fazem parte do grupo de risco para hipovitaminose D."
+    },
+    {
+     "letra": "D",
+     "texto": "Não existem evidências para solicitação do nível sérico de 25(OH) vitamina D para a população adulta sem comorbidades; portanto, a triagem populacional não está indicada."
+    },
+    {
+     "letra": "E",
+     "texto": "A vitamina D sintetizada na pele ou ingerida é carreada na circulação por uma proteína específica e metabolizada primeiro no rim e depois no fígado."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000098948",
+   "codigo": "4000098948",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vitamina D e Osteomalacia",
+   "numero": 3,
+   "temas": [
+    "Complicações da DRC Doença Mineral e óssea"
+   ],
+   "enunciado": "Homem, 23a, refere dor no quadril e di culdade para andar há duas horas após crise convulsiva. Antecedentes pessoais: insu ciência renal crônica. Creatinina = 8,9 mg/dl; ureia = 194 mg/dl; cálcio = 4 mg/dl; fósforo = 6,2 mg/dl; fosfatase alcalina = 27 UI/dl; PTH = 488 pg/ml. Radiograma de pelve: fratura da cabeça do fêmur direito. O diagnóstico é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hiperparatiroidismo primário."
+    },
+    {
+     "letra": "B",
+     "texto": "Osteomalácia por deficiência de vitamina D."
+    },
+    {
+     "letra": "C",
+     "texto": "Osteíte fibrosa por hipocalcemia."
+    },
+    {
+     "letra": "D",
+     "texto": "Osteodistrofia renal."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000078095",
+   "codigo": "4000078095",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vitamina D e Osteomalacia",
+   "numero": 4,
+   "temas": [
+    "Ingestão diária recomendada e valores de normalidade"
+   ],
+   "enunciado": "Entre as ações da 1,25 (OH)₂ vitamina D, pode-se destacar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Estímulo à reabsorção óssea."
+    },
+    {
+     "letra": "B",
+     "texto": "Redução da absorção intestinal de cálcio."
+    },
+    {
+     "letra": "C",
+     "texto": "Aumento da fosfatúria."
+    },
+    {
+     "letra": "D",
+     "texto": "Estímulo à secreção do paratormônio."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000127746",
+   "codigo": "4000127746",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vitamina D e Osteomalacia",
+   "numero": 5,
+   "temas": [
+    "Hiperparatireoidismo secundário",
+    "Apresentação clínica e laboratorial"
+   ],
+   "enunciado": "Homem de 74 anos, casado, aposentando, vem ao ambulatório de geriatria encaminhado pelo clínico após exame que apontou hiperparatireoidismo. Paciente é oligossintomático. Refere hipertensão arterial, dislipidemia, diabetes e hiperuricemia. Sedentário, refere boa alimentação, intolerância à lactose e alergia à penicilina. Faz uso de losartana 50mg de 12 em 12 horas, hidroclorotiazida 25 mg em dias alternados, sinvastatina 20mg, glifage XR 500 2 cps/dia e halopurinol 100mg. Laboratório: (em mg/dl) creatinina 1,05; ureia 38; TGO 26; TGP 17; Ca 8,9; colesterol total 201; HDL 52; TG 160; glicemia 98; ácido úrico 5,1. TSH 2,7uIU/mL; vitamina D 17ng/ml Na 138mEq/L; K 4,5 mEq/L. Com base nesses dados, qual é a causa mais provável do hiperparatireoidismo?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Efeito colateral da losartana."
+    },
+    {
+     "letra": "B",
+     "texto": "Efeito colateral do halopurinol."
+    },
+    {
+     "letra": "C",
+     "texto": "Efeito colateral da sinvastatina."
+    },
+    {
+     "letra": "D",
+     "texto": "Nefropatia subclínica do idoso."
+    },
+    {
+     "letra": "E",
+     "texto": "Aporte inapropriado de vitamina D/cálcio."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000116971",
+   "codigo": "4000116971",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vitamina D e Osteomalacia",
+   "numero": 6,
+   "temas": [
+    "Intoxicação"
+   ],
+   "enunciado": "Paciente utilizando automedicação ingeriu altas doses de vitamina D (D3). Muito provavelmente, este paciente apresentará:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipercalcemia e hipofosfatemia."
+    },
+    {
+     "letra": "B",
+     "texto": "Hipercalcemia e hipocalciúria."
+    },
+    {
+     "letra": "C",
+     "texto": "Hipocalcemia e hipocalciúria."
+    },
+    {
+     "letra": "D",
+     "texto": "Hipercalcemia e hiperfosfatemia."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000085537",
+   "codigo": "4000085537",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vitamina D e Osteomalacia",
+   "numero": 7,
+   "temas": [
+    "Abordagem diagnóstica e terapêutica",
+    "Vitamina D"
+   ],
+   "enunciado": "A de ciência de vitamina D tem sido implicada como fator de risco no desenvolvimento de alguns tipos de câncer, como o de mama, colorretal e de ovário. Um dos metabólitos biologicamente ativos dessa vitamina parece estar envolvido na apoptose, na prevenção da angiogênese, reduzindo a progressão da célula para o fenótipo maligno. As recomendações diárias alimentares (RD) aumentaram de 400 para 600 UI por dia e indicações para suplementação com 50000 IU uma a duas vezes por mês são cada vez maiores para populações vulneráveis, como residentes em casas de repouso ou centros de de ciência, mulheres em período de menopausa com osteopenia e também para indivíduos sob risco de algum tipo de câncer. Quem é esse metabólito ativo?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ergocalciferol."
+    },
+    {
+     "letra": "B",
+     "texto": "Colecalciferol."
+    },
+    {
+     "letra": "C",
+     "texto": "24-25 - dihidroxicolecalciferol."
+    },
+    {
+     "letra": "D",
+     "texto": "Calcitriol."
+    },
+    {
+     "letra": "E",
+     "texto": "25-hidroxicolecalciferol"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000041513",
+   "codigo": "4000041513",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vitamina D e Osteomalacia",
+   "numero": 8,
+   "temas": [
+    "Etiologia",
+    "Vitamina D",
+    "Apresentação clínica e laboratorial"
+   ],
+   "enunciado": "As fontes alimentares de Vitamina D (VD) são escassas e os seres humanos dependem principalmente da síntese cutânea. A de ciência de VD é considerada um problema de saúde pública com aumento crescente de sua prevalência com o envelhecimento, o estilo de vida sedentário, a exposição de luz solar limitada. Assim, considera-se que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "É raro encontrar deficiência de Vitamina D no obeso em virtude dos estoques no tecido adiposo."
+    },
+    {
+     "letra": "B",
+     "texto": "Na etnia negra as taxas de prevalência de deficiência de Vitamina D são menores que na etnia branca."
+    },
+    {
+     "letra": "C",
+     "texto": "A produção de Vitamina D na pele é dependente da radiação ultravioleta A (UVA)."
+    },
+    {
+     "letra": "D",
+     "texto": "A deficiência de Vitamina D no adulto leva ao raquitismo."
+    },
+    {
+     "letra": "E",
+     "texto": "Estudos epidemiológicos têm sugerido forte associação entre deficiência de Vitamina D e aumento na morbidade e mortalidade por doenças cardiovasculares."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000020690",
+   "codigo": "4000020690",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vitamina D e Osteomalacia",
+   "numero": 9,
+   "temas": [
+    "Outras causas",
+    "Intoxicação"
+   ],
+   "enunciado": "Paciente de 70 anos consulta por confusão mental. Exames da chegada demonstram cálcio 13,3mg/dL (VR: 8,4-10,2mg/dL). Investigação complementar demonstra PTH < 15 pg/mL (VR: 20 – 50pg/mL). Com relação ao quadro acima, qual o diagnóstico mais provável?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Adenoma de paratireoide."
+    },
+    {
+     "letra": "B",
+     "texto": "Hiperplasia de paratireoide."
+    },
+    {
+     "letra": "C",
+     "texto": "Carcinoma de paratireoide."
+    },
+    {
+     "letra": "D",
+     "texto": "Intoxicação por Vitamina D."
+    },
+    {
+     "letra": "E",
+     "texto": "Hipoparatireoidismo."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000106705",
+   "codigo": "4000106705",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vitamina D e Osteomalacia",
+   "numero": 10,
+   "temas": [
+    "Introdução e etiologia"
+   ],
+   "enunciado": "Assinale a alternativa que não representa adequadamente causas de osteomalácia.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Redução da exposição solar, síndrome nefrótica, hepatopatia crônica e insuficiência pancreática."
+    },
+    {
+     "letra": "B",
+     "texto": "Redução da exposição solar, transplante renal, orlistat, fenitoína e carbamazepina."
+    },
+    {
+     "letra": "C",
+     "texto": "Redução da exposição solar, cirurgia bariátrica, deficiência de fósforo e bifosfonatos."
+    },
+    {
+     "letra": "D",
+     "texto": "Redução da exposição solar, acidose tubular renal, síndrome de má absorção intestinal e ácido valpróico."
+    },
+    {
+     "letra": "E",
+     "texto": "Raquitísmo tipo 1, doença de Paget, inibidores da receptação de serotonina e tizídicos."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000095934",
+   "codigo": "4000095934",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vitamina D e Osteomalacia",
+   "numero": 11,
+   "temas": [
+    "Def iciência"
+   ],
+   "enunciado": "A deficiência de vitamina D provoca:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "beribéri."
+    },
+    {
+     "letra": "B",
+     "texto": "Wernicke Korsa Koff."
+    },
+    {
+     "letra": "C",
+     "texto": "desmineralização óssea."
+    },
+    {
+     "letra": "D",
+     "texto": "perda de cabelos."
+    },
+    {
+     "letra": "E",
+     "texto": "glossite."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000060949",
+   "codigo": "4000060949",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vitamina D e Osteomalacia",
+   "numero": 12,
+   "temas": [
+    "Abordagem diagnóstica e terapêutica"
+   ],
+   "enunciado": "Mulher idosa, 70 (setenta) anos, retorna à consulta geriátrica com exames complementares, que apresentam dosagem de vitamina D de 15 ng/ml. Qual deve ser a conduta do médico nesta situação?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Reposição oral com 800 UI/dia de vitamina D, por um mês, repetindo os exames após esse período"
+    },
+    {
+     "letra": "B",
+     "texto": "Reposição injetável com 5000 UI/ semana por seis meses, seguida de reposição oral com 600 UI diariamente"
+    },
+    {
+     "letra": "C",
+     "texto": "Reposição oral com 50.000 UI /semana, durante seis a oito semanas, seguida de reposição oral com 800 UI diariamente"
+    },
+    {
+     "letra": "D",
+     "texto": "Orientar a paciente a tomar sol diariamente, durante vinte minutos"
+    },
+    {
+     "letra": "E",
+     "texto": "Reposição oral com 1000 UI uma vez na semana, por seis meses"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000123272",
+   "codigo": "4000123272",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vitamina D e Osteomalacia",
+   "numero": 13,
+   "temas": [
+    "Apresentação clínica e laboratorial"
+   ],
+   "enunciado": "Qual o quadro laboratorial característico da deficiência grave e prolongada de vitamina D?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cálcio alto, fósforo baixo e PTH elevado."
+    },
+    {
+     "letra": "B",
+     "texto": "Cálcio alto, fósforo alto e PTH baixo."
+    },
+    {
+     "letra": "C",
+     "texto": "Cálcio normal ou baixo, fósforo baixo e PTH elevado."
+    },
+    {
+     "letra": "D",
+     "texto": "Cálcio normal ou baixo, fósforo alto e PTH elevado."
+    },
+    {
+     "letra": "E",
+     "texto": "Cálcio baixo, fósforo baixo e PTH baixo."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000092591",
+   "codigo": "4000092591",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vitamina D e Osteomalacia",
+   "numero": 14,
+   "temas": [
+    "Abordagem diagnóstica e terapêutica"
+   ],
+   "enunciado": "Com relação à correção de vitamina D é INCORRETO afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A reposição oral é o tratamento de escolha e o ergocalciferol (D2) deve ser preferido ao colecalciferol (D3)."
+    },
+    {
+     "letra": "B",
+     "texto": "A correção rápida está indicada em pacientes com deficiência de vitamina D e que serão submetidos ao tratamento com drogas anti-reabsortivas como zoledronato e denosumab."
+    },
+    {
+     "letra": "C",
+     "texto": "A reposição rápida deverá ser prescrita para um período de 6 a 10 semanas em doses diárias ou semanais que deverão atingir um total em torno de 300 mil ui."
+    },
+    {
+     "letra": "D",
+     "texto": "Doses de manutenção devem ser oferecidas na média 800 a 2000 ui diárias ou em doses maiores intermitentes."
+    },
+    {
+     "letra": "E",
+     "texto": "Nas doses de ataque, é mais importante monitorar o cálcio sérico ajustado pela albumina, do que os níveis séricos de vitamina D 250H."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000017825",
+   "codigo": "4000017825",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vitamina D e Osteomalacia",
+   "numero": 15,
+   "temas": [
+    "Vitamina D",
+    "Vitamina DColecalcif erol",
+    "Vitamina D Def iciência e Intoxicação"
+   ],
+   "enunciado": "Sobre as vitaminas D, podemos afirmar, exceto:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a vitamina D é metabolizada no fígado."
+    },
+    {
+     "letra": "B",
+     "texto": "o metabólito da vitamina D é o calcidiol."
+    },
+    {
+     "letra": "C",
+     "texto": "o calcidiol é metabolizado nos rins em calcitriol."
+    },
+    {
+     "letra": "D",
+     "texto": "a vitamina D2 (ergocalciferol) é derivada de óleos de peixe."
+    },
+    {
+     "letra": "E",
+     "texto": "a vitamina D3 (colecalciferol) é sintetizada na epiderme."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000079301",
+   "codigo": "4000079301",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vitamina D e Osteomalacia",
+   "numero": 16,
+   "temas": [
+    "Abordagem diagnóstica e terapêutica",
+    "Hiperparatireoidismo secundário"
+   ],
+   "enunciado": "Apresentação clínica e laboratorial Mulher, 75 anos, com diagnóstico de osteoporose, procura atendimento devido ao aumento de PTH (PTH = 80, VN até 65). Demais exames: cálcio sérico = 8,5; fósforo sérico = 3,5; albumina sérica e cálcio urinário normais. A conduta inicial é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Dosar vitamina D plasmática."
+    },
+    {
+     "letra": "B",
+     "texto": "Solicitar cintilografia com sestamibi."
+    },
+    {
+     "letra": "C",
+     "texto": "Encaminhar para paratireoidectomia."
+    },
+    {
+     "letra": "D",
+     "texto": "Iniciar terapia de reposição hormonal."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000007457",
+   "codigo": "4000007457",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Vitamina D e Osteomalacia",
+   "numero": 17,
+   "temas": [
+    "Hiperparatireoidismo primário",
+    "Etiologia",
+    "Vitamina D"
+   ],
+   "enunciado": "A presença de hipercalcemia associada à de ciência de 25-OH-vitamina D é mais provável em qual das seguintes patologias? Respostas: 1 12",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tuberculose."
+    },
+    {
+     "letra": "B",
+     "texto": "Sarcoidose."
+    },
+    {
+     "letra": "C",
+     "texto": "Hiperparatireoidismo."
+    },
+    {
+     "letra": "D",
+     "texto": "Histoplasmose."
+    },
+    {
+     "letra": "E",
+     "texto": "Hanseníase."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": []
+}

@@ -1,0 +1,3366 @@
+{
+ "questoes": [
+  {
+   "id": "4000184794",
+   "codigo": "4000184794",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 1,
+   "temas": [
+    "Classif icação"
+   ],
+   "enunciado": "Um caso de descolamento prematuro de placenta é caracterizado por: sangramento vaginal; dor abdominal intensa; hipertonia uterina; feto em sofrimento, mas vivo. Pode-se afirmar que o mesmo classifica-se como grau:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1"
+    },
+    {
+     "letra": "B",
+     "texto": "2"
+    },
+    {
+     "letra": "C",
+     "texto": "3"
+    },
+    {
+     "letra": "D",
+     "texto": "0"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000184619",
+   "codigo": "4000184619",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 2,
+   "temas": [
+    "Rotura de vasa prévia"
+   ],
+   "enunciado": "Paciente 17 anos, primigesta, idade gestacional 32 semanas, com diagnóstico ultrassonográ co de vasa prévia ao ultrassom. Para esse caso, assinale a alternativa que apresenta a MELHOR conduta a ser realizada.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Encaminhar para cesariana o mais rápido possível após corticoterapia hemotransfusão."
+    },
+    {
+     "letra": "B",
+     "texto": "Realizar o parto cesárea com gestação de 35 semanas devido ao risco de morte fetal por rotura dos vasos placentários."
+    },
+    {
+     "letra": "C",
+     "texto": "Conduzir o parto por via vaginal, uma vez que se trata de uma adolescente e não se pode comprometer seu futuro obstétrico."
+    },
+    {
+     "letra": "D",
+     "texto": "Encaminhar para indução do parto vaginal após corticoterapia e hemotransfusão."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000183608",
+   "codigo": "4000183608",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 4,
+   "temas": [
+    "Obstetrícia",
+    "Placenta prévia PP"
+   ],
+   "enunciado": "São os principais fatores de risco para placenta prévia:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cesárea prévia, trabalho de parto prematuro, gemelaridade."
+    },
+    {
+     "letra": "B",
+     "texto": "Miomectomia, macrossomia, diabetes gestacional."
+    },
+    {
+     "letra": "C",
+     "texto": "Intervalo interpartal curto, amniorrexe prematura, tabagismo."
+    },
+    {
+     "letra": "D",
+     "texto": "Multiparidade, gemelaridade, oligoâmnio."
+    },
+    {
+     "letra": "E",
+     "texto": "Cesárea prévia, miomectomia, tabagismo."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000183226",
+   "codigo": "4000183226",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 5,
+   "temas": [
+    "Obstetrícia",
+    "Placenta prévia PP"
+   ],
+   "enunciado": "A ocorrência de sangramento na segunda metade da gestação é responsável pelo aumento da morbidade gestacional. Entre as causas de hemorragia na gestação, está a placenta prévia. Quanto à placenta prévia, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A placenta prévia é definida como a presença de tecido placentário total ou parcialmente inserido no segmento inferior do útero após a 28ª semana de gestação."
+    },
+    {
+     "letra": "B",
+     "texto": "O diagnóstico clínico da placenta prévia inclui sangramento único, indolor, imotivado, com tônus uterino aumentado."
+    },
+    {
+     "letra": "C",
+     "texto": "O toque vaginal e a ultrassonografia transvaginal não são recomendados à paciente com placenta prévia, pelo risco de hemorragia."
+    },
+    {
+     "letra": "D",
+     "texto": "O parto cesáreo está sempre indicado nos casos de placenta de inserção baixa."
+    },
+    {
+     "letra": "E",
+     "texto": "A invasão da placenta no miométrio é denominada acretismo placentário, que pode ser total ou parcial."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000183151",
+   "codigo": "4000183151",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 6,
+   "temas": [
+    "Obstetrícia",
+    "Acretismo placentário"
+   ],
+   "enunciado": "Paciente com 33 semanas de gestação, quartigesta com 3 cesáreas anteriores, previamente assintomática, procura o pronto socorro queixando-se de sangramento vaginal moderado. Sabidamente, possui placenta de inserção baixa centro- total com sinais de acretismo em região ístmica uterina. Não apresenta dinâmica uterina, feto ativo. Ao exame especular, conteúdo sanguinolento residual, sem sangramento ativo. Qual é a conduta mais adequada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Resolução imediata da gestação por via alta, abdicando-se da corticoterapia."
+    },
+    {
+     "letra": "B",
+     "texto": "Corticoterapia, internação para controle clínico, cesárea eletiva após 36ª semana."
+    },
+    {
+     "letra": "C",
+     "texto": "Resolução da gestação por via alta, aguardando 48h da corticoterapia."
+    },
+    {
+     "letra": "D",
+     "texto": "Controle clínico domiciliar, retornar se novo episódio de sangramento."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000182967",
+   "codigo": "4000182967",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 7,
+   "temas": [
+    "Descolamento prematuro de placenta DPP",
+    "Obstetrícia"
+   ],
+   "enunciado": "Gestante de 33 anos com 36 semanas refere dor em baixo ventre há duas horas. AP: G3P1A1. Exame físico: P A 140x100mmHg, FC 96bpm, dinâmica uterina com 5 contrações de 40 segundos em 10 minutos, BCF 164 bpm. Toque vaginal: colo médio, medianizado, dilatado 3cm, bolsa íntegra. Durante a avaliação a paciente apresenta aumento súbito da dor, seguido de sangramento vaginal escuro, em moderada quantidade e di culdade para ausculta dos batimentos fetais. A hipótese diagnóstica e a conduta são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "descolamento prematuro de placenta; rotura imediata da bolsa para reduzir a formação do coágulo retroplacentário e parto cesáreo de emergência."
+    },
+    {
+     "letra": "B",
+     "texto": "trabalho de parto taquitócico; analgesia de trabalho de parto para reduzir a dinâmica uterina."
+    },
+    {
+     "letra": "C",
+     "texto": "trabalho de parto taquitócico; rotura da bolsa para reduzir a dinâmica uterina e melhorar o fluxo útero-placentário."
+    },
+    {
+     "letra": "D",
+     "texto": "placenta prévia sem diagnóstico com sangramento decorrente do exame de toque vaginal; ultrassonografia de urgência para confirmação diagnóstica."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000182805",
+   "codigo": "4000182805",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 8,
+   "temas": [
+    "Descolamento prematuro de placenta DPP",
+    "Obstetrícia"
+   ],
+   "enunciado": "Paciente com 37 semanas de gestação procurou a Emergência Obstétrica por sangramento vaginal. Informou realizar pré- natal (risco habitual), sem intercorrências. Ao exame, apresentava pressão arterial de 140/90 mmHg, frequência cardíaca de 110 bpm, altura uterina de 32 cm, 5 contrações dolorosas em 10 minutos, útero hipertônico e batimentos cardiofetais de 100 bpm. O exame especular revelou sangramento pelo orifício cervical externo, sem dilatação. Qual o diagnóstico mais provável e qual a conduta a ser seguida?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Placenta prévia – ultrassonografia para confirmação do diagnóstico"
+    },
+    {
+     "letra": "B",
+     "texto": "Descolamento prematuro de placenta – cesariana de urgência"
+    },
+    {
+     "letra": "C",
+     "texto": "Ruptura uterina – cesariana de urgência"
+    },
+    {
+     "letra": "D",
+     "texto": "Vasa prévia – ultrassonografia para definir a origem fetal do sangramento"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000182735",
+   "codigo": "4000182735",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 9,
+   "temas": [
+    "Sangramento segunda metade da gestação",
+    "Obstetrícia"
+   ],
+   "enunciado": "Para o diagnóstico diferencial de hemorragias de terceiro trimestre da gestação, numerar a 2ª coluna de acordo com a 1ª e, após, assinalar a alternativa que apresenta a sequência CORRETA: (1) Ruptura uterina. (2) Descolamento prematuro de placenta. (_) Sinal de Bandl. (_) Sinal de Frommel. (_) Sinal de Clarke. (_) Hipertensão arterial é um fator de risco.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1 - 2 - 1 - 2."
+    },
+    {
+     "letra": "B",
+     "texto": "2 - 1 - 2 - 1."
+    },
+    {
+     "letra": "C",
+     "texto": "1 - 1 - 1 - 2."
+    },
+    {
+     "letra": "D",
+     "texto": "2 - 2 - 2 - 1."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000181730",
+   "codigo": "4000181730",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 10,
+   "temas": [
+    "Obstetrícia",
+    "Acretismo placentário"
+   ],
+   "enunciado": "Gestante, 34 anos de idade, 37 semanas e 4 dias, 4G2Pc1A, chega no PS com polo cefálico coroando. O parto é ultimado, sem intercorrências. O recém-nascido nasce vigoroso e vai ao colo da mãe. Após 2 minutos do nascimento, a paciente apresenta sangramento vaginal abundante e queda do estado geral, com índice de choque de 0,9. Nota-se que houve dequitação parcial espontânea placentária. O útero está fortemente contraído na cicatriz umbilical e não existem lacerações de trajeto. Ao tentar terminar a dequitação da placenta, percebe-se que não há desprendimento placentário e solicita-se transferência à sala cirúrgica. Entre as opções abaixo, a conduta ideal para esta paciente deverá ser laparotomia exploradora de emergência e",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "histerectomia puerperal."
+    },
+    {
+     "letra": "B",
+     "texto": "retirada da placenta com posterior histerorrafia."
+    },
+    {
+     "letra": "C",
+     "texto": "tentativa de reparo do local de lesão."
+    },
+    {
+     "letra": "D",
+     "texto": "histerectomia puerperal com placenta in loco."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000191032",
+   "codigo": "4000191032",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 11,
+   "temas": [
+    "Tratamento",
+    "Quadro clínico",
+    "Descolamento prematuro de placenta DPP"
+   ],
+   "enunciado": "Mulher III gesta II para chega ao pronto-socorro com hemorragia vaginal, referindo gestação de 7 meses e quadro de dor forte há 6 horas, com sangramento escuro e intenso. Ao exame, PA 80 x 50 mmHg, pulso de 115 bpm. O útero apresentava-se hipertônico e DU de trabalho de parto ausente. A FCF não foi audível ao sonar. Colo grosso, pérvio para 1,5 cm, apresentação cefálica. Para esse caso, assinale a alternativa que apresenta a conduta correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Administrar sulfato de magnésio."
+    },
+    {
+     "letra": "B",
+     "texto": "Levar imediatamente para cesárea."
+    },
+    {
+     "letra": "C",
+     "texto": "Romper membranas e indicar cesárea."
+    },
+    {
+     "letra": "D",
+     "texto": "Romper membranas e iniciar a indução."
+    },
+    {
+     "letra": "E",
+     "texto": "Iniciar a indução sem romper as membranas."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000191027",
+   "codigo": "4000191027",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 12,
+   "temas": [
+    "Classif icação",
+    "Def inição",
+    "Placenta prévia PP"
+   ],
+   "enunciado": "A placenta prévia ou inserção baixa de placenta é uma das causas de hemorragia da segunda metade da gestação. Em relação a essa intercorrência, é correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "é frequente ocorrer em gestante com pré-eclâmpsia."
+    },
+    {
+     "letra": "B",
+     "texto": "40% dos casos associa-se com descolamento prematuro da placenta (DPP)."
+    },
+    {
+     "letra": "C",
+     "texto": "é hemorragia com quadro doloroso e sangramento vivo."
+    },
+    {
+     "letra": "D",
+     "texto": "quando a localização é marginal (inserção não recobre o orifício interno do colo), está indicada a rotura das membranas, pois assim pode permitir o parto vaginal com menor sangramento."
+    },
+    {
+     "letra": "E",
+     "texto": "o toque na admissão da gestante orienta quanto à possibilidade de parto vaginal ou à necessidade de se indicar via alta."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000177445",
+   "codigo": "4000177445",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 13,
+   "temas": [
+    "Quadro clínico",
+    "Obstetrícia"
+   ],
+   "enunciado": "Primigesta de 30 anos, com 34 semanas de gestação, apresentou sangramento vaginal abundante, de cor vermelho viva, sem queixa de cólica. O colo uterino está fechado e normal, não havendo evidência de perda de líquido amniótico e de sangramento no momento. Os dados vitais encontram-se normais bem como os exames laboratoriais. O feto está reativo, com frequência cardíaca de 150 bpm, e seu peso estimado é de 2 kg. Nesse caso, o diagnóstico é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "vasa prévia."
+    },
+    {
+     "letra": "B",
+     "texto": "descolamento prematuro de placenta."
+    },
+    {
+     "letra": "C",
+     "texto": "placenta prévia."
+    },
+    {
+     "letra": "D",
+     "texto": "gravidez ectópica."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000170623",
+   "codigo": "4000170623",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 14,
+   "temas": [
+    "Sangramento segunda metade da gestação",
+    "Obstetrícia"
+   ],
+   "enunciado": "O descolamento prematuro de placenta (DPP) con figura uma situação obstétrica de risco materno e fetal. Ocorre no terceiro trimestre e caracteriza-se pela separação da placenta, normalmente inserida antes da expulsão do feto, em gestação de vinte semanas ou mais completas. Quanto ao DPP, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Na presença de feto vivo e viável, deve-se evitar a amniotomia."
+    },
+    {
+     "letra": "B",
+     "texto": "Na presença de útero de Couvelaire, é indicada a histerectomia puerperal."
+    },
+    {
+     "letra": "C",
+     "texto": "O diagnóstico é realizado pelo ultrassom, que evidencia a presença de hematoma retroplacentário."
+    },
+    {
+     "letra": "D",
+     "texto": "O tabagismo está associado a risco 2,5 vezes maior de descolamento prematuro de placenta e óbito fetal."
+    },
+    {
+     "letra": "E",
+     "texto": "A maconha é a droga ilícita de uso recreativo que mais aumenta o risco de descolamento prematuro de placenta."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000170026",
+   "codigo": "4000170026",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 15,
+   "temas": [
+    "Sangramento segunda metade da gestação",
+    "Obstetrícia"
+   ],
+   "enunciado": "Gestante de 27 semanas, com 3 cesáreas anteriores, apresenta sangramento vaginal discreto e indolor. Exame físico: BEG, eupneica, hidratada, PA: 115/75 mmHg, FC materna 80 bpm, AU no percentil 50, ausência de dinâmica uterina em 10 minutos, tônus uterino normal, BCF 146 bpm. Exame especular: discreta quantidade de sangue vermelho vivo coletado em fundo de saco, colo puntiforme, ausência de lesões vaginais e cervicais. A hipótese diagnóstica é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "descolamento prematuro de placenta."
+    },
+    {
+     "letra": "B",
+     "texto": "trabalho de parto prematuro."
+    },
+    {
+     "letra": "C",
+     "texto": "insuficiência istmocervical."
+    },
+    {
+     "letra": "D",
+     "texto": "placenta prévia."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000169432",
+   "codigo": "4000169432",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 16,
+   "temas": [
+    "Sangramento segunda metade da gestação",
+    "Obstetrícia"
+   ],
+   "enunciado": "Uma gestante de quarenta anos de idade, G5P3A1, estava em fase ativa de trabalho de parto induzido, caracterizado por cinco contrações de 40 segundos em 10 minutos, batimentos cardíacos fetais de 148 bpm e, ao toque, apresentação cefálica, no plano zero de De Lee, bolsa amniótica rota e colo com 8 cm de dilatação. Subitamente, referiu dor escapular intensa, acompanhada de interrupção da contratilidade uterina. Foi examinada novamente e, ao toque vaginal, observou-se apresentação cefálica alta e móvel e sangramento vaginal discreto. Ao exame físico: frequência cardíaca de 130 bpm; e pressão arterial de 80 x 40 mmHg. Trata-se de um caso de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "descolamento prematuro da placenta, com a presença do sinal de Bandl."
+    },
+    {
+     "letra": "B",
+     "texto": "rotura de vasa prévia, com a presença do sinal de Clark."
+    },
+    {
+     "letra": "C",
+     "texto": "rotura uterina, com a presença do sinal de Hastings."
+    },
+    {
+     "letra": "D",
+     "texto": "rotura uterina, com a presença do sinal de Laffont."
+    },
+    {
+     "letra": "E",
+     "texto": "rotura do seio marginal, com a presença do sinal de Frommel."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000168290",
+   "codigo": "4000168290",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 17,
+   "temas": [
+    "Sangramento segunda metade da gestação",
+    "Obstetrícia"
+   ],
+   "enunciado": "Em casos de sangramento por descolamento prematuro de placenta, em uma gestação com feto com viabilidade e vitalidade, o nascimento deve se dar preferencialmente.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "pela via de parto através da qual o nascimento ocorra mais rapidamente."
+    },
+    {
+     "letra": "B",
+     "texto": "por parto vaginal com episiotomia."
+    },
+    {
+     "letra": "C",
+     "texto": "por parto vaginal com fórceps."
+    },
+    {
+     "letra": "D",
+     "texto": "por cesariana."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000167385",
+   "codigo": "4000167385",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 18,
+   "temas": [
+    "Sangramento segunda metade da gestação",
+    "Obstetrícia"
+   ],
+   "enunciado": "Mulher, 36a, G3P0A2 com idade gestacional de 30 semanas, chega ao Pronto Atendimento de uma Maternidade referindo muita dor abdominal e parada da movimentação fetal há 1 dia. Exame físico: Regular estado geral, descorada 3+/4+, sudoreica, FC= 135bpm, PA= 81x52 mmHg; exame obstétrico: altura uterina 35 cm, útero hipertônico e doloroso à palpação, ausência de batimentos cardíacos fetais, toque vaginal: colo impérvio. A CONDUTA É:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Realizar cesárea de urgência."
+    },
+    {
+     "letra": "B",
+     "texto": "Solicitar ultrassonografia de urgência."
+    },
+    {
+     "letra": "C",
+     "texto": "Induzir parto vaginal."
+    },
+    {
+     "letra": "D",
+     "texto": "Aguardar parto espontâneo."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000167165",
+   "codigo": "4000167165",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 19,
+   "temas": [
+    "Diagnóstico"
+   ],
+   "enunciado": "Paciente, 31 anos, está na 29ª semana de sua terceira gestação, com duas cesáreas anteriores, e vem ao pronto- so co rro queixando-se de sangramento vermelho vivo, sem esforço desencadeante, em pequena quantidade, não associado à dor. Ao exame físico, apresenta útero com tônus preservado, altura uterina de 28 cm; Cardiotocografia Categoria II. Exame especular: visualizado o sangramento uterino ativo em pequena a moderada quantidade. Com base na história clínica da paciente, é sugerido um caso de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "descolamento prematuro de placenta."
+    },
+    {
+     "letra": "B",
+     "texto": "trabalho de parto prematuro."
+    },
+    {
+     "letra": "C",
+     "texto": "placenta prévia."
+    },
+    {
+     "letra": "D",
+     "texto": "abortamento."
+    },
+    {
+     "letra": "E",
+     "texto": "sangramento fisiológico."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000166175",
+   "codigo": "4000166175",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 20,
+   "temas": [
+    "Sangramento segunda metade da gestação",
+    "Obstetrícia"
+   ],
+   "enunciado": "Uma secundigesta, com um parto normal anterior e idade gestacional de 36 semanas e dois dias, deu entrada no pronto- atendimento obstétrico com queixa de sangramento vaginal em grande quantidade há quarenta minutos. Refere que a hemorragia ocorreu “do nada”, tendo início após um “acesso de tosse”. Nega dor abdominal. Realizou seis consultas de pré-natal, com todos os exames dentro do limite da normalidade. Nega antecedentes pessoais de comorbidades. Ao exame de entrada, descorada +/4+, PA de 90 x 50 mmHg, FC de 101 bpm, altura uterina de 33 cm, ausência de dinâmica uterina, tônus uterino normal e BCF de 101 bpm. Especular mostrando grande quantidade de coágulos na vagina e sangramento ativo por orifício externo do colo. Foi encaminhada para cesariana de emergência. A foto abaixo corresponde à placenta, após dequitada. Com base nesse caso hipotético, assinale a alternativa que apresenta o diagnóstico do sangramento da segunda metade da gestação.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "placenta prévia"
+    },
+    {
+     "letra": "B",
+     "texto": "descolamento prematuro de placenta"
+    },
+    {
+     "letra": "C",
+     "texto": "rotura uterina"
+    },
+    {
+     "letra": "D",
+     "texto": "rotura de vasa prévia"
+    },
+    {
+     "letra": "E",
+     "texto": "avulsão do colo uterino"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q020-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000164973",
+   "codigo": "4000164973",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 21,
+   "temas": [
+    "Obstetrícia",
+    "Rotura uterina"
+   ],
+   "enunciado": "Primípara, IG = 39 semanas, está há 12 horas em trabalho de parto. Exame obstétrico: 5 metrossístoles em 10 minutos, com duração de 50 segundos; BCF = 130bpm; situação longitudinal, apresentação cefálica alta, plano - 2 de De Lee; colo 100% apagado e dilatado em10cm; bolsa rota, líquido tinto de mecônio. Refere estar com muita dor e à palpação abdominal observam-se os ligamentos redondos retesados, representando o sinal de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Frommel"
+    },
+    {
+     "letra": "B",
+     "texto": "Bandl"
+    },
+    {
+     "letra": "C",
+     "texto": "Clark"
+    },
+    {
+     "letra": "D",
+     "texto": "Kluge"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000164691",
+   "codigo": "4000164691",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 22,
+   "temas": [
+    "Sangramento segunda metade da gestação",
+    "Obstetrícia"
+   ],
+   "enunciado": "Considerando os conceitos atuais e o protocolo FEBRASGO, assinale a alternativa correta sobre placenta prévia e acretismo placentário.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A tomografia deve ser solicitada no terceiro trimestre, pois possui melhor acurácia para o diagnóstico de acretismo."
+    },
+    {
+     "letra": "B",
+     "texto": "Os três principais fatores de risco para o acretismo placentário são: gestação na adolescência, pré-eclâmpsia e o polidrâmnio."
+    },
+    {
+     "letra": "C",
+     "texto": "A placenta prévia é definida como a presença de tecido placentário total ou parcialmente inserido no segmento inferior do útero, após 28 semanas de gestação."
+    },
+    {
+     "letra": "D",
+     "texto": "Importante o diagnóstico precoce, pois cerca de 70% das placentas prévias, diagnosticadas no segundo trimestre, vão se manter até o termo."
+    },
+    {
+     "letra": "E",
+     "texto": "Sua clínica é de um sangramento vivo, geralmente de origem materna, acompanhado de aumento localizado e persistente do tônus uterino."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000164689",
+   "codigo": "4000164689",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 23,
+   "temas": [
+    "Tratamento",
+    "Quadro clínico"
+   ],
+   "enunciado": "Primigesta, na 36a semana de gestação, com diagnóstico prévio de pré-eclâmpsia sem sinais de gravidade, apresenta dor de forte intensidade em hipogástrio. Ao exame físico pressão arterial de 170×110 mmHg, frequência cardíaca materna de 104 bpm. Altura uterina de 34 cm com aumento localizado de seu tônus, frequência cardíaca fetal de 180 bpm. No toque vaginal, o colo uterino está posterior, esvaecido 50% e dilatado em 4 cm. O diagnóstico e a conduta são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Trabalho de parto prematuro; inibir o trabalho de parto com nifedipina VO."
+    },
+    {
+     "letra": "B",
+     "texto": "Descolamento prematuro de placenta; romper bolsa e resolução da gravidez."
+    },
+    {
+     "letra": "C",
+     "texto": "Descolamento prematuro de placenta; prescrever hidralazina EV e solicitar u"
+    },
+    {
+     "letra": "D",
+     "texto": "Trabalho de parto prematuro; prescrever sulfato de magnésio EV e inibir o trabalho de parto com nifedipina VO."
+    },
+    {
+     "letra": "E",
+     "texto": "Placenta prévia; realizar cesariana imediatamente."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000164418",
+   "codigo": "4000164418",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 24,
+   "temas": [
+    "Rotura uterina"
+   ],
+   "enunciado": "Parturiente de 38 semanas, secundigesta com 1 cesária anterior, apresenta 2 contrações em 10 minutos, colo medianizado, bolsa rota há 2 horas e 5 cm de dilatação há 1 hora. A equipe decide introduzir ocitocina endovenosa em dose baixa. Após uma hora, a paciente refere dor intensa, 5 contrações longas em 10 minutos, batimentos cardíacos fetais de 160 por minuto, dilatação de 7 cm e distensão da região segmentar do útero, que apresenta forma de ampulheta. Neste momento, está indicado interromper imediatamente a ocitocina",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "e realizar cesária por rotura uterina instalada."
+    },
+    {
+     "letra": "B",
+     "texto": "pelo risco iminente de rotura uterina."
+    },
+    {
+     "letra": "C",
+     "texto": "e indicar analgesia de parto para corrigir a distocia funcional."
+    },
+    {
+     "letra": "D",
+     "texto": "e realizar cesária por desproporção cefalopélvica."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000164086",
+   "codigo": "4000164086",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 25,
+   "temas": [
+    "Sangramento segunda metade da gestação",
+    "Obstetrícia"
+   ],
+   "enunciado": "Mulher de 42 anos, G6P4A1, sendo quatro partos vaginais, é atendida na 30ª semana de gestação com queixa de sangramento vaginal, iniciado há uma hora, sem outras queixas. O exame físico revela metrossístoles ausentes, tônus uterino normal, BCF = 142bpm, feto em apresentação córmica. Exame especular evidencia colo sem lesões, orifício externo em fenda com sangramento moderado. De acordo com a principal hipótese diagnóstica do caso, o exame complementar a ser solicitado é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "dopplerfluxometria de artérias umbilical e cerebral média"
+    },
+    {
+     "letra": "B",
+     "texto": "ressonância nuclear magnética"
+    },
+    {
+     "letra": "C",
+     "texto": "ultrassonografia transvaginal"
+    },
+    {
+     "letra": "D",
+     "texto": "cardiotocografia"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000151635",
+   "codigo": "4000151635",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 26,
+   "temas": [
+    "Placenta prévia PP"
+   ],
+   "enunciado": "Quartigesta, 42 anos de idade, com 3 partos cesáreos anteriores, tabagista, hipertensa crônica, com história obstétrica de ocorrência de pré-eclâmpsia grave nas duas últimas gestações. Encontra-se na 28ª semana de gestação, sem intercorrências e faz suas consultas de rotina no pré-natal na Unidade Básica de Saúde. Retorna hoje para trazer o resultado dos exames solicitados há 15 dias. Está ansiosa devido resultado do exame ultrassonográ co, que mostrou placenta prévia centro-total. De acordo com esses dados, responda, respectivamente, qual é o principal fator de risco citado no caso para a ocorrência dessa patologia gravídica, qual complicação pode estar associada a esta patologia e qual exame complementar deverá ser solicitado para diagnóstico da possível complicação:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Número de cesarianas prévias, acretismo placentário e ressonância magnética."
+    },
+    {
+     "letra": "B",
+     "texto": "Número de cesarianas prévias, descolamento placentário e dopplerfluxometria."
+    },
+    {
+     "letra": "C",
+     "texto": "Hipertensão arterial, atonia uterina e ultrassom pélvico nas primeiras 12 horas pós-parto."
+    },
+    {
+     "letra": "D",
+     "texto": "Toxemia gravídica, distúrbio de coagulação e dosagem laboratorial dos fatores de coagulação imediatamente após a dequitação."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000146949",
+   "codigo": "4000146949",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 27,
+   "temas": [
+    "Sangramento segunda metade da gestação",
+    "Intercorrências obstétricas obstetrícia patológica"
+   ],
+   "enunciado": "Obstetrícia Gestante, G3P2(C2)A0, idade gestacional compatível com 36 semanas e 6 dias, peso materno 112,0 Kg, em uso de insulina NPH 90 unidades/dia, desde a 24ª semana. Realizou pré-natal em sua cidade de origem. Foi regulada para maternidade de referência devido a sangramento intenso há cerca de 2 horas. Ao exame admissional: sangramento abundante e de aspecto avermelhado, ausência de contratilidade uterina, tônus uterino normal; feto vivo, apresentação córmica, batimentos cardíacos fetais=140 bpm; PA:150/90 mmHg; toque vaginal não realizado. Decidiu-se internar para cesariana de emergência. Tendo em vista o caso, deve-se atentar para:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A diabetes gestacional é o principal fator de risco isolado para hemorragias do terceiro trimestre."
+    },
+    {
+     "letra": "B",
+     "texto": "A ultrassonografia transvaginal é metodologia indispensável para conduta terapêutica."
+    },
+    {
+     "letra": "C",
+     "texto": "O Descolamento Prematuro de Placenta (DPP é a principal hipótese diagnóstica, pois a avaliação do tônus uterino não é relevante para o caso."
+    },
+    {
+     "letra": "D",
+     "texto": "Placenta prévia e acretismo placentário, obrigatoriamente devem ser hipóteses diagnósticas aventadas. O preparo da equipe cirúrgica e da estabilização hemodinâmica são essenciais."
+    },
+    {
+     "letra": "E",
+     "texto": "A melhor opção deveria ter sido o tratamento clínico, pois trata-se de placenta prévia e prematuridade."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000146699",
+   "codigo": "4000146699",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 28,
+   "temas": [
+    "Sangramento segunda metade da gestação",
+    "Intercorrências obstétricas obstetrícia patológica"
+   ],
+   "enunciado": "Obstetrícia Paciente gestante, 24 anos, G2P1 com 39 semanas completas de gestação, apresentando contrações uterinas dolorosas e sangramento vaginal sem presença de muco. Nesse caso pode-se excluir como provável etiologia do sangramento:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Placenta prévia."
+    },
+    {
+     "letra": "B",
+     "texto": "Descolamento da placenta."
+    },
+    {
+     "letra": "C",
+     "texto": "Tampão mucoso sanguinolento."
+    },
+    {
+     "letra": "D",
+     "texto": "Rotura de vasos prévios."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000146355",
+   "codigo": "4000146355",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 29,
+   "temas": [
+    "Sangramento segunda metade da gestação",
+    "Intercorrências obstétricas obstetrícia patológica"
+   ],
+   "enunciado": "Obstetrícia T.G.F., 36 anos, GV PIV (4 cesáreas) A0, IG (USG precoce): 25 semanas, é encaminhada para hospital terciário com obstetrícia por achado ecográ co de percretismo placentário em placenta prévia centro total. Sem história de sangramento pregresso. Assinale a alternativa que apresenta a melhor orientação para o caso.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Aguardar IG 37 semanas e programar a interrupção com embolização de artérias uterinas."
+    },
+    {
+     "letra": "B",
+     "texto": "Programação da resolução da gestação ao redor de 34 semanas, com radiologia intervencionista disponível e equipe multidisciplinar preparada."
+    },
+    {
+     "letra": "C",
+     "texto": "Realização de cesárea com a manutenção da placenta in situ e o uso de metotrexato, a fim de se tentar a reabsorção placentária."
+    },
+    {
+     "letra": "D",
+     "texto": "Interrupção imediata da gestação, pois se trata de feto inviável, e o risco de hemorragia materna e de morte é significativo."
+    },
+    {
+     "letra": "E",
+     "texto": "Histerectomia com útero cheio e sondagem vesical de demora por 15 dias pós-cirurgia."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000146116",
+   "codigo": "4000146116",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 30,
+   "temas": [
+    "Sangramento segunda metade da gestação",
+    "Intercorrências obstétricas obstetrícia patológica"
+   ],
+   "enunciado": "Descolamento prematuro de placenta DPP O DPP (Descolamento Prematuro de Placenta) apresenta sangramento via vaginal em aproximadamente",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "80% dos casos."
+    },
+    {
+     "letra": "B",
+     "texto": "50% dos casos."
+    },
+    {
+     "letra": "C",
+     "texto": "100% dos casos."
+    },
+    {
+     "letra": "D",
+     "texto": "30% dos casos."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000145929",
+   "codigo": "4000145929",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 31,
+   "temas": [
+    "Obstetrícia",
+    "Acretismo placentário"
+   ],
+   "enunciado": "Uma gestante (G4 PC3 A1), com idade gestacional de 36 semanas e quatro dias, ao exame ultrassonográ co, apresenta feto único e vivo, em situação transversa. Biometria fetal de 34 semanas e seis dias e peso fetal estimado de 2.377 g no percentil entre 10 e 50 (curva de Hadlock). Líquido amniótico normal, com maior bolsão vertical de 38 mm. A placenta estende-se anterior e posteriormente, recobrindo o colo uterino, com sinais de invasão do miométrio. Colo uterino e Dopplervelocimetria mostram vascularização anômala, sugerindo invasão vesical na topogra a da cicatriz das cesarianas prévias. Nesse caso hipotético, o diagnóstico é o de placenta prévia",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "centro-total, com sinais sugestivos de acretismo placentário."
+    },
+    {
+     "letra": "B",
+     "texto": "centro-total, com sinais sugestivos de percretismo placentário."
+    },
+    {
+     "letra": "C",
+     "texto": "centro-total, com sinais sugestivos de incretismo placentário."
+    },
+    {
+     "letra": "D",
+     "texto": "centro-parcial, com sinais sugestivos de acretismo placentário."
+    },
+    {
+     "letra": "E",
+     "texto": "marginal, com sinais sugestivos de acretismo placentário."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000145925",
+   "codigo": "4000145925",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 32,
+   "temas": [
+    "Hemorragias pós parto HPP e rotura uterina",
+    "Sangramento segunda metade da gestação"
+   ],
+   "enunciado": "Intercorrências obstétricas obstetrícia patológica Uma parturiente (G3 PC1 A1), com idade gestacional de 39 semanas e três dias e gestação de risco habitual, na admissão, refere trabalho de parto de início espontâneo. Apresenta, ao exame físico, altura uterina de 41 cm, dinâmica uterina de quatro contrações de 35” em 10’ e batimentos cardíacos fetais de 148 bpm. O toque vaginal: colo posteriorizado; esvaecido 60%; dilatado 4 cm; bolsa íntegra; e apresentação cefálica. Durante a evolução do trabalho de parto, detectou-se taquissistolia (6 contrações de 50” em 10’), bradicardia fetal e intensa hemorragia vaginal. A paciente foi imediatamente encaminhada para a sala cirúrgica para cesariana de emergência. Após a anestesia geral e com a paciente em mesa cirúrgica aguardando a antissepsia abdominal, o que se viu foi a imagem mostrada a seguir. Com base nesse caso hipotético, é correto afirmar que o diagnóstico é o de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "rotura de vasa prévia."
+    },
+    {
+     "letra": "B",
+     "texto": "rotura de seio marginal."
+    },
+    {
+     "letra": "C",
+     "texto": "descolamento prematuro de placenta."
+    },
+    {
+     "letra": "D",
+     "texto": "rotura uterina."
+    },
+    {
+     "letra": "E",
+     "texto": "placenta prévia."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q032-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000145562",
+   "codigo": "4000145562",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 33,
+   "temas": [
+    "Descolamento prematuro de placenta DPP"
+   ],
+   "enunciado": "Mulher, G1 P0, 36 semanas de gestação, usuária de cocaína, chega à maternidade com sangramento vaginal abundante, instável hemodinamicamente. Ao exame físico, observa-se hipertonia uterina, batimento cardíaco fetal de 90bpm e toque vaginal com 2cm de dilatação do colo. Sobre o caso clínico, assinale a alternativa ERRADA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Deve-se prescrever terbutalina e investigar vitalidade fetal com cardiotocografia"
+    },
+    {
+     "letra": "B",
+     "texto": "Deve-se proceder a rotura de membrana amniótica imediatamente"
+    },
+    {
+     "letra": "C",
+     "texto": "O diagnóstico mais provável é de descolamento prematuro de placenta normoinserida"
+    },
+    {
+     "letra": "D",
+     "texto": "Útero de Couvelaire é uma das complicações desta condição"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000141627",
+   "codigo": "4000141627",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 34,
+   "temas": [
+    "Sangramento segunda metade da gestação",
+    "Intercorrências obstétricas obstetrícia patológica"
+   ],
+   "enunciado": "Descolamento prematuro de placenta DPP Secundigesta de 22 anos, com 36 semanas e 2 dias, procura a maternidade com desconforto abdominal e um pequeno sangramento vaginal há 1 hora. Exame físico: BEG, eupneica, hidratada, FC 110 bpm, PA 150 x 100 mmHg, tônus uterino aumentado, BCF 170 bpm. Presença de discreta quantidade de sangue coletado em fundo de saco vaginal, colo grosso e impérvio. O diagnóstico e a conduta são, respectivamente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "rotura de seio marginal; ultrassom e observação de sangramento."
+    },
+    {
+     "letra": "B",
+     "texto": "trabalho de parto prematuro; inibição do trabalho de parto."
+    },
+    {
+     "letra": "C",
+     "texto": "placenta prévia; ultrassom e observação de sangramento."
+    },
+    {
+     "letra": "D",
+     "texto": "descolamento prematuro de placenta; cesárea de emergência."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000141603",
+   "codigo": "4000141603",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 35,
+   "temas": [
+    "Sangramento segunda metade da gestação",
+    "Descolamento prematuro de placenta DPP",
+    "Obstetrícia"
+   ],
+   "enunciado": "Gestante com 35 semanas apresentou sangramento vaginal, sendo indicada cesárea de urgência. O líquido amniótico era sanguinolento, e o bebê chorou ao nascer. O tempo indicado para o clampeamento do cordão é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "de até 30 segundos."
+    },
+    {
+     "letra": "B",
+     "texto": "de 30 a 60 segundos."
+    },
+    {
+     "letra": "C",
+     "texto": "de 1 a 3 minutos."
+    },
+    {
+     "letra": "D",
+     "texto": "imediato."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000141026",
+   "codigo": "4000141026",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 36,
+   "temas": [
+    "Classif icação"
+   ],
+   "enunciado": "Gestante, após 28 semanas de gestação, ao ultrassom via vaginal, apresenta tecido placentário parcialmente inserido no segmento inferior do útero e que não chega a atingir o orifício interno e localiza-se em um raio de 2 cm de distância desta estrutura anatômica. Considerando a atual definição e classificação da inserção da placenta, é correto a rmar que, nesse caso, trata-se de placenta",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "de inserção baixa."
+    },
+    {
+     "letra": "B",
+     "texto": "prévia."
+    },
+    {
+     "letra": "C",
+     "texto": "prévia centro total."
+    },
+    {
+     "letra": "D",
+     "texto": "prévia marginal."
+    },
+    {
+     "letra": "E",
+     "texto": "prévia centroparcial."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000140570",
+   "codigo": "4000140570",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 37,
+   "temas": [
+    "Fatores de risco",
+    "Sangramento segunda metade da gestação"
+   ],
+   "enunciado": "Intercorrências obstétricas obstetrícia patológica Apesar dos avanços da medicina, a hemorragia obstétrica ainda é considerada uma causa importante de morte materna. No terceiro trimestre, as causas mais importantes de hemorragia anteparto são a placenta prévia e o descolamento prematuro de placenta. Considere os fatores de risco elencados abaixo. I - Número de cesáreas prévias II - Gestações múltiplas III - Uso de cocaína IV - Doença hipertensiva específica da gravidez. São fatores de risco comprovadamente associados com a placenta prévia os que estão presentes nos itens",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "II e III."
+    },
+    {
+     "letra": "B",
+     "texto": "I e IV."
+    },
+    {
+     "letra": "C",
+     "texto": "I e II."
+    },
+    {
+     "letra": "D",
+     "texto": "III e IV."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000138359",
+   "codigo": "4000138359",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 38,
+   "temas": [
+    "Sangramento segunda metade da gestação",
+    "Intercorrências obstétricas obstetrícia patológica"
+   ],
+   "enunciado": "Obstetrícia Sobre placenta prévia, assinale a alternativa incorreta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Os fatores de risco mais comumente associados são cesarianas prévias, fumantes endometrites anteriores."
+    },
+    {
+     "letra": "B",
+     "texto": "O principal sintoma é a hemorragia no segundo ou terceiro trimestres, dolorosa de início súbito."
+    },
+    {
+     "letra": "C",
+     "texto": "É classificada como marginal quando a borda da placenta alcança a borda do orifício cervical interno."
+    },
+    {
+     "letra": "D",
+     "texto": "É um fator de risco para hemorragia pós-parto."
+    },
+    {
+     "letra": "E",
+     "texto": "A cesariana é a via de escolha na placenta prévia."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000137465",
+   "codigo": "4000137465",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 39,
+   "temas": [
+    "Fatores de risco",
+    "Sangramento segunda metade da gestação"
+   ],
+   "enunciado": "Intercorrências obstétricas obstetrícia patológica Um dos principais diagnósticos diferenciais de placenta prévia (PP) é com o descolamento prematuro de placenta. Pode-se afirmar que o sinal clínico, melhor preditivo, de PP é relacionado com a hemorragia que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "é inicialmente interna."
+    },
+    {
+     "letra": "B",
+     "texto": "é única, em geral."
+    },
+    {
+     "letra": "C",
+     "texto": "diminui com as metrossístoles."
+    },
+    {
+     "letra": "D",
+     "texto": "cessa após a amniotomia."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000129645",
+   "codigo": "4000129645",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 40,
+   "temas": [
+    "Complicações",
+    "Obstetrícia"
+   ],
+   "enunciado": "A causa mais comum de necrose cortical aguda dos rins no ciclo gravídico puerperal é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o descolamento prematuro de placenta."
+    },
+    {
+     "letra": "B",
+     "texto": "a placenta prévia."
+    },
+    {
+     "letra": "C",
+     "texto": "a pré-eclâmpsia."
+    },
+    {
+     "letra": "D",
+     "texto": "a síndrome HELLP."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000129394",
+   "codigo": "4000129394",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 41,
+   "temas": [
+    "Fatores de risco"
+   ],
+   "enunciado": "Quais os fatores de risco mais importantes para o descolamento prematuro de placenta (DPP)?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Síndromes hipertensivas e trauma."
+    },
+    {
+     "letra": "B",
+     "texto": "Síndromes hipertensivas e DPP prévio."
+    },
+    {
+     "letra": "C",
+     "texto": "Uso de cocaína e tabagismo."
+    },
+    {
+     "letra": "D",
+     "texto": "Trauma e tabagismo."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000128428",
+   "codigo": "4000128428",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 42,
+   "temas": [
+    "Descolamento prematuro de placenta DPP"
+   ],
+   "enunciado": "Multípara no curso da 36ª semana de gestação, usuária de drogas ilícitas, compareceu a apenas duas consultas de pré-natal. Chega no pronto-socorro relatando dor abdominal de forte intensidade, súbita, seguida de sangramento vaginal em pequena quantidade. Ao exame obstétrico: altura uterina = 34 cm, dor à palpação de abdômen, tônus uterino aumentado, batimentos cardíacos fetais = 176 bpm. Exame especular: sangramento escuro em pequena quantidade uindo pelo colo uterino. A hipótese diagnostica é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Vasa prévia."
+    },
+    {
+     "letra": "B",
+     "texto": "Placenta prévia."
+    },
+    {
+     "letra": "C",
+     "texto": "Trabalho de parto prematuro."
+    },
+    {
+     "letra": "D",
+     "texto": "Descolamento prematuro de placenta."
+    },
+    {
+     "letra": "E",
+     "texto": "Rotura de seio marginal."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000125805",
+   "codigo": "4000125805",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 43,
+   "temas": [
+    "Fatores de risco"
+   ],
+   "enunciado": "Gestante, 35 anos, G4P2(CES=2) A1, em gestação de 32 semanas e altura uterina de 27 cm. Foi realizar ultrassonogra a de rotina que evidenciou acretismo placentário. São fatores de risco para acretismo placentário:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cesariana prévia, antecedente de miometrite, curetagem prévia e multiparidade."
+    },
+    {
+     "letra": "B",
+     "texto": "Cesariana prévia, restrição do crescimento fetal, gemelaridade e multiparidade."
+    },
+    {
+     "letra": "C",
+     "texto": "Restrição do crescimento fetal, gemelaridade, miometrite e multiparidade."
+    },
+    {
+     "letra": "D",
+     "texto": "Miometrite, miomectomia, restrição do crescimento fetal e inversão uterina prévia."
+    },
+    {
+     "letra": "E",
+     "texto": "Inversão uterina prévia, gemelaridade, restrição do crescimento fetal."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000125773",
+   "codigo": "4000125773",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 44,
+   "temas": [
+    "Rotura uterina"
+   ],
+   "enunciado": "Mulher, 30 anos, G4P3C0A0, último parto há 3 anos. Procura o pronto-atendimento obstétrico com queixa de contrações. Exame físico: PA = 110x70mmHg; altura uterina = 39cm; batimentos cardio fetais = 150bpm; dinâmica uterina = 4 contrações de 45 segundos fortes em 10 minutos; toque vaginal: colo pérvio para 6cm, médio, cefálico alto e móvel com bolsa integra. Encaminhada ao pré-parto para acompanhamento do trabalho de parto. Após 2 horas e 30 minutos, é conduzida à sala de parto com dilatação total. Colocada em posição para parto e realizada rotura de membranas, com orientação de esforços para expulsivo e condução com ocitocina. Evolui com sangramento vaginal abundante, batimentos fetais inaudíveis e dinâmica uterina ausente, toque com dilatação total e apresentação inalcançável. O diagnóstico é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "placenta prévia."
+    },
+    {
+     "letra": "B",
+     "texto": "descolamento prematuro de placenta."
+    },
+    {
+     "letra": "C",
+     "texto": "rotura de vaza prévia."
+    },
+    {
+     "letra": "D",
+     "texto": "rotura uterina."
+    },
+    {
+     "letra": "E",
+     "texto": "rotura de seio marginal."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000124755",
+   "codigo": "4000124755",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 45,
+   "temas": [
+    "Diagnóstico"
+   ],
+   "enunciado": "O diagnóstico do Descolamento Prematuro de Placenta deve ser feito a partir de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Anamnese e exame clínico obstétrico"
+    },
+    {
+     "letra": "B",
+     "texto": "Ultrassonografia obstétrica e dosagem de fibrinogênio sérico"
+    },
+    {
+     "letra": "C",
+     "texto": "Ressonância magnética da placenta e dosagem de fibrinogênio sérico"
+    },
+    {
+     "letra": "D",
+     "texto": "Ultrassonografia obstétrica e exame histopatológico da placenta"
+    },
+    {
+     "letra": "E",
+     "texto": "Anamnese, ultrassonografia e exame histopatológico da placenta"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000123414",
+   "codigo": "4000123414",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 46,
+   "temas": [
+    "Tratamento",
+    "Sangramento segunda metade da gestação",
+    "Descolamento prematuro de placenta DPP"
+   ],
+   "enunciado": "Primigesta com 32 semanas de gestação foi levada ao Centro Obstétrico, há 3 horas, por pequeno sangramento vaginal e útero muito contraído. O pré-natal transcorrera sem anormalidades. À admissão, a pressão arterial era de 160/80 mmHg. Os batimentos cardiofetais revelaram bradicardia persistente e, ao toque vaginal, o colo tinha 1 cm de dilatação. Antes da realização de cesariana, que exame, dentre os abaixo, será imprescindível?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cardiotocografia fetal"
+    },
+    {
+     "letra": "B",
+     "texto": "Dosagem de plaquetas"
+    },
+    {
+     "letra": "C",
+     "texto": "Teste do coágulo (teste de Weiner)"
+    },
+    {
+     "letra": "D",
+     "texto": "Dosagem de tempo de protrombina"
+    },
+    {
+     "letra": "E",
+     "texto": "Ultrassonografia obstétrica com Doppler"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000123401",
+   "codigo": "4000123401",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 47,
+   "temas": [
+    "Rotura de vasa prévia"
+   ],
+   "enunciado": "Assinale a alternativa que preenche, correta e respectivamente, as lacunas do parágrafo abaixo. A imagem reproduzida corresponde à alteração placentária conhecida como ________, sendo uma das causas de ________.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "placenta marginal - descolamento prematuro de placenta"
+    },
+    {
+     "letra": "B",
+     "texto": "placenta acreta - ruptura uterina durante o trabalho de parto"
+    },
+    {
+     "letra": "C",
+     "texto": "inserção velamentosa de cordão - sangramento de segundo e terceiro trimestres"
+    },
+    {
+     "letra": "D",
+     "texto": "placenta circunvalada - ruptura prematura de membranas"
+    },
+    {
+     "letra": "E",
+     "texto": "lobo acessório - hemorragia puerperal"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q047-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000119924",
+   "codigo": "4000119924",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 48,
+   "temas": [
+    "Fatores de risco"
+   ],
+   "enunciado": "Qual dos itens abaixo não é um fator de risco para placenta prévia?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Idade materna avançada."
+    },
+    {
+     "letra": "B",
+     "texto": "Diabetes gestacional."
+    },
+    {
+     "letra": "C",
+     "texto": "Gestação gemelar."
+    },
+    {
+     "letra": "D",
+     "texto": "Tabagismo."
+    },
+    {
+     "letra": "E",
+     "texto": "Cesária anterior."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119861",
+   "codigo": "4000119861",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 49,
+   "temas": [
+    "Diagnóstico"
+   ],
+   "enunciado": "Gestante de 33 anos, G4P3A0C2, e idade gestacional de 27 semanas e 4 dias, apresenta sangramento vaginal há 1 hora. Nega outras queixas. Exame físico: PA 120x70 mmHg, FC 88 bpm, altura uterina 25 cm, tônus uterino normal, dinâmica uterina negativa, situação transversa, BCF 144 bpm. Exame especular: presença de pequena quantidade de sangue se exteriorizando pelo orifício cervical externo. A conduta é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "solicitar ultrassonografia."
+    },
+    {
+     "letra": "B",
+     "texto": "realizar toque vaginal."
+    },
+    {
+     "letra": "C",
+     "texto": "solicitar ressonância magnética."
+    },
+    {
+     "letra": "D",
+     "texto": "realizar toque e solicitar ultrassonografia."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000119184",
+   "codigo": "4000119184",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 50,
+   "temas": [
+    "Tratamento",
+    "Manejo do parto",
+    "Indicações de cesárea"
+   ],
+   "enunciado": "Gestante com deslocamento prematuro de placenta com óbito fetal, encontra-se estável hemodinamicamente. A altura uterina é de 28cm, o colo é pérvio para 4cm e o sangramento vaginal é discreto. Realizou-se amniotomia. Indica-se cesária se:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a apresentação fetal for pélvica."
+    },
+    {
+     "letra": "B",
+     "texto": "dilatação do colo não progredir em até 6 horas."
+    },
+    {
+     "letra": "C",
+     "texto": "após uma hora não houver evolução do parto."
+    },
+    {
+     "letra": "D",
+     "texto": "não houver unidade de terapia intensiva no hospital."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000115612",
+   "codigo": "4000115612",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 51,
+   "temas": [
+    "Diagnóstico"
+   ],
+   "enunciado": "Gestante, 34 anos, G4P3A0, 3 cesarianas prévias, pré-natal com evolução normal até 32 semanas, quando deu entrada à maternidade com quadro de sangramento vaginal intenso, vermelho vivo, indolor, intermitente, iniciado há 8 horas de forma discreta, progressivo, agravado na última hora. Exame obstétrico revela útero de consistência normal, algumas contrações de Braxton-Hicks, frequência cardíaca fetal de 120 bpm, padrão cardiotocográ co normal, nesse momento. Considerando o caso descrito, é CORRETO afirmar que se trata de um quadro compatível com:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Placenta prévia."
+    },
+    {
+     "letra": "B",
+     "texto": "Acretismo placentário."
+    },
+    {
+     "letra": "C",
+     "texto": "Descolamento prematuro de placenta."
+    },
+    {
+     "letra": "D",
+     "texto": "Inserção velamentosa do cordão umbilical."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000114867",
+   "codigo": "4000114867",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 52,
+   "temas": [
+    "Rotura de vasa prévia",
+    "Prolapso de cordão"
+   ],
+   "enunciado": "Assinale a alternativa incorreta em relação à inserção velamentosa de cordão:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Favorece a ruptura precoce das membranas amnióticas."
+    },
+    {
+     "letra": "B",
+     "texto": "A ruptura dos vasos leva a sangramento de origem fetal."
+    },
+    {
+     "letra": "C",
+     "texto": "O diagnóstico pode ser feito pelo Doppler."
+    },
+    {
+     "letra": "D",
+     "texto": "Apresenta forte relação com Descolamento Prematuro de Placenta."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000114696",
+   "codigo": "4000114696",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 53,
+   "temas": [
+    "Sangramento segunda metade da gestação",
+    "Obstetrícia",
+    "Rotura uterina"
+   ],
+   "enunciado": "O sinal de Bandl-Fromel significa:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "descolamento prematuro de placenta."
+    },
+    {
+     "letra": "B",
+     "texto": "iminência de rotura uterina."
+    },
+    {
+     "letra": "C",
+     "texto": "incontinência istmo-cervical."
+    },
+    {
+     "letra": "D",
+     "texto": "iminência de eclampsia."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000114080",
+   "codigo": "4000114080",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 54,
+   "temas": [
+    "Diagnóstico",
+    "Classif icação"
+   ],
+   "enunciado": "A placenta de inserção baixa deve ser suspeitada nos casos de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "sangramento indolor após coito em gestante com mais de 20 semanas."
+    },
+    {
+     "letra": "B",
+     "texto": "sangramento intenso acompanhado de forte dor abdominal súbita."
+    },
+    {
+     "letra": "C",
+     "texto": "primigesta com apresentação anômala e sangramento moderado no primeiro trimestre."
+    },
+    {
+     "letra": "D",
+     "texto": "multípara com cesárias anteriores e sangramento em pequena quantidade ao redor da 12ª semana."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000113837",
+   "codigo": "4000113837",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 55,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Paciente de 29 anos, secundigesta (parto normal anterior há 3 anos), idade gestacional de 33 semanas, chega ao pronto atendimento da maternidade com história de contrações uterinas há três horas, dilatação cervical de 4 cm e polo cefálico em 1+ De Lee, evoluindo há 10 minutos com dor abdominal importante contínua e com aumento súbito de tônus uterino e alteração de vitalidade fetal durante a avaliação clínica. Ao exame físico: pressão arterial 80 x 50 mmHg, frequência cardíaca 115 bpm, frequência respiratória 24 irpm, Aparelhos respiratório e cardiovascular: dentro dos padrões de normalidade. Exame obstétrico: altura uterina = 35 cm, tônus uterino aumentado, ausculta fetal = 114 bpm com desacelerações até 97 bpm, movimentação fetal ausente. Toque vagina: colo uterino grosso, posterior, consistência rme, pérvio 2 cm, apresentação fetal cefálica. Em associação aos cuidados de estabilização clínica, qual a conduta imediata mais adequada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Parto cesárea."
+    },
+    {
+     "letra": "B",
+     "texto": "Amniotomia."
+    },
+    {
+     "letra": "C",
+     "texto": "Ácido tranexâmico."
+    },
+    {
+     "letra": "D",
+     "texto": "Corticosteroide."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000109036",
+   "codigo": "4000109036",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 56,
+   "temas": [
+    "Descolamento prematuro de placenta DPP"
+   ],
+   "enunciado": "Gestante de 37 semanas chega ao pronto-socorro pouco contactuante, PA=60x40mmhg, pulso 120bpm, com sangramento vaginal discreto. Não se auscultam batimentos cardíacos fetais. A hipótese clínica imediata é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "placenta prévia marginal."
+    },
+    {
+     "letra": "B",
+     "texto": "placenta prévia centro-total."
+    },
+    {
+     "letra": "C",
+     "texto": "síndrome hellp."
+    },
+    {
+     "letra": "D",
+     "texto": "descolamento prematuro de placenta."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000108464",
+   "codigo": "4000108464",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 57,
+   "temas": [
+    "Tratamento",
+    "Quadro clínico"
+   ],
+   "enunciado": "Mulher, G3P2, com idade gestacional = 36 semanas, deu entrada no pronto-socorro com queixa de sangramento abundante e dor abdominal intensa. Ao exame: pressão arterial = 160 x 100 mmHg, frequência cardíaca = 100 batimentos/minuto, altura uterina = 35 cm, batimentos cardíacos fetais (BCF) = 140 batimentos/minuto. Dinâmica Uterina: útero de consistência lenhosa, difícil avaliação de contratilidade uterina. Exame especular: sangramento em grande quantidade, com coágulos. Toque Vaginal: dilatação do colo uterino = 4cm, 80% esvaecido, anterior, amnioscopia com líquido sanguinolento. Em avaliação ao chegar em centro obstétrico, toque vaginal: colo = 9cm, 100% esváecido, anterior. Apresentação em +1 de De Lee. BCF = 110 bpm. Qual é a conduta para o caso neste momento?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cardiotocografia e condução de trabalho de parto."
+    },
+    {
+     "letra": "B",
+     "texto": "Resolução da gestação por via alta."
+    },
+    {
+     "letra": "C",
+     "texto": "Amniotomia e assistência ao parto."
+    },
+    {
+     "letra": "D",
+     "texto": "Amniotomia e resolução da gestação por via alta."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000108447",
+   "codigo": "4000108447",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 58,
+   "temas": [
+    "Tratamento",
+    "Quadro clínico"
+   ],
+   "enunciado": "Mulher, G3P2, com idade gestacional = 36 semanas, deu entrada no pronto-socorro com queixa de sangramento abundante e dor abdominal intensa. Ao exame: pressão arterial = 160 x 100 mmHg, frequência cardíaca = 100 batimentos/minuto, altura uterina = 35 cm, batimentos cardíacos fetais (BCF) = 140 batimentos/minuto. Dinâmica Uterina: útero de consistência lenhosa, difícil avaliação de contratilidade uterina. Exame especular: sangramento em grande quantidade, com coágulos. Toque Vaginal: dilatação do colo uterino = 4cm, 80% esvaecido, anterior, amnioscopia com líquido sanguinolento. Qual deve ser a conduta para o caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Realização seriada de vitalidade fetal e observação clínica."
+    },
+    {
+     "letra": "B",
+     "texto": "Internação e resolução da gestação por via alta."
+    },
+    {
+     "letra": "C",
+     "texto": "Internação e condução de trabalho de parto."
+    },
+    {
+     "letra": "D",
+     "texto": "Controle de pressão arterial e alta hospitalar com orientações."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000108434",
+   "codigo": "4000108434",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 59,
+   "temas": [
+    "Descolamento prematuro de placenta DPP"
+   ],
+   "enunciado": "Mulher, G3P2, com idade gestacional = 36 semanas, deu entrada no pronto-socorro com queixa de sangramento abundante e dor abdominal intensa. Ao exame: pressão arterial = 160 x 100 mmHg, frequência cardíaca = 100 batimentos/minuto, altura uterina = 35 cm, batimentos cardíacos fetais (BCF) = 140 batimentos/minuto. Dinâmica Uterina: útero de consistência lenhosa, difícil avaliação de contratilidade uterina. Exame especular: sangramento em grande quantidade, com coágulos. Toque Vaginal: dilatação do colo uterino = 4cm, 80% esvaecido, anterior, amnioscopia com líquido sanguinolento. Qual é o diagnóstico para o caso?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Rotura prematura de membranas ovulares"
+    },
+    {
+     "letra": "B",
+     "texto": "Ameaça de aborto"
+    },
+    {
+     "letra": "C",
+     "texto": "Vasa prévia"
+    },
+    {
+     "letra": "D",
+     "texto": "Descolamento prematuro de placenta"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000108069",
+   "codigo": "4000108069",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 60,
+   "temas": [
+    "Classif icação"
+   ],
+   "enunciado": "O descolamento prematuro de placenta tem prognóstico materno e fetal relacionados com a sua classificação clínica. Observando-se os parâmetros dessa classificação, dividida em 4 graus (0, 1, 2, 3 A ou B), assinale a alternativa CORRETA.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A indicação de cesariana é a regra, independentemente da classificação observada clinicamente."
+    },
+    {
+     "letra": "B",
+     "texto": "O grau 0 tem diagnóstico retrospectivo pelo exame posterior da placenta, evidenciando presença de hematoma em sua face materna."
+    },
+    {
+     "letra": "C",
+     "texto": "A presença de hipertonia uterina é o sinal clínico constante no descolamento prematuro da placenta, independentemente dos graus dessa classificação."
+    },
+    {
+     "letra": "D",
+     "texto": "O prognóstico fetal é o mesmo no grau 2 e no 3 A, independentemente da via de parto escolhida."
+    },
+    {
+     "letra": "E",
+     "texto": "As condutas clínicas nos graus 3 A e 3 B são as mesmas, pois, nesses casos, a diferenciação se deve à presença de feto vivo ou morto, respectivamente."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000107322",
+   "codigo": "4000107322",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 61,
+   "temas": [
+    "Tratamento",
+    "Quadro clínico",
+    "Diagnóstico"
+   ],
+   "enunciado": "Multípara de 36 semanas refere intensa dor abdominal há 30 minutos, com sangramento vaginal vivo que começou há cerca de 15 minutos. Ao exame, a pressão arterial é normal, a frequência cardíaca fetal é de 60bpm, o colo está pérvio para 5cm e a bolsa é íntegra. O útero encontra-se hipertônico. Há sangue na vagina em moderada quantidade, saindo do colo do útero. Um dos diagnósticos e a conduta são, respectivamente.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "deslocamento prematuro de placenta, cesária."
+    },
+    {
+     "letra": "B",
+     "texto": "descolamento prematuro de placenta, amniotomia para indução do parto."
+    },
+    {
+     "letra": "C",
+     "texto": "placenta de inserção abaixa, pegar acesso venoso calibroso e administrar inibina."
+    },
+    {
+     "letra": "D",
+     "texto": "placenta prévia centro-total, cesária."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000107317",
+   "codigo": "4000107317",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 62,
+   "temas": [
+    "Fatores de risco"
+   ],
+   "enunciado": "O acretismo placentário está associado mais frequentemente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "ao descolamento prematuro de placenta."
+    },
+    {
+     "letra": "B",
+     "texto": "à nuliparidade."
+    },
+    {
+     "letra": "C",
+     "texto": "à placenta prévia."
+    },
+    {
+     "letra": "D",
+     "texto": "ao útero bicorno."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000106176",
+   "codigo": "4000106176",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 63,
+   "temas": [
+    "Rotura de vasa prévia"
+   ],
+   "enunciado": "Gestante tercípara, todos partos normais, idade gestacional de 32 semanas, pré-natal normal até o momento, comparece a atendimento com queixa de dor leve em hipogástrio. Ao toque: colo grosso, posterior, pérvio 1,5 cm, feto alto e móvel. Após o exame, passa a apresentar sangramento via vaginal abundante, indolor e bradicardia fetal importante. O mais provável diagnóstico nesse caso é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Descolamento prematuro de placenta."
+    },
+    {
+     "letra": "B",
+     "texto": "Rotura de vasa prévia."
+    },
+    {
+     "letra": "C",
+     "texto": "Placenta prévia."
+    },
+    {
+     "letra": "D",
+     "texto": "Rotura inadvertida de bolsa das águas."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000106096",
+   "codigo": "4000106096",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 64,
+   "temas": [
+    "Fatores de risco"
+   ],
+   "enunciado": "O fator de risco mais importante na gênese da Placenta Prévia é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tabagismo."
+    },
+    {
+     "letra": "B",
+     "texto": "Cesárea anterior."
+    },
+    {
+     "letra": "C",
+     "texto": "Diabete."
+    },
+    {
+     "letra": "D",
+     "texto": "Pré-eclampsia."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000103825",
+   "codigo": "4000103825",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 65,
+   "temas": [
+    "Tratamento",
+    "Quadro clínico"
+   ],
+   "enunciado": "MRP, 37 anos, 4G3P0A, IG = 33s 5d, hipertensa crônica em uso de Metildopa 1g/dia e tabagista de 5 cigarros/dia. Ultrassom obstétrico sem alterações, realizado há 1 semana. Dá entrada no pronto-socorro com queixa de dor abdominal súbita acompanhada de sangramento vaginal em moderada quantidade, além de tontura. Ao exame físico de entrada: PA = 100 x 70 mmHg, FC = 110bpm, hipertonia uterina e BCF (batimentos cardíacos fetais) = 90bpm. Exame especular com sangramento ativo pelo colo do útero e toque vaginal mostrando dilatação cervical de 3cm. Qual o diagnóstico mais provável e a melhor conduta, respectivamente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ruptura uterina. Estabilização hemodinâmica e cesárea de emergência."
+    },
+    {
+     "letra": "B",
+     "texto": "Placenta prévia. Internação para repouso, observação do sangramento e programação de parto com 37 semanas."
+    },
+    {
+     "letra": "C",
+     "texto": "Descolamento prematuro de placenta. Realização de ultrassonografia obstétrica, cardiotocografia e assistência ao trabalho de parto, aguardando parto por via vaginal."
+    },
+    {
+     "letra": "D",
+     "texto": "Descolamento prematuro de placenta. Amniotomia, estabilização hemodinâmica e cesárea de emergência."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000102883",
+   "codigo": "4000102883",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 66,
+   "temas": [
+    "Placenta prévia PP"
+   ],
+   "enunciado": "Gestante com 30 semanas apresenta sangramento genital em pequena quantidade, vermelho-vivo, indolor. Ao exame: confirma-se o sangramento 1+/4+ exteriorizando-se pelo colo uterino, ausência de contrações uterinas e batimentos cardíacos fetais audíveis dentro da faixa de normalidade. A principal hipótese diagnóstica para o caso é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Descolamento prematuro de placenta"
+    },
+    {
+     "letra": "B",
+     "texto": "Rotura uterina"
+    },
+    {
+     "letra": "C",
+     "texto": "Placenta prévia"
+    },
+    {
+     "letra": "D",
+     "texto": "Gestação ectópica"
+    },
+    {
+     "letra": "E",
+     "texto": "Trabalho de parto prematuro"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000099615",
+   "codigo": "4000099615",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 67,
+   "temas": [
+    "Rotura uterina"
+   ],
+   "enunciado": "Mulher, 35a, G5P4C1A0, com último parto há 10 anos. É admitida em trabalho de parto, com dilatação de 8 cm, bolsa rota e polo cefálico apoiado. Antecedente pessoal: diabetes gestacional controlado com dieta. Após 3 horas, evoluiu com dilatação total, apresentação no plano -3 de De Lee e 5 contrações fortes em 10 minutos. O exame clínico evidencia a situação abaixo: Subitamente, apresenta quadro de sangramento vaginal em moderada quantidade e queda da pressão arterial acompanhada de taquicardia. O DIAGNÓSTICO É:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Descolamento prematuro de placenta."
+    },
+    {
+     "letra": "B",
+     "texto": "Rotura uterina."
+    },
+    {
+     "letra": "C",
+     "texto": "Placenta prévia marginal."
+    },
+    {
+     "letra": "D",
+     "texto": "Laceração de trajeto."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q067-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000098043",
+   "codigo": "4000098043",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 68,
+   "temas": [
+    "Fatores de risco",
+    "Diagnóstico dif erencial sangramento da segunda metade da gestação"
+   ],
+   "enunciado": "A situação obstétrica que representa MAIOR risco para sangramento pós-parto por acretismo placentário é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "descolamento prematuro de placenta."
+    },
+    {
+     "letra": "B",
+     "texto": "gestação gemelar monocoriônica."
+    },
+    {
+     "letra": "C",
+     "texto": "placenta prévia centro-total."
+    },
+    {
+     "letra": "D",
+     "texto": "inserção velamentosa de cordão."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000089366",
+   "codigo": "4000089366",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 69,
+   "temas": [
+    "Diagnóstico dif erencial sangramento da segunda metade da gestação"
+   ],
+   "enunciado": "Durante o acompanhamento pré-natal, é recomendado realizar a avaliação ultrassonográ ca da inserção do cordão umbilical na placenta, visando diagnosticar condições que possam contribuir com piores desfechos obstétricos. A condição mostrada nas imagens de ultrassonografia e macroscopia acima está associada à:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "retenção placentária"
+    },
+    {
+     "letra": "B",
+     "texto": "sofrimento fetal agudo"
+    },
+    {
+     "letra": "C",
+     "texto": "abortamento espontâneo"
+    },
+    {
+     "letra": "D",
+     "texto": "descolamento prematuro de placenta"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q069-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": [
+    "possível letra faltando em enunciado"
+   ]
+  },
+  {
+   "id": "4000083996",
+   "codigo": "4000083996",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 70,
+   "temas": [
+    "Diagnóstico dif erencial sangramento da segunda metade da gestação"
+   ],
+   "enunciado": "Em relação aos sangramentos do segundo e terceiro trimestres da gestação, analise as assertivas abaixo: I - Na vasa prévia, os vasos umbilicais cursam através das membranas sobre o orifício interno do colo e à frente da apresentação fetal. II - Cesariana prévia é o principal fator de risco para acretismo placentário na presença de placenta prévia, entretanto, esse risco não aumenta proporcionalmente com o número de cesarianas anteriores. III - A ocorrência de placenta prévia aumenta a incidência de ruptura prematura de membranas. IV - Mulheres com deslocamento prematuro de placenta apresentam um grande risco de repetir o acidente na gestação seguinte. Quais estão corretas?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Apenas I e III."
+    },
+    {
+     "letra": "B",
+     "texto": "Apenas II e IV."
+    },
+    {
+     "letra": "C",
+     "texto": "Apenas I, III e IV."
+    },
+    {
+     "letra": "D",
+     "texto": "I, II, III e IV."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000083684",
+   "codigo": "4000083684",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 71,
+   "temas": [
+    "Placenta prévia PP"
+   ],
+   "enunciado": "Paciente feminina, 35 anos, G4PC3A0, IG:34 semanas, deu entrada na maternidade com quadro de sangramento vaginal moderado, indolor, BCF = 136bpm (regular), tônus uterino normal. Diante do quadro clínico descrito, qual a principal hipótese diagnóstica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Rotura de vasa prévia"
+    },
+    {
+     "letra": "B",
+     "texto": "Descolamento prematuro de placenta"
+    },
+    {
+     "letra": "C",
+     "texto": "Placenta prévia"
+    },
+    {
+     "letra": "D",
+     "texto": "Rotura uterina"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000076619",
+   "codigo": "4000076619",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 72,
+   "temas": [
+    "Rotura uterina"
+   ],
+   "enunciado": "G5 P4 (3PN 1C), apresenta hipertonia uterina no nal da fase de dilatação. Após a retirada da ocitocina e com início do expulsivo, cessa a hipertonia, mas ocorre sangramento volumoso. A paciente queixa de dor na escápula direita e evolui com hipotensão, hematúria na sonda, desaceleração dos batimentos cardíacos fetais e subida da apresentação. A hipótese diagnóstica é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Descolamento de placenta."
+    },
+    {
+     "letra": "B",
+     "texto": "Toco traumatismo materno."
+    },
+    {
+     "letra": "C",
+     "texto": "Rutura uterina."
+    },
+    {
+     "letra": "D",
+     "texto": "Distócia cervical dinâmica."
+    },
+    {
+     "letra": "E",
+     "texto": "Inversão do tríplice gradiente descendente."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000075177",
+   "codigo": "4000075177",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 73,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Gestante com 16 semanas, assintomática, traz ultrassonografia que mostra placenta prévia. Assinale a alternativa CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Deve-se tomar conduta expectante visto que há grande chance de se resolver espontaneamente (“migração placentária”)."
+    },
+    {
+     "letra": "B",
+     "texto": "Se no seguimento apresentar vasa previa a melhor via de parto é a vaginal."
+    },
+    {
+     "letra": "C",
+     "texto": "Se houver sangramento devido à placenta prévia este deverá ser escuro e acompanhado de dor e contrações."
+    },
+    {
+     "letra": "D",
+     "texto": "O ultrassom transvaginal está contraindicado devido à maior chance de hemorragia grave."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000074128",
+   "codigo": "4000074128",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 74,
+   "temas": [
+    "Placenta prévia PP"
+   ],
+   "enunciado": "Gestante lúcida e orientada deu entrada na maternidade com quadro de gestação de 36 semanas e sangramento vaginal vermelho vivo moderado com início há 1 hora, sem outras queixas. Ao exame, mucosas levemente hipocoradas, PA = 110 x 60 mmHg, BCF = 130 bpm, útero gravídico com fundo uterino de 32 cm do púbis. No exame especular observou-se colo com canal, orifício externo fechado com sangue. O diagnóstico mais provável é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Descolamento prematuro da placenta."
+    },
+    {
+     "letra": "B",
+     "texto": "Placenta prévia."
+    },
+    {
+     "letra": "C",
+     "texto": "Rotura uterina."
+    },
+    {
+     "letra": "D",
+     "texto": "Gestação molar."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000073239",
+   "codigo": "4000073239",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 75,
+   "temas": [
+    "Rotura uterina"
+   ],
+   "enunciado": "Paciente de 45 anos, 38 semanas, em período expulsivo após rápida evolução do trabalho de parto. Ao exame foi detectada hipertonia uterina que se seguiu de sangramento volumoso, hipotensão arterial, desaceleração dos batimentos cardíacos fetais e subida da apresentação. Qual sua hipótese diagnóstica?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Descolamento prematuro de placenta."
+    },
+    {
+     "letra": "B",
+     "texto": "Rotura de vasa prévia."
+    },
+    {
+     "letra": "C",
+     "texto": "Rotura uterina."
+    },
+    {
+     "letra": "D",
+     "texto": "Distocia de colo."
+    },
+    {
+     "letra": "E",
+     "texto": "Anel de Bundle."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000073209",
+   "codigo": "4000073209",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 76,
+   "temas": [
+    "Placenta prévia PP"
+   ],
+   "enunciado": "Gestante com antecedente de 5 cesarianas, encontra-se com 33 semanas e apresenta sangramento vultoso, rutilante e indolor. Ao exame: PA=100X60mmHg, BCF=155bpm, atividade uterina irregular. Qual o diagnóstico mais provável?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Trabalho de parto."
+    },
+    {
+     "letra": "B",
+     "texto": "Placenta prévia."
+    },
+    {
+     "letra": "C",
+     "texto": "Vasa prévia."
+    },
+    {
+     "letra": "D",
+     "texto": "Rotura uterina."
+    },
+    {
+     "letra": "E",
+     "texto": "Descolamento prematuro da placenta."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000065848",
+   "codigo": "4000065848",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 80,
+   "temas": [
+    "Quadro clínico"
+   ],
+   "enunciado": "Gestante, 34 anos, G5P3A1, é internada com sangramento vaginal rutilante, discreta dor abdominal há aproximadamente 3 horas. Não sabe informar a DUM e a USG Obstétrica de primeiro trimestre revela idade gestacional de 32 semanas e 5 dias. Ao exame físico palidez cutânea muscoa, sudorese, PA 100 x 60 mmHg, Pulso 95 pbm. Ao exame obstétrico AU 32 cm, situação longitudinal, apresentação cefálica, colo pérvio com polpa digital e sangue em canal vaginal. O DIAGNÓSTICO MAIS PROVÁVEL é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Placenta prévia."
+    },
+    {
+     "letra": "B",
+     "texto": "Deslocamento prematuro de placenta."
+    },
+    {
+     "letra": "C",
+     "texto": "Sofrimento fetal agudo."
+    },
+    {
+     "letra": "D",
+     "texto": "Rotura uterina."
+    },
+    {
+     "letra": "E",
+     "texto": "Rotura prematura de membranas."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000062493",
+   "codigo": "4000062493",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 81,
+   "temas": [
+    "Quadro clínico"
+   ],
+   "enunciado": "Paciente 35 anos, 34 semanas de gestação da entrada na emergência referindo dor abdominal intensa, súbita e sangramento vaginal escuro. Ao exame apresenta-se taquicardia, hipotensa, hipocorada, hipertonia uterina, bcf: 110bpm. A principal hipótese diagnóstica para esse quadro é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Placenta prévia"
+    },
+    {
+     "letra": "B",
+     "texto": "Descolamento prematuro de placenta"
+    },
+    {
+     "letra": "C",
+     "texto": "Rotura uterina"
+    },
+    {
+     "letra": "D",
+     "texto": "Rotura de vaso prévia"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000062239",
+   "codigo": "4000062239",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 82,
+   "temas": [
+    "Quadro clínico"
+   ],
+   "enunciado": "Gestante de 32 anos, G4P3A0, com 34 semanas de amenorreia, usuária de drogas, sem pré-natal. Queixa-se de dor abdominal de forte intensidade, de início súbito, seguida de sangramento vaginal em pequena quantidade. Exame obstétrico: altura uterina = 32 cm, dor a palpação de abdome, tônus uterino aumentado, batimentos cardíacos fetais= 180 bpm. Exame especular: sangramento escuro em pequena quantidade fluindo pelo colo uterino. A HIPÓTESE DIAGNÓSTICA É:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Trabalho de parto prematuro."
+    },
+    {
+     "letra": "B",
+     "texto": "Placenta prévia."
+    },
+    {
+     "letra": "C",
+     "texto": "Vasa prévia."
+    },
+    {
+     "letra": "D",
+     "texto": "Descolamento prematuro de placenta."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000062002",
+   "codigo": "4000062002",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 83,
+   "temas": [
+    "Tratamento",
+    "Diagnóstico"
+   ],
+   "enunciado": "Gestante 38 anos, G3P2A0, 2 partos vaginais prévios, pré-natal realizado na atenção secundária por apresentar hipertensão arterial crônica, em uso de metildopa 500mg de 8/8horas e com 35 semanas de gestação. Deu entrada à maternidade de um serviço público com quadro de sangramento vaginal moderado e escuro, associado a dor abdominal intensa, iniciado há 30 minutos de forma progressiva. Exame obstétrico revela útero hipertônico, frequência cardíaca fetal de 90bpm, PA: 140X90mmHg, FC:104bpm, UF:32cm, dinâmica uterina de difícil avaliação, colo 50% apagado, 3cm dilatado e bolsa protusa. Considerando o caso descrito, assinale a alternativa que apresenta as MELHORES condutas imediatas para essa paciente.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Aminiotomia, acesso venoso, reserva de sangue e cesariana de urgência."
+    },
+    {
+     "letra": "B",
+     "texto": "Ultrassonografia, hemograma e coagulograma para definir o caso."
+    },
+    {
+     "letra": "C",
+     "texto": "Corticoide e aguardar 24 horas da última dose para realizar o parto."
+    },
+    {
+     "letra": "D",
+     "texto": "Indução do parto e administração de sulfato de magnésio para evitar eclâmpsia."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000056718",
+   "codigo": "4000056718",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 84,
+   "temas": [
+    "Quadro clínico"
+   ],
+   "enunciado": "Mulher, 32 anos de idade, G3P2C1, idade gestacional 34 semanas e 3 dias, com pré-natal adequadamente realizado, sem antecedente de hipertensão arterial, deu entrada no pronto-socorro com queixa de turvação visual e vômitos há 6 horas. Ao exame: pressão arterial = 160 x 110 mmHg, reflexos vivos, sem aumento de área reflexógena, altura uterina = 32cm, dinâmica uterina ausente, batimentos cardíacos fetais (BCF) = 160 batimentos/minuto, toque vaginal: dilatação = 2cm, colo grosso e posterior. Durante a avaliação, após condutas iniciais, a paciente queixou-se de fortes dores abdominais e sangramento vaginal, em grande quantidade. Ao exame clínico, apresentava tônus uterino aumentado, BCF = 90 batimentos/minuto, toque vaginal: 5cm de dilatação, colo esvaecido, anteriorizado. Qual é o diagnóstico?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ruptura uterina"
+    },
+    {
+     "letra": "B",
+     "texto": "Trabalho de parto prematuro"
+    },
+    {
+     "letra": "C",
+     "texto": "Descolamento prematuro de placenta"
+    },
+    {
+     "letra": "D",
+     "texto": "Vasa prévia"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000053090",
+   "codigo": "4000053090",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 85,
+   "temas": [
+    "Classif icação"
+   ],
+   "enunciado": "A placenta prévia e o acretismo placentário são causas clinicamente importantes de hemorragia. Essas condições estão associadas à mortalidade e à morbidade perinatais significativas, por aumento da incidência de prematuridade, baixo peso ao nascer, distúrbios respiratórios e óbitos perinatais. Analise os conceitos a seguir elencados. I. Classicamente, a placenta prévia é definida como a presença de tecido placentário que recobre ou está muito próximo ao orifício interno do colo uterino após 24 semanas de gestação. II. Na placenta prévia centro total a placenta recobre totalmente o orifício externo do colo uterino. III. Na placenta prévia centro parcial a placenta recobre parcialmente o orifício externo do colo do útero. IV. Na placenta prévia marginal a borda placentária margeia o orifício interno do colo do útero, sem recobri-lo. V. Na placenta prévia lateral ou implantação baixa da placenta, embora implantada no segmento inferior do útero, a placenta não alcança o colo uterino (borda placentária distante até 7cm do orifício interno do colo). Pode-se também incluir os casos em que a relação exata da placenta com o orifício interno não pode ser determinada, ou de aparente placenta prévia no segundo trimestre. Estão corretas apenas as alternativas",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I e II."
+    },
+    {
+     "letra": "B",
+     "texto": "I e V."
+    },
+    {
+     "letra": "C",
+     "texto": "II e IV."
+    },
+    {
+     "letra": "D",
+     "texto": "III e V."
+    },
+    {
+     "letra": "E",
+     "texto": "IV e V."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000047435",
+   "codigo": "4000047435",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 86,
+   "temas": [
+    "Tecido retenção de tecido placentário",
+    "Acretismo placentário"
+   ],
+   "enunciado": "Atualmente a principal indicação para histerectomia-cesárea é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "descolamento prematuro de placenta"
+    },
+    {
+     "letra": "B",
+     "texto": "sangramento uterino não identificado"
+    },
+    {
+     "letra": "C",
+     "texto": "placenta acreta"
+    },
+    {
+     "letra": "D",
+     "texto": "ruptura uterina"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046511",
+   "codigo": "4000046511",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 87,
+   "temas": [
+    "Diagnóstico de HPP",
+    "Rotura uterina"
+   ],
+   "enunciado": "Quais sintomas e sinais fazem parte do quadro clínico de ruptura uterina na gestação?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Dor intensa, ausência de sinais de irritação peritoneal, sangramento vaginal e batimentos cardiofetais normais."
+    },
+    {
+     "letra": "B",
+     "texto": "Dor intensa, sinais de irritação peritoneal, sangramento vaginal e batimentos cardiofetais ausentes."
+    },
+    {
+     "letra": "C",
+     "texto": "Dor discreta, sinais de irritação peritoneal, sangramento vaginal ausente e batimentos cardiofetais normais."
+    },
+    {
+     "letra": "D",
+     "texto": "Indolor, sinais de irritação peritoneal, sangramento vaginal ausente e batimentos cardiofetais normais."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000042089",
+   "codigo": "4000042089",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 88,
+   "temas": [
+    "Tratamento"
+   ],
+   "enunciado": "Multípara com 41 semanas de idade gestacional, cinco partos normais anteriores, é admitida com dor em baixo ventre. Ao exame físico: dinâmica uterina = 2 contrações de 15 segundos em 10 minutos, colo uterino impérvio, batimentos cardíacos fetais= 152 batimentos por minuto e presença de pequeno sangramento vaginal. A ultrassonogra a revelou placenta prévia centro total.Considerando o quadro clínico, dentre as opções terapêuticas abaixo, a melhor conduta é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "iniciar misoprostol para induzir o parto devido ao pós-datismo."
+    },
+    {
+     "letra": "B",
+     "texto": "aguardar parto via vaginal espontâneo, pois paciente já está em pródromos."
+    },
+    {
+     "letra": "C",
+     "texto": "conduzir parto normal com ocitocina, pois paciente já está em trabalho de parto."
+    },
+    {
+     "letra": "D",
+     "texto": "realizar cesariana, pois há indicação absoluta."
+    },
+    {
+     "letra": "E",
+     "texto": "abrir partograma e conduzir trabalho de parto espontâneo."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000039608",
+   "codigo": "4000039608",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 89,
+   "temas": [
+    "Quadro clínico"
+   ],
+   "enunciado": "Gestante 33 anos, G4P3 A0 , pré natal com evolução normal até 32 semanas. Dá entrada na Maternidade da Santa Casa de Alfenas com quadro de dor abdominal intensa, contínua. Ao exame: hipocorada , anictérica, acianótica, RCR 2T, FC 110 bpm, PA 150/100 mmHg, BCF 90bpm. Abdome gravídico hipertônico. Especular com presença de sangramento vermelho vivo em moderada quantidade. Este é um quadro compatível com:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Placenta Prévia Total"
+    },
+    {
+     "letra": "B",
+     "texto": "Descolamento prematuro de placenta"
+    },
+    {
+     "letra": "C",
+     "texto": "Rotura uterina"
+    },
+    {
+     "letra": "D",
+     "texto": "Rotura do seio marginal"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000039587",
+   "codigo": "4000039587",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 90,
+   "temas": [
+    "Quadro clínico"
+   ],
+   "enunciado": "A síndrome que acompanha os quadros de Placenta Prévia é frequentemente caracterizada pela:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipofribinogenemia"
+    },
+    {
+     "letra": "B",
+     "texto": "Hemorragia indolor"
+    },
+    {
+     "letra": "C",
+     "texto": "Bradicardia fetal"
+    },
+    {
+     "letra": "D",
+     "texto": "Cólica sem sangramento"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000039559",
+   "codigo": "4000039559",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 91,
+   "temas": [
+    "Rotura de vasa prévia"
+   ],
+   "enunciado": "Em qual das causas de hemorragia de segunda metade da gestação, o sangue é predominantemente de origem fetal?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Rotura do seio marginal"
+    },
+    {
+     "letra": "B",
+     "texto": "Vasa prévia"
+    },
+    {
+     "letra": "C",
+     "texto": "Rotura uterina"
+    },
+    {
+     "letra": "D",
+     "texto": "Placenta prévia"
+    },
+    {
+     "letra": "E",
+     "texto": "Descolamento prematuro de placenta"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000030964",
+   "codigo": "4000030964",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 92,
+   "temas": [
+    "Sangramento segunda metade da gestação"
+   ],
+   "enunciado": "Paciente de 25 anos, vivendo em situação de rua. Encontra-se na terceira gestação, com um parto anterior vaginal e um aborto séptico provocado. No momento com 33 semanas. Veio para atendimento obstétrico, após resgate pelo SAMU, por episódio de síncope e quadro de cólicas em baixo ventre de início há 2 horas. A mesma referiu uso de álcool e fumo na gestação. Ao exame, apresenta palidez cutânea e sudorese, pressão arterial de 100 x 40 mmHg, frequência cardíaca de 124 bpm, altura de fundo uterino de 30 cm, batimentos cardiofetais de 100 bpm e atividade uterina irregular. Exame especular mostra colo útero fechado e sangramento escuro discreto. De acordo com a anamnese e exame físico, qual o provável diagnóstico e conduta, respectivamente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Rotura de vasa prévia. Realizar tipagem sanguínea, hemograma, coagulograma e reserva de hemoderivados. Realizar em caráter de urgência ultrassonografia obstétrica para definição de conduta."
+    },
+    {
+     "letra": "B",
+     "texto": "Rotura uterina. Realizar tipagem sanguínea, hemograma, coagulograma e reserva de hemoderivados. Resolução da gestação via vaginal com fórceps, após indução do parto com ocitocina."
+    },
+    {
+     "letra": "C",
+     "texto": "Descolamento prematuro de placenta. Realizar tipagem sanguínea, hemograma, coagulograma e reserva de hemoderivados. Realizar em caráter de urgência, ultrassonografia obstétrica e cardiotocografia, para definição de conduta."
+    },
+    {
+     "letra": "D",
+     "texto": "Descolamento prematuro de placenta. Realizar tipagem sanguínea, hemograma, coagulograma e reserva de hemoderivados. Resolução imediata da gestação por via abdominal (parto cesáreo."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000030292",
+   "codigo": "4000030292",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 93,
+   "temas": [
+    "Fatores de risco"
+   ],
+   "enunciado": "A principal causa de descolamento prematuro não traumático é a",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "gemelaridade."
+    },
+    {
+     "letra": "B",
+     "texto": "hipertensão arterial."
+    },
+    {
+     "letra": "C",
+     "texto": "sobredistensão uterina."
+    },
+    {
+     "letra": "D",
+     "texto": "placenta prévia."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000028739",
+   "codigo": "4000028739",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 94,
+   "temas": [
+    "Quadro clínico",
+    "Diagnóstico"
+   ],
+   "enunciado": "Paciente GII PCI, Idade Gestacional (IG) de 32 semanas, procurou o pronto-socorro com queixa de sangramento há 30 minutos em pequena quantidade. Nega queixas álgicas, contrações e trauma abdominal. Ao exame: AFU 30 cm, BCF 140 bpm, tônus uterino normal, exame especular com sangramento em pequena quantidade. A hipótese diagnóstica mais provável e conduta são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "placenta prévia. Solicitar ecografia."
+    },
+    {
+     "letra": "B",
+     "texto": "descolamento prematuro de placenta. Solicitar ecografia."
+    },
+    {
+     "letra": "C",
+     "texto": "placenta prévia. Interrupção da gestação."
+    },
+    {
+     "letra": "D",
+     "texto": "descolamento de placenta. Interrupção da gestação."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000026544",
+   "codigo": "4000026544",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 95,
+   "temas": [
+    "Quadro clínico"
+   ],
+   "enunciado": "Paciente com hipertensão arterial crônica e gestação de 39 semanas de idade gestacional estimada pela data da última menstruação e confirmada por ultrassonogra a de segundo trimestre, que descreve feto único e placenta de inserção fúndica. Comparece ao pronto-socorro obstétrico, queixando-se de sangramento vaginal e dor intensa em baixo-ventre, de início súbito. Ao exame, apresenta frequência cardíaca de 110 batimentos por minuto e pressão arterial 10x50mmHg. Útero se encontra com tônus aumentado e os batimentos cardíacos fetais estão em 80 batimentos por minuto. Nesse caso, o diagnóstico mais provável é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "descolamento prematuro de placenta."
+    },
+    {
+     "letra": "B",
+     "texto": "placenta prévia."
+    },
+    {
+     "letra": "C",
+     "texto": "abortamento."
+    },
+    {
+     "letra": "D",
+     "texto": "trabalho de parto sem intercorrências."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000025123",
+   "codigo": "4000025123",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 96,
+   "temas": [
+    "Placenta prévia PP"
+   ],
+   "enunciado": "Assinale a alternativa incorreta:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a Placenta Prévia (PP) tem taxas de mortalidade e complicações maternas bem inferiores ao descolamento prematuro de placenta"
+    },
+    {
+     "letra": "B",
+     "texto": "a PP deve ser suspeitada em toda gestante com mais de 20 semanas de gestação e sangramento vaginal"
+    },
+    {
+     "letra": "C",
+     "texto": "a PP é muito menos comum em gestações gemelares do que em gestações simples"
+    },
+    {
+     "letra": "D",
+     "texto": "as metas do manejo da PP são determinar se haverá resolução espontânea com a evolução da idade gestacional, reduzir o risco de sangramento e reduzir o risco de parto prematuro"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000024093",
+   "codigo": "4000024093",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 97,
+   "temas": [
+    "Rotura de vasa prévia",
+    "Sangramento segunda metade da gestação",
+    "Obstetrícia"
+   ],
+   "enunciado": "No que se refere às hemorragias durante a gestação e considerando os conhecimentos médicos correlatos, julgue o item a seguir. Sangramento vivo e indolor que ocorre após amniotomia, associado a sofrimento fetal grave e precoce, corresponde à rotura de vasa prévia, quadro grave de sangramento de origem fetal.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000019510",
+   "codigo": "4000019510",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 98,
+   "temas": [
+    "Tratamento",
+    "Quadro clínico"
+   ],
+   "enunciado": "Paciente de 38 anos, na quarta gestação, com um parto anterior e dois abortos. Idade gestacional 35 semanas. Comparece a emergência com quadro de cólicas em baixo ventre de início há 4 horas, associado a sangramento transvaginal discreto de coloração vermelho \"escuro\". Refere tabagismo, etilismo e uso de cocaína. Ao exame, apresenta agitação, sudorese fria, palidez de pele e mucosas (+3\\ +4), pressão arterial de 90 x 40 mmhg, frequência Cardíaca de 124 bpm, altura de fundo uterino de 33 cm, batimentos cardiofetais de 110 bpm e atividade uterina irregular. Considerando a anamnese e exame físico, qual o diagnóstico e conduta corretas a serem determinadas pelo plantonista?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Placenta prévia. Realizar toque vaginal, providenciar acesso venoso, solicitarhemograma completo, TAP com INR, TTPA e reserva de sangue. Prescrever betametasona e aguardar resultado de ultrassom."
+    },
+    {
+     "letra": "B",
+     "texto": "Rotura uterina. Realizar toque vaginal, providenciar acesso venoso, cardiotocografia, ultrassom obstétrico, tipagem sanguínea e reserva de sangue. Prescrever Betametasona 12 mg IM e aguardar 48 horas para o efeito pleno do corticoide."
+    },
+    {
+     "letra": "C",
+     "texto": "Descolamento prematuro de placenta. Realizar exame especular. Providenciar infusão venosa de 2000 ml de cristaloides. Solicitar hemoglobina, hematócrito, plaquetas, TAP com INR, TTPA, cardiotocografia e aguardar resultado de ultrassom obstétrico."
+    },
+    {
+     "letra": "D",
+     "texto": "Descolamento Prematuro de Placenta. Realizar exame especular, providenciar acesso venoso, tipagem sanguínea, hemoglobina, hematócrito, plaquetas, TAP com INR. Solicitar sangue com urgência, comunicar ao neonatologista e encaminhar paciente ao centro cirúrgico para resolução imediata da gestação por via abdominal."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000010009",
+   "codigo": "4000010009",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 99,
+   "temas": [
+    "Quadro clínico"
+   ],
+   "enunciado": "Gestante de 36 anos, com idade gestacional de 30 semanas, apresentando sangramentos indolores vermelho vivo, progressivos. O MAIS provável diagnostico nesse caso é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Descolamento Prematuro de Placenta"
+    },
+    {
+     "letra": "B",
+     "texto": "Placenta Prévia"
+    },
+    {
+     "letra": "C",
+     "texto": "Rotura de Vasa Prévia"
+    },
+    {
+     "letra": "D",
+     "texto": "Rotura de Seio Marginal"
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000006775",
+   "codigo": "4000006775",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 100,
+   "temas": [
+    "Quadro clínico"
+   ],
+   "enunciado": "Gestante 37 semanas foi levada pelo SAMU à maternidade com sangramento vaginal abundante. Ao exame: Fundo uterino 35cm, feto cefálico BCF 144 bpm, tônus normal, atividade uterina ausente. Sangramento vaginal abundante vermelho rutilante. Qual o diagnóstico? Respostas: 1 12 23 34 45 56 67 78 89 100",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Placenta prévia"
+    },
+    {
+     "letra": "B",
+     "texto": "Descolamento de placenta"
+    },
+    {
+     "letra": "C",
+     "texto": "Rotura de vasa prévia"
+    },
+    {
+     "letra": "D",
+     "texto": "Ruptura uterina"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": [
+  {
+   "id": "4000184408",
+   "codigo": "4000184408",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 3,
+   "temas": [
+    "Obstetrícia",
+    "Placenta prévia PP"
+   ],
+   "enunciado": "Mulher, 38a, G3P2C2A0, idade gestacional de 28 semanas e 5 dias (E₈), refere sangramento vaginal vermelho vivo em pequena quantidade há dois dias. Nega contrações, relação sexual ou esforço físico. Refere boa movimentação fetal. Nega perda de líquido por via vaginal. Exame físico: altura=1,71m; peso=85,5Kg; PA=122x72mmHg; FC=88bpm; altura uterina=27cm; fetais=presentes. Especular=presença de pequena quantidade de sangue coletada em fundo de saco vaginal, s e m sangramento ativo, colo aparentemente impérvio e sem lesões. Toque vaginal=não realizado. Solicitada ultrassonografia obstétrica, que apresenta a seguinte imagem. A HIPÓTESE DIAGNÓSTICA É:",
+   "alternativas": [],
+   "gabarito": null,
+   "imagens": [
+    {
+     "arquivo": "imagens/q003-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": [],
+   "motivo_exclusao": "sem alternativas"
+  },
+  {
+   "id": "4000069123",
+   "codigo": "4000069123",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 77,
+   "temas": [
+    "Sangramento segunda metade da gestação",
+    "Intercorrências obstétricas obstetrícia patológica"
+   ],
+   "enunciado": "Obstetrícia Paciente de 31 anos, GIIPIA0, com uma cesariana prévia, é atendida na emergência em 27/08/2019, com quadro de sangramento vaginal de moderada intensidade, iniciado há 20 minutos. Refere três episódios prévios de sangramento nessa gestação, de menor intensidade, e que cessaram espontaneamente. Sem outras queixas. Informa DUM em 10/01/2019 e ultrassonogra a de 20/03/2019, revelando idade gestacional de 12 semanas e 2 dias. Ao exame obstétrico, apresenta PA = 110 x 70mmHg, FC = 78bpm, hipocorada +/4+, hidratada, anictérica e acianótica; metrossístoles ausentes e tônus uterino normal; manobras de Leopold evidenciam feto em apresentação pélvica; cardiotocogra a com padrão ondulatório e reativo, linha de base em 140bpm. O exame especular demonstra colo sem lesões, fechado, com sangramento vermelho vivo em quantidade moderada. A rotina de pré-natal não apresenta alterações, com exceção de anemia microcítica e hipocrômica, com último hematócrito = 32% e hemoglobina = 9g/dL. Com base no caso clínico descrito: Cite dois fatores de risco para essa patologia.",
+   "alternativas": [],
+   "gabarito": null,
+   "imagens": [],
+   "revisar": [],
+   "motivo_exclusao": "sem alternativas"
+  },
+  {
+   "id": "4000069114",
+   "codigo": "4000069114",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 78,
+   "temas": [
+    "Sangramento segunda metade da gestação",
+    "Intercorrências obstétricas obstetrícia patológica"
+   ],
+   "enunciado": "Obstetrícia Paciente de 31 anos, GIIPIA0, com uma cesariana prévia, é atendida na emergência em 27/08/2019, com quadro de sangramento vaginal de moderada intensidade, iniciado há 20 minutos. Refere três episódios prévios de sangramento nessa gestação, de menor intensidade, e que cessaram espontaneamente. Sem outras queixas. Informa DUM em 10/01/2019 e ultrassonogra a de 20/03/2019, revelando idade gestacional de 12 semanas e 2 dias. Ao exame obstétrico, apresenta PA = 110 x 70mmHg, FC = 78bpm, hipocorada +/4+, hidratada, anictérica e acianótica; metrossístoles ausentes e tônus uterino normal; manobras de Leopold evidenciam feto em apresentação pélvica; cardiotocogra a com padrão ondulatório e reativo, linha de base em 140bpm. O exame especular demonstra colo sem lesões, fechado, com sangramento vermelho vivo em quantidade moderada. A rotina de pré-natal não apresenta alterações, com exceção de anemia microcítica e hipocrômica, com último hematócrito = 32% e hemoglobina = 9g/dL. Com base no caso clínico descrito: Informe o exame complementar que confirmará o diagnóstico.",
+   "alternativas": [],
+   "gabarito": null,
+   "imagens": [],
+   "revisar": [],
+   "motivo_exclusao": "sem alternativas"
+  },
+  {
+   "id": "4000069102",
+   "codigo": "4000069102",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Sangramento da Segunda Metade",
+   "numero": 79,
+   "temas": [
+    "Sangramento segunda metade da gestação",
+    "Intercorrências obstétricas obstetrícia patológica"
+   ],
+   "enunciado": "Obstetrícia Paciente de 31 anos, GIIPIA0, com uma cesariana prévia, é atendida na emergência em 27/08/2019, com quadro de sangramento vaginal de moderada intensidade, iniciado há 20 minutos. Refere três episódios prévios de sangramento nessa gestação, de menor intensidade, e que cessaram espontaneamente. Sem outras queixas. Informa DUM em 10/01/2019 e ultrassonogra a de 20/03/2019, revelando idade gestacional de 12 semanas e 2 dias. Ao exame obstétrico, apresenta PA = 110 x 70mmHg, FC = 78bpm, hipocorada +/4+, hidratada, anictérica e acianótica; metrossístoles ausentes e tônus uterino normal; manobras de Leopold evidenciam feto em apresentação pélvica; cardiotocogra a com padrão ondulatório e reativo, linha de base em 140bpm. O exame especular demonstra colo sem lesões, fechado, com sangramento vermelho vivo em quantidade moderada. A rotina de pré-natal não apresenta alterações, com exceção de anemia microcítica e hipocrômica, com último hematócrito = 32% e hemoglobina = 9g/dL. Com base no caso clínico descrito: Estabeleça o diagnóstico mais provável da paciente.",
+   "alternativas": [],
+   "gabarito": null,
+   "imagens": [],
+   "revisar": [],
+   "motivo_exclusao": "sem alternativas"
+  }
+ ]
+}

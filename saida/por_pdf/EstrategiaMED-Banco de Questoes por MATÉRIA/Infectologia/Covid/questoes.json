@@ -1,0 +1,732 @@
+{
+ "questoes": [
+  {
+   "id": "4000152066",
+   "codigo": "4000152066",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Covid",
+   "numero": 1,
+   "temas": [
+    "COVID 19"
+   ],
+   "enunciado": "Um homem com 61 anos de idade, portador de hipertensão arterial sistêmica e diabetes, é atendido em uma Unidade de Pronto Atendimento com febre, tosse seca, mal-estar e di culdade para respirar. O quadro iniciou-se há uma semana e piorou progressivamente. Ao exame físico, apresenta-se consciente, orientado, com pulso = 120 bpm, temperatura axilar = 38,3°C, FR = 24 ipm. Auscultas pulmonar e cardíaca normais. Abdome: nada digno de nota. Extremidades bem perfundidas, sem edemas, sem empastamento muscular. Oximetria de pulso de 88% (em ar ambiente). O médico plantonista fez a hipótese diagnóstica de COVID-19, internou o paciente em um leito de isolamento e prescreveu oxigênio suplementar. Segundo recomendações do Ministério da Saúde, qual das seguintes terapias está indicada para esse paciente, pela evidência de benefício?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Anticoagulantes em dose terapêutica para tromboembolismo venoso."
+    },
+    {
+     "letra": "B",
+     "texto": "Corticosteroides em baixas doses, limitado a 10 dias."
+    },
+    {
+     "letra": "C",
+     "texto": "Hidroxicloroquina associada à azitromicina."
+    },
+    {
+     "letra": "D",
+     "texto": "Plasma convalescente."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000151919",
+   "codigo": "4000151919",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Covid",
+   "numero": 2,
+   "temas": [
+    "COVID 19"
+   ],
+   "enunciado": "Em relação à dexametasona na COVID-19, é correto afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "estudos demonstraram benefício para o uso de pulsoterapia nos casos críticos"
+    },
+    {
+     "letra": "B",
+     "texto": "não deve ser utilizada em pacientes sem indicação de oxigênio suplementar"
+    },
+    {
+     "letra": "C",
+     "texto": "seu uso não pode ser interrompido abruptamente, devendo ser retirada gradualmente."
+    },
+    {
+     "letra": "D",
+     "texto": "quando iniciada na fase aguda da doença, observa-se maior redução na mortalidade."
+    },
+    {
+     "letra": "E",
+     "texto": "a administração por via intravenosa é obrigatória, pela melhor absorção do medicamento."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000146732",
+   "codigo": "4000146732",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Covid",
+   "numero": 3,
+   "temas": [
+    "COVID 19"
+   ],
+   "enunciado": "Uma mulher de 55 anos de idade procura o setor de emergência com quadro de febre, tosse seca e dispneia com início há 5 dias. Ao exame físico: frequência cardíaca de 110 bpm, temperatura axilar de 38.5 °C, pressão arterial de 100x60 mmHg, frequência respiratória de 28 IRPM e saturação de oxigênio de 94% em ar ambiente. A radiogra a do tórax revela in ltrados pulmonares bilaterais e a tomogra a computadorizada torácica mostra múltiplas áreas lobulares e subsegmentares bilaterais com opacidade em vidro fosco, ocupando cerca de 25% dos campos pulmonares. A paciente é internada em quarto isolado. Um swab nasofaríngeo é enviado para testes de reação em cadeia da polimerase via transcriptase reversa em tempo real e o resultado é positivo para coronavírus causador de síndrome respiratória aguda grave 2 (SARS-CoV-2). Assinale a alternativa que contém a terapêutica recomendada de rotina de acordo com as Diretrizes para o tratamento farmacológico da COVID-19 (Consenso da Associação de Medicina Intensiva Brasileira, da Sociedade Brasileira de Infectologia e da Sociedade Brasileira de Pneumologia e Tisiologia):",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "hidroxicloroquina ou cloroquina + azitromicina, corticosteróides sistêmicos e anticoagulante profilático;"
+    },
+    {
+     "letra": "B",
+     "texto": "azitromicina, corticosteróides sistêmicos e anticoagulante em dose terapêutica;"
+    },
+    {
+     "letra": "C",
+     "texto": "oseltamivir, hidroxicloroquina ou cloroquina + azitromicina, corticosteróides sistêmicos e anticoagulante profilático;"
+    },
+    {
+     "letra": "D",
+     "texto": "ivermectina, oseltamivir, hidroxicloroquina ou cloroquina + azitromicina, corticosteróides sistêmicos e anticoagulante em dose terapêutica;"
+    },
+    {
+     "letra": "E",
+     "texto": "anticoagulante profilático apenas."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000146073",
+   "codigo": "4000146073",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Covid",
+   "numero": 4,
+   "temas": [
+    "COVID 19",
+    "Inf ecções relacionadas à assistência à saúde IRAS"
+   ],
+   "enunciado": "Descarte ou higienize todo o equipamento usado durante a RCP, seguindo as recomendações do fabricante e as diretrizes locais da instituição para Ressuscitação Cardiopulmonar de Pacientes com Diagnóstico ou Suspeita de COVID-19. Está correto que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Após o atendimento, remova o EPI com segurança, evitando a autocontaminação. Para esse passo, deve ser dada toda atenção, considerando que a menor parte da contaminação dos profissionais de saúde ocorre nesse momento, por contato com secreções e gotículas."
+    },
+    {
+     "letra": "B",
+     "texto": "Após o atendimento, remova o EPI com segurança, evitando a autocontaminação. Para esse passo, deve ser dada toda atenção, considerando que a maior parte da contaminação dos profissionais de saúde ocorre nesse momento, sem contato com secreções e gotículas."
+    },
+    {
+     "letra": "C",
+     "texto": "Após o atendimento, remova o EPI sem segurança, evitando a autocontaminação. Para esse passo, deve ser dada toda atenção, considerando que não ocorre contaminação dos profissionais de saúde ocorre nesse momento, por contato com secreções e gotículas."
+    },
+    {
+     "letra": "D",
+     "texto": "Após o atendimento, remova o EPI com segurança, evitando a autocontaminação. Para esse passo, deve ser dada toda atenção, considerando que a maior parte da contaminação dos profissionais de saúde ocorre nesse momento, por contato com secreções e gotículas."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000145843",
+   "codigo": "4000145843",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Covid",
+   "numero": 5,
+   "temas": [
+    "COVID 19",
+    "Inf ecções relacionadas à assistência à saúde IRAS"
+   ],
+   "enunciado": "O controle de infecção relacionado à assistência à saúde é fundamental. Com relação ao atendimento pré-hospitalar móvel de urgência e ao transporte interinstitucional de casos suspeitos ou confirmados, sabe-se que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o transporte interinstitucional de casos suspeitos ou confirmados deve ser evitado"
+    },
+    {
+     "letra": "B",
+     "texto": "os profissionais dos serviços de atendimento devem ser comunicados apenas dos casos confirmados"
+    },
+    {
+     "letra": "C",
+     "texto": "as superfícies internas do veículo devem ser limpas e desinfetadas após a realização do transporte com álcool a 49%"
+    },
+    {
+     "letra": "D",
+     "texto": "a ventilação do veículo deve ser melhorada pelo fechamento dos vidros com o ar condicionado em baixa temperatura durante o transporte"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000143889",
+   "codigo": "4000143889",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Covid",
+   "numero": 6,
+   "temas": [
+    "COVID 19",
+    "Pediatria"
+   ],
+   "enunciado": "Com relação ao Sarvs-Cov-2, podemos afirmar que as crianças:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Sempre assintomáticas"
+    },
+    {
+     "letra": "B",
+     "texto": "Nunca transmitem o vírus"
+    },
+    {
+     "letra": "C",
+     "texto": "Devem manter as orientações de cuidados e higiene seguindo protocolos do ministério da Saúde"
+    },
+    {
+     "letra": "D",
+     "texto": "Nenhuma das anteriores."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000143561",
+   "codigo": "4000143561",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Covid",
+   "numero": 7,
+   "temas": [
+    "COVID 19"
+   ],
+   "enunciado": "É considerado contato próximo de caso confirmado de COVID-19, todas as alternativas abaixo, EXCETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Pessoa que tenha contato direto desprotegido com secreções infecciosas do caso (por exemplo: gotículas de tosse)."
+    },
+    {
+     "letra": "B",
+     "texto": "Pessoa que teve contato físico direto (por exemplo: apertou as mãos) com o caso confirmado."
+    },
+    {
+     "letra": "C",
+     "texto": "Profissional de saúde que cuide diretamente de um caso de COVID-19 sem EPI ou com violação do mesmo."
+    },
+    {
+     "letra": "D",
+     "texto": "Uma pessoa que teve contato frente a frente por 15 minutos ou mais e a uma distância inferior a um metro."
+    },
+    {
+     "letra": "E",
+     "texto": "Pessoa que esteve em ambiente fechado por 15 minutos ou mais a uma distância superior a um metro do caso."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000143253",
+   "codigo": "4000143253",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Covid",
+   "numero": 8,
+   "temas": [
+    "COVID 19"
+   ],
+   "enunciado": "Paciente de 30 anos, sem morbidades prévias, chega à Clínica da Família com tosse e febre. Considerando a suspeita de Covid-19, os cuidados que devem ser tomados com esse paciente para evitar o contágio de outras pessoas e da unidade e as orientações sobre a notificação do caso, respectivamente, são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "receber máscara, aguardar atendimento em sala de acolhimento da clínica; os profissionais de saúde devem usar máscara N95, roupão descartável e óculos ou protetor facial / notificação imediata de caso suspeito"
+    },
+    {
+     "letra": "B",
+     "texto": "receber máscara, aguardar atendimento em sala de acolhimento da clínica; os profissionais de saúde devem usar máscara N95, roupão descartável e óculos ou protetor facial / notificação do caso só após confirmação"
+    },
+    {
+     "letra": "C",
+     "texto": "receber máscara cirúrgica, aguardar em sala arejada e previamente separada para casos suspeitos; os profissionais de saúde devem usar máscara cirúrgica, roupão descartável e óculos ou protetor facial / notificação imediata de caso suspeito"
+    },
+    {
+     "letra": "D",
+     "texto": "receber máscara cirúrgica, aguardar em sala previamente separada para casos suspeitos; os profissionais de saúde devem usar máscara cirúrgica, roupão descartável e óculos ou protetor facial / notificação do caso só após confirmação"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000141774",
+   "codigo": "4000141774",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Covid",
+   "numero": 9,
+   "temas": [
+    "COVID 19"
+   ],
+   "enunciado": "Qual das medidas terapêuticas abaixo comprovadamente reduz a mortalidade em pacientes com COVID 19?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Uso de heparina em dose plena a partir do terceiro dia de doença"
+    },
+    {
+     "letra": "B",
+     "texto": "Uso de azitromicina a partir dos primeiros sintomas"
+    },
+    {
+     "letra": "C",
+     "texto": "Uso de dexametasona em pacientes com necessidade de suplementação de oxigênio"
+    },
+    {
+     "letra": "D",
+     "texto": "Entubação orotraqueal precoce em pacientes com dificuldade respiratória"
+    },
+    {
+     "letra": "E",
+     "texto": "Uso profilático mensal de ivermectina"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000141140",
+   "codigo": "4000141140",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Covid",
+   "numero": 10,
+   "temas": [
+    "COVID 19",
+    "Amamentação Aleitamento Materno"
+   ],
+   "enunciado": "Gestante saudável, sem morbidades pregressas, 39 semanas de idade gestacional. No momento do parto está clinicamente bem e com infecção pelo SARS-CoV-2. A CONDUTA COM O RECÉM-NASCIDO (RN) APÓS O PARTO É:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Separar mãe do RN por 14 dias e contraindicar o aleitamento materno."
+    },
+    {
+     "letra": "B",
+     "texto": "Separar mãe do RN por 14 dias e oferecer leite materno ordenhado."
+    },
+    {
+     "letra": "C",
+     "texto": "Manter mãe e RN em quarto privativo e contraindicar o aleitamento materno."
+    },
+    {
+     "letra": "D",
+     "texto": "Manter mãe e RN em quarto privativo e promover o aleitamento materno."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000140980",
+   "codigo": "4000140980",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Covid",
+   "numero": 11,
+   "temas": [
+    "COVID 19"
+   ],
+   "enunciado": "Professora de natação de um clube esportivo, após meses em casa, recomeçou a dar aulas no mês de novembro de 2020, em piscina coberta de água aquecida. Seu marido é funcionário do clube e faz serviços de manutenção. Num dia de trabalho, ele é socorrido por mal-estar e levado a um serviço de emergência, onde fazem o teste RT-PCR, cujo resultado é positivo para Sars-CoV-2. A professora, assintomática até então, também é testada, e o resultado é positivo. O marido evolui com um pouco de cansaço e febre e é orientado a car em casa por 14 dias. A professora, por ser assintomática, é orientada a ficar afastada por 3 dias e retornar ao trabalho. Em face do exposto, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Como é mais provável que a professora tenha infectado seu marido, seu período de transmissibilidade está no fim."
+    },
+    {
+     "letra": "B",
+     "texto": "O fato de a professora ter sido infectada significa que ela não usou máscara durante toda a sua jornada de trabalho."
+    },
+    {
+     "letra": "C",
+     "texto": "Ao final dos 14 dias, o funcionário do clube deve retornar ao trabalho, salvo se estiver internado."
+    },
+    {
+     "letra": "D",
+     "texto": "Neste caso, descarta-se a COVID-19 como doença relacionada ao trabalho, pois um infectou o outro."
+    },
+    {
+     "letra": "E",
+     "texto": "O fato de ser assintomática não significa que a professora não transmita o vírus."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000140976",
+   "codigo": "4000140976",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Covid",
+   "numero": 12,
+   "temas": [
+    "COVID 19"
+   ],
+   "enunciado": "O conhecimento atual sobre o Sars-CoV-2 permite afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a forma de transmissão mais importante é o contato com superfícies contaminadas."
+    },
+    {
+     "letra": "B",
+     "texto": "a transmissão por aerossóis se dá principalmente em ambientes fechados e mal ventilados."
+    },
+    {
+     "letra": "C",
+     "texto": "o uso de máscara protege integralmente as pessoas."
+    },
+    {
+     "letra": "D",
+     "texto": "a transmissibilidade independe da umidade relativa do ar de um determinado ambiente."
+    },
+    {
+     "letra": "E",
+     "texto": "uma de suas características é a de provocar a COVID-19, uma das doenças com maior taxa de letalidade que se conhece."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000140595",
+   "codigo": "4000140595",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Covid",
+   "numero": 13,
+   "temas": [
+    "COVID 19"
+   ],
+   "enunciado": "Homem de 68 anos de idade tem insu ciência cardíaca com fração de ejeção de 36%. Está em uso de enalapril 20 mg/dia, furosemida 40 mg/dia, carvedilol 50 mg/dia e espironolactona 25 mg/dia. Durante os últimos meses, persistia com dispneia apenas aos grandes esforços. Procura o pronto-atendimento porque há 7 dias apresenta piora da dispneia (atualmente no repouso), tosse seca e febre baixa (37,9ºC). No exame clínico, está em regular estado geral, consciente e orientado. FC 88 bpm, PA 90x60 mmHg, saturação de oxigênio em ar ambiente: 89%. Ausculta pulmonar com estertores nos em ambas as bases. Durante internação para compensação clínica, o paciente realizou a tomogra a de tórax apresentada a seguir. Qual é a principal hipótese diagnóstica para o quadro agudo? Fonte: http://dx.doi.org/10.36416/1806-3756/e20200114.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Insuficiência cardíaca descompensada."
+    },
+    {
+     "letra": "B",
+     "texto": "Infecção por SARS-CoV-2."
+    },
+    {
+     "letra": "C",
+     "texto": "Pneumonia estreptocócica."
+    },
+    {
+     "letra": "D",
+     "texto": "Tromboembolismo pulmonar."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q013-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000138607",
+   "codigo": "4000138607",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Covid",
+   "numero": 14,
+   "temas": [
+    "COVID 19"
+   ],
+   "enunciado": "Assinale a alternativa que apresenta os achados diagnósticos na tomografia de tórax mais frequentes na covid-19.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "escavação e opacidades lineares"
+    },
+    {
+     "letra": "B",
+     "texto": "nódulos discretos e pavimentação em mosaico"
+    },
+    {
+     "letra": "C",
+     "texto": "linfadenopatia e escavação"
+    },
+    {
+     "letra": "D",
+     "texto": "opacidades em vidro fosco e distribuição bilateral"
+    },
+    {
+     "letra": "E",
+     "texto": "derrame pleural e consolidação"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000138239",
+   "codigo": "4000138239",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Covid",
+   "numero": 15,
+   "temas": [
+    "COVID 19"
+   ],
+   "enunciado": "Avalie as assertivas abaixo e assinale com V (verdadeiro) ou F (falso) e escolha a alternativa que contém a sequência correta com relação ao vírus COVID 19: [ ] Embora investigações iniciais sugiram que o vírus possa estar presente nas fezes em alguns casos, até o momento não houve relatos de transmissão fecal-oral da COVID-19. Além disso, não há evidências até o momento sobre a sobrevivência do vírus da COVID-19 em água ou esgoto. [ ] As pessoas que estão em contato próximo (a menos de 1 metro) com uma pessoa infectada podem adquirir a COVID-19 quando essas gotículas infecciosas entrarem na sua boca, nariz, olhos ou permanecerem na pele por no mínimo 2 a 4 horas. [ ] É possível adquirir COVID-19 de alguém com tosse leve e que não se sente doente e alguns relatórios indicaram que pessoas sem sintomas podem transmitir o vírus. [ ] Não foram identificados outros coronavírus, circulando em animais, que tenham infectado o ser humanos. [ ] No momento, não há evidências de que o risco de infecção ou complicações da COVID-19 seja diferente entre pessoas vivendo com HIV, clinicamente e imunologicamente estáveis no tratamento anti-retroviral, quando comparadas à população em geral.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "V,V,F,V,V"
+    },
+    {
+     "letra": "B",
+     "texto": "V,F,F,F,F"
+    },
+    {
+     "letra": "C",
+     "texto": "V,F,V,F,F"
+    },
+    {
+     "letra": "D",
+     "texto": "V,F,V,F,V"
+    },
+    {
+     "letra": "E",
+     "texto": "Nenhuma das alternativas acima está correta."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000137948",
+   "codigo": "4000137948",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Covid",
+   "numero": 16,
+   "temas": [
+    "COVID 19"
+   ],
+   "enunciado": "Sobre o tratamento da COVID-19, é correto:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A análise preliminar do estudo ACTT-1 demonstrou que o Remdesivir reduziu de forma estatisticamente significativa o tempo, internação e a mortalidade em pacientes internados com comprometimento pulmonar."
+    },
+    {
+     "letra": "B",
+     "texto": "A Sociedade Internacional de Trombose e Hemostasia recomenda anticoagulação terapêutica para todos os pacientes hospitalizados."
+    },
+    {
+     "letra": "C",
+     "texto": "A cloroquina e a hidroxicloroquina são opções terapêuticas eficazes e isentas de efeitos colaterais."
+    },
+    {
+     "letra": "D",
+     "texto": "O uso de dexametasona reduziu a mortalidade em pacientes internados que necessitavam de oxigênio suplementar, em special naqueles que se encontravam em ventilação invasiva."
+    },
+    {
+     "letra": "E",
+     "texto": "A ventilação não invasiva pode ser utilizada e não adiciona riscos para a equipe assistencial."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000132041",
+   "codigo": "4000132041",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Covid",
+   "numero": 17,
+   "temas": [
+    "COVID 19",
+    "Pediatria"
+   ],
+   "enunciado": "Com relação à detecção do RNA viral para o SARS-CoV-2 em crianças é correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "É identificado no leite materno."
+    },
+    {
+     "letra": "B",
+     "texto": "Pode ser detectado em amostras de secreção respiratórias até 2 dias antes do início dos sintomas."
+    },
+    {
+     "letra": "C",
+     "texto": "Quando encontrado em qualquer amostra significa que o paciente está transmitindo."
+    },
+    {
+     "letra": "D",
+     "texto": "É encontrado em secreções respiratórias somente após 3 dias do início dos sintomas."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000132034",
+   "codigo": "4000132034",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Covid",
+   "numero": 18,
+   "temas": [
+    "COVID 19",
+    "Pediatria"
+   ],
+   "enunciado": "Em qual das amostras abaixo podemos encontrar o SARS-CoV-2 por mais tempo em um paciente que esteve infectado?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Secreção nasal"
+    },
+    {
+     "letra": "B",
+     "texto": "Secreção Oro Traqueal"
+    },
+    {
+     "letra": "C",
+     "texto": "Sangue"
+    },
+    {
+     "letra": "D",
+     "texto": "Fezes"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000131049",
+   "codigo": "4000131049",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Covid",
+   "numero": 19,
+   "temas": [
+    "COVID 19"
+   ],
+   "enunciado": "Em oito de outubro deste ano, foi veiculada a seguinte informação em grandes sites de notícia brasileiros: “Segundo a Casa Branca, o presidente americano Donald Trump foi tratado com uma dose de 8 gramas do coquetel de terapia experimental de anticorpos feito pela empresa de biotecnologia Regeneron, o REGN-CoV-2.” Sobre o “coquetel de anticorpos” citado, é correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Trata-se de estratégia indutora de imunidade ativa contra o novo coronavírus."
+    },
+    {
+     "letra": "B",
+     "texto": "Na data da publicação,já havia estudos duplo-cegos, randomizados e controlados em humanos confirmando a eficácia e segurança do referido coquetel para a COVID-19."
+    },
+    {
+     "letra": "C",
+     "texto": "O fornecimento de anticorpos monoclonais contra determinado patógeno representa estratégia de imunidade passiva."
+    },
+    {
+     "letra": "D",
+     "texto": "O uso do referido coquetel não influencia no resultado de exames sorológicos para o SARSCOV-2."
+    },
+    {
+     "letra": "E",
+     "texto": "Estudos preliminares, de fase 1 e 2, têm a finalidade de demonstrar a eficácia e segurança de fármacos em desenvolvimento."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000130961",
+   "codigo": "4000130961",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Covid",
+   "numero": 20,
+   "temas": [
+    "COVID 19"
+   ],
+   "enunciado": "Em pacientes com COVID-19, a terapia que comprovadamente demonstrou redução da moralidade a curto prazo em pacientes com necessidade de oxigênio foi:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hidroxicioroquina"
+    },
+    {
+     "letra": "B",
+     "texto": "Cloroquina + Azitromicina"
+    },
+    {
+     "letra": "C",
+     "texto": "Ivermectina"
+    },
+    {
+     "letra": "D",
+     "texto": "Dexametasona"
+    },
+    {
+     "letra": "E",
+     "texto": "Zinco"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000129234",
+   "codigo": "4000129234",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Covid",
+   "numero": 21,
+   "temas": [
+    "COVID 19"
+   ],
+   "enunciado": "Paciente de 40 anos foi trazido à Emergência por vir apresentando, há 3 dias febre de 39,5° C, tosse não produtiva, cansaço intenso, alteração do olfato e, no último dia, dispneia progressiva. Relatou contato próximo no trabalho (distância de menos de 2 m) com possível caso de COVID-19 há 1 semana. Que teste diagnóstico, dentre os abaixo, é o mais adequado para COVID-19, devendo ser realizado quando da avaliação na Emergência? Respostas: 1 12",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cultura viral de aspirado da secreção nasofaríngea"
+    },
+    {
+     "letra": "B",
+     "texto": "Teste sorológico (IgA/IgM e IgG)"
+    },
+    {
+     "letra": "C",
+     "texto": "RT-PCR em amostra de secreção coletada por swab nasofaríngeo"
+    },
+    {
+     "letra": "D",
+     "texto": "Imunofluorescência direta em amostra de secreção coletada por swab nasofaringe"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": []
+}

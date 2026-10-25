@@ -1,0 +1,1358 @@
+{
+ "questoes": [
+  {
+   "id": "4000123486",
+   "codigo": "4000123486",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tireoide - Fisiologia e avaliação diagnóstica",
+   "numero": 1,
+   "temas": [
+    "Avaliação f uncional e ultrassonográf ica da glândula tireoide",
+    "Interpretação dos exames laboratoriais"
+   ],
+   "enunciado": "Assinale a assertiva correta sobre o diagnóstico laboratorial de distúrbios tireoidianos.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Por definição, para o diagnóstico de hipotireoidismo subclínico, o paciente deve apresentar alteração nos exames de função tireoidiana (TSH elevado e T4 livre reduzido) e ausência completa de sintomas da doença."
+    },
+    {
+     "letra": "B",
+     "texto": "Para o diagnóstico de hipotireoidismo subclínico, uma única dosagem de TSH com valor moderadamente elevado e de hormônios periféricos com valores normais é suficiente."
+    },
+    {
+     "letra": "C",
+     "texto": "T3 é a forma biologicamente ativa dos hormônios tireoidianos, sendo sua dosagem fundamental para o diagnóstico tanto de hipotireoidismo quanto de hipertireoidismo."
+    },
+    {
+     "letra": "D",
+     "texto": "Dosagem de TSH é o principal exame para avaliação da suspeita de hipotireoidismo, pois sua técnica laboratorial é mais acurada do que a dos hormônios periféricos; pequenas mudanças na secreção de T3/T4 são acompanhadas de variações de maior magnitude no TSH."
+    },
+    {
+     "letra": "E",
+     "texto": "Dosagem de TSH é exame de grande utilidade para o rastreio e diagnóstico de hipotireoidismo, pois com apenas um teste laboratorial é possível diagnosticar e diferenciar distúrbios primários (tireoidianos) de secundários/terciários (hipotálamo- hipofisários)."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000068086",
+   "codigo": "4000068086",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tireoide - Fisiologia e avaliação diagnóstica",
+   "numero": 2,
+   "temas": [
+    "Avaliação f uncional e ultrassonográf ica da glândula tireoide"
+   ],
+   "enunciado": "Na avaliação laboratorial da função tireoideana, recomenda-se dosagens de hormônio estimulador da tireóide (TSH) e tiroxina livre (T₄L), não se indicando primariamente a dosagem de Triiodotironina total (T₃T). A dosagem de T₃T está indicada, principalmente quando o objetivo é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Diagnosticar tireotoxicose por T₃, presente em 5% de pacientes hipertireoideos"
+    },
+    {
+     "letra": "B",
+     "texto": "Avaliação da reserva tireoideana em pacientes fazendo reposição com T₄."
+    },
+    {
+     "letra": "C",
+     "texto": "Acompanhar a eficácia da radioterapia em paciente com carcinoma de tireóide."
+    },
+    {
+     "letra": "D",
+     "texto": "Complementar a dosagem de T₄L no diagnóstico de hipotireoidismo, uma vez que as concentrações de T₃T estão mais frequentemente abaixo da normalidade em comparação com as de T₄L, no hipotireoidismo primário."
+    },
+    {
+     "letra": "E",
+     "texto": "Diagnosticar resistência periférica aos hormônios tireoideanos."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000113245",
+   "codigo": "4000113245",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tireoide - Fisiologia e avaliação diagnóstica",
+   "numero": 3,
+   "temas": [
+    "Interpretação dos exames laboratoriais"
+   ],
+   "enunciado": "Qual é a combinação mais plausível entre níveis hipotéticos de TSH e T4L e sua causa provável.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "TSH elevado e T4L normal – causa provável: hipertireoidismo subclínico"
+    },
+    {
+     "letra": "B",
+     "texto": "TSH elevado e T4L elevado – causa provável: hipertireoidismo exógeno"
+    },
+    {
+     "letra": "C",
+     "texto": "TSH baixo e T4L normal – causa provável: hipertireoidismo subclínico exógeno ou endógeno."
+    },
+    {
+     "letra": "D",
+     "texto": "TSH baixo e T4L normal – causa provável: ingestão de lítio; hipotireoidismo com reposição inadequada de T4"
+    },
+    {
+     "letra": "E",
+     "texto": "TSH normal e T4L elevado– causa provável: hipertireoidismo subclínico endógeno"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000025747",
+   "codigo": "4000025747",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tireoide - Fisiologia e avaliação diagnóstica",
+   "numero": 4,
+   "temas": [
+    "A inf luência das medicações na homeostase tireoidiana"
+   ],
+   "enunciado": "Leia o caso clínico a seguir. Mulher de 42 anos procura assistência médica por causa de alteração de função tireoidiana. Refere atividade física intensa e que, após um treino, apresentou dor lombar de grande intensidade com irradiação para parte posterior de membro inferior esquerdo, sendo prescritos sioterapia e glicocorticoide injetável intramuscular de depósito há uma semana (três ampolas). Ciclos menstruais regulares, em uso de contraceptivos orais. PA 120 x 80 mmHg, FC = 70 BPM, com ritmo cardíaco regular. Tireoide normopalpável. Traz os exames: TSH = 0,3 mUI/L (VR 0,4 a 4,0); T4 livre = 1,4 ng/dl (VR 0,8 a 1,9); T3 = 1,4 ng/ml (VR 0,7 a 1,8); TRAb = 0,1 UI/L (VR < 1,75); ATPO = 30 UI/ml (VR < 35); antitireoglobulina = 15 UI/ml (VR < 20). Qual é a provável causa da alteração no TSH desta paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Doença de Graves."
+    },
+    {
+     "letra": "B",
+     "texto": "Uso de contraceptivo oral."
+    },
+    {
+     "letra": "C",
+     "texto": "Hashitoxicose."
+    },
+    {
+     "letra": "D",
+     "texto": "Uso de glicocorticoide."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000120372",
+   "codigo": "4000120372",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tireoide - Fisiologia e avaliação diagnóstica",
+   "numero": 6,
+   "temas": [
+    "Etiologia",
+    "Hipertireoidismo secundário",
+    "Hipopituitarismo"
+   ],
+   "enunciado": "Considere dois pacientes. O primeiro tem TSH de 6,8 mUI/L (VR = 0,5 – 5,0 mUI/L) e T4L de 2,4 (VR = 0,90 – 1,80 ng/ml); o segundo apresenta TSH de 2,50 mUI/L e T4L de 0,35 ng/dl. Estes pacientes apresentam respectivamente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipertireoidismo primário e hipotiroidismo central."
+    },
+    {
+     "letra": "B",
+     "texto": "Hipertireoidismo primário e hipotiroidismo primário."
+    },
+    {
+     "letra": "C",
+     "texto": "Hipertireoidismo central e hipotireoidismo primário."
+    },
+    {
+     "letra": "D",
+     "texto": "Hipertireoidismo central e hipotireoidismo central."
+    },
+    {
+     "letra": "E",
+     "texto": "Hipertireoidismo central e hipotiroidismo de causa indefinida."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000094429",
+   "codigo": "4000094429",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tireoide - Fisiologia e avaliação diagnóstica",
+   "numero": 7,
+   "temas": [
+    "Diagnóstico e investigação adicional",
+    "Interpretação dos exames laboratoriais"
+   ],
+   "enunciado": "Mulher, 25 anos, refere achando normal em exames laboratoriais para admissão em concurso público. Nega sintomas, faz uso de anticoncepcional oral diário, sem outros medicamentos atuais, histórico de apendicectomia aos 9 anos, fratura de antebraço durante prática de esporte há 1 ano. O exame físico é inexpressivo. Exames laboratoriais com TSH = 7,0 mcU/ml (valores refêrencia: 0,3 – 6,0 mcU/ml). Sem outros exames para função tireoidiana. Níveis elevados de TSH em exames laboratoriais podem ocorrer em todas as situações abaixo, exceto",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tireoidite de Hashimoto."
+    },
+    {
+     "letra": "B",
+     "texto": "Resistência ao Hormônio Tireoidiano."
+    },
+    {
+     "letra": "C",
+     "texto": "Após radioterapia para linfoma cervical."
+    },
+    {
+     "letra": "D",
+     "texto": "Primeiro trimestre de gestação."
+    },
+    {
+     "letra": "E",
+     "texto": "Tumor hipofisário."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000060907",
+   "codigo": "4000060907",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tireoide - Fisiologia e avaliação diagnóstica",
+   "numero": 8,
+   "temas": [
+    "Ações biológicas dos hormônios tireoidianos",
+    "A inf luência das medicações na homeostase tireoidiana"
+   ],
+   "enunciado": "Síntese secreção e transporte dos hormônios tireoidianos Assinale o item CORRETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "rT3 é um metabólito desprovido de qualquer atividade biológica"
+    },
+    {
+     "letra": "B",
+     "texto": "r T3 é um inibidor da conversão periférica de T4 em T3"
+    },
+    {
+     "letra": "C",
+     "texto": "rT3 em sua ação de inibir a transformação de T4 em T3 é mais potente do que o propiltiouracil que é um fármaco utilizado no hipertireoidismo, em torno de cem vezes"
+    },
+    {
+     "letra": "D",
+     "texto": "A relação entre T3 e rt3 é o marcador mais útil para o hipotireoidismo tissular e como marcador do funcionamento celular diminuído"
+    },
+    {
+     "letra": "E",
+     "texto": "A deficiência de certos nutrientes, como ferro, selênio e zinco interferem na conversão de T4 em T3"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000029423",
+   "codigo": "4000029423",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tireoide - Fisiologia e avaliação diagnóstica",
+   "numero": 9,
+   "temas": [
+    "Avaliação f uncional e ultrassonográf ica da glândula tireoide"
+   ],
+   "enunciado": "A síndrome do doente eutireoideano é uma entidade por vezes observada em pacientes criticamente enfermos, durante jejum prolongado ou no curso de algumas doenças crônicas. O per l de hormônios tireoideanos é variável nessa síndrome, EXCETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "TSH, que estará invariavelmente suprimido."
+    },
+    {
+     "letra": "B",
+     "texto": "T4 livre, que estará invariavelmente reduzido."
+    },
+    {
+     "letra": "C",
+     "texto": "T3, que estará sempre aumentado."
+    },
+    {
+     "letra": "D",
+     "texto": "T4 total, que estará invariavelmente normal."
+    },
+    {
+     "letra": "E",
+     "texto": "T3 reverso, que estará sempre elevado."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000023824",
+   "codigo": "4000023824",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tireoide - Fisiologia e avaliação diagnóstica",
+   "numero": 10,
+   "temas": [
+    "Interpretação dos exames laboratoriais"
+   ],
+   "enunciado": "Nas situações de diagnóstico do hipotireoidismo e do hipertireoidismo primários, a dosagem sérica do TSH é o teste mais con ável. Porém, em determinadas situações, essa dosagem pode apresentar algumas limitações na avaliação da função tireoidiana. Dessa forma:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Níveis séricos diminuídos de hormônios tireoidianos são acompanhados de concentrações elevadas de TSH nos usuários de biotina em altas doses, sem correlacionar com doença clínica."
+    },
+    {
+     "letra": "B",
+     "texto": "Pacientes com hipotireoidismo sem adesão ao tratamento e que fazem uso adequado de levotiroxina semanas antes da coleta de sangue podem apresentar valores séricos baixos de TSH e altos de hormônios tireoidianos."
+    },
+    {
+     "letra": "C",
+     "texto": "Pacientes com disfunção tireoidiana crônica e grave podem apresentar o TSH ainda alterado, apesar da normalização dos níveis séricos dos hormônios tireoidianos."
+    },
+    {
+     "letra": "D",
+     "texto": "Medicações como dopamina e glicocorticoides têm ação estimuladora na secreção do TSH, podendo mimetizar o hipertireoidismo primário."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000127961",
+   "codigo": "4000127961",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tireoide - Fisiologia e avaliação diagnóstica",
+   "numero": 11,
+   "temas": [
+    "Ações biológicas dos hormônios tireoidianos"
+   ],
+   "enunciado": "A hipertensão arterial secundária à disfunção endócrina pode ser observada tanto no hiper quanto no hipofuncionamento da glândula:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Paratireoide."
+    },
+    {
+     "letra": "B",
+     "texto": "Suprarrenal."
+    },
+    {
+     "letra": "C",
+     "texto": "Tireoide."
+    },
+    {
+     "letra": "D",
+     "texto": "Hipófise."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000093094",
+   "codigo": "4000093094",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tireoide - Fisiologia e avaliação diagnóstica",
+   "numero": 12,
+   "temas": [
+    "A inf luência das medicações na homeostase tireoidiana"
+   ],
+   "enunciado": "Em consulta ginecológica de revisão, uma paciente de 35 anos relatou aumento de 5 kg após a última gestação há 5 anos, sem outras queixas. Vinha fazendo uso de anticoncepcional oral combinado. O exame físico foi normal. Não havia história de familiares com doenças tireoidianas. Os exames de função da tireoide revelaram TSH de 2,5 µUI/ml (valor de referência: 0,27-4,20 µUI/ml) e T4 total de 14,4 µg/dl (valor de referência: 4,6-12 µg/dl). Foi encaminhada ao endocrinologista, que solicitou dosagem de T4 livre, cujo resultado foi de 1,2 ng/dl (valor de referência 0,93-1,70 ng/dl). Qual o diagnóstico mais provável?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Síndrome de resistência aos hormônios tireoidianos."
+    },
+    {
+     "letra": "B",
+     "texto": "Tumor hipofisário produtor de TSH."
+    },
+    {
+     "letra": "C",
+     "texto": "Síndrome do eutireóideo doente."
+    },
+    {
+     "letra": "D",
+     "texto": "Doença de Graves."
+    },
+    {
+     "letra": "E",
+     "texto": "Aumento de TBG (Thyroxine-Binding Globulin) associado ao uso de estrógeno."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000084940",
+   "codigo": "4000084940",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tireoide - Fisiologia e avaliação diagnóstica",
+   "numero": 13,
+   "temas": [
+    "Introdução e semiologia",
+    "Manif estações clínicas de tireotoxicose"
+   ],
+   "enunciado": "Paciente de 45 anos refere há 3 meses disfagia de condução associado à tumefação em região cervical anterior. Ao exame a tireoide está tópica, com aumento difuso, de consistência endurecida, móvel à deglutição, com presença de sopro, sem nódulos palpáveis. Linfonodo palpável em região cervical anterior de 5 cm, endurecido, aderida planos profundos. A manobra de semiologia que poderia ser feita na suspeição de bócio mergulhante é conhecida como:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Phalen."
+    },
+    {
+     "letra": "B",
+     "texto": "Rovsing."
+    },
+    {
+     "letra": "C",
+     "texto": "Osler."
+    },
+    {
+     "letra": "D",
+     "texto": "Musset."
+    },
+    {
+     "letra": "E",
+     "texto": "Pemberton."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000064686",
+   "codigo": "4000064686",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tireoide - Fisiologia e avaliação diagnóstica",
+   "numero": 14,
+   "temas": [
+    "A inf luência das medicações na homeostase tireoidiana"
+   ],
+   "enunciado": "Uma mulher de 54 anos de idade, em síndrome pré-menopausa, faz uso de AAS diariamente, por conta própria. Não tem doença cardiovascular diagnosticada. Em exames periódicos para avaliação da função tireoidiana, veri cou-se TSH normal; T4 baixo e T4 livre normal. Considerando esse caso hipotético, assinale a alternativa que apresenta a correta interpretação do resultado dos exames.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipotireoidismo devido a menopausa."
+    },
+    {
+     "letra": "B",
+     "texto": "Hipotireoidismo porque o TSH tinha de se elevar em resposta ao T4 baixo."
+    },
+    {
+     "letra": "C",
+     "texto": "Eutireoidismo com alterações no T4 devido a menopausa."
+    },
+    {
+     "letra": "D",
+     "texto": "Eutireoidismo e possível erro de laboratório."
+    },
+    {
+     "letra": "E",
+     "texto": "Eutireoidismo com alterações nos valores de T4 devido ao salicilato em uso."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000041806",
+   "codigo": "4000041806",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tireoide - Fisiologia e avaliação diagnóstica",
+   "numero": 15,
+   "temas": [
+    "Diagnóstico e investigação adicional",
+    "A inf luência das medicações na homeostase tireoidiana"
+   ],
+   "enunciado": "Mulher de 55 anos, em terapia hormonal com estrogênio, consultou por apresentar bócio pequeno e difuso. A dosagem de T4 total revelou 8,5 mg/dL (valor de referência: 4,5 a 12 mg/dL); e a de TSH, 7,5 mU/L (valor de referência: 0,4 a 4 um/L). Neste momento, deve-se:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Iniciar o tratamento com levotiroxina."
+    },
+    {
+     "letra": "B",
+     "texto": "Realizar ultrassonografia para o diagnóstico."
+    },
+    {
+     "letra": "C",
+     "texto": "Interromper a terapia hormonal com estrogênio por ser a causa mais frequente da alteração apresentada."
+    },
+    {
+     "letra": "D",
+     "texto": "Repetir a dosagem de TSH e realizar a de T4 livre."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000046928",
+   "codigo": "4000046928",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tireoide - Fisiologia e avaliação diagnóstica",
+   "numero": 16,
+   "temas": [
+    "Etiologia",
+    "Avaliação f uncional e ultrassonográf ica da glândula tireoide"
+   ],
+   "enunciado": "Um paciente de vinte e cinco anos de idade procurou uma unidade básica de saúde para realização de uma primeira avaliação clínica periódica. Ele se apresentou sem queixas clínicas e, no exame físico, foi registrada altura de 1,70 m, peso de 110 kg e circunferência abdominal de 120 cm. O restante do exame físico não mostrou alterações. Considerando esse caso clínico, julgue o item a seguir. A realização do exame TSH nesse paciente deve ser solicitada para se investigar possível causa secundária do problema clínico descrito.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000031180",
+   "codigo": "4000031180",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tireoide - Fisiologia e avaliação diagnóstica",
+   "numero": 17,
+   "temas": [
+    "Avaliação f uncional e ultrassonográf ica da glândula tireoide"
+   ],
+   "enunciado": "A síndrome do enfermo eutireoidiano pode ser caracterizada por níveis de T3 total:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Elevados, com TSH suprimido."
+    },
+    {
+     "letra": "B",
+     "texto": "Elevados, com TSH elevado."
+    },
+    {
+     "letra": "C",
+     "texto": "Baixos, com TSH elevado."
+    },
+    {
+     "letra": "D",
+     "texto": "Baixos, com TSH abaixo do normal."
+    },
+    {
+     "letra": "E",
+     "texto": "Baixos, com TSH baixo."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000012310",
+   "codigo": "4000012310",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tireoide - Fisiologia e avaliação diagnóstica",
+   "numero": 18,
+   "temas": [
+    "Interpretação dos exames laboratoriais"
+   ],
+   "enunciado": "A interpretação de resultados laboratoriais de função tireoidiana em doentes criticamente enfermos apresenta di culdades. Em relação à síndrome do eutireoideo doente e de acordo com a Diretriz Brasileira de Hipotireoidismo - Projeto Diretrizes, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Medicações como corticoides e dopamina podem interferir no resultado de exames de função tireoidiana."
+    },
+    {
+     "letra": "B",
+     "texto": "Em razão da importância da ação tireoidiana em casos graves, a avaliação da função tireoidiana, nesses casos, deve ser feita de rotina por endocrinologistas."
+    },
+    {
+     "letra": "C",
+     "texto": "A concentração de T3 reverso costuma estar diminuída nesses pacientes, devendo se reposto profilaticamente."
+    },
+    {
+     "letra": "D",
+     "texto": "Quando feita a análise da função tireoidiana, ela deve ser realizada com o paciente em jejum de 48 horas para evitar fatores confundidores."
+    },
+    {
+     "letra": "E",
+     "texto": "Na ocasião em que é feita a análise da função tireoidiana, deve-se priorizar excepcionalmente a avaliação do T4 total."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000117166",
+   "codigo": "4000117166",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tireoide - Fisiologia e avaliação diagnóstica",
+   "numero": 19,
+   "temas": [
+    "Diagnóstico e investigação adicional",
+    "Interpretação dos exames laboratoriais"
+   ],
+   "enunciado": "O diagnóstico laboratorial de hipotireoidismo secundário deve ser suspeitado a partir de um quadro laboratorial que envolve:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "TSH diminuído e T4 livre aumentado."
+    },
+    {
+     "letra": "B",
+     "texto": "TSH diminuído, T3 e T4 livres diminuídos."
+    },
+    {
+     "letra": "C",
+     "texto": "TSH aumentado, anticorpo antitiroxidase tireoideana aumentado."
+    },
+    {
+     "letra": "D",
+     "texto": "TSH aumentado e TRAB (anticorpo anti-receptor de TSH) positivo."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000107488",
+   "codigo": "4000107488",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tireoide - Fisiologia e avaliação diagnóstica",
+   "numero": 20,
+   "temas": [
+    "Tireotoxicose gestacional transitória",
+    "Síntese secreção e transporte dos hormônios tireoidianos"
+   ],
+   "enunciado": "Alterações na f isiologia tireoidiana durante a gestação Primigesta, 23 anos, idade gestacional de doze semanas, sem doenças prévias, retorna para consulta de pré-natal, sem queixas clínicas e obstétricas. Refere irmã portadora de Doença de Graves. Exame físico sem alterações. Exames complementares: hormônio estimulador da tireoide (TSH) com valor de 0,04 UI/ml e Tiroxina (T4) livre de 1,05 ng/dl. Qual é a conduta mais adequada em relação ao caso apresentado?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Iniciar propiltiouracil e nova dosagem de TSH em seis semanas."
+    },
+    {
+     "letra": "B",
+     "texto": "Repetir dosagem do TSH no segundo trimestre de gestação."
+    },
+    {
+     "letra": "C",
+     "texto": "Encaminhar para seguimento de pré-natal de alto risco."
+    },
+    {
+     "letra": "D",
+     "texto": "Solicitar anticorpos antitireoperoxidase e antitireoglobulina."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000099581",
+   "codigo": "4000099581",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tireoide - Fisiologia e avaliação diagnóstica",
+   "numero": 21,
+   "temas": [
+    "A inf luência das medicações na homeostase tireoidiana"
+   ],
+   "enunciado": "Um paciente com níveis elevados de T4 livre e TSH dentro da normalidade é atendido. O resultado de T3 está em níveis reduzidos. Qual das medicações a seguir NÃO causa estes achados laboratoriais?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Amiodarona."
+    },
+    {
+     "letra": "B",
+     "texto": "Estrógenos."
+    },
+    {
+     "letra": "C",
+     "texto": "Glicocorticoides."
+    },
+    {
+     "letra": "D",
+     "texto": "Propranolol."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000075249",
+   "codigo": "4000075249",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tireoide - Fisiologia e avaliação diagnóstica",
+   "numero": 22,
+   "temas": [
+    "Avaliação f uncional e ultrassonográf ica da glândula tireoide"
+   ],
+   "enunciado": "Assinale a alternativa em que em todas as situações o hipotireoidismo deve ser rastreado:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Durante uso de drogas como: amiodarona, lítio, interferon alfa, inibidores da tirosina quinase e sorafenib"
+    },
+    {
+     "letra": "B",
+     "texto": "Síndrome de Down, Síndrome deTurner, Síndrome de Sjögren e Síndrome de Cushing"
+    },
+    {
+     "letra": "C",
+     "texto": "Hiperprolactinemia, dislipidemia, anemia e insuficiência hepática"
+    },
+    {
+     "letra": "D",
+     "texto": "Cirurgia tireoidiana prévia, tratamento com iodo radioativo, insuficiência cardíaca e insuficiência respiratória"
+    },
+    {
+     "letra": "E",
+     "texto": "Mulheres em idade fértil ou idosas acima de 60 anos, mulheres grávidas, homens acima dos 80 anos"
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000068744",
+   "codigo": "4000068744",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tireoide - Fisiologia e avaliação diagnóstica",
+   "numero": 23,
+   "temas": [
+    "A inf luência das medicações na homeostase tireoidiana",
+    "Etiologia"
+   ],
+   "enunciado": "Paciente de 52 anos, sexo feminino, portadora de transtorno bipolar tipo 1, é encaminhada ao serviço de endocrinologia para avaliação de hipotireoidismo primário. Qual dos medicamentos abaixo pode estar relacionado ao quadro dessa paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Carbamazepina."
+    },
+    {
+     "letra": "B",
+     "texto": "Divalproato de sódio."
+    },
+    {
+     "letra": "C",
+     "texto": "Fumarato de quetiapina."
+    },
+    {
+     "letra": "D",
+     "texto": "Paroxetina."
+    },
+    {
+     "letra": "E",
+     "texto": "Carbonato de lítio."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000066196",
+   "codigo": "4000066196",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tireoide - Fisiologia e avaliação diagnóstica",
+   "numero": 24,
+   "temas": [
+    "Avaliação f uncional e ultrassonográf ica da glândula tireoide"
+   ],
+   "enunciado": "As disfunções tireoidianas são comuns no atendimento ambulatorial, sendo o hipotireoidismo a mais comum em todas as faixas etárias. Sua prevalência na população geral é em torno de 2%, mas pode chegar até 15% em pacientes com mais de 60 anos. Quanto ao rastreamento da função tireoidiana, é correto afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Deve ser feito em todo paciente em uso de amiodarona, interferon-alfa e carbonato de lítio."
+    },
+    {
+     "letra": "B",
+     "texto": "Em todo paciente com suspeita de doença da tireoide deve ser solicitado uma ultrassonografia."
+    },
+    {
+     "letra": "C",
+     "texto": "O rastreamento está indicado somente em mulheres em qualquer idade e no início da gestação."
+    },
+    {
+     "letra": "D",
+     "texto": "Estudos de base populacional encorajam o rastreamento da população em geral com o TSH e T4livre."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000001522",
+   "codigo": "4000001522",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tireoide - Fisiologia e avaliação diagnóstica",
+   "numero": 25,
+   "temas": [
+    "A inf luência das medicações na homeostase tireoidiana",
+    "Interpretação dos exames laboratoriais"
+   ],
+   "enunciado": "Paciente veio encaminhada sem queixas, mas com os seguintes exames: T4 e T3 total elevados, T3 e T4 livre normais, antitireoglobulina e anti-TPO normais. Qual a sua impressão sobre a paciente e possível causa?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipertireoidismo/doença de Graves."
+    },
+    {
+     "letra": "B",
+     "texto": "Hipotireoidismo/tireoidite Hashimoto."
+    },
+    {
+     "letra": "C",
+     "texto": "Eutireoidismo/aumento da TBG."
+    },
+    {
+     "letra": "D",
+     "texto": "Hipertireoidismo/uso de medicamentos."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000068444",
+   "codigo": "4000068444",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tireoide - Fisiologia e avaliação diagnóstica",
+   "numero": 26,
+   "temas": [
+    "Diagnóstico e investigação adicional",
+    "Avaliação f uncional e ultrassonográf ica da glândula tireoide"
+   ],
+   "enunciado": "Mulher de 40 anos, apresenta achados sugestivos de hipotireoidismo inicial. O teste laboratorial mais sensível para confirmar o diagnóstico será:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Captação de T3."
+    },
+    {
+     "letra": "B",
+     "texto": "Captação de T4."
+    },
+    {
+     "letra": "C",
+     "texto": "Nível de TSH plasmático."
+    },
+    {
+     "letra": "D",
+     "texto": "Nível plasmático de T4 total."
+    },
+    {
+     "letra": "E",
+     "texto": "Nível plasmático de globulina ligado a tireoide."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000049582",
+   "codigo": "4000049582",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tireoide - Fisiologia e avaliação diagnóstica",
+   "numero": 27,
+   "temas": [
+    "Hipotireoidismo",
+    "Interpretação dos exames laboratoriais"
+   ],
+   "enunciado": "A respeito das disfunções tireoidianas, considere as seguintes afirmativas: 1. Dosagem de tireoglobulina é o teste de escolha na triagem de doença tireoidiana e seus valores dependem dos níveis de anticorpos antitireoglobulina. 2. Presença de T3 baixo, T4 baixo e TSH no limite inferior são resultados que confirmam o diagnóstico de hipotireoidismo em pacientes internados com doenças graves. 3. Um exame de TSH alterado é suficiente para se firmar o diagnóstico de hipotireoidismo. 4. O aumento da globulina ligadora da tiroxina leva a um aumento do nível de tiroxina sérica total, mantendo o TSH e tiroxina livre normais. Assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Somente a afirmativa 4 é verdadeira."
+    },
+    {
+     "letra": "B",
+     "texto": "Somente a afirmativa 2 é verdadeira."
+    },
+    {
+     "letra": "C",
+     "texto": "Somente as afirmativas 1, 3 e 4 são verdadeiras."
+    },
+    {
+     "letra": "D",
+     "texto": "Somente as afirmativas 1 e 3 são verdadeiras."
+    },
+    {
+     "letra": "E",
+     "texto": "Somente as afirmativas 2, 3 e 4 são verdadeiras."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000097974",
+   "codigo": "4000097974",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tireoide - Fisiologia e avaliação diagnóstica",
+   "numero": 28,
+   "temas": [
+    "Hipotireoidismo na gestação",
+    "Ações biológicas dos hormônios tireoidianos"
+   ],
+   "enunciado": "Síntese secreção e transporte dos hormônios tireoidianos Marque (V) para Verdadeiro ou (F) para Falso para as afirmativas abaixo sobre hipotireoidismo: ( ) Entre as manifestações clínicas encontradas estão miopatia, hipoglicemia e a hipertensão divergente. ( ) Na gestação o hipotireoidismo subclínico deve ser tratado. ( ) Iodo induzindo hipotireoidismo é denominado de fenômeno de Jod- Basedow. Identifique a sequência CORRETA, de cima para baixo:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "F – V – F."
+    },
+    {
+     "letra": "B",
+     "texto": "V – V – F."
+    },
+    {
+     "letra": "C",
+     "texto": "V – F – V."
+    },
+    {
+     "letra": "D",
+     "texto": "F – V – V."
+    },
+    {
+     "letra": "E",
+     "texto": "F – F – F."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000041713",
+   "codigo": "4000041713",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tireoide - Fisiologia e avaliação diagnóstica",
+   "numero": 29,
+   "temas": [
+    "Epidemiologia",
+    "Avaliação f uncional e ultrassonográf ica da glândula tireoide"
+   ],
+   "enunciado": "Qual das alternativas abaixo apresenta 3 fatores associados a risco aumentado de hipotireoidismo primário?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Sexo feminino, síndrome de Down e obesidade."
+    },
+    {
+     "letra": "B",
+     "texto": "Indivíduos com mais de 60 anos, história familiar de doença tireoidiana e uso de lítio."
+    },
+    {
+     "letra": "C",
+     "texto": "Uso de amiodarona, síndrome de Prader-Willi e doença das paratireoides."
+    },
+    {
+     "letra": "D",
+     "texto": "História de radioterapia para cabeça e pescoço, uso de interferon alfa e sexo masculino."
+    },
+    {
+     "letra": "E",
+     "texto": "Idade menor que 10 anos, bócio e doença nodular tireoidiana."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000121648",
+   "codigo": "4000121648",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tireoide - Fisiologia e avaliação diagnóstica",
+   "numero": 30,
+   "temas": [
+    "Diagnóstico e investigação adicional",
+    "Síntese secreção e transporte dos hormônios tireoidianos"
+   ],
+   "enunciado": "Tratamento Sobre o laboratório nas doenças tireoidianas, assinale a opção CORRETA:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Podem-se observar TSH normal e T4 livre baixo no hipotireoidismo central."
+    },
+    {
+     "letra": "B",
+     "texto": "Tiroglobulina é exame fundamental na investigação de hipotireoidismo de origem autoimune."
+    },
+    {
+     "letra": "C",
+     "texto": "T3 é o principal hormônio sintetizado na tireoide, embora T4 seja o hormônio de maior atividade nos tecidos."
+    },
+    {
+     "letra": "D",
+     "texto": "Cerca de 50% do hormônio tireoidiano circulante está ligado a proteínas plasmáticas."
+    },
+    {
+     "letra": "E",
+     "texto": "Após ajuste de dose do hormônio tireoidiano, pode-se reavaliar a adequação do tratamento em 15 dias."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000062767",
+   "codigo": "4000062767",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tireoide - Fisiologia e avaliação diagnóstica",
+   "numero": 31,
+   "temas": [
+    "Diagnóstico e investigação adicional",
+    "Interpretação dos exames laboratoriais"
+   ],
+   "enunciado": "Define-se \"hipotireoidismo subclínico\" como a situação clínica em que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o paciente apresente sintomas mínimos de hipotireoidismo."
+    },
+    {
+     "letra": "B",
+     "texto": "o paciente apresente bócio pequeno."
+    },
+    {
+     "letra": "C",
+     "texto": "o paciente apresente dosagem de TSH maior que 10 mUI/ml."
+    },
+    {
+     "letra": "D",
+     "texto": "o paciente seja assintomático e apresente níveis normais de hormônios tireoideanos, embora tenha níveis de TSH elevados."
+    },
+    {
+     "letra": "E",
+     "texto": "o paciente tome doses baixas de hormônio tireoideano."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000097519",
+   "codigo": "4000097519",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tireoide - Fisiologia e avaliação diagnóstica",
+   "numero": 32,
+   "temas": [
+    "Síntese secreção e transporte dos hormônios tireoidianos",
+    "Etiologia"
+   ],
+   "enunciado": "A primeira modificação relativa à glândula tireoide resultante da carência de iodo é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Atrofia progressiva e diminuição de volume da glândula tireoide."
+    },
+    {
+     "letra": "B",
+     "texto": "Aumento do peso da glândula."
+    },
+    {
+     "letra": "C",
+     "texto": "Hipersecreção de hormônio tireoideo."
+    },
+    {
+     "letra": "D",
+     "texto": "Decréscimo de secreção de hormônio tireotrófico."
+    },
+    {
+     "letra": "E",
+     "texto": "Formação de nódulos tireoidianos."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000067759",
+   "codigo": "4000067759",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tireoide - Fisiologia e avaliação diagnóstica",
+   "numero": 33,
+   "temas": [
+    "Ações biológicas dos hormônios tireoidianos"
+   ],
+   "enunciado": "Síntese secreção e transporte dos hormônios tireoidianos A glândula tireoide é considerada a maior glândula endócrina do organismo. É formada por folículos que envolvem um material coloide, que, por sua vez, é constituído de 75% de tireoglobulina. As células do epitélio tireoidiano são responsáveis pela síntese e armazenamento do hormônio dessa glândula. Baseando-se na siologia normal da tireoide, qual das questões abaixo está INCORRETA?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A levotiroxina é produzida apenas pela tireoide, sendo o principal produto secretório da glândula."
+    },
+    {
+     "letra": "B",
+     "texto": "A célula tireoidiana necessita de um cotransportador (essa proteína se denomina NIS) para a captação de iodeto para posterior síntese hormonal."
+    },
+    {
+     "letra": "C",
+     "texto": "O excesso de iodeto inibe a formação de hormônio tireoidiano em curto prazo, assim como a sua liberação."
+    },
+    {
+     "letra": "D",
+     "texto": "A maior parte de tri-iodotironina é produzida no tecido periférico por 5’desiodação extratireoidiana do T4."
+    },
+    {
+     "letra": "E",
+     "texto": "Os efeitos dos hormônios tireoidianos são mediados principalmente pela ligação do T4 a proteínas receptoras nucleares de hormônio tireoidiano."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000038461",
+   "codigo": "4000038461",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tireoide - Fisiologia e avaliação diagnóstica",
+   "numero": 34,
+   "temas": [
+    "Ações biológicas dos hormônios tireoidianos",
+    "Apresentação clínica"
+   ],
+   "enunciado": "Sabe-se que a Levotiroxina deve ser administrada a pacientes com hipotireoidismo e coronariopatia de maneira cautelosa. A reposição deve ser iniciada em pequenas doses que irão sendo aumentadas lentamente de acordo com a tolerância do paciente. São alterações cardiovasculares atribuídas ao hipotireoidismo, EXCETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Diminuição do débito cardíaco."
+    },
+    {
+     "letra": "B",
+     "texto": "Redução da contratilidade miocárdica."
+    },
+    {
+     "letra": "C",
+     "texto": "Derrame pericárdico."
+    },
+    {
+     "letra": "D",
+     "texto": "Diminuição da resistência vascular periférica."
+    },
+    {
+     "letra": "E",
+     "texto": "Hipertensão diastólica."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000031616",
+   "codigo": "4000031616",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tireoide - Fisiologia e avaliação diagnóstica",
+   "numero": 35,
+   "temas": [
+    "A inf luência das medicações na homeostase tireoidiana"
+   ],
+   "enunciado": "São consideradas como medicações capazes de influenciar a função tireoidiana na gravidez, exceto:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Propiltiouracil."
+    },
+    {
+     "letra": "B",
+     "texto": "Betabloqueador."
+    },
+    {
+     "letra": "C",
+     "texto": "Lítio."
+    },
+    {
+     "letra": "D",
+     "texto": "Amiodarona."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000010411",
+   "codigo": "4000010411",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tireoide - Fisiologia e avaliação diagnóstica",
+   "numero": 36,
+   "temas": [
+    "A inf luência das medicações na homeostase tireoidiana"
+   ],
+   "enunciado": "Mulher de 25 anos é encaminhada por apresentar níveis séricos elevados de T4 total e níveis normais de TSH. Assintomática. Qual dessas opções apresenta a explicação mais provável dessa alteração laboratorial?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Hipertireoidismo subclínico."
+    },
+    {
+     "letra": "B",
+     "texto": "Resistência hipofisária ao hormônio tireoideano."
+    },
+    {
+     "letra": "C",
+     "texto": "Resistência periférica ao hormônio tireoideano."
+    },
+    {
+     "letra": "D",
+     "texto": "Uso de anticoncepcional oral."
+    },
+    {
+     "letra": "E",
+     "texto": "Adenoma hipofisário produtor de TSH."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000016162",
+   "codigo": "4000016162",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tireoide - Fisiologia e avaliação diagnóstica",
+   "numero": 37,
+   "temas": [
+    "Diagnóstico e investigação adicional",
+    "Avaliação f uncional e ultrassonográf ica da glândula tireoide"
+   ],
+   "enunciado": "Interpretação dos exames laboratoriais Mulher de 30 anos, assintomática, realiza exames de screening para a empresa que trabalha, sendo encontrado um TSH elevado. Recomenda-se, nesse momento,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "observação por 2 meses."
+    },
+    {
+     "letra": "B",
+     "texto": "repetir o TSH em 2 semanas."
+    },
+    {
+     "letra": "C",
+     "texto": "repetir o TSH e fazer o T4 livre."
+    },
+    {
+     "letra": "D",
+     "texto": "repetir o TSH e fazer o T3."
+    },
+    {
+     "letra": "E",
+     "texto": "fazer o T3 e anti-TPO."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000044059",
+   "codigo": "4000044059",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tireoide - Fisiologia e avaliação diagnóstica",
+   "numero": 38,
+   "temas": [
+    "Ações biológicas dos hormônios tireoidianos",
+    "A inf luência das medicações na homeostase tireoidiana"
+   ],
+   "enunciado": "A conversão periférica do T4 a T3 não se encontra inibida em:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "jejum prolongado"
+    },
+    {
+     "letra": "B",
+     "texto": "obesidade."
+    },
+    {
+     "letra": "C",
+     "texto": "anorexia nervosa."
+    },
+    {
+     "letra": "D",
+     "texto": "período neo-natal."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000011392",
+   "codigo": "4000011392",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tireoide - Fisiologia e avaliação diagnóstica",
+   "numero": 39,
+   "temas": [
+    "A inf luência das medicações na homeostase tireoidiana",
+    "Tireotoxicose induzida pela amiodarona"
+   ],
+   "enunciado": "Síntese secreção e transporte dos hormônios tireoidianos O amiodarone é um agente antirrítmico tipo III muito utilizado. Sua estrutura está relacionada à estrutura dos hormônios tireoidianos e contém 39% de iodo. Assinale a alternativa incorreta: Respostas: 1 12 23 34",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o amiodarone pode causar hipotireoidismo em pacientes suscetíveis ao efeito inibitório do iodo."
+    },
+    {
+     "letra": "B",
+     "texto": "a suspensão do amiodarone rapidamente reverte a disfunção tiroidiana induzida pela droga."
+    },
+    {
+     "letra": "C",
+     "texto": "o amiodaroene pode causar queda nos níveis de T4 devido ao efeito Wolff-Chaikoff."
+    },
+    {
+     "letra": "D",
+     "texto": "o amiodarone pode causar tirotoxicose por um mecanismo similar ao da tireoidite."
+    },
+    {
+     "letra": "E",
+     "texto": "o amiodarone pode causar tirotoxicose em paciente com bócio multinodular."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": [
+  {
+   "id": "4000127658",
+   "codigo": "4000127658",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Tireoide - Fisiologia e avaliação diagnóstica",
+   "numero": 5,
+   "temas": [
+    "Introdução e semiologia",
+    "Síntese secreção e transporte dos hormônios tireoidianos"
+   ],
+   "enunciado": "O TSH é o principal regulador da função tireoidiana, a biossíntese e a liberação de T3 e T4 são controladas por mecanismos reguladores tipo feedback negativo que mantêm constante a síntese, o estoque e os níveis dos hormônios no sangue. A partir das informações dadas, faça um esquema do retrorregulação hormonal do eixo Hipófise- Hipotálamo-Tireoide.",
+   "alternativas": [],
+   "gabarito": null,
+   "imagens": [],
+   "revisar": [],
+   "motivo_exclusao": "sem alternativas"
+  }
+ ]
+}

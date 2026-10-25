@@ -5,6 +5,7 @@ import type {
   ApostilaProgress,
   LessonReview,
   QuestionLog,
+  QuestionAttempt,
 } from '../db/schema';
 
 export interface BackupData {
@@ -17,6 +18,8 @@ export interface BackupData {
     apostila?: ApostilaProgress[];
     reviews?: LessonReview[];
     questionLogs?: QuestionLog[];
+    /** Ausente em backups antigos: nesse caso a importação não apaga as tentativas atuais. */
+    questionAttempts?: QuestionAttempt[];
   };
 }
 
@@ -58,6 +61,7 @@ export function validateBackupJson(jsonString: string): ValidationResult {
     Array.isArray(dataBlock.reviews) ||
     Array.isArray(dataBlock.settings) ||
     Array.isArray(dataBlock.questionLogs) ||
+    Array.isArray(dataBlock.questionAttempts) ||
     Array.isArray(dataBlock.apostila) ||
     Array.isArray(dataBlock.volumeLinks);
 
@@ -78,6 +82,9 @@ export function validateBackupJson(jsonString: string): ValidationResult {
       apostila: Array.isArray(dataBlock.apostila) ? dataBlock.apostila : [],
       reviews: Array.isArray(dataBlock.reviews) ? dataBlock.reviews : [],
       questionLogs: Array.isArray(dataBlock.questionLogs) ? dataBlock.questionLogs : [],
+      ...(Array.isArray(dataBlock.questionAttempts)
+        ? { questionAttempts: dataBlock.questionAttempts }
+        : {}),
     },
   };
 

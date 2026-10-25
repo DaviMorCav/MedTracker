@@ -1,0 +1,1050 @@
+{
+ "questoes": [
+  {
+   "id": "4000186243",
+   "codigo": "4000186243",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bradiarritmias",
+   "numero": 1,
+   "temas": [
+    "Distúrbios da condução atrioventricular"
+   ],
+   "enunciado": "Paciente masculino, 60 anos, tem PA = 140x85 mmHg e pesa 98 kg. Relata que não está se sentindo bem, seu ECG não tem onda P, com FC = 44 bpm e os complexos QRS ocorrem regularmente. Qual o diagnóstico para essa condição?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Bloqueio atrioventricular de segundo grau."
+    },
+    {
+     "letra": "B",
+     "texto": "Bloqueio atrioventricular avançado."
+    },
+    {
+     "letra": "C",
+     "texto": "Bloqueio sinoatrial de segundo grau."
+    },
+    {
+     "letra": "D",
+     "texto": "Bloqueio sinoatrial de terceiro grau."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000184114",
+   "codigo": "4000184114",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bradiarritmias",
+   "numero": 2,
+   "temas": [
+    "Bradiarritmias",
+    "Bloqueios"
+   ],
+   "enunciado": "Homem, 50 anos, hipertenso, em uso de propranolol 120 mg/dia, procura a unidade de pronto atendimento por palpitação há uma semana. O exame clínico é normal, com frequência cardíaca de 56 bpm. O ECG realizado na unidade de saúde está mostrado a seguir. Qual o ritmo cardíaco mostrado no eletrocardiograma?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "BAV de segundo grau Mobitz I."
+    },
+    {
+     "letra": "B",
+     "texto": "Bradicardia sinusal."
+    },
+    {
+     "letra": "C",
+     "texto": "BAV de primeiro grau."
+    },
+    {
+     "letra": "D",
+     "texto": "BAV de segundo grau Mobitz II."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q002-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000169916",
+   "codigo": "4000169916",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bradiarritmias",
+   "numero": 3,
+   "temas": [
+    "Bradiarritmias"
+   ],
+   "enunciado": "Paciente de 68 anos apresenta quadro progressivo de dispneia. Hoje, apresentou quadro de tontura seguida de síncope. O traçado do ECG está a seguir: Nesse momento, com relação ao diagnóstico e à respectiva conduta, é correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "bradicardia sinusal, dopamina em infusão contínua."
+    },
+    {
+     "letra": "B",
+     "texto": "bloqueio atrioventricular de 1º grau, bolus de atropina."
+    },
+    {
+     "letra": "C",
+     "texto": "bloqueio atrioventricular de 2º grau Mobitz I, bolus de atropina."
+    },
+    {
+     "letra": "D",
+     "texto": "bloqueio atrioventricular de 2º grau Mobitz II, colocação de marca-passo externo."
+    },
+    {
+     "letra": "E",
+     "texto": "bloqueio atrioventricular, colocação de marca-passo externo."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q003-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000169763",
+   "codigo": "4000169763",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bradiarritmias",
+   "numero": 4,
+   "temas": [
+    "Distúrbios da condução atrioventricular"
+   ],
+   "enunciado": "Paciente em recuperação, na UTI, na Ia hora após revascularização miocárdica, em ventilação mecânica, com marcapasso temporário. Seu médico cardiologista resolve testar o grau de dependência do marca-passo epimiocárdico, que está em 70 bpm e com captura ventricular adequada. Ao ser desligado o gerador do marca-passo, o médico verifica, no monitor, que o gráfico do pulso venoso jugular passa a demonstrar uma onda a “em canhão”. Ao olhar para o monitor cardíaco, ele observa que o traçado eletrocardiográfico passou a demonstrar a presença de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Bradicardia sinusal."
+    },
+    {
+     "letra": "B",
+     "texto": "Flutter atrial."
+    },
+    {
+     "letra": "C",
+     "texto": "Bloqueio atrioventricular total."
+    },
+    {
+     "letra": "D",
+     "texto": "Bloqueio 1 grau."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000145992",
+   "codigo": "4000145992",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bradiarritmias",
+   "numero": 7,
+   "temas": [
+    "Bradiarritmias",
+    "Abordagem inicial das bradiarritmias"
+   ],
+   "enunciado": "Mulher, 63 anos de idade, admitida na sala de emergência com quadro de confusão mental e letargia há duas horas. Relatou também episódio de tontura ao se levantar da cama. Previamente independente para atividades básicas e instrumentais da vida diária. Com diagnóstico de hipertensão arterial sistêmica há 10 anos, infarto agudo do miocárdio há 3 anos. Faz uso de amlodipina 10mg por dia, AAS 100mg por dia e atorvastatina 40mg por dia. Ao exame clínico: abertura ocular ao chamado, resposta verbal confusa e obediência aos comandos. Frequência cardíaca: 38 batimentos/minuto; pressão arterial: 92 x 66 mmHg; frequência respiratória: 20 incursões/minuto; Saturação de O2: 96% em ar ambiente. Sem outras alterações. Foi obtido um eletrocardiograma de 12 derivações, reproduzido a seguir: Qual é a primeira conduta terapêutica que deve ser adotada neste momento?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Noradrenalina 0,1 mcg/kg/min por via intravenosa em infusão contínua."
+    },
+    {
+     "letra": "B",
+     "texto": "Dopamina 1 mcg/kg/min por via intravenosa em infusão contínua."
+    },
+    {
+     "letra": "C",
+     "texto": "Adrenalina 1mg administrada por via intravenosa em bolus."
+    },
+    {
+     "letra": "D",
+     "texto": "Atropina 1mg administrada por via intravenosa em bolus."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q007-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000145991",
+   "codigo": "4000145991",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bradiarritmias",
+   "numero": 8,
+   "temas": [
+    "Bradiarritmias",
+    "Eletrocardiograma"
+   ],
+   "enunciado": "Mulher, 63 anos de idade, admitida na sala de emergência com quadro de confusão mental e letargia há duas horas. Relatou também episódio de tontura ao se levantar da cama. Previamente independente para atividades básicas e instrumentais da vida diária. Com diagnóstico de hipertensão arterial sistêmica há 10 anos, infarto agudo do miocárdio há 3 anos. Faz uso de amlodipina 10mg por dia, AAS 100mg por dia e atorvastatina 40mg por dia. Ao exame clínico: abertura ocular ao chamado, resposta verbal confusa e obediência aos comandos. Frequência cardíaca: 38 batimentos/minuto; pressão arterial: 92 x 66 mmHg; frequência respiratória: 20 incursões/minuto; Saturação de O₂: 96% em ar ambiente. Sem outras alterações. Foi obtido um eletrocardiograma de 12 derivações, reproduzido a seguir: Quais são os diagnósticos eletrocardiográficos?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Bloqueio atrioventricular de 2° grau Mobitz tipo II, bloqueio de ramo direito e bloqueio da divisão ântero-superior."
+    },
+    {
+     "letra": "B",
+     "texto": "Bloqueio atrioventricular de 2° grau Mobitz tipo I, bloqueio de ramo esquerdo e área elétrica inativa de parede inferior."
+    },
+    {
+     "letra": "C",
+     "texto": "Bloqueio atrioventricular de 2° grau Mobitz tipo I, bloqueio de ramo direito e bloqueio da divisão ântero-superior."
+    },
+    {
+     "letra": "D",
+     "texto": "Bloqueio atrioventricular de 2° grau Mobitz tipo II, bloqueio de ramo esquerdo e área elétrica inativa de parede inferior."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q008-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000141972",
+   "codigo": "4000141972",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bradiarritmias",
+   "numero": 9,
+   "temas": [
+    "Bradiarritmias"
+   ],
+   "enunciado": "A indicação de marcapasso definitivo nos bloqueios atrioventriculares são todos abaixo,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "BAV do 2ºgrau do tipo 2 ou mobitz 2"
+    },
+    {
+     "letra": "B",
+     "texto": "BAV do 2º grau do tipo 2:1"
+    },
+    {
+     "letra": "C",
+     "texto": "BAV do 3ºgrau"
+    },
+    {
+     "letra": "D",
+     "texto": "BAV do 2º grau do Tipo 1 ou mobitz 1"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000141969",
+   "codigo": "4000141969",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bradiarritmias",
+   "numero": 10,
+   "temas": [
+    "Disf unção do nodo sinusal"
+   ],
+   "enunciado": "Assinale a alternativa que não faz parte da doença do nó sinusal:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Síndrome bradicardia-taquicardia"
+    },
+    {
+     "letra": "B",
+     "texto": "Pausa sinusal"
+    },
+    {
+     "letra": "C",
+     "texto": "Taquicardia por reentrada nodal"
+    },
+    {
+     "letra": "D",
+     "texto": "Bradicardia sinusal"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000140607",
+   "codigo": "4000140607",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bradiarritmias",
+   "numero": 12,
+   "temas": [
+    "Distúrbios da condução atrioventricular",
+    "Cardiologia"
+   ],
+   "enunciado": "Mulher de 58 anos de idade vem à unidade básica de saúde pois apresentou quadro de escurecimento visual durante prática de atividade física. Não houve perda da consciência. Não tem antecedentes mórbidos relevantes. No exame clínico, frequência cardíaca 58 bpm. O restante do exame clínico é normal. Realizou o eletrocardiograma apresentado a seguir. Qual é a conclusão do laudo do eletrocardiograma?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Eletrocardiograma normal."
+    },
+    {
+     "letra": "B",
+     "texto": "Fibrilação atrial de baixa resposta ventricular."
+    },
+    {
+     "letra": "C",
+     "texto": "Bloqueio atrioventricular de 2º grau, Mobitz I."
+    },
+    {
+     "letra": "D",
+     "texto": "Bradicardia sinusal."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q012-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000140420",
+   "codigo": "4000140420",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bradiarritmias",
+   "numero": 13,
+   "temas": [
+    "Bradiarritmias"
+   ],
+   "enunciado": "Paciente do sexo masculino, 69 anos, com antecedente de hipertensão arterial, diabetes mellitus tipo 2, doença do re uxo gastroesofágico, depressão e demência procurou o pronto-socorro com quadro de fraqueza e tontura há 1 hora. Estava em uso de enalapril, atenolol, metformina, AAS, pantoprazol e amitriptilina. Na ocasião, seus sinais vitais eram PA: 140 80 mmHg, FC: 42 bpm, FR: 16 ipm, SatO2: 98%, dextro: 150 mg/dL. Realizou o ECG abaixo. Diante do caso clínico e ECG, o diagnóstico e sua causa mais provável:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Bloqueio atrioventricular do 1o grau − Uso de pantoprazol."
+    },
+    {
+     "letra": "B",
+     "texto": "Bloqueio atrioventricular do 2o grau Mobitiz 1 − Uso de atenolol."
+    },
+    {
+     "letra": "C",
+     "texto": "Bloqueio atrioventricular do 3o grau − Uso de amitriptilina."
+    },
+    {
+     "letra": "D",
+     "texto": "Bloqueio atrioventricular do 2o grau Mobitiz 2 − Uso de metformina."
+    },
+    {
+     "letra": "E",
+     "texto": "Bloqueio atrioventricular do 3o grau − Uso de enalapril."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q013-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000114121",
+   "codigo": "4000114121",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bradiarritmias",
+   "numero": 14,
+   "temas": [
+    "Bradicardia estável"
+   ],
+   "enunciado": "O diagnóstico eletrocardiográfico e a melhor conduta a ser tomada seriam:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Bradicardia sinusal; adrenalina 1mg IV em bolus."
+    },
+    {
+     "letra": "B",
+     "texto": "Bloqueio atrioventricular de segundo grau tipo I; chamar especialista."
+    },
+    {
+     "letra": "C",
+     "texto": "Bloqueio atrioventricular total; marcapasso transcutâneo."
+    },
+    {
+     "letra": "D",
+     "texto": "Bloqueio atrioventricular total; Dobutamina IV."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q014-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000112863",
+   "codigo": "4000112863",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bradiarritmias",
+   "numero": 15,
+   "temas": [
+    "Classif icação",
+    "Abordagem inicial das bradiarritmias"
+   ],
+   "enunciado": "Paciente de 73 anos de idade refere quadro de tontura há 3 dias, sobretudo, ao levantar-se. O eletrocardiograma realizado é mostrado a seguir. Com esses dados, é correto afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "pode ser consequência do uso de medicamentos, por exemplo, betabloqueadores,verapamil ou amiodarona."
+    },
+    {
+     "letra": "B",
+     "texto": "pode ser secundário a distúrbio metabólico, por exemplo, hipercalemia, hipercalcemiaou hipernatremia."
+    },
+    {
+     "letra": "C",
+     "texto": "pode ser uma síncope reflexa (vasovagal), e o exame de escolha é o teste de inclinaçãoortostática (tilt table test)."
+    },
+    {
+     "letra": "D",
+     "texto": "se recomenda pedir exames laboratoriais, radiografia de tórax, Holter eecocardiograma, com retorno em 2 semanas."
+    },
+    {
+     "letra": "E",
+     "texto": "sugere o diagnóstico de hipotensão postural, sendo recomendado o aumento daingestão de sal e líquido."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [
+    {
+     "arquivo": "imagens/q015-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000103525",
+   "codigo": "4000103525",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bradiarritmias",
+   "numero": 16,
+   "temas": [
+    "Bradicardia estável"
+   ],
+   "enunciado": "Paciente de 54 anos apresenta quadro de tontura e repetidas síncopes há uma semana, aproximadamente. O traçado do monitor está abaixo. Neste momento, a conduta mais adequada é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Infusão contínua de epinefrina 10 mcg/minuto"
+    },
+    {
+     "letra": "B",
+     "texto": "Atropina 1mg"
+    },
+    {
+     "letra": "C",
+     "texto": "Colocação de marcapasso externo"
+    },
+    {
+     "letra": "D",
+     "texto": "Infusão continua de dopamina 10 mcg/kg/minuto"
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q016-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000042660",
+   "codigo": "4000042660",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bradiarritmias",
+   "numero": 17,
+   "temas": [
+    "Bloqueios"
+   ],
+   "enunciado": "Paciente feminina, 06 anos, será submetida à cirurgia eletiva e ao ser examinada notou-se ritmo cardíaco irregular, sem outros sinais ou sintomas. Feito ECG que demonstrou: Baseado na história e ECG, o diagnóstico provável é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Arritmia sinusal."
+    },
+    {
+     "letra": "B",
+     "texto": "Bloqueio AV de segundo grau."
+    },
+    {
+     "letra": "C",
+     "texto": "Bloqueio AV de primeiro grau."
+    },
+    {
+     "letra": "D",
+     "texto": "Escape juncional por provável distúrbio eletrolítico."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q017-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000014510",
+   "codigo": "4000014510",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bradiarritmias",
+   "numero": 18,
+   "temas": [
+    "Distúrbios da condução atrioventricular",
+    "Bloqueios"
+   ],
+   "enunciado": "Paciente de 84 anos, evoluindo com quadros de síndromes convulsivas tônicoclônicas de repetição, que se iniciam ao repouso, não acompanhadas de liberação es ncteriana. Procurou consultório do cardiologista, onde chegou deambulando normalmente e, no meio da consulta, apresentou uma síncope, seguida de crise convulsiva. Nesse momento, foi realizado eletrocardiograma abaixo, que confirmou o diagnóstico:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Bloqueio átrio-ventricular avançado alternante."
+    },
+    {
+     "letra": "B",
+     "texto": "Bloqueio átrio-ventricular do segundo grau."
+    },
+    {
+     "letra": "C",
+     "texto": "Bloqueio átrio-ventricular do tipo 2:1."
+    },
+    {
+     "letra": "D",
+     "texto": "Bloqueio átrio-ventricular do primeiro grau."
+    },
+    {
+     "letra": "E",
+     "texto": "Bloqueio átrio-ventricular total."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [
+    {
+     "arquivo": "imagens/q018-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000124581",
+   "codigo": "4000124581",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bradiarritmias",
+   "numero": 19,
+   "temas": [
+    "Antiarrítmicos",
+    "Bradicardia sinusal"
+   ],
+   "enunciado": "Qual das drogas abaixo não desencadeia bradicardia?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Atenolol"
+    },
+    {
+     "letra": "B",
+     "texto": "Digoxina"
+    },
+    {
+     "letra": "C",
+     "texto": "Amiodarona"
+    },
+    {
+     "letra": "D",
+     "texto": "Anlodipino"
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000109823",
+   "codigo": "4000109823",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bradiarritmias",
+   "numero": 20,
+   "temas": [
+    "Doença de Chagas",
+    "Distúrbios da condução atrioventricular",
+    "Abordagem inicial das bradiarritmias"
+   ],
+   "enunciado": "Emília, 48 anos, natural de Santarém/PA, tem queixas de palpitações há tempos, com piora nos últimos dois meses. Apresentou dois episódios de síncope nesse período e deu entrada no serviço de emergência com queixas de astenia, tontura, turvação visual, falta de ar, inchaço nas pernas e desconforto torácico. Observe o ECG abaixo e indique qual a possível causa dos sintomas e a melhor conduta inicial.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Insuficiência cardíaca congestiva descompensada. Digital, IECA, betabloqueador, espironolactona e furosemida."
+    },
+    {
+     "letra": "B",
+     "texto": "Síndrome coronariana aguda. Internação com dupla antiagregação, anticoagulação, estatina e cateterismo."
+    },
+    {
+     "letra": "C",
+     "texto": "Cardiopatia Chagásica com dissociação atrioventricular. Marcapasso."
+    },
+    {
+     "letra": "D",
+     "texto": "Taquicardia atrial com algumas extrassístoles atriais bloqueadas. Amiodarona."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q020-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000100827",
+   "codigo": "4000100827",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bradiarritmias",
+   "numero": 21,
+   "temas": [
+    "Bradiarritmias"
+   ],
+   "enunciado": "Paciente de 67 anos refere tontura, mal-estar e dispneia. Também ter tido no passado três IAM. A PA encontra-se em 90x50 mmHg. O traçado do monitor cardíaco está abaixo. O diagnóstico e a conduta a serem tomadas neste momento, são:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "BAV de segundo grau Mobitz 1 e administração de atropina 1 mg."
+    },
+    {
+     "letra": "B",
+     "texto": "BAV de primeiro grau e administração de atropina 1 mg."
+    },
+    {
+     "letra": "C",
+     "texto": "BAV de terceiro e colocação de marca-passo."
+    },
+    {
+     "letra": "D",
+     "texto": "BAV de segundo grau Mobitz 2 e colocação de marca-passo externo."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q021-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000027897",
+   "codigo": "4000027897",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bradiarritmias",
+   "numero": 22,
+   "temas": [
+    "Bradicardia instável"
+   ],
+   "enunciado": "Paciente de 62 anos, com quadro de síncope, confusão mental e dispnéia. Ao exame apresenta uma PA de 70x30mmHg e FC de 32 batimentos por minuto. A instabilidade é devida a arritmia. Considerando este cenário, são condutas adequadas a serem tomadas, EXCETO:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Solicitar Marcapasso Provisório Transcutâneo (MPTC)."
+    },
+    {
+     "letra": "B",
+     "texto": "Iniciar dopamina em bomba de infusão contínua."
+    },
+    {
+     "letra": "C",
+     "texto": "Iniciar adrenalina na dose de 6 microgramas por minuto."
+    },
+    {
+     "letra": "D",
+     "texto": "Iniciar amiodarona na dose de 0,5 miligrama por minuto."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000013996",
+   "codigo": "4000013996",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bradiarritmias",
+   "numero": 23,
+   "temas": [
+    "Alterações eletrocardiográf icas mais comuns"
+   ],
+   "enunciado": "Considerando o ritmo eletrocardiográfico apresentado na figura precedente - derivação: D2; velocidade do papel 25 mm/seg; calibração: 1cm = 1 mV - , julgue o seguinte item. A arritmia observada nessa tira de ritmo é a extrassístole supraventricular com pausa compensatória.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Certo."
+    },
+    {
+     "letra": "B",
+     "texto": "Errado."
+    }
+   ],
+   "gabarito": "B",
+   "imagens": [
+    {
+     "arquivo": "imagens/q023-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000116635",
+   "codigo": "4000116635",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bradiarritmias",
+   "numero": 24,
+   "temas": [
+    "Bradicardia instável"
+   ],
+   "enunciado": "Paciente masculino, de 82 anos, queixa-se de tontura e cansaço há 2 dias. Hoje, apresentou queda da própria altura ao se levantar. Antecedente pessoal: hipertensão arterial, em uso de metoprolol e hidroclorotiazida. Realizou o ECG a seguir: (Conforme imagem do caderno de questões) Nesse caso, a conduta CORRETA é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Realizar cateterismo cardíaco."
+    },
+    {
+     "letra": "B",
+     "texto": "Suspender hidroclorotiazida e repor potássio."
+    },
+    {
+     "letra": "C",
+     "texto": "Realizar estudo eletrofisiológico."
+    },
+    {
+     "letra": "D",
+     "texto": "Inserir marca-passo temporário."
+    },
+    {
+     "letra": "E",
+     "texto": "Realizar cintilografia eletiva."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q024-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000111203",
+   "codigo": "4000111203",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bradiarritmias",
+   "numero": 25,
+   "temas": [
+    "Indicações de marcapasso def initivo",
+    "Distúrbios da condução atrioventricular"
+   ],
+   "enunciado": "Paciente diabética (mas não hipertensa) refere ao geriatra que a acompanha que, há um ano, vem apresentando piora da astenia, desânimo intenso e, por 2 vezes, perdeu a consciência enquanto assistia à televisão. Durante a investigação, evidenciando o ritmo cardíaco da paciente, demonstrado no traçado abaixo (Conforme imagem do caderno de questão). Qual a conduta a ser tomada?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Realização de cardioversão elétrica."
+    },
+    {
+     "letra": "B",
+     "texto": "Início de medicação antirrítmica."
+    },
+    {
+     "letra": "C",
+     "texto": "Observação clínica com Holter a cada 6 meses."
+    },
+    {
+     "letra": "D",
+     "texto": "Implante de marcapasso definitivo."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q025-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000106076",
+   "codigo": "4000106076",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bradiarritmias",
+   "numero": 26,
+   "temas": [
+    "Bradiarritmias"
+   ],
+   "enunciado": "Você avalia uma paciente de 42 anos de idade com bradicardia na sala de emergência. Realizado o eletrocardiograma abaixo. Qual o diagnóstico eletrocardiográfico?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Bloqueio atrioventricular Mobitz I."
+    },
+    {
+     "letra": "B",
+     "texto": "Bloqueio atrioventricular Mobitz II."
+    },
+    {
+     "letra": "C",
+     "texto": "Bradicardia sinusal com escape."
+    },
+    {
+     "letra": "D",
+     "texto": "Bloqueio atrioventricular total."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [
+    {
+     "arquivo": "imagens/q026-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000105835",
+   "codigo": "4000105835",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bradiarritmias",
+   "numero": 27,
+   "temas": [
+    "Hipotermia",
+    "Bradicardia sinusal"
+   ],
+   "enunciado": "Mulher, 89 anos de idade, sofreu uma fratura de quadril e foi submetida à cirurgia para correção. Na recuperação pós- anestésica a paciente desenvolve bradicardia sinusal, com uma frequência cardíaca = 46 batimentos/minuto e temperatura corporal aferida de 35 graus centígrados. Pressão arterial é de 110 x 72 mmHg. Qual é o tratamento apropriado para a bradicardia desta paciente?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Atropina."
+    },
+    {
+     "letra": "B",
+     "texto": "Inserção de um marca-passo temporário."
+    },
+    {
+     "letra": "C",
+     "texto": "Aquecer a paciente."
+    },
+    {
+     "letra": "D",
+     "texto": "Adrenalina."
+    },
+    {
+     "letra": "E",
+     "texto": "Transfusão de 2 unidades de hemácias."
+    }
+   ],
+   "gabarito": "C",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000106699",
+   "codigo": "4000106699",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bradiarritmias",
+   "numero": 28,
+   "temas": [
+    "Bradiarritmias e bloqueios atrioventriculares"
+   ],
+   "enunciado": "Paciente masculino de 58 anos é admitido à sala de emergência com IAM de parede inferior associado ao bloqueio atrioventricular do 3° grau, com escape juncional. O intervalo de tempo entre o início da dor e a chegada ao hospital foi de 50 minutos. Assinale o mecanismo mais provável do bloqueio atrioventricular:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Isquemia da artéria do nódulo atrioventricular."
+    },
+    {
+     "letra": "B",
+     "texto": "Vagal."
+    },
+    {
+     "letra": "C",
+     "texto": "Doença de Lenègre."
+    },
+    {
+     "letra": "D",
+     "texto": "Doença de Lève."
+    },
+    {
+     "letra": "E",
+     "texto": "Hiperaldosteronismo secundário."
+    }
+   ],
+   "gabarito": "A",
+   "imagens": [],
+   "revisar": []
+  },
+  {
+   "id": "4000097578",
+   "codigo": "4000097578",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bradiarritmias",
+   "numero": 29,
+   "temas": [
+    "Bradiarritmias",
+    "Abordagem inicial das bradiarritmias"
+   ],
+   "enunciado": "Homem, 72 anos, queixa-se de tontura e cansaço há 2 dias. Hoje, apresentou queda da própria altura ao se levantar. Antecedente pessoal: hipertensão arterial em uso de metoprolol e hidroclorotiazida. Realizou ECG. (VER IMAGEM) A conduta é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Realizar cateterismo cardíaco."
+    },
+    {
+     "letra": "B",
+     "texto": "Suspender hidroclorotiazida e repor potássio."
+    },
+    {
+     "letra": "C",
+     "texto": "Realizar estudo eletrofisiológico."
+    },
+    {
+     "letra": "D",
+     "texto": "Inserir marca-passo temporário."
+    }
+   ],
+   "gabarito": "D",
+   "imagens": [
+    {
+     "arquivo": "imagens/q029-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": []
+  },
+  {
+   "id": "4000031190",
+   "codigo": "4000031190",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bradiarritmias",
+   "numero": 30,
+   "temas": [
+    "Distúrbios da condução atrioventricular"
+   ],
+   "enunciado": "Assinale a alternativa que caracteriza o bloqueio atrioventricular de 3º grau. Respostas: 1 12 23",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Aumento fixo do intervalo PR."
+    },
+    {
+     "letra": "B",
+     "texto": "Aumento progressivo do intervalo PR até interrupção do estímulo, com onda P sem preceder o complexo QRS."
+    },
+    {
+     "letra": "C",
+     "texto": "Ocorre interrupção da condução AV sem prévio alongamento do intervalo PR."
+    },
+    {
+     "letra": "D",
+     "texto": "Toda onda P é seguida de complexo QRS."
+    },
+    {
+     "letra": "E",
+     "texto": "Inexistência de relação entre atividade atrial e ventricular."
+    }
+   ],
+   "gabarito": "E",
+   "imagens": [],
+   "revisar": []
+  }
+ ],
+ "fora_do_modo_resolucao": [
+  {
+   "id": "4000165062",
+   "codigo": "4000165062",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bradiarritmias",
+   "numero": 5,
+   "temas": [
+    "Bradiarritmias"
+   ],
+   "enunciado": "Mulher, 52 de anos de idade, é atendida pelo SAMU após episódio de síncope, há cerca de uma hora e meia. O episódio foi precedido por mal estar e sensação de escurecimento da visão, seguido por abalos musculares presenciados pelos familiares. De antecedentes refere diabetes mellitus em tratamento irregular. Ao exame físico, apresenta-se afebril, com FC: 34bpm, PA: 86x52mmHg, SatO2: 94%, glicemia capilar de 210mg/dL. Ausculta cardíaca com bulhas rítmicas, bradicárdicas, em 2 tempos, sem sopros. Ausculta respiratória sem alterações. Realizado eletrocardiograma, com frequência cardíaca de 30bpm e ondas P dissociadas dos complexos QRS. Diante do quadro clínico, Indique o procedimento terapêutico específico de escolha que pode ser realizado pelo SAMU, nesse caso.",
+   "alternativas": [],
+   "gabarito": null,
+   "imagens": [],
+   "revisar": [],
+   "motivo_exclusao": "sem alternativas"
+  },
+  {
+   "id": "4000165061",
+   "codigo": "4000165061",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bradiarritmias",
+   "numero": 6,
+   "temas": [
+    "Bradiarritmias"
+   ],
+   "enunciado": "Mulher, 52 de anos de idade, é atendida pelo SAMU após episódio de síncope, há cerca de uma hora e meia. O episódio foi precedido por mal estar e sensação de escurecimento da visão, seguido por abalos musculares presenciados pelos familiares. De antecedentes refere diabetes mellitus em tratamento irregular. Ao exame físico, apresenta-se afebril, com FC: 34bpm, PA: 86x52mmHg, SatO2: 94%, glicemia capilar de 210mg/dL. Ausculta cardíaca com bulhas rítmicas, bradicárdicas, em 2 tempos, sem sopros. Ausculta respiratória sem alterações. Realizado eletrocardiograma, com frequência cardíaca de 30bpm e ondas P dissociadas dos complexos QRS. Diante do quadro clínico, Indique a droga de escolha para uso imediato nessa paciente.",
+   "alternativas": [],
+   "gabarito": null,
+   "imagens": [],
+   "revisar": [],
+   "motivo_exclusao": "sem alternativas"
+  },
+  {
+   "id": "4000141192",
+   "codigo": "4000141192",
+   "materia": "EstrategiaMED-Banco de Questoes por MATÉRIA",
+   "tema_arquivo": "Bradiarritmias",
+   "numero": 11,
+   "temas": [
+    "Bradiarritmias",
+    "Eletrocardiograma"
+   ],
+   "enunciado": "Homem, 60a, procura atendimento médico com queixa de dor torácica e tontura. ECG: O DIAGNÓSTICO ELETROCARDIOGRÁFICO É:",
+   "alternativas": [],
+   "gabarito": null,
+   "imagens": [
+    {
+     "arquivo": "imagens/q011-1.jpg",
+     "antes_das_alternativas": true
+    }
+   ],
+   "revisar": [],
+   "motivo_exclusao": "sem alternativas"
+  }
+ ]
+}

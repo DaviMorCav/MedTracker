@@ -5,12 +5,16 @@ import type {
   LessonReview,
   QuestionLog,
   LessonStatus,
+  VolumeMedia,
 } from '../../db/schema';
+import { db } from '../../db';
+import { useLiveQuery } from '../../db/useLiveQuery';
 import { ApostilaGrid } from './ApostilaGrid';
 import { calculateAccuracy, isReviewOverdue } from '../../core/content';
 import { formatDateBr } from '../../core/dates';
-import { saveVolumeQuestionsUrl, completeLesson, uncompleteLesson } from '../../db/operations';
+import { completeLesson, uncompleteLesson } from '../../db/operations';
 import { ConfirmModal } from '../../components/ConfirmModal';
+import { DriveViewerModal } from '../../components/DriveViewerModal';
 
 interface VolumeAccordionProps {
   volume: VolumeWithSubject;
@@ -22,9 +26,7 @@ interface VolumeAccordionProps {
   apostilaMarkedPages: Set<number>;
   statusFilter: 'todos' | LessonStatus;
   kindFilter: 'todos' | LessonKind;
-  searchQuery: string;
   today: string;
-  volumeLink?: string;
   onSelectLesson: (lessonId: string) => void;
   onOpenQuestionsModal?: (lessonId: string) => void;
   onToggleApostilaPage: (volumeId: string, page: number) => void;
@@ -41,29 +43,31 @@ export const VolumeAccordion: React.FC<VolumeAccordionProps> = ({
   apostilaMarkedPages,
   statusFilter,
   kindFilter,
-  searchQuery,
   today,
-  volumeLink = '',
   onSelectLesson,
   onOpenQuestionsModal,
   onToggleApostilaPage,
   onSetAllApostila,
 }) => {
-  const [showVolumeLinkModal, setShowVolumeLinkModal] = useState(false);
-  const [editingVolumeLink, setEditingVolumeLink] = useState(volumeLink);
   const [confirmUncompleteLessonId, setConfirmUncompleteLessonId] = useState<string | null>(null);
+  const [showPdfViewer, setShowPdfViewer] = useState(false);
+
+  // Mídia do volume (Google Drive PDF)
+  const volumeMedia = useLiveQuery<VolumeMedia | undefined>(
+    () => db.volumeMedia.get(volume.id),
+    [volume.id],
+    undefined
+  );
 
   const aulas = volume.lessons.filter((l) => l.kind === 'aula');
   const bonus = volume.lessons.filter((l) => l.kind === 'bonus');
 
-  // Filter lessons based on status, kind and search query
+  // Filter lessons based on status and kind
   const matchesLesson = (lesson: { id: string; title: string; kind: LessonKind }) => {
     const status = progressMap.get(lesson.id)?.status || 'nao_vista';
     const matchesStatus = statusFilter === 'todos' || status === statusFilter;
     const matchesKind = kindFilter === 'todos' || lesson.kind === kindFilter;
-    const matchesQuery =
-      !searchQuery || lesson.title.toLowerCase().includes(searchQuery.toLowerCase());
-    return matchesStatus && matchesKind && matchesQuery;
+    return matchesStatus && matchesKind;
   };
 
   const filteredAulas = aulas.filter(matchesLesson);
@@ -87,11 +91,6 @@ export const VolumeAccordion: React.FC<VolumeAccordionProps> = ({
     return r && !r.mastered && isReviewOverdue(r.dueDate, today);
   }).length;
 
-  const handleSaveVolumeLink = async () => {
-    await saveVolumeQuestionsUrl(volume.id, editingVolumeLink);
-    setShowVolumeLinkModal(false);
-  };
-
   const handleToggleLessonCompletion = async (
     lessonId: string,
     currentStatus: LessonStatus
@@ -114,7 +113,7 @@ export const VolumeAccordion: React.FC<VolumeAccordionProps> = ({
   };
 
   return (
-    <div className="bg-slate-900 border border-slate-800 rounded-lg overflow-hidden transition-all shadow-sm">
+    <div className="bg-slate-900 border border-slate-800 rounded-xl overflow-hidden transition-all shadow-sm">
       {/* Header do Acordeão */}
       <button
         type="button"
@@ -172,73 +171,23 @@ export const VolumeAccordion: React.FC<VolumeAccordionProps> = ({
 
       {/* Conteúdo Expansível do Volume */}
       {isOpen && (
-        <div className="p-4 pt-1 border-t border-slate-800/80 bg-slate-950/40 space-y-4">
-          {/* Barra de utilitários do volume: PDF e Link de Questões */}
-          <div className="flex items-center justify-between text-xs py-2 border-b border-slate-800/60 flex-wrap gap-2">
-            <div className="flex items-center gap-1.5 text-slate-400 truncate max-w-xs">
-              <svg className="w-4 h-4 text-rose-400 shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M7 21h10a2 2 0 002-2V9.414a1 1 0 00-.293-.707l-5.414-5.414A1 1 0 0012.586 3H7a2 2 0 00-2 2v14a2 2 0 002 2z" />
-              </svg>
-              <span className="truncate" title={volume.pdf}>
-                {volume.pdf}
-              </span>
-            </div>
-
+        <div className="p-4 pt-2 border-t border-slate-800/80 bg-slate-950/40 space-y-4">
+          {/* Botão Clean 'Abrir apostila' acima das aulas - Item 2 */}
+          <div className="flex items-center justify-between py-1 border-b border-slate-800/60">
             <button
               type="button"
-              onClick={() => {
-                setEditingVolumeLink(volumeLink);
-                setShowVolumeLinkModal(true);
-              }}
-              className="text-indigo-400 hover:text-indigo-300 font-medium flex items-center gap-1 text-[11px]"
+              onClick={() => setShowPdfViewer(true)}
+              className="inline-flex items-center gap-2 py-1.5 px-3 rounded-lg bg-slate-800/80 hover:bg-slate-700 text-slate-200 text-xs font-semibold transition-all border border-slate-700/60 shadow-sm active:scale-95"
             >
-              <svg className="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1" />
+              <svg className="w-4 h-4 text-indigo-400 shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
               </svg>
-              <span>{volumeLink ? 'Link do volume configurado' : 'Configurar link do volume'}</span>
+              <span>Abrir apostila</span>
             </button>
+            <span className="text-[11px] text-slate-500 truncate max-w-xs">
+              {volumeMedia?.pdfName || volume.pdf}
+            </span>
           </div>
-
-          {/* Modal / Editor de Link de Questões do Volume */}
-          {showVolumeLinkModal && (
-            <div className="bg-slate-900 p-3 rounded-lg border border-indigo-900/60 space-y-2">
-              <div className="flex items-center justify-between">
-                <label className="text-xs font-semibold text-slate-300">
-                  Link de questões padrão para este volume:
-                </label>
-                <button
-                  type="button"
-                  onClick={() => setShowVolumeLinkModal(false)}
-                  className="text-xs text-slate-400 hover:text-slate-200"
-                >
-                  ✕
-                </button>
-              </div>
-              <input
-                type="url"
-                value={editingVolumeLink}
-                onChange={(e) => setEditingVolumeLink(e.target.value)}
-                placeholder="https://suaplataforma.com/questoes/volume-..."
-                className="w-full bg-slate-950 border border-slate-700 rounded px-2.5 py-1.5 text-xs text-slate-100 placeholder-slate-500 focus:outline-none focus:ring-1 focus:ring-indigo-500"
-              />
-              <div className="flex justify-end gap-2">
-                <button
-                  type="button"
-                  onClick={() => setShowVolumeLinkModal(false)}
-                  className="px-2.5 py-1 rounded text-xs text-slate-400 hover:text-slate-200"
-                >
-                  Cancelar
-                </button>
-                <button
-                  type="button"
-                  onClick={handleSaveVolumeLink}
-                  className="px-3 py-1 bg-indigo-600 hover:bg-indigo-500 text-white rounded text-xs font-medium"
-                >
-                  Salvar
-                </button>
-              </div>
-            </div>
-          )}
 
           {/* Seção 1: AULAS */}
           {(kindFilter === 'todos' || kindFilter === 'aula') && (
@@ -248,7 +197,7 @@ export const VolumeAccordion: React.FC<VolumeAccordionProps> = ({
               </div>
 
               {filteredAulas.length > 0 ? (
-                <div className="divide-y divide-slate-800/60 rounded-lg overflow-hidden border border-slate-800/80 bg-slate-900/70">
+                <div className="divide-y divide-slate-800/60 rounded-xl overflow-hidden border border-slate-800/80 bg-slate-900/70">
                   {filteredAulas.map((aula) => {
                     const prog = progressMap.get(aula.id);
                     const rev = reviewsMap.get(aula.id);
@@ -355,7 +304,7 @@ export const VolumeAccordion: React.FC<VolumeAccordionProps> = ({
               </div>
 
               {filteredBonus.length > 0 ? (
-                <div className="divide-y divide-slate-800/60 rounded-lg overflow-hidden border border-slate-800/80 bg-slate-900/70">
+                <div className="divide-y divide-slate-800/60 rounded-xl overflow-hidden border border-slate-800/80 bg-slate-900/70">
                   {filteredBonus.map((b) => {
                     const prog = progressMap.get(b.id);
                     const rev = reviewsMap.get(b.id);
@@ -457,12 +406,14 @@ export const VolumeAccordion: React.FC<VolumeAccordionProps> = ({
             </div>
           )}
 
-          {/* Seção 3: APOSTILA */}
+          {/* Seção 3: APOSTILA - Grade de números clicáveis (Item 3) */}
           {volume.apostila.length > 0 && (
             <ApostilaGrid
               volumeId={volume.id}
               apostilaNumbers={volume.apostila}
               markedPages={apostilaMarkedPages}
+              drivePdfId={volumeMedia?.drivePdfId}
+              onOpenPdf={() => setShowPdfViewer(true)}
               onTogglePage={onToggleApostilaPage}
               onSetAll={onSetAllApostila}
             />
@@ -481,6 +432,19 @@ export const VolumeAccordion: React.FC<VolumeAccordionProps> = ({
         onConfirm={handleConfirmUncomplete}
         onCancel={() => setConfirmUncompleteLessonId(null)}
       />
+
+      {/* Visualizador de PDF da Apostila via Google Drive */}
+      {showPdfViewer && (
+        <DriveViewerModal
+          isOpen={true}
+          onClose={() => setShowPdfViewer(false)}
+          title={volume.name}
+          subtitle="Apostila em PDF"
+          drivePdfId={volumeMedia?.drivePdfId}
+          pdfName={volumeMedia?.pdfName || volume.pdf}
+          initialTab="pdf"
+        />
+      )}
     </div>
   );
 };

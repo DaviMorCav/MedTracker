@@ -1,9 +1,12 @@
 import React from 'react';
+import { motion } from 'framer-motion';
 
 interface ApostilaGridProps {
   volumeId: string;
   apostilaNumbers: number[];
   markedPages: Set<number>;
+  drivePdfId?: string;
+  onOpenPdf?: () => void;
   onTogglePage: (volumeId: string, page: number) => void;
   onSetAll: (volumeId: string, pages: number[], completed: boolean) => void;
 }
@@ -12,6 +15,8 @@ export const ApostilaGrid: React.FC<ApostilaGridProps> = ({
   volumeId,
   apostilaNumbers,
   markedPages,
+  drivePdfId,
+  onOpenPdf,
   onTogglePage,
   onSetAll,
 }) => {
@@ -28,9 +33,22 @@ export const ApostilaGrid: React.FC<ApostilaGridProps> = ({
   const percentage = totalCount > 0 ? Math.round((completedCount / totalCount) * 100) : 0;
   const allCompleted = completedCount === totalCount;
 
+  const handleNumberClick = (page: number) => {
+    // Abre a apostila no Drive
+    if (onOpenPdf) {
+      onOpenPdf();
+    } else if (drivePdfId) {
+      window.open(`https://drive.google.com/file/d/${drivePdfId}/view`, '_blank');
+    }
+    // Marca como lido se ainda não estiver
+    if (!markedPages.has(page)) {
+      onTogglePage(volumeId, page);
+    }
+  };
+
   return (
-    <div className="bg-slate-900/60 rounded-lg p-3 border border-slate-800/80 my-2">
-      <div className="flex items-center justify-between mb-2.5">
+    <div className="bg-slate-900/60 rounded-xl p-3.5 border border-slate-800/80 my-2 space-y-3">
+      <div className="flex items-center justify-between">
         <div className="flex items-center gap-2">
           <span className="text-xs font-semibold uppercase tracking-wider text-slate-400">
             Apostila
@@ -50,31 +68,38 @@ export const ApostilaGrid: React.FC<ApostilaGridProps> = ({
       </div>
 
       {/* Barra de progresso da apostila */}
-      <div className="w-full bg-slate-800 h-1.5 rounded-full overflow-hidden mb-3">
+      <div className="w-full bg-slate-800 h-1.5 rounded-full overflow-hidden">
         <div
           className="bg-emerald-500 h-full rounded-full transition-all duration-300"
           style={{ width: `${percentage}%` }}
         />
       </div>
 
-      {/* Grade de números */}
+      {/* Grade de números clicáveis para abrir o Drive */}
       <div className="grid grid-cols-6 sm:grid-cols-8 md:grid-cols-10 gap-1.5">
         {apostilaNumbers.map((page) => {
           const isDone = markedPages.has(page);
           return (
-            <button
+            <motion.button
               key={page}
               type="button"
-              onClick={() => onTogglePage(volumeId, page)}
-              className={`h-9 rounded-lg font-medium text-xs flex items-center justify-center transition-all select-none active:scale-95 ${
+              whileTap={{ scale: 0.93 }}
+              onClick={() => handleNumberClick(page)}
+              className={`relative h-9 rounded-lg font-medium text-xs flex items-center justify-center transition-all select-none group shadow-sm ${
                 isDone
-                  ? 'bg-emerald-600 text-white shadow-sm shadow-emerald-900/50 font-semibold'
-                  : 'bg-slate-800/90 text-slate-300 border border-slate-700/60 hover:bg-slate-750 hover:text-slate-50'
+                  ? 'bg-emerald-600 text-white font-semibold shadow-emerald-950/30'
+                  : 'bg-slate-800/90 text-slate-300 border border-slate-700/60 hover:bg-slate-750 hover:text-slate-50 hover:border-indigo-500/50'
               }`}
-              title={`Item ${page}: ${isDone ? 'Concluído' : 'Não lido'}`}
+              title={`Apostila ${page}: ${isDone ? 'Concluída' : 'Não lida'} • Clique para abrir no Drive`}
             >
-              {page}
-            </button>
+              <span>{page}</span>
+              {/* Indicador sutil de link para Drive */}
+              <span className="absolute top-1 right-1 opacity-0 group-hover:opacity-100 transition-opacity">
+                <svg className="w-2.5 h-2.5 text-indigo-300" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+                </svg>
+              </span>
+            </motion.button>
           );
         })}
       </div>

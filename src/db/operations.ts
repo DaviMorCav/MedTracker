@@ -83,6 +83,7 @@ export async function setLessonStatus(
     status,
     completedOn:
       status === 'concluida' ? current.completedOn || today : undefined,
+    updatedAt: Date.now(),
   };
 
   await db.progress.put(updated);
@@ -100,6 +101,7 @@ export async function saveLessonNotes(
   await db.progress.put({
     ...current,
     notes,
+    updatedAt: Date.now(),
   });
 }
 
@@ -115,6 +117,7 @@ export async function saveLessonQuestionsUrl(
   await db.progress.put({
     ...current,
     questionsUrl: questionsUrl.trim() || undefined,
+    updatedAt: Date.now(),
   });
 }
 
@@ -146,6 +149,7 @@ export async function toggleApostilaPage(
     page,
     completed: newCompleted,
     completedAt: newCompleted ? today : undefined,
+    updatedAt: Date.now(),
   });
 
   return newCompleted;
@@ -157,11 +161,13 @@ export async function setAllApostilaPages(
   completed: boolean,
   today: string
 ): Promise<void> {
+  const now = Date.now();
   const items: ApostilaProgress[] = pages.map((page) => ({
     volumeId,
     page,
     completed,
     completedAt: completed ? today : undefined,
+    updatedAt: now,
   }));
   await db.apostila.bulkPut(items);
 }
@@ -170,6 +176,7 @@ export async function setLessonMastered(
   lessonId: string,
   mastered: boolean
 ): Promise<void> {
+  const now = Date.now();
   const currentProgress = (await db.progress.get(lessonId)) || {
     lessonId,
     status: 'nao_vista',
@@ -177,6 +184,7 @@ export async function setLessonMastered(
   await db.progress.put({
     ...currentProgress,
     mastered,
+    updatedAt: now,
   });
 
   const currentReview = await db.reviews.get(lessonId);
@@ -184,6 +192,7 @@ export async function setLessonMastered(
     await db.reviews.put({
       ...currentReview,
       mastered,
+      updatedAt: now,
     });
   }
 }
@@ -197,6 +206,7 @@ export async function completeLesson(
   lessonId: string,
   today: string
 ): Promise<{ reviewCreated: boolean; review: LessonReview }> {
+  const now = Date.now();
   const current = (await db.progress.get(lessonId)) || {
     lessonId,
     status: 'nao_vista',
@@ -206,6 +216,7 @@ export async function completeLesson(
     ...current,
     status: 'concluida',
     completedOn: current.completedOn || today,
+    updatedAt: now,
   };
   await db.progress.put(updatedProgress);
 
@@ -214,6 +225,7 @@ export async function completeLesson(
 
   if (!review) {
     review = createInitialReview(lessonId, today);
+    review.updatedAt = now;
     await db.reviews.put(review);
     reviewCreated = true;
   }
@@ -239,6 +251,7 @@ export async function uncompleteLesson(
     ...current,
     status: newStatus,
     completedOn: undefined,
+    updatedAt: Date.now(),
   });
 
   await db.reviews.delete(lessonId);

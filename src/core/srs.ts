@@ -22,6 +22,7 @@ export function createInitialReview(lessonId: string, today: string): LessonRevi
     dueDate: addDays(today, 1),
     mastered: false,
     history: [],
+    updatedAt: Date.now(),
   };
 }
 
@@ -66,6 +67,7 @@ export function evaluateReview(
     ...review,
     step: newStep,
     dueDate: nextDueDate,
+    updatedAt: Date.now(),
     history: [
       ...(review.history || []),
       {
@@ -119,6 +121,7 @@ export function spreadOverdueReviews(
       result.push({
         ...review,
         dueDate: dayDueDate,
+        updatedAt: Date.now(),
       });
     }
   }

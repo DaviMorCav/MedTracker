@@ -6,12 +6,15 @@ import { ConteudoPage } from './pages/Conteudo';
 import { RevisoesPage } from './pages/Revisoes';
 import { QuestoesPage } from './pages/Questoes';
 import { MaisPage } from './pages/Mais';
-import { AuthGate } from './components/AuthGate';
 import { db, importDriveMedia } from './db';
 
 export const App: React.FC = () => {
-  // Carga inicial automática dos links do Google Drive se ainda não estiverem no banco local
+  // Garante persistência permanente do IndexedDB no navegador e carrega mídias
   useEffect(() => {
+    if (typeof navigator !== 'undefined' && navigator.storage?.persist) {
+      navigator.storage.persist().catch(() => {});
+    }
+
     async function seedDriveMediaIfEmpty() {
       try {
         const count = await db.lessonMedia.count();
@@ -30,19 +33,17 @@ export const App: React.FC = () => {
   }, []);
 
   return (
-    <AuthGate>
-      <BrowserRouter>
-        <Routes>
-          <Route element={<Layout />}>
-            <Route path="/" element={<HojePage />} />
-            <Route path="/conteudo" element={<ConteudoPage />} />
-            <Route path="/revisoes" element={<RevisoesPage />} />
-            <Route path="/questoes" element={<QuestoesPage />} />
-            <Route path="/mais" element={<MaisPage />} />
-          </Route>
-        </Routes>
-      </BrowserRouter>
-    </AuthGate>
+    <BrowserRouter>
+      <Routes>
+        <Route element={<Layout />}>
+          <Route path="/" element={<HojePage />} />
+          <Route path="/conteudo" element={<ConteudoPage />} />
+          <Route path="/revisoes" element={<RevisoesPage />} />
+          <Route path="/questoes" element={<QuestoesPage />} />
+          <Route path="/mais" element={<MaisPage />} />
+        </Route>
+      </Routes>
+    </BrowserRouter>
   );
 };
 

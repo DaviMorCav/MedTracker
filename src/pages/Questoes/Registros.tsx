@@ -11,29 +11,16 @@ import { formatDateBr, getLocalDateString } from '../../core/dates';
 import {
   addQuestionLog,
   deleteQuestionLog,
-  DEFAULT_SETTINGS,
 } from '../../db/operations';
 import { PostLessonQuestionsModal } from '../../components/PostLessonQuestionsModal';
 import { ConfirmModal } from '../../components/ConfirmModal';
 import type {
   QuestionLog,
   LessonProgress,
-  VolumeLink,
-  UserSettings,
 } from '../../db/schema';
 
 export const RegistrosQuestoes: React.FC = () => {
   const today = useMemo(() => getLocalDateString(), []);
-
-  // Live queries
-  const settings = useLiveQuery<UserSettings>(
-    async () => {
-      const s = await db.settings.get('default');
-      return s || DEFAULT_SETTINGS;
-    },
-    [],
-    DEFAULT_SETTINGS
-  );
 
   const questionLogs = useLiveQuery<QuestionLog[]>(
     () => db.questionLogs.toArray(),
@@ -47,12 +34,6 @@ export const RegistrosQuestoes: React.FC = () => {
     []
   );
 
-  const volumeLinksList = useLiveQuery<VolumeLink[]>(
-    () => db.volumeLinks.toArray(),
-    [],
-    []
-  );
-
   // States
   const [selectedSubjectFilter, setSelectedSubjectFilter] = useState<string>('todos');
   const [activeQuestionsLessonId, setActiveQuestionsLessonId] = useState<string | null>(null);
@@ -60,22 +41,6 @@ export const RegistrosQuestoes: React.FC = () => {
   const [showPendingSection, setShowPendingSection] = useState(true);
 
   // Maps
-  const progressMap = useMemo(() => {
-    const map = new Map<string, LessonProgress>();
-    for (const p of progressList) {
-      map.set(p.lessonId, p);
-    }
-    return map;
-  }, [progressList]);
-
-  const volumeLinksMap = useMemo(() => {
-    const map = new Map<string, VolumeLink>();
-    for (const vl of volumeLinksList) {
-      map.set(vl.volumeId, vl);
-    }
-    return map;
-  }, [volumeLinksList]);
-
   const lessonSubjectMap = useMemo(() => {
     const map = new Map<string, string>();
     for (const l of allLessons) {
@@ -436,12 +401,7 @@ export const RegistrosQuestoes: React.FC = () => {
         return (
           <PostLessonQuestionsModal
             isOpen={true}
-            lesson={{
-              ...lesson,
-              lessonUrl: progressMap.get(lesson.id)?.questionsUrl,
-              volumeUrl: volumeLinksMap.get(lesson.volumeId)?.questionsUrl,
-            }}
-            globalQuestionsTemplate={settings?.questionsUrlTemplate}
+            lesson={lesson}
             onClose={() => setActiveQuestionsLessonId(null)}
             onSave={handleSaveQuestions}
           />

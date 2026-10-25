@@ -24,7 +24,6 @@ import type {
   LessonReview,
   LessonProgress,
   QuestionLog,
-  VolumeLink,
   UserSettings,
   LessonMedia,
   VolumeMedia,
@@ -62,12 +61,6 @@ export const HojePage: React.FC = () => {
     []
   );
 
-  const volumeLinksList = useLiveQuery<VolumeLink[]>(
-    () => db.volumeLinks.toArray(),
-    [],
-    []
-  );
-
   const lessonMediaList = useLiveQuery<LessonMedia[]>(
     () => db.lessonMedia.toArray(),
     [],
@@ -93,14 +86,6 @@ export const HojePage: React.FC = () => {
     }
     return map;
   }, [progressList]);
-
-  const volumeLinksMap = useMemo(() => {
-    const map = new Map<string, VolumeLink>();
-    for (const vl of volumeLinksList) {
-      map.set(vl.volumeId, vl);
-    }
-    return map;
-  }, [volumeLinksList]);
 
   const lessonMediaMap = useMemo(() => {
     const map = new Map<string, LessonMedia>();
@@ -599,12 +584,7 @@ export const HojePage: React.FC = () => {
         return (
           <PostLessonQuestionsModal
             isOpen={true}
-            lesson={{
-              ...lesson,
-              lessonUrl: progressMap.get(lesson.id)?.questionsUrl,
-              volumeUrl: volumeLinksMap.get(lesson.volumeId)?.questionsUrl,
-            }}
-            globalQuestionsTemplate={settings?.questionsUrlTemplate}
+            lesson={lesson}
             onClose={() => setActiveQuestionsLessonId(null)}
             onSave={handleSaveQuestions}
           />

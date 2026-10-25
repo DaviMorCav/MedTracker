@@ -1,10 +1,10 @@
 import React, { useState } from 'react';
+import { motion, useReducedMotion } from 'framer-motion';
 import type { Subject, LessonKind } from '../../types/curriculum';
 import type {
   LessonProgress,
   LessonReview,
   QuestionLog,
-  VolumeLink,
   UserSettings,
   LessonStatus,
 } from '../../db/schema';
@@ -22,11 +22,9 @@ interface SubjectDetailProps {
   reviewsMap: Map<string, LessonReview>;
   questionLogsMap: Map<string, QuestionLog[]>;
   apostilaMap: Map<string, Set<number>>;
-  volumeLinksMap: Map<string, VolumeLink>;
   settings?: UserSettings;
   statusFilter: 'todos' | LessonStatus;
   kindFilter: 'todos' | LessonKind;
-  searchQuery: string;
   onSelectLesson: (lessonId: string) => void;
   onOpenQuestionsModal?: (lessonId: string) => void;
   onToggleApostilaPage: (volumeId: string, page: number) => void;
@@ -42,16 +40,15 @@ export const SubjectDetail: React.FC<SubjectDetailProps> = ({
   reviewsMap,
   questionLogsMap,
   apostilaMap,
-  volumeLinksMap,
   settings,
   statusFilter,
   kindFilter,
-  searchQuery,
   onSelectLesson,
   onOpenQuestionsModal,
   onToggleApostilaPage,
   onSetAllApostila,
 }) => {
+  const shouldReduceMotion = useReducedMotion();
   // Set of open volume IDs, initialize with the first volume open
   const [openVolumeIds, setOpenVolumeIds] = useState<Set<string>>(
     () => new Set(subject.volumes.length > 0 ? [subject.volumes[0].id] : [])
@@ -93,32 +90,38 @@ export const SubjectDetail: React.FC<SubjectDetailProps> = ({
   };
 
   return (
-    <div className="space-y-4">
+    <motion.div
+      initial={{ opacity: 0, x: shouldReduceMotion ? 0 : 16 }}
+      animate={{ opacity: 1, x: 0 }}
+      exit={{ opacity: 0, x: shouldReduceMotion ? 0 : -16 }}
+      transition={{ duration: shouldReduceMotion ? 0 : 0.25, ease: 'easeOut' }}
+      className="space-y-4"
+    >
       {/* Botão Voltar (só no celular; no computador a lista fica ao lado) */}
       {!hideBack && (
-      <div>
-        <button
-          type="button"
-          onClick={onBack}
-          className="inline-flex items-center gap-1.5 text-xs font-medium text-indigo-400 hover:text-indigo-300 py-1 transition-colors"
-        >
-          <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
-          </svg>
-          <span>Todas as Matérias</span>
-        </button>
-      </div>
+        <div>
+          <button
+            type="button"
+            onClick={onBack}
+            className="inline-flex items-center gap-1.5 text-xs font-semibold text-indigo-400 hover:text-indigo-300 py-1 transition-colors"
+          >
+            <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
+            </svg>
+            <span>Todas as Matérias</span>
+          </button>
+        </div>
       )}
 
       {/* Cartão de Cabeçalho da Matéria */}
-      <div className="bg-slate-900 border border-slate-800 rounded-xl p-4 shadow-sm space-y-3">
+      <div className="bg-slate-900 border border-slate-800 rounded-2xl p-4 sm:p-5 shadow-sm space-y-3">
         <div className="flex items-start justify-between gap-3">
           <div>
             <div className="flex items-center gap-2 mb-1">
               <button
                 type="button"
                 onClick={handleToggleActive}
-                className={`text-[11px] font-semibold px-2 py-0.5 rounded-full border transition-all ${
+                className={`text-[11px] font-semibold px-2.5 py-0.5 rounded-full border transition-all ${
                   isActive
                     ? 'bg-emerald-950/80 text-emerald-300 border-emerald-700 hover:bg-emerald-900'
                     : 'bg-slate-800 text-slate-400 border-slate-700 hover:text-slate-200'
@@ -129,17 +132,17 @@ export const SubjectDetail: React.FC<SubjectDetailProps> = ({
               </button>
 
               {overdueCount > 0 && (
-                <span className="text-[11px] font-bold px-2 py-0.5 rounded-full bg-rose-950 text-rose-300 border border-rose-800">
+                <span className="text-[11px] font-bold px-2 py-0.5 rounded-full bg-rose-950 text-rose-300 border border-rose-800 animate-pulse">
                   {overdueCount} revisão(ões) atrasada(s)
                 </span>
               )}
             </div>
 
-            <h1 className="text-xl font-bold text-slate-100">{subject.name}</h1>
+            <h1 className="text-xl sm:text-2xl font-bold text-slate-100">{subject.name}</h1>
           </div>
 
-          <div className="text-right">
-            <span className="text-xl font-bold text-slate-100">
+          <div className="text-right shrink-0">
+            <span className="text-xl sm:text-2xl font-bold text-slate-100">
               {progressStats.percentAulas}%
             </span>
             <span className="block text-[11px] text-slate-400">
@@ -149,14 +152,14 @@ export const SubjectDetail: React.FC<SubjectDetailProps> = ({
         </div>
 
         {/* Barra de Progresso */}
-        <div className="w-full bg-slate-800 h-2.5 rounded-full overflow-hidden">
+        <div className="w-full bg-slate-800 h-2 rounded-full overflow-hidden">
           <div
             className="bg-indigo-500 h-full rounded-full transition-all duration-300"
             style={{ width: `${progressStats.percentAulas}%` }}
           />
         </div>
 
-        <div className="flex items-center justify-between text-xs text-slate-400 pt-1">
+        <div className="flex items-center justify-between text-xs text-slate-400 pt-0.5">
           <span>{subject.volumes.length} volume(s)</span>
           {progressStats.totalBonus > 0 && (
             <span>
@@ -199,7 +202,6 @@ export const SubjectDetail: React.FC<SubjectDetailProps> = ({
             subjectName: subject.name,
           };
           const markedPages = apostilaMap.get(volume.id) || new Set<number>();
-          const volLink = volumeLinksMap.get(volume.id)?.questionsUrl;
 
           return (
             <VolumeAccordion
@@ -213,9 +215,7 @@ export const SubjectDetail: React.FC<SubjectDetailProps> = ({
               apostilaMarkedPages={markedPages}
               statusFilter={statusFilter}
               kindFilter={kindFilter}
-              searchQuery={searchQuery}
               today={today}
-              volumeLink={volLink}
               onSelectLesson={onSelectLesson}
               onOpenQuestionsModal={onOpenQuestionsModal}
               onToggleApostilaPage={onToggleApostilaPage}
@@ -224,6 +224,6 @@ export const SubjectDetail: React.FC<SubjectDetailProps> = ({
           );
         })}
       </div>
-    </div>
+    </motion.div>
   );
 };

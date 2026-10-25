@@ -1,11 +1,11 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useState, useRef } from 'react';
+import { motion, useReducedMotion } from 'framer-motion';
 import { db } from '../../db';
 import { useLiveQuery } from '../../db/useLiveQuery';
 import { lessonById, volumeById, subjectById } from '../../data/curriculum';
 import {
   setLessonStatus,
   saveLessonNotes,
-  saveLessonQuestionsUrl,
   setLessonMastered,
   completeLesson,
   uncompleteLesson,
@@ -16,15 +16,12 @@ import type {
   LessonProgress,
   LessonReview,
   QuestionLog,
-  UserSettings,
-  VolumeLink,
   LessonStatus,
   LessonMedia,
   VolumeMedia,
 } from '../../db/schema';
 import {
   calculateAccuracy,
-  resolveQuestionsUrl,
   isReviewOverdue,
 } from '../../core/content';
 import { formatDateBr } from '../../core/dates';
@@ -36,8 +33,6 @@ interface LessonDetailSheetProps {
   progressMap: Map<string, LessonProgress>;
   reviewsMap: Map<string, LessonReview>;
   questionLogsMap: Map<string, QuestionLog[]>;
-  volumeLinksMap: Map<string, VolumeLink>;
-  settings?: UserSettings;
   onOpenQuestionsModal?: (lessonId: string) => void;
 }
 
@@ -48,21 +43,17 @@ export const LessonDetailSheet: React.FC<LessonDetailSheetProps> = ({
   progressMap,
   reviewsMap,
   questionLogsMap,
-  volumeLinksMap,
-  settings,
   onOpenQuestionsModal,
 }) => {
+  const shouldReduceMotion = useReducedMotion();
   const lesson = lessonId ? lessonById.get(lessonId) : null;
   const progress = lessonId ? progressMap.get(lessonId) : undefined;
   const review = lessonId ? reviewsMap.get(lessonId) : undefined;
   const logs = lessonId ? questionLogsMap.get(lessonId) || [] : [];
   const volume = lesson ? volumeById.get(lesson.volumeId) : undefined;
   const subject = lesson ? subjectById.get(lesson.subjectId) : undefined;
-  const volumeLink = volume ? volumeLinksMap.get(volume.id)?.questionsUrl : undefined;
 
-  // Local state for notes and questionsUrl to allow smooth typing before saving
   const [notes, setNotes] = useState('');
-  const [customQuestionsUrl, setCustomQuestionsUrl] = useState('');
   const [showUncompleteConfirm, setShowUncompleteConfirm] = useState(false);
   const [pendingStatusChange, setPendingStatusChange] = useState<LessonStatus | null>(null);
 
@@ -79,13 +70,35 @@ export const LessonDetailSheet: React.FC<LessonDetailSheetProps> = ({
   );
   const [viewerTab, setViewerTab] = useState<'video' | 'pdf' | null>(null);
 
-  // Sync state when lessonId or progress changes
+  const notesRef = useRef(notes);
+  notesRef.current = notes;
+
+  // Carrega anotações da aula
   useEffect(() => {
     setNotes(progress?.notes || '');
-    setCustomQuestionsUrl(progress?.questionsUrl || '');
-  }, [lessonId, progress?.notes, progress?.questionsUrl]);
+  }, [lessonId, progress?.notes]);
 
-  // Handle escape key
+  // Salva automaticamente notas com debounce para nunca perder digitação
+  useEffect(() => {
+    if (!lessonId) return;
+    const timer = setTimeout(() => {
+      if (notes !== (progress?.notes || '')) {
+        saveLessonNotes(lessonId, notes);
+      }
+    }, 700);
+    return () => clearTimeout(timer);
+  }, [lessonId, notes, progress?.notes]);
+
+  // Garante salvar notas no unmount
+  useEffect(() => {
+    return () => {
+      if (lessonId && notesRef.current !== (progress?.notes || '')) {
+        saveLessonNotes(lessonId, notesRef.current);
+      }
+    };
+  }, [lessonId, progress?.notes]);
+
+  // Tecla Escape para fechar
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
       if (e.key === 'Escape') {
@@ -104,27 +117,15 @@ export const LessonDetailSheet: React.FC<LessonDetailSheetProps> = ({
   const isMastered = Boolean(progress?.mastered || review?.mastered);
   const accuracy = calculateAccuracy(logs);
 
-  const effectiveQuestionsUrl = resolveQuestionsUrl({
-    lessonUrl: customQuestionsUrl,
-    volumeUrl: volumeLink,
-    template: settings?.questionsUrlTemplate,
-    subjectName: subject?.name,
-    volumeName: volume?.name,
-    lessonTitle: lesson.title,
-  });
-
   const handleStatusChange = async (newStatus: LessonStatus) => {
     if (!lesson) return;
 
     if (newStatus === 'concluida' && currentStatus !== 'concluida') {
-      // 1. Grava concluída e cria a revisão
       await completeLesson(lesson.id, today);
-      // 2. Abre imediatamente a tela cheia de questões
       if (onOpenQuestionsModal) {
         onOpenQuestionsModal(lesson.id);
       }
     } else if (currentStatus === 'concluida' && newStatus !== 'concluida') {
-      // Desmarcar aula concluída pede confirmação
       setPendingStatusChange(newStatus);
       setShowUncompleteConfirm(true);
     } else {
@@ -144,40 +145,61 @@ export const LessonDetailSheet: React.FC<LessonDetailSheetProps> = ({
     setPendingStatusChange(null);
   };
 
-  const handleNotesBlur = async () => {
-    if (notes !== (progress?.notes || '')) {
-      await saveLessonNotes(lesson.id, notes);
-    }
-  };
-
-  const handleQuestionsUrlBlur = async () => {
-    if (customQuestionsUrl !== (progress?.questionsUrl || '')) {
-      await saveLessonQuestionsUrl(lesson.id, customQuestionsUrl);
-    }
-  };
-
   const handleToggleMastered = async () => {
     await setLessonMastered(lesson.id, !isMastered);
   };
 
   const overdue = review?.dueDate ? isReviewOverdue(review.dueDate, today) : false;
+  // Botão dominada só é exibido quando faz sentido (aula concluída ou com revisão ativa)
+  const showMasteredOption = currentStatus === 'concluida' || Boolean(review) || isMastered;
 
   return (
-    <div className="fixed inset-0 z-50 flex justify-end bg-black/40 dark:bg-black/60 backdrop-blur-sm transition-opacity">
-      {/* Click outside backdrop */}
-      <div className="fixed inset-0" onClick={onClose} aria-hidden="true" />
+    <div className="fixed inset-0 z-50 flex items-end sm:items-stretch sm:justify-end">
+      {/* Backdrop com fade suave estilo iOS */}
+      <motion.div
+        initial={{ opacity: 0 }}
+        animate={{ opacity: 1 }}
+        exit={{ opacity: 0 }}
+        transition={{ duration: shouldReduceMotion ? 0 : 0.2 }}
+        className="fixed inset-0 bg-black/60 backdrop-blur-sm"
+        onClick={onClose}
+        aria-hidden="true"
+      />
 
-      {/* Slide-over panel */}
-      <div className="relative w-full max-w-lg bg-slate-900 border-l border-slate-800 h-full overflow-y-auto flex flex-col shadow-2xl z-10 animate-in slide-in-from-right duration-200">
+      {/* Painel com gesto de arrastar para fechar (Bottom Sheet no celular, Slide no desktop) */}
+      <motion.div
+        drag="y"
+        dragConstraints={{ top: 0, bottom: 0 }}
+        dragElastic={{ top: 0.05, bottom: 0.6 }}
+        onDragEnd={(_, info) => {
+          if (info.offset.y > 110 || info.velocity.y > 450) {
+            onClose();
+          }
+        }}
+        initial={{ y: '100%', opacity: 0.8 }}
+        animate={{ y: 0, opacity: 1 }}
+        exit={{ y: '100%', opacity: 0 }}
+        transition={
+          shouldReduceMotion
+            ? { duration: 0 }
+            : { type: 'spring', damping: 28, stiffness: 300, mass: 0.8 }
+        }
+        className="relative w-full sm:max-w-lg bg-slate-900 border-t sm:border-t-0 sm:border-l border-slate-800 rounded-t-3xl sm:rounded-none h-[88vh] sm:h-full overflow-y-auto flex flex-col shadow-2xl z-10"
+      >
+        {/* Barra de puxar no topo (iOS Drag Handle) */}
+        <div className="sm:hidden pt-3 pb-1 flex justify-center cursor-grab active:cursor-grabbing">
+          <div className="w-10 h-1.5 rounded-full bg-slate-700/80" />
+        </div>
+
         {/* Header */}
-        <div className="sticky top-0 z-20 bg-slate-900/95 backdrop-blur-md px-5 py-4 border-b border-slate-800 flex items-start justify-between gap-3">
+        <div className="sticky top-0 z-20 bg-slate-900/95 backdrop-blur-md px-5 py-3.5 border-b border-slate-800 flex items-start justify-between gap-3">
           <div>
             <div className="flex items-center gap-2 mb-1 flex-wrap">
               <span className="text-xs font-semibold px-2 py-0.5 rounded-full bg-slate-800 text-slate-300">
                 {subject?.name || 'Matéria'}
               </span>
               <span className="text-xs text-slate-500">•</span>
-              <span className="text-xs text-slate-400 truncate max-w-[200px]">
+              <span className="text-xs text-slate-400 truncate max-w-[180px]">
                 {volume?.name || 'Volume'}
               </span>
               <span
@@ -200,7 +222,7 @@ export const LessonDetailSheet: React.FC<LessonDetailSheetProps> = ({
                 </span>
               )}
             </div>
-            <h2 className="text-lg font-bold text-slate-100 leading-snug">
+            <h2 className="text-base sm:text-lg font-bold text-slate-100 leading-snug">
               {lesson.title}
             </h2>
           </div>
@@ -209,7 +231,7 @@ export const LessonDetailSheet: React.FC<LessonDetailSheetProps> = ({
             type="button"
             onClick={onClose}
             className="p-1.5 -mr-1 text-slate-400 hover:text-slate-100 rounded-lg hover:bg-slate-800 transition-colors"
-            title="Fechar folha"
+            title="Fechar"
           >
             <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
@@ -218,7 +240,7 @@ export const LessonDetailSheet: React.FC<LessonDetailSheetProps> = ({
         </div>
 
         {/* Body content */}
-        <div className="p-5 space-y-5 flex-1">
+        <div className="p-5 space-y-4 flex-1">
           {/* Mídia do Google Drive (Assistir / Apostila) */}
           {(lessonMedia?.driveVideoId || volumeMedia?.drivePdfId) && (
             <div className="bg-indigo-950/30 p-3.5 rounded-xl border border-indigo-900/40 space-y-2.5">
@@ -256,7 +278,7 @@ export const LessonDetailSheet: React.FC<LessonDetailSheetProps> = ({
           )}
 
           {/* Status selector (3 estados) */}
-          <div className="bg-slate-800/50 p-3.5 rounded-lg border border-slate-700/50">
+          <div className="bg-slate-800/50 p-3.5 rounded-xl border border-slate-700/50">
             <label className="block text-xs font-semibold uppercase tracking-wider text-slate-400 mb-2">
               Status da aula
             </label>
@@ -303,39 +325,49 @@ export const LessonDetailSheet: React.FC<LessonDetailSheetProps> = ({
           </div>
 
           {/* Revisão Espaçada e Dominado */}
-          <div className="bg-slate-800/50 p-3.5 rounded-lg border border-slate-700/50 space-y-3">
+          <div className="bg-slate-800/50 p-3.5 rounded-xl border border-slate-700/50 space-y-2.5">
             <div className="flex items-center justify-between">
               <span className="text-xs font-semibold uppercase tracking-wider text-slate-400">
                 Revisão Espaçada
               </span>
-              {isMastered && (
-                <span className="text-xs font-medium text-amber-400">
-                  Dominada
-                </span>
+              {/* Botão discreto de 'Marcar como dominada' - Item 5 */}
+              {showMasteredOption && (
+                <button
+                  type="button"
+                  onClick={handleToggleMastered}
+                  className={`text-[11px] font-medium px-2.5 py-0.5 rounded-md border transition-all ${
+                    isMastered
+                      ? 'bg-amber-950/70 text-amber-300 border-amber-800 hover:bg-slate-800'
+                      : 'bg-slate-900/80 text-slate-400 border-slate-700 hover:text-amber-300 hover:border-amber-700/60'
+                  }`}
+                  title="Encerra ou reativa o agendamento de revisões espaçadas para esta aula"
+                >
+                  {isMastered ? 'Dominada ✓' : 'Dominar'}
+                </button>
               )}
             </div>
 
             {review ? (
-              <div className="space-y-2">
-                <div className="flex items-center justify-between text-sm">
+              <div className="space-y-1.5 pt-0.5">
+                <div className="flex items-center justify-between text-xs">
                   <span className="text-slate-400">Passo da escada:</span>
                   <span className="font-semibold text-slate-200">
                     Passo {review.step} de 4
                   </span>
                 </div>
-                <div className="flex items-center justify-between text-sm">
+                <div className="flex items-center justify-between text-xs">
                   <span className="text-slate-400">Próxima revisão:</span>
                   <div className="flex items-center gap-1.5">
                     <span className="font-semibold text-slate-200">
                       {formatDateBr(review.dueDate)}
                     </span>
                     {overdue && (
-                      <span className="text-[10px] uppercase font-bold px-1.5 py-0.5 rounded bg-rose-950 text-rose-300 border border-rose-800">
+                      <span className="text-[10px] uppercase font-bold px-1.5 py-0.2 rounded bg-rose-950 text-rose-300 border border-rose-800">
                         Atrasada
                       </span>
                     )}
                     {review.dueDate === today && (
-                      <span className="text-[10px] uppercase font-bold px-1.5 py-0.5 rounded bg-amber-950 text-amber-300 border border-amber-800">
+                      <span className="text-[10px] uppercase font-bold px-1.5 py-0.2 rounded bg-amber-950 text-amber-300 border border-amber-800">
                         Hoje
                       </span>
                     )}
@@ -347,88 +379,27 @@ export const LessonDetailSheet: React.FC<LessonDetailSheetProps> = ({
                 Nenhuma revisão ativa agendada.
               </div>
             )}
-
-            <div className="pt-1">
-              <button
-                type="button"
-                onClick={handleToggleMastered}
-                className={`w-full py-2 px-3 rounded-lg text-xs font-semibold transition-colors flex items-center justify-center gap-2 ${
-                  isMastered
-                    ? 'bg-slate-700 text-slate-200 hover:bg-slate-600'
-                    : 'bg-amber-600/90 text-white hover:bg-amber-500'
-                }`}
-              >
-                <span>
-                  {isMastered
-                    ? 'Reativar revisões da aula'
-                    : 'Marcar como dominada (encerra revisões)'}
-                </span>
-              </button>
-            </div>
           </div>
 
-          {/* Link das questões */}
-          <div className="bg-slate-800/50 p-3.5 rounded-lg border border-slate-700/50 space-y-2.5">
+          {/* Anotações em texto livre com salvamento automático */}
+          <div className="bg-slate-800/50 p-3.5 rounded-xl border border-slate-700/50 space-y-2">
             <div className="flex items-center justify-between">
-              <label className="text-xs font-semibold uppercase tracking-wider text-slate-400">
-                Link das questões
+              <label className="block text-xs font-semibold uppercase tracking-wider text-slate-400">
+                Anotações da aula
               </label>
-              {effectiveQuestionsUrl && (
-                <a
-                  href={effectiveQuestionsUrl}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-xs text-indigo-400 hover:text-indigo-300 font-medium flex items-center gap-1"
-                >
-                  <span>Abrir questões</span>
-                  <svg className="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
-                  </svg>
-                </a>
-              )}
+              <span className="text-[10px] text-slate-500">Salvo automaticamente</span>
             </div>
-
-            <input
-              type="url"
-              value={customQuestionsUrl}
-              onChange={(e) => setCustomQuestionsUrl(e.target.value)}
-              onBlur={handleQuestionsUrlBlur}
-              placeholder="https://suaplataforma.com/questoes/..."
-              className="w-full bg-slate-900 border border-slate-700 rounded-lg px-3 py-2 text-xs text-slate-100 placeholder-slate-500 focus:outline-none focus:ring-1 focus:ring-indigo-500"
-            />
-
-            <div className="text-[11px] text-slate-400 space-y-1">
-              {customQuestionsUrl ? (
-                <p className="text-emerald-400">✓ Usando link personalizado desta aula</p>
-              ) : volumeLink ? (
-                <p className="text-indigo-300">ℹ️ Herdando link configurado para o volume</p>
-              ) : settings?.questionsUrlTemplate ? (
-                <p className="text-slate-400">ℹ️ Gerado pelo modelo global configurado em Ajustes</p>
-              ) : (
-                <p className="text-slate-500">
-                  Nenhum link configurado para esta aula, volume ou modelo global.
-                </p>
-              )}
-            </div>
-          </div>
-
-          {/* Anotações em texto livre */}
-          <div className="bg-slate-800/50 p-3.5 rounded-lg border border-slate-700/50 space-y-2">
-            <label className="block text-xs font-semibold uppercase tracking-wider text-slate-400">
-              Anotações da aula
-            </label>
             <textarea
-              rows={4}
+              rows={3}
               value={notes}
               onChange={(e) => setNotes(e.target.value)}
-              onBlur={handleNotesBlur}
               placeholder="Anote aqui pontos-chave, dúvidas, esquemas mentais..."
               className="w-full bg-slate-900 border border-slate-700 rounded-lg p-3 text-xs text-slate-100 placeholder-slate-500 focus:outline-none focus:ring-1 focus:ring-indigo-500 resize-y"
             />
           </div>
 
           {/* Histórico de questões da aula */}
-          <div className="bg-slate-800/50 p-3.5 rounded-lg border border-slate-700/50 space-y-3">
+          <div className="bg-slate-800/50 p-3.5 rounded-xl border border-slate-700/50 space-y-2.5">
             <div className="flex items-center justify-between">
               <span className="text-xs font-semibold uppercase tracking-wider text-slate-400">
                 Histórico de questões
@@ -477,7 +448,7 @@ export const LessonDetailSheet: React.FC<LessonDetailSheetProps> = ({
             )}
           </div>
         </div>
-      </div>
+      </motion.div>
 
       {/* Modal de Confirmação para Desmarcar Aula Concluída (PRD seção 5 item 4) */}
       <ConfirmModal

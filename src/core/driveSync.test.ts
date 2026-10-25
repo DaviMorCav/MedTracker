@@ -106,4 +106,62 @@ describe('mergeBackupData', () => {
     expect(merged.data.apostila).toHaveLength(2);
     expect(merged.data.questionLogs).toHaveLength(2);
   });
+
+  it('respeita timestamps para atualizações recentes e não apaga anotações locais', () => {
+    const localBackup: BackupData = {
+      version: 1,
+      exportedAt: '2026-10-25T14:00:00.000Z',
+      data: {
+        progress: [
+          {
+            lessonId: 'aula-1',
+            status: 'concluida',
+            completedOn: '2026-10-25',
+            notes: 'Anotações importantes feitas hoje',
+            updatedAt: 2000,
+          },
+        ],
+        reviews: [
+          {
+            lessonId: 'aula-1',
+            step: 0, // acabou de errar na revisão local
+            dueDate: '2026-10-26',
+            mastered: false,
+            history: [{ date: '2026-10-25', rating: 'errei' }],
+            updatedAt: 2000,
+          },
+        ],
+      },
+    };
+
+    const remoteBackup: BackupData = {
+      version: 1,
+      exportedAt: '2026-10-25T12:00:00.000Z',
+      data: {
+        progress: [
+          {
+            lessonId: 'aula-1',
+            status: 'concluida',
+            completedOn: '2026-10-20',
+            updatedAt: 1000,
+          },
+        ],
+        reviews: [
+          {
+            lessonId: 'aula-1',
+            step: 2, // step antigo antes do erro local
+            dueDate: '2026-10-30',
+            mastered: false,
+            history: [{ date: '2026-10-20', rating: 'bom' }],
+            updatedAt: 1000,
+          },
+        ],
+      },
+    };
+
+    const merged = mergeBackupData(localBackup, remoteBackup);
+    expect(merged.data.progress?.[0].notes).toBe('Anotações importantes feitas hoje');
+    expect(merged.data.reviews?.[0].step).toBe(0);
+    expect(merged.data.reviews?.[0].dueDate).toBe('2026-10-26');
+  });
 });

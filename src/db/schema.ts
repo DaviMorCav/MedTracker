@@ -23,6 +23,7 @@ export interface LessonProgress {
   notes?: string;
   questionsUrl?: string;
   mastered?: boolean;
+  updatedAt?: number;
 }
 
 export interface VolumeLink {
@@ -35,6 +36,7 @@ export interface ApostilaProgress {
   page: number;
   completed: boolean;
   completedAt?: string;
+  updatedAt?: number;
 }
 
 export interface LessonReview {
@@ -43,6 +45,7 @@ export interface LessonReview {
   dueDate: string;
   mastered: boolean;
   history: ReviewHistoryItem[];
+  updatedAt?: number;
 }
 
 export interface QuestionLog {

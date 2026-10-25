@@ -1,5 +1,6 @@
 import React from 'react';
-import { Link, NavLink, Outlet } from 'react-router-dom';
+import { Link, NavLink, Outlet, useLocation } from 'react-router-dom';
+import { motion, AnimatePresence, useReducedMotion } from 'framer-motion';
 import { db } from '../db';
 import { useLiveQuery } from '../db/useLiveQuery';
 import { DEFAULT_SETTINGS } from '../db/operations';
@@ -49,6 +50,9 @@ const TabIcon: React.FC<{ path: string; className: string }> = ({ path, classNam
 const TAG_COLORS = ['bg-rose-500', 'bg-amber-500', 'bg-emerald-500', 'bg-blue-500', 'bg-purple-500', 'bg-indigo-500'];
 
 export const Layout: React.FC = () => {
+  const location = useLocation();
+  const shouldReduceMotion = useReducedMotion();
+
   const settings = useLiveQuery<UserSettings>(
     async () => (await db.settings.get('default')) || DEFAULT_SETTINGS,
     [],
@@ -63,7 +67,10 @@ export const Layout: React.FC = () => {
     <div className="min-h-screen bg-slate-950 text-slate-100 md:flex">
       {/* Barra lateral (computador e tablet), no estilo da barra do Finder */}
       <aside className="hidden md:flex md:flex-col md:fixed md:inset-y-0 md:left-0 md:w-56 border-r border-slate-800 bg-slate-900/90 backdrop-blur-xl px-3 py-4 overflow-y-auto">
-        <div className="px-2 pb-3 text-sm font-semibold text-slate-100">MedTracker</div>
+        <div className="px-2 pb-3 text-sm font-semibold text-slate-100 flex items-center gap-2">
+          <div className="w-2.5 h-2.5 rounded-full bg-indigo-500 shadow-sm shadow-indigo-500/50" />
+          <span>MedTracker</span>
+        </div>
 
         <nav aria-label="Principal" className="space-y-0.5">
           <p className="px-2 pt-2 pb-1 text-[11px] font-semibold text-slate-400">Favoritos</p>
@@ -84,7 +91,7 @@ export const Layout: React.FC = () => {
                 <>
                   <TabIcon
                     path={tab.path}
-                    className={`w-4 h-4 shrink-0 ${isActive ? 'text-indigo-500' : 'text-indigo-400'}`}
+                    className={`w-4 h-4 shrink-0 ${isActive ? 'text-indigo-400' : 'text-slate-400'}`}
                   />
                   <span>{tab.label}</span>
                 </>
@@ -113,13 +120,23 @@ export const Layout: React.FC = () => {
         )}
       </aside>
 
+      {/* Conteúdo Principal com transição animada suave de abas (Item 11) */}
       <main className="flex-1 min-w-0 w-full mx-auto px-4 pt-4 pb-24 md:pl-64 md:pr-8 md:pt-6 md:pb-10 md:max-w-none">
-        <div className="mx-auto w-full max-w-md md:max-w-6xl">
-          <Outlet />
-        </div>
+        <AnimatePresence mode="wait">
+          <motion.div
+            key={location.pathname}
+            initial={{ opacity: 0, y: shouldReduceMotion ? 0 : 6 }}
+            animate={{ opacity: 1, y: 0 }}
+            exit={{ opacity: 0, y: shouldReduceMotion ? 0 : -6 }}
+            transition={{ duration: shouldReduceMotion ? 0 : 0.18, ease: 'easeOut' }}
+            className="mx-auto w-full max-w-md md:max-w-6xl"
+          >
+            <Outlet />
+          </motion.div>
+        </AnimatePresence>
       </main>
 
-      {/* Barra de navegação inferior (celular) */}
+      {/* Barra de navegação inferior (celular) com feedback tátil de toque (Item 11) */}
       <nav
         aria-label="Principal"
         className="md:hidden fixed bottom-0 left-0 right-0 z-40 bg-slate-900/90 backdrop-blur-xl border-t border-slate-800 pb-[env(safe-area-inset-bottom)]"
@@ -131,7 +148,7 @@ export const Layout: React.FC = () => {
               to={tab.to}
               end={tab.end}
               className={({ isActive }) =>
-                `flex flex-col items-center justify-center flex-1 py-1 text-[11px] font-medium transition-colors select-none ${
+                `flex flex-col items-center justify-center flex-1 py-1 text-[11px] font-medium transition-colors select-none active:scale-95 ${
                   isActive ? 'text-indigo-400 font-semibold' : 'text-slate-400 hover:text-slate-200'
                 }`
               }
@@ -145,3 +162,5 @@ export const Layout: React.FC = () => {
     </div>
   );
 };
+
+export default Layout;

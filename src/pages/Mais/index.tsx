@@ -2,11 +2,17 @@ import React, { useState, useMemo, useRef } from 'react';
 import { db } from '../../db';
 import { useLiveQuery } from '../../db/useLiveQuery';
 import { curriculum } from '../../data/curriculum';
-import { DEFAULT_SETTINGS, updateSettings, toggleSubjectActive } from '../../db/operations';
+import {
+  DEFAULT_SETTINGS,
+  updateSettings,
+  toggleSubjectActive,
+  importDriveMedia,
+  clearAllDriveMedia,
+} from '../../db/operations';
 import { validateBackupJson } from '../../core/backup';
 import { getLocalDateString } from '../../core/dates';
 import { ConfirmModal } from '../../components/ConfirmModal';
-import type { UserSettings } from '../../db/schema';
+import type { UserSettings, LessonMedia, VolumeMedia } from '../../db/schema';
 
 export const MaisPage: React.FC = () => {
   const settings = useLiveQuery<UserSettings>(
@@ -25,6 +31,12 @@ export const MaisPage: React.FC = () => {
   const [importSuccess, setImportSuccess] = useState<string | null>(null);
   const [pendingBackupJson, setPendingBackupJson] = useState<string | null>(null);
   const [showImportConfirm, setShowImportConfirm] = useState(false);
+
+  // Mídia do Google Drive
+  const lessonMediaList = useLiveQuery<LessonMedia[]>(() => db.lessonMedia.toArray(), [], []);
+  const volumeMediaList = useLiveQuery<VolumeMedia[]>(() => db.volumeMedia.toArray(), [], []);
+  const driveFileInputRef = useRef<HTMLInputElement>(null);
+  const [driveImportMsg, setDriveImportMsg] = useState<{ type: 'success' | 'error'; text: string } | null>(null);
 
   const fileInputRef = useRef<HTMLInputElement>(null);
 
@@ -75,21 +87,42 @@ export const MaisPage: React.FC = () => {
 
   // ─── Exportar Backup JSON ──────────────────────────────────────────────────
   const handleExportBackup = async () => {
-    const [settingsList, progress, volumeLinks, apostila, reviews, questionLogs, questionAttempts] =
-      await Promise.all([
-        db.settings.toArray(),
-        db.progress.toArray(),
-        db.volumeLinks.toArray(),
-        db.apostila.toArray(),
-        db.reviews.toArray(),
-        db.questionLogs.toArray(),
-        db.questionAttempts.toArray(),
-      ]);
+    const [
+      settingsList,
+      progress,
+      volumeLinks,
+      apostila,
+      reviews,
+      questionLogs,
+      questionAttempts,
+      lessonMedia,
+      volumeMedia,
+    ] = await Promise.all([
+      db.settings.toArray(),
+      db.progress.toArray(),
+      db.volumeLinks.toArray(),
+      db.apostila.toArray(),
+      db.reviews.toArray(),
+      db.questionLogs.toArray(),
+      db.questionAttempts.toArray(),
+      db.lessonMedia.toArray(),
+      db.volumeMedia.toArray(),
+    ]);
 
     const backup = {
       version: 1,
       exportedAt: new Date().toISOString(),
-      data: { settings: settingsList, progress, volumeLinks, apostila, reviews, questionLogs, questionAttempts },
+      data: {
+        settings: settingsList,
+        progress,
+        volumeLinks,
+        apostila,
+        reviews,
+        questionLogs,
+        questionAttempts,
+        lessonMedia,
+        volumeMedia,
+      },
     };
 
     const json = JSON.stringify(backup, null, 2);
@@ -141,7 +174,17 @@ export const MaisPage: React.FC = () => {
 
     await db.transaction(
       'rw',
-      [db.settings, db.progress, db.volumeLinks, db.apostila, db.reviews, db.questionLogs, db.questionAttempts],
+      [
+        db.settings,
+        db.progress,
+        db.volumeLinks,
+        db.apostila,
+        db.reviews,
+        db.questionLogs,
+        db.questionAttempts,
+        db.lessonMedia,
+        db.volumeMedia,
+      ],
       async () => {
         await db.settings.clear();
         await db.progress.clear();
@@ -162,6 +205,16 @@ export const MaisPage: React.FC = () => {
           await db.questionAttempts.clear();
           if (data.questionAttempts.length) await db.questionAttempts.bulkPut(data.questionAttempts);
         }
+
+        if (data.lessonMedia) {
+          await db.lessonMedia.clear();
+          if (data.lessonMedia.length) await db.lessonMedia.bulkPut(data.lessonMedia);
+        }
+
+        if (data.volumeMedia) {
+          await db.volumeMedia.clear();
+          if (data.volumeMedia.length) await db.volumeMedia.bulkPut(data.volumeMedia);
+        }
       }
     );
 
@@ -170,6 +223,57 @@ export const MaisPage: React.FC = () => {
     setImportSuccess(
       `Backup importado com sucesso: ${data.progress?.length || 0} progresso, ${data.reviews?.length || 0} revisões, ${data.questionLogs?.length || 0} questões.`
     );
+  };
+
+  // ─── Importar Mapeamento do Drive ──────────────────────────────────────────
+  const handleLoadDefaultDriveLinks = async () => {
+    setDriveImportMsg(null);
+    try {
+      const resp = await fetch('/drive_links.json');
+      if (!resp.ok) {
+        throw new Error('Arquivo public/drive_links.json não encontrado.');
+      }
+      const json = await resp.json();
+      const res = await importDriveMedia(json);
+      setDriveImportMsg({
+        type: 'success',
+        text: `${res.lessonsCount} aulas com vídeo e ${res.volumesCount} apostilas vinculadas com sucesso!`,
+      });
+    } catch (err) {
+      setDriveImportMsg({
+        type: 'error',
+        text: err instanceof Error ? err.message : 'Falha ao sincronizar drive_links.json.',
+      });
+    }
+  };
+
+  const handleDriveFileSelect = async (e: React.ChangeEvent<HTMLInputElement>) => {
+    const file = e.target.files?.[0];
+    if (!file) return;
+    setDriveImportMsg(null);
+    try {
+      const text = await file.text();
+      const json = JSON.parse(text);
+      const res = await importDriveMedia(json);
+      setDriveImportMsg({
+        type: 'success',
+        text: `${res.lessonsCount} aulas com vídeo e ${res.volumesCount} volumes com apostila vinculados.`,
+      });
+    } catch (err) {
+      setDriveImportMsg({
+        type: 'error',
+        text: err instanceof Error ? err.message : 'Falha ao importar arquivo do Drive.',
+      });
+    }
+    e.target.value = '';
+  };
+
+  const handleClearDrive = async () => {
+    await clearAllDriveMedia();
+    setDriveImportMsg({
+      type: 'success',
+      text: 'Vinculações de mídia do Google Drive removidas.',
+    });
   };
 
   return (
@@ -402,7 +506,72 @@ export const MaisPage: React.FC = () => {
         )}
       </section>
 
-      {/* ── 4. Backup: Exportar e Importar ──────────────────────────────────── */}
+      {/* ── 4. Aulas e Apostilas (Google Drive) ─────────────────────────────── */}
+      <section className="bg-slate-900 border border-slate-800 rounded-xl p-4 space-y-3">
+        <div className="flex items-center justify-between">
+          <h2 className="text-xs font-bold uppercase tracking-wider text-indigo-400">
+            Aulas e Apostilas (Google Drive)
+          </h2>
+          <span className="text-xs text-slate-400">
+            {lessonMediaList.length} aulas · {volumeMediaList.length} apostilas
+          </span>
+        </div>
+        <p className="text-xs text-slate-400 leading-relaxed">
+          Importe o arquivo <code className="bg-slate-800 px-1 py-0.5 rounded text-indigo-300">drive_links.json</code> gerado pelo script para abrir os vídeos e apostilas diretamente no visualizador do app.
+        </p>
+
+        <div className="flex flex-wrap items-center gap-2 pt-1">
+          <button
+            type="button"
+            onClick={handleLoadDefaultDriveLinks}
+            className="py-2 px-3.5 bg-indigo-600 hover:bg-indigo-500 text-white rounded-lg text-xs font-semibold transition-colors flex items-center gap-1.5 shadow-sm"
+          >
+            <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-8l-4-4m0 0L8 8m4-4v12" />
+            </svg>
+            <span>Sincronizar Arquivo Integrado</span>
+          </button>
+
+          <button
+            type="button"
+            onClick={() => driveFileInputRef.current?.click()}
+            className="py-2 px-3 bg-slate-800 hover:bg-slate-700 text-slate-300 border border-slate-700 rounded-lg text-xs font-semibold transition-colors flex items-center gap-1.5"
+          >
+            <span>Escolher outro .json</span>
+          </button>
+          <input
+            ref={driveFileInputRef}
+            type="file"
+            accept=".json,application/json"
+            onChange={handleDriveFileSelect}
+            className="hidden"
+          />
+
+          {(lessonMediaList.length > 0 || volumeMediaList.length > 0) && (
+            <button
+              type="button"
+              onClick={handleClearDrive}
+              className="py-2 px-3 bg-rose-950/40 hover:bg-rose-900/50 text-rose-300 border border-rose-900/50 rounded-lg text-xs font-semibold transition-colors"
+            >
+              Remover vinculações
+            </button>
+          )}
+        </div>
+
+        {driveImportMsg && (
+          <div
+            className={`p-2.5 rounded-lg text-xs ${
+              driveImportMsg.type === 'success'
+                ? 'bg-emerald-950/70 border border-emerald-800 text-emerald-200'
+                : 'bg-rose-950/70 border border-rose-800 text-rose-200'
+            }`}
+          >
+            {driveImportMsg.text}
+          </div>
+        )}
+      </section>
+
+      {/* ── 5. Backup: Exportar e Importar ──────────────────────────────────── */}
       <section className="bg-slate-900 border border-slate-800 rounded-xl p-4 space-y-4">
         <div>
           <h2 className="text-xs font-bold uppercase tracking-wider text-indigo-400">

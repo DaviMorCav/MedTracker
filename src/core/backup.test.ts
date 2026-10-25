@@ -65,4 +65,18 @@ describe('Backup Validation (src/core/backup.ts)', () => {
     const res = validateBackupJson(JSON.stringify({ data: { questionAttempts: [] } }));
     expect(res.valid).toBe(true);
   });
+
+  it('mantém e valida tabelas de mídia do Google Drive', () => {
+    const json = JSON.stringify({
+      version: 1,
+      data: {
+        lessonMedia: [{ lessonId: 'aula-1', driveVideoId: 'video123', videoName: 'Aula 1.mp4' }],
+        volumeMedia: [{ volumeId: 'vol-1', drivePdfId: 'pdf123', pdfName: 'Vol 1.pdf' }],
+      },
+    });
+    const res = validateBackupJson(json);
+    expect(res.valid).toBe(true);
+    expect(res.backup?.data.lessonMedia).toHaveLength(1);
+    expect(res.backup?.data.volumeMedia).toHaveLength(1);
+  });
 });

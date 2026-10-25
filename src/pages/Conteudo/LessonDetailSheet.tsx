@@ -1,4 +1,6 @@
 import React, { useEffect, useState } from 'react';
+import { db } from '../../db';
+import { useLiveQuery } from '../../db/useLiveQuery';
 import { lessonById, volumeById, subjectById } from '../../data/curriculum';
 import {
   setLessonStatus,
@@ -9,6 +11,7 @@ import {
   uncompleteLesson,
 } from '../../db/operations';
 import { ConfirmModal } from '../../components/ConfirmModal';
+import { DriveViewerModal } from '../../components/DriveViewerModal';
 import type {
   LessonProgress,
   LessonReview,
@@ -16,6 +19,8 @@ import type {
   UserSettings,
   VolumeLink,
   LessonStatus,
+  LessonMedia,
+  VolumeMedia,
 } from '../../db/schema';
 import {
   calculateAccuracy,
@@ -60,6 +65,19 @@ export const LessonDetailSheet: React.FC<LessonDetailSheetProps> = ({
   const [customQuestionsUrl, setCustomQuestionsUrl] = useState('');
   const [showUncompleteConfirm, setShowUncompleteConfirm] = useState(false);
   const [pendingStatusChange, setPendingStatusChange] = useState<LessonStatus | null>(null);
+
+  // Mídia do Google Drive
+  const lessonMedia = useLiveQuery<LessonMedia | undefined>(
+    () => (lessonId ? db.lessonMedia.get(lessonId) : Promise.resolve(undefined)),
+    [lessonId],
+    undefined
+  );
+  const volumeMedia = useLiveQuery<VolumeMedia | undefined>(
+    () => (lesson?.volumeId ? db.volumeMedia.get(lesson.volumeId) : Promise.resolve(undefined)),
+    [lesson?.volumeId],
+    undefined
+  );
+  const [viewerTab, setViewerTab] = useState<'video' | 'pdf' | null>(null);
 
   // Sync state when lessonId or progress changes
   useEffect(() => {
@@ -200,7 +218,43 @@ export const LessonDetailSheet: React.FC<LessonDetailSheetProps> = ({
         </div>
 
         {/* Body content */}
-        <div className="p-5 space-y-6 flex-1">
+        <div className="p-5 space-y-5 flex-1">
+          {/* Mídia do Google Drive (Assistir / Apostila) */}
+          {(lessonMedia?.driveVideoId || volumeMedia?.drivePdfId) && (
+            <div className="bg-indigo-950/30 p-3.5 rounded-xl border border-indigo-900/40 space-y-2.5">
+              <span className="text-[10px] font-bold uppercase tracking-wider text-indigo-400 block">
+                Material no Google Drive
+              </span>
+              <div className="flex gap-2">
+                {lessonMedia?.driveVideoId && (
+                  <button
+                    type="button"
+                    onClick={() => setViewerTab('video')}
+                    className="flex-1 py-2 px-3 rounded-lg bg-indigo-600 hover:bg-indigo-500 text-white text-xs font-semibold flex items-center justify-center gap-1.5 transition-colors shadow-sm"
+                  >
+                    <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14.752 11.168l-3.197-2.132A1 1 0 0010 9.87v4.263a1 1 0 001.555.832l3.197-2.132a1 1 0 000-1.664z" />
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                    </svg>
+                    <span>Assistir aula</span>
+                  </button>
+                )}
+                {volumeMedia?.drivePdfId && (
+                  <button
+                    type="button"
+                    onClick={() => setViewerTab('pdf')}
+                    className="flex-1 py-2 px-3 rounded-lg bg-slate-800 hover:bg-slate-700 text-slate-200 text-xs font-semibold flex items-center justify-center gap-1.5 transition-colors border border-slate-700/60"
+                  >
+                    <svg className="w-4 h-4 text-slate-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
+                    </svg>
+                    <span>Ler apostila</span>
+                  </button>
+                )}
+              </div>
+            </div>
+          )}
+
           {/* Status selector (3 estados) */}
           <div className="bg-slate-800/50 p-3.5 rounded-lg border border-slate-700/50">
             <label className="block text-xs font-semibold uppercase tracking-wider text-slate-400 mb-2">
@@ -304,11 +358,10 @@ export const LessonDetailSheet: React.FC<LessonDetailSheetProps> = ({
                     : 'bg-amber-600/90 text-white hover:bg-amber-500'
                 }`}
               >
-                <span>{isMastered ? '🔄' : '🏆'}</span>
                 <span>
                   {isMastered
                     ? 'Reativar revisões da aula'
-                    : 'Marcar como Dominado (encerra revisões)'}
+                    : 'Marcar como dominada (encerra revisões)'}
                 </span>
               </button>
             </div>
@@ -437,6 +490,21 @@ export const LessonDetailSheet: React.FC<LessonDetailSheetProps> = ({
         onConfirm={handleConfirmUncomplete}
         onCancel={handleCancelUncomplete}
       />
+
+      {/* Visualizador do Google Drive (Vídeo / PDF) */}
+      {viewerTab && (
+        <DriveViewerModal
+          isOpen={true}
+          onClose={() => setViewerTab(null)}
+          title={lesson.title}
+          subtitle={`${subject?.name || ''}${volume?.name ? ` • ${volume.name}` : ''}`}
+          driveVideoId={lessonMedia?.driveVideoId}
+          videoName={lessonMedia?.videoName}
+          drivePdfId={volumeMedia?.drivePdfId}
+          pdfName={volumeMedia?.pdfName}
+          initialTab={viewerTab}
+        />
+      )}
     </div>
   );
 };

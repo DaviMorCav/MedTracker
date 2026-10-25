@@ -19,12 +19,15 @@ import {
 } from '../../db/operations';
 import { ReviewModal } from '../../components/ReviewModal';
 import { PostLessonQuestionsModal } from '../../components/PostLessonQuestionsModal';
+import { DriveViewerModal } from '../../components/DriveViewerModal';
 import type {
   LessonReview,
   LessonProgress,
   QuestionLog,
   VolumeLink,
   UserSettings,
+  LessonMedia,
+  VolumeMedia,
 } from '../../db/schema';
 
 export const HojePage: React.FC = () => {
@@ -65,9 +68,22 @@ export const HojePage: React.FC = () => {
     []
   );
 
+  const lessonMediaList = useLiveQuery<LessonMedia[]>(
+    () => db.lessonMedia.toArray(),
+    [],
+    []
+  );
+
+  const volumeMediaList = useLiveQuery<VolumeMedia[]>(
+    () => db.volumeMedia.toArray(),
+    [],
+    []
+  );
+
   // States para modais
   const [activeReview, setActiveReview] = useState<LessonReview | null>(null);
   const [activeQuestionsLessonId, setActiveQuestionsLessonId] = useState<string | null>(null);
+  const [activeMediaLessonId, setActiveMediaLessonId] = useState<string | null>(null);
 
   // Maps
   const progressMap = useMemo(() => {
@@ -85,6 +101,22 @@ export const HojePage: React.FC = () => {
     }
     return map;
   }, [volumeLinksList]);
+
+  const lessonMediaMap = useMemo(() => {
+    const map = new Map<string, LessonMedia>();
+    for (const m of lessonMediaList) {
+      map.set(m.lessonId, m);
+    }
+    return map;
+  }, [lessonMediaList]);
+
+  const volumeMediaMap = useMemo(() => {
+    const map = new Map<string, VolumeMedia>();
+    for (const m of volumeMediaList) {
+      map.set(m.volumeId, m);
+    }
+    return map;
+  }, [volumeMediaList]);
 
   // Sequência de atividade (Streak)
   const activeDates = useMemo(() => {
@@ -462,13 +494,27 @@ export const HojePage: React.FC = () => {
                   </div>
 
                   <div className="flex items-center gap-2 w-full sm:w-auto shrink-0 pt-2 sm:pt-0">
-                    <button
-                      type="button"
-                      onClick={() => navigate(`/conteudo?materia=${lesson.subjectId}&aula=${lesson.id}`)}
-                      className="flex-1 sm:flex-initial py-1.5 px-3 rounded-lg bg-slate-800 hover:bg-slate-700 text-slate-200 text-xs font-semibold transition-colors"
-                    >
-                      Começar
-                    </button>
+                    {lessonMediaMap.has(lesson.id) ? (
+                      <button
+                        type="button"
+                        onClick={() => setActiveMediaLessonId(lesson.id)}
+                        className="flex-1 sm:flex-initial py-1.5 px-3 rounded-lg bg-indigo-600 hover:bg-indigo-500 text-white text-xs font-semibold transition-colors flex items-center justify-center gap-1.5 shadow-sm"
+                      >
+                        <svg className="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14.752 11.168l-3.197-2.132A1 1 0 0010 9.87v4.263a1 1 0 001.555.832l3.197-2.132a1 1 0 000-1.664z" />
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                        </svg>
+                        <span>Assistir</span>
+                      </button>
+                    ) : (
+                      <button
+                        type="button"
+                        onClick={() => navigate(`/conteudo?materia=${lesson.subjectId}&aula=${lesson.id}`)}
+                        className="flex-1 sm:flex-initial py-1.5 px-3 rounded-lg bg-slate-800 hover:bg-slate-700 text-slate-200 text-xs font-semibold transition-colors"
+                      >
+                        Começar
+                      </button>
+                    )}
                     <button
                       type="button"
                       onClick={() => handleConcludeLesson(lesson.id)}
@@ -561,6 +607,27 @@ export const HojePage: React.FC = () => {
             globalQuestionsTemplate={settings?.questionsUrlTemplate}
             onClose={() => setActiveQuestionsLessonId(null)}
             onSave={handleSaveQuestions}
+          />
+        );
+      })()}
+
+      {/* Visualizador do Google Drive (Assistir direto na aba Hoje) */}
+      {activeMediaLessonId && (() => {
+        const lesson = allLessons.find((l) => l.id === activeMediaLessonId);
+        if (!lesson) return null;
+        const media = lessonMediaMap.get(lesson.id);
+        const volMedia = volumeMediaMap.get(lesson.volumeId);
+
+        return (
+          <DriveViewerModal
+            isOpen={true}
+            onClose={() => setActiveMediaLessonId(null)}
+            title={lesson.title}
+            subtitle={`${lesson.subjectName} • ${lesson.volumeName}`}
+            driveVideoId={media?.driveVideoId}
+            videoName={media?.videoName}
+            drivePdfId={volMedia?.drivePdfId}
+            pdfName={volMedia?.pdfName}
           />
         );
       })()}

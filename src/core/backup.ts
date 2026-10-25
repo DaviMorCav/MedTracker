@@ -6,6 +6,8 @@ import type {
   LessonReview,
   QuestionLog,
   QuestionAttempt,
+  LessonMedia,
+  VolumeMedia,
 } from '../db/schema';
 
 export interface BackupData {
@@ -20,6 +22,8 @@ export interface BackupData {
     questionLogs?: QuestionLog[];
     /** Ausente em backups antigos: nesse caso a importação não apaga as tentativas atuais. */
     questionAttempts?: QuestionAttempt[];
+    lessonMedia?: LessonMedia[];
+    volumeMedia?: VolumeMedia[];
   };
 }
 
@@ -63,7 +67,9 @@ export function validateBackupJson(jsonString: string): ValidationResult {
     Array.isArray(dataBlock.questionLogs) ||
     Array.isArray(dataBlock.questionAttempts) ||
     Array.isArray(dataBlock.apostila) ||
-    Array.isArray(dataBlock.volumeLinks);
+    Array.isArray(dataBlock.volumeLinks) ||
+    Array.isArray(dataBlock.lessonMedia) ||
+    Array.isArray(dataBlock.volumeMedia);
 
   if (!hasAnyKnownTable) {
     return {
@@ -84,6 +90,12 @@ export function validateBackupJson(jsonString: string): ValidationResult {
       questionLogs: Array.isArray(dataBlock.questionLogs) ? dataBlock.questionLogs : [],
       ...(Array.isArray(dataBlock.questionAttempts)
         ? { questionAttempts: dataBlock.questionAttempts }
+        : {}),
+      ...(Array.isArray(dataBlock.lessonMedia)
+        ? { lessonMedia: dataBlock.lessonMedia }
+        : {}),
+      ...(Array.isArray(dataBlock.volumeMedia)
+        ? { volumeMedia: dataBlock.volumeMedia }
         : {}),
     },
   };

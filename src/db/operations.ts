@@ -7,6 +7,9 @@ import type {
   QuestionLog,
   QuestionAttempt,
   LessonReview,
+  LessonMedia,
+  VolumeMedia,
+  DriveMediaImportData,
 } from './schema';
 import { createInitialReview } from '../core/srs';
 
@@ -264,4 +267,87 @@ export async function addQuestionAttempt(
   attempt: Omit<QuestionAttempt, 'id'>
 ): Promise<number> {
   return (await db.questionAttempts.add(attempt as QuestionAttempt)) as number;
+}
+
+/**
+ * Importa o mapeamento de IDs do Google Drive gerado pelo script.
+ * Aceita tanto o formato objeto { lessons: {...}, volumes: {...} }
+ * quanto arrays diretos.
+ */
+export async function importDriveMedia(
+  data: DriveMediaImportData
+): Promise<{ lessonsCount: number; volumesCount: number }> {
+  const now = Date.now();
+  const lessonsToSave: LessonMedia[] = [];
+  const volumesToSave: VolumeMedia[] = [];
+
+  if (data.lessons) {
+    for (const [lessonId, item] of Object.entries(data.lessons)) {
+      if (item && item.videoId) {
+        lessonsToSave.push({
+          lessonId,
+          driveVideoId: item.videoId.trim(),
+          videoName: item.videoName?.trim(),
+          updatedAt: now,
+        });
+      }
+    }
+  }
+
+  if (data.volumes) {
+    for (const [volumeId, item] of Object.entries(data.volumes)) {
+      if (item && item.pdfId) {
+        volumesToSave.push({
+          volumeId,
+          drivePdfId: item.pdfId.trim(),
+          pdfName: item.pdfName?.trim(),
+          updatedAt: now,
+        });
+      }
+    }
+  }
+
+  await db.transaction('rw', [db.lessonMedia, db.volumeMedia], async () => {
+    if (lessonsToSave.length > 0) {
+      await db.lessonMedia.bulkPut(lessonsToSave);
+    }
+    if (volumesToSave.length > 0) {
+      await db.volumeMedia.bulkPut(volumesToSave);
+    }
+  });
+
+  return {
+    lessonsCount: lessonsToSave.length,
+    volumesCount: volumesToSave.length,
+  };
+}
+
+/**
+ * Limpa todos os links de mídia importados do Drive.
+ */
+export async function clearAllDriveMedia(): Promise<void> {
+  await db.transaction('rw', [db.lessonMedia, db.volumeMedia], async () => {
+    await db.lessonMedia.clear();
+    await db.volumeMedia.clear();
+  });
+}
+
+/**
+ * Salva ou atualiza a mídia de uma aula específica.
+ */
+export async function saveLessonMedia(media: LessonMedia): Promise<void> {
+  await db.lessonMedia.put({
+    ...media,
+    updatedAt: Date.now(),
+  });
+}
+
+/**
+ * Salva ou atualiza a mídia de um volume específico.
+ */
+export async function saveVolumeMedia(media: VolumeMedia): Promise<void> {
+  await db.volumeMedia.put({
+    ...media,
+    updatedAt: Date.now(),
+  });
 }

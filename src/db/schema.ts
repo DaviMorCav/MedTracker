@@ -68,3 +68,22 @@ export interface QuestionAttempt {
   chosen: string; // letra marcada
   correct: boolean;
 }
+
+export interface LessonMedia {
+  lessonId: string;
+  driveVideoId: string;
+  videoName?: string;
+  updatedAt?: number;
+}
+
+export interface VolumeMedia {
+  volumeId: string;
+  drivePdfId: string;
+  pdfName?: string;
+  updatedAt?: number;
+}
+
+export interface DriveMediaImportData {
+  lessons?: Record<string, { videoId: string; videoName?: string }>;
+  volumes?: Record<string, { pdfId: string; pdfName?: string }>;
+}

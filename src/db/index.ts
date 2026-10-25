@@ -7,6 +7,8 @@ import type {
   LessonReview,
   QuestionLog,
   QuestionAttempt,
+  LessonMedia,
+  VolumeMedia,
 } from './schema';
 
 export * from './schema';
@@ -21,6 +23,8 @@ export class MedTrackerDB extends Dexie {
   reviews!: Table<LessonReview, string>;
   questionLogs!: Table<QuestionLog, number>;
   questionAttempts!: Table<QuestionAttempt, number>;
+  lessonMedia!: Table<LessonMedia, string>;
+  volumeMedia!: Table<VolumeMedia, string>;
 
   constructor() {
     super('MedTrackerDB');
@@ -35,6 +39,11 @@ export class MedTrackerDB extends Dexie {
     // v2: respostas a questões individuais do banco de questões
     this.version(2).stores({
       questionAttempts: '++id, questionId, materia, date',
+    });
+    // v3: vinculação de vídeos de aulas e apostilas em PDF do Google Drive
+    this.version(3).stores({
+      lessonMedia: 'lessonId',
+      volumeMedia: 'volumeId',
     });
   }
 }

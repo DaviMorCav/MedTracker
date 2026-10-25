@@ -12,6 +12,7 @@ import type {
   DriveMediaImportData,
 } from './schema';
 import { createInitialReview } from '../core/srs';
+import type { BackupData } from '../core/backup';
 
 export const DEFAULT_SETTINGS: UserSettings = {
   id: 'default',
@@ -351,3 +352,111 @@ export async function saveVolumeMedia(media: VolumeMedia): Promise<void> {
     updatedAt: Date.now(),
   });
 }
+
+/**
+ * Exporta todos os dados do banco local no formato BackupData.
+ */
+export async function exportCurrentBackup(): Promise<BackupData> {
+  const [
+    settings,
+    progress,
+    volumeLinks,
+    apostila,
+    reviews,
+    questionLogs,
+    questionAttempts,
+    lessonMedia,
+    volumeMedia,
+  ] = await Promise.all([
+    db.settings.toArray(),
+    db.progress.toArray(),
+    db.volumeLinks.toArray(),
+    db.apostila.toArray(),
+    db.reviews.toArray(),
+    db.questionLogs.toArray(),
+    db.questionAttempts.toArray(),
+    db.lessonMedia.toArray(),
+    db.volumeMedia.toArray(),
+  ]);
+
+  return {
+    version: 1,
+    exportedAt: new Date().toISOString(),
+    data: {
+      settings,
+      progress,
+      volumeLinks,
+      apostila,
+      reviews,
+      questionLogs,
+      questionAttempts,
+      lessonMedia,
+      volumeMedia,
+    },
+  };
+}
+
+/**
+ * Aplica um conjunto de BackupData ao banco IndexedDB em uma transação segura.
+ */
+export async function applyBackupData(backup: BackupData): Promise<{
+  progressCount: number;
+  reviewsCount: number;
+  questionsCount: number;
+}> {
+  const { data } = backup;
+
+  await db.transaction(
+    'rw',
+    [
+      db.settings,
+      db.progress,
+      db.volumeLinks,
+      db.apostila,
+      db.reviews,
+      db.questionLogs,
+      db.questionAttempts,
+      db.lessonMedia,
+      db.volumeMedia,
+    ],
+    async () => {
+      await db.settings.clear();
+      await db.progress.clear();
+      await db.volumeLinks.clear();
+      await db.apostila.clear();
+      await db.reviews.clear();
+      await db.questionLogs.clear();
+
+      if (data.settings?.length) await db.settings.bulkPut(data.settings);
+      if (data.progress?.length) await db.progress.bulkPut(data.progress);
+      if (data.volumeLinks?.length) await db.volumeLinks.bulkPut(data.volumeLinks);
+      if (data.apostila?.length) await db.apostila.bulkPut(data.apostila);
+      if (data.reviews?.length) await db.reviews.bulkPut(data.reviews);
+      if (data.questionLogs?.length) await db.questionLogs.bulkPut(data.questionLogs);
+
+      if (data.questionAttempts) {
+        await db.questionAttempts.clear();
+        if (data.questionAttempts.length) {
+          await db.questionAttempts.bulkPut(data.questionAttempts);
+        }
+      }
+
+      if (data.lessonMedia) {
+        await db.lessonMedia.clear();
+        if (data.lessonMedia.length) await db.lessonMedia.bulkPut(data.lessonMedia);
+      }
+
+      if (data.volumeMedia) {
+        await db.volumeMedia.clear();
+        if (data.volumeMedia.length) await db.volumeMedia.bulkPut(data.volumeMedia);
+      }
+    }
+  );
+
+  return {
+    progressCount: data.progress?.length || 0,
+    reviewsCount: data.reviews?.length || 0,
+    questionsCount: data.questionLogs?.length || 0,
+  };
+}
+

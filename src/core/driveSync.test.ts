@@ -9,8 +9,8 @@ describe('mergeBackupData', () => {
       exportedAt: '2026-10-25T10:00:00.000Z',
       data: {
         progress: [
-          { lessonId: 'aula-1', status: 'completed', completedOn: '2026-10-25' },
-          { lessonId: 'aula-2', status: 'pending' },
+          { lessonId: 'aula-1', status: 'concluida', completedOn: '2026-10-25' },
+          { lessonId: 'aula-2', status: 'nao_vista' },
         ],
       },
     };
@@ -20,8 +20,8 @@ describe('mergeBackupData', () => {
       exportedAt: '2026-10-25T12:00:00.000Z',
       data: {
         progress: [
-          { lessonId: 'aula-2', status: 'completed', completedOn: '2026-10-25' },
-          { lessonId: 'aula-3', status: 'completed', completedOn: '2026-10-25' },
+          { lessonId: 'aula-2', status: 'concluida', completedOn: '2026-10-25' },
+          { lessonId: 'aula-3', status: 'concluida', completedOn: '2026-10-25' },
         ],
       },
     };
@@ -30,9 +30,9 @@ describe('mergeBackupData', () => {
     const progress = merged.data.progress || [];
 
     expect(progress).toHaveLength(3);
-    expect(progress.find((p) => p.lessonId === 'aula-1')?.status).toBe('completed');
-    expect(progress.find((p) => p.lessonId === 'aula-2')?.status).toBe('completed');
-    expect(progress.find((p) => p.lessonId === 'aula-3')?.status).toBe('completed');
+    expect(progress.find((p) => p.lessonId === 'aula-1')?.status).toBe('concluida');
+    expect(progress.find((p) => p.lessonId === 'aula-2')?.status).toBe('concluida');
+    expect(progress.find((p) => p.lessonId === 'aula-3')?.status).toBe('concluida');
   });
 
   it('mantém a revisão mais avançada (maior step)', () => {
@@ -45,8 +45,8 @@ describe('mergeBackupData', () => {
             lessonId: 'aula-1',
             dueDate: '2026-10-26',
             step: 2,
-            intervalDays: 7,
             mastered: false,
+            history: [{ date: '2026-10-25', rating: 'bom' }],
           },
         ],
       },
@@ -61,8 +61,11 @@ describe('mergeBackupData', () => {
             lessonId: 'aula-1',
             dueDate: '2026-11-05',
             step: 3,
-            intervalDays: 15,
             mastered: false,
+            history: [
+              { date: '2026-10-20', rating: 'bom' },
+              { date: '2026-10-25', rating: 'facil' },
+            ],
           },
         ],
       },
@@ -70,7 +73,7 @@ describe('mergeBackupData', () => {
 
     const merged = mergeBackupData(localBackup, remoteBackup);
     expect(merged.data.reviews?.[0].step).toBe(3);
-    expect(merged.data.reviews?.[0].intervalDays).toBe(15);
+    expect(merged.data.reviews?.[0].dueDate).toBe('2026-11-05');
   });
 
   it('faz união de apostilas lidas e deduplicação de logs de questões', () => {
@@ -78,9 +81,9 @@ describe('mergeBackupData', () => {
       version: 1,
       exportedAt: '2026-10-25T10:00:00.000Z',
       data: {
-        apostila: [{ volumeId: 'v1', page: 1, read: true }],
+        apostila: [{ volumeId: 'v1', page: 1, completed: true }],
         questionLogs: [
-          { lessonId: 'aula-1', date: '2026-10-25', questionsDone: 10, questionsCorrect: 9 },
+          { lessonId: 'aula-1', date: '2026-10-25', total: 10, correct: 9 },
         ],
       },
     };
@@ -89,12 +92,12 @@ describe('mergeBackupData', () => {
       version: 1,
       exportedAt: '2026-10-25T12:00:00.000Z',
       data: {
-        apostila: [{ volumeId: 'v1', page: 2, read: true }],
+        apostila: [{ volumeId: 'v1', page: 2, completed: true }],
         questionLogs: [
           // Mesmo log (duplicata de sincronização anterior)
-          { lessonId: 'aula-1', date: '2026-10-25', questionsDone: 10, questionsCorrect: 9 },
+          { lessonId: 'aula-1', date: '2026-10-25', total: 10, correct: 9 },
           // Log novo
-          { lessonId: 'aula-2', date: '2026-10-25', questionsDone: 15, questionsCorrect: 12 },
+          { lessonId: 'aula-2', date: '2026-10-25', total: 15, correct: 12 },
         ],
       },
     };

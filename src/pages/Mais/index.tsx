@@ -8,8 +8,17 @@ import {
   toggleSubjectActive,
   importDriveMedia,
   clearAllDriveMedia,
+  exportCurrentBackup,
+  applyBackupData,
 } from '../../db/operations';
 import { validateBackupJson } from '../../core/backup';
+import { mergeBackupData } from '../../core/driveSync';
+import {
+  requestGoogleAccessToken,
+  findSyncFileId,
+  downloadSyncFromDrive,
+  uploadSyncToDrive,
+} from '../../services/googleDriveSync';
 import { getLocalDateString } from '../../core/dates';
 import { ConfirmModal } from '../../components/ConfirmModal';
 import type { UserSettings, LessonMedia, VolumeMedia } from '../../db/schema';
@@ -39,6 +48,25 @@ export const MaisPage: React.FC = () => {
   const [driveImportMsg, setDriveImportMsg] = useState<{ type: 'success' | 'error'; text: string } | null>(null);
 
   const fileInputRef = useRef<HTMLInputElement>(null);
+
+  // Sincronização em Nuvem via Google Drive
+  const [googleClientId, setGoogleClientId] = useState(() => {
+    return (
+      localStorage.getItem('medtracker_google_client_id') ||
+      (import.meta as unknown as { env?: { VITE_GOOGLE_CLIENT_ID?: string } }).env
+        ?.VITE_GOOGLE_CLIENT_ID ||
+      ''
+    );
+  });
+  const [clientIdInput, setClientIdInput] = useState(googleClientId);
+  const [showClientIdConfig, setShowClientIdConfig] = useState(false);
+  const [lastSyncTime, setLastSyncTime] = useState<string | null>(() => {
+    return localStorage.getItem('medtracker_last_sync_time');
+  });
+  const [isSyncing, setIsSyncing] = useState(false);
+  const [syncMsg, setSyncMsg] = useState<{ type: 'success' | 'error'; text: string } | null>(
+    null
+  );
 
   // Sincroniza o template de questões ao carregar settings
   useMemo(() => {
@@ -87,44 +115,7 @@ export const MaisPage: React.FC = () => {
 
   // ─── Exportar Backup JSON ──────────────────────────────────────────────────
   const handleExportBackup = async () => {
-    const [
-      settingsList,
-      progress,
-      volumeLinks,
-      apostila,
-      reviews,
-      questionLogs,
-      questionAttempts,
-      lessonMedia,
-      volumeMedia,
-    ] = await Promise.all([
-      db.settings.toArray(),
-      db.progress.toArray(),
-      db.volumeLinks.toArray(),
-      db.apostila.toArray(),
-      db.reviews.toArray(),
-      db.questionLogs.toArray(),
-      db.questionAttempts.toArray(),
-      db.lessonMedia.toArray(),
-      db.volumeMedia.toArray(),
-    ]);
-
-    const backup = {
-      version: 1,
-      exportedAt: new Date().toISOString(),
-      data: {
-        settings: settingsList,
-        progress,
-        volumeLinks,
-        apostila,
-        reviews,
-        questionLogs,
-        questionAttempts,
-        lessonMedia,
-        volumeMedia,
-      },
-    };
-
+    const backup = await exportCurrentBackup();
     const json = JSON.stringify(backup, null, 2);
     const blob = new Blob([json], { type: 'application/json' });
     const url = URL.createObjectURL(blob);
@@ -170,59 +161,81 @@ export const MaisPage: React.FC = () => {
     const result = validateBackupJson(pendingBackupJson);
     if (!result.valid || !result.backup) return;
 
-    const { data } = result.backup;
-
-    await db.transaction(
-      'rw',
-      [
-        db.settings,
-        db.progress,
-        db.volumeLinks,
-        db.apostila,
-        db.reviews,
-        db.questionLogs,
-        db.questionAttempts,
-        db.lessonMedia,
-        db.volumeMedia,
-      ],
-      async () => {
-        await db.settings.clear();
-        await db.progress.clear();
-        await db.volumeLinks.clear();
-        await db.apostila.clear();
-        await db.reviews.clear();
-        await db.questionLogs.clear();
-
-        if (data.settings?.length) await db.settings.bulkPut(data.settings);
-        if (data.progress?.length) await db.progress.bulkPut(data.progress);
-        if (data.volumeLinks?.length) await db.volumeLinks.bulkPut(data.volumeLinks);
-        if (data.apostila?.length) await db.apostila.bulkPut(data.apostila);
-        if (data.reviews?.length) await db.reviews.bulkPut(data.reviews);
-        if (data.questionLogs?.length) await db.questionLogs.bulkPut(data.questionLogs);
-
-        // Backups antigos não têm este campo: nesse caso mantém as tentativas atuais
-        if (data.questionAttempts) {
-          await db.questionAttempts.clear();
-          if (data.questionAttempts.length) await db.questionAttempts.bulkPut(data.questionAttempts);
-        }
-
-        if (data.lessonMedia) {
-          await db.lessonMedia.clear();
-          if (data.lessonMedia.length) await db.lessonMedia.bulkPut(data.lessonMedia);
-        }
-
-        if (data.volumeMedia) {
-          await db.volumeMedia.clear();
-          if (data.volumeMedia.length) await db.volumeMedia.bulkPut(data.volumeMedia);
-        }
-      }
-    );
+    const res = await applyBackupData(result.backup);
 
     setPendingBackupJson(null);
     setShowImportConfirm(false);
     setImportSuccess(
-      `Backup importado com sucesso: ${data.progress?.length || 0} progresso, ${data.reviews?.length || 0} revisões, ${data.questionLogs?.length || 0} questões.`
+      `Backup importado com sucesso: ${res.progressCount} progresso, ${res.reviewsCount} revisões, ${res.questionsCount} questões.`
     );
+  };
+
+  // ─── Sincronização em Nuvem (Google Drive) ──────────────────────────────────
+  const handleSaveClientId = () => {
+    const trimmed = clientIdInput.trim();
+    setGoogleClientId(trimmed);
+    localStorage.setItem('medtracker_google_client_id', trimmed);
+    setShowClientIdConfig(false);
+    setSyncMsg({ type: 'success', text: 'Client ID salvo com sucesso.' });
+  };
+
+  const handleSyncGoogleDrive = async () => {
+    if (!googleClientId) {
+      setShowClientIdConfig(true);
+      setSyncMsg({
+        type: 'error',
+        text: 'Configure o seu Google Client ID abaixo para habilitar a sincronização.',
+      });
+      return;
+    }
+
+    setIsSyncing(true);
+    setSyncMsg(null);
+
+    try {
+      // 1. Obtém token OAuth (escopo drive.file)
+      const token = await requestGoogleAccessToken(googleClientId);
+
+      // 2. Procura arquivo existente medtracker_sync.json no Drive
+      const fileId = await findSyncFileId(token);
+      const localBackup = await exportCurrentBackup();
+
+      let finalBackup = localBackup;
+
+      if (fileId) {
+        // Baixa o backup remoto
+        const remoteBackup = await downloadSyncFromDrive(token, fileId);
+        if (remoteBackup) {
+          // Mescla inteligentemente sem perder nada de nenhum dispositivo
+          finalBackup = mergeBackupData(localBackup, remoteBackup);
+          // Atualiza banco local
+          await applyBackupData(finalBackup);
+        }
+      }
+
+      // 3. Salva a versão unificada no Google Drive
+      await uploadSyncToDrive(token, finalBackup, fileId);
+
+      const now = new Date().toISOString();
+      setLastSyncTime(now);
+      localStorage.setItem('medtracker_last_sync_time', now);
+
+      const progCount =
+        finalBackup.data.progress?.filter((p) => p.status === 'concluida').length || 0;
+      const revCount = finalBackup.data.reviews?.length || 0;
+
+      setSyncMsg({
+        type: 'success',
+        text: `Sincronizado com sucesso! (${progCount} aulas concluídas e ${revCount} revisões unificadas).`,
+      });
+    } catch (err) {
+      setSyncMsg({
+        type: 'error',
+        text: err instanceof Error ? err.message : 'Falha ao sincronizar com Google Drive.',
+      });
+    } finally {
+      setIsSyncing(false);
+    }
   };
 
   // ─── Importar Mapeamento do Drive ──────────────────────────────────────────
@@ -571,7 +584,94 @@ export const MaisPage: React.FC = () => {
         )}
       </section>
 
-      {/* ── 5. Backup: Exportar e Importar ──────────────────────────────────── */}
+      {/* ── 5. Sincronização em Nuvem (Google Drive) ─────────────────────────── */}
+      <section className="bg-slate-900 border border-slate-800 rounded-xl p-4 space-y-3">
+        <div className="flex items-center justify-between">
+          <h2 className="text-xs font-bold uppercase tracking-wider text-indigo-400">
+            Sincronização em Nuvem (Google Drive)
+          </h2>
+          {lastSyncTime && (
+            <span className="text-[11px] text-slate-400">
+              Última: {new Date(lastSyncTime).toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' })} ({new Date(lastSyncTime).toLocaleDateString('pt-BR', { day: '2-digit', month: '2-digit' })})
+            </span>
+          )}
+        </div>
+        <p className="text-xs text-slate-400 leading-relaxed">
+          Unifique seu progresso de estudos, revisões e questões entre computador, tablet e celular direto no seu Google Drive pessoal, com segurança.
+        </p>
+
+        <div className="flex flex-wrap items-center gap-2 pt-1">
+          <button
+            type="button"
+            onClick={handleSyncGoogleDrive}
+            disabled={isSyncing}
+            className="py-2 px-3.5 bg-indigo-600 hover:bg-indigo-500 disabled:opacity-50 text-white rounded-lg text-xs font-semibold transition-colors flex items-center gap-1.5 shadow-sm"
+          >
+            {isSyncing ? (
+              <svg className="w-4 h-4 animate-spin" fill="none" viewBox="0 0 24 24">
+                <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
+                <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8v4a4 4 0 00-4 4H4z"></path>
+              </svg>
+            ) : (
+              <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
+              </svg>
+            )}
+            <span>{isSyncing ? 'Sincronizando...' : 'Sincronizar Agora'}</span>
+          </button>
+
+          <button
+            type="button"
+            onClick={() => setShowClientIdConfig(!showClientIdConfig)}
+            className="py-2 px-3 bg-slate-800 hover:bg-slate-700 text-slate-300 border border-slate-700 rounded-lg text-xs font-semibold transition-colors flex items-center gap-1.5"
+          >
+            <span>{googleClientId ? 'Configuração' : 'Configurar ID'}</span>
+          </button>
+        </div>
+
+        {/* Formulário colapsável de Client ID */}
+        {showClientIdConfig && (
+          <div className="p-3 bg-slate-950/60 rounded-lg border border-slate-800 space-y-2 mt-2">
+            <label className="block text-xs font-semibold text-slate-300">
+              Google OAuth Client ID (Web Application)
+            </label>
+            <input
+              type="text"
+              value={clientIdInput}
+              onChange={(e) => setClientIdInput(e.target.value)}
+              placeholder="ex: 123456789-abc.apps.googleusercontent.com"
+              className="w-full text-xs bg-slate-900 border border-slate-700 rounded-lg px-3 py-2 text-slate-200 focus:outline-none focus:border-indigo-500 font-mono"
+            />
+            <div className="flex items-center justify-between gap-2 pt-1">
+              <span className="text-[11px] text-slate-400">
+                Criado gratuitamente no Google Cloud Console (Origens autorizadas: seu domínio ou localhost).
+              </span>
+              <button
+                type="button"
+                onClick={handleSaveClientId}
+                className="py-1 px-3 bg-indigo-600 hover:bg-indigo-500 text-white rounded-lg text-xs font-semibold shrink-0 transition-colors"
+              >
+                Salvar
+              </button>
+            </div>
+          </div>
+        )}
+
+        {/* Feedback de Sincronização */}
+        {syncMsg && (
+          <div
+            className={`p-2.5 rounded-lg text-xs ${
+              syncMsg.type === 'success'
+                ? 'bg-emerald-950/70 border border-emerald-800 text-emerald-200'
+                : 'bg-rose-950/70 border border-rose-800 text-rose-200'
+            }`}
+          >
+            {syncMsg.text}
+          </div>
+        )}
+      </section>
+
+      {/* ── 6. Backup: Exportar e Importar ──────────────────────────────────── */}
       <section className="bg-slate-900 border border-slate-800 rounded-xl p-4 space-y-4">
         <div>
           <h2 className="text-xs font-bold uppercase tracking-wider text-indigo-400">

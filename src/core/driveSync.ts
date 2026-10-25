@@ -17,27 +17,29 @@ export function mergeBackupData(local: BackupData, remote: BackupData): BackupDa
   const localData = local.data;
   const remoteData = remote.data;
 
-  // 1. Progresso das aulas (progress): se qualquer um marcou como 'completed', mantém completed
+  // 1. Progresso das aulas (progress): se qualquer um marcou como 'concluida', mantém 'concluida'
   const progressMap = new Map<string, LessonProgress>();
   for (const p of [...(localData.progress || []), ...(remoteData.progress || [])]) {
     const existing = progressMap.get(p.lessonId);
     if (!existing) {
       progressMap.set(p.lessonId, p);
     } else {
-      if (p.status === 'completed' && existing.status !== 'completed') {
+      if (p.status === 'concluida' && existing.status !== 'concluida') {
         progressMap.set(p.lessonId, p);
-      } else if (p.status === 'completed' && existing.status === 'completed') {
+      } else if (p.status === 'concluida' && existing.status === 'concluida') {
         // Mantém a data de conclusão mais recente ou a que existir
         const dateA = p.completedOn || '';
         const dateB = existing.completedOn || '';
         if (dateA >= dateB) {
           progressMap.set(p.lessonId, p);
         }
+      } else if (p.status === 'assistindo' && existing.status === 'nao_vista') {
+        progressMap.set(p.lessonId, p);
       }
     }
   }
 
-  // 2. Revisões espaçadas (reviews): mantém o maior step ou data de revisão mais avançada
+  // 2. Revisões espaçadas (reviews): mantém o maior step ou histórico mais extenso
   const reviewsMap = new Map<string, LessonReview>();
   for (const r of [...(localData.reviews || []), ...(remoteData.reviews || [])]) {
     const existing = reviewsMap.get(r.lessonId);
@@ -49,16 +51,16 @@ export function mergeBackupData(local: BackupData, remote: BackupData): BackupDa
       if (stepA > stepB) {
         reviewsMap.set(r.lessonId, r);
       } else if (stepA === stepB) {
-        const lastA = r.lastReviewDate || '';
-        const lastB = existing.lastReviewDate || '';
-        if (lastA >= lastB) {
+        const histA = r.history?.length || 0;
+        const histB = existing.history?.length || 0;
+        if (histA >= histB) {
           reviewsMap.set(r.lessonId, r);
         }
       }
     }
   }
 
-  // 3. Progresso de Apostilas: se leu em qualquer um, fica marcado como lido
+  // 3. Progresso de Apostilas: se concluiu em qualquer um, fica marcado como concluído
   const apostilaMap = new Map<string, ApostilaProgress>();
   for (const a of [...(localData.apostila || []), ...(remoteData.apostila || [])]) {
     const key = `${a.volumeId}-${a.page}`;
@@ -66,8 +68,12 @@ export function mergeBackupData(local: BackupData, remote: BackupData): BackupDa
     if (!existing) {
       apostilaMap.set(key, a);
     } else {
-      if (a.read || existing.read) {
-        apostilaMap.set(key, { ...existing, read: true, readAt: a.readAt || existing.readAt });
+      if (a.completed || existing.completed) {
+        apostilaMap.set(key, {
+          ...existing,
+          completed: true,
+          completedAt: a.completedAt || existing.completedAt,
+        });
       }
     }
   }
@@ -76,7 +82,7 @@ export function mergeBackupData(local: BackupData, remote: BackupData): BackupDa
   const questionLogs: QuestionLog[] = [];
   const logSignatures = new Set<string>();
   for (const log of [...(localData.questionLogs || []), ...(remoteData.questionLogs || [])]) {
-    const sig = `${log.lessonId || ''}_${log.date}_${log.questionsDone}_${log.questionsCorrect}`;
+    const sig = `${log.lessonId || ''}_${log.date}_${log.total}_${log.correct}`;
     if (!logSignatures.has(sig)) {
       logSignatures.add(sig);
       questionLogs.push(log);
@@ -87,7 +93,7 @@ export function mergeBackupData(local: BackupData, remote: BackupData): BackupDa
   const questionAttempts: QuestionAttempt[] = [];
   const attemptSignatures = new Set<string>();
   for (const att of [...(localData.questionAttempts || []), ...(remoteData.questionAttempts || [])]) {
-    const sig = `${att.questionId}_${att.date}_${att.selectedIndex}`;
+    const sig = `${att.questionId}_${att.date}_${att.chosen}_${att.answeredAt}`;
     if (!attemptSignatures.has(sig)) {
       attemptSignatures.add(sig);
       questionAttempts.push(att);

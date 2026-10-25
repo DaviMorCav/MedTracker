@@ -13,6 +13,7 @@ import {
 } from '../../db/operations';
 import { validateBackupJson } from '../../core/backup';
 import { mergeBackupData } from '../../core/driveSync';
+import { logoutUser, getStoredAuthUser } from '../../components/AuthGate';
 import {
   requestGoogleAccessToken,
   findSyncFileId,
@@ -48,6 +49,7 @@ export const MaisPage: React.FC = () => {
   const [driveImportMsg, setDriveImportMsg] = useState<{ type: 'success' | 'error'; text: string } | null>(null);
 
   const fileInputRef = useRef<HTMLInputElement>(null);
+  const authUser = useMemo(() => getStoredAuthUser(), []);
 
   // Sincronização em Nuvem via Google Drive
   const [googleClientId, setGoogleClientId] = useState(() => {
@@ -295,6 +297,35 @@ export const MaisPage: React.FC = () => {
         <h1 className="text-xl font-bold text-slate-100">Ajustes</h1>
         <p className="text-xs text-slate-400 mt-0.5">Configurações do MedTracker</p>
       </div>
+
+      {/* ── 0. Conta de Acesso ─────────────────────────────────────────────── */}
+      <section className="bg-slate-900 border border-slate-800 rounded-xl p-3.5 flex items-center justify-between gap-3 shadow-sm">
+        <div className="flex items-center gap-3">
+          {authUser?.picture ? (
+            <img src={authUser.picture} alt="" className="w-9 h-9 rounded-full border border-indigo-500/40" />
+          ) : (
+            <div className="w-9 h-9 rounded-full bg-indigo-600/30 border border-indigo-500/40 flex items-center justify-center text-indigo-300 font-bold text-sm">
+              {authUser?.name?.[0] || 'D'}
+            </div>
+          )}
+          <div>
+            <div className="flex items-center gap-2">
+              <p className="text-sm font-semibold text-slate-200">{authUser?.name || 'Davi Moreira'}</p>
+              <span className="text-[10px] bg-emerald-950/80 border border-emerald-800 text-emerald-300 px-1.5 py-0.5 rounded font-medium">
+                Ativo
+              </span>
+            </div>
+            <p className="text-xs text-slate-400">{authUser?.email || 'davimoreira1307@gmail.com'}</p>
+          </div>
+        </div>
+        <button
+          type="button"
+          onClick={logoutUser}
+          className="py-1.5 px-3 bg-slate-800 hover:bg-slate-700 text-slate-300 border border-slate-700 rounded-lg text-xs font-semibold transition-colors"
+        >
+          Sair
+        </button>
+      </section>
 
       {/* ── 1. Metas Diárias ────────────────────────────────────────────────── */}
       <section className="bg-slate-900 border border-slate-800 rounded-xl p-4 space-y-4">

@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+﻿import React, { useState, useEffect } from 'react';
 
 export const AUTHORIZED_EMAIL = 'davimoreira1307@gmail.com';
 const AUTH_STORAGE_KEY = 'medtracker_auth_user';
@@ -128,7 +128,7 @@ export const AuthGate: React.FC<AuthGateProps> = ({ children }) => {
 
   // Login de verificação direta para o Davi
   const handleDirectOwnerLogin = () => {
-    if (pinInput.trim() === '2026') {
+    if (pinInput.trim() === '2607') {
       const newUser: AuthUser = {
         email: AUTHORIZED_EMAIL,
         name: 'Davi Moreira',
@@ -215,15 +215,14 @@ export const AuthGate: React.FC<AuthGateProps> = ({ children }) => {
           {showPinFallback && (
             <div className="w-full space-y-3 pt-2 text-left bg-slate-950/80 p-3.5 rounded-xl border border-slate-800">
               <label className="block text-[11px] font-semibold text-slate-300">
-                Confirme seu PIN de Acesso Pessoal (2026):
+                Digite seu PIN de acesso:
               </label>
               <div className="flex gap-2">
                 <input
                   type="password"
                   value={pinInput}
                   onChange={(e) => setPinInput(e.target.value)}
-                  placeholder="PIN..."
-                  autoFocus
+                  placeholder="PIN de acesso pessoal..."                  autoFocus
                   className="w-full text-center tracking-widest text-sm bg-slate-900 border border-slate-700 rounded-lg px-3 py-2 text-white focus:outline-none focus:border-indigo-500 font-mono"
                   onKeyDown={(e) => {
                     if (e.key === 'Enter') handleDirectOwnerLogin();

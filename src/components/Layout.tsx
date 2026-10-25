@@ -1,6 +1,5 @@
 import React from 'react';
-import { Link, NavLink, Outlet, useLocation } from 'react-router-dom';
-import { motion, useReducedMotion } from 'framer-motion';
+import { Link, NavLink, Outlet } from 'react-router-dom';
 import { db } from '../db';
 import { useLiveQuery } from '../db/useLiveQuery';
 import { DEFAULT_SETTINGS } from '../db/operations';
@@ -50,9 +49,6 @@ const TabIcon: React.FC<{ path: string; className: string }> = ({ path, classNam
 const TAG_COLORS = ['bg-rose-500', 'bg-amber-500', 'bg-emerald-500', 'bg-blue-500', 'bg-purple-500', 'bg-indigo-500'];
 
 export const Layout: React.FC = () => {
-  const location = useLocation();
-  const shouldReduceMotion = useReducedMotion();
-
   const settings = useLiveQuery<UserSettings>(
     async () => (await db.settings.get('default')) || DEFAULT_SETTINGS,
     [],
@@ -120,17 +116,11 @@ export const Layout: React.FC = () => {
         )}
       </aside>
 
-      {/* Conteúdo Principal com transição ágil e fluida de abas */}
+      {/* Conteúdo Principal */}
       <main className="flex-1 min-w-0 w-full mx-auto px-4 pt-4 pb-24 md:pl-64 md:pr-8 md:pt-6 md:pb-10 md:max-w-none">
-        <motion.div
-          key={location.pathname}
-          initial={{ opacity: 0 }}
-          animate={{ opacity: 1 }}
-          transition={{ duration: shouldReduceMotion ? 0 : 0.12, ease: [0.32, 0.72, 0, 1] }}
-          className="mx-auto w-full max-w-md md:max-w-6xl"
-        >
+        <div className="mx-auto w-full max-w-md md:max-w-6xl">
           <Outlet />
-        </motion.div>
+        </div>
       </main>
 
       {/* Barra de navegação inferior (celular) com feedback tátil de toque (Item 11) */}

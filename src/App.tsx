@@ -18,7 +18,8 @@ export const App: React.FC = () => {
     async function seedDriveMediaIfEmpty() {
       try {
         const count = await db.lessonMedia.count();
-        if (count === 0) {
+        const apostilaCount = await db.apostilaMedia.count();
+        if (count === 0 || apostilaCount === 0) {
           const resp = await fetch('/drive_links.json');
           if (resp.ok) {
             const json = await resp.json();

@@ -357,9 +357,10 @@ export async function importDriveMedia(
  * Limpa todos os links de mídia importados do Drive.
  */
 export async function clearAllDriveMedia(): Promise<void> {
-  await db.transaction('rw', [db.lessonMedia, db.volumeMedia], async () => {
+  await db.transaction('rw', [db.lessonMedia, db.volumeMedia, db.apostilaMedia], async () => {
     await db.lessonMedia.clear();
     await db.volumeMedia.clear();
+    await db.apostilaMedia.clear();
   });
 }
 
@@ -397,6 +398,7 @@ export async function exportCurrentBackup(): Promise<BackupData> {
     questionAttempts,
     lessonMedia,
     volumeMedia,
+    apostilaMedia,
   ] = await Promise.all([
     db.settings.toArray(),
     db.progress.toArray(),
@@ -407,6 +409,7 @@ export async function exportCurrentBackup(): Promise<BackupData> {
     db.questionAttempts.toArray(),
     db.lessonMedia.toArray(),
     db.volumeMedia.toArray(),
+    db.apostilaMedia.toArray(),
   ]);
 
   return {
@@ -422,6 +425,7 @@ export async function exportCurrentBackup(): Promise<BackupData> {
       questionAttempts,
       lessonMedia,
       volumeMedia,
+      apostilaMedia,
     },
   };
 }
@@ -448,6 +452,7 @@ export async function applyBackupData(backup: BackupData): Promise<{
       db.questionAttempts,
       db.lessonMedia,
       db.volumeMedia,
+      db.apostilaMedia,
     ],
     async () => {
       await db.settings.clear();
@@ -479,6 +484,11 @@ export async function applyBackupData(backup: BackupData): Promise<{
       if (data.volumeMedia) {
         await db.volumeMedia.clear();
         if (data.volumeMedia.length) await db.volumeMedia.bulkPut(data.volumeMedia);
+      }
+
+      if (data.apostilaMedia) {
+        await db.apostilaMedia.clear();
+        if (data.apostilaMedia.length) await db.apostilaMedia.bulkPut(data.apostilaMedia);
       }
     }
   );

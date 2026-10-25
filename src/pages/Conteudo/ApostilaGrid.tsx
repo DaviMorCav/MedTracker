@@ -6,6 +6,7 @@ interface ApostilaGridProps {
   apostilaNumbers: number[];
   markedPages: Set<number>;
   drivePdfId?: string;
+  driveItemsMap?: Map<number, string>;
   onOpenPdf?: () => void;
   onTogglePage: (volumeId: string, page: number) => void;
   onSetAll: (volumeId: string, pages: number[], completed: boolean) => void;
@@ -16,6 +17,7 @@ export const ApostilaGrid: React.FC<ApostilaGridProps> = ({
   apostilaNumbers,
   markedPages,
   drivePdfId,
+  driveItemsMap,
   onOpenPdf,
   onTogglePage,
   onSetAll,
@@ -34,12 +36,15 @@ export const ApostilaGrid: React.FC<ApostilaGridProps> = ({
   const allCompleted = completedCount === totalCount;
 
   const handleNumberClick = (page: number) => {
-    // Abre a apostila no Drive
-    if (onOpenPdf) {
+    const itemDriveId = driveItemsMap?.get(page);
+    if (itemDriveId) {
+      window.open(`https://drive.google.com/file/d/${itemDriveId}/view`, '_blank');
+    } else if (onOpenPdf) {
       onOpenPdf();
     } else if (drivePdfId) {
       window.open(`https://drive.google.com/file/d/${drivePdfId}/view`, '_blank');
     }
+
     // Marca como lido se ainda não estiver
     if (!markedPages.has(page)) {
       onTogglePage(volumeId, page);
@@ -79,18 +84,23 @@ export const ApostilaGrid: React.FC<ApostilaGridProps> = ({
       <div className="grid grid-cols-6 sm:grid-cols-8 md:grid-cols-10 gap-1.5">
         {apostilaNumbers.map((page) => {
           const isDone = markedPages.has(page);
+          const hasDriveLink = Boolean(driveItemsMap?.get(page));
           return (
             <motion.button
               key={page}
               type="button"
               whileTap={{ scale: 0.93 }}
               onClick={() => handleNumberClick(page)}
+              onContextMenu={(e) => {
+                e.preventDefault();
+                onTogglePage(volumeId, page);
+              }}
               className={`relative h-9 rounded-lg font-medium text-xs flex items-center justify-center transition-all select-none group shadow-sm ${
                 isDone
                   ? 'bg-emerald-600 text-white font-semibold shadow-emerald-950/30'
                   : 'bg-slate-800/90 text-slate-300 border border-slate-700/60 hover:bg-slate-750 hover:text-slate-50 hover:border-indigo-500/50'
               }`}
-              title={`Apostila ${page}: ${isDone ? 'Concluída' : 'Não lida'} • Clique para abrir no Drive`}
+              title={`Apostila ${page}: ${isDone ? 'Concluída' : 'Não lida'}${hasDriveLink ? ' • Clique para abrir vídeo no Drive' : ''} (botão direito para alternar)`}
             >
               <span>{page}</span>
               {/* Indicador sutil de link para Drive */}

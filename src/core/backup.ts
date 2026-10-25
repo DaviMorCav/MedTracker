@@ -8,6 +8,7 @@ import type {
   QuestionAttempt,
   LessonMedia,
   VolumeMedia,
+  ApostilaMedia,
 } from '../db/schema';
 
 export interface BackupData {
@@ -24,6 +25,7 @@ export interface BackupData {
     questionAttempts?: QuestionAttempt[];
     lessonMedia?: LessonMedia[];
     volumeMedia?: VolumeMedia[];
+    apostilaMedia?: ApostilaMedia[];
   };
 }
 
@@ -69,7 +71,8 @@ export function validateBackupJson(jsonString: string): ValidationResult {
     Array.isArray(dataBlock.apostila) ||
     Array.isArray(dataBlock.volumeLinks) ||
     Array.isArray(dataBlock.lessonMedia) ||
-    Array.isArray(dataBlock.volumeMedia);
+    Array.isArray(dataBlock.volumeMedia) ||
+    Array.isArray(dataBlock.apostilaMedia);
 
   if (!hasAnyKnownTable) {
     return {
@@ -96,6 +99,9 @@ export function validateBackupJson(jsonString: string): ValidationResult {
         : {}),
       ...(Array.isArray(dataBlock.volumeMedia)
         ? { volumeMedia: dataBlock.volumeMedia }
+        : {}),
+      ...(Array.isArray(dataBlock.apostilaMedia)
+        ? { apostilaMedia: dataBlock.apostilaMedia }
         : {}),
     },
   };

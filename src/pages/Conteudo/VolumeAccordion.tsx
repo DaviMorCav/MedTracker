@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useMemo } from 'react';
 import type { VolumeWithSubject, LessonKind } from '../../data/curriculum';
 import type {
   LessonProgress,
@@ -6,6 +6,7 @@ import type {
   QuestionLog,
   LessonStatus,
   VolumeMedia,
+  ApostilaMedia,
 } from '../../db/schema';
 import { db } from '../../db';
 import { useLiveQuery } from '../../db/useLiveQuery';
@@ -58,6 +59,23 @@ export const VolumeAccordion: React.FC<VolumeAccordionProps> = ({
     [volume.id],
     undefined
   );
+
+  // Mídia dos itens de apostila (Google Drive vídeos por página/item)
+  const apostilaMediaItems = useLiveQuery<ApostilaMedia[]>(
+    () => db.apostilaMedia.where('volumeId').equals(volume.id).toArray(),
+    [volume.id],
+    []
+  );
+
+  const driveItemsMap = useMemo(() => {
+    const map = new Map<number, string>();
+    if (apostilaMediaItems) {
+      for (const item of apostilaMediaItems) {
+        map.set(item.page, item.driveFileId);
+      }
+    }
+    return map;
+  }, [apostilaMediaItems]);
 
   const aulas = volume.lessons.filter((l) => l.kind === 'aula');
   const bonus = volume.lessons.filter((l) => l.kind === 'bonus');
@@ -413,6 +431,7 @@ export const VolumeAccordion: React.FC<VolumeAccordionProps> = ({
               apostilaNumbers={volume.apostila}
               markedPages={apostilaMarkedPages}
               drivePdfId={volumeMedia?.drivePdfId}
+              driveItemsMap={driveItemsMap}
               onOpenPdf={() => setShowPdfViewer(true)}
               onTogglePage={onToggleApostilaPage}
               onSetAll={onSetAllApostila}

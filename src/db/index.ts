@@ -9,6 +9,7 @@ import type {
   QuestionAttempt,
   LessonMedia,
   VolumeMedia,
+  ApostilaMedia,
 } from './schema';
 
 export * from './schema';
@@ -25,6 +26,7 @@ export class MedTrackerDB extends Dexie {
   questionAttempts!: Table<QuestionAttempt, number>;
   lessonMedia!: Table<LessonMedia, string>;
   volumeMedia!: Table<VolumeMedia, string>;
+  apostilaMedia!: Table<ApostilaMedia, [string, number]>;
 
   constructor() {
     super('MedTrackerDB');
@@ -44,6 +46,10 @@ export class MedTrackerDB extends Dexie {
     this.version(3).stores({
       lessonMedia: 'lessonId',
       volumeMedia: 'volumeId',
+    });
+    // v4: links individuais de itens de apostila no Google Drive
+    this.version(4).stores({
+      apostilaMedia: '[volumeId+page], volumeId',
     });
   }
 }

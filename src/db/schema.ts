@@ -86,7 +86,16 @@ export interface VolumeMedia {
   updatedAt?: number;
 }
 
+export interface ApostilaMedia {
+  volumeId: string;
+  page: number;
+  driveFileId: string;
+  updatedAt?: number;
+}
+
 export interface DriveMediaImportData {
   lessons?: Record<string, { videoId: string; videoName?: string }>;
   volumes?: Record<string, { pdfId: string; pdfName?: string }>;
+  /** volumeId -> pageNumber(string) -> driveFileId */
+  apostilaItems?: Record<string, Record<string, string>>;
 }

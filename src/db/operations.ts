@@ -9,6 +9,7 @@ import type {
   LessonReview,
   LessonMedia,
   VolumeMedia,
+  ApostilaMedia,
   DriveMediaImportData,
 } from './schema';
 import { createInitialReview } from '../core/srs';
@@ -290,10 +291,11 @@ export async function addQuestionAttempt(
  */
 export async function importDriveMedia(
   data: DriveMediaImportData
-): Promise<{ lessonsCount: number; volumesCount: number }> {
+): Promise<{ lessonsCount: number; volumesCount: number; apostilaItemsCount: number }> {
   const now = Date.now();
   const lessonsToSave: LessonMedia[] = [];
   const volumesToSave: VolumeMedia[] = [];
+  const apostilaToSave: ApostilaMedia[] = [];
 
   if (data.lessons) {
     for (const [lessonId, item] of Object.entries(data.lessons)) {
@@ -321,18 +323,33 @@ export async function importDriveMedia(
     }
   }
 
-  await db.transaction('rw', [db.lessonMedia, db.volumeMedia], async () => {
+  if (data.apostilaItems) {
+    for (const [volumeId, pages] of Object.entries(data.apostilaItems)) {
+      for (const [pageStr, driveFileId] of Object.entries(pages)) {
+        const page = parseInt(pageStr, 10);
+        if (!isNaN(page) && driveFileId) {
+          apostilaToSave.push({ volumeId, page, driveFileId: driveFileId.trim(), updatedAt: now });
+        }
+      }
+    }
+  }
+
+  await db.transaction('rw', [db.lessonMedia, db.volumeMedia, db.apostilaMedia], async () => {
     if (lessonsToSave.length > 0) {
       await db.lessonMedia.bulkPut(lessonsToSave);
     }
     if (volumesToSave.length > 0) {
       await db.volumeMedia.bulkPut(volumesToSave);
     }
+    if (apostilaToSave.length > 0) {
+      await db.apostilaMedia.bulkPut(apostilaToSave);
+    }
   });
 
   return {
     lessonsCount: lessonsToSave.length,
     volumesCount: volumesToSave.length,
+    apostilaItemsCount: apostilaToSave.length,
   };
 }
 

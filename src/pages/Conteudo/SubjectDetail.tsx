@@ -91,10 +91,10 @@ export const SubjectDetail: React.FC<SubjectDetailProps> = ({
 
   return (
     <motion.div
-      initial={{ opacity: 0, x: shouldReduceMotion ? 0 : 16 }}
+      initial={{ opacity: 0, x: shouldReduceMotion ? 0 : 12 }}
       animate={{ opacity: 1, x: 0 }}
-      exit={{ opacity: 0, x: shouldReduceMotion ? 0 : -16 }}
-      transition={{ duration: shouldReduceMotion ? 0 : 0.25, ease: 'easeOut' }}
+      exit={{ opacity: 0, x: shouldReduceMotion ? 0 : -12 }}
+      transition={{ duration: shouldReduceMotion ? 0 : 0.22, ease: [0.32, 0.72, 0, 1] }}
       className="space-y-4"
     >
       {/* Botão Voltar (só no celular; no computador a lista fica ao lado) */}

@@ -1,5 +1,5 @@
 import React, { useEffect, useState, useRef } from 'react';
-import { motion, useReducedMotion } from 'framer-motion';
+import { motion, useReducedMotion, useDragControls } from 'framer-motion';
 import { db } from '../../db';
 import { useLiveQuery } from '../../db/useLiveQuery';
 import { lessonById, volumeById, subjectById } from '../../data/curriculum';
@@ -46,6 +46,7 @@ export const LessonDetailSheet: React.FC<LessonDetailSheetProps> = ({
   onOpenQuestionsModal,
 }) => {
   const shouldReduceMotion = useReducedMotion();
+  const dragControls = useDragControls();
   const lesson = lessonId ? lessonById.get(lessonId) : null;
   const progress = lessonId ? progressMap.get(lessonId) : undefined;
   const review = lessonId ? reviewsMap.get(lessonId) : undefined;
@@ -169,26 +170,31 @@ export const LessonDetailSheet: React.FC<LessonDetailSheetProps> = ({
       {/* Painel com gesto de arrastar para fechar (Bottom Sheet no celular, Slide no desktop) */}
       <motion.div
         drag="y"
+        dragListener={false}
+        dragControls={dragControls}
         dragConstraints={{ top: 0, bottom: 0 }}
-        dragElastic={{ top: 0.05, bottom: 0.6 }}
+        dragElastic={{ top: 0, bottom: 0.5 }}
         onDragEnd={(_, info) => {
-          if (info.offset.y > 110 || info.velocity.y > 450) {
+          if (info.offset.y > 90 || info.velocity.y > 400) {
             onClose();
           }
         }}
-        initial={{ y: '100%', opacity: 0.8 }}
-        animate={{ y: 0, opacity: 1 }}
-        exit={{ y: '100%', opacity: 0 }}
+        initial={{ y: '100%' }}
+        animate={{ y: 0 }}
+        exit={{ y: '100%' }}
         transition={
           shouldReduceMotion
             ? { duration: 0 }
-            : { type: 'spring', damping: 28, stiffness: 300, mass: 0.8 }
+            : { type: 'spring', damping: 32, stiffness: 350, mass: 0.8 }
         }
         className="relative w-full sm:max-w-lg bg-slate-900 border-t sm:border-t-0 sm:border-l border-slate-800 rounded-t-3xl sm:rounded-none h-[88vh] sm:h-full overflow-y-auto flex flex-col shadow-2xl z-10"
       >
         {/* Barra de puxar no topo (iOS Drag Handle) */}
-        <div className="sm:hidden pt-3 pb-1 flex justify-center cursor-grab active:cursor-grabbing">
-          <div className="w-10 h-1.5 rounded-full bg-slate-700/80" />
+        <div
+          className="sm:hidden pt-3 pb-2 flex justify-center cursor-grab active:cursor-grabbing touch-none select-none"
+          onPointerDown={(e) => dragControls.start(e)}
+        >
+          <div className="w-12 h-1.5 rounded-full bg-slate-600/80 active:bg-slate-400 transition-colors" />
         </div>
 
         {/* Header */}

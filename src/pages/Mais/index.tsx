@@ -159,10 +159,10 @@ export const MaisPage: React.FC = () => {
           /* ── TELA DEDICADA: Matérias ativas e ordem (Item 7 e 11) ── */
           <motion.div
             key="subjects-screen"
-            initial={{ opacity: 0, x: shouldReduceMotion ? 0 : 20 }}
+            initial={{ opacity: 0, x: shouldReduceMotion ? 0 : 16 }}
             animate={{ opacity: 1, x: 0 }}
-            exit={{ opacity: 0, x: shouldReduceMotion ? 0 : -20 }}
-            transition={{ duration: shouldReduceMotion ? 0 : 0.25, ease: 'easeOut' }}
+            exit={{ opacity: 0, x: shouldReduceMotion ? 0 : -16 }}
+            transition={{ duration: shouldReduceMotion ? 0 : 0.22, ease: [0.32, 0.72, 0, 1] }}
             className="space-y-4"
           >
             <div>
@@ -284,10 +284,10 @@ export const MaisPage: React.FC = () => {
           /* ── TELA PRINCIPAL DE AJUSTES ── */
           <motion.div
             key="main-settings"
-            initial={{ opacity: 0, x: shouldReduceMotion ? 0 : -20 }}
+            initial={{ opacity: 0, x: shouldReduceMotion ? 0 : -16 }}
             animate={{ opacity: 1, x: 0 }}
-            exit={{ opacity: 0, x: shouldReduceMotion ? 0 : 20 }}
-            transition={{ duration: shouldReduceMotion ? 0 : 0.25, ease: 'easeOut' }}
+            exit={{ opacity: 0, x: shouldReduceMotion ? 0 : 16 }}
+            transition={{ duration: shouldReduceMotion ? 0 : 0.22, ease: [0.32, 0.72, 0, 1] }}
             className="space-y-6"
           >
             <div>

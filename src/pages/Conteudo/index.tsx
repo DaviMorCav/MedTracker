@@ -1,4 +1,5 @@
 import React, { useState, useMemo } from 'react';
+import { AnimatePresence } from 'framer-motion';
 import { useSearchParams } from 'react-router-dom';
 import { curriculum, allLessons, subjectById, type LessonKind } from '../../data/curriculum';
 import { db } from '../../db';
@@ -497,17 +498,19 @@ export const ConteudoPage: React.FC = () => {
       )}
 
       {/* Folha Deslizante de Detalhes da Aula */}
-      {selectedLessonId && (
-        <LessonDetailSheet
-          lessonId={selectedLessonId}
-          onClose={handleCloseLessonSheet}
-          today={today}
-          progressMap={progressMap}
-          reviewsMap={reviewsMap}
-          questionLogsMap={questionLogsMap}
-          onOpenQuestionsModal={(id) => setActiveQuestionsLessonId(id)}
-        />
-      )}
+      <AnimatePresence>
+        {selectedLessonId && (
+          <LessonDetailSheet
+            lessonId={selectedLessonId}
+            onClose={handleCloseLessonSheet}
+            today={today}
+            progressMap={progressMap}
+            reviewsMap={reviewsMap}
+            questionLogsMap={questionLogsMap}
+            onOpenQuestionsModal={(id) => setActiveQuestionsLessonId(id)}
+          />
+        )}
+      </AnimatePresence>
 
       {/* Modal Tela Cheia de Questões Desta Aula */}
       {activeQuestionsLessonId && (() => {

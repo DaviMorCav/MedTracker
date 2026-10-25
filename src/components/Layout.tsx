@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link, NavLink, Outlet, useLocation } from 'react-router-dom';
-import { motion, AnimatePresence, useReducedMotion } from 'framer-motion';
+import { motion, useReducedMotion } from 'framer-motion';
 import { db } from '../db';
 import { useLiveQuery } from '../db/useLiveQuery';
 import { DEFAULT_SETTINGS } from '../db/operations';
@@ -120,20 +120,17 @@ export const Layout: React.FC = () => {
         )}
       </aside>
 
-      {/* Conteúdo Principal com transição animada suave de abas (Item 11) */}
+      {/* Conteúdo Principal com transição ágil e fluida de abas */}
       <main className="flex-1 min-w-0 w-full mx-auto px-4 pt-4 pb-24 md:pl-64 md:pr-8 md:pt-6 md:pb-10 md:max-w-none">
-        <AnimatePresence mode="wait">
-          <motion.div
-            key={location.pathname}
-            initial={{ opacity: 0, y: shouldReduceMotion ? 0 : 6 }}
-            animate={{ opacity: 1, y: 0 }}
-            exit={{ opacity: 0, y: shouldReduceMotion ? 0 : -6 }}
-            transition={{ duration: shouldReduceMotion ? 0 : 0.18, ease: 'easeOut' }}
-            className="mx-auto w-full max-w-md md:max-w-6xl"
-          >
-            <Outlet />
-          </motion.div>
-        </AnimatePresence>
+        <motion.div
+          key={location.pathname}
+          initial={{ opacity: 0 }}
+          animate={{ opacity: 1 }}
+          transition={{ duration: shouldReduceMotion ? 0 : 0.12, ease: [0.32, 0.72, 0, 1] }}
+          className="mx-auto w-full max-w-md md:max-w-6xl"
+        >
+          <Outlet />
+        </motion.div>
       </main>
 
       {/* Barra de navegação inferior (celular) com feedback tátil de toque (Item 11) */}

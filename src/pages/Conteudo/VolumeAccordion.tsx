@@ -16,7 +16,6 @@ import { calculateAccuracy, isReviewOverdue } from '../../core/content';
 import { formatDateBr } from '../../core/dates';
 import { completeLesson, uncompleteLesson } from '../../db/operations';
 import { ConfirmModal } from '../../components/ConfirmModal';
-import { DriveViewerModal } from '../../components/DriveViewerModal';
 
 interface VolumeAccordionProps {
   volume: VolumeWithSubject;
@@ -52,7 +51,6 @@ export const VolumeAccordion: React.FC<VolumeAccordionProps> = ({
   onSetAllApostila,
 }) => {
   const [confirmUncompleteLessonId, setConfirmUncompleteLessonId] = useState<string | null>(null);
-  const [showPdfViewer, setShowPdfViewer] = useState(false);
 
   // Mídia do volume (Google Drive PDF)
   const volumeMedia = useLiveQuery<VolumeMedia | undefined>(
@@ -202,11 +200,20 @@ export const VolumeAccordion: React.FC<VolumeAccordionProps> = ({
             className="overflow-hidden"
           >
             <div className="p-4 pt-2 border-t border-slate-800/80 bg-slate-950/40 space-y-4">
-              {/* Botão Clean 'Abrir apostila' acima das aulas - Item 2 */}
+              {/* Botão Clean 'Abrir apostila' acima das aulas - Abre direto no Google Drive */}
               <div className="flex items-center justify-between py-1 border-b border-slate-800/60">
                 <button
                   type="button"
-                  onClick={() => setShowPdfViewer(true)}
+                  onClick={() => {
+                    if (volumeMedia?.drivePdfId) {
+                      window.open(
+                        `https://drive.google.com/file/d/${volumeMedia.drivePdfId}/view`,
+                        '_blank',
+                        'noopener,noreferrer'
+                      );
+                    }
+                  }}
+                  title="Abrir apostila em PDF diretamente no Google Drive"
                   className="inline-flex items-center gap-2 py-1.5 px-3 rounded-lg bg-slate-800/80 hover:bg-slate-700 text-slate-200 text-xs font-semibold transition-all border border-slate-700/60 shadow-sm active:scale-95"
                 >
                   <svg className="w-4 h-4 text-indigo-400 shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -444,7 +451,15 @@ export const VolumeAccordion: React.FC<VolumeAccordionProps> = ({
                   markedPages={apostilaMarkedPages}
                   drivePdfId={volumeMedia?.drivePdfId}
                   driveItemsMap={driveItemsMap}
-                  onOpenPdf={() => setShowPdfViewer(true)}
+                  onOpenPdf={() => {
+                    if (volumeMedia?.drivePdfId) {
+                      window.open(
+                        `https://drive.google.com/file/d/${volumeMedia.drivePdfId}/view`,
+                        '_blank',
+                        'noopener,noreferrer'
+                      );
+                    }
+                  }}
                   onTogglePage={onToggleApostilaPage}
                   onSetAll={onSetAllApostila}
                 />
@@ -465,19 +480,6 @@ export const VolumeAccordion: React.FC<VolumeAccordionProps> = ({
         onConfirm={handleConfirmUncomplete}
         onCancel={() => setConfirmUncompleteLessonId(null)}
       />
-
-      {/* Visualizador de PDF da Apostila via Google Drive */}
-      {showPdfViewer && (
-        <DriveViewerModal
-          isOpen={true}
-          onClose={() => setShowPdfViewer(false)}
-          title={volume.name}
-          subtitle="Apostila em PDF"
-          drivePdfId={volumeMedia?.drivePdfId}
-          pdfName={volumeMedia?.pdfName || volume.pdf}
-          initialTab="pdf"
-        />
-      )}
     </div>
   );
 };

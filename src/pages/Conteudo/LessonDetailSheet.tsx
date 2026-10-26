@@ -11,7 +11,6 @@ import {
   uncompleteLesson,
 } from '../../db/operations';
 import { ConfirmModal } from '../../components/ConfirmModal';
-import { DriveViewerModal } from '../../components/DriveViewerModal';
 import type {
   LessonProgress,
   LessonReview,
@@ -69,7 +68,6 @@ export const LessonDetailSheet: React.FC<LessonDetailSheetProps> = ({
     [lesson?.volumeId],
     undefined
   );
-  const [viewerTab, setViewerTab] = useState<'video' | 'pdf' | null>(null);
 
   const notesRef = useRef(notes);
   notesRef.current = notes;
@@ -257,7 +255,14 @@ export const LessonDetailSheet: React.FC<LessonDetailSheetProps> = ({
                 {lessonMedia?.driveVideoId && (
                   <button
                     type="button"
-                    onClick={() => setViewerTab('video')}
+                    onClick={() => {
+                      window.open(
+                        `https://drive.google.com/file/d/${lessonMedia.driveVideoId}/view`,
+                        '_blank',
+                        'noopener,noreferrer'
+                      );
+                    }}
+                    title="Abrir aula diretamente no Google Drive"
                     className="flex-1 py-2 px-3 rounded-lg bg-indigo-600 hover:bg-indigo-500 text-white text-xs font-semibold flex items-center justify-center gap-1.5 transition-colors shadow-sm"
                   >
                     <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -270,7 +275,14 @@ export const LessonDetailSheet: React.FC<LessonDetailSheetProps> = ({
                 {volumeMedia?.drivePdfId && (
                   <button
                     type="button"
-                    onClick={() => setViewerTab('pdf')}
+                    onClick={() => {
+                      window.open(
+                        `https://drive.google.com/file/d/${volumeMedia.drivePdfId}/view`,
+                        '_blank',
+                        'noopener,noreferrer'
+                      );
+                    }}
+                    title="Abrir apostila em PDF diretamente no Google Drive"
                     className="flex-1 py-2 px-3 rounded-lg bg-slate-800 hover:bg-slate-700 text-slate-200 text-xs font-semibold flex items-center justify-center gap-1.5 transition-colors border border-slate-700/60"
                   >
                     <svg className="w-4 h-4 text-slate-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -467,21 +479,6 @@ export const LessonDetailSheet: React.FC<LessonDetailSheetProps> = ({
         onConfirm={handleConfirmUncomplete}
         onCancel={handleCancelUncomplete}
       />
-
-      {/* Visualizador do Google Drive (Vídeo / PDF) */}
-      {viewerTab && (
-        <DriveViewerModal
-          isOpen={true}
-          onClose={() => setViewerTab(null)}
-          title={lesson.title}
-          subtitle={`${subject?.name || ''}${volume?.name ? ` • ${volume.name}` : ''}`}
-          driveVideoId={lessonMedia?.driveVideoId}
-          videoName={lessonMedia?.videoName}
-          drivePdfId={volumeMedia?.drivePdfId}
-          pdfName={volumeMedia?.pdfName}
-          initialTab={viewerTab}
-        />
-      )}
     </div>
   );
 };

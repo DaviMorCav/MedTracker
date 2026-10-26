@@ -19,14 +19,12 @@ import {
 } from '../../db/operations';
 import { ReviewModal } from '../../components/ReviewModal';
 import { PostLessonQuestionsModal } from '../../components/PostLessonQuestionsModal';
-import { DriveViewerModal } from '../../components/DriveViewerModal';
 import type {
   LessonReview,
   LessonProgress,
   QuestionLog,
   UserSettings,
   LessonMedia,
-  VolumeMedia,
 } from '../../db/schema';
 
 export const HojePage: React.FC = () => {
@@ -67,16 +65,9 @@ export const HojePage: React.FC = () => {
     []
   );
 
-  const volumeMediaList = useLiveQuery<VolumeMedia[]>(
-    () => db.volumeMedia.toArray(),
-    [],
-    []
-  );
-
   // States para modais
   const [activeReview, setActiveReview] = useState<LessonReview | null>(null);
   const [activeQuestionsLessonId, setActiveQuestionsLessonId] = useState<string | null>(null);
-  const [activeMediaLessonId, setActiveMediaLessonId] = useState<string | null>(null);
 
   // Maps
   const progressMap = useMemo(() => {
@@ -94,14 +85,6 @@ export const HojePage: React.FC = () => {
     }
     return map;
   }, [lessonMediaList]);
-
-  const volumeMediaMap = useMemo(() => {
-    const map = new Map<string, VolumeMedia>();
-    for (const m of volumeMediaList) {
-      map.set(m.volumeId, m);
-    }
-    return map;
-  }, [volumeMediaList]);
 
   // Sequência de atividade (Streak)
   const activeDates = useMemo(() => {
@@ -482,7 +465,17 @@ export const HojePage: React.FC = () => {
                     {lessonMediaMap.has(lesson.id) ? (
                       <button
                         type="button"
-                        onClick={() => setActiveMediaLessonId(lesson.id)}
+                        onClick={() => {
+                          const media = lessonMediaMap.get(lesson.id);
+                          if (media?.driveVideoId) {
+                            window.open(
+                              `https://drive.google.com/file/d/${media.driveVideoId}/view`,
+                              '_blank',
+                              'noopener,noreferrer'
+                            );
+                          }
+                        }}
+                        title="Abrir aula diretamente no Google Drive"
                         className="flex-1 sm:flex-initial py-1.5 px-3 rounded-lg bg-indigo-600 hover:bg-indigo-500 text-white text-xs font-semibold transition-colors flex items-center justify-center gap-1.5 shadow-sm"
                       >
                         <svg className="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -587,27 +580,6 @@ export const HojePage: React.FC = () => {
             lesson={lesson}
             onClose={() => setActiveQuestionsLessonId(null)}
             onSave={handleSaveQuestions}
-          />
-        );
-      })()}
-
-      {/* Visualizador do Google Drive (Assistir direto na aba Hoje) */}
-      {activeMediaLessonId && (() => {
-        const lesson = allLessons.find((l) => l.id === activeMediaLessonId);
-        if (!lesson) return null;
-        const media = lessonMediaMap.get(lesson.id);
-        const volMedia = volumeMediaMap.get(lesson.volumeId);
-
-        return (
-          <DriveViewerModal
-            isOpen={true}
-            onClose={() => setActiveMediaLessonId(null)}
-            title={lesson.title}
-            subtitle={`${lesson.subjectName} • ${lesson.volumeName}`}
-            driveVideoId={media?.driveVideoId}
-            videoName={media?.videoName}
-            drivePdfId={volMedia?.drivePdfId}
-            pdfName={volMedia?.pdfName}
           />
         );
       })()}

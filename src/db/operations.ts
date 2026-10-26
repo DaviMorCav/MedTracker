@@ -31,6 +31,29 @@ export const DEFAULT_SETTINGS: UserSettings = {
   questionsUrlTemplate: '',
 };
 
+type ChangeListener = () => void;
+const changeListeners = new Set<ChangeListener>();
+
+export function onDatabaseChange(listener: ChangeListener): () => void {
+  changeListeners.add(listener);
+  return () => {
+    changeListeners.delete(listener);
+  };
+}
+
+let isApplyingBackup = false;
+
+export function notifyChange(): void {
+  if (isApplyingBackup) return;
+  changeListeners.forEach((fn) => {
+    try {
+      fn();
+    } catch {
+      // ignore
+    }
+  });
+}
+
 export async function getSettings(): Promise<UserSettings> {
   const existing = await db.settings.get('default');
   if (existing) {
@@ -439,59 +462,64 @@ export async function applyBackupData(backup: BackupData): Promise<{
   questionsCount: number;
 }> {
   const { data } = backup;
+  isApplyingBackup = true;
 
-  await db.transaction(
-    'rw',
-    [
-      db.settings,
-      db.progress,
-      db.volumeLinks,
-      db.apostila,
-      db.reviews,
-      db.questionLogs,
-      db.questionAttempts,
-      db.lessonMedia,
-      db.volumeMedia,
-      db.apostilaMedia,
-    ],
-    async () => {
-      await db.settings.clear();
-      await db.progress.clear();
-      await db.volumeLinks.clear();
-      await db.apostila.clear();
-      await db.reviews.clear();
-      await db.questionLogs.clear();
+  try {
+    await db.transaction(
+      'rw',
+      [
+        db.settings,
+        db.progress,
+        db.volumeLinks,
+        db.apostila,
+        db.reviews,
+        db.questionLogs,
+        db.questionAttempts,
+        db.lessonMedia,
+        db.volumeMedia,
+        db.apostilaMedia,
+      ],
+      async () => {
+        await db.settings.clear();
+        await db.progress.clear();
+        await db.volumeLinks.clear();
+        await db.apostila.clear();
+        await db.reviews.clear();
+        await db.questionLogs.clear();
 
-      if (data.settings?.length) await db.settings.bulkPut(data.settings);
-      if (data.progress?.length) await db.progress.bulkPut(data.progress);
-      if (data.volumeLinks?.length) await db.volumeLinks.bulkPut(data.volumeLinks);
-      if (data.apostila?.length) await db.apostila.bulkPut(data.apostila);
-      if (data.reviews?.length) await db.reviews.bulkPut(data.reviews);
-      if (data.questionLogs?.length) await db.questionLogs.bulkPut(data.questionLogs);
+        if (data.settings?.length) await db.settings.bulkPut(data.settings);
+        if (data.progress?.length) await db.progress.bulkPut(data.progress);
+        if (data.volumeLinks?.length) await db.volumeLinks.bulkPut(data.volumeLinks);
+        if (data.apostila?.length) await db.apostila.bulkPut(data.apostila);
+        if (data.reviews?.length) await db.reviews.bulkPut(data.reviews);
+        if (data.questionLogs?.length) await db.questionLogs.bulkPut(data.questionLogs);
 
-      if (data.questionAttempts) {
-        await db.questionAttempts.clear();
-        if (data.questionAttempts.length) {
-          await db.questionAttempts.bulkPut(data.questionAttempts);
+        if (data.questionAttempts) {
+          await db.questionAttempts.clear();
+          if (data.questionAttempts.length) {
+            await db.questionAttempts.bulkPut(data.questionAttempts);
+          }
+        }
+
+        if (data.lessonMedia) {
+          await db.lessonMedia.clear();
+          if (data.lessonMedia.length) await db.lessonMedia.bulkPut(data.lessonMedia);
+        }
+
+        if (data.volumeMedia) {
+          await db.volumeMedia.clear();
+          if (data.volumeMedia.length) await db.volumeMedia.bulkPut(data.volumeMedia);
+        }
+
+        if (data.apostilaMedia) {
+          await db.apostilaMedia.clear();
+          if (data.apostilaMedia.length) await db.apostilaMedia.bulkPut(data.apostilaMedia);
         }
       }
-
-      if (data.lessonMedia) {
-        await db.lessonMedia.clear();
-        if (data.lessonMedia.length) await db.lessonMedia.bulkPut(data.lessonMedia);
-      }
-
-      if (data.volumeMedia) {
-        await db.volumeMedia.clear();
-        if (data.volumeMedia.length) await db.volumeMedia.bulkPut(data.volumeMedia);
-      }
-
-      if (data.apostilaMedia) {
-        await db.apostilaMedia.clear();
-        if (data.apostilaMedia.length) await db.apostilaMedia.bulkPut(data.apostilaMedia);
-      }
-    }
-  );
+    );
+  } finally {
+    isApplyingBackup = false;
+  }
 
   return {
     progressCount: data.progress?.length || 0,

@@ -15,6 +15,7 @@ import type {
 export * from './schema';
 export * from './operations';
 export * from './useLiveQuery';
+import { notifyChange } from './operations';
 
 export class MedTrackerDB extends Dexie {
   settings!: Table<UserSettings, string>;
@@ -55,3 +56,25 @@ export class MedTrackerDB extends Dexie {
 }
 
 export const db = new MedTrackerDB();
+
+// Monitora alterações para acionar sincronização em nuvem automática
+const monitoredTables = [
+  db.progress,
+  db.reviews,
+  db.questionLogs,
+  db.questionAttempts,
+  db.apostila,
+  db.settings,
+];
+
+monitoredTables.forEach((table) => {
+  table.hook('creating', () => {
+    notifyChange();
+  });
+  table.hook('updating', () => {
+    notifyChange();
+  });
+  table.hook('deleting', () => {
+    notifyChange();
+  });
+});

@@ -6,6 +6,46 @@ import { VitePWA } from 'vite-plugin-pwa';
 export default defineConfig({
   plugins: [
     react(),
+    {
+      name: 'api-sync-dev-server',
+      configureServer(server) {
+        let devSyncData: string | null = null;
+        server.middlewares.use((req, res, next) => {
+          if (req.url === '/api/sync') {
+            res.setHeader('Content-Type', 'application/json');
+            res.setHeader('Access-Control-Allow-Origin', '*');
+            res.setHeader('Access-Control-Allow-Methods', 'GET, POST, PUT, OPTIONS');
+            res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
+
+            if (req.method === 'OPTIONS') {
+              res.statusCode = 204;
+              res.end();
+              return;
+            }
+
+            if (req.method === 'GET') {
+              res.statusCode = 200;
+              res.end(devSyncData || JSON.stringify({ empty: true }));
+              return;
+            }
+
+            if (req.method === 'POST' || req.method === 'PUT') {
+              let body = '';
+              req.on('data', (chunk) => {
+                body += chunk;
+              });
+              req.on('end', () => {
+                devSyncData = body;
+                res.statusCode = 200;
+                res.end(JSON.stringify({ success: true, timestamp: Date.now() }));
+              });
+              return;
+            }
+          }
+          next();
+        });
+      },
+    },
     VitePWA({
       registerType: 'autoUpdate',
       devOptions: {

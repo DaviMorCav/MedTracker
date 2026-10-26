@@ -7,6 +7,7 @@ import { RevisoesPage } from './pages/Revisoes';
 import { QuestoesPage } from './pages/Questoes';
 import { MaisPage } from './pages/Mais';
 import { db, importDriveMedia } from './db';
+import { syncSharedHistory } from './services/sharedSync';
 
 export const App: React.FC = () => {
   // Garante persistência permanente do IndexedDB no navegador e carrega mídias
@@ -29,6 +30,9 @@ export const App: React.FC = () => {
       } catch {
         // Silencioso se estiver offline ou se o arquivo não existir
       }
+
+      // Sincroniza automaticamente o histórico compartilhado da nuvem
+      syncSharedHistory({ silent: true }).catch(() => {});
     }
     seedDriveMediaIfEmpty();
   }, []);

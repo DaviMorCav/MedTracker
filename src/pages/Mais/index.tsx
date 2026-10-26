@@ -7,16 +7,13 @@ import {
   DEFAULT_SETTINGS,
   updateSettings,
   toggleSubjectActive,
-  exportCurrentBackup,
-  applyBackupData,
 } from '../../db/operations';
-import { mergeBackupData } from '../../core/driveSync';
 import {
-  requestGoogleAccessToken,
-  findSyncFileId,
-  downloadSyncFromDrive,
-  uploadSyncToDrive,
-} from '../../services/googleDriveSync';
+  syncSharedHistory,
+  getLastSyncTime,
+  getSyncEndpoint,
+  setSyncEndpoint,
+} from '../../services/sharedSync';
 import type { UserSettings } from '../../db/schema';
 
 export const MaisPage: React.FC = () => {
@@ -33,20 +30,10 @@ export const MaisPage: React.FC = () => {
   // Tela dedicada de matérias ativas (Item 7)
   const [showSubjectsScreen, setShowSubjectsScreen] = useState(false);
 
-  // Sincronização em Nuvem via Google Drive
-  const [googleClientId, setGoogleClientId] = useState(() => {
-    return (
-      localStorage.getItem('medtracker_google_client_id') ||
-      (import.meta as unknown as { env?: { VITE_GOOGLE_CLIENT_ID?: string } }).env
-        ?.VITE_GOOGLE_CLIENT_ID ||
-      ''
-    );
-  });
-  const [clientIdInput, setClientIdInput] = useState(googleClientId);
-  const [showClientIdConfig, setShowClientIdConfig] = useState(false);
-  const [lastSyncTime, setLastSyncTime] = useState<string | null>(() => {
-    return localStorage.getItem('medtracker_last_sync_time');
-  });
+  // Sincronização Compartilhada (Universal para qualquer PC, sem conta)
+  const [syncEndpointInput, setSyncEndpointInput] = useState(getSyncEndpoint);
+  const [showEndpointConfig, setShowEndpointConfig] = useState(false);
+  const [lastSyncTime, setLastSyncTime] = useState<string | null>(getLastSyncTime);
   const [isSyncing, setIsSyncing] = useState(false);
   const [syncMsg, setSyncMsg] = useState<{ type: 'success' | 'error'; text: string } | null>(
     null
@@ -84,71 +71,27 @@ export const MaisPage: React.FC = () => {
     await updateSettings({ includeBonus: val });
   };
 
-  // ─── Sincronização em Nuvem (Google Drive) ──────────────────────────────────
-  const handleSaveClientId = () => {
-    const trimmed = clientIdInput.trim();
-    setGoogleClientId(trimmed);
-    localStorage.setItem('medtracker_google_client_id', trimmed);
-    setShowClientIdConfig(false);
-    setSyncMsg({ type: 'success', text: 'Client ID salvo com sucesso.' });
+  // ─── Sincronização Compartilhada (Sem conta / Todos os PCs unificados) ───
+  const handleSaveEndpoint = () => {
+    const trimmed = syncEndpointInput.trim() || '/api/sync';
+    setSyncEndpoint(trimmed);
+    setSyncEndpointInput(trimmed);
+    setShowEndpointConfig(false);
+    setSyncMsg({ type: 'success', text: 'Endpoint de sincronização salvo.' });
   };
 
-  const handleSyncGoogleDrive = async () => {
-    if (!googleClientId) {
-      setShowClientIdConfig(true);
-      setSyncMsg({
-        type: 'error',
-        text: 'Configure o seu Google Client ID abaixo para habilitar a sincronização.',
-      });
-      return;
-    }
-
+  const handleManualSync = async () => {
     setIsSyncing(true);
     setSyncMsg(null);
 
-    try {
-      // 1. Obtém token OAuth (escopo drive.file)
-      const token = await requestGoogleAccessToken(googleClientId);
+    const result = await syncSharedHistory({ endpoint: syncEndpointInput.trim() });
+    setIsSyncing(false);
 
-      // 2. Procura arquivo existente medtracker_sync.json no Drive
-      const fileId = await findSyncFileId(token);
-      const localBackup = await exportCurrentBackup();
-
-      let finalBackup = localBackup;
-
-      if (fileId) {
-        // Baixa o backup remoto
-        const remoteBackup = await downloadSyncFromDrive(token, fileId);
-        if (remoteBackup) {
-          // Mescla com segurança sem perder dados
-          finalBackup = mergeBackupData(localBackup, remoteBackup);
-          // Atualiza banco local
-          await applyBackupData(finalBackup);
-        }
-      }
-
-      // 3. Salva a versão unificada no Google Drive
-      await uploadSyncToDrive(token, finalBackup, fileId);
-
-      const now = new Date().toISOString();
-      setLastSyncTime(now);
-      localStorage.setItem('medtracker_last_sync_time', now);
-
-      const progCount =
-        finalBackup.data.progress?.filter((p) => p.status === 'concluida').length || 0;
-      const revCount = finalBackup.data.reviews?.length || 0;
-
-      setSyncMsg({
-        type: 'success',
-        text: `Sincronizado com sucesso! (${progCount} aulas concluídas e ${revCount} revisões ativas unificadas).`,
-      });
-    } catch (err) {
-      setSyncMsg({
-        type: 'error',
-        text: err instanceof Error ? err.message : 'Falha ao sincronizar com Google Drive.',
-      });
-    } finally {
-      setIsSyncing(false);
+    if (result.success) {
+      setLastSyncTime(getLastSyncTime());
+      setSyncMsg({ type: 'success', text: result.message });
+    } else {
+      setSyncMsg({ type: 'error', text: result.message });
     }
   };
 
@@ -416,19 +359,20 @@ export const MaisPage: React.FC = () => {
               </div>
             </motion.button>
 
-            {/* ── 3. Sincronização em Nuvem (Google Drive) - Items 6 e 9 ──────────── */}
+            {/* ── 3. Sincronização Compartilhada de Histórico (Universal / Sem Conta) ──────────── */}
             <section className="bg-slate-900 border border-slate-800 rounded-2xl p-5 space-y-4 shadow-sm">
               <div className="flex items-start justify-between gap-3">
                 <div>
                   <h2 className="text-xs font-bold uppercase tracking-wider text-indigo-400">
-                    Sincronização em Nuvem (Google Drive)
+                    Sincronização Compartilhada de Histórico
                   </h2>
                   <p className="text-xs text-slate-400 mt-1 leading-relaxed">
-                    Unifique seu progresso de estudos, revisões e questões entre computador, tablet e celular direto no seu Google Drive pessoal.
+                    Histórico unificado entre computadores e celulares sem precisar de conta ou login.
+                    Qualquer dispositivo acessa e atualiza as mesmas aulas concluídas, revisões e questões.
                   </p>
                 </div>
 
-                {/* Indicador discreto de última sincronização - Item 9 */}
+                {/* Indicador discreto de última sincronização */}
                 {lastSyncTime && (
                   <div className="text-right shrink-0">
                     <span className="text-[10px] uppercase font-bold text-slate-400 block tracking-wider">
@@ -446,7 +390,7 @@ export const MaisPage: React.FC = () => {
                 <motion.button
                   type="button"
                   whileTap={{ scale: 0.96 }}
-                  onClick={handleSyncGoogleDrive}
+                  onClick={handleManualSync}
                   disabled={isSyncing}
                   className="py-2.5 px-4 bg-indigo-600 hover:bg-indigo-500 disabled:opacity-50 text-white rounded-xl text-xs font-semibold transition-colors flex items-center gap-2 shadow-sm"
                 >
@@ -460,39 +404,39 @@ export const MaisPage: React.FC = () => {
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
                     </svg>
                   )}
-                  <span>{isSyncing ? 'Sincronizando...' : 'Sincronizar Agora'}</span>
+                  <span>{isSyncing ? 'Sincronizando histórico...' : 'Sincronizar Histórico Agora'}</span>
                 </motion.button>
 
                 <motion.button
                   type="button"
                   whileTap={{ scale: 0.96 }}
-                  onClick={() => setShowClientIdConfig(!showClientIdConfig)}
+                  onClick={() => setShowEndpointConfig(!showEndpointConfig)}
                   className="py-2.5 px-3.5 bg-slate-800 hover:bg-slate-750 text-slate-300 border border-slate-700 rounded-xl text-xs font-semibold transition-colors flex items-center gap-1.5"
                 >
-                  <span>{googleClientId ? 'Configuração' : 'Configurar ID'}</span>
+                  <span>Servidor de Nuvem</span>
                 </motion.button>
               </div>
 
-              {/* Formulário de Client ID */}
-              {showClientIdConfig && (
+              {/* Configuração avançada de Endpoint de Sincronização */}
+              {showEndpointConfig && (
                 <div className="p-3.5 bg-slate-950/80 rounded-xl border border-slate-800 space-y-2.5 mt-2">
                   <label className="block text-xs font-semibold text-slate-300">
-                    Google OAuth Client ID (Web Application)
+                    Endpoint de Sincronização Compartilhada
                   </label>
                   <input
                     type="text"
-                    value={clientIdInput}
-                    onChange={(e) => setClientIdInput(e.target.value)}
-                    placeholder="ex: 123456789-abc.apps.googleusercontent.com"
+                    value={syncEndpointInput}
+                    onChange={(e) => setSyncEndpointInput(e.target.value)}
+                    placeholder="/api/sync"
                     className="w-full text-xs bg-slate-900 border border-slate-700 rounded-lg px-3 py-2 text-slate-200 focus:outline-none focus:border-indigo-500 font-mono"
                   />
                   <div className="flex items-center justify-between gap-2 pt-1">
                     <span className="text-[11px] text-slate-400">
-                      Criado gratuitamente no Google Cloud Console com escopo seguro de arquivo próprio.
+                      Padrão: <code className="text-slate-300">/api/sync</code> (Cloudflare Workers / Servidor compartilhado).
                     </span>
                     <button
                       type="button"
-                      onClick={handleSaveClientId}
+                      onClick={handleSaveEndpoint}
                       className="py-1.5 px-3.5 bg-indigo-600 hover:bg-indigo-500 text-white rounded-lg text-xs font-semibold shrink-0 transition-colors"
                     >
                       Salvar

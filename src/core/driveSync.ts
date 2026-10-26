@@ -227,9 +227,12 @@ export function mergeBackupData(local: BackupData, remote: BackupData): BackupDa
 
   // 7. Configurações e Links de volume: prevalece o do backup com exportedAt mais recente
   const isRemoteNewer = (remote.exportedAt || '') > (local.exportedAt || '');
-  const preferredSettings = isRemoteNewer
-    ? remoteData.settings || localData.settings
-    : localData.settings || remoteData.settings;
+  const localSettingsTime = Math.max(0, ...(localData.settings || []).map((s) => s.updatedAt || 0));
+  const remoteSettingsTime = Math.max(0, ...(remoteData.settings || []).map((s) => s.updatedAt || 0));
+  const preferredSettings =
+    remoteSettingsTime > localSettingsTime
+      ? remoteData.settings || localData.settings
+      : localData.settings || remoteData.settings;
   const preferredVolumeLinks = isRemoteNewer
     ? remoteData.volumeLinks || localData.volumeLinks
     : localData.volumeLinks || remoteData.volumeLinks;

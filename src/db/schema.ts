@@ -1,4 +1,4 @@
-export type LessonStatus = 'nao_vista' | 'assistindo' | 'concluida';
+﻿export type LessonStatus = 'nao_vista' | 'assistindo' | 'concluida';
 
 export type ReviewRating = 'errei' | 'dificil' | 'bom' | 'facil';
 
@@ -14,6 +14,7 @@ export interface UserSettings {
   activeSubjects: string[];
   includeBonus: boolean;
   questionsUrlTemplate: string;
+  updatedAt?: number;
 }
 
 export interface LessonProgress {
@@ -99,3 +100,4 @@ export interface DriveMediaImportData {
   /** volumeId -> pageNumber(string) -> driveFileId */
   apostilaItems?: Record<string, Record<string, string>>;
 }
+

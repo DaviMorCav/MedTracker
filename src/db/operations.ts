@@ -71,8 +71,10 @@ export async function updateSettings(
     ...current,
     ...partial,
     id: 'default',
+    updatedAt: Date.now(),
   };
   await db.settings.put(updated);
+  notifyChange();
   return updated;
 }
 
@@ -87,11 +89,12 @@ export async function toggleSubjectActive(subjectId: string): Promise<string[]> 
   await db.settings.put({
     ...settings,
     activeSubjects: updatedActive,
+    updatedAt: Date.now(),
   });
+  notifyChange();
 
   return updatedActive;
 }
-
 export async function setLessonStatus(
   lessonId: string,
   status: LessonStatus,

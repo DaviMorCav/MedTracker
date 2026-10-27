@@ -8,6 +8,7 @@ import {
   searchByText,
   findLessonQuestions,
   buildLessonSession,
+  hasQuestionTheme,
 } from './lessonQuestions';
 import type { BankIndex, BankQuestion } from '../types/questionBank';
 
@@ -79,6 +80,67 @@ describe('findBankSubject', () => {
   });
   it('devolve null quando a matéria não existe no banco', () => {
     expect(findBankSubject(index, 'dermatologia', 'Dermatologia')).toBeNull();
+  });
+});
+
+describe('hasQuestionTheme', () => {
+  const index: BankIndex = {
+    versao: 1,
+    gerado_em: '2026-10-25',
+    total: 12,
+    materias: [
+      {
+        id: 'cardiologia',
+        nome: 'Cardiologia',
+        arquivo: 'cardiologia.json',
+        total: 12,
+        certas: 12,
+        temas: [
+          { nome: 'Taquiarritmias', total: 12 },
+          { nome: 'Bradiarritmias', total: 0 },
+        ],
+      },
+    ],
+  };
+
+  it('true quando o tema existe e tem questões', () => {
+    expect(
+      hasQuestionTheme(index, {
+        title: 'Taquiarritmias',
+        subjectId: 'cardiologia',
+        subjectName: 'Cardiologia',
+      })
+    ).toBe(true);
+  });
+
+  it('false quando o tema existe mas está sem questões', () => {
+    expect(
+      hasQuestionTheme(index, {
+        title: 'Bradiarritmias',
+        subjectId: 'cardiologia',
+        subjectName: 'Cardiologia',
+      })
+    ).toBe(false);
+  });
+
+  it('false quando a matéria não existe no banco', () => {
+    expect(
+      hasQuestionTheme(index, {
+        title: 'Taquiarritmias',
+        subjectId: 'dermatologia',
+        subjectName: 'Dermatologia',
+      })
+    ).toBe(false);
+  });
+
+  it('false quando nenhum tema casa com o título', () => {
+    expect(
+      hasQuestionTheme(index, {
+        title: 'Hanseníase',
+        subjectId: 'cardiologia',
+        subjectName: 'Cardiologia',
+      })
+    ).toBe(false);
   });
 });
 

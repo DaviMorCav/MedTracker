@@ -217,6 +217,20 @@ export function evaluateReview(
 }
 
 /**
+ * Sugestão de nota a partir do desempenho em questões, conforme combinado:
+ * < 50% Errei · 50–69% Difícil · 70–89% Bom · >= 90% Fácil.
+ * É só uma sugestão: quem chama deve permitir ajuste manual.
+ */
+export function suggestRating(correct: number, total: number): ReviewRating | null {
+  if (!Number.isFinite(correct) || !Number.isFinite(total) || total <= 0) return null;
+  const pct = (correct / total) * 100;
+  if (pct < 50) return 'errei';
+  if (pct < 70) return 'dificil';
+  if (pct < 90) return 'bom';
+  return 'facil';
+}
+
+/**
  * Distribui as revisões atrasadas pelos próximos dias (mínimo 3 dias).
  * Conforme PRD seções 6 e 7:
  * - O mais atrasado primeiro (ordenado por dueDate ascendente).

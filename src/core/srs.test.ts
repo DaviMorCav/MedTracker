@@ -5,6 +5,7 @@ import {
   previewReview,
   spreadOverdueReviews,
   isLeeched,
+  suggestRating,
   LADDER,
   EASE_MIN,
   EASE_MAX,
@@ -351,6 +352,24 @@ describe('SRS Engine (src/core/srs.ts)', () => {
         expect(result.step).toBe(preview[rating].nextStep);
         expect(result.ease).toBe(preview[rating].easeAfter);
       }
+    });
+  });
+
+  describe('Sugestão de nota pelas questões', () => {
+    it('aplica os cortes de 50, 70 e 90 por cento', () => {
+      expect(suggestRating(0, 10)).toBe('errei');
+      expect(suggestRating(49, 100)).toBe('errei');
+      expect(suggestRating(50, 100)).toBe('dificil');
+      expect(suggestRating(69, 100)).toBe('dificil');
+      expect(suggestRating(70, 100)).toBe('bom');
+      expect(suggestRating(89, 100)).toBe('bom');
+      expect(suggestRating(90, 100)).toBe('facil');
+      expect(suggestRating(10, 10)).toBe('facil');
+    });
+
+    it('sem questões respondidas não sugere nota', () => {
+      expect(suggestRating(0, 0)).toBeNull();
+      expect(suggestRating(3, 0)).toBeNull();
     });
   });
 });

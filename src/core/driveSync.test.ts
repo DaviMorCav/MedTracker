@@ -107,6 +107,66 @@ describe('mergeBackupData', () => {
     expect(merged.data.questionLogs).toHaveLength(2);
   });
 
+  it('escolhe settings pelo maior updatedAt e mantém volumeLinks pelo exportedAt', () => {
+    const settingsBase = {
+      id: 'default',
+      dailyNewLessons: 2,
+      dailyReviewCap: 20,
+      activeSubjects: ['cardiologia'],
+      includeBonus: false,
+      questionsUrlTemplate: '',
+    };
+
+    const localBackup: BackupData = {
+      version: 1,
+      exportedAt: '2026-10-25T14:00:00.000Z',
+      data: {
+        settings: [{ ...settingsBase, dailyNewLessons: 3, updatedAt: 1000 }],
+        volumeLinks: [{ volumeId: 'v-local', questionsUrl: 'local' }],
+      },
+    };
+
+    const remoteBackup: BackupData = {
+      version: 1,
+      exportedAt: '2026-10-25T12:00:00.000Z',
+      data: {
+        settings: [{ ...settingsBase, dailyNewLessons: 5, updatedAt: 2000 }],
+        volumeLinks: [{ volumeId: 'v-remoto', questionsUrl: 'remoto' }],
+      },
+    };
+
+    const merged = mergeBackupData(localBackup, remoteBackup);
+    expect(merged.data.settings?.[0].dailyNewLessons).toBe(5);
+    expect(merged.data.volumeLinks?.[0].volumeId).toBe('v-local');
+  });
+
+  it('em empate de updatedAt de settings, mantém o local', () => {
+    const settingsBase = {
+      id: 'default',
+      dailyNewLessons: 2,
+      dailyReviewCap: 20,
+      activeSubjects: [],
+      includeBonus: false,
+      questionsUrlTemplate: '',
+      updatedAt: 1000,
+    };
+
+    const localBackup: BackupData = {
+      version: 1,
+      exportedAt: '2026-10-25T10:00:00.000Z',
+      data: { settings: [{ ...settingsBase, dailyNewLessons: 3 }] },
+    };
+
+    const remoteBackup: BackupData = {
+      version: 1,
+      exportedAt: '2026-10-25T12:00:00.000Z',
+      data: { settings: [{ ...settingsBase, dailyNewLessons: 5 }] },
+    };
+
+    const merged = mergeBackupData(localBackup, remoteBackup);
+    expect(merged.data.settings?.[0].dailyNewLessons).toBe(3);
+  });
+
   it('respeita timestamps para atualizações recentes e não apaga anotações locais', () => {
     const localBackup: BackupData = {
       version: 1,

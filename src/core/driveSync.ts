@@ -225,15 +225,17 @@ export function mergeBackupData(local: BackupData, remote: BackupData): BackupDa
     volumeMediaMap.set(m.volumeId, m);
   }
 
-  // 7. Configurações e Links de volume: prevalece o do backup com exportedAt mais recente
-  const isRemoteNewer = (remote.exportedAt || '') > (local.exportedAt || '');
-  const localSettingsTime = Math.max(0, ...(localData.settings || []).map((s) => s.updatedAt || 0));
-  const remoteSettingsTime = Math.max(0, ...(remoteData.settings || []).map((s) => s.updatedAt || 0));
-  const preferredSettings =
-    remoteSettingsTime > localSettingsTime
-      ? remoteData.settings || localData.settings
-      : localData.settings || remoteData.settings;
-  const preferredVolumeLinks = isRemoteNewer
+  // 7. Configurações e links de volume: vence quem foi alterado por último.
+  // Sem timestamp em nenhum dos lados, a nuvem (estado compartilhado) prevalece.
+  const locSettingsTime = localData.settings?.updatedAt || 0;
+  const remSettingsTime = remoteData.settings?.updatedAt || 0;
+  const useRemoteSettings =
+    !localData.settings || (!!remoteData.settings && remSettingsTime >= locSettingsTime);
+
+  const preferredSettings = useRemoteSettings
+    ? remoteData.settings || localData.settings
+    : localData.settings;
+  const preferredVolumeLinks = useRemoteSettings
     ? remoteData.volumeLinks || localData.volumeLinks
     : localData.volumeLinks || remoteData.volumeLinks;
 

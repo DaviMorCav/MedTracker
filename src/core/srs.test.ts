@@ -2,13 +2,20 @@ import { describe, it, expect } from 'vitest';
 import {
   createInitialReview,
   evaluateReview,
+  previewReview,
   spreadOverdueReviews,
+  isLeeched,
   LADDER,
+  EASE_MIN,
+  EASE_MAX,
+  EASE_START,
+  REVIEW_RATINGS,
 } from './srs';
 import type { LessonReview } from '../db/schema';
 
 describe('SRS Engine (src/core/srs.ts)', () => {
   const TODAY = '2026-10-22';
+  const NO_FUZZ = { fuzz: false };
 
   describe('Casos obrigatórios da Seção 7 do PRD (today = 2026-10-22)', () => {
     it('Caso 1: Aula concluída hoje, passo 0, vence 2026-10-23', () => {
@@ -18,6 +25,9 @@ describe('SRS Engine (src/core/srs.ts)', () => {
       expect(review.dueDate).toBe('2026-10-23');
       expect(review.mastered).toBe(false);
       expect(review.history).toEqual([]);
+      expect(review.ease).toBe(EASE_START);
+      expect(review.lapses).toBe(0);
+      expect(review.leeched).toBe(false);
     });
 
     it('Caso 2: Passo 0, Bom, vence 2026-10-29 (passo 1, 7 dias)', () => {
@@ -28,7 +38,7 @@ describe('SRS Engine (src/core/srs.ts)', () => {
         mastered: false,
         history: [],
       };
-      const result = evaluateReview(initial, 'bom', TODAY);
+      const result = evaluateReview(initial, 'bom', TODAY, NO_FUZZ);
       expect(result.step).toBe(1);
       expect(result.dueDate).toBe('2026-10-29');
       expect(result.history).toEqual([{ date: TODAY, rating: 'bom' }]);
@@ -42,7 +52,7 @@ describe('SRS Engine (src/core/srs.ts)', () => {
         mastered: false,
         history: [],
       };
-      const result = evaluateReview(initial, 'facil', TODAY);
+      const result = evaluateReview(initial, 'facil', TODAY, NO_FUZZ);
       expect(result.step).toBe(3);
       expect(result.dueDate).toBe('2026-11-21');
       expect(result.history).toEqual([{ date: TODAY, rating: 'facil' }]);
@@ -56,7 +66,7 @@ describe('SRS Engine (src/core/srs.ts)', () => {
         mastered: false,
         history: [],
       };
-      const result = evaluateReview(initial, 'errei', TODAY);
+      const result = evaluateReview(initial, 'errei', TODAY, NO_FUZZ);
       expect(result.step).toBe(0);
       expect(result.dueDate).toBe('2026-10-23');
       expect(result.history).toEqual([{ date: TODAY, rating: 'errei' }]);
@@ -70,7 +80,7 @@ describe('SRS Engine (src/core/srs.ts)', () => {
         mastered: false,
         history: [],
       };
-      const result = evaluateReview(initial, 'dificil', TODAY);
+      const result = evaluateReview(initial, 'dificil', TODAY, NO_FUZZ);
       expect(result.step).toBe(2);
       expect(result.dueDate).toBe('2026-10-29');
       expect(result.history).toEqual([{ date: TODAY, rating: 'dificil' }]);
@@ -84,7 +94,7 @@ describe('SRS Engine (src/core/srs.ts)', () => {
         mastered: false,
         history: [],
       };
-      const result = evaluateReview(initial, 'bom', TODAY);
+      const result = evaluateReview(initial, 'bom', TODAY, NO_FUZZ);
       expect(result.step).toBe(4);
       expect(result.dueDate).toBe('2026-12-21');
       expect(result.history).toEqual([{ date: TODAY, rating: 'bom' }]);
@@ -144,7 +154,7 @@ describe('SRS Engine (src/core/srs.ts)', () => {
         mastered: false,
         history: [],
       };
-      const result = evaluateReview(review, 'facil', TODAY);
+      const result = evaluateReview(review, 'facil', TODAY, NO_FUZZ);
       expect(result.step).toBe(4);
       expect(result.dueDate).toBe('2026-12-21');
     });
@@ -157,7 +167,7 @@ describe('SRS Engine (src/core/srs.ts)', () => {
         mastered: false,
         history: [],
       };
-      const result = evaluateReview(review, 'dificil', TODAY);
+      const result = evaluateReview(review, 'dificil', TODAY, NO_FUZZ);
       expect(result.step).toBe(4);
       expect(result.dueDate).toBe('2026-11-21'); // 30 dias
     });
@@ -170,7 +180,7 @@ describe('SRS Engine (src/core/srs.ts)', () => {
         mastered: false,
         history: [],
       };
-      const result = evaluateReview(review, 'errei', TODAY);
+      const result = evaluateReview(review, 'errei', TODAY, NO_FUZZ);
       expect(result.step).toBe(0);
       expect(result.dueDate).toBe('2026-10-23');
     });
@@ -183,15 +193,15 @@ describe('SRS Engine (src/core/srs.ts)', () => {
         mastered: false,
         history: [],
       };
-      const result = evaluateReview(review, 'dificil', TODAY);
+      const result = evaluateReview(review, 'dificil', TODAY, NO_FUZZ);
       expect(result.step).toBe(0);
       expect(result.dueDate).toBe('2026-10-23');
     });
 
     it('Acumula histórico de revisões sequenciais sem perder dados anteriores', () => {
       const r1 = createInitialReview('aula-seq', TODAY);
-      const r2 = evaluateReview(r1, 'bom', TODAY);
-      const r3 = evaluateReview(r2, 'facil', '2026-10-29');
+      const r2 = evaluateReview(r1, 'bom', TODAY, NO_FUZZ);
+      const r3 = evaluateReview(r2, 'facil', '2026-10-29', NO_FUZZ);
 
       expect(r3.history.length).toBe(2);
       expect(r3.history[0]).toEqual({ date: TODAY, rating: 'bom' });
@@ -221,6 +231,126 @@ describe('SRS Engine (src/core/srs.ts)', () => {
 
     it('Constante LADDER possui os 5 passos estritos', () => {
       expect(LADDER).toEqual([1, 7, 15, 30, 60]);
+    });
+  });
+
+  describe('Facilidade, erros e variação de data', () => {
+    const base = (overrides: Partial<LessonReview> = {}): LessonReview => ({
+      lessonId: 'aula-1',
+      step: 2,
+      dueDate: TODAY,
+      mastered: false,
+      history: [],
+      ...overrides,
+    });
+
+    it('Com facilidade inicial 2.5, os intervalos são exatamente os da escada do PRD', () => {
+      const preview = previewReview(base({ step: 2 }), TODAY, NO_FUZZ);
+      expect(preview.errei.intervalDays).toBe(1);
+      expect(preview.dificil.intervalDays).toBe(7);
+      expect(preview.bom.intervalDays).toBe(30);
+      expect(preview.facil.intervalDays).toBe(60);
+      expect(preview.errei.easeAfter).toBe(2.3);
+      expect(preview.bom.easeAfter).toBe(EASE_START);
+    });
+
+    it('Facilidade maior alonga e facilidade menor encurta o intervalo', () => {
+      const step2 = base({ step: 2 });
+      const low = previewReview({ ...step2, ease: EASE_MIN }, TODAY, NO_FUZZ).bom;
+      const mid = previewReview(step2, TODAY, NO_FUZZ).bom;
+      const high = previewReview({ ...step2, ease: EASE_MAX }, TODAY, NO_FUZZ).bom;
+
+      expect(low.intervalDays).toBe(16); // 30 * 1.3 / 2.5 = 15.6
+      expect(mid.intervalDays).toBe(30);
+      expect(high.intervalDays).toBe(36); // 30 * 3.0 / 2.5
+    });
+
+    it('Facilidade não passa dos limites 1.3 e 3.0', () => {
+      const down = evaluateReview(base({ step: 0, ease: EASE_MIN }), 'errei', TODAY, NO_FUZZ);
+      expect(down.ease).toBe(EASE_MIN);
+
+      const up = evaluateReview(base({ step: 0, ease: EASE_MAX }), 'facil', TODAY, NO_FUZZ);
+      expect(up.ease).toBe(EASE_MAX);
+    });
+
+    it('Fácil aumenta a facilidade e o intervalo da revisão seguinte', () => {
+      const easy = evaluateReview(base({ step: 2 }), 'facil', TODAY, NO_FUZZ);
+      expect(easy.ease).toBe(2.65);
+
+      const nextBom = previewReview({ ...easy, step: easy.step }, '2026-11-21', NO_FUZZ).bom;
+      // Passo 4: 60 * 2.65 / 2.5 = 63.6 -> 64
+      expect(nextBom.intervalDays).toBe(64);
+    });
+
+    it('Conta erros, marca leech após 4 e mantém a marca', () => {
+      let review = base({ step: 2 });
+      for (let i = 0; i < 4; i++) {
+        review = evaluateReview(review, 'errei', TODAY, NO_FUZZ);
+      }
+      expect(review.lapses).toBe(4);
+      expect(review.leeched).toBe(true);
+      expect(review.step).toBe(0);
+
+      const afterBom = evaluateReview(review, 'bom', TODAY, NO_FUZZ);
+      expect(afterBom.lapses).toBe(4);
+      expect(afterBom.leeched).toBe(true);
+    });
+
+    it('Difícil não conta como erro e não cria leech', () => {
+      const review = evaluateReview(base({ lapses: 0 }), 'dificil', TODAY, NO_FUZZ);
+      expect(review.lapses).toBe(0);
+      expect(review.leeched).toBe(false);
+    });
+
+    it('Deriva erros do histórico em dados antigos (sem o campo lapses)', () => {
+      const antiga = base({
+        history: [
+          { date: '2026-01-01', rating: 'errei' },
+          { date: '2026-01-10', rating: 'bom' },
+          { date: '2026-02-01', rating: 'errei' },
+          { date: '2026-03-01', rating: 'errei' },
+          { date: '2026-04-01', rating: 'errei' },
+        ],
+      });
+      expect(antiga.lapses).toBeUndefined();
+      expect(isLeeched(antiga)).toBe(true);
+    });
+
+    it('Passo inválido (fora de 0–4 ou NaN) não gera data inválida', () => {
+      const casos: { step: number; nextStep: number; dueDate: string }[] = [
+        { step: 99, nextStep: 4, dueDate: '2026-12-21' },
+        { step: -3, nextStep: 1, dueDate: '2026-10-29' },
+        { step: Number.NaN, nextStep: 1, dueDate: '2026-10-29' },
+      ];
+
+      for (const caso of casos) {
+        const result = evaluateReview(base({ step: caso.step }), 'bom', TODAY, NO_FUZZ);
+        expect(result.step).toBe(caso.nextStep);
+        expect(result.dueDate).toBe(caso.dueDate);
+        expect(result.dueDate).not.toContain('NaN');
+      }
+    });
+
+    it('A variação de ±5% é determinística e fica dentro do limite', () => {
+      const review = base({ step: 4 });
+      const first = previewReview(review, TODAY).bom;
+      const second = previewReview(review, TODAY).bom;
+
+      expect(first.dueDate).toBe(second.dueDate);
+      expect(first.intervalDays).toBeGreaterThanOrEqual(57);
+      expect(first.intervalDays).toBeLessThanOrEqual(63);
+    });
+
+    it('Prévia e avaliação devolvem a mesma data para as 4 notas', () => {
+      const review = base({ step: 2 });
+      const preview = previewReview(review, TODAY);
+
+      for (const rating of REVIEW_RATINGS) {
+        const result = evaluateReview(review, rating, TODAY);
+        expect(result.dueDate).toBe(preview[rating].dueDate);
+        expect(result.step).toBe(preview[rating].nextStep);
+        expect(result.ease).toBe(preview[rating].easeAfter);
+      }
     });
   });
 });

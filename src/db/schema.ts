@@ -47,6 +47,12 @@ export interface LessonReview {
   mastered: boolean;
   history: ReviewHistoryItem[];
   updatedAt?: number;
+  /** Fator de facilidade. Opcional: dados antigos assumem 2.5. */
+  ease?: number;
+  /** Erros acumulados ("Errei"). Opcional: dados antigos derivam do histórico. */
+  lapses?: number;
+  /** Marcada como ponto fraco após 4 erros. Opcional por compatibilidade. */
+  leeched?: boolean;
 }
 
 export interface QuestionLog {

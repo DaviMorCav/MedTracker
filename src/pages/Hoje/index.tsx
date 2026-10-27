@@ -18,8 +18,6 @@ import {
   setLessonMastered,
 } from '../../db/operations';
 import { ReviewModal } from '../../components/ReviewModal';
-import { ReviewQuestionsModal } from '../../components/ReviewQuestionsModal';
-import { useLessonQuestionsAvailability } from '../../components/useLessonQuestionsAvailability';
 import { PostLessonQuestionsModal } from '../../components/PostLessonQuestionsModal';
 import type {
   LessonReview,
@@ -69,7 +67,6 @@ export const HojePage: React.FC = () => {
 
   // States para modais
   const [activeReview, setActiveReview] = useState<LessonReview | null>(null);
-  const [questionsReview, setQuestionsReview] = useState<LessonReview | null>(null);
   const [activeQuestionsLessonId, setActiveQuestionsLessonId] = useState<string | null>(null);
 
   // Maps
@@ -116,13 +113,6 @@ export const HojePage: React.FC = () => {
       dailyReviewCap: settings?.dailyReviewCap || 20,
     });
   }, [reviewsList, today, settings?.dailyReviewCap]);
-
-  // Se a aula tem questões no banco (checagem barata pelo index.json)
-  const reviewLessonIds = useMemo(
-    () => todayReviewsData.queue.map((r) => r.lessonId),
-    [todayReviewsData.queue]
-  );
-  const questionAvailability = useLessonQuestionsAvailability(reviewLessonIds);
 
   // Seção 3: Questões pendentes
   const pendingQuestions = useMemo(() => {
@@ -334,21 +324,12 @@ export const HojePage: React.FC = () => {
             {todayReviewsData.queue.map((review) => {
               const lesson = lessonById.get(review.lessonId);
               const isOverdue = review.dueDate < today;
-              const availability = questionAvailability[review.lessonId] ?? 'checking';
-              const questionsDisabled =
-                availability === 'checking' || availability === 'no';
-              const questionsTitle =
-                availability === 'no'
-                  ? 'Sem questões desta aula no banco'
-                  : availability === 'checking'
-                  ? 'Verificando questões…'
-                  : 'Responder questões desta aula antes de avaliar';
 
               return (
                 <div
                   key={review.lessonId}
                   onClick={() => setActiveReview(review)}
-                  className="p-3.5 hover:bg-slate-800/60 cursor-pointer transition-colors group select-none"
+                  className="p-3.5 flex items-center justify-between gap-3 hover:bg-slate-800/60 cursor-pointer transition-colors group select-none"
                 >
                   <div className="min-w-0">
                     <div className="flex items-center gap-2 mb-1 flex-wrap">
@@ -375,27 +356,13 @@ export const HojePage: React.FC = () => {
                     </p>
                   </div>
 
-                  <div
-                    className="mt-2.5 grid grid-cols-2 gap-2"
-                    onClick={(e) => e.stopPropagation()}
+                  <button
+                    type="button"
+                    onClick={() => setActiveReview(review)}
+                    className="py-1.5 px-3 rounded-lg bg-indigo-600 group-hover:bg-indigo-500 text-white text-xs font-semibold shrink-0 transition-colors shadow-sm"
                   >
-                    <button
-                      type="button"
-                      onClick={() => setActiveReview(review)}
-                      className="py-1.5 px-2.5 rounded-lg bg-indigo-600 hover:bg-indigo-500 text-white text-[11px] sm:text-xs font-semibold transition-colors shadow-sm"
-                    >
-                      Revisar
-                    </button>
-                    <button
-                      type="button"
-                      disabled={questionsDisabled}
-                      title={questionsTitle}
-                      onClick={() => setQuestionsReview(review)}
-                      className="py-1.5 px-2.5 rounded-lg border border-slate-700 bg-slate-950/60 text-slate-200 hover:bg-slate-800 disabled:opacity-40 disabled:cursor-not-allowed disabled:hover:bg-slate-950/60 text-[11px] sm:text-xs font-semibold transition-colors"
-                    >
-                      Revisar com questões
-                    </button>
-                  </div>
+                    Revisar
+                  </button>
                 </div>
               );
             })}
@@ -600,32 +567,8 @@ export const HojePage: React.FC = () => {
           onClose={() => setActiveReview(null)}
           onEvaluate={handleEvaluateReview}
           onToggleMastered={handleToggleMastered}
-          onReviewWithQuestions={() => {
-            setQuestionsReview(activeReview);
-            setActiveReview(null);
-          }}
-          canReviewWithQuestions={
-            questionAvailability[activeReview.lessonId] !== 'no' &&
-            questionAvailability[activeReview.lessonId] !== 'checking'
-          }
         />
       )}
-
-      {/* Sessão de questões antes de avaliar a revisão */}
-      {questionsReview && (() => {
-        const lesson = lessonById.get(questionsReview.lessonId);
-        if (!lesson) return null;
-
-        return (
-          <ReviewQuestionsModal
-            isOpen={true}
-            lesson={lesson}
-            review={questionsReview}
-            onClose={() => setQuestionsReview(null)}
-            onEvaluate={handleEvaluateReview}
-          />
-        );
-      })()}
 
       {/* Modal Tela Cheia de Registro de Questões */}
       {activeQuestionsLessonId && (() => {

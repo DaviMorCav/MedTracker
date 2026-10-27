@@ -18,6 +18,8 @@ interface PostLessonQuestionsModalProps {
     subjectName?: string;
     volumeName?: string;
   };
+  /** Aba inicial: praticar no app ou registrar questões externas. */
+  initialMode?: 'app' | 'manual';
 }
 
 type ModalMode = 'app' | 'manual';
@@ -36,6 +38,7 @@ export const PostLessonQuestionsModal: React.FC<PostLessonQuestionsModalProps> =
   onClose,
   onSave,
   lesson,
+  initialMode = 'app',
 }) => {
   // Modo ativo: 'app' (resolver no MedTracker) ou 'manual' (registro de feitas/acertos)
   const [mode, setMode] = useState<ModalMode>('app');
@@ -52,7 +55,7 @@ export const PostLessonQuestionsModal: React.FC<PostLessonQuestionsModalProps> =
 
   useEffect(() => {
     if (isOpen) {
-      setMode('app');
+      setMode(initialMode);
       setQuestionCount(10);
       setFiz(10);
       setAcertei(10);
@@ -60,7 +63,7 @@ export const PostLessonQuestionsModal: React.FC<PostLessonQuestionsModalProps> =
       setSaving(false);
       setPhase({ name: 'form' });
     }
-  }, [isOpen, lesson.id]);
+  }, [isOpen, lesson.id, initialMode]);
 
   if (!isOpen) return null;
 

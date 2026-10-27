@@ -250,25 +250,6 @@ export function findLessonQuestions(
   };
 }
 
-/**
- * Checagem barata (só com o index.json) de que a aula tem tema correspondente no banco.
- * Não baixa o JSON da matéria. Pode dar falso negativo quando a aula só casaria pela
- * busca textual; nesse caso o fluxo completo (`loadLessonQuestions`) ainda decide ao clicar.
- */
-export function hasQuestionTheme(
-  index: BankIndex,
-  lesson: { title: string; subjectId: string; subjectName: string }
-): boolean {
-  const subject = findBankSubject(index, lesson.subjectId, lesson.subjectName);
-  if (!subject) return false;
-
-  const temas = matchTemas(lesson.title, subject.temas);
-  if (temas.length === 0) return false;
-
-  const wanted = new Set(temas);
-  return subject.temas.some((t) => wanted.has(t.nome) && t.total > 0);
-}
-
 // ─── Montagem da sessão ─────────────────────────────────────────────────────
 
 /**

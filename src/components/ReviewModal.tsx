@@ -1,8 +1,16 @@
 import React, { useEffect } from 'react';
 import type { LessonReview, ReviewRating } from '../db/schema';
 import { lessonById } from '../data/curriculum';
-import { LADDER, evaluateReview } from '../core/srs';
-import { addDays, formatDateBr } from '../core/dates';
+import {
+  LADDER,
+  clampStep,
+  evaluateReview,
+  isLeeched,
+  previewReview,
+  reviewEase,
+  reviewLapses,
+} from '../core/srs';
+import { formatDateBr } from '../core/dates';
 
 interface ReviewModalProps {
   review: LessonReview | null;
@@ -11,6 +19,10 @@ interface ReviewModalProps {
   onEvaluate: (evaluatedReview: LessonReview) => Promise<void> | void;
   onToggleMastered?: (lessonId: string, mastered: boolean) => Promise<void> | void;
   today: string;
+  /** Abre a sessão de questões desta aula (quando o pai suporta). */
+  onReviewWithQuestions?: () => void;
+  /** Falso quando a aula não tem questões no banco. */
+  canReviewWithQuestions?: boolean;
 }
 
 export const ReviewModal: React.FC<ReviewModalProps> = ({
@@ -20,6 +32,8 @@ export const ReviewModal: React.FC<ReviewModalProps> = ({
   onEvaluate,
   onToggleMastered,
   today,
+  onReviewWithQuestions,
+  canReviewWithQuestions = true,
 }) => {
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
@@ -52,33 +66,13 @@ export const ReviewModal: React.FC<ReviewModalProps> = ({
   if (!isOpen || !review) return null;
 
   const lesson = lessonById.get(review.lessonId);
-  const currentStep = review.step;
+  const currentStep = clampStep(review.step);
+  const ease = reviewEase(review);
+  const lapses = reviewLapses(review);
+  const leeched = isLeeched(review);
 
-  // Calcula para cada nota o próximo vencimento previsto (PRD seções 3 e 7)
-  const previews: Record<ReviewRating, { nextStep: number; days: number; dueDate: string; label: string }> = {
-    errei: (() => {
-      const days = 1;
-      const dueDate = addDays(today, days);
-      return { nextStep: 0, days, dueDate, label: '1 dia' };
-    })(),
-    dificil: (() => {
-      const days = Math.max(1, Math.floor(LADDER[currentStep] / 2));
-      const dueDate = addDays(today, days);
-      return { nextStep: currentStep, days, dueDate, label: `${days}d` };
-    })(),
-    bom: (() => {
-      const nextStep = Math.min(currentStep + 1, 4);
-      const days = LADDER[nextStep];
-      const dueDate = addDays(today, days);
-      return { nextStep, days, dueDate, label: `${days}d` };
-    })(),
-    facil: (() => {
-      const nextStep = Math.min(currentStep + 2, 4);
-      const days = LADDER[nextStep];
-      const dueDate = addDays(today, days);
-      return { nextStep, days, dueDate, label: `${days}d` };
-    })(),
-  };
+  // Mesma conta usada ao salvar: a data mostrada é exatamente a data gravada.
+  const previews = previewReview(review, today);
 
   const handleSelectRating = async (rating: ReviewRating) => {
     const updated = evaluateReview(review, rating, today);
@@ -94,17 +88,25 @@ export const ReviewModal: React.FC<ReviewModalProps> = ({
         aria-hidden="true"
       />
 
-      <div className="relative w-full max-w-md bg-slate-900 border border-slate-800 rounded-2xl p-5 shadow-2xl z-10 space-y-5">
+      <div className="relative w-full max-w-md bg-slate-900 border border-slate-800 rounded-2xl p-5 shadow-2xl z-10 space-y-5 max-h-[92vh] overflow-y-auto">
         {/* Cabeçalho */}
         <div className="flex items-start justify-between gap-3">
           <div>
-            <div className="flex items-center gap-2 mb-1">
+            <div className="flex items-center gap-2 mb-1 flex-wrap">
               <span className="text-xs font-semibold px-2 py-0.5 rounded-full bg-indigo-950 text-indigo-300 border border-indigo-800">
                 Passo {currentStep} de 4
               </span>
               <span className="text-xs text-slate-400">
-                Intervalo atual: {LADDER[currentStep]}d
+                Intervalo base: {LADDER[currentStep]}d
               </span>
+              {ease !== 2.5 && (
+                <span
+                  className="text-xs text-slate-400"
+                  title="Fator de facilidade desta revisão"
+                >
+                  Facilidade {ease.toFixed(2)}
+                </span>
+              )}
             </div>
             <h2 className="text-base sm:text-lg font-bold text-slate-100 leading-snug">
               {lesson?.title || review.lessonId}
@@ -112,6 +114,12 @@ export const ReviewModal: React.FC<ReviewModalProps> = ({
             {lesson && (
               <p className="text-xs text-slate-400 mt-0.5">
                 {lesson.subjectName} • {lesson.volumeName}
+              </p>
+            )}
+            {leeched && (
+              <p className="text-[11px] font-semibold text-amber-400 mt-1.5">
+                Ponto fraco: {lapses} erro{lapses > 1 ? 's' : ''}. Considere rever a aula ou
+                fazer questões.
               </p>
             )}
           </div>
@@ -149,7 +157,7 @@ export const ReviewModal: React.FC<ReviewModalProps> = ({
               Reinicia (Passo 0)
             </span>
             <span className="block text-xs font-semibold text-rose-400 mt-0.5">
-              {formatDateBr(previews.errei.dueDate)} ({previews.errei.label})
+              {formatDateBr(previews.errei.dueDate)} ({previews.errei.intervalDays}d)
             </span>
           </button>
 
@@ -166,7 +174,7 @@ export const ReviewModal: React.FC<ReviewModalProps> = ({
               Repete (Passo {previews.dificil.nextStep})
             </span>
             <span className="block text-xs font-semibold text-amber-400 mt-0.5">
-              {formatDateBr(previews.dificil.dueDate)} ({previews.dificil.label})
+              {formatDateBr(previews.dificil.dueDate)} ({previews.dificil.intervalDays}d)
             </span>
           </button>
 
@@ -183,7 +191,7 @@ export const ReviewModal: React.FC<ReviewModalProps> = ({
               Avança (Passo {previews.bom.nextStep})
             </span>
             <span className="block text-xs font-semibold text-blue-400 mt-0.5">
-              {formatDateBr(previews.bom.dueDate)} ({previews.bom.label})
+              {formatDateBr(previews.bom.dueDate)} ({previews.bom.intervalDays}d)
             </span>
           </button>
 
@@ -200,10 +208,34 @@ export const ReviewModal: React.FC<ReviewModalProps> = ({
               Avança 2 (Passo {previews.facil.nextStep})
             </span>
             <span className="block text-xs font-semibold text-emerald-400 mt-0.5">
-              {formatDateBr(previews.facil.dueDate)} ({previews.facil.label})
+              {formatDateBr(previews.facil.dueDate)} ({previews.facil.intervalDays}d)
             </span>
           </button>
         </div>
+
+        {/* Revisar com questões */}
+        {onReviewWithQuestions && (
+          <div className="space-y-1">
+            <button
+              type="button"
+              onClick={onReviewWithQuestions}
+              disabled={!canReviewWithQuestions}
+              title={
+                canReviewWithQuestions
+                  ? 'Responder questões desta aula antes de avaliar'
+                  : 'Sem questões desta aula no banco'
+              }
+              className="w-full py-2.5 rounded-xl text-xs font-semibold border border-indigo-800/70 bg-indigo-950/40 text-indigo-300 hover:bg-indigo-900/50 disabled:opacity-40 disabled:hover:bg-indigo-950/40 disabled:cursor-not-allowed transition-colors"
+            >
+              Revisar com questões
+            </button>
+            {!canReviewWithQuestions && (
+              <p className="text-[10px] text-slate-500 text-center">
+                Sem questões desta aula no banco.
+              </p>
+            )}
+          </div>
+        )}
 
         {/* Rodapé: Marcar como dominado ou fechar */}
         <div className="pt-2 border-t border-slate-800 flex items-center justify-between text-xs">

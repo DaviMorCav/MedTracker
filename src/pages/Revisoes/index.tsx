@@ -6,6 +6,8 @@ import { getLocalDateString, formatDateBr, addDays } from '../../core/dates';
 import { spreadOverdueReviews } from '../../core/srs';
 import { DEFAULT_SETTINGS, setLessonMastered } from '../../db/operations';
 import { ReviewModal } from '../../components/ReviewModal';
+import { ReviewQuestionsModal } from '../../components/ReviewQuestionsModal';
+import { useLessonQuestionsAvailability } from '../../components/useLessonQuestionsAvailability';
 import { ConfirmModal } from '../../components/ConfirmModal';
 import type { LessonReview, UserSettings } from '../../db/schema';
 
@@ -33,6 +35,7 @@ export const RevisoesPage: React.FC = () => {
   // States
   const [activeView, setActiveView] = useState<ReviewView>('hoje');
   const [activeReview, setActiveReview] = useState<LessonReview | null>(null);
+  const [questionsReview, setQuestionsReview] = useState<LessonReview | null>(null);
   const [showSpreadConfirm, setShowSpreadConfirm] = useState(false);
   const [spreadSuccessMessage, setSpreadSuccessMessage] = useState<string | null>(null);
 
@@ -84,6 +87,13 @@ export const RevisoesPage: React.FC = () => {
         return proximos30Reviews;
     }
   }, [activeView, hojeReviews, atrasadasReviews, proximos7Reviews, proximos30Reviews]);
+
+  // Se a aula tem questões no banco (checagem barata pelo index.json)
+  const reviewLessonIds = useMemo(
+    () => currentViewList.map((r) => r.lessonId),
+    [currentViewList]
+  );
+  const questionAvailability = useLessonQuestionsAvailability(reviewLessonIds);
 
   // Handler de avaliação
   const handleEvaluateReview = async (updatedReview: LessonReview) => {
@@ -242,47 +252,56 @@ export const RevisoesPage: React.FC = () => {
               const lesson = lessonById.get(review.lessonId);
               const isOverdue = review.dueDate < today;
               const isToday = review.dueDate === today;
+              const availability = questionAvailability[review.lessonId] ?? 'checking';
+              const questionsDisabled =
+                availability === 'checking' || availability === 'no';
+              const questionsTitle =
+                availability === 'no'
+                  ? 'Sem questões desta aula no banco'
+                  : availability === 'checking'
+                  ? 'Verificando questões…'
+                  : 'Responder questões desta aula antes de avaliar';
 
               return (
                 <div
                   key={review.lessonId}
                   onClick={() => setActiveReview(review)}
-                  className="p-3.5 flex items-center justify-between gap-3 hover:bg-slate-850/60 cursor-pointer transition-colors group select-none"
+                  className="p-3.5 hover:bg-slate-850/60 cursor-pointer transition-colors group select-none"
                 >
-                  <div className="min-w-0">
-                    <div className="flex items-center gap-2 mb-1 flex-wrap">
-                      {lesson && (
-                        <span className="text-[10px] font-semibold px-2 py-0.2 rounded-full bg-slate-800 text-slate-300">
-                          {lesson.subjectName}
+                  <div className="flex items-start justify-between gap-3">
+                    <div className="min-w-0">
+                      <div className="flex items-center gap-2 mb-1 flex-wrap">
+                        {lesson && (
+                          <span className="text-[10px] font-semibold px-2 py-0.2 rounded-full bg-slate-800 text-slate-300">
+                            {lesson.subjectName}
+                          </span>
+                        )}
+                        <span className="text-[10px] font-semibold px-1.5 py-0.2 rounded bg-indigo-950 text-indigo-300 border border-indigo-800">
+                          Passo {review.step}/4
                         </span>
-                      )}
-                      <span className="text-[10px] font-semibold px-1.5 py-0.2 rounded bg-indigo-950 text-indigo-300 border border-indigo-800">
-                        Passo {review.step}/4
-                      </span>
-                      {isOverdue && (
-                        <span className="text-[10px] font-bold px-1.5 py-0.2 rounded bg-rose-950 text-rose-300 border border-rose-800">
-                          Atrasada
-                        </span>
-                      )}
-                      {isToday && (
-                        <span className="text-[10px] font-medium px-1.5 py-0.2 rounded bg-emerald-950 text-emerald-300 border border-emerald-800">
-                          Hoje
-                        </span>
+                        {isOverdue && (
+                          <span className="text-[10px] font-bold px-1.5 py-0.2 rounded bg-rose-950 text-rose-300 border border-rose-800">
+                            Atrasada
+                          </span>
+                        )}
+                        {isToday && (
+                          <span className="text-[10px] font-medium px-1.5 py-0.2 rounded bg-emerald-950 text-emerald-300 border border-emerald-800">
+                            Hoje
+                          </span>
+                        )}
+                      </div>
+
+                      <h3 className="text-xs font-bold text-slate-200 group-hover:text-slate-50 truncate">
+                        {lesson?.title || review.lessonId}
+                      </h3>
+                      {lesson?.volumeName && (
+                        <p className="text-[11px] text-slate-400 truncate mt-0.5">
+                          {lesson.volumeName}
+                        </p>
                       )}
                     </div>
 
-                    <h3 className="text-xs font-bold text-slate-200 group-hover:text-slate-50 truncate">
-                      {lesson?.title || review.lessonId}
-                    </h3>
-                    {lesson?.volumeName && (
-                      <p className="text-[11px] text-slate-400 truncate mt-0.5">
-                        {lesson.volumeName}
-                      </p>
-                    )}
-                  </div>
-
-                  <div className="flex items-center gap-3 shrink-0">
-                    <div className="text-right">
+                    <div className="text-right shrink-0">
                       <span className="block text-xs font-bold text-slate-200">
                         {formatDateBr(review.dueDate)}
                       </span>
@@ -290,12 +309,27 @@ export const RevisoesPage: React.FC = () => {
                         Prevista
                       </span>
                     </div>
+                  </div>
 
+                  <div
+                    className="mt-2.5 grid grid-cols-2 gap-2"
+                    onClick={(e) => e.stopPropagation()}
+                  >
                     <button
                       type="button"
-                      className="py-1.5 px-3 bg-indigo-600 group-hover:bg-indigo-500 text-white rounded-lg text-xs font-semibold transition-colors shadow-sm"
+                      onClick={() => setActiveReview(review)}
+                      className="py-1.5 px-2.5 bg-indigo-600 hover:bg-indigo-500 text-white rounded-lg text-[11px] sm:text-xs font-semibold transition-colors shadow-sm"
                     >
                       Avaliar
+                    </button>
+                    <button
+                      type="button"
+                      disabled={questionsDisabled}
+                      title={questionsTitle}
+                      onClick={() => setQuestionsReview(review)}
+                      className="py-1.5 px-2.5 rounded-lg border border-slate-700 bg-slate-950/60 text-slate-200 hover:bg-slate-800 disabled:opacity-40 disabled:cursor-not-allowed disabled:hover:bg-slate-950/60 text-[11px] sm:text-xs font-semibold transition-colors"
+                    >
+                      Revisar com questões
                     </button>
                   </div>
                 </div>
@@ -325,8 +359,32 @@ export const RevisoesPage: React.FC = () => {
           onClose={() => setActiveReview(null)}
           onEvaluate={handleEvaluateReview}
           onToggleMastered={handleToggleMastered}
+          onReviewWithQuestions={() => {
+            setQuestionsReview(activeReview);
+            setActiveReview(null);
+          }}
+          canReviewWithQuestions={
+            questionAvailability[activeReview.lessonId] !== 'no' &&
+            questionAvailability[activeReview.lessonId] !== 'checking'
+          }
         />
       )}
+
+      {/* Sessão de questões antes de avaliar a revisão */}
+      {questionsReview && (() => {
+        const lesson = lessonById.get(questionsReview.lessonId);
+        if (!lesson) return null;
+
+        return (
+          <ReviewQuestionsModal
+            isOpen={true}
+            lesson={lesson}
+            review={questionsReview}
+            onClose={() => setQuestionsReview(null)}
+            onEvaluate={handleEvaluateReview}
+          />
+        );
+      })()}
 
       {/* Confirmação para Espalhar Atrasadas */}
       <ConfirmModal

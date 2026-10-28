@@ -53,6 +53,13 @@ export const PostLessonQuestionsModal: React.FC<PostLessonQuestionsModalProps> =
   // Fase do runner interno
   const [phase, setPhase] = useState<InnerPhase>({ name: 'form' });
 
+  // Quantas questões o banco tem para o assunto desta aula
+  const [bankCount, setBankCount] = useState<number | null>(null);
+  const [bankCountError, setBankCountError] = useState<string | null>(null);
+
+  const subjectId = lesson.id.split('-')[0];
+  const subjectName = lesson.subjectName ?? subjectId;
+
   useEffect(() => {
     if (isOpen) {
       setMode(initialMode);
@@ -62,8 +69,38 @@ export const PostLessonQuestionsModal: React.FC<PostLessonQuestionsModalProps> =
       setNote('');
       setSaving(false);
       setPhase({ name: 'form' });
+      setBankCount(null);
+      setBankCountError(null);
     }
   }, [isOpen, lesson.id, initialMode]);
+
+  useEffect(() => {
+    if (!isOpen || mode !== 'app') return;
+    let cancelled = false;
+    setBankCount(null);
+    setBankCountError(null);
+
+    loadLessonQuestions({ id: lesson.id, title: lesson.title, subjectId, subjectName })
+      .then((result) => {
+        if (cancelled) return;
+        if (result.status === 'sem-materia') {
+          setBankCountError(`Matéria "${subjectName}" não encontrada no banco de questões.`);
+          return;
+        }
+        setBankCount(result.match.questions.length);
+      })
+      .catch((e) => {
+        if (!cancelled) {
+          setBankCountError(
+            e instanceof Error ? e.message : 'Falha ao consultar o banco de questões.'
+          );
+        }
+      });
+
+    return () => {
+      cancelled = true;
+    };
+  }, [isOpen, mode, lesson.id, lesson.title, subjectId, subjectName]);
 
   if (!isOpen) return null;
 
@@ -96,9 +133,6 @@ export const PostLessonQuestionsModal: React.FC<PostLessonQuestionsModalProps> =
       setSaving(false);
     }
   };
-
-  const subjectId = lesson.id.split('-')[0];
-  const subjectName = lesson.subjectName ?? subjectId;
 
   // ── Iniciar sessão de questões do app ─────────────────────────────────────
   const handleStartRunner = async () => {
@@ -288,6 +322,19 @@ export const PostLessonQuestionsModal: React.FC<PostLessonQuestionsModalProps> =
           {/* ── MODO APP: Resolver questões do banco ── */}
           {mode === 'app' && (
             <div className="space-y-4 pt-1">
+              <div className="px-0.5">
+                {bankCount !== null ? (
+                  <p className="text-[11px] text-slate-400">
+                    <span className="font-bold text-slate-200">{bankCount}</span> questões no banco
+                    para esta aula
+                  </p>
+                ) : bankCountError ? (
+                  <p className="text-[11px] text-rose-400 leading-relaxed">{bankCountError}</p>
+                ) : (
+                  <p className="text-[11px] text-slate-500">Procurando questões no banco…</p>
+                )}
+              </div>
+
               {phase.name === 'loading' ? (
                 <div className="py-8 text-center text-xs text-slate-400">
                   Carregando questões do assunto…
